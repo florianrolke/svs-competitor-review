@@ -7,8 +7,8 @@ politeness, no praise sandwiches. Judge ONLY what is on the pages.
 
 1. Pick the first slug in `batch-order.md` with no `verdicts/<slug>.json` yet.
 2. Read `pages/<slug>.md`. The query you are judging is its frontmatter `primaryQuestion`.
-   Open `preview/<slug>.html` too — that is what a reader actually sees, including the
-   above-the-fold block.
+   Open `preview/patterns/<slug>/index.html` too — that is what a reader actually sees,
+   including the above-the-fold block.
 3. Search the web for that query. Take the top 2 organic results that are actual articles —
    skip Reddit, YouTube, forums, dictionaries, and pure product pages. Fetch and read both.
 4. Produce the JSON below. Write it to `verdicts/<slug>.json` and commit with message

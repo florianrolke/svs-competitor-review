@@ -9,7 +9,7 @@ answers, per page, is: **what do the pages currently outranking us do that we do
 | Path | What |
 |---|---|
 | `pages/<slug>.md` | The live page markdown, frontmatter included (`primaryQuestion` is the query to judge) |
-| `preview/<slug>.html` | The rendered page as a reader sees it — judge the above-the-fold from here |
+| `preview/patterns/<slug>/index.html` | The rendered page as a reader sees it — judge the above-the-fold from here |
 | `INSTRUCTIONS.md` | The judging procedure and the exact JSON your run must produce |
 | `batch-order.md` | Pages ranked by search volume — work top-down, traffic first |
 | `verdicts/<slug>.json` | Your output, one file per page |
