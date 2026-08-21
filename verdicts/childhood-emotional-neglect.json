@@ -1,0 +1,27 @@
+{
+  "slug": "childhood-emotional-neglect",
+  "query": "What is childhood emotional neglect?",
+  "competitors": ["https://www.medicalnewstoday.com/articles/childhood-emotional-neglect", "https://drjonicewebb.com/about-emotional-neglect/"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Medical News Today delivers the full clinical template (examples, signs in children and adults, effects, healing, PsyD review) and Dr. Jonice Webb's page carries the unmatched authority of the therapist who coined Childhood Emotional Neglect, including the invisibility insight that absence leaves nothing to remember. Ours matches the definitional ground and goes further into the adult experience: the childhood described as fine, the reflexive distrust of every reaction, and why love arriving now does not close the gap, with 34 verbatim FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explains why there is no incident to point at and why that absence makes adults distrust every reaction they have",
+    "Explains why love arriving now does not close the gap, which neither competitor addresses",
+    "Covers the am-I-just-being-dramatic doubt directly, the most common silent objection for this query",
+    "Separates emotional neglect from emotional abuse and from emotional invalidation as distinct FAQ differentials",
+    "34 verbatim FAQs including loving-parents-who-still-caused-it, remembering very little of childhood, and short-text-reply hypervigilance"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer defines it as a chronic failure of noticing in a home where nothing dramatic happened, then recognition sentences; the nothing-to-report scene lands next.",
+    "theirs": "Dr. Webb opens with real patient quotes and the failure-to-act definition from the term's originator; short, but the authority is immediate.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What does emotional neglect look like in a child while it is still happening?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Dr. Webb literally coined the term and has the books to show for it; Medical News Today shows a named PsyD medical reviewer; ours names no one and cites nothing, including no mention of Webb or the CEN literature.",
+  "one_change_with_most_traffic_impact": "Credit Jonice Webb and the CEN literature by name in the origins or further-reading area; the originator's own site ranks fifth, and engaging her framework is both a trust signal and a link opportunity ours currently ignores."
+}
