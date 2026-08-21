@@ -1,0 +1,35 @@
+{
+  "slug": "where-insecurities-come-from",
+  "query": "Where do insecurities actually come from?",
+  "competitors": ["https://www.verywellmind.com/insecurity-signs-causes-and-coping-strategies-8641189", "https://empathi.com/blog/why-am-i-so-insecure/"],
+  "serp_quality": "weak: the top organic slots are dominated by academic journals and PMC papers (Taylor and Francis, MDPI, SSRN, Frontiers, Cambridge), leaving only two genuinely article-shaped consumer pages and one dead JS-only counselling page.",
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Ours answers the literal query far more completely by naming ten distinct formative environments, the specific prediction each installs, and the different adult each produces, where Verywell is a generic signs-causes-coping explainer that gives origin roughly one bullet list and empathi collapses all insecurity into two wounds. The second organic result (masterscounselling.com) returned only a page title with no body when fetched, so empathi was substituted as the second competitor and it remains genuinely competitive on therapist authority and nervous-system framing.",
+  "what_the_winner_does_that_we_dont": [
+    "Attribute the core claims to a named, credentialed clinician quoted throughout (Aimee Daramus, PsyD, Clarity Clinic) and to the American Psychological Association definition, giving external authority ours attributes to no named expert (Verywell)",
+    "Carry a visible peer-reviewed source list at the foot (APA plus roughly ten cited journal studies with DOIs) so the causal claims read as sourced rather than asserted (Verywell)",
+    "Offer a therapist-voiced reframe that insecurity is a nervous-system threat-detection response rather than a character flaw, which lands as reassurance for the searcher blaming themselves (empathi)",
+    "Give a compact identify-your-own-insecurity self-audit method (watch the inner critic, note emotional reactions, note physical signs, analyze avoidance behavior, keep a trigger journal) as a short standalone checklist a reader can run in one sitting (Verywell)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Provide a four-column table mapping ten formative environments to the day-to-day condition, the exact prediction installed, and the adult behavior, so a searcher can locate their own origin rather than read one generic upbringing bullet",
+    "Explain why evidence never touches the insecurity (competence answers a different question than the forecast) and why it feels groundless (formed in an environment not an event, arrives before observation, and nobody announced the environment ended)",
+    "Show that opposite environments (constant criticism vs no guidance at all) install predictions that feel identical but need opposite advice, and that standard confidence advice is written for only one profile",
+    "Front-load an explicit safety carve-out (months-long hopelessness, active addiction, abuse or violence, any self-harm thought, coercive-control dynamics) directing to a doctor, crisis line, or in-person professional",
+    "Supply verbatim internal sentences grouped by cluster ('If I ask this question, they will think I am slow', the self-reliance cluster) for identification by a reader's own phrasing"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query verbatim, a boxed short answer states insecurities come from environments that taught a prediction which outlived the environment, then an identify-box of five verbatim first-person lines, a seminar link, and the sorry-in-the-meeting plus reread-message scene; it strongly earns the scroll by pairing self-recognition with a concrete origin thesis.",
+    "theirs": "Verywell opens with a definition (APA plus a named PsyD saying insecurity is a belief you are a failure) and a signs-and-symptoms list; competent and authoritative but it leads with what insecurity is and looks like rather than where it comes from, so it does not directly hook the query.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the signs and symptoms of insecurity?",
+    "How do I identify my own personal insecurities?",
+    "How do I overcome insecurity day to day?"
+  ],
+  "intent_mismatch": "The query 'Where do insecurities actually come from' with the intensifier 'actually' is phrased emotionally, from a searcher who suspects their felt origin story is wrong; ours answers in that emotional-but-precise register at the fold (the sorry-before-the-question scene and verbatim internal lines), Verywell answers in a flatter clinical signs-and-definitions register that does not meet the 'actually' framing, and empathi matches the emotional register best of the competitors with its nervous-system reassurance.",
+  "trust_signals": "Verywell carries the strongest provenance with a named PsyD quoted throughout, the APA definition, and a DOI-backed peer-reviewed source list, empathi carries first-person therapist authority, and ours is more specific and rigorous on mechanism but cites no named expert or study.",
+  "one_change_with_most_traffic_impact": "Add one or two named clinical or research references near the table and short answer (attachment and core-belief work, plus a named clinician) so the page captures the authority and sourced-cause intent Verywell ranks on without weakening our stronger environment-to-prediction mapping."
+}
