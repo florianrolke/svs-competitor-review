@@ -1,0 +1,38 @@
+{
+  "slug": "victim-mentality",
+  "query": "What is a victim mentality, and how do you get out of it?",
+  "competitors": [
+    "https://www.healthline.com/health/victim-mentality",
+    "https://www.webmd.com/mental-health/what-is-a-victim-mentality"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Our page goes far deeper than either competitor on the actual mechanism a searcher wants moved, covering fault versus responsibility, what the story pays, why standard advice backfires, and an ordered do-this sequence, where Healthline and WebMD stop at signs, causes, and generic tips like take responsibility and see a therapist. Both selected competitors were usable articles fetched in full, so no substitution was needed.",
+  "what_the_winner_does_that_we_dont": [
+    "Surface a visible on-page author byline and reviewer credential at the top of the article the way Healthline shows a named LMFT and a medically-reviewed line; our real author exists only in the JSON-LD schema, not in the reader-visible fold or article head.",
+    "Add a compact, scannable signs checklist near the top formatted as short bullet lines (Healthline's numbered signs, WebMD's 'Signs You Have a Victimhood Mindset' list) so a searcher can self-identify in seconds before committing to long prose.",
+    "Include an explicit standalone section on how to respond to someone else who has a victim mentality (Healthline's 'How should I respond?' with avoid-labeling, set-boundaries, and a 3-step offer-help method); ours only addresses a partner inside the FAQ, not as a scannable body section.",
+    "State the '16 signs' / numbered-count framing in the title and headings so the result advertises concrete coverage scope in the SERP snippet, which both competitors do and ours does not."
+  ],
+  "what_we_do_that_they_dont": [
+    "Separate fault from responsibility as an explicit ordered concept with a comparison table, which neither competitor attempts.",
+    "Name what the pattern pays the person (significance, certainty, connection, explanation, protection) in a costs-versus-payoff table, absent from both.",
+    "Explain why standard advice ('let it go', 'take responsibility', 'focus on the good') backfires, with a per-line table; competitors give the same advice ours warns against.",
+    "Provide a numbered, ordered do-this-in-sequence protocol plus a today action (write the two-column ledger), where competitors offer only unordered generic tips.",
+    "Carve out explicit safety sections for ongoing harm and crisis, and distinguish forgiveness-as-release from forgiveness-as-permission, neither of which either competitor covers.",
+    "Ship 34 on-page FAQs with FAQPage schema covering adjacent queries; competitors have none."
+  ],
+  "above_the_fold": {
+    "ours": "Breadcrumb, H1 matching the query verbatim, a short-answer box that states the fault-versus-responsibility thesis, and an identify-box of four first-person recognition lines with a seminar link; it earns the next scroll by making the reader recognize their own voice rather than reading about someone else.",
+    "theirs": "Healthline leads with a medically-reviewed byline, a one-line promise that it can be overcome with therapy, then the three core beliefs of the mentality as a bullet list; it earns the scroll with instant credential trust and a scannable definition, but is generic in voice.",
+    "gap": "Add a visible author/credential line at the top of our fold (we already hold a real author in schema), so the strongest trust cue the top competitor uses is present before the first scroll."
+  },
+  "questions_they_answer_that_we_dont": [
+    "Where does a victim mentality come from?",
+    "How should I respond to someone with a victim mentality?",
+    "What are the signs you have a victimhood mindset?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Competitors lead with visible named clinicians and a medically-reviewed byline while our real authorship sits only in schema, so on specificity of lived mechanism ours is stronger but on visible provenance the competitors currently read as more authoritative at the fold.",
+  "one_change_with_most_traffic_impact": "Add a scannable signs/self-identification checklist high on the page (before the long prose sections) so the page matches the format searchers expect from the ranking results while keeping our deeper mechanism below it."
+}
