@@ -1,0 +1,34 @@
+{
+  "slug": "why-dont-i-trust-myself",
+  "query": "Why don't I trust my own judgement?",
+  "serp_quality": "strong: the top two organic results are Verywell Mind quoting a named clinical psychologist and a Psychology Today decision-making blog citing published research, both authoritative long-form articles",
+  "competitors": ["https://www.verywellmind.com/i-dont-trust-myself-why-you-feel-this-way-and-what-to-do-5218617", "https://www.psychologytoday.com/us/blog/total-self-trust/202512/why-you-dont-trust-yourself-when-it-matters-most"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Ours answers the exact question with a two-route formation model (a single betrayal that made self-blame more bearable, or years of perceptions overruled rather than disproved) and separates self-trust from low self-worth and from feeling inadequate, then shows what each protective habit buys and charges, which is deeper and more query-specific than either competitor. Verywell Mind and the Psychology Today blog beat us on external authority, one quoting clinical psychologist Sabrina Romanoff across a signs/reasons/effects/rebuilding structure and the other citing named research (Damasio somatic markers, Schwartz on over-deliberation, Bandura on self-efficacy), which ours does not carry.",
+  "what_the_winner_does_that_we_dont": [
+    "Quote a named credentialed clinician throughout and label the sections she owns (clinical psychologist Sabrina Romanoff on signs, reasons, effects and rebuilding) so the explanation carries external authority (Verywell Mind)",
+    "State concrete physical and mental health consequences of chronic self-distrust with citations (elevated anxiety, depression and guilt, sleep disruption from bedtime rumination, stress-linked conditions) to raise the stakes (Verywell Mind)",
+    "Cite named decision-science research to explain the mechanism (regret aversion per Zeelenberg and Pieters, over-deliberation reducing satisfaction per Schwartz, somatic-marker evidence per Damasio, adaptability predicting well-being per Bandura) so claims read as evidence-backed (Psychology Today)",
+    "Give a clean in-the-moment reframe a reader can apply immediately ('What if I trust myself to handle whatever happens next?' in place of 'What if this goes wrong?') (Psychology Today)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Separate self-trust from low self-worth and from feeling inadequate as three distinct questions (do I deserve good things, am I good enough at something, does my own read count as evidence at all) so the reader targets the right repair, a distinction both competitors collapse",
+    "Map two genuinely different formation routes with different traces (a single betrayal where self-blame buys back a feeling of control, versus years of perceptions overruled but never disproved) plus a five-house table including the missed 'too much control' and 'no leadership at all' origins",
+    "Lay out the four things the doubt protects against and a ledger of what each protective habit buys versus charges (checking twice buys fewer surprises but costs decisions that expire; deferring to the confident buys transferred blame but costs a life shaped by others)",
+    "Front an identify-box of verbatim first-person sentences grouped by route ('I'm probably not capable of making the right decision', 'It must have been my fault I was hurt') so the reader locates their own case by wording",
+    "Carry an explicit safety carve-out routing active reality-denial by someone in your life, mood-managing a household, sustained hopelessness, and self-harm to a licensed professional, which neither competitor includes"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query verbatim, a boxed short answer names the two routes and calls the doubt a protection that outlived its cause, an identify-box of four verbatim self-sentences, a seminar link, then the choosing-a-restaurant-and-asking-three-times scene followed by a safety note; it strongly earns the scroll by pairing instant recognition with a mechanism and a duty-of-care flag.",
+    "theirs": "Verywell Mind opens with a Key Takeaways box and a long clinician-attributed 'Signs You Don't Trust Yourself' checklist a reader can self-score against immediately, grounding the piece in named clinical authority above the fold.",
+    "gap": "Add a named clinician or a cited source near the boxed answer so our fold matches the authority signal both ranking competitors lead with, without displacing the recognition scene."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the health effects of not trusting yourself?",
+    "How does having too many choices make it harder to trust my own decisions?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'Why don't I trust my own judgement' is emotional and self-directed rather than clinical, and our fold answers in that register with a plain boxed answer and verbatim self-sentences; Verywell Mind answers one register up, in a clinical signs-reasons-effects frame attributed to a psychologist, and the Psychology Today blog leans neuroscientific with amygdala and prefrontal-cortex language, so ours matches the searcher's emotional register most closely while the competitors answer in a more clinical one.",
+  "trust_signals": "Both competitors cite named authority, one a quoted clinical psychologist and the other four pieces of named published research, giving stronger external provenance, while ours is more specific and mechanism-driven but attributes its claims to no named clinician or study near the answer.",
+  "one_change_with_most_traffic_impact": "Attach one named clinical or research reference to the fold and to the formation and effects sections, matching the authority cue the Verywell Mind and Psychology Today results rank on, while keeping our stronger two-route model and self-trust-versus-worth distinction intact."
+}
