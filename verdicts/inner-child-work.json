@@ -1,0 +1,27 @@
+{
+  "slug": "inner-child-work",
+  "query": "What is inner child work, and does it actually do anything?",
+  "competitors": ["https://www.verywellmind.com/inner-child-work-how-your-past-shapes-your-present-7152929", "https://time.com/6268636/inner-child-work-healing/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Verywell Mind delivers the standard explainer (wounds, triggers, IFS and psychodynamic therapy, reparenting) and TIME reports the trend with expert quotes, but neither interrogates the query's second half: whether it does anything. Ours is built around exactly that skepticism, explaining what is actually being worked on (an automatic read on ambiguous situations), why letters and affirmations bounce, and what retrains the read.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Opens with why the phrase puts skeptical people off, matching the query's second half directly",
+    "Defines the target precisely: an automatic read classifying silence, delay, and flat tone as evidence of being unwanted",
+    "Explains why affirmations, letters, and self-care bounce off, and what the letter does and does not do",
+    "States that contradicting evidence collected in live situations is what retrains the read, not the exercises themselves",
+    "34 verbatim FAQs including whether it is evidence-based, dangerous, or just an internet phrase"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer names the actual target and states plainly that contradicting evidence is what works, then recognition sentences; a skeptic's questions are answered in order.",
+    "theirs": "Verywell Mind opens with a key-takeaways box defining the process and naming therapy types; clear, but it assumes the practice works rather than asking.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "When you get upset in the present, are the feelings all about that day, or related to things from your childhood?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Verywell Mind shows medical review and names therapy modalities; TIME quotes named working therapists; ours names no modalities in the fold and cites no sources.",
+  "one_change_with_most_traffic_impact": "none - ours is the only page one result that answers the skeptical second half of the query; both competitors assume efficacy rather than examine it."
+}
