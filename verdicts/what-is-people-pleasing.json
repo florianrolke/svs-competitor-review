@@ -1,0 +1,36 @@
+{
+  "slug": "what-is-people-pleasing",
+  "query": "What is people pleasing?",
+  "competitors": ["https://www.abc.net.au/news/2022-08-31/people-pleasing-how-it-began-in-childhood-and-grew-in-adults/101371142", "https://www.healthline.com/health/mental-health/7-subtle-signs-your-trauma-response-is-people-pleasing", "https://www.psychologytoday.com/us/basics/people-pleasing"],
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "For the bare definitional query ours gives the sharper answer, a plain definition plus the predict-edit-relief mechanism and a kindness-versus-pleasing distinction the competitors never draw this cleanly, but the query is clinical and definitional and the reader also wants the recognized names and origin story, which the competitors own with the fawn trauma response, Pete Walker's Complex PTSD, named clinicians, and the childhood-attachment explanation. Dictionaries (Merriam-Webster, Cambridge) and a Springer academic paper were skipped per the rules, so the third article is Psychology Today Basics, added alongside ABC and Healthline because it carries the definitional trait-list intent those two do not fully cover.",
+  "what_the_winner_does_that_we_dont": [
+    "Name the recognized clinical framing the way Healthline calls people-pleasing the fawn response, attributes the term to therapist Pete Walker and his book Complex PTSD From Surviving to Thriving, and sits it beside fight, flight, and freeze so a searcher can find and search the concept by its name",
+    "Attach a named credentialed clinician to the definition the way ABC quotes Melbourne clinical psychologist Dr Jacqueline Baulch explaining pleasing as a coping strategy to maintain attachment with a parent",
+    "Ground the definition in a single sustained real case the way ABC follows Will, a 28-year-old whose school friends remembered nothing about him because he became a chameleon, so the concept is recognisable through a life",
+    "Give a compact scannable trait checklist the way Psychology Today lists low self-worth, rarely says no, says sorry when no apology is required, takes the blame when not at fault, and relate it to dependent personality patterns for readers who want the clinical map"
+  ],
+  "what_we_do_that_they_dont": [
+    "Define the mechanism as a three-part move that runs faster than thought, a prediction then an edit then the immediate relief, which explains why sufferers say it happens to them rather than being chosen",
+    "Draw an explicit kindness-versus-people-pleasing distinction with a five-row table and a three-question test (what happened the second before you acted, whether a no was genuinely available, how you feel about the person an hour later), directly answering the definitional confusion the query implies",
+    "Name the timing problem where the relief is immediate and the bill (tiredness, an unrelated argument, a flat Sunday) arrives days later, which is why the pattern stays invisible",
+    "Correct the quiet-pushover stereotype by stating the pattern shows up in loud, capable, high-performing people at least as often",
+    "Front-load a safety carve-out for coercive control, a retaliating partner or parent, addiction, persistent hopelessness, or self-harm thoughts, directing to a licensed professional before any self-directed practice"
+  ],
+  "above_the_fold": {
+    "ours": "H1 answers 'what is people pleasing, actually', a boxed short answer defines it as managing what others feel by editing what you show and separates it from kindness in one line, then an identify-box of five verbatim sentences, a seminar link, and a paragraph dismantling the usual signs-then-set-boundaries article; it earns the scroll with a real definition plus instant recognition.",
+    "theirs": "ABC opens on Will realising his old friends knew nothing about him and then a clinical psychologist defining pleasing as more than being nice, pairing a lived hook with named authority; Healthline opens by naming the fawn response and Pete Walker, immediately giving the reader the search term and clinical frame.",
+    "gap": "Add the recognized name for the concept, the fawn trauma response, near the short answer so the fold captures the reader searching for the clinical term the competitors rank on."
+  },
+  "questions_they_answer_that_we_dont": [
+    "Is people-pleasing a trauma response?",
+    "What is fawning?",
+    "Is people-pleasing related to dependent personality disorder?",
+    "Are women more likely to be people-pleasers?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'what is people pleasing' is clinical and definitional rather than emotional, and our fold answers partly in that register with a plain definition but leans quickly into emotional self-recognition sentences, whereas Healthline's and Psychology Today's folds answer in the plain clinical register the bare query invites by naming the fawn response and listing defining traits; that register gap is the mismatch, since a definition-seeker reaches the named concept faster on the competitors.",
+  "trust_signals": "ABC and Healthline carry named clinicians or a named source framework (Dr Baulch, Pete Walker, medical reviewer Timothy J. Legg) and Psychology Today carries institutional definitional authority, all stronger than ours, which is more precise on the kindness distinction but cites no named expert, research, or recognized term.",
+  "one_change_with_most_traffic_impact": "Introduce the recognized clinical name for the pattern, the fawn trauma response, in or just under the short answer, since the definitional searcher is hunting for the named concept the competitors rank on and ours currently never states it.",
+  "serp_quality": "strong: after excluding two dictionaries and a Springer paper the remaining organic results include a named-clinician news feature, a medically reviewed Healthline explainer, and the Psychology Today topic hub, all genuinely authoritative definitional articles."
+}
