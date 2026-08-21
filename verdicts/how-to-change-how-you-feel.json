@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-change-how-you-feel",
+  "query": "How do you change how you feel, on purpose?",
+  "competitors": ["https://theconversation.com/you-can-change-your-emotions-but-its-a-2-step-process-that-takes-some-effort-280000", "https://positivepsychology.com/emotion-regulation-strategies/"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "The Conversation offers one research-grounded mechanism (two-step reappraisal) and PositivePsychology offers a genuinely comprehensive regulation toolkit with six mechanisms, micro-skills, and a strategy-selection guide. Ours is simpler and more lived (three levers moved together, why a better thought fades in minutes, state vs default with honest timelines), which answers the on-purpose phrasing more directly, but PositivePsychology's selection guide is a real structural idea we lack.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explains why moving one lever alone fails: the feeling is produced by body, attention, and language together, so a better thought overwrites in minutes",
+    "Separates changing a state (under a minute) from changing a default (months), a timeline neither competitor gives",
+    "Explains why a built good state fades by lunchtime and why retreat shifts wear off",
+    "Addresses the toxic-positivity and posture-pseudoscience objections head-on in the FAQs",
+    "34 verbatim FAQs including whether deliberate state change is manipulative and whether it must be run forever"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer names the three levers and the under-a-minute versus months distinction, then recognition sentences; the reader gets both mechanism and honest timescale.",
+    "theirs": "PositivePsychology opens with key insights and a find-the-right-resource menu under a PhD byline with a PhD scientific reviewer; comprehensive, but aimed at practitioners as much as sufferers.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is reappraisal, and does reinterpreting the situation actually change the feeling?",
+    "Which regulation strategy fits this intensity of emotion right now?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "The Conversation carries academic authors writing on their own studies; PositivePsychology shows a PhD author and a named PhD scientific reviewer; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add a short match-the-move-to-the-moment selection note (what to do at low versus high intensity); PositivePsychology's selection guide is the one structural idea on page one that our three-lever frame does not cover."
+}
