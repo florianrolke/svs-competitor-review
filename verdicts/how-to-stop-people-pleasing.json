@@ -1,0 +1,30 @@
+{
+  "slug": "how-to-stop-people-pleasing",
+  "query": "How do you stop people pleasing?",
+  "competitors": ["https://greatergood.berkeley.edu/article/item/how_to_stop_being_a_people_pleaser", "https://www.oprah.com/omagazine/how-to-stop-being-a-people-pleaser"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Berkeley's Greater Good is a reflective essay on authenticity-versus-safety whose only concrete tool is a five-step feel-your-emotion check-in, and Oprah's piece is personal narratives plus expert quotes with no structured how-to list. Ours locates the mechanism in the one-second gap before the automatic yes, gives seven concrete repetitions and a resolved-state table, and answers 30+ situation-specific FAQs.",
+  "what_the_winner_does_that_we_dont": [
+    "Berkeley names the safety exception with a vivid scenario (a traffic stop where 'speaking your truth' is unwise) so the reader learns authenticity is not always the goal; ours flags safety but does not illustrate a low-stakes case where agreeing is the smart move"
+  ],
+  "what_we_do_that_they_dont": [
+    "Pinpoints the actual leverage point (the one-second gap between request and yes) and builds the whole method around delaying inside it with a scripted line: 'Let me check my week and come back to you tonight'",
+    "Gives seven ordered repetitions including 'speak first / name the restaurant before hearing theirs', 'let one person be mildly disappointed and stay in the room', 'skip the repair work afterward', and 'treat resentment as data pointing to a misplaced yes'",
+    "Provides the one-hour-later test to distinguish pleasing from genuine generosity (residue, private tally, flare of irritation)",
+    "Maps where it hides across five arenas (daily life, parents, own emotions, self-image, partner) with the sentence underneath each, plus a resolved-state Tuesday table",
+    "Separates recognition speed (weeks) from the flinch fading (months), and gives a clinical/safety boundary for coercive or unsafe relationships"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query; the short-answer box names the gap-and-two-halves method in four sentences, then an identify-box of five first-person sentences; the reader gets a mechanism and a mirror, which earns the scroll.",
+    "theirs": "Berkeley opens mid-argument replying to commenters about a prior post on authenticity, which assumes context the searcher doesn't have and buries the payoff. Oprah opens with a first-person 'yes-woman' memoir that is engaging but slow to any actionable takeaway.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "When is it actually smart NOT to speak your truth?",
+    "Why does making others happy still leave people pleasers feeling empty?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Berkeley carries UC Berkeley's Greater Good Science Center authority and cites research (surface vs. deep acting), and Oprah quotes a named PhD author (Harriet Braiker); ours has a named founder byline (Florian Rolke) and first-person practitioner history but no external citations, winning on specificity of the practice rather than cited authority.",
+  "one_change_with_most_traffic_impact": "Add a short 'when agreeing is actually the right call' block distinguishing wise accommodation from pattern-driven pleasing; it captures the reader worried that boundaries make them selfish or rude and pre-empts the objection both competitors address."
+}
