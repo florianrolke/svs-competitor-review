@@ -1,0 +1,28 @@
+{
+  "slug": "fear-of-intimacy",
+  "query": "What is fear of intimacy?",
+  "competitors": ["https://www.verywellmind.com/fear-of-intimacy-2671818", "https://www.calm.com/blog/fear-of-intimacy"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Verywell Mind is thorough in the standard template (vs vulnerability, causes, signs, diagnosis, treatment, loved-ones advice) and Calm adds ten connection practices and an FAQ block. Ours goes further into mechanism: the timing signature (pulling back follows the good stretch), why a genuinely safe partner makes it worse, and why the same fear makes one person distant and another clingy, with 33 verbatim FAQs. (The #2 organic result, Wikipedia, was skipped as an encyclopedia entry; the next article result was taken.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Gives the timing signature (withdrawal follows the good stretch, not the argument) as the primary tell",
+    "Separates fear of intimacy from avoidant attachment in a dedicated section",
+    "Explains why a genuinely safe partner can intensify the fear instead of resolving it",
+    "Explains the distant and clingy expressions as the same alarm, which neither competitor connects",
+    "Covers sex-versus-conversation asymmetry and oversharing-then-going-cold in the FAQs"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer defines it as an alarm that fires as closeness increases and gives the timing signature, then recognition sentences.",
+    "theirs": "Verywell Mind opens with a key-takeaways box (childhood origins, self-compassion, pushing people away despite longing) under a medical-review byline; the whole answer at a glance.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is fear of engulfment, and is it part of fear of intimacy?",
+    "How does fear of intimacy relate to social anxiety?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Verywell Mind shows medical review and a diagnosis section; Calm shows a named PhD clinical reviewer; ours has no byline, reviewer, or citations.",
+  "one_change_with_most_traffic_impact": "Add fear-of-engulfment coverage (the mirror fear of being swallowed by closeness); Verywell Mind gives it a subsection and it is the one named concept on page one that our differentials skip."
+}
