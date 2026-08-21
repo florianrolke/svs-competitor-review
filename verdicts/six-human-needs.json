@@ -1,0 +1,25 @@
+{
+  "slug": "six-human-needs",
+  "query": "What are the six human needs?",
+  "competitors": ["https://www.tonyrobbins.com/blog/do-you-need-to-feel-significant", "https://transformationinstitute.com.au/coaching-tools/6-human-needs/"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Tony Robbins' own site answers the definitional query with the originator's authority but stays promotional and thin, and Transformation Institute is a short list-plus-free-test page. Ours explains the model more analytically than either: the need-versus-vehicle distinction, the dominant two, which needs pull against each other, and why a costly problem can be meeting a need, with 32 FAQs including whether the model is scientific.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Separates the need (inborn, fixed) from the vehicle (learned, changeable), the distinction that makes the model usable",
+    "Explains why four needs usually get met and two often do not, and which needs pull against each other",
+    "Explains why anyone would hold on to a problem costing them everything: it is meeting a need",
+    "Covers Maslow, love-languages, and personality-type differentials plus the is-it-scientific question honestly",
+    "32 verbatim FAQs including the 7- and 10-needs variants searchers also ask"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer lists all six needs in the first sentence and states the need-vehicle distinction, then recognition sentences; the definitional answer arrives immediately.",
+    "theirs": "Robbins' page opens with promotional blocks and rhetorical questions before defining anything; the brand carries it, the content does not.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [],
+  "intent_mismatch": "none",
+  "trust_signals": "Robbins is the framework's originator (unmatched provenance for this query) and Transformation Institute offers a free test; ours discusses the model more rigorously but names no source for it, not even Robbins.",
+  "one_change_with_most_traffic_impact": "Publish an actual self-scoring dominant-needs quiz on the page; two of the top results offer a free test, our FAQ only discusses one, and an interactive tool is the strongest traffic and link asset available for this query."
+}
