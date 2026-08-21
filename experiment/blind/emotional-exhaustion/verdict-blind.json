@@ -1,0 +1,78 @@
+{
+  "query": "Why am I so tired in a way sleep doesn't fix?",
+  "winner_overall": "A",
+  "citation_score": { "A": 6, "B": 4 },
+  "per_question": [
+    {
+      "q": "Why am I exhausted even though I sleep eight hours?",
+      "cite": "A",
+      "why": "A's quantity-vs-quality distinction and apnea micro-arousals directly answer the literal question; B presumes an emotional cause."
+    },
+    {
+      "q": "What blood tests should I ask my doctor for if I'm always tired?",
+      "cite": "A",
+      "why": "A gives a named panel (ferritin with CRP, TSH + free T4, B12, HbA1c) and the follow-up question to ask when labs come back 'normal'; B has nothing like it."
+    },
+    {
+      "q": "Is adrenal fatigue a real condition?",
+      "cite": "A",
+      "why": "A cites the 2016 Cadegiani & Kater systematic review and the Endocrine Society position, then salvages the reader's real symptoms; B never addresses it."
+    },
+    {
+      "q": "Why do I feel drained for hours after seeing my family even when nothing bad happened?",
+      "cite": "B",
+      "why": "B's account of the childhood role reactivating at adult prices is the exact mechanism; A has no relational-cost treatment."
+    },
+    {
+      "q": "Why do I feel guilty whenever I try to rest?",
+      "cite": "B",
+      "why": "B explains rest-guilt as worth attached to output or caregiving, and stillness as where feeling arrives; A does not cover it."
+    },
+    {
+      "q": "Could it be sleep apnea if I'm slim, female, and don't snore?",
+      "cite": "A",
+      "why": "A details the atypical female presentation and the cheap home sleep test; B mentions apnea only in a rule-out paragraph."
+    },
+    {
+      "q": "Is my exhaustion burnout or depression?",
+      "cite": "A",
+      "why": "A's burnout/depression/PEM table with WHO ICD-11 status and the exercise-response discriminator is the authoritative version; B's own table is good but adds no evidence base."
+    },
+    {
+      "q": "Why do I cry at films but feel nothing about my own life?",
+      "cite": "B",
+      "why": "B's safe-container explanation (a story needs nothing from you afterward) is unique and directly answers the question."
+    },
+    {
+      "q": "How long after starting iron or thyroid treatment should I expect to feel better?",
+      "cite": "A",
+      "why": "A gives concrete lag times (8-12 weeks for iron, 6-8 weeks per thyroid dose) and the stop-at-the-reference-floor failure mode; B has no treatment-recovery content."
+    },
+    {
+      "q": "Why does a five-minute phone call with my mother wipe me out for the day?",
+      "cite": "B",
+      "why": "B's FAQ answers this verbatim with the activation-cost mechanism; A's frame cannot touch it."
+    }
+  ],
+  "intent_match": "A. The query is an open why-question from someone whose sleep has stopped working; the true intent space spans medical, psychiatric, and emotional causes. A answers with the actual differential (sleep quality, oxygen/metabolic limits, load-and-recovery mismatch), the tests that separate it, and red flags — honest coverage of why. B commits to one hypothesis (emotional depletion from vigilance, suppression, caregiving) and serves that subset deeply, but presumes the answer the query is asking for.",
+  "key_gaps": {
+    "A": [
+      "No treatment of hypervigilance, suppression, or compulsive caregiving as fatigue generators",
+      "No explanation of why rest produces guilt rather than relief",
+      "No account of why closeness and family contact are the most expensive contexts",
+      "No self-observation exercise aimed at the emotional column (B's drain ledger has no counterpart)",
+      "Emotional/relational exhaustion covered only as one row in a differential table"
+    ],
+    "B": [
+      "No actual differential: apnea, iron, thyroid, blood sugar, medication effects reduced to one rule-out paragraph",
+      "No tests to request and no guidance for when 'normal labs' is an incomplete answer",
+      "No red-flag list for fatigue that needs urgent attention",
+      "No post-exertional malaise, perimenopause, ADHD burnout, or long COVID coverage",
+      "No verdicts on popular remedies and supplements readers will ask about",
+      "Zero external research citations; provenance rests on one unverifiable personal anecdote"
+    ]
+  },
+  "first_screen": "B. The waking-up-still-working scene plus the verbatim inner sentences is the stronger mirror for this searcher and earns the scroll; A's first screen is a competent but clinical three-bucket summary.",
+  "provenance": "A. Named systematic review with screened-study counts, institutional positions (Endocrine Society, IOM, CDC, WHO), named cohort studies, and a medical disclaimer. B offers no sources at all and leans on an unverifiable personal narrative (five years, 5,000 hours, seminars abroad).",
+  "confidence": "high"
+}
