@@ -1,0 +1,27 @@
+{
+  "slug": "how-to-forgive-yourself",
+  "query": "How do you actually forgive yourself?",
+  "competitors": ["https://greatergood.berkeley.edu/article/item/twelve_steps_to_self_forgiveness", "https://www.healthline.com/health/how-to-forgive-yourself"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Greater Good leads with a gripping true story and twelve research-based steps; Healthline offers twelve medically reviewed tips. Both are numbered-list pages, and ours beats them on mechanism: the judgment on the act stays while the daily punishment gets reassigned, including the case both competitors skip, when the person is dead, gone, or will not speak to you.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Separates the judgment on what you did from the punishment you administer daily, and gives that punishment a different job",
+    "Explains why deciding to feel differently never holds, and why the guilt returns hardest when life finally goes well",
+    "Covers self-forgiveness when amends are impossible (the person is dead, gone, or no-contact)",
+    "Distinguishes real accountability from guilt wearing accountability's clothes",
+    "34 verbatim FAQs on the mechanics competitors leave vague"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the judgment-vs-punishment split in four sentences, then recognition sentences; the answer arrives before any scrolling.",
+    "theirs": "Greater Good opens with a multi-paragraph true story of a man who lost his family to a gambling addiction; slower to the answer but emotionally gripping, with Berkeley/Stanford provenance visible.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Is it healthy to forgive yourself?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Greater Good carries Berkeley's Greater Good Science Center brand and a Stanford course anecdote; Healthline shows a named writer and PhD medical reviewer; ours has no byline, institution, or citations.",
+  "one_change_with_most_traffic_impact": "Surface a compact numbered sequence (name what you did, make the amends that are makable, reassign the punishment); both competitors' numbered steps are their main scannability advantage on a how-do-I query."
+}
