@@ -1,0 +1,34 @@
+{
+  "slug": "walking-on-eggshells",
+  "query": "What does walking on eggshells do to you?",
+  "competitors": ["https://www.helpguide.org/relationships/communication/walking-eggshells-relationship", "https://www.verywellmind.com/how-to-handle-walking-on-eggshells-in-your-relationship-5207935"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The query asks what the walking does to the person, and ours is the only page that answers the effect at length by naming the permanent scanning system, the four jobs the vigilance runs, self-monitoring that stays after everyone leaves, numbness, and the specific physical toll, while HelpGuide and Verywell both read the phrase as one narrow scenario, an emotionally volatile or abusive current partner, and spend their length on how to handle that partner rather than on what it does to you. Both competitors are authoritative and genuinely competitive (HelpGuide is a reviewed nonprofit MedicalWebPage, Verywell cites numbered references), so no third article was needed.",
+  "what_the_winner_does_that_we_dont": [
+    "Show named, credentialed authorship and review the way HelpGuide bylines Lawrence Robinson and lists Melinda Smith, M.A. as reviewer with a last-reviewed date, and Verywell attaches numbered citations to its abuse and self-esteem claims",
+    "Put a concrete crisis resource in the body the way Verywell prints the National Domestic Violence Hotline number 1-800-799-7233, rather than describing the safety carve-out in prose only",
+    "Give a plain bulleted signs-of-abuse checklist (partner angry at slight provocation, outbursts blown out of proportion, rarely followed by an apology, one partner feels genuine fear) that lets a reader in the current-partner scenario self-identify fast"
+  ],
+  "what_we_do_that_they_dont": [
+    "Actually answer the query verb, what it does to you, with the permanent scanning system, the four jobs (forecasting, controlling the environment, controlling yourself, limiting exposure), self-monitoring aimed inward, going numb, and the physical toll of broken sleep, startle, and jaw and shoulder tension",
+    "Cover all three arrival scenarios, a volatile person present now, a childhood house left decades ago, and a reader who cannot tell which, where both competitors only address the current-partner case",
+    "Provide a six-row differential separating walking on eggshells from general anxiety, people pleasing, cautious temperament, single-event hyperarousal, an accurate read of a real relationship, and damaged trust, which is the confusion the searcher arrives with",
+    "Supply a self-recognition block of verbatim internal sentences ('When people are nice, I wonder what they want from me', 'It's better to agree or stay silent than to risk escalating things') for identification by phrasing",
+    "Reframe the vigilance as a competent survival system worth keeping rather than only a malfunction, and give a three-week plain-notes method to test whether the scanning is accurate before lowering the guard"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query, a boxed short answer names the permanent scanning system and its cost (exhaustion, a self on a leash, lost confidence in your own read), then an identify-box of five verbatim sentences, a seminar link, the key-in-the-lock footsteps scene, and the three-scenario map; it earns the scroll by pairing instant recognition with the effect the query asks about.",
+    "theirs": "HelpGuide opens on an emotionally volatile partner and an unhealthy dynamic to deal with, and Verywell opens defining the egg metaphor then quickly frames the causing partner as often guilty of emotional abuse and a sinister form of control; both grab the reader in a bad relationship now but do not speak to the reader asking what years of it did to them.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "How do I talk to my partner about the way their reactions affect me?",
+    "Is walking on eggshells a sign of emotional abuse?",
+    "Where do I get help if I am afraid of my partner?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'do to you' is emotional and self-directed, asking about the internal cost, and our fold answers in exactly that register with the scanning-system effect and recognition sentences; both competitors answer in a clinical-plus-situational register aimed at diagnosing and handling a volatile partner, so their folds address the relationship rather than the person, which is a genuine intent mismatch against the query.",
+  "trust_signals": "HelpGuide and Verywell carry named authors or reviewers, a MedicalWebPage or cited-reference structure, and a printed crisis hotline, giving them stronger external authority and safety provenance than ours, which is more specific and better scoped to the query but attributes nothing to a named clinician or source.",
+  "one_change_with_most_traffic_impact": "Add a named clinical reviewer or citation and print an actual crisis or domestic-violence resource in the safety section so the page carries the authority and duty-of-care provenance the competitors rank on, without narrowing our broader coverage of the effect the query asks about.",
+  "serp_quality": "strong: the top two organic results are authoritative reviewed articles from a nonprofit and a major health publisher, though both read the phrase narrowly as an abusive-partner situation rather than the query's broader effect question."
+}
