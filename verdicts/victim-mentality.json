@@ -1,0 +1,25 @@
+{
+  "slug": "victim-mentality",
+  "query": "What is a victim mentality, and how do you get out of it?",
+  "competitors": ["https://www.webmd.com/mental-health/what-is-a-victim-mentality", "https://www.healthline.com/health/victim-mentality"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Healthline is genuinely comprehensive (16 signs, origins, and a full section for people dealing with someone else's victim mentality) and WebMD covers payoffs and basics under medical review. Ours wins the query's how-do-you-get-out half decisively with the fault-vs-responsibility split, the story-payoff analysis, and the ongoing-harm case, but cedes scannable identification and second-audience ground.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Separates being genuinely harmed from the hardened story around it without dismissing either",
+    "Splits fault (which may belong to somebody else forever) from responsibility for what happens next",
+    "Addresses the case where the harm is still happening right now, which neither competitor touches",
+    "Explains why the usual take-responsibility advice backfires and in what order change actually happens",
+    "33 verbatim FAQs including therapy making it worse, getting better feeling like loss, and the partner-with-victim-mentality phrasing"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer separates the event from the story and fault from responsibility, then recognition sentences; earns the scroll for the person ready to hear it.",
+    "theirs": "Healthline opens with the three core beliefs of the pattern in bullet form; instantly scannable self-identification for both the person in the pattern and the person living with them.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors are medically reviewed with named MD/PhD reviewers and update dates; ours has no byline, reviewer, or citations.",
+  "one_change_with_most_traffic_impact": "Promote the guidance for dealing with someone else's victim mentality from a single FAQ into a body section; both competitors give the second audience full sections, and that audience makes up a large share of searches for this query."
+}
