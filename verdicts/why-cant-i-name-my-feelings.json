@@ -1,0 +1,38 @@
+{
+  "slug": "why-cant-i-name-my-feelings",
+  "query": "Why can't I name what I'm feeling?",
+  "competitors": ["https://www.webmd.com/brain/alexithymia", "https://theconversation.com/alexithymia-why-some-people-find-it-so-hard-to-identify-emotions-and-how-this-affects-them-240480"],
+  "serp_quality": "strong: the first page is dominated by authoritative alexithymia explainers (WebMD, The Conversation, IU Medicine, Simply Psychology, BBC Science Focus, GoodRx) that are real long-form articles rather than thin listicles.",
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "The competitors own the clinical definition intent (alexithymia term, prevalence, brain regions, autism and OCD overlap, medical review) that a large share of these searchers arrive with, and they carry authority ours does not, so for the diagnostic reader they win. Ours wins decisively for the reader who wants the everyday non-clinical version explained and fixed, giving the childhood mechanism, the everyday substitutes, the numbness and introversion differentials, and a concrete repeatable practice that WebMD and The Conversation only gesture at in a sentence.",
+  "what_the_winner_does_that_we_dont": [
+    "State the field term alexithymia up front with its Greek gloss ('lacking words for feelings') and make clear it is a measured trait not a diagnosis, capturing the definitional search ours only reaches in the FAQ (WebMD and The Conversation)",
+    "Give a prevalence figure (about one in ten people, more common in men) to establish scale and normalize the reader (WebMD and The Conversation)",
+    "Name the brain regions involved (anterior insula, amygdala, frontal lobes) and attribute the explanation to a named neuroscientist (Jordan Grafman, PhD, Northwestern), giving a biological account and external authority (WebMD)",
+    "Name the overlap conditions with figures (autism at roughly 33 to 66 percent, plus OCD, PTSD, PMDD, anxiety, depression) so a reader can see where their difficulty may sit (The Conversation)",
+    "Introduce the term interoception and its lower-body variant so a reader can connect not naming feelings to not reading hunger, thirst, or fatigue (The Conversation)",
+    "Carry a medical-review byline and date (Reviewed by Smitha Bhandari, MD) that signals vetted health content (WebMD)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Explain the childhood origin as two specific conditions (unpredictable emotional responses at home, so the child learned to manage output rather than name it; or emotional presence going unregistered, so no word was ever mirrored back) rather than a generic trauma or brain-difference line",
+    "Give a concrete repeatable practice: three times a day locate the sensation in the body (chest, throat, stomach), commit to the nearest word aloud even if wrong, then try a truer second word, with the correction itself named as the mechanism",
+    "Differentiate the pattern from adjacent states the searcher may confuse it with: emotional numbness (signal missing vs word missing, tested by whether you can say 'something is off' with conviction), being a private person or introvert (label available vs label absent), and low emotional IQ",
+    "Catalogue the everyday substitutes and tells (making lists instead of saying a feeling, the joke that arrives a half second early, emotional mimicry, changing hair or rearranging a room) so a reader recognizes the pattern by behavior not by symptom checklist",
+    "Give in-the-moment scripts (buy four seconds in an argument, name the sensation before the story, tell a therapist plainly that the naming layer was never built) and a realistic timeline framed as second-language learning",
+    "Front-load a safety carve-out (months-long hopelessness, active diagnosis, addiction, self-harm thoughts, or describing feelings reliably surfacing memories of being hurt) directing to a licensed professional"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query verbatim, a boxed short answer states naming is a separate skill from feeling that never got enough practice and can still be built, then an identify-box of four verbatim first-person lines and a seminar link, then the Thursday-question-and-the-pause scene; it earns the scroll for the everyday reader but does not surface the word alexithymia or any scale figure that the clinical searcher is scanning for.",
+    "theirs": "WebMD opens with a plain definition (alexithymia means trouble identifying, understanding, or naming emotions, from Greek for lacking words for feelings), states it is not a mental illness, adds the one-in-ten prevalence and a named neuroscientist's go-with-your-gut framing; it earns the scroll for the definitional searcher immediately.",
+    "gap": "Add the term alexithymia and one framing line (it is a measured trait on a spectrum, mild versions are extremely common, this page covers the everyday version) into or beside the short-answer box, so the definitional searcher does not bounce before reaching our stronger mechanism-and-practice material."
+  },
+  "questions_they_answer_that_we_dont": [
+    "How common is alexithymia?",
+    "What parts of the brain are involved in not being able to name feelings?",
+    "What is interoception and how does it relate to naming emotions?"
+  ],
+  "intent_mismatch": "The query 'Why can't I name what I'm feeling' is phrased emotionally and in the first person, the voice of someone frustrated in the moment rather than seeking a diagnosis; ours answers in exactly that emotional register at the fold (the Thursday pause and the I-don't-know scene), whereas WebMD and The Conversation answer in a clinical register anchored on the diagnostic label, prevalence, and brain regions, so the competitor fold serves the reader who has already reframed the feeling as a condition to look up while ours serves the reader still inside the four seconds.",
+  "trust_signals": "WebMD carries a medical-review byline plus a named neuroscientist and prevalence data, The Conversation carries a named academic author and disclosure statement, and ours is more specific and practice-oriented but cites no named clinician, no research, and no prevalence figure.",
+  "one_change_with_most_traffic_impact": "Surface the word alexithymia and a one-line scale-not-diagnosis framing with a prevalence figure near the top, so the page captures the large definitional and is-this-a-condition segment the competitors currently monopolize without weakening our stronger everyday mechanism, differentials, and practice."
+}
