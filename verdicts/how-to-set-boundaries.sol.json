@@ -1,0 +1,41 @@
+{
+  "slug": "how-to-set-boundaries",
+  "query": "How do you set boundaries without losing the relationship?",
+  "competitors": [
+    "https://www.simplypsychology.com/articles/how-to-set-boundaries-in-relationships",
+    "https://curiocounselling.ca/how-to-set-healthy-boundaries-in-a-relationship-without-pushing-your-partner-away/"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "The #1 organic result (HelpGuide) returned no readable article body through webFetch, only navigation, sidebar, and schema, so it was skipped and the next usable article (Curio Counselling) was substituted for it. Our page wins on depth because it owns the post-statement failure point the query implies (holding the limit while the other person reacts) that both competitors only mention in passing, though both competitors beat us on scannable boundary-type taxonomy and ready-to-copy example sentences.",
+  "what_the_winner_does_that_we_dont": [
+    "Add a labeled taxonomy of boundary types (physical, emotional, time/energy, financial, digital, sexual, intellectual) as a scannable list, which both competitors place early; ours never categorizes boundaries at all.",
+    "Provide a short block of copy-ready example boundary statements (e.g. 'I need Sundays to recharge; I'm not available for social plans that day'), which Simply Psychology and Curio both include as a bulleted list near the top.",
+    "Include a compact numbered communication framework (identify the need, pick a calm moment, use specific language, state the consequence, follow through) as a standalone how-to block distinct from our origin/tolerance material.",
+    "Add an explicit contrast pair showing a control statement rewritten as a boundary statement side by side (Simply Psychology and Curio both do this), placed high on the page rather than buried in a later table.",
+    "Add a short 'what respecting a boundary looks like vs not' checklist of the other person's responses, as Curio does, so readers can diagnose the partner's reaction concretely."
+  ],
+  "what_we_do_that_they_dont": [
+    "Devote the core of the page to the ninety seconds after the limit is spoken and the walkback sequence (apology, over-explanation, smaller version, compensatory overgive), which neither competitor covers as a mechanism.",
+    "Separate a boundary from a wall in a full comparison table, a distinction both competitors name in one line but never develop.",
+    "Give a sequencing answer to 'which relationship to practise on first' (start where the cost is lowest, not the hardest relationship), which neither competitor addresses.",
+    "Provide a dedicated professional/safety-escalation section for violence, coercive control, and self-harm before any technique, which neither competitor includes.",
+    "Attribute origins to three specific childhood environments and route each to a further page, giving diagnostic self-location the competitors lack.",
+    "Carry 30-plus FAQs covering narcissists, in-laws, holidays, work, and boundaries with yourself, far exceeding the competitors' short challenge lists."
+  ],
+  "above_the_fold": {
+    "ours": "Reader sees the H1 question, a short-answer box defining a boundary as a limit on your own participation and naming the ninety seconds afterward as the real skill, then an identify-box of five verbatim self-talk sentences and a seminar link; it earns the next scroll by naming the reader's exact internal experience rather than opening with definitions.",
+    "theirs": "Simply Psychology opens with a tight reframe (boundaries are not walls, weapons, or control; a boundary is what you will and won't do) immediately followed by a labeled boundary-type list, so a reader gets both the correction and a concrete taxonomy before scrolling.",
+    "gap": "Add a few copy-ready example boundary statements directly under our short-answer box, so the fold pairs our tolerance reframe with something the reader can immediately use, matching what both competitors give above the fold."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the different types of boundaries (physical, emotional, time, financial, digital)?",
+    "How do you communicate a boundary without starting a fight?",
+    "What does a healthy versus unhealthy response to a boundary look like?",
+    "Should you explain a boundary, and how much explanation is too much?",
+    "How do you invite dialogue after stating a boundary?"
+  ],
+  "intent_mismatch": "Minor: the query reads as 'without losing the relationship' and both competitors frame around romantic partners specifically, while our page leans toward parents and family-of-origin dynamics; the fold still answers the relationship-preservation intent, so no substantive mismatch.",
+  "trust_signals": "Both competitors carry named authors and clinic or editorial review (Curio names a therapist and Calgary practice, Simply Psychology names an editorial team and a review note), while ours relies on a named founder and first-person practitioner experience, so provenance is comparable but the competitors read as more clinically credentialed.",
+  "one_change_with_most_traffic_impact": "Insert a scannable labeled boundary-type list plus three or four copy-ready example boundary statements high on the page, since that is the concrete, snippet-friendly coverage both ranking competitors lead with and the single biggest gap in our composition."
+}
