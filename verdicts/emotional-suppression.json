@@ -1,0 +1,33 @@
+{
+  "slug": "emotional-suppression",
+  "query": "Why do I push feelings down instead of feeling them?",
+  "competitors": ["https://www.simplypsychology.com/articles/emotional-avoidance-psychology", "https://www.psychologytoday.com/us/blog/the-stories-we-tell/202601/what-happens-when-we-push-emotions-down"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Simply Psychology gives an evidence-anchored clinical account (experiential avoidance, Gross on suppression-vs-reappraisal, Wegner's white bear, ACT and exposure) and Psychology Today covers somatization, alexithymia, and a name-and-release sequence, but both are generic 'avoidance' overviews that never explain the day-to-day mechanism of the delayed reaction or how to tell suppression from numbness, privacy, and composure. Ours out-covers them on recognition, mechanism, and differentials with 34 verbatim FAQs, and only trails on cited research and named evidence-based treatments.",
+  "what_the_winner_does_that_we_dont": [
+    "Cites named research to back claims: James Gross (suppression increases physiological arousal and impairs memory while reappraisal does not), Wegner's white-bear ironic-process theory, Lieberman on affect labeling reducing amygdala activation, Van der Kolk on somatization",
+    "Names specific evidence-based treatments the reader can pursue: Acceptance and Commitment Therapy (defusion, acceptance, values-guided action) and exposure-based therapy, with what each does",
+    "States the concrete physiological fact that a primary emotion's arc completes in roughly 90 seconds to a few minutes when not maintained by thought (Simply Psychology), giving the 'stay with it' instruction a number",
+    "Names alexithymia explicitly as the emotion-naming deficit and ties it to diffuse arousal, giving readers a searchable term (both competitors)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Explains the delayed-reaction mechanism in full: feeling arrives on schedule, gets routed away, and resurfaces days later via displacement, private catch-up (car/shower), or the body",
+    "Provides a differential table separating suppression from numbness, privacy, composure, an accurate read of an unsafe room, and fear of being witnessed, with the specific tell for each",
+    "Names the disguise problem: suppression reads as professionalism and maturity in the exact settings it is practised longest, so it runs undetected for decades",
+    "Maps six specific household origins and six arenas (work, partner, family, conflict, good news, body) each with the internal sentence underneath",
+    "Gives a concrete 48-hour delay-log baseline exercise plus a 7-step low-stakes practice, and 34 verbatim FAQs including the stoicism, regulation-vs-suppression, and 'why do I only cry alone' distinctions"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the exact query, a short-answer box gives the once-it-worked mechanism, then an identify-box of five verbatim internal rules; strong recognition that earns the scroll, though the seminar CTA sits high inside the fold.",
+    "theirs": "Simply Psychology opens with relatable avoidance vignettes (staying busy, a drink, scrolling) and immediately frames avoidance as one of the most studied clinical mechanisms with a reviewed-byline; credible and concrete but generic and not phrased to the reader's own words.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Is emotional avoidance the same as suppression?",
+    "What actually works instead of suppression, and what does the evidence say about ACT and exposure?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors cite named researchers and studies (Gross, Wegner, Van der Kolk, Lieberman) and carry editorial/clinical bylines, while ours has a named founder author but cites no research, trading external authority for lived specificity.",
+  "one_change_with_most_traffic_impact": "Add a short, plainly-worded 'what the research says' note anchoring our mechanism claims to Gross on suppression and the ~90-second emotional arc, and name ACT/experiential avoidance once, so the page matches the query's research intent without losing its recognition-first voice."
+}
