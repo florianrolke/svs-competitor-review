@@ -55,6 +55,10 @@ faqs:
   a: "Same lineage, different room. The original research watched how small children responded to a caregiver leaving and returning, and the adult version borrows that vocabulary to describe how grown people handle closeness and ambiguity with each other. A childhood classification describes one relationship at one age rather than predicting who somebody becomes. The adult version is the one you can practice, and it gets practiced in real relationships on ordinary weekdays."
 - q: "What causes secure attachment in the first place?"
   a: "In childhood, warmth that was predictable. A caregiver who responded in roughly the same way on a good day and a bad one teaches a nervous system that signals mean what they say, and that installs the version of this nobody has to work for. In adulthood it gets built the slow way, through repeated instances of an uncertainty staying open and the relationship surviving it anyway. Consistency did the work there, and it never had to be perfect."
+- q: "What are the signs of secure attachment in a child?"
+  a: "In the original procedure the child uses a caregiver as a base: explores the room, checks back, gets visibly upset when the caregiver leaves, goes to them on their return, settles within a couple of minutes, and goes back to playing. The distress is part of the picture rather than a problem with it. At home it looks like a child who brings a hurt to an adult and can be comforted by one. None of that requires a child who stays calm."
+- q: "What can parents do to build secure attachment with a child?"
+  a: "Respond to a bid for comfort in roughly the same way on a good day and a bad one, and repair it out loud when you miss. Predictability does more of the work here than warmth delivered perfectly, since what a small nervous system is learning is whether signals mean what they say. Research on caregiving has kept landing on the same unglamorous point, that missing a moment and coming back to it is most of what an ordinary day contains."
 - q: "Is an anxious or avoidant attachment style a diagnosis?"
   a: "No. These are descriptions of tendencies, not conditions in any diagnostic manual, and nobody can be given one by a quiz or by a partner during an argument. Using the words as a label for a person tends to end the conversation rather than open it. Describe the behavior instead: what happens when a plan gets cancelled, and what you do in the hour afterward. If distress is heavy or persistent, that belongs with a clinician regardless of any label."
 - q: "How do I know if my attachment style is secure?"
@@ -214,6 +218,23 @@ This has a practical consequence people miss. Somebody who identifies as the cli
 
 One version of the withdrawing branch is common enough to spell out. Somebody notices a run of partners who were lukewarm, hard to reach, or emotionally busy somewhere else, and eventually works out what the run was for. An unavailable partner never required finding out whether an available one would stay. Choosing scarcity keeps the real question permanently untested, and an untested question can never come back with an answer you cannot survive. What moved it, for this person, was staying with somebody easy to reach past the point where the old pattern would have located a reason to leave, and sitting with the specific discomfort of being fully chosen instead of half chosen. [Why the same kind of partner keeps reappearing is worth settling separately](/insights/why-do-i-attract-the-same-people/), as is [the habit of dismantling something right after it starts working](/patterns/self-sabotage/).
 
+## How Does the Same Unanswered Message Land in Each Attachment Style?
+
+Three completely different afternoons out of one identical event, and the event is a message sent at ten in the morning that is still sitting there at six.
+
+| The same Tuesday | Secure | Anxious | Avoidant |
+|---|---|---|---|
+| What arrives around noon | A small gap where a reply would be | A drop in the stomach | Nothing that registers as anything |
+| The sentence that forms | "They are busy" | "Something has changed" | "This is why I keep things light" |
+| What happens by two o'clock | The afternoon carries on | The thread gets reopened and your own tone gets reread | The phone goes face down and an unrelated task suddenly matters a great deal |
+| What it gets taken to mean about you | Nothing in particular | "I am too much, and they have finally noticed" | "This is what letting somebody matter costs" |
+| Where the evening goes | Wherever it was going anyway | Into managing a relationship nobody else knows is in trouble | Into reasons the whole thing was already more work than it was worth |
+| When the reply lands at seven | Read, answered, done | Twenty minutes of relief, then a check on whether the tone had changed | A delay before answering, roughly matching theirs |
+
+Most people find themselves split across two of those columns rather than sitting cleanly inside one, which is ordinary. The same person can run the anxious column with a partner and the avoidant column with a parent, and plenty of people moved from one to the other after a specific ending they can name to the month. [The reaching version is set out in full on its own page](/patterns/anxious-attachment-style/), and [the version that turns the signal down instead has another](/patterns/avoidant-attachment/).
+
+Read the secure column looking for the part that takes effort. There is nothing there to find, which is the whole finding.
+
 ## Is Earned Security the Same Thing as Never Having Been Wounded?
 
 No, and this is the most useful distinction on the page.
@@ -346,6 +367,14 @@ Movement is also uneven across relationships. Somebody can be steady with a part
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The thing I had wrong for the longest time was the goal. I was trying to stop feeling it. Where it sits for me today is worth saying plainly: the drop still arrives sometimes when a message sits unread, it arrives less often than it used to, and it now takes minutes rather than a day to stop running my afternoon. I would rather tell you that than describe a finished version of something nobody finishes.
 
 Is that frustrating? Yes. Reading a page like this changes very little on its own. Fifty gaps left open, in real life, on days that actually mattered to you, change a great deal.
+
+## Where Does This Thinking Come From?
+
+From attachment research that has been public for decades. Five strands carry most of the weight on this page, and every one of them can be checked without going through me.
+
+John Bowlby, a British psychiatrist, set out the idea that closeness runs as a system with its own signals, across three volumes published between 1969 and 1980. Mary Ainsworth made it observable, running the Strange Situation procedure in Baltimore through the 1960s and 70s and reporting it in *Patterns of Attachment* in 1978, which is where the word secure in this sense begins. Cindy Hazan and Phillip Shaver carried the vocabulary into adult romantic relationships in a 1987 paper, which is the reason anybody discusses attachment styles in couples at all. Earned security comes out of the Adult Attachment Interview, developed by Mary Main and colleagues in the mid-1980s to score how coherently an adult can talk about their own childhood, and a 1994 paper by Pearson, Cohn, Cowan and Cowan on earned and continuous security put the term into circulation by describing adults who reported difficult childhoods and scored secure anyway. That any of this moves at all rests on longitudinal work, most usefully the Minnesota study run by Alan Sroufe and colleagues, which followed the same people from birth into adulthood and found an early classification predicting a great deal while later experience kept revising it.
+
+The rest of it is mine and carries no research weight at all: the five years and five thousand hours described above, with no clinical qualification behind them. None of the researchers named has any connection to this page or to the seminar. Where their published work and my own experience disagree, theirs is the one to go and check.
 
 ## What Is One Thing to Do Today, Before You Decide Anything About Anybody?
 

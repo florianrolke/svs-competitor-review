@@ -47,8 +47,12 @@ faqs:
   a: "One at a time, in ordinary language, and about your own participation rather than theirs. Pick the smallest thing that has been quietly costing you, say what you will and will not do about it, and stay in the conversation while they adjust. Expect the first few to feel disproportionate, because the arrangement has been running unchallenged for years. A relationship that has never had a stated limit usually needs several before one stops feeling like an event."
 - q: "My partner keeps crossing my boundaries. What should I do?"
   a: "Check first whether the limit was ever said out loud, because a surprising number of them live only in the hoping. If it was said, repeated crossings are information about how this person handles your limits, and the useful question becomes what you will do the next time it happens. Decide that in a calm hour rather than mid-argument. Crossings that arrive with intimidation, threats, or control of your money belong with a professional rather than with better phrasing."
+- q: "What does a healthy versus unhealthy response to a boundary look like?"
+  a: "A healthy response is usually undramatic: a short pause, some disappointment, maybe a question about logistics, and then the conversation moves on. The unhealthy version keeps the limit open for negotiation. Repeated asking in softer forms, a lecture about how you have changed, silence used as a bill, or an offer to accept it once you explain yourself properly. One adjusts to what you said. The other keeps testing whether you meant it."
 - q: "How do you set boundaries with someone you would describe as a narcissist?"
   a: "Treat the word as a description of behaviour rather than a diagnosis, and work from what the person actually does. Where limits reliably get argued, reframed, or punished, explanation is the part that fails, because every reason you offer becomes something to dispute. State it once, keep it short, decline the debate, and decide in advance what you will do when it gets tested. Intimidation or control of your money, movements, or contacts is a safety matter for a professional."
+- q: "How do you set boundaries with someone in active addiction or unstable behaviour?"
+  a: "Keep the limit on your own actions, because that is the only part that holds when somebody's behaviour is unpredictable. Say what you will do rather than what they must change: which calls you take, which door stays locked, what happens if they arrive at midnight. Decide it in a calm hour and write it down. Support for them, and support for you, belongs with people trained in exactly this, and a limit made alone in the middle of a crisis rarely survives the night."
 - q: "How do you set boundaries with parents as an adult?"
   a: "Smaller than you are imagining, and about logistics before feelings. Most people open with the big conversation covering the whole history, which almost never lands. A limit on one recurring thing, the Sunday call, the unannounced visit, the money question, gives everybody something concrete to adjust to. Say it once, hold it for a few weeks without renegotiating, and let the relationship demonstrate that it survived before you attempt anything larger."
 - q: "How do you set boundaries with in-laws?"
@@ -190,6 +194,38 @@ That phone call is the whole thing. It is the first piece of evidence his nervou
 A second example runs the same shape at closer range. A grown daughter tells her mother she can no longer be the one who relays messages between her mother and her brother. Inside the same call she starts explaining herself, and then offers a reduced version of the old job: she will still listen, she just will not pass things back and forth. What eventually shifted it had nothing to do with phrasing. It was noticing, mid-sentence, *I am already taking this back*, and stopping there instead of filling the silence that followed.
 
 Notice what did the work in both cases. Not insight, not a script, not a fuller understanding of where the pattern came from. In one it was time plus a single ordinary phone call that proved nothing had broken. In the other it was catching the walkback while it was happening and letting a silence run for four seconds. That is unglamorous, and it is the actual lever. [Understanding a pattern and changing one turn out to be different projects entirely](/patterns/why-insight-doesnt-change-anything/), which is the most useful thing to know before you start.
+
+## Which Kind of Boundary Are You Actually Trying to Set?
+
+Usually one of seven, and naming which one narrows the sentence you need considerably.
+
+The word covers a lot of ground, which is part of why it turns vague at the exact moment you need it to be specific. Here is the map, with the everyday version of each rather than the textbook one.
+
+- **Physical.** Touch, personal space, and who comes into your home, when, and with how much notice.
+- **Emotional.** How much of somebody else's inner weather you agree to carry, and how much of yours you hand over.
+- **Time and energy.** What you commit to, how long for, and how much of a week you keep unbooked on purpose.
+- **Financial.** Lending, giving, splitting the bill, and who gets an opinion about what you spend.
+- **Digital.** Reply times, photos of you, location sharing, and which hours of the evening your phone belongs to you.
+- **Sexual.** What you are willing to do, and your right to change that answer at any point, including halfway through.
+- **Intellectual.** Your right to hold a view, say it plainly, and have it disagreed with rather than corrected or laughed at.
+
+Most people hold four or five of these without much trouble and lose the same one or two every time. Work out which type keeps collapsing before you work out the wording, because a limit on your evenings and a limit on money you keep lending are different sentences with very different reactions attached.
+
+## What Do You Actually Say, Word for Word?
+
+Something short, in your own mouth, about your own participation. Here are five you can take exactly as written.
+
+Nothing here argues that sentences are useless. The argument is that wording was never the piece you were missing, so ten more phrasings solve a problem you did not have. Take these, then put your attention on the ninety seconds that follow them. Each one is deliberately short, because a short sentence is one you can repeat in identical wording when it gets tested, and a long one hands the other person a clause to pull on.
+
+1. **A partner, about the conversation that always starts too late at night.** *"I want to finish this with you, and I can't do it well after eleven. I'm going to bed, and I'll pick it up tomorrow after work."* The return time is the load-bearing part: it removes the only thing worth arguing about during the ninety seconds, which is whether you are declining them or declining the hour.
+2. **A parent, about the standing call or the unannounced visit.** *"The Sunday calls have stopped working for me. I'll ring you on Wednesday evenings from now on."* One recurring thing, one replacement, no history attached, so when the pause opens there is nothing in the sentence for either of you to reopen.
+3. **A friend who vents for an hour every time.** *"I've got about twenty minutes tonight, and then I'm going to stop. I'm not much good to you past that anyway."* A number survives the ninety seconds better than a mood does, because you can repeat a number in the same words, while a mood invites them to check whether it has softened yet.
+4. **A colleague or a boss, about the work that keeps landing on you.** *"I can take that on if Thursday moves. If Thursday stays where it is, I can't do both of them properly."* It puts the limit on the work rather than on your feelings about the work, which gives a manager something ordinary to decide in the pause instead of something personal to react to.
+5. **Anyone, about your phone and your evenings.** *"I'm off my phone after nine. If something is genuinely urgent, ring twice and I'll pick up."* The second sentence answers the one real objection before it arrives, so the ninety seconds afterward have very little to fill themselves with.
+
+Keep a sixth ready for the moment your mind goes blank, because at some point it will. *"Let me check and come back to you."* Or, shorter, *"I need to think about that."* Neither one is a refusal, and both move the decision out of a live conversation, where the old pattern is fastest, into an hour where your actual preference can catch up with it.
+
+None of these is hard to say out loud. The difficulty starts about a second later, when their face does whatever it does, and no wording anywhere reaches into that part. What the wording can do is stay short enough to survive being repeated.
 
 ## Where Did the Alarm Get Installed?
 
