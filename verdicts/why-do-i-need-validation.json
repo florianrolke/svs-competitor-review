@@ -1,0 +1,33 @@
+{
+  "slug": "why-do-i-need-validation",
+  "query": "Why do I need other people to tell me I'm doing OK?",
+  "serp_quality": "weak: the top organic result is a numbered listicle and most of the rest are short single-therapist blog posts, with no authoritative long-form definitive article dominating",
+  "competitors": ["https://www.aconsciousrethink.com/56711/7-psychological-reasons-why-insecure-people-need-the-reassurance-of-others-to-feel-ok/", "https://www.ifloststarthere.com/home/2026/7/2/why-is-it-so-hard-to-validate-ourselves", "https://www.tcacounseling.com/why-external-validation-never-feels-like-enough-the-psychology-of-seeking-approval/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Ours names one precise mechanism (an outsourced verdict, because your own read stopped counting as evidence) and then makes it usable through verbatim self-recognition sentences, a people-pleasing differential, the reasons reassurance expires, and small daily repetitions, while the top organic result is a seven-item listicle and the other two are short coaching essays that reframe the feeling warmly but stay general and offer little the reader can locate their own case against or act on. The third competitor (TCA Counseling) was added because the top listicle is format-weak, so the verdict rests on at least two genuinely competitive pages; even so none of the three separates validation-seeking from people-pleasing or from low self-esteem the way ours does.",
+  "what_the_winner_does_that_we_dont": [
+    "Cite a concrete prevalence figure to establish scale and normalise the reader (aconsciousrethink's '82% of people feel like impostors at some point')",
+    "Open with a single memorable client anecdote that dramatises the outsourced verdict in one line (ifloststarthere: the client who, asked how she felt about a successful project, answered 'I don't know, no one's told me yet')",
+    "Reframe the fix as 'self-trust' rather than 'self-validation' and explicitly reassure the reader the goal is not to become fully self-validating, defusing the 'another wellbeing task I am failing at' objection (ifloststarthere)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Draw an explicit line between validation-seeking (confirmation that something is real or right) and people-pleasing (managing someone's mood), which the query's neighbouring searches conflate and none of the three competitors separate",
+    "Front an identify-box of verbatim first-person sentences ('Without constant validation, I feel unloved and worthless', 'My parents' approval is the only way I can feel validated') so the reader recognises their case by phrasing rather than by category",
+    "Cover the fiercely-independent pre-emption variant (declining help, changing the subject when praised, irritation at others who ask for reassurance) that all three competitors miss by assuming the reader is visibly reassurance-seeking",
+    "Give small, free, repeatable practices tied to specific triggers (leave the phone face down twenty minutes after sending; make one small decision and leave it made for a week with no second opinion; finish a piece of work and tell nobody for a day) instead of a general curiosity reframe",
+    "Answer high-intent long-tail questions the query cluster generates (needing validation from men versus women, from an ex, whether it means you are a narcissist) as standalone FAQs"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query verbatim, a boxed short answer names the outsourced-verdict mechanism and states the instrument can be rebuilt, an identify-box of four verbatim self-sentences, a seminar link, then the send-a-text-and-check-within-five-minutes scene that shows the pattern in miniature; it strongly earns the scroll by pairing instant recognition with a mechanism the reader has not been given elsewhere.",
+    "theirs": "ifloststarthere opens with the 'no one's told me yet' client anecdote and a warm promise to build self-trust; it earns the scroll on relatability and a memorable hook but gives the reader no way to place their own version or any next action above the fold.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "How common is impostor syndrome?",
+    "What am I really looking for underneath the need for validation, safety or belonging or worth?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'Why do I need other people to tell me I'm doing OK' is plainly emotional and first-person rather than clinical; our fold answers in that same emotional register with a boxed plain answer and verbatim self-sentences, and the closest competitor (ifloststarthere) also answers emotionally through a client story, so both match the register and there is no genuine intent mismatch to report beyond that.",
+  "trust_signals": "The competitors lean on named author bylines and a first-person coaching or counselling practitioner voice plus one cited statistic, giving warmth and some authority, while ours is more specific and mechanism-driven but attributes its claims to no named practitioner or study near the answer.",
+  "one_change_with_most_traffic_impact": "Add one concrete anchor to the fold, either a single client-style scene like the 'no one's told me yet' moment or a sourced prevalence figure, to match the relatability and normalising cue the competitors open with while keeping our stronger recognition and mechanism coverage intact."
+}
