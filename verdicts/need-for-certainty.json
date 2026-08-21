@@ -1,0 +1,27 @@
+{
+  "slug": "need-for-certainty",
+  "query": "Why do I need everything to feel certain?",
+  "competitors": ["https://www.psychologytoday.com/us/blog/why-we-worry/202110/intolerance-of-uncertainty-and-the-curse-of-worrying", "https://psychcentral.com/blog/why-you-need-to-control-everything"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Psychology Today gives the academic construct (intolerance of uncertainty, by a leading worry researcher) and PsychCentral gives a five-causes list for controlling behavior. Ours explains the mechanism more usefully (certainty as a fixed need, a learned rule attached to it, and control as the vehicle), and covers the OCD, autism, and ADHD differentials plus the calm-feels-worse paradox in 34 FAQs. (The #6 organic result, a Guardian piece, fetched as 1000 characters behind a consent wall, and the next result failed to fetch; PsychCentral at #9 was judged instead.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Splits the fixed need from the learned rule and the vehicle, which turns a pathology label into something adjustable",
+    "Explains why things going well triggers anxiety and why calm stretches feel worse than busy ones",
+    "Shows the relational cost concretely (the recurring weekend fight, the fury at a ten-minute-late text)",
+    "Covers organized-versus-controlling and backup-plan-for-the-backup-plan self-recognition",
+    "34 verbatim FAQs including OCD, autism, ADHD differentials and whether a certainty need can exist without a difficult childhood"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the need-rule-vehicle split in four sentences, then recognition sentences; the mechanism arrives before any scrolling.",
+    "theirs": "Psychology Today opens with a key-points box defining intolerance of uncertainty and its links to pathological worry; precise and credible, but it reads as a diagnosis of a worrier, not an answer to someone who calls themselves organized.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can a personality disorder be behind a need to control everything?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Psychology Today shows a named PhD researcher-author writing on his own field; PsychCentral shows medical review by an LMFT; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "none - ours covers both competitors' ground with more mechanism and more verbatim long-tail FAQs; the only residual gap is a personality-disorder FAQ."
+}
