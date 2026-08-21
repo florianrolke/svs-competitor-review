@@ -1,0 +1,25 @@
+{
+  "slug": "emotional-invalidation",
+  "query": "What is emotional invalidation?",
+  "competitors": ["https://psychcentral.com/health/reasons-you-and-others-invalidate-your-emotional-experience", "https://www.urmc.rochester.edu/behavioral-health-partners/bhp-blog/december-2024/understanding-and-enhancing-your-emotional-state"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "PsychCentral covers the standard arc (definition, why people invalidate, example statements, consequences, how to validate) with LMFT medical review, and the UR Rochester piece is a short LCSW blog on the same ground. Ours covers all of that plus the part that makes it a pattern: the half second spent computing which answer is reasonable, how the dismissing voice gets internalized, and what to do in the moment somebody dismisses you, with 34 verbatim FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Describes the internalized mechanism: you overrule your own reaction before anybody else gets a vote",
+    "The half-second scene (locating the reasonable answer instead of the feeling) is the most precise description of this pattern on page one",
+    "Explains why the dismissing voice ends up inside your own head and why it builds through small repetitions",
+    "Gives an in-the-moment response for when somebody dismisses your reaction, not just recovery advice",
+    "34 verbatim FAQs including the gaslighting differential, disagreeing-versus-invalidating, and the my-husband-dismisses-my-feelings case"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the repeated-dismissal-to-self-distrust mechanism, then four verbatim recognition moments; the reader is located before any scrolling.",
+    "theirs": "PsychCentral opens with validation defined first, then invalidation as its opposite, under a medical-review byline; clean and credible, but definitional rather than experiential.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [],
+  "intent_mismatch": "none",
+  "trust_signals": "PsychCentral shows medical review by an LMFT; UR Rochester shows a named LCSW author on a university-medicine domain; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "none - ours matches both competitors' definitional ground and exceeds it on mechanism, differentials, and verbatim long-tail coverage."
+}
