@@ -1,0 +1,28 @@
+{
+  "slug": "secure-attachment",
+  "query": "What does secure attachment actually look like?",
+  "competitors": ["https://www.attachmentproject.com/blog/what-does-secure-attachment-look-like/", "https://www.reachlink.com/advice/attachment-styles2/what-secure-attachment-actually-looks-like-from-the-inside/"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "ReachLink is a genuinely strong match for the query's experiential phrasing, with the why-safety-feels-boring reframe and a same-situation/three-styles trigger comparison; Attachment Project is a five-trait list built around a quiz pitch. Ours still wins on depth (earned security as a through-line, testing vs trusting, calm registering as danger) and on 34 verbatim FAQs, but ReachLink is close enough that confidence is medium. (The #2 organic result, a Britannica encyclopedia entry, was skipped as dictionary-like; the next article result was taken.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Frames security as earned and buildable in adulthood rather than a fixed trait or an ideal nobody reaches",
+    "Explains why calm registers as danger and worry as caring for people from chaotic homes",
+    "Distinguishes testing from trusting, and independence-as-defense from real security",
+    "Covers relapse after real progress and gives an honest timeline instead of a breakthrough promise",
+    "34 verbatim reader FAQs including jealousy in secure people, missing the intensity, and sabotage of good relationships"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer defines security as a run of small non-events, then recognition sentences; concrete and calm.",
+    "theirs": "ReachLink opens with the hook of feeling restless inside a calm, loving relationship, plus an in-this-article menu; it names the reader's confusing experience in the first line.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What does it actually feel like on the inside to have secure attachment compared to anxious or avoidant attachment?",
+    "I think my attachment issues are affecting my relationships - where do I even start getting help?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "ReachLink routes to licensed therapists and frames itself as evidence-based; Attachment Project cites Bowlby (1988) inline and lists references; ours names no sources or people.",
+  "one_change_with_most_traffic_impact": "Add a same-situation/three-attachment-responses comparison block early in the body; ReachLink's five-trigger table is the most concrete, screenshot-worthy element on either competitor page and we have no equivalent at-a-glance contrast."
+}
