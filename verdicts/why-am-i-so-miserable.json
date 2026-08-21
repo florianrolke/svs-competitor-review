@@ -1,0 +1,32 @@
+{
+  "slug": "why-am-i-so-miserable",
+  "query": "Why am I so miserable?",
+  "competitors": ["https://www.choosingtherapy.com/why-am-i-so-unhappy/", "https://theliven.com/blog/psychology/personality/why-am-i-so-unhappy"],
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "ChoosingTherapy covers the query's full breadth with fifteen concrete circumstantial causes (burnout, money, chronic pain, grief, diet) plus therapist and MD bylines, while ours commits to a single mechanism, misery as the maintenance cost of an outdated identity. Ours is far better for the nothing-is-wrong reader, but a large slice of this diffuse query has a circumstantial cause our page never enumerates. (The #2 organic result, HelpGuide, fetched as navigation markup only; the next article result, Liven, was judged instead.)",
+  "what_the_winner_does_that_we_dont": [
+    "Enumerates fifteen concrete circumstantial causes (burnout, financial stress, chronic pain, recent losses, physical health, diet) so readers whose misery has an external driver can locate themselves",
+    "Shows a named LCSW author with a bio and a named MD medical reviewer before the article starts",
+    "Liven adds a references list and an FAQ block with plain search phrasings",
+    "Both include explicit when-to-seek-professional-support sections with crisis resources"
+  ],
+  "what_we_do_that_they_dont": [
+    "Offers a single explanatory mechanism (a nervous system protecting an outdated identity) instead of an unranked cause list",
+    "Explains why misery spikes after good days and why good outcomes feel threatening, which neither competitor touches",
+    "Separates this pattern from depression in its own section, with a doctor-boundary up front",
+    "33 verbatim FAQs covering misery at work, in marriage, in the morning, and seeming fine to everyone"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, then the short answer leading with the abstract phrase maintenance-cost-of-an-identity, then recognition sentences; strong for the reader it describes, harder to parse for the reader still ruling out burnout.",
+    "theirs": "ChoosingTherapy opens with a named therapist author, an MD reviewer, and a promise of fifteen explanations; instantly legible and credible.",
+    "gap": "Lead the fold with the plainest version of the claim (a version of you built under worse conditions is still running) before the mechanism vocabulary."
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can social media be making me unhappy without me realizing it?",
+    "Why do I feel unhappy even after getting something I wanted?"
+  ],
+  "intent_mismatch": "Partial: the query is diffuse and includes people whose misery is circumstantial (money, burnout, illness); our page assumes the identity pattern and routes everything else to one doctor-boundary section.",
+  "trust_signals": "ChoosingTherapy shows a named LCSW author and MD reviewer with bios; Liven shows a writer plus a clinical-psychologist reviewer and references; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add a short rule-out-the-circumstantial-causes checklist (sleep, money, burnout, grief, physical health) near the top; both competitors lead with cause enumeration because that is what most of this query's searchers need first."
+}
