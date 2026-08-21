@@ -1,0 +1,30 @@
+{
+  "slug": "how-to-love-yourself",
+  "query": "How do you actually love yourself?",
+  "competitors": ["https://www.springhealth.com/blog/how-to-love-yourself", "https://www.psychologytoday.com/us/blog/mindful-metaphors/202602/doses-of-self-love-and-happiness-5-daily-choices"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The #2 organic result was a TED talk video and was skipped for the next Psychology Today article. Spring Health is a genuinely on-topic, clinically reviewed piece that shares our skill-not-feeling framing but stays short and generic, and the Psychology Today piece is a DOSE brain-chemistry happiness listicle that largely answers a different question; ours out-covers both on mechanism, differentials, and repeatable practice while trailing only on clinical provenance.",
+  "what_the_winner_does_that_we_dont": [
+    "Carries a named author byline plus a named clinical reviewer, establishing therapist provenance",
+    "Offers 'neutral language' as a concrete inner-critic tool (e.g., 'This is hard, and I'm learning') as an explicit alternative to forced positivity"
+  ],
+  "what_we_do_that_they_dont": [
+    "Defines loving yourself as a three-step mechanism (registering, naming, counting your own experience) and shows the double standard against a colleague's identical report",
+    "Explains why receiving is harder than giving and why earning affection never closes the gap because the registering step is switched off",
+    "Provides a differential table separating counting yourself from self-indulgence, self-improvement run on self-rejection, and withdrawal branded as protecting your peace",
+    "Gives eight small repetitions plus a concrete three-day counting log, and warns that grief and friction arrive early",
+    "Includes a resolved-end table of what it looks like on an ordinary Wednesday and 30-plus verbatim FAQs (arrogance vs. self-love, confidence vs. self-love, self-love for men, what the Bible says)"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the exact query, the short-answer box gives the 'experience that counts' definition and the repetition-based mechanism, then five recognition sentences; a reader gets a usable definition plus self-recognition before scrolling, earning the scroll.",
+    "theirs": "Spring Health opens by validating the reader who finds self-love 'cringey' and names the family backgrounds that cause it, then states self-love is a learnable skill; warm and relevant, but the reader gets reassurance before any instruction.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is the difference between self-love and self-care routines?"
+  ],
+  "intent_mismatch": "none for ours; the Psychology Today competitor is itself mismatched, answering 'how do I dose daily happiness via brain chemistry' rather than how to love yourself.",
+  "trust_signals": "Spring Health shows a named author, a named clinical reviewer, and a mental-health brand, and the Psychology Today author is a named PhD, while ours cites no clinician and only a first-person founder account.",
+  "one_change_with_most_traffic_impact": "Add a visible clinical-authority layer (a named author byline and, ideally, a clinical reviewer line), since Spring Health's provenance is the single dimension on which it clearly outranks us for a health-adjacent query."
+}
