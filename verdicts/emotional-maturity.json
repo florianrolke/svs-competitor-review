@@ -1,0 +1,25 @@
+{
+  "slug": "emotional-maturity",
+  "query": "What is emotional maturity?",
+  "competitors": ["https://ryangottfredson.com/blog/2025/05/19/what-emotional-maturity-really-looks-like-and-how-to-build-it/", "https://www.psychologytoday.com/us/blog/the-stories-we-tell-ourselves/202507/what-emotional-maturity-looks-like"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Both competitors are thin: Gottfredson is a short book reflection with a six-item practice list, and the Psychology Today piece is a single-section essay. Ours runs sixteen sections and 34 FAQs, separates composure from departure, and includes a numbered practice protocol plus a specific first-person account of the work.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Distinguishes real capacity from performed calm (composure vs departure) with physical tells like the chest tightening before going blank",
+    "Shows maturity is feeling-specific: someone can be mature about grief and a wreck about anger",
+    "Gives an eight-step practice protocol with concrete repetitions (ten extra seconds, the unsent drafted reply)",
+    "Includes the author's own multi-year, first-person account of the work, including the domains that have barely moved",
+    "34 verbatim FAQs covering intellectualizing, crying at work, humor as avoidance, and the pride of never needing anyone"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer defines maturity by the ten seconds after something lands, then recognition sentences; earns the scroll.",
+    "theirs": "Psychology Today opens with an Esther Perel quote and a PhD byline under a one-line definition; authoritative-looking, but the article beneath is one section long.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [],
+  "intent_mismatch": "none",
+  "trust_signals": "Psychology Today shows a PhD author and a named reviewer; Gottfredson is a named author with a book; ours has no byline, though its specific first-person experience account is a provenance signal neither competitor matches.",
+  "one_change_with_most_traffic_impact": "none - both competitors are materially thinner on definition, mechanism, and practice; optionally add a workplace/leadership FAQ phrasing, the only angle Gottfredson covers that we do not."
+}
