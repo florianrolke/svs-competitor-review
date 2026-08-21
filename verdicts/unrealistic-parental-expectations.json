@@ -1,0 +1,33 @@
+{
+  "slug": "unrealistic-parental-expectations",
+  "query": "What happens when your parents expected too much?",
+  "competitors": ["https://news.harvard.edu/gazette/story/2023/09/how-achievement-pressure-is-crushing-kids-and-what-to-do-about-it/", "https://inews.co.uk/inews-lifestyle/pushy-parents-breakdown-2975176", "https://www.imom.com/4-signs-my-parents-expect-too-much-from-me/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The query is asked from the grown child's side and wants to know what the arrangement does to a person over decades, and ours is the only page that answers that directly with the internalised monitor, worth billed as weekly rent, the empty win, the authored life, and a differential against plain perfectionism, while Harvard is a parent-facing prevention interview and the iNews piece is a single lived anecdote rather than an explanation. The listicle top results (Springer, PubMed, BMC, MDPI, Sage academic PDFs) were skipped per the rules and iMom was substituted then downgraded because it is written to the parent lowering their expectations, not to the adult searching, so the two genuinely competitive articles are Harvard and iNews.",
+  "what_the_winner_does_that_we_dont": [
+    "Attach a named authoritative source to the scale claim the way Harvard cites Jennifer Breheny Wallace and her reporting that students at high-achieving schools are officially an at-risk group two to six times more likely to suffer clinical anxiety, depression, and substance abuse than the average teen",
+    "Give one sustained, dated first-person case with concrete texture the way iNews walks through Mandarin and French classes with no family connection, tennis coaching, anorexia at 16, and OCD, so a reader recognises the pattern through a real life rather than through composite sentences",
+    "Name the cultural drivers behind the pressure (income inequality, job-market competitiveness, high-achieving-school environments) that Harvard uses to explain why this is widespread, which ours never situates in any external context"
+  ],
+  "what_we_do_that_they_dont": [
+    "Answer the actual verb of the query, what happens, by mapping the adult outcome: the internalised evaluator that runs after the parent is absent or dead, worth that resets every Monday, the flat feeling after a win, and not knowing who you are outside achieving",
+    "Supply a self-recognition block of verbatim internal sentences ('I am only as good as my last success', 'If I step off this path of constant achievement, I don't know who I'd be') so a searcher identifies by their own phrasing",
+    "Provide a five-row differential table separating unrealistic parental expectations from perfectionism, a demanding-but-reachable family, an over-evaluating boss, and too little guidance, which is the exact confusion the searcher arrives with",
+    "Front-load an explicit safety carve-out (months-long hopelessness, self-harm thoughts, tightening eating rules, household violence, contact that leaves you frightened) directing to a licensed professional before any technique",
+    "Separate intent from effect explicitly so the searcher who feels disloyal ('my parents meant well') is given permission to name the mechanism without accusing anyone"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the full query, a boxed short answer defines worth as expiring rent and names that the equation can be unlearned, then an identify-box of five verbatim sentences, a seminar link, the half-second status-report scene, and a safety line; it earns the scroll by combining instant recognition with the what-it-costs hook and a duty-of-care flag.",
+    "theirs": "Harvard opens with the balancing-act framing and the Molly anecdote (a varsity athlete sleeping five hours who thinks it is normal), which grabs a parent worried about their kid but does not address the adult searcher asking what it did to them; iNews opens straight into the writer's childhood worksheets and ballet drilling, a strong lived hook aimed at the right reader.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "How common is achievement pressure and who is most at risk?",
+    "How do I as a parent support my child without pushing them into anxiety?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'expected too much' is emotional and retrospective, asked from the wounded adult-child side, and our fold answers in exactly that register with recognition sentences and the cost framing; Harvard's fold answers in a clinical-plus-parental register aimed at the parent deciding whether they are pushing too hard, so its fold answers a different reader than the query asks, while iNews matches the emotional register but only as one person's story.",
+  "trust_signals": "Harvard carries the strongest external authority with a named bestselling author, sourced at-risk statistics, and the Gazette masthead, iNews carries first-person credibility, and ours is highly specific and rigorous but attributes its claims to no named expert or cited research.",
+  "one_change_with_most_traffic_impact": "Add one sourced prevalence or at-risk figure with a named authority near the short answer so the fold carries the external credibility Harvard ranks on, without diluting our stronger adult-outcome coverage.",
+  "serp_quality": "weak: the genuine top organic results are academic journal and PubMed pages excluded by the rules, leaving one authoritative parent-facing interview, one first-person anecdote, and a parenting-advice listicle as the only usable articles."
+}
