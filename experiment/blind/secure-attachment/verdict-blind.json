@@ -1,0 +1,79 @@
+{
+  "query": "What does secure attachment actually look like?",
+  "winner_overall": "B",
+  "citation_score": { "A": 4, "B": 6 },
+  "per_question": [
+    {
+      "q": "What does a securely attached person actually do differently after a fight?",
+      "cite": "B",
+      "why": "B names repair attempts, acceptance of repair, and time-to-repair with Gottman's finding attached; A covers repair but without the observable mechanics."
+    },
+    {
+      "q": "Why do I still feel anxious in my relationship even after years of working on myself?",
+      "cite": "A",
+      "why": "A's earned-vs-never-wounded-vs-performed distinction and the receiving-vs-supply machine answer this exact second-arriver question better than anything in B."
+    },
+    {
+      "q": "Is being calm and low-maintenance the same as being securely attached?",
+      "cite": "B",
+      "why": "B names the mechanism (avoidant deactivation) and ties it to Main's dismissing classification; A covers the same ground well but without the research anchor."
+    },
+    {
+      "q": "How do psychologists actually measure adult attachment?",
+      "cite": "B",
+      "why": "B's AAI vs ECR-R comparison table is the only treatment of measurement in either page; A only waves at quizzes."
+    },
+    {
+      "q": "Can you become securely attached as an adult?",
+      "cite": "B",
+      "why": "B grounds earned security in Main's AAI coding and names its counterfeits (suppression, intellectualization, forgiveness); A is strong but less checkable."
+    },
+    {
+      "q": "What are the green flags of a secure partner in early dating?",
+      "cite": "B",
+      "why": "B provides an eight-week observable checklist plus non-signals people over-weight; A has no dating-specific section."
+    },
+    {
+      "q": "Why do compliments make me uncomfortable?",
+      "cite": "A",
+      "why": "A's receiving machine, the automatic internal rebuttal, and the flat 'say thank you and add nothing' rule are the most direct and practical treatment in either page."
+    },
+    {
+      "q": "What does secure attachment look like in a child, and what should parents do?",
+      "cite": "B",
+      "why": "B details Strange Situation reunion behavior and Ainsworth's sensitivity construct; A's FAQ answer is correct but thinner."
+    },
+    {
+      "q": "Why do I test my partner even when things are going well?",
+      "cite": "A",
+      "why": "A's testing-vs-trusting section, the self-sealing loop, and the discernment distinction ('if you had to create the situation, you were not observing it') are unmatched in B."
+    },
+    {
+      "q": "Is it normal for a good, calm relationship to feel boring or flat at first?",
+      "cite": "A",
+      "why": "A directly addresses calm registering as danger and the recalibration stretch; B never touches this experience."
+    }
+  ],
+  "intent_match": "B. The query asks what secure attachment 'actually looks like' — an observable-markers question. B answers with behavior across dating, conflict, parenting, friendship and the body, each tied to named research. A answers the adjacent question (what it feels like from inside, and whether your work counted) brilliantly, but that is a narrower reading of the intent.",
+  "key_gaps": {
+    "A": [
+      "No treatment of the four attachment principles (proximity, safe haven, secure base, separation distress)",
+      "No measurement content: AAI vs self-report instruments never explained",
+      "No dating-specific observable checklist or green flags",
+      "No physiology of co-regulation, flooding, or conflict timeouts",
+      "No disorganized/fearful style coverage and no prevalence estimates",
+      "Conflict treatment lacks repair-attempt and time-to-repair mechanics"
+    ],
+    "B": [
+      "No account of the interpretation loop (signal, interpretation, protective behavior, relief) or why the belief is self-sealing",
+      "No receiving-vs-supply distinction explaining why reassurance never closes the gap",
+      "No treatment of calm registering as danger, or missing intensity once things settle",
+      "No testing-vs-discernment distinction and no boundary/saying-no practice",
+      "No concrete self-observation exercise comparable to A's gap log",
+      "Never speaks to the reader who has done years of work and still feels the flicker"
+    ]
+  },
+  "first_screen": "A. The 'run of small non-events' framing plus the verbatim inner-sentence bullets is immediately self-recognizing and earns the scroll; B's first screen is an accurate but encyclopedic definition.",
+  "provenance": "B. Named researchers with dates, specific instruments, and a checkable sources list, plus a clear educational disclaimer. A names the same core lineage accurately and is honest about its anecdotal portion, but leans on an unverifiable personal narrative (5,000 hours, seminars abroad) that carries no external check.",
+  "confidence": "medium-high"
+}
