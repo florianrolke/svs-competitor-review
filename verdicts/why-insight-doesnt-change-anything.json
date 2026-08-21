@@ -1,0 +1,25 @@
+{
+  "slug": "why-insight-doesnt-change-anything",
+  "query": "Why does understanding your problem never fix it?",
+  "competitors": ["https://www.christiankhughes.com/post/why-understanding-your-problems-is-not-enough-to-change-them", "https://www.practicalwellbeing.co.uk/why-understanding-your-problems-is-not-the-same-as-solving-them/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Both competitors agree with the thesis but stay at the level of assertion: Christian K Hughes frames it as insight versus capacity, and Practical Wellbeing retells the Buddha's poisoned-arrow parable. Ours supplies the mechanism (insight is content in language; behavior is produced by state, so the insight gets filed and overwritten within a day), the three gates, and insight-as-avoidance, with 34 FAQs written in the exact voice of someone this has happened to.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explains why an accurate insight wears off by the same evening: it arrives into body, attention, and language unchanged and gets filed against existing meanings",
+    "Lays out the three gates between a new thought and a changed life, with insight as only the first",
+    "Names understanding itself as a way of not changing, which neither competitor risks saying",
+    "Explains why you can see a friend's version clearly and go blank on your own, and why the pattern is hardest to interrupt in the room where it lives",
+    "34 verbatim FAQs including why therapy perfected the explanation but not the change, and why retreats fade by the second week"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the content-versus-state mechanism and the three gates, then recognition sentences; the call-with-a-friend scene lands immediately after.",
+    "theirs": "Christian K Hughes opens with the exact lived frustration (you can trace the pattern, and it still has not changed); genuinely good recognition, but the answer stays at insight-versus-capacity without a mechanism for what capacity is.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors are named individual practitioners writing on their own sites; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "none - both competitors hold the same thesis with less mechanism; ours is the deepest page on this query by a wide margin."
+}
