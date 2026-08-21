@@ -1,0 +1,39 @@
+{
+  "slug": "fawn-response",
+  "query": "What is the fawn response?",
+  "competitors": [
+    "https://www.psypost.org/what-is-the-fawn-response/",
+    "https://www.healthline.com/health/mental-health/fight-flight-freeze-fawn"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Our page answers the query with a mechanism-level account (the read-and-adjust loop, the two-house origin, and explicit fawn-versus-pleasing and fawn-versus-freeze distinctions) that goes far past both competitors' generic sign lists. PsyPost and Healthline win only on a few composition and trust elements, so the gap is about surfacing coverage we lack rather than depth.",
+  "what_the_winner_does_that_we_dont": [
+    "Attribute the term to psychotherapist Pete Walker in or near the opening answer, which both competitors do and our answer-box omits.",
+    "Frame the fawn response inside a compact all-four-responses set (fight, flight, freeze, fawn) with a one-line gloss of each, giving searchers the taxonomy up front the way PsyPost's overview list and Healthline's structured sections do.",
+    "Name the physiological layer explicitly (cortisol and adrenaline release, autonomic nervous system activation) as Healthline does, instead of describing racing heart and tight chest only in prose.",
+    "Add a short standalone signs-of-fawning list (difficulty saying no, over-apologizing, taking responsibility for others' emotions, lack of boundaries, chameleon-like adapting) as a scannable block, matching PsyPost's bulleted 'Common Behaviors' section.",
+    "Cover hybrid trauma responses (for example fawn-flight or flight-freeze) as a named subsection, which Healthline includes and our freeze section only partially touches.",
+    "Add an attachment-style origin angle as its own labeled section, the way Healthline ties childhood caregiver bonds to which response gets stuck."
+  ],
+  "what_we_do_that_they_dont": [
+    "Separate threat-driven fawning from approval-driven people-pleasing in a full side-by-side comparison table (aim, historical cost, body state, triggers, what it responds to), where PsyPost only offers one FAQ paragraph on the difference.",
+    "Explain the pre-conscious timing (the read-and-adjust loop completing before you get a vote), which neither competitor addresses.",
+    "Distinguish fawning from freezing and note they need different first moves, absent from both pages.",
+    "Provide an above-the-fold identify-box of verbatim internal sentences readers can match word-for-word, a self-recognition device neither competitor has.",
+    "Front-load a safety/scope section routing at-risk readers to domestic-violence services and clinicians before any technique.",
+    "Cover the 'nobody ever hit anybody' volatile-mood household as an origin path, beyond the abuse/neglect framing both competitors default to."
+  ],
+  "above_the_fold": {
+    "ours": "A reader sees an H1 matching the query, a boxed 'short answer' defining fawn as the fourth response that moves toward threat, then an identify-box of verbatim internal sentences and a seminar link; it earns the next scroll by naming the exact experience and promising why standard advice missed it.",
+    "theirs": "PsyPost opens with a tight definition that credits Pete Walker and immediately positions fawn within the four trauma responses, so a searcher gets both the definition and the taxonomy before scrolling.",
+    "gap": "Add the Pete Walker attribution and a one-line fight/flight/freeze/fawn framing inside or directly under the answer-box so the fold delivers the definition, the source, and the taxonomy at once."
+  },
+  "questions_they_answer_that_we_dont": [
+    "How can I support a loved one who shows signs of the fawn response?",
+    "Can someone have more than one trauma response?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Healthline carries a named author, a byline date, and a medically-reviewed-by credential while PsyPost cites Pete Walker as originator, whereas our page leans on specificity and mechanism but surfaces no author, review, or named-source attribution to the reader.",
+  "one_change_with_most_traffic_impact": "Add Pete Walker attribution plus a one-line fight/flight/freeze/fawn taxonomy into the above-the-fold answer-box, matching the definitional and source cues both ranking competitors put first."
+}
