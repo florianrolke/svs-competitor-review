@@ -1,0 +1,37 @@
+{
+  "slug": "how-to-forgive-yourself",
+  "query": "How do you actually forgive yourself?",
+  "competitors": [
+    "https://greatergood.berkeley.edu/article/item/twelve_steps_to_self_forgiveness",
+    "https://www.psychologytoday.com/us/blog/mindful-anger/202007/healing-shame-5-steps-self-forgiveness"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Both competitors offer generic step lists (12 steps at Greater Good, 5 at Psychology Today) that assume self-forgiveness is a decision or feeling to reach, while our page diagnoses the specific mechanism of why deciding fails and what the ongoing self-punishment is paying the person, which is more relevant to the query's word 'actually.' Neither competitor names the payoff of guilt, provides scenario-specific FAQs, or gives a same-day exercise, so ours covers more of the searcher's real intent.",
+  "what_the_winner_does_that_we_dont": [
+    "Add a short, numbered step sequence near the top so a skimmer sees the concrete procedure at a glance, the way Greater Good's numbered '1. Categorize the event / 2. Be clear about what you did' list does",
+    "Include an explicit 'sincere apology has four parts' checklist block (admit the wrong, acknowledge their pain is legitimate, apologize, commit to not repeating) as a standalone, scannable list",
+    "Name and briefly define the 'paying it forward' / redirected-amends concept as its own labeled sub-section for the dead-or-absent case, matching Greater Good's step 9",
+    "Cite a named external framework or source (e.g. Greater Good cites the Forgive for Good workbook; Psychology Today cites Marsha Linehan's radical acceptance) so the mechanism claims carry a visible provenance anchor"
+  ],
+  "what_we_do_that_they_dont": [
+    "Explain why deciding to forgive yourself fails, using the daily-trigger sequence, which directly answers the 'actually' in the query",
+    "Include a table naming what the guilt supplies (certainty, significance, substitute for repair, protection from exposure) and what each costs",
+    "Provide 28+ scenario-specific FAQs (cheating undisclosed, hurting your own child, addiction, work mistakes, ending a marriage, bystander guilt, God has forgiven me)",
+    "Give a four-test method to distinguish real accountability from guilt, plus a five-minute same-day written exercise",
+    "Contrast the punishing end vs settled end in a concrete 'ordinary Tuesday' table so the reader can see the destination"
+  ],
+  "above_the_fold": {
+    "ours": "A reader sees the H1 question, a boxed 'short answer' that names the two-operation mechanism (separate the judgment from the daily punishment), and an identify-box of verbatim self-talk lines, which earns the next scroll by promising a mechanism rather than a platitude.",
+    "theirs": "Greater Good opens with a subscription/funding banner, then a long gambler anecdote before any step or takeaway appears, so the actionable content sits well below the fold and the fold itself does not state the method.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the four parts of a sincere apology?",
+    "How do you make amends when the person you hurt is dead or absent from your life?",
+    "What unrealistic rules about how you should behave are keeping you from forgiving yourself?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Competitors carry named-author and named-source authority (a forgiveness researcher, a former Episcopal priest, a cited workbook, Marsha Linehan), whereas ours leans on first-person practitioner experience and specificity of scenarios but names no external framework, so ours is more specific while theirs is more externally sourced.",
+  "one_change_with_most_traffic_impact": "Add a compact numbered step sequence high on the page so the actionable procedure is visible to skimmers, without dropping the mechanism content that differentiates us."
+}
