@@ -1,0 +1,28 @@
+{
+  "slug": "fawn-response",
+  "query": "What is the fawn response?",
+  "competitors": ["https://www.healthline.com/health/mental-health/fight-flight-freeze-fawn", "https://psychcentral.com/health/fawn-response"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Healthline covers all four trauma responses competently and PsychCentral's dedicated fawn page is solid, but both stay inside the definition-signs-recovery template. Ours gets inside the half second before you agree, separates fawning from people-pleasing and from freezing, explains why just-set-a-boundary backfires, and why wins do not transfer to the mother or boss who trained the pattern.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Describes the mechanism at the half-second level before the agreement comes out, not just the behavior afterward",
+    "Differentials competitors lack: fawning vs people-pleasing, fawning vs freezing, charm and peace-keeping lies as fawn moves",
+    "Explains why boundary advice made things worse for people in this pattern",
+    "Explains why wins with safe people do not transfer to the specific people who installed the response",
+    "34 verbatim FAQs on the edge cases"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer places fawning alongside fight/flight/freeze as moving toward the threat, then recognition sentences; direct and specific.",
+    "theirs": "PsychCentral opens with difficulty saying no and denying your own needs as the hook, names Pete Walker and his book in the first paragraphs; provenance arrives immediately.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What's the flop response?",
+    "What types of trauma cause the fawn response?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors credit Pete Walker as the term's originator (with the book title) and show named medical reviewers; ours explains the mechanism deeply but never says where the term comes from.",
+  "one_change_with_most_traffic_impact": "Credit the term's origin (Pete Walker, Complex PTSD: From Surviving to Thriving) in the definition section; on a definitional query, provenance of the term is the cheapest authority signal both competitors show and we omit."
+}
