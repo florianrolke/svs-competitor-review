@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-stop-being-a-perfectionist",
+  "query": "How do you stop being a perfectionist?",
+  "competitors": ["https://summer.harvard.edu/blog/perfectionism-might-be-hurting-you-heres-how-to-change-your-relationship-to-achievement/", "https://markmanson.net/perfectionism"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Harvard's blog is a school-audience overview (Hewitt/Flett three types, symptoms, consequences) whose fix is generic reframing and asking others to reset expectations, and Manson's piece leans on the Bezos 70% rule and an adaptive-vs-toxic taxonomy but stays discursive with no numbered practice. Ours diagnoses the mechanism (a verdict you are bracing for, with the standard as the instrument holding it off), explains why lowering the bar fails, and delivers nine concrete repetitions plus 30 situation-specific FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Names the causal mechanism (the standard is downstream of a feared verdict) and uses the 'selective perfectionism' test (chaotic drawer vs immaculate deck) to prove the bar tracks visibility, not quality",
+    "Gives a nine-step, in-advance-definable practice ('define finished before you start in terms a colleague could check', 'hand over one thing at 80% and stay in the room', 'accept a compliment without processing it', 'keep one unearned rest hour')",
+    "Separates recognition speed (weeks) from the flinch fading (months of felt repetition) so the reader has a realistic timeline",
+    "Provides a clinical red-flag boundary (compulsions, rituals, checking that never settles, food/weight rules) directing to a doctor or therapist",
+    "30 verbatim situation FAQs covering work, school, art, writing, relationships, parenting, ADHD, faith, video games, and control over others' work"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query; the 'short answer' box gives the diagnosis (work the verdict, not the standard) in four sentences, then an identify-box of five first-person recognition sentences; the reader gets a mechanism and a mirror, which earns the scroll.",
+    "theirs": "Manson opens with a story about a perfectionist friend who abandoned every project, then a table of contents; engaging but slow to a takeaway. Harvard opens with high-school achievement framing and a definition, which reads as encyclopedic and does not mirror the reader's pain.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the different types of perfectionism (self-oriented, other-oriented, socially-prescribed)?",
+    "What is the difference between adaptive and toxic perfectionism?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Harvard carries institutional authority plus cited studies and Manson has a named author with a book/ebook funnel; ours has a named founder byline (Florian Rolke) and first-person cost figures but no external citations, and it wins on specificity of the practice rather than on cited authority.",
+  "one_change_with_most_traffic_impact": "Add a short 'types of perfectionism' block (self-oriented, other-oriented, socially-prescribed) near the top; both competitors rank partly on that definitional query and it captures readers still trying to name what they have before committing to the mechanism argument."
+}
