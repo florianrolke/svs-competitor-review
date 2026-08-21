@@ -1,0 +1,38 @@
+{
+  "slug": "why-cant-i-trust-anyone",
+  "query": "Why can't I trust anyone?",
+  "competitors": ["https://www.verywellmind.com/i-dont-trust-people-what-it-means-and-how-to-get-help-5219769", "https://www.attachmentproject.com/early-maladaptive-schemas/mistrust-abuse/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Ours answers the exact word the searcher is stuck on, why the verdict covers everybody rather than someone, and follows it with lived scenes, a four-strategy differential, a with-policy versus calibrates table, and thirty-plus verbatim FAQs, while Verywell Mind is a short medically reviewed causes-and-tips explainer and Attachment Project reframes the query as a single named schema rooted in abusive childhoods. The competitors beat us only on external authority, Verywell Mind cites nine peer-reviewed studies and a review board and Attachment Project supplies the clinical schema-therapy vocabulary and citations, which ours carries none of.",
+  "what_the_winner_does_that_we_dont": [
+    "Name the standard clinical construct 'generalized trust' (Verywell Mind) and the 'mistrust/abuse early maladaptive schema' one of eighteen EMS (Attachment Project) so the searcher gets the field term to search next",
+    "Cite named, sourced research to establish authority: Erikson's trust vs mistrust stage, locus of control and neuroticism findings, and nine peer-reviewed references with a review board (Verywell Mind), plus Young's schema therapy references (Attachment Project)",
+    "Separate childhood signs from adult signs as two explicit labeled lists so a reader can locate their own age of onset (Attachment Project)",
+    "State the concrete social cost with a cited study, that people who sense they are not trusted respond with more negativity and less altruism, which names an interpersonal feedback loop ours does not (Verywell Mind)",
+    "Name a specific evidence-based treatment modality by name, Schema Therapy, as the recommended route rather than a generic seminar link (Attachment Project)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Answer why 'anyone' feels more accurate than 'someone', treating distrust as a standing policy that fires before the person acts, which is the actual query neither competitor addresses",
+    "Give the reader banks of verbatim internal sentences grouped into verdict, finality, self-directed, and control-based sets for word-for-word self-recognition",
+    "Provide a four-way differential (betrayal trauma, commonest no-story form, self-directed distrust, hypervigilance) with a tell that distinguishes each, so the reader picks the right repair",
+    "Map the everyday non-relational spread to doctors, landlords, call centres, voicemails, and forms, and name the financial and time cost of running it",
+    "Contrast the same six ordinary moments under 'policy running' versus 'trust that calibrates' in a table, giving a concrete picture of the destination",
+    "Front-load an explicit safety carve-out for active deception, coercive control, gaslighting, abuse history, addiction, sustained hopelessness, self-harm, and fixed delusional beliefs, directing to a licensed professional"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query, a boxed short answer defines blanket distrust as a policy and names how it moves, then an identify-box of five verbatim sentences and a seminar link, then the colleague-favour scene that dramatizes the second process starting before the person acts; it strongly earns the scroll by combining recognition, mechanism, and stakes.",
+    "theirs": "Verywell Mind opens with three key-takeaway bullets and a definition of what not trusting anyone means plus a signs list, competent and skimmable but generic; Attachment Project opens with a quote and asks 'do these thoughts sound familiar' before naming the mistrust/abuse schema, which frames the whole page around one diagnosis.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is generalized trust and why does it matter for health and happiness?",
+    "How does being bullied or rejected as a child cause trust issues?",
+    "Can trust issues be a symptom of PTSD?",
+    "What does the mistrust/abuse schema look like in a child versus in an adult?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'why can't I trust anyone' is emotional and first person rather than clinical, and our fold answers in that same register with the boxed short answer and the verbatim identify-box sentences; Verywell Mind's fold answers in a mildly clinical register (generalized trust, signs list) and Attachment Project's fold immediately converts the emotional query into a clinical diagnosis label, so ours is the closest match to how the query is actually asked.",
+  "trust_signals": "Both competitors carry stronger external authority, Verywell Mind with a medical review board and nine peer-reviewed citations and Attachment Project with named schema-therapy references, whereas ours is highly specific and rigorous and adds a first-person practitioner account but attributes nothing to named experts or research.",
+  "one_change_with_most_traffic_impact": "Add the field terms 'generalized trust' and the 'mistrust/abuse schema' near our definition with one or two sourced references, capturing the definitional and authority intent the competitors rank on without weakening our stronger policy-versus-calibration coverage.",
+  "serp_quality": "strong: top two organic results are a medically reviewed Verywell Mind explainer and a clinical schema-therapy article, both genuinely competitive long-form pages"
+}
