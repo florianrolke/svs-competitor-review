@@ -1,0 +1,34 @@
+{
+  "slug": "emotional-wounds",
+  "query": "What are emotional wounds, and how do they actually heal?",
+  "competitors": ["https://cornercanyonhc.com/blog/types-of-emotional-wounds/", "https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202510/how-deep-is-the-wound"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Corner Canyon gives an LCSW-bylined types-symptoms-healing overview (a Bourbeau-style five-wound list, named therapies, and a concrete grounding toolkit) and Psychology Today offers a function-based wound-versus-trauma spectrum from a trauma author, but both stay at the level of labels and general self-care without explaining the machinery that keeps a wound running. Ours out-covers them on structure (need/belief/behavior), the re-enactment-versus-memory distinction, why insight fails, and the resolved-day-to-day picture, trailing only on named evidence-based therapies and a same-day distress toolkit.",
+  "what_the_winner_does_that_we_dont": [
+    "Names specific evidence-based therapies and what each targets: CBT for reframing negative thought patterns and EMDR for trauma (Corner Canyon)",
+    "Gives a concrete same-day distress toolkit for when emotion is overwhelming: 5-4-3-2-1 sensory grounding, holding an ice cube, warm shower, unsent letters, uncensored journaling (Corner Canyon)",
+    "Provides an explicit symptom checklist grouped as mental (sadness, anger/irritability, fear/anxiety) and behavioral (social withdrawal, aggression/passive-aggression) so a reader can self-screen",
+    "Fronts a credentialed clinician byline (LCSW, 30 years) and a trauma-author byline, establishing authority our page's founder byline does not match"
+  ],
+  "what_we_do_that_they_dont": [
+    "Breaks a wound into three separable parts (unmet need, first-person belief, protective behavior) and states that the need is the layer that must change, giving a why-it-heals mechanism neither competitor supplies",
+    "Draws the re-enactment-versus-memory line: a bad memory sits still and gets recalled, a wound arrives as a reflex without consulting memory, which is the page's core diagnostic",
+    "Explains why contradictory behaviors (seeking closeness vs pushing it away) protect the same need, and why swapping one for the other changes nothing",
+    "Separates 'name the wound' (describes history) from 'name the need' (a sentence you can say to another person) and gives a work-backward-from-three-moments exercise",
+    "Shows the resolved end concretely on an ordinary week (a request without a pre-apology, a no without three sentences of justification) and answers why therapy/self-help books alone did not fix it"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the exact query; a short-answer box defines a wound as protection that outlived its conditions and states wounds resolve when the need gets met in the present, then an identify-box of five verbatim beliefs. Strong recognition plus a definition-and-healing promise that earns the scroll.",
+    "theirs": "Corner Canyon opens with a long author bio and table of contents before the content, pushing the actual definition below the fold; the fold sells the clinic's authority more than it hooks the reader's problem.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the symptoms of unresolved emotional wounds?",
+    "What therapies help heal emotional wounds (CBT, EMDR)?",
+    "What can I do right now when the emotional pain feels overwhelming?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors carry named credentialed authors (an LCSW with 30 years, a published trauma clinician) and name specific therapy modalities, while ours leads on lived specificity and mechanism but names a founder author with no clinical credential and no cited modalities.",
+  "one_change_with_most_traffic_impact": "Add a short 'how healing actually happens, including with a professional' block that names CBT and EMDR for the trauma-range wounds and gives one concrete same-day grounding practice (e.g. 5-4-3-2-1), so the 'how do they heal' half of the query is answered with the modality names searchers expect without diluting the need-gets-met mechanism."
+}
