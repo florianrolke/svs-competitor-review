@@ -1,0 +1,32 @@
+{
+  "slug": "how-to-set-boundaries",
+  "query": "How do you set boundaries without losing the relationship?",
+  "competitors": ["https://www.simplypsychology.com/articles/how-to-set-boundaries-in-relationships", "https://britelife.com/set-boundaries-without-losing-relationship/"],
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "The #1 organic result (HelpGuide) fetched as navigation markup only, so the next organic article (BriteLife) was judged instead per the substitution rule. BriteLife matches the query's exact framing and supplies word-for-word scripts per relationship, which our page deliberately refuses to do, while ours is decisively deeper on why the ninety seconds after the sentence is the real skill; each page holds half of what the searcher wants.",
+  "what_the_winner_does_that_we_dont": [
+    "Gives word-for-word scripts for specific situations: the constantly-venting friend, the late-night-conversation partner, privacy-crossing family, someone in active addiction",
+    "Defines a category of boundaries that protect the relationship itself (pause, repair, access, and role boundaries) rather than only protecting the self",
+    "Includes on-the-spot mini-scripts for the moment your mind goes blank",
+    "Simply Psychology adds a numbered five-step communication sequence: identify the need, choose the moment, direct language, state the consequence, follow through"
+  ],
+  "what_we_do_that_they_dont": [
+    "Explains why scripts fail when the underlying alarm is untouched, instead of handing over lines to memorize",
+    "Names the ninety seconds after the sentence as the actual skill and trains tolerance for the other person's reaction",
+    "Assigns their reaction to them and diagnoses the walkback and the smaller-version-offer five minutes later",
+    "34 verbatim FAQs covering in-laws, holidays, work, parents, and partners described as narcissists"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the limit-plus-ninety-seconds frame, then recognition sentences; strong, but it answers the fear abstractly.",
+    "theirs": "BriteLife's first paragraph mirrors the reader's exact catastrophic prediction (they'll get mad, you'll be the bad guy, you'll ruin everything) before any advice arrives.",
+    "gap": "Name the feared outcome explicitly in the first paragraph of the fold: that the reader pictures anger, rejection, or the relationship ending, and that the sentence is the easy half."
+  },
+  "questions_they_answer_that_we_dont": [
+    "How do I set boundaries with someone in active addiction or unstable behavior?",
+    "What do I actually say in the moment when my mind goes blank?"
+  ],
+  "intent_mismatch": "The query's without-losing-the-relationship half lives mostly in our FAQs, while BriteLife makes relationship preservation a headline section with its own boundary types.",
+  "trust_signals": "BriteLife names an editor and writes from an addiction-recovery practice; Simply Psychology labels its draft AI-assisted but editorially reviewed; ours has no byline or sources.",
+  "one_change_with_most_traffic_impact": "Add a short block of verbatim boundary sentences for the four most-searched relationships (partner, parent, friend, work); it is the one element both competitors lead with that our page argues against but never replaces with something usable."
+}
