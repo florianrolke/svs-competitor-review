@@ -1,0 +1,27 @@
+{
+  "slug": "anxious-attachment-style",
+  "query": "What is anxious attachment style?",
+  "competitors": ["https://health.clevelandclinic.org/anxious-attachment-style", "https://www.simplypsychology.org/anxious-attachment-style.html"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Simply Psychology is the strongest template page in this batch (seven signs, causes including the caregiver's emotional hunger, triggers, eleven healing steps, partner-communication sections, references) and Cleveland Clinic is a clean definitional answer with a PsyD. Ours still wins on mechanism: the twenty-minutes-after-a-read-message scene, why reassurance stops working almost immediately, and what earned security actually looks like day to day, with 36 verbatim FAQs including the BPD differential.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Frames the pattern as accurate learning from unpredictable affection that now produces the distance it prevents",
+    "Explains why reassurance decays within hours instead of accumulating, which Simply Psychology lists but never mechanizes",
+    "Describes earned security as a day-to-day practice rather than a label, including what happens to the relationship while you practise",
+    "Covers the anxious-avoidant pairing dynamic and why reassurance becomes the partner's job",
+    "36 verbatim FAQs including love-versus-anxiety, is-it-toxic-to-a-partner, and early-dating and friendship presentations"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the reaching-plus-silence-reading pattern and its origin in unpredictable affection, then recognition sentences; the read-receipts scene is the first thing below.",
+    "theirs": "Simply Psychology opens with a dense definition and a table of contents over fifty thousand characters of coverage; complete, but the reader meets a textbook before they meet themselves.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is a caregiver's emotional hunger, and how does it create anxious attachment?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Cleveland Clinic carries its hospital brand and a named PsyD; Simply Psychology shows review and a full references list; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add the caregiver's emotional-hunger cause (the parent who needed the child); it is Simply Psychology's one causal idea our origin section skips, and it is the version many adult searchers actually had."
+}
