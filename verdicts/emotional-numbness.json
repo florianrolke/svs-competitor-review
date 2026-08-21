@@ -1,0 +1,27 @@
+{
+  "slug": "emotional-numbness",
+  "query": "Why do I feel emotionally numb?",
+  "competitors": ["https://health.clevelandclinic.org/why-you-feel-emotionally-numb", "https://www.healthline.com/health/mental-health/emotional-blunting"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Cleveland Clinic lists nine causes with a PsyD and Healthline covers the clinical frame (emotional blunting: symptoms, diagnosis, causes, treatment) with medical review. Ours explains the mechanism neither touches: numbness as avoidance that stopped being a decision, disguised and praised as calm or competence, strongest with the people you are closest to, with 34 verbatim FAQs including antidepressant-induced blunting and the dissociation differential.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explains the origin: feeling once cost more than not feeling, so the volume came down until flatness became the resting state",
+    "Names the disguise problem: numbness gets praised as calm, competence, and maturity, so nothing flags it",
+    "Explains why numbness is strongest with the people you are closest to and why numb and anxious run at the same time",
+    "Covers the watching-your-own-life-from-outside experience and the funeral-guilt question verbatim",
+    "34 verbatim FAQs including physical numbness routing, antidepressant-induced blunting, and what to do during a shutdown"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the avoidance-becomes-default mechanism and the calm-disguise problem, then recognition sentences in the numb voice itself.",
+    "theirs": "Cleveland Clinic opens with the watching-life-happen line and a PsyD byline, then nine causes; good recognition, but the causes are a list rather than an explanation.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "How does a professional actually diagnose emotional blunting?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Cleveland Clinic shows a named PsyD; Healthline shows medical review and uses the clinical term (emotional blunting) with diagnosis and treatment sections; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "none - ours covers both competitors' ground with the mechanism they lack; the only residual add is a diagnosis-process FAQ to complete the clinical frame."
+}
