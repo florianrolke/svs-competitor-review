@@ -1,0 +1,27 @@
+{
+  "slug": "controlling-parents",
+  "query": "What do controlling parents do to you?",
+  "competitors": ["https://www.bbc.com/news/education-34140965", "https://www.psychologytoday.com/gb/blog/therapy-insider/202208/the-psychology-of-adults-who-are-controlled-by-a-parent"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The BBC result is a 2015 news report on the UCL longitudinal study (impact comparable to bereavement, persisting into middle age) and the Psychology Today piece covers one specific dynamic, adult men whose primary loyalty never moved from mother to spouse. Ours answers the query's full scope: control delivered as care removes the child's practice at self-governance, producing either chronic deference or permanent wheel-gripping, with the strict-versus-controlling differential and 36 verbatim FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Names what control actually removes (practice at governing yourself) and why decisions get routed through an imagined verdict",
+    "Explains why two children from the same house turn out opposite: deference versus gripping the wheel",
+    "Covers the good-parents problem: why it is hard to call it control when they meant well",
+    "Shows the pattern in the half second before answering where you want to eat",
+    "36 verbatim FAQs including cultural-norm contexts, hiding decisions until after they are made, and worrying you are becoming controlling yourself"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the removed-practice mechanism and both adult outcomes, then recognition sentences; the restaurant-preference scene lands immediately.",
+    "theirs": "The BBC opens with the UCL finding and the bereavement comparison; striking and credible, but it is a study report with no path for the adult reader.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Do the effects of controlling parents really persist into middle age?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "The BBC reports a named UCL longitudinal study; Psychology Today shows a named therapist-author and reviewer; ours names no one and cites nothing, though the UCL finding is the most quotable fact on page one.",
+  "one_change_with_most_traffic_impact": "Add the UCL longitudinal finding (psychological control in childhood tracks poor mental health into middle age, likened to bereavement); it is the strongest evidence hook on this SERP and would give our page a citable, linkable fact."
+}
