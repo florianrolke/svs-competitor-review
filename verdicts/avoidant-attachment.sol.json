@@ -1,0 +1,41 @@
+{
+  "slug": "avoidant-attachment",
+  "query": "What is avoidant attachment?",
+  "competitors": [
+    "https://www.webmd.com/parenting/what-is-avoidant-attachment",
+    "https://www.attachmentproject.com/blog/avoidant-attachment-style/"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Our page answers the definitional query with a tighter mechanism (deactivation as a learned, pre-verbal suppression of the signal), a distinctive self-recognition entry point, and far deeper question coverage across 34 FAQs plus differential-diagnosis tables that neither competitor attempts. The second organic result was the UC Davis academic PDF, which is a scholarly book chapter rather than a competing general-audience landing page, so it was skipped and the next organic article, Attachment Project, was used in its place.",
+  "what_the_winner_does_that_we_dont": [
+    "WebMD opens with a dated medical-reviewer byline (name, credential, review date) placed above the definition; add a visible author/credential line and last-updated date near the top of our page so the reader sees provenance before scrolling.",
+    "WebMD gives a scannable prevalence figure early (about 20% of adults report an avoidant style) sourced to a survey; our page deliberately withholds numbers, so consider one cited, well-caveated prevalence sentence in the 'How common' FAQ to match the stat that pulls this query.",
+    "Attachment Project lists the exact sub-questions the article will answer as a bulleted preview directly under the intro; add a short scannable 'what this page covers' contents list near the fold so scanners see coverage breadth immediately.",
+    "Both competitors carry a compact, explicitly labeled adult-symptoms checklist as a standalone scannable block; add a single consolidated bulleted signs/symptoms list as its own section rather than distributing signs across prose and tables.",
+    "Attachment Project cites named academic sources (Ainsworth, Bowlby, Mikulincer & Shaver) in a Sources block; add a short references/further-reading block to signal research grounding."
+  ],
+  "what_we_do_that_they_dont": [
+    "Explains the actual mechanism (deactivation suppresses the output while the attachment system stays intact, and runs pre-verbally) instead of just listing traits.",
+    "Provides differential-diagnosis tables separating avoidance from introversion, genuine independence, boundaries, and disinterest by timing.",
+    "Covers 34 specific searcher questions as FAQs, including long-tail phrasings (ghosting, texting vs calling, relief after a breakup, saying goodbye to an avoidant) neither competitor touches.",
+    "Distinguishes attachment pattern from avoidant personality disorder and states plainly that no page or quiz can diagnose.",
+    "Includes a concrete when-to-see-a-professional section and a step-by-step 'what loosens it' practice sequence.",
+    "Explicitly separates dismissive from fearful avoidance rather than conflating them, and corrects the common conflation of avoidant with 'not caring.'"
+  ],
+  "above_the_fold": {
+    "ours": "H1 'What is avoidant attachment?' then a boxed 'short answer' that defines it as a learned strategy for turning down the signal, followed by an 'identify-box' of first-person sentences the reader may recognise and a seminar link; it answers the query directly and earns the next scroll through self-recognition.",
+    "theirs": "WebMD shows a dated medically-reviewed byline then a one-paragraph plain definition and an immediate 'What Is Avoidant Attachment Style?' subhead; it earns the scroll through visible authority and a fast, quotable definition.",
+    "gap": "Add a visible author-plus-credential line and a last-updated date beside our fold answer, since both competitors lead with dated provenance and ours shows none above the fold."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the signs of avoidant attachment in children?",
+    "How common is the avoidant attachment style and are men more likely to have it?",
+    "Does genetics play a role in avoidant attachment?",
+    "How do children develop secure versus insecure attachment in early childhood?",
+    "What types of therapy help (CBT, exposure therapy, attachment-based therapy)?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "WebMD leads with a dated medical reviewer and cites prevalence and genetic statistics while Attachment Project cites named academic sources, whereas ours relies on a named founder with first-person practitioner experience but shows no citations or dated review, making our authority more personal and less externally sourced.",
+  "one_change_with_most_traffic_impact": "Add a compact, scannable adult signs-and-symptoms checklist as its own labeled section plus a near-fold contents preview of the questions the page answers, so this high-volume definitional query surfaces our coverage the way both competitors' scannable lists do."
+}
