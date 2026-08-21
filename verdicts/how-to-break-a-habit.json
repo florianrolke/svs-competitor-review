@@ -1,0 +1,26 @@
+{
+  "slug": "how-to-break-a-habit",
+  "query": "Why do habits break, and how do you make one hold?",
+  "competitors": ["https://www.sciencedirect.com/science/article/pii/S1364661324002663", "https://pmc.ncbi.nlm.nih.gov/articles/PMC4287360/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The top organic results for this query are two academic papers, not consumer guides: the ScienceDirect review shows only its highlights and abstract on the page (judged as such), and Bouton's PMC paper reviews why behavior change fails to sustain. Neither offers a lay reader any procedure, while ours gives the interruption mechanics, the order of operations, and 34 FAQs; the papers' only edge is the named, cited science our relapse sections assert without referencing.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Turns the mechanism into an executable procedure: find the exact two seconds, interrupt the body position, focus, or self-talk, then install the replacement",
+    "Explains why one bad day undoes three good weeks and why the habit returns at the same time of day, in reader language",
+    "34 verbatim FAQs including the 21-day rule, the habit loop, habit stacking, and specific habits (vaping, night eating, skin picking)",
+    "Separates habit from addiction and routes clinical cases to professionals up front"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer names the three-part sequence (body position, focus, sentence) and the interrupt-first order, then recognition sentences; immediately actionable.",
+    "theirs": "ScienceDirect shows highlights bullets on the two-system model (stimulus-driven vs goal-directed); credible and dense, but unusable as guidance for someone trying to stop doing something tonight.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Why does the habit come back when I go back to the place where I used to do it?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors are peer-reviewed papers with DOIs, author affiliations, and reference lists; ours asserts the same mechanisms (relapse, context effects) with zero citations.",
+  "one_change_with_most_traffic_impact": "Name and cite the extinction research inside the relapse sections (change is not erasure; the old pattern resurges under stress and in old contexts), converting our strongest sections from assertion to evidence at near-zero cost."
+}
