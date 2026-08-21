@@ -1,0 +1,37 @@
+{
+  "slug": "why-do-i-avoid-conflict",
+  "query": "Why do I avoid conflict even when something matters to me?",
+  "competitors": ["https://www.healthline.com/health/conflict-avoidance", "https://www.psychologytoday.com/us/blog/a-new-gps-for-intimate-relationships/202412/conflict-avoidance-temporary-peacemaker-or"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Ours answers the 'even when something matters' half directly by locating the reflex in the seconds a disagreement arrives and separating the intact opinion from the closed-off route to speaking it, then supplies six origin environments, a decide-versus-reflex explanation, a six-way differential, and the rehearsal and blow-up mechanisms, while Healthline is a short medically reviewed harms-and-assertiveness explainer and Psychology Today is an authoritative but narrow personal essay about tension exploration between romantic partners. The competitors beat us on authority, Healthline carries a named medical reviewer and journalist byline with a cited mortality study, and Psychology Today carries a named PhD author and reviewer.",
+  "what_the_winner_does_that_we_dont": [
+    "Cite a concrete health consequence with a source, a 2013 study linking emotional suppression to increased risk of premature death including cancer, to raise the stakes of not addressing it (Healthline)",
+    "Give a ready-made non-accusatory script for the exact workplace scenario, 'It appears I worked very hard on this project and yet my name was left out of the presentation', so the reader has words to reuse (Healthline)",
+    "Offer an in-the-moment stress-regulation tool set (senses toolbox, examine-your-feelings step, affirmations) for staying centered during the confrontation itself (Healthline)",
+    "Name a positive reframe for the practice, 'tension exploration', deliberately raising vulnerable topics when you feel most secure rather than most triggered, as an alternative to avoidance (Psychology Today)",
+    "Carry named credentialed authors and reviewers (Timothy J. Legg PhD PsyD and Cindy Lamothe; Robert N. Johansen PhD and Jessica Schrader) giving external authority ours lacks"
+  ],
+  "what_we_do_that_they_dont": [
+    "Answer the 'even when it matters' half by distinguishing the intact opinion from the closed-off route to the spoken sentence, which is the precise thing the query asks and neither competitor addresses",
+    "Separate the decision circuit from the reflex circuit, explaining why deciding in advance to speak up still fails in the moment, which reframes it as mechanism rather than weak willpower",
+    "Map six distinct origin environments (violence, control, enmeshment, criticism, parentification or neglect, unpredictability) and what each one's silence protected",
+    "Provide a six-row differential separating conflict avoidance from people pleasing, absent boundaries, fawning, being easygoing, and blowing up over something small, each with when it shows up",
+    "Explain the rehearsal trap (rehearsal discharges the pressure that would push you into the room) and the eruption-over-something-small mechanism as the same pattern at capacity",
+    "Front-load a safety carve-out for physical danger, being hurt after raising something, managing a household's mood for safety, addiction, sustained hopelessness and self-harm, directing to a professional or a domestic violence service"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the full query, a boxed short answer defines the reflex in the speak-or-swallow moment and states the behavior shifts in weeks while the alarm takes longer, then an identify-box of four verbatim rules plus a seminar link, then the 'it's fine, don't worry about it' scene and a one-line safety flag; it strongly earns the scroll by pairing recognition with a changeable mechanism and a duty-of-care note.",
+    "theirs": "Healthline opens with the stolen-credit workplace scenario and a plain definition, competent and skimmable but generic; Psychology Today opens with the author's first-person confession about pivoting away from tension with his wife, engaging as an essay but framed entirely around a romantic couple rather than the searcher's own reflex.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the physical health consequences of chronically avoiding conflict?",
+    "What exact words do I use to raise the issue without being accusatory?",
+    "What can a couple do together to make raising differences safe?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'why do I avoid conflict even when something matters to me' is emotional, first person, and self-directed, and our fold answers in that exact register with verbatim internal rules and the personal speak-or-swallow scene; Healthline's fold answers in a mildly clinical third-person register (definition, people-pleasing behavior) and Psychology Today's fold answers in a couples-essay register aimed at partners rather than the individual asking, so ours is the closest match to how the query is actually asked.",
+  "trust_signals": "Both competitors carry named credentialed authors and reviewers plus, in Healthline's case, a sourced mortality study, giving stronger external authority than ours, which is highly specific and adds a first-person practitioner voice but attributes nothing to named experts or research.",
+  "one_change_with_most_traffic_impact": "Add one sourced health or relationship consequence with a citation and a single reusable plain-sentence script near our practice section, capturing the concrete-consequence and how-to-say-it intent the competitors rank on without weakening our stronger origin and differential coverage.",
+  "serp_quality": "strong: top authoritative organic results are a medically reviewed Healthline explainer and a PhD-authored Psychology Today article, both genuinely competitive long-form pages"
+}
