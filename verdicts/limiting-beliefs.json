@@ -1,0 +1,35 @@
+{
+  "slug": "limiting-beliefs",
+  "query": "What are limiting beliefs, and how do they actually change?",
+  "competitors": ["https://positivepsychology.com/false-beliefs/", "https://mindlabneuroscience.com/limiting-beliefs-neuroscience/"],
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "Ours wins on lived recognition and the second half of the query (what it protects, why arguing strengthens it, the two-speed change timeline, relapse after a good week), but mindlabneuroscience answers 'how they actually change' with a more concrete, research-named mechanism (memory reconsolidation, prediction error, activated-state work, 8-12 week timelines) and positivepsychology anchors the 'what' in named clinical frameworks with citations that ours only alludes to. Psyche.co (the #2 organic result) was substituted with mindlabneuroscience because Psyche returned a broken/empty page on two fetch attempts.",
+  "what_the_winner_does_that_we_dont": [
+    "Names specific researchers and mechanisms readers can look up: Friston's free energy principle, Nader's memory reconsolidation window (belief becomes malleable ~6 hours after activation), Tor Wager on expectation, giving the 'why arguing fails' claim external authority",
+    "Gives a concrete change protocol we only gesture at: work on the belief while it is emotionally activated (not in calm reflection), design corrective experiences that land inside the belief's own domain rather than easy low-stakes wins, and rehearse alternative interpretations upstream before the trigger fires",
+    "States explicit named-framework treatment routes (REBT, cognitive restructuring, schema therapy) with what each does, so a reader knows which therapy targets which belief type (positivepsychology)",
+    "Puts a numeric, defensible timeline on change (behavioral shifts at 4-6 weeks, ~66 days to automaticity, 8-12 weeks for structural change) instead of our 'months rather than weeks'",
+    "Both open with a dated author + PhD byline and (positivepsychology) a named scientific reviewer, making authorship checkable"
+  ],
+  "what_we_do_that_they_dont": [
+    "Opens with a lived micro-moment (the application/message you look at, the sentence that arrives in 30 seconds, the after-the-fact reason) that mirrors how the belief is actually experienced, which neither competitor does",
+    "Separates 'limiting belief' from 'self-limiting belief' (subject narrowed to the self) and organizes common beliefs into three families plus money- and love-specific clusters with verbatim sentences",
+    "Explicitly rejects the standard 'just identify your beliefs' advice as insufficient and explains why identification is not the hard part",
+    "Names the relapse pattern directly: sliding back to the old belief after a good week is normal, leaves the shift intact, and signals insufficient repetition or unsupportive environment",
+    "Has a distinct 'when to see a professional' safety section (belief formed around violence/abuse, mood that won't lift for months, self-harm thoughts, addiction) and correctly scopes EMDR to trauma-linked beliefs"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the full query, a boxed short answer defines the belief as a once-made decision that arrives as feeling not opinion, then an identify-box of five verbatim first-person sentences and a seminar link; it earns the scroll because the reader recognizes their own sentence and gets the change conditions previewed.",
+    "theirs": "mindlabneuroscience leads with a bolded direct-answer sentence ('the brain defends limiting beliefs because neural encoding treats them as predictive models, not opinions') plus a Key Takeaways box and PhD/date byline, front-loading a concrete mechanistic answer and authority for the 'why they persist / how they change' intent.",
+    "gap": "Add one or two checkable references or named mechanisms (e.g., reconsolidation, confirmation bias) near the top so the 'how they change' claim carries the same authority signal the competitors put above the fold."
+  },
+  "questions_they_answer_that_we_dont": [
+    "Why can't I change a limiting belief even when I know it's wrong?",
+    "How long does it take to rewire a limiting belief?",
+    "Which therapy (REBT, cognitive restructuring, or schema therapy) fits my type of belief?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors lead with dated PhD authorship, named researchers, and (positivepsychology) citations and a scientific reviewer, whereas ours is specific and internally rigorous but attributes its claims to no external source and names only its founder-author.",
+  "one_change_with_most_traffic_impact": "Add a tightly-scoped 'how limiting beliefs change, according to research' section that names the mechanism (memory reconsolidation / prediction error) with one or two checkable citations and a concrete timeline, capturing the mechanistic 'how do they actually change' intent that mindlabneuroscience currently owns."
+}
