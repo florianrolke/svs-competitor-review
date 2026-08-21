@@ -1,0 +1,30 @@
+{
+  "slug": "enmeshed-family",
+  "query": "What is an enmeshed family?",
+  "competitors": ["https://www.healthline.com/health/enmeshed-family", "https://psychcentral.com/blog/imperfect/2019/05/the-enmeshed-family-system-what-it-is-and-how-to-break-free"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Our page answers the definitional query directly and then out-covers both competitors on the distinctions searchers actually chase (enmeshed vs close vs disengaged vs codependency vs controlling vs abuse), the guilt mechanism, cultural nuance, and staged healing. Healthline and PsychCentral are thinner, list-driven pages whose only real edge is named medically-reviewed clinician bylines and cleaner scannable sign-lists.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explicitly separates enmeshment from four adjacent concepts (close family, disengaged family, codependency, controlling family) in dedicated Q&As; both competitors only contrast enmeshed vs close",
+    "Names the guilt-as-advance-billing enforcement mechanism and reframes guilt as a predictable alarm rather than moral evidence",
+    "Addresses the culture question head-on (daily calls, shared homes, pooled money are not enmeshment by themselves), which neither competitor touches",
+    "Provides a self-check triage ('three checks') and a fortnight-observation method instead of only a symptom checklist",
+    "Draws a clear safety/professional-help boundary (threats, surveillance, withheld housing/money, suicidality) high on the page",
+    "Covers enmeshment beyond parent-child: siblings, adult children, partners, and partner-is-enmeshed scenarios"
+  ],
+  "above_the_fold": {
+    "ours": "Reader sees H1 'What is an enmeshed family?', a boxed 'short answer' one-paragraph definition, then a bullet list of first-person recognition sentences and a seminar CTA. It defines the term and earns the scroll, but the fold leads with the seminar link and reflective prose rather than the concrete signs searchers scan for.",
+    "theirs": "Healthline opens with a one-sentence plain definition ('no boundaries between family members... fused by unhealthy emotions'), a medically-reviewed byline, then immediately a scannable 'Signs' section split into parent behaviors and child behaviors.",
+    "gap": "Add a short scannable 'Signs of an enmeshed family' bullet list (concrete behaviors, not internal sentences) near the top so the fold matches the checklist searchers expect and Healthline delivers instantly."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the signs of an enmeshed parent (vs an enmeshed child)?",
+    "What types of parentification are there (instrumental vs emotional)?",
+    "What kind of therapy helps with enmeshment (CBT, DBT)?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors carry named, credentialed, medically-reviewed clinician bylines (Timothy J. Legg PhD PsyD; Sharon Martin LCSW / Janet Brito PhD) while our page attributes authorship to a seminar founder with no clinical credential, so they win on authority despite our greater specificity.",
+  "one_change_with_most_traffic_impact": "Insert a concise, scannable 'Signs of an enmeshed family' bulleted checklist (observable behaviors, parent-side and adult-child-side) immediately after the short-answer box, since that list format is what both ranking competitors lead with and what the definitional query's searchers most want to skim."
+}
