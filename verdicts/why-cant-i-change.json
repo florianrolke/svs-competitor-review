@@ -1,0 +1,34 @@
+{
+  "slug": "why-cant-i-change",
+  "query": "Why can I not change, even when I know what to do?",
+  "competitors": ["https://www.psychologytoday.com/us/blog/what-hurts-what-helps/202603/why-we-dont-change-even-when-we-know-whats-wrong", "https://www.joellespractice.com/why-cant-i-change/"],
+  "serp_quality": "strong: the first page is full of genuine long-form articles on the exact question, including multiple Psychology Today essays, therapist practice pieces, and a Scientific American piece.",
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Ours and the Psychology Today piece share the same core thesis (the pattern persists because it serves a function the brain values and insight arrives into a state that does not update), but ours turns that thesis into an operational map with the payment audit, the four reasons change stalls, the conditions required before a shift, and a bank of self-recognition sentences, while PT stays at one illustrative case plus the predictive-processing explanation. Joelle's practice frames the same problem as the nervous system regulating risk and stabilizing load, which is competent but abstract and quickly pivots to a book-a-session CTA.",
+  "what_the_winner_does_that_we_dont": [
+    "Ground the mechanism in a single concrete clinical scene (a client who literally could not see his therapist's warm face mid-session because his model overrode the evidence) so the abstract point lands in one image (Psychology Today)",
+    "Name the underlying neuroscience framework explicitly as predictive processing and prediction error, giving searchers the term to search further (Psychology Today)",
+    "Carry a visible editorial trust marker (Reviewed by Hara Estroff Marano, dated update) and Key Points summary box at the top for skimmers (Psychology Today)",
+    "Name a specific audience the pattern hits hardest (professionals living abroad managing work, identity, and adaptation at once) so a segment of readers self-identifies quickly (Joelle's practice)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Give a payment audit the reader can run: ask what would go missing on the first ordinary week without the pattern (who stops checking on you, what becomes uncertain, what you would feel at four in the afternoon) and treat the line that produces a flinch as the real return",
+    "Separate the four distinct reasons change stalls (picked the hardest pattern as a starting project, depleted rather than stuck, the environment needs changing more than you do, the need has no replacement) each with its own remedy",
+    "State the three conditions that must be present before a pattern shifts (payment named without shame, cost felt in the present tense, something valued more genuinely on offer) as an actionable checklist",
+    "Explain why time-bound self-help fails specifically (three weeks changes behavior but not the cueing environment; journaling installs the new response in a calm chair while the pattern fires elsewhere; state-dependent insight retrieved only by a calm version of you)",
+    "Provide a safety carve-out naming when to work with a professional now (substance use that has started running you, financial or physical risk, self-harm, active diagnosis, recent bereavement, months-long hopelessness)"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query verbatim, a boxed short answer states you are not short of information and the pattern keeps running because it keeps getting paid, then an identify-box of five verbatim self-talk lines and a seminar link, then the quarter-past-eleven-on-a-Tuesday scene; it strongly earns the scroll by naming the reader's exact stuck sentence and promising a described structure.",
+    "theirs": "Psychology Today opens with a Key Points box (insight alone rarely leads to change, the brain prioritises predictability, beliefs resist contradiction) then the client-cannot-see-the-warm-face scene; it earns the scroll efficiently with a skimmable summary and one vivid case.",
+    "gap": "Add a compact Key Points or takeaways strip above or beside the short-answer box so skimmers get the four load-bearing claims (pattern is paid, insight arrives into an unmoved state, three conditions for a shift, environment not willpower) before committing to the scroll."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is predictive processing and how does prediction error relate to why I can't change?",
+    "Why does clarity or more understanding sometimes make change harder rather than easier?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'even when I know what to do' is emotional and self-reproaching, the voice of someone who suspects they are the problem; ours answers in that register at the fold (the you-are-doing-it-again scene and the shame-removing 'it keeps getting paid' reframe), Psychology Today opens in a more clinical register (a Key Points box and predictive-processing terminology) that explains rather than meets the self-blame, and Joelle's practice matches the emotional register but redirects it toward booking a session.",
+  "trust_signals": "Psychology Today carries the strongest external signals (an editor-reviewed byline, a dated update, and a named neuroscience framework), Joelle's practice leans on first-person clinician authority tied to a CTA, and ours is more operationally specific but cites no named clinician, study, or framework term.",
+  "one_change_with_most_traffic_impact": "Add a short skimmable takeaways strip at the top plus the standard framework term (predictive processing or prediction error) near the short answer, capturing the definitional and skim intent the Psychology Today result ranks on without diluting our stronger operational payment-and-conditions coverage."
+}
