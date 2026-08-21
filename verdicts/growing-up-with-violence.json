@@ -1,0 +1,32 @@
+{
+  "slug": "growing-up-with-violence",
+  "query": "How does growing up around violence shape an adult?",
+  "competitors": ["https://www.urmc.rochester.edu/news/publications/health-matters/how-childhood-trauma-may-impact-adults", "https://online.yu.edu/wurzweiler/blog/8-signs-of-childhood-trauma-in-adults"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The organic front page for this query is dominated by academic journals and PDFs (JAMA, PMC, ScienceDirect, Springer) that the rubric skips, so the top two actual articles are URMC Rochester and Yeshiva's Wurzweiler blog. URMC is a short authoritative Q&A that never depicts the adult's lived experience and Wurzweiler is an eight-signs listicle written for aspiring social workers that ends as an MSW program ad; ours out-covers both on mechanism, self-recognition, differentials, and actionable practice while trailing only on visible citations.",
+  "what_the_winner_does_that_we_dont": [
+    "Names the ACE (Adverse Childhood Experiences) score explicitly and states the dose-response finding that higher ACE scores predict worse adult health outcomes (URMC)",
+    "Cites the two-thirds/one-in-six ACE prevalence statistics up front to establish how common this is (Wurzweiler)",
+    "Attributes claims to named experts with titles and to numbered references, giving visible provenance"
+  ],
+  "what_we_do_that_they_dont": [
+    "Answers directly whether witnessing counts (parents fighting, a violent sibling, discovered infidelity) rather than assuming direct abuse",
+    "Explains why two opposite behaviors (withdrawing from touch vs. aggression, avoiding vs. bingeing violent media) come from the same protective system",
+    "Provides a differential table separating the pattern from a private temperament, general anxiety, genuine equanimity, and a current unsafe situation",
+    "Gives eight small repeatable practices plus a concrete 48-hour 'return log' that tracks recovery time as the metric of change",
+    "Includes a resolved-end table showing what the settled state looks like on an ordinary Tuesday, plus 30-plus verbatim FAQs"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the exact query, the short-answer box gives the nervous-system-still-on-duty thesis with concrete tells (slammed door, seat facing the door), then five unspoken recognition sentences; a reader locates themselves immediately, earning the scroll.",
+    "theirs": "URMC opens with 'Some people assume we forget or outgrow trauma' and immediately names two clinicians, which reads credible but institutional; the reader meets a hospital explainer rather than their own experience.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is the difference between trauma and PTSD?",
+    "What is an ACE score and how does it predict adult outcomes?"
+  ],
+  "intent_mismatch": "none, though our page broadens from 'growing up around violence' into general childhood-trauma-in-adults framing, which is appropriate to the query rather than a mismatch",
+  "trust_signals": "URMC carries hospital authority with two named directors and Wurzweiler cites numbered references, while ours names no clinicians and cites no sources beyond a first-person founder account.",
+  "one_change_with_most_traffic_impact": "Add a visible authority layer to the body: a named author byline plus one or two cited sources (the ACE study and a startle/hyperarousal reference), since citations and named experts are the only dimension both competitors beat us on."
+}
