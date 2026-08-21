@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-trust-yourself",
+  "query": "How do you learn to trust your own judgement again?",
+  "competitors": ["https://www.moanacounselling.com/post/why-you-struggle-to-trust-your-own-decisions-and-what-actually-helps", "https://intuition.management/trust-your-intuition/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Moana Counselling offers a good therapist-blog frame (decision-making stopped feeling safe; reassurance helps briefly then makes it worse) and intuition.management lists seven reasons with an intuition-versus-anxiety split. Ours is more precise about the mechanism (a checkpoint where your own read waits for external clearance), explains why one wrong read about one person takes down the whole faculty, and covers gaslighting and narcissistic-abuse rebuilds in 33 FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Defines self-trust operationally: whether your own read counts as evidence before somebody else confirms it",
+    "Explains the checkpoint (perception waits for external clearance) and where it gets installed",
+    "Explains why one wrong read about one person generalizes to the whole faculty, which neither competitor addresses",
+    "Covers what to do in the moment somebody dismisses your read while it is happening",
+    "33 verbatim FAQs including post-gaslighting and post-narcissistic-abuse rebuilds, OCD reassurance, and food decisions"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer defines self-trust as a habit rather than a feeling and gives the rebuild shape (small repetitions checked against outcome), then recognition sentences.",
+    "theirs": "Moana Counselling opens with client-voice quotes (I know what I want, but I do not trust myself to choose it) from a named, credentialed therapist; instantly recognizable and human.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can intuition be wrong?",
+    "Does trusting your gut mean ignoring logic?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Moana Counselling shows a named therapist with credentials (MA, MSc, RCC); intuition.management brands its own frameworks; ours has no byline or citations.",
+  "one_change_with_most_traffic_impact": "none - ours covers both competitors' ground (the safety frame, the reassurance loop, intuition vs anxiety) with more mechanism; add the two intuition-phrased FAQs to capture that search variant."
+}
