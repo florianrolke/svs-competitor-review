@@ -1,0 +1,36 @@
+{
+  "slug": "self-loathing",
+  "query": "What is self loathing, and where does it come from?",
+  "competitors": ["https://my.clevelandclinic.org/health/symptoms/self-loathing", "https://childmind.org/article/what-is-self-hatred/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "serp_quality": "strong: two medically reviewed clinical explainers (Cleveland Clinic, Child Mind Institute with a named psychiatrist and a book) rank above thin dictionary and academic entries",
+  "why_in_two_sentences": "Ours answers both halves of the query far more completely, defining self loathing as an installed verdict rather than a feeling and mapping specific origin routes (conditional regard, invalidation, self-blame as a child's solution, pre-payment) alongside the adult everyday experience, while Cleveland Clinic is a short symptom-list definition and Child Mind is authoritative but reframed for parents of self-hating children. The competitors beat us only on external authority: Cleveland Clinic is medically reviewed with cited studies and Child Mind quotes a named psychiatrist (Blaise Aguirre, MD, McLean Hospital) and his book, which ours does not carry.",
+  "what_the_winner_does_that_we_dont": [
+    "Attribute the definition and developmental account to a named credentialed clinician with an institution (Blaise Aguirre, MD, McLean Hospital) and a published book (I Hate Myself), giving external authority (Child Mind)",
+    "Carry a visible medically-reviewed byline plus a dated review and a cited reference list including a depression self-blame study and an academic paper on self-loathing (Cleveland Clinic)",
+    "Name the specific evidence-based therapy modalities used to treat it, acceptance and commitment therapy (ACT) and dialectical behaviour therapy (DBT), so a searcher knows what treatment to ask for (Child Mind)",
+    "Name the clinical adjacency explicitly, that self loathing frequently occurs in borderline personality disorder and most commonly alongside depression, which is a question searchers arrive with (both)",
+    "Give a compact scannable signs-and-symptoms list (rumination, withdrawal, sleep and appetite change, low motivation) that lets a reader self-check in seconds (Cleveland Clinic)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Fully develop the 'where it comes from' half with distinct named routes: conditional regard and an internalised standard-setter, invalidation producing chronic self-doubt, self-blame as a child's survival solution, and pre-payment where being your own harshest critic pre-empts others",
+    "Separate self loathing from adjacent states in a six-row table (ordinary disappointment, useful self criticism, guilt, shame, low self-esteem) with the ten-second test of whether anything lifted after you fixed the thing",
+    "Explain why arguing with the voice fails via four concrete mechanisms (evidence re-filed, both sides run by one person, arguing hands it airtime, it is doing a protective job) and offer the third-door alternative",
+    "Give a self-recognition set of verbatim internal sentences plus a map of where it hides inside praise, help, rest, achievement, mistakes, kindness, wanting, and being known",
+    "Provide an ordinary-Tuesday picture of the other end (self-acceptance) and an eight-step practice, calibrated by an honest timeline of weeks for recognition and a year or more for the verdict to fade"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the full query, a boxed short answer defines self loathing as a settled verdict that began as someone else's evaluation, then an identify-box of five verbatim sentences and a seminar link, the eleven-at-night tooth-cleaning scene, and a crisis carve-out; it strongly earns the scroll by combining instant recognition, the origin hook, and a duty-of-care flag.",
+    "theirs": "Child Mind opens with a plain definition, key takeaways, and immediately grounds it in a named psychiatrist treating hospitalised teens, establishing authority and risk fast; Cleveland Clinic opens with a one-paragraph symptom definition and a medically-reviewed stamp.",
+    "gap": "Add one named clinical reference or a linked citation near the boxed short answer so the definition carries the external authority both competitors lead with."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What therapy treats self loathing?",
+    "Is self loathing linked to borderline personality disorder?",
+    "When should I see a healthcare provider about self loathing?"
+  ],
+  "intent_mismatch": "The searcher's phrasing is emotional rather than clinical (self loathing, where does it come from), and ours answers in exactly that register from the first-person adult side its fold speaks to, while Cleveland Clinic answers in a clinical symptom-and-treatment register and Child Mind answers in a third-person parent-of-a-child register; that audience shift in Child Mind is the only real mismatch, since its fold addresses the parent of a self-hating teen rather than the adult asking about themselves.",
+  "trust_signals": "Both competitors carry stronger external authority, Cleveland Clinic through a medically-reviewed byline and cited studies and Child Mind through a named psychiatrist, institution, and book, whereas ours is more specific and rigorous on lived mechanism but attributes nothing to a named expert or citation.",
+  "one_change_with_most_traffic_impact": "Add near the definition the clinical adjacency and treatment vocabulary the competitors rank on (self loathing is not a diagnosis but appears in depression and borderline personality disorder, and is worked with in ACT and DBT) plus one named clinical reference, capturing the definitional and authority intent without weakening our stronger origin and everyday-experience coverage."
+}
