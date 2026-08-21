@@ -1,0 +1,36 @@
+{
+  "slug": "self-sabotage",
+  "query": "Why do I sabotage myself?",
+  "competitors": ["https://www.verywellmind.com/why-people-self-sabotage-and-how-to-stop-it-5207635", "https://www.headspace.com/articles/are-you-sabotaging-yourself", "https://www.rootedtherapyhouston.com/blog/self-sabotage"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "serp_quality": "strong: Verywell Mind is a cited comprehensive explainer and Headspace and Rooted Therapy Houston both frame sabotage as protective, matching the query's why intent",
+  "why_in_two_sentences": "Ours answers the query's 'why' far more completely by naming the three protective jobs the behaviour does, the after-the-good-week timing tell, and a differential for telling sabotage apart from a sensible change of direction, where the competitors give solid but shorter cause lists and generic stop-procrastinating advice. A third competitor (Rooted Therapy Houston) was added because Headspace is thin and partly a product page, so both non-Verywell references rest on genuinely competitive protector-framed content.",
+  "what_the_winner_does_that_we_dont": [
+    "Cite numbered research references for its causal claims, including studies on relationship self-sabotage and academic procrastination, giving sourced authority (Verywell Mind)",
+    "Attribute the framing to named authors and their books (Susan Anderson, Taming Your Outer Child; the pro-self versus anti-self model) so the explanation carries external backing (Headspace)",
+    "Name the standard therapeutic frame explicitly as Internal Family Systems and label the protective parts (the Procrastinator, the Inner Critic, the People-Pleaser), giving searchers a modality and vocabulary to pursue (Rooted Therapy Houston)",
+    "Name the evidence-based treatment options directly, cognitive behavioural therapy (CBT) and dialectical behaviour therapy (DBT), so a reader knows what to ask a professional for (Verywell Mind)",
+    "Introduce the cognitive-dissonance mechanism by name with a concrete worked example (planning a wedding while disbelieving in stable marriage), a lens ours does not use (Verywell Mind)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Break the 'why' into three distinct protective jobs (buying an exit from exposure within seconds, protecting your explanation of yourself so untested potential survives, and defending against what success would demand)",
+    "Make the after-the-good-week timing the central diagnostic, telling the reader to lay recent endings on a timeline and mark the last good thing three to ten days prior",
+    "Provide a three-check differential (timing, residue, the sayable test) that separates sabotage from a genuine and healthy change of direction",
+    "Map six specific arenas (work, money, relationships, health, recognition, time) each with the outside behaviour and the verbatim sentence underneath, so a reader locates their own version",
+    "Distinguish behaviours that are merely costly from those that are dangerous (substances that run you, risky spending or driving or sex, self-harm) with an explicit carve-out to a licensed professional near the top"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query, a boxed short answer reframes sabotage as a protective job you can retire, then an identify-box of five verbatim sentences and a seminar link, and the day-four-or-five wrecking-after-a-good-week scene; it strongly earns the scroll by naming the exact week the searcher recognises and promising the underlying reason.",
+    "theirs": "Headspace opens with three second-person hooks (pulling away when things feel good, procrastinating on a dream project, talking yourself out of opportunities) then a plain definition and a named author, which lands the recognition quickly; Verywell Mind opens with key takeaways and a definition plus a scannable examples list.",
+    "gap": "Add one named clinical or research reference near the boxed short answer so the protective-job thesis carries the external authority Verywell Mind and Headspace lead with."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What therapy helps with self sabotage?",
+    "What is Internal Family Systems and how does it explain self sabotage?",
+    "How is cognitive dissonance involved in self sabotage?"
+  ],
+  "intent_mismatch": "The searcher's phrasing is emotional and first-person (why do I sabotage myself) rather than clinical, and ours answers in exactly that register from the opening scene onward, as does Headspace with its second-person hooks and Rooted Therapy with its compassionate protector frame; Verywell Mind answers in a more clinical third-person examples-and-causes register, so its fold is the mild register mismatch, addressing the topic rather than the person asking.",
+  "trust_signals": "The competitors carry more external authority (Verywell Mind through numbered citations and a named modality, Headspace through a named author and book, Rooted Therapy through an explicit IFS frame), whereas ours is more specific on mechanism and timing but cites no named expert or research.",
+  "one_change_with_most_traffic_impact": "Add near the definition the modality and treatment vocabulary the competitors rank on (self sabotage as protective parts in Internal Family Systems, worked with in CBT and DBT) plus one named or cited reference, capturing the definitional and authority intent without weakening our stronger why, timing, and differential coverage."
+}
