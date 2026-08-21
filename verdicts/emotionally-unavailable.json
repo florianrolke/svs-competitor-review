@@ -1,0 +1,34 @@
+{
+  "slug": "emotionally-unavailable",
+  "query": "What does emotionally unavailable actually mean?",
+  "competitors": ["https://www.healthline.com/health/emotionally-unavailable", "https://time.com/article/2026/04/03/emotionally-unavailable-partner-signs-therapists/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Healthline (PsyD-reviewed) gives a tidy partner-signs plus could-I-be-the-one list with generic fixes, and Time quotes four named therapists on a spectrum framing with concrete relational scripts, but both are primarily how-to-handle-a-partner pieces that stay behavioral and skip the mechanism. Ours matches the definitional query better and out-covers them on origins, the internal sentences, the both-directions pursuit-versus-preemption structure, and a real self-test, trailing only on named-expert authority and ready-made communication scripts.",
+  "what_the_winner_does_that_we_dont": [
+    "Quotes four named credentialed experts (Alexandra Solomon PhD of Northwestern, couples therapist Melissa Paul, MFTs Tara Gogolinski) so claims carry external authority (Time)",
+    "Gives a ready-to-use, non-defensive communication script for asking an unavailable partner for closeness: lead with 'I love it when you X' and a specific example rather than a criticism (Time)",
+    "States the origin line plainly and memorably: they cannot give you comfort they were never given, because they learned no one comes when they hurt (Time, Solomon)",
+    "Provides a scannable numbered signs list a reader can check against their partner (feeling lonely together, nervous to share, no follow-up curiosity, pulls back as intimacy deepens) (Time; Healthline has a parallel bulleted list)",
+    "Names couples counseling specifically as an option for the partnered reader (Healthline)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Explains the mechanism: distance as a learned skill from environments where showing feeling cost more than swallowing it, formed without a memorable scene, so it reads as temperament",
+    "Frames the two adaptations (pursuit: earning/pleasing/over-giving vs pre-emption: guardedness/keeping things superficial) as two halves of one pattern protecting the same need",
+    "Supplies verbatim internal sentences in two sets (the distancing version and the everyday pre-relationship version) so a reader recognizes their own phrasing, not just external behaviors",
+    "Includes an explicit professional-boundary section distinguishing ordinary distance from a control dynamic where warmth returns only when you back down",
+    "Turns the question on the reader with an honest self-test and shows the available end concretely on an ordinary Sunday, plus a realistic timeline for change"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the exact query; short-answer box defines unavailability as learned distance that keeps closeness survivable and frames availability as a buildable capacity, then an identify-box of five verbatim internal sentences. Definitional and dual-directional, earns the scroll.",
+    "theirs": "Healthline opens with a relatable six-months-in dating vignette and a PsyD medical-review byline, quickly promising a signs list; concrete and credible but frames the reader only as the partner of an unavailable person.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "How do I talk to my partner about being emotionally unavailable without putting them on the defensive?",
+    "Can couples counseling help with emotional unavailability?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Time cites four named therapists with institutions and Healthline carries a PsyD medical review, giving both external authority, whereas ours wins on lived specificity and mechanism but attributes to a founder with no clinical credential and cites no named experts.",
+  "one_change_with_most_traffic_impact": "Add one concrete, non-defensive script for naming the pattern out loud (a 'when you go quiet after a close night, here is what I need' phrasing), since both competitors give the reader something to say and ours diagnoses the moment vividly but never hands over the sentence to use in it."
+}
