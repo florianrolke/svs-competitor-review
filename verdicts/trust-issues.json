@@ -1,0 +1,36 @@
+{
+  "slug": "trust-issues",
+  "query": "What are trust issues, and where do they come from?",
+  "competitors": ["https://psychcentral.com/blog/trust-issues-causes-signs", "https://thriveworks.com/help-with/relationships/trust-issues/", "https://www.wondermind.com/article/trust-issues/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "serp_quality": "strong: PsychCentral is medically reviewed with named clinicians and cited studies, Thriveworks is a comprehensive signs-causes-tips explainer, and Wondermind directly frames the discernment question with named therapists",
+  "why_in_two_sentences": "Ours answers both halves of the query more usefully by splitting the single label into four distinct patterns that each need a different response and by separating damaged trust in others from damaged trust in your own judgment, where the competitors treat trust issues as one undifferentiated symptom cluster with a generic overcome-it list. A third competitor (Wondermind) was added because it directly matches our distinctive discernment-versus-pattern angle and carries named clinicians, so the verdict rests on more than the two authoritative-but-generic explainers.",
+  "what_the_winner_does_that_we_dont": [
+    "Cite dated research for causal claims, including a 2005 study on trust and need for control, a 2014 betrayal-trauma study, a 2015 romantic-distrust and attachment study, and a 2021 childhood-maltreatment study, establishing sourced authority (PsychCentral)",
+    "Quote named credentialed clinicians by name and title (Kali Wolken LMHC, Dr Kamran Eshtehardi, Kevin Coleman MFT; Layne Baker LMFT, Jennine Estes Powell LMFT, Susan Trotter PhD), giving the claims external backing (PsychCentral, Wondermind)",
+    "Name attachment theory explicitly and tie anxious and avoidant styles to inconsistent caregiving as the causal vocabulary searchers expect (Wondermind, PsychCentral)",
+    "Name the mental health conditions that carry distrust as a symptom (PTSD, and paranoia in delusional disorders) so a reader can see where a clinician fits (PsychCentral, Wondermind)",
+    "Give a linear numbered overcome-it path a reader can follow step by step (Thriveworks eight tips; Wondermind four steps)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Split the single label into four distinct patterns (hypervigilance, quiet testing, pre-emptive withdrawal, expected betrayal) in a table with the outside behaviour, the verbatim sentence, and what each is trying to prevent, then tell the reader to rank them against the last three months",
+    "Separate two different injuries that repair on different timelines: damaged trust in other people versus damaged trust in your own judgment and perception",
+    "Fully develop the no-betrayal origin route (inconsistent caregiving with no incident to point at) and give it a signature that looks like logistics rather than suspicion (identical weekend sleep schedule, plan B and plan C, same hairdresser for eleven years)",
+    "Provide a discernment-versus-pattern differential built on whether the caution updates, plus a ninety-second test (name three people you trust at three different levels and say why for each)",
+    "Draw an explicit control-dynamic and safety carve-out near the top (someone using your trust to control your money, movement, or safety; sustained efforts to convince you your perception is wrong) directing to a licensed professional"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the full query, a boxed short answer names the four patterns and both origin routes, then an identify-box of five verbatim sentences and a seminar link, and the reread-the-four-word-text scene plus the located-exit scene; it strongly earns the scroll by promising to sort the label into which pattern is actually yours.",
+    "theirs": "PsychCentral opens with a medically-reviewed byline and reframes trust issues as attachment-and-experience driven, then a scannable signs list and a paranoia distinction; Wondermind opens with the skeptical-versus-trust-issues hook that matches searcher self-doubt.",
+    "gap": "Add one named clinician or dated citation near the boxed short answer so the four-pattern thesis carries the external authority all three competitors lead with."
+  },
+  "questions_they_answer_that_we_dont": [
+    "How does attachment style cause trust issues?",
+    "Which mental health conditions involve distrust as a symptom?",
+    "What are step-by-step ways to rebuild trust with a specific person?"
+  ],
+  "intent_mismatch": "The searcher's phrasing is emotional and lay (trust issues, where do they come from) rather than clinical, and ours answers in that register while still doing the sorting work, as does Wondermind with its skeptical-versus-trust-issues hook; PsychCentral answers in a more clinical medically-reviewed register and Thriveworks partly in a third-person they-with-trust-issues register, so their folds lean slightly clinical or observational where the searcher is asking about themselves.",
+  "trust_signals": "The competitors carry stronger external authority through medically-reviewed bylines, dated cited studies, and multiple named clinicians, whereas ours is more specific and better organised on mechanism and taxonomy but attributes nothing to a named expert or research.",
+  "one_change_with_most_traffic_impact": "Add near the definition the attachment vocabulary and clinical adjacency the competitors rank on (inconsistent caregiving producing insecure attachment, distrust appearing in PTSD, and the paranoia distinction) plus one named or cited reference, capturing the definitional and authority intent without weakening our stronger four-pattern and two-axis coverage."
+}
