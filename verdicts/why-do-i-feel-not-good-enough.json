@@ -1,0 +1,33 @@
+{
+  "slug": "why-do-i-feel-not-good-enough",
+  "query": "Why do I always feel not good enough?",
+  "serp_quality": "strong: the top organic results are authored long-form essays on Psychology Today by named PhD writers plus several credentialed therapist blogs, not listicles or forums",
+  "competitors": ["https://www.psychologytoday.com/us/blog/the-regret-free-life/202505/why-we-never-feel-like-were-enough", "https://www.psychologytoday.com/au/blog/the-art-of-self-improvement/202601/the-not-good-enough-lie"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Ours answers the searcher's exact question with a single load-bearing thesis (not-good-enough is a verdict about capability, not worth, run by an evaluator that no achievement updates) and then makes it usable through verbatim self-recognition sentences, a formation map, a differential table separating it from low self-esteem and perfectionism, and concrete behaviour change, whereas both competitors are readable but abstract essays that reframe the feeling (de Botton status anxiety, Schaffner lack-stories and a Wizard of Oz parable) without ever letting the reader locate their own case or act on it. The competitors beat us only on named-author authority, both carrying a bylined PhD and a Psychology Today reviewer, which ours does not display near the answer.",
+  "what_the_winner_does_that_we_dont": [
+    "Display a named, credentialed byline and an editorial reviewer line at the top (Anna Katharina Schaffner PhD; Reviewed by Abigail Fagan) so the definition carries external authority before the reader commits",
+    "Attach a recognizable named framework to the feeling that a searcher can carry away in one phrase (Alain de Botton's status anxiety; the hedonic treadmill and hedonic adaptation) to make the concept memorable and quotable",
+    "Give a compact scannable checklist a reader can self-score against fast (the '3 Signs of Status Anxiety': keeping up with the Joneses, the achievement treadmill, outsourcing enoughness to external benchmarks)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Split the feeling into capability doubt versus worth doubt and hold that distinction across a six-row differential table (inadequacy, low self-esteem, impostor feelings, conditional worth, perfectionism, real skill gap) so the reader knows which repair applies, a separation neither competitor makes",
+    "Front an identify-box of verbatim first-person sentences ('I'm not good enough unless I'm the best', 'If I don't meet my high standards, I have let everyone down') so a searcher recognises their own case by phrasing rather than by theory",
+    "Trace three concrete formation routes (impossible or unstated standard, having your own read dismissed, early responsibility) and name why achievement never converts to felt competence (the bar recalibrates upward within a fortnight)",
+    "Provide mechanical, repeatable practices (write the one-line imperative note about the work and check whether it is actually about you; accept one compliment a week adding nothing; catch the discount before the word 'because') instead of a reframing invitation",
+    "Carry an explicit safety carve-out routing hopelessness, disordered eating, an actively bar-moving partner or manager, and self-harm thoughts to a professional or crisis line, which neither competitor includes"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query verbatim, a boxed short answer names the capability-not-worth thesis in three sentences, an identify-box of four verbatim self-sentences invites instant recognition, a seminar link, then the performance-review scene where one critical line outlives nine positive ones; it strongly earns the scroll by combining recognition and a mechanism the reader has not heard.",
+    "theirs": "Schaffner's opens with a credentialed byline, a reviewer line, and a hook question, then names the 'lack story' and its distorted-comparison mechanism; it earns the scroll on authority and a clean promise but offers no way for the reader to locate their own version.",
+    "gap": "Add a visible author byline and credential line near the top of the fold so the strong answer carries the same authority signal the Psychology Today competitors lead with."
+  },
+  "questions_they_answer_that_we_dont": [
+    "How does comparing myself to others online keep me feeling not enough?",
+    "Why does hitting a goal only make me happy for a minute before I chase the next one?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'Why do I always feel not good enough' is emotional and first-person, not clinical; our fold answers in that same emotional register with a boxed plain-language answer and verbatim self-sentences, while the stronger competitor's fold (Schaffner) answers one register up, in reflective essay language about 'lack stories' and comparison, so ours matches the searcher's register more closely and the competitor's is slightly more literary than the query asks for.",
+  "trust_signals": "Both competitors lead with a named PhD author and, in one case, a Psychology Today editorial reviewer, giving stronger surface authority, while ours is more specific and mechanism-driven but attributes its claims to no named expert or study near the answer.",
+  "one_change_with_most_traffic_impact": "Surface the author byline and a credential line within the above-the-fold block, matching the authority cue both ranking Psychology Today competitors lead with, without diluting our stronger recognition and mechanism coverage."
+}
