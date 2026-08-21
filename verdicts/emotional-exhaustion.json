@@ -1,0 +1,33 @@
+{
+  "slug": "emotional-exhaustion",
+  "query": "Why am I so tired in a way sleep doesn't fix?",
+  "competitors": ["https://health.clevelandclinic.org/why-you-wake-up-tired-after-8-hours-of-sleep", "https://medresearch.umich.edu/research-news/what-do-if-you-wake-tired-every-day"],
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "Google reads this query as sleep medicine, and both top results answer it that way: Cleveland Clinic lists six physical causes and the UMich piece names the exact phenomenon (unrefreshing, non-restorative sleep) with sleep-disorder routing. Ours answers the emotional-drain half better than anyone (alertness that never switches off, managing other people's feelings, why rest produces guilt), but it never names unrefreshing sleep, sleep apnea, or iron, so the slice of searchers with a physical cause is routed only through one generic doctor section.",
+  "what_the_winner_does_that_we_dont": [
+    "Names the literal phenomenon the query describes (unrefreshing or non-restorative sleep) and gives it a clinical frame",
+    "Enumerates the physical causes: sleep apnea and other disorders, underlying medical conditions, iron, sleep environment, diet",
+    "Both carry named sleep-medicine specialists (a PhD sleep specialist, a sleep-disorders-center founder)",
+    "Gives concrete when-to-get-a-sleep-study routing rather than a generic see-a-doctor note"
+  ],
+  "what_we_do_that_they_dont": [
+    "Explains the emotional-drain mechanism: years of staying alert and managing others' feelings leave a system that does not switch off overnight",
+    "Explains why performance holds while the capacity to feel and connect goes, and why loved ones become the most expensive people",
+    "Explains why rest produces guilt instead of relief and why a weekend leaves you more tired",
+    "Covers the burnout differential and the nothing-is-wrong embarrassment directly",
+    "34 verbatim FAQs including five-minute phone calls with a parent, caring professions, and brain fog"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer states the drain is emotional and sleep repairs the physical kind, then recognition sentences; correct for its reader, but it pre-empts the physical workup the SERP leads with.",
+    "theirs": "Cleveland Clinic opens by validating the premise (more sleep does not equal more energy; how you sleep matters) and lists six concrete causes; the searcher feels answered immediately.",
+    "gap": "Add a one-line physical workup bridge in the answer box (rule out sleep apnea, iron, and thyroid first; if those come back clear, the rest of this page is the map) so the fold serves both intents."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is unrefreshing (non-restorative) sleep?",
+    "Can low iron or a sleep disorder be why sleep does not fix my tiredness?"
+  ],
+  "intent_mismatch": "Partial: the SERP treats the query as sleep medicine while our page treats it as emotional drain; both intents are real, and ours routes the physical half only through a generic professional-boundary section.",
+  "trust_signals": "Cleveland Clinic shows a named PhD sleep-medicine specialist; UMich quotes the founder of a sleep disorders center; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add a physical-causes-first block naming unrefreshing sleep, sleep apnea, iron, and thyroid with a clear workup path; both page-one incumbents are sleep-medicine pages, and matching that intent at the top would keep the physical-cause searchers our current fold sends away."
+}
