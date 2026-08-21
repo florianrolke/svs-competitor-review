@@ -1,0 +1,28 @@
+{
+  "slug": "lack-of-guidance-growing-up",
+  "query": "What happens when nobody taught you how to live?",
+  "competitors": ["https://dualisticunity.com/the-moment-you-realize-no-one-knows-how-to-live/", "https://www.academies24.com/nobody-prepared-you-for-adult-life-and-that-wasnt-an-accident/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Ours covers the adult-experience angle the query implies with far more depth, differential diagnosis, and self-recognition tooling, while dualisticunity is an abstract essay with no practical handles and academies24 is generic 'adulting/schools-failed-us' SEO filler aimed at young people. Neither competitor separates this pattern from perfectionism, low mood, or newness, or addresses the 'competent at work, adrift at home' case that defines the query's real audience.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Provides a side-by-side table distinguishing lack of guidance from perfectionism (standard never set vs. set beyond reach) and a second 'what else could this be' table ruling out exhaustion, low mood, being new to a role",
+    "Names the core paradox the query audience actually lives: high performance inside a job that supplies a scorecard vs. drift in evenings, friendships, health, and long-term direction",
+    "Gives concrete build steps: form your own view in writing before asking, cap input at one or two people, run a four-week trial with a calendar review date, keep a written record of decisions and outcomes",
+    "Includes a self-recognition list of verbatim internal sentences ('Someone more qualified should be doing this') so readers can identify the pattern by their own phrasing",
+    "Has a distinct 'when to see a professional' safety section flagging sustained low mood, anhedonia, hopelessness, self-harm thoughts, addiction, and external constraints (money, legal, unsafe home)"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query verbatim, a boxed 'short answer' defines the pattern as a missing skill (not a character flaw) that is buildable at any age, then an identify-box of five first-person quotes plus a seminar link; it clearly earns the next scroll because the reader sees themselves and gets an immediate reframe.",
+    "theirs": "dualisticunity opens with 'the ground quietly giving way' and 'the people in charge don't actually know what they're doing,' an evocative hook that names the disorientation but promises reflection rather than any resolution or action.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Why do we rush to replace authority with gurus, ideologies, or productivity frameworks?",
+    "Which basic life skills (budgeting, credit, taxes, cooking, time management) were never taught, and where do you learn them now?"
+  ],
+  "intent_mismatch": "Minor: academies24 reframes the query as a young-adult/schools-failed-us 'adulting' story, whereas our page correctly answers the deeper adult self-direction question; ours has no mismatch.",
+  "trust_signals": "Ours names a real author (Florian Rolke, Founder) with Article/FAQ schema and highly specific, testable claims, whereas dualisticunity is anonymous abstract commentary and academies24 is unsigned SEO content padded with cross-promo links.",
+  "one_change_with_most_traffic_impact": "Add a short, concrete 'basic life skills you were never taught' section (deciding under uncertainty, setting a standard, budgeting-style practical calls) to capture the how-to/adulting search intent that academies24 ranks for, without diluting the psychological framing."
+}
