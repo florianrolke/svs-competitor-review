@@ -1,0 +1,29 @@
+{
+  "slug": "avoidant-attachment",
+  "query": "What is avoidant attachment?",
+  "competitors": ["https://www.webmd.com/parenting/what-is-avoidant-attachment", "https://www.attachmentproject.com/blog/avoidant-attachment-style/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "WebMD and Attachment Project both deliver competent textbook definitions with trait lists and medical-review stamps, but neither gets past description into mechanism. Ours names deactivation, gives the timing tell (withdrawal follows the good week, not the bad one), separates the pattern from avoidant personality disorder and from genuine independence, and answers 30+ verbatim reader questions neither competitor touches. (The #2 organic result, a UC Davis research PDF, was skipped as an academic paper rather than an article; the next article result was taken.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explains deactivation as the mechanism and shows it running pre-verbally, before any conscious choice is available",
+    "Gives the timing diagnostic (withdrawal tracks intimacy, not conflict) as the primary way to locate the pattern in your own history",
+    "Separates avoidant attachment from avoidant personality disorder and from genuine independence with a differential table",
+    "Covers the partner's side (steadiness without pursuit) plus 30+ real-phrased FAQs on ghosting, delayed grief after breakups, and being unable to say I love you back",
+    "States plainly that no page or quiz can diagnose anyone"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query verbatim, then a four-sentence direct answer, then five first-person recognition sentences; earns the next scroll through self-recognition.",
+    "theirs": "WebMD opens with a plain-language definition under a Medically Reviewed by MD stamp; instantly credible but generic and interchangeable with any health site.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is the difference between dismissive and fearful avoidant attachment?",
+    "What are the signs of avoidant attachment in children?",
+    "Can parents do anything to prevent avoidant attachment in their child?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors show named medical reviewers, publication dates, and (Attachment Project) a numbered sources list; ours cites no research and names no provenance, relying entirely on the writing.",
+  "one_change_with_most_traffic_impact": "Add a short sources block naming the attachment research the page already paraphrases, closing the only real trust-signal gap against medically reviewed competitors."
+}
