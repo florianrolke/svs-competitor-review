@@ -1,0 +1,28 @@
+{
+  "slug": "emotional-manipulation",
+  "query": "How do you recognise emotional manipulation?",
+  "competitors": ["https://www.healthline.com/health/mental-health/emotional-manipulation", "https://www.gottman.com/blog/emotional-manipulation-signs-you-shouldnt-ignore/"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Healthline's thirteen-sign list with example quotes is the best scannable recognition content in this batch, and Gottman brings the relationship-research brand plus an is-it-abuse escalation frame. Ours wins on the recognition test itself (watch what your no costs; persuasion lets a no land cleanly), on the persuasion-versus-manipulation differential, and on the both-directions honesty (you may be making some of these moves), with 36 verbatim FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Gives a single portable test (what does saying no cost, and who set that price) instead of a sign list to memorize",
+    "Separates manipulation from persuasion and from somebody simply having a need, the differential the query implies",
+    "Covers the steering direction honestly: three of the recognition sentences belong to the person doing the steering",
+    "Explains the levers (guilt for an undeclared debt, warmth that cools on disagreement, the clock from nowhere) as mechanisms",
+    "36 verbatim FAQs including coercive control, love bombing, over-explaining as a tactic, and whether calling someone manipulative is itself a move"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the no-cost test and the persuasion contrast, then recognition sentences split by direction; the reader gets a tool, not a list.",
+    "theirs": "Healthline opens with thirteen named signs, each with an example quote, under a medical-review byline; instantly scannable and directly on the query.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is intellectual bullying in a relationship?",
+    "Why does a manipulator stay calm and composed while you get more upset?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Healthline shows medical review by a PhD; Gottman carries the strongest relationship-research brand in the space and cites a source for its definition; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add the calm-versus-upset asymmetry and intellectual bullying as FAQs; they are the two Healthline signs our lever-based account does not translate, and both are high-recognition moments for this searcher."
+}
