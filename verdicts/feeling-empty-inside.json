@@ -1,0 +1,28 @@
+{
+  "slug": "feeling-empty-inside",
+  "query": "Why do I feel empty inside?",
+  "competitors": ["https://www.verywellmind.com/i-feel-empty-5195295", "https://mindfulselfhelp.com/why-do-i-feel-empty-inside-science-backed-ways-to-find-meaning"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Verywell Mind covers the bases in template form (physical causes, emotional causes, what to do) and Mindful Self Help adds a meaning-focused, research-cited take. Ours explains the pattern neither can: why there is no event to point at, why it arrives on the same schedule every week, why filling life with good things fails, and why affection lands just short, with 34 verbatim FAQs. (The #2 organic result, a PubMed abstract page, was skipped as not an article; the next article result was taken.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explains the emptiness as missing internal structure (registering worth, holding connection) rather than a mood or a circumstance",
+    "Covers the timing signature: emptiness arriving at the same times every week, in stillness, on Sundays, after parties",
+    "Explains why filling life with good things fails and why it worsens right after something good happens",
+    "Separates emptiness from depression and boredom in its own differential section",
+    "34 verbatim FAQs including the physical hole-in-the-chest sensation, performing your own life, and what to do tonight"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer names the missing-structure explanation and the stillness pattern, then recognition sentences; the nothing-happened reader is answered immediately.",
+    "theirs": "Verywell Mind opens with a key-takeaways box leading with sleep and stress; practical, but it frames emptiness as a lifestyle symptom first.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can poor sleep or plain exhaustion cause feeling empty?",
+    "Why don't I care about anything anymore?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Verywell Mind shows medical review and cites causes carefully; Mindful Self Help references research throughout; ours names no sources or people.",
+  "one_change_with_most_traffic_impact": "Add a physical-causes check (sleep debt, exhaustion, caregiver overload) before the structural material; Verywell Mind leads with it and it is the most common non-psychological driver our page skips entirely."
+}
