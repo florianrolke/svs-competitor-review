@@ -1,0 +1,36 @@
+{
+  "slug": "fear-of-abandonment",
+  "query": "What is fear of abandonment?",
+  "competitors": ["https://www.verywellmind.com/fear-of-abandonment-2671741", "https://psychcentral.com/health/abandonment-trauma"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Our page defines the term precisely and then covers far more of the query's real subtopics (the two opposite directions, why steadiness feels dangerous, autophobia/BPD disambiguation, body sensations, working on it while single) than either competitor. Verywell Mind's only real advantages are cited statistics, a scannable up-front symptom list, and named therapy modalities; PsychCentral answers a slightly different query (abandonment trauma) rather than 'what is fear of abandonment.'",
+  "what_the_winner_does_that_we_dont": [
+    "Verywell presents a scannable up-front bulleted symptom checklist ('attach quickly, avoid commitment, aim to please, jealous, sensitive to criticism') that skimmers get instantly",
+    "Verywell names specific therapy modalities as options (CBT, attachment-based therapy, behavioral therapy, play therapy for children)",
+    "Verywell explains 'object constancy' as a developmental mechanism, giving a concrete named concept for why the fear forms",
+    "Verywell includes a stage-by-stage walkthrough of how the fear plays out across a relationship's arc (getting to know, honeymoon, real relationship, the slight, the reactions)",
+    "Verywell cites numbered research/statistics (e.g., ~10% of US adults have a phobia), lending sourced authority"
+  ],
+  "what_we_do_that_they_dont": [
+    "Maps the two opposite strategies (bind-in/over-give vs never-arrive) and shows the same person runs both, with a behavior table (indispensable, monitoring, concealing, testing, leaving first, never arriving)",
+    "Explains why a calm/stable stretch feels more dangerous than conflict",
+    "Disambiguates the search intent explicitly: autophobia/monophobia vs abandonment, and that it is not a diagnosis and appears in but is not exclusive to BPD",
+    "Covers where it shows up outside romance (friends, family, work, own success, endings of any kind)",
+    "Gives concrete practice scripts for telling a partner without making reassurance their job, and for working on it while single",
+    "Places a clear safety/professional-help boundary (control dynamics, self-harm, addiction) high on the page"
+  ],
+  "above_the_fold": {
+    "ours": "Reader sees H1 'What is fear of abandonment?', a boxed short-answer definition, then five first-person recognition sentences and a seminar CTA. It defines the term and validates the reader, earning the scroll, but leads with reflective sentences and a seminar link rather than the observable symptom list searchers scan for.",
+    "theirs": "Verywell opens with 'Key Takeaways' bullets and a one-line plain definition ('the overwhelming but unwarranted fear that people you love will leave you physically or emotionally'), then jumps straight into a scannable Symptoms bullet list.",
+    "gap": "Add a short scannable list of observable symptoms/behaviors near the top (in addition to the internal sentences) so the fold matches what searchers of a definitional query skim for and Verywell delivers immediately."
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is object constancy and how does its interruption cause fear of abandonment?",
+    "What therapy treats fear of abandonment?",
+    "What are the stages a relationship goes through when one person has fear of abandonment?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Verywell carries numbered inline citations and a clinician-reviewed byline and PsychCentral quotes a named marriage-and-family therapist, whereas our page is more specific and behaviorally precise but attributes authorship to a seminar founder with no cited research or clinical credential.",
+  "one_change_with_most_traffic_impact": "Insert a concise scannable 'Signs of fear of abandonment in adults' bulleted list of observable behaviors immediately after the short-answer box, matching the symptom-list format the top-ranking competitor leads with and that definitional-query searchers most want to skim."
+}
