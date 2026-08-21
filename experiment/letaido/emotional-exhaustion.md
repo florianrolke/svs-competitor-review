@@ -118,8 +118,27 @@ Pulled 2026-08-21 (US), via Brand Radar + Keywords Explorer + live SERP.
    reference ranges, named criteria) rather than on breadth, since it cannot
    out-authority Mayo or the NHS.
 
-NOT USED: cited_domains aggregate endpoint (approval pending at time of
-writing; per-response sitelink data above covers the same ground).
+5) Brand Radar, cited_domains (aggregate, niche = adrenal fatigue / chronic
+   fatigue syndrome / always tired / emotional exhaustion; ChatGPT+Gemini+
+   Perplexity, US, public queries). 2,319 cited domains. Top by responses,
+   cited_responses in brackets:
+     pmc.ncbi.nlm.nih.gov 141 [58] DR 95, en.wikipedia.org 106 [69] DR 97,
+     reddit.com 104 [57] DR 95, healthline.com 97 [37] DR 92,
+     pubmed 90 [43] DR 95, webmd.com 85 [36] DR 92, mayoclinic.org 76 [38],
+     endocrine.org 73 [54] DR 84, clevelandclinic 45 [19],
+     niddk.nih.gov 33 [24], health.harvard.edu 28 [9],
+     lamclinic.com 23 [6] DR 55, rthm.com 27 [8] DR 36.
+   CHANGED, one thing: endocrine.org has the highest cite-through ratio of any
+   major domain here (54 cited out of 73 responses, ~74%, against Healthline's
+   38% and Reddit's 55%), despite the lowest DR of the institutional set. High
+   cite-through tracks a page that answers one contested question outright.
+   That is the shape this article was already taking on adrenal fatigue, and
+   it is why the verdict is stated flatly in the first line of that section
+   and in the FAQ answer rather than hedged, and why Cadegiani & Kater is
+   named with its actual numbers. Also note the two low-DR outliers
+   (lamclinic.com DR 55, rthm.com DR 36) getting cited at all: this niche is
+   citable on specificity, not authority, which the SERP data in (4)
+   suggested and this confirms.
 -->
 ---
 title: "Why Am I So Tired in a Way Sleep Doesn't Fix?"

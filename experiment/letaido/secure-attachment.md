@@ -79,8 +79,22 @@ Pulled 2026-08-21 (US), via Brand Radar + Keywords Explorer + live SERP.
    frame the engine already uses, then went past it, since the AIO answer
    contains no researcher names, no numbers, and no failure modes.
 
-NOT USED: cited_domains aggregate endpoint (approval pending at time of
-writing; per-response sitelink data above covers the same ground).
+5) Brand Radar, cited_domains (aggregate, niche = attachment style / secure
+   attachment / attachment theory / avoidant / anxious; ChatGPT+Gemini+
+   Perplexity, US, public queries). 7,258 cited domains total. Top by
+   responses, with cited_responses in brackets:
+     reddit.com 551 [148] DR 95, youtube.com 480 [54] DR 99,
+     en.wikipedia.org 167 [73] DR 97, pmc.ncbi.nlm.nih.gov 50 [15] DR 95,
+     psychologytoday.com 38 [19] DR 93, pubmed 34 [17] DR 95,
+     goodreads.com 58 [19], amazon.com 129 [11], merriam-webster 42 [12].
+   CONFIRMS rather than changes: this broad cut is heavily contaminated by
+   the literal sense of "attachment" (Home Depot, Lowe's, Alibaba, Walmart,
+   Instructables all rank high because of tool and mixer attachments), which
+   is itself the finding, the term is ambiguous to the retrieval layer. Within
+   the psychology slice the ranking matches the per-response pull in (2):
+   UGC and encyclopedia first, primary literature thin. No structural change
+   to the article; it reinforced the decision in (2) to compete on named
+   primary-source provenance rather than on breadth.
 -->
 ---
 title: "What Does Secure Attachment Actually Look Like?"
