@@ -1,0 +1,27 @@
+{
+  "slug": "feeling-invisible",
+  "query": "Why do I feel invisible to people?",
+  "competitors": ["https://www.bbc.com/future/article/20230526-felt-presence-why-we-sometimes-feel-invisible-others", "https://www.scientificamerican.com/blog/illusion-chasers/the-invisibility-cloak-illusion/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The top of this SERP is journalism, not help content: the BBC piece is actually about the felt-presence phenomenon during extreme isolation (off the query's intent), and Scientific American reports the invisibility-illusion finding that people watch you more than you think. Ours is the only page answering the emotional query directly: the loop where learned habits lower how much you get noticed and the resulting silence reads as proof, with 34 verbatim FAQs. (The #2 organic result, a Hidden Brain podcast page, was skipped as not an article; the next article result was taken.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Answers the actual emotional query rather than an adjacent neuroscience story",
+    "Names the loop: childhood non-registration teaches habits (staying quiet, deflecting, saying you are fine) that genuinely lower adult noticeability, and the silence confirms the belief",
+    "Separates being overlooked from being needed without being seen",
+    "Explains why wanting to be seen and dreading it arrive together, and why the attention you do get never lands",
+    "34 verbatim FAQs covering invisibility in marriage, at work, after a baby, and at church"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer describes the loop in four sentences and states it breaks from your side, then recognition sentences.",
+    "theirs": "Scientific American opens with the counterintuitive claim that you are watched more than you think; interesting, but it answers a question the searcher did not ask.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Do people actually notice me more than I think they do?"
+  ],
+  "intent_mismatch": "none on our side; note that the #1 organic result (BBC) answers a different question entirely, which suggests this SERP has no strong incumbent help article.",
+  "trust_signals": "BBC and Scientific American carry major-outlet authority and named science writers; ours has no byline or citations but is the only result written for the person actually asking.",
+  "one_change_with_most_traffic_impact": "Engage the invisibility-illusion finding (people notice you more than you think) inside the why-attention-never-lands section; it is the only research hook on page one and it sharpens our loop explanation rather than contradicting it."
+}
