@@ -1,0 +1,35 @@
+{
+  "slug": "feeling-responsible-for-everyone",
+  "query": "Why do I feel responsible for everyone?",
+  "competitors": ["https://www.counselling-directory.org.uk/articles/why-do-i-always-feel-responsible-for-everyone", "https://www.psychologytoday.com/us/blog/childhood-emotional-neglect/202209/how-emotional-neglect-makes-you-feel-excessively"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Our page answers the query directly and vastly out-covers both competitors, adding a differential-diagnosis table (responsibility vs conscientiousness/leadership/burnout/empathy/perfectionism), a per-situation 'what is yours vs theirs' split table, and mechanism-by-mechanism explanations neither competitor attempts. The competitors' edges are named credentialed authors with cited theory (Counselling Directory) and a famous CEN author with a crisp numbered action list plus a diagnostic questionnaire (Psychology Today).",
+  "what_the_winner_does_that_we_dont": [
+    "Psychology Today gives a short numbered '3 Steps to Feeling Less Responsible' (focus inward, prioritize yourself, set boundaries) that a reader can act on immediately",
+    "Psychology Today links to a free diagnostic self-assessment (Emotional Neglect Questionnaire) as an interactive next step",
+    "Counselling Directory names the specific clinical framework (schema therapy 'self-sacrifice schema') and cites attachment research (Bowlby, Mikulincer & Shaver, Butler & Randall), giving a sourced explanatory backbone",
+    "Both anchor the pattern to a single named origin concept (childhood emotional neglect / self-sacrifice schema) that gives readers a searchable label to pursue"
+  ],
+  "what_we_do_that_they_dont": [
+    "Provides a differential table separating this from conscientiousness, leadership, burnout, empathy, and perfectionism, with the exact tell for each",
+    "Gives a per-situation 'what is genuinely yours vs what belongs to them' table (friend in a bad relationship, colleague missing deadlines, lonely parent, sibling short of money, partner in a mood, group plan gone quiet)",
+    "Offers two concrete self-tests (delegate a low-stakes task and watch the anxiety; rest with all obligations met and see if guilt shows up)",
+    "Explains distinct mechanisms separately: vigilance vs the worth-as-output ledger behind an empty Sunday, and why delegating specifically feels like abandonment",
+    "Distinguishes the pattern from codependency and from parentification, and covers non-relational arenas (work delegation, group chats, strangers)",
+    "Places a clear safety/professional-help boundary (sole carer at end of road, escalating family, active addiction, self-harm) high on the page"
+  ],
+  "above_the_fold": {
+    "ours": "Reader sees H1 'Why do I feel responsible for everyone?', a boxed short-answer, four first-person recognition sentences, and a seminar CTA. It names the pattern and validates the reader, earning the scroll, but leads with reflective sentences and a seminar link rather than a scannable causes/signs list or a labeled framework.",
+    "theirs": "Psychology Today opens with bulleted key takeaways, a plain thesis (excessive responsibility stems from childhood emotional neglect), everyday examples (hosting a party, covering a coworker), and a numbered four-theme breakdown, giving fast orientation and a named cause up top.",
+    "gap": "Add a short scannable up-front block that names the likely cause in plain terms and previews concrete next steps (or signs), so the fold gives a labeled takeaway rather than only recognition prose before the seminar CTA."
+  },
+  "questions_they_answer_that_we_dont": [
+    "How is feeling excessively responsible linked to childhood emotional neglect?",
+    "What are the concrete steps to feel less responsible for everyone?",
+    "What is the self-sacrifice schema in schema therapy?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors carry named, credentialed authors (Sarah Hopton MBACP Snr Accred.; Jonice Webb PhD, a well-known author on emotional neglect) with cited theory and research, whereas our page is more specific and comprehensive but is bylined to a seminar founder with no citations or clinical credential.",
+  "one_change_with_most_traffic_impact": "Add a concise numbered 'how to feel less responsible' action list (or a scannable signs/causes block) near the top of the page, matching the actionable-steps format Psychology Today ranks with and giving skimmers a takeaway before the seminar CTA."
+}
