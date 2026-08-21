@@ -1,0 +1,35 @@
+{
+  "slug": "parentification",
+  "query": "What is parentification, and what does it cost later?",
+  "competitors": ["https://www.abc.net.au/news/2026-08-05/what-is-parentification-how-to-heal-from-it/106989408", "https://www.self.com/story/parentification-explainer"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Ours answers the query's 'what it costs later' half far more thoroughly, mapping the adult profile (competent in crisis, depleted on an ordinary week, unable to rest without earning it) and separating true parentification from simply being a responsible kid, while ABC and SELF are strong definitional explainers that treat adult cost more briefly. The competitors beat us only on authority signals ABC cites named credentialed psychologists and a prevalence stat, SELF quotes named PhDs which ours does not carry.",
+  "what_the_winner_does_that_we_dont": [
+    "Cite a concrete prevalence statistic with source (a large 2021 nationally representative Poland study suggesting up to one in three adolescents experience emotional parentification) to establish scale",
+    "Quote named, credentialed experts by name and title (Dr Rachael Sharman, Deirdre Brandner, Dr Dara Winley PhD LMFT, Dr Robyn Koslowitz PhD) so the definition carries external authority",
+    "Anchor the two subtypes with the standard field terms 'instrumental parentification' (practical tasks) vs 'emotional parentification' (managing the parent's emotions), and state that the emotional form is considered more damaging",
+    "Give a named, list-form heal path readers can act on: emotional disclosure to trusted adults, separating care from responsibility, learning to tolerate guilt, developing a sense of self, learning to receive care",
+    "Use recognizable pop-culture reference points (Gilmore Girls, Shameless) to help a searcher self-identify the dynamic quickly (SELF)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Fully develop the 'what it costs later' half of the query with the adult profile: competence with no off switch, steady in a crisis, depleted on a normal week, unable to rest without earning it first",
+    "Provide a differential distinguishing genuine parentification from simply having been a responsible or helpful child, which is the exact confusion searchers arrive with",
+    "Open with a lived contrast scene (calm during a colleague's ER emergency vs. frozen in the cereal aisle over what you want) that dramatizes the identity/wanting cost neither competitor names",
+    "Give a self-recognition list of verbatim internal sentences ('If I don't hold it, it falls', 'If I stop being useful, what am I for?') for identification by one's own phrasing",
+    "Front-load an explicit safety carve-out (childhood violence, sexual boundary violations, managing an addicted adult, current caregiver collapse, sustained hopelessness, self-harm thoughts) directing to a licensed professional"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the full query, a boxed short answer defines parentification and names the adult cost, then an identify-box of five verbatim sentences, a seminar link, the cereal-aisle-vs-crisis scene, and a safety note; it strongly earns the scroll by combining recognition, the 'cost later' hook, and a duty-of-care flag.",
+    "theirs": "ABC opens with a real survivor's story (Eve, running the household as a teen and acting as her mother's 'quasi-counsellor') then an expert definition, immediately grounding the concept in a concrete lived case plus named authority.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "How common is parentification?",
+    "What is the difference between instrumental and emotional parentification?",
+    "How do I stop repeating the pattern with my own children?"
+  ],
+  "intent_mismatch": "Minor: SELF is partly written for the parent who is doing the parentifying (boundary advice), whereas the query is asked from the adult-survivor side that ours answers directly; ours has no mismatch.",
+  "trust_signals": "Both competitors cite named credentialed clinicians (and ABC a sourced prevalence stat and a real case study), giving stronger external authority than ours, which is highly specific and rigorous but attributes claims to no named expert or research.",
+  "one_change_with_most_traffic_impact": "Add the standard field terminology 'instrumental vs emotional parentification' plus one sourced prevalence figure and a named clinical reference near the definition, capturing the definitional/authority intent the competitors rank on without weakening our stronger adult-cost coverage."
+}
