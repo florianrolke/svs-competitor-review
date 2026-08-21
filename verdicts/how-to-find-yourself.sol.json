@@ -1,0 +1,39 @@
+{
+  "slug": "how-to-find-yourself",
+  "query": "How do you find yourself again?",
+  "competitors": [
+    "https://positivepsychology.com/how-to-find-yourself/",
+    "https://positivepsychology.com/loss-of-identity/"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Both competitors are readable, article-form pieces from the same positive-psychology publisher, so no substitution was needed. Ours wins on mechanism, coverage depth, and scenario-specific answers, while the two competitors only out-compose us on a scannable top-of-page summary box and inline research citations for authority.",
+  "what_the_winner_does_that_we_dont": [
+    "Open the article with a boxed three-line summary (competitor's 'Take-Away Trio': one myth line, one fact line, one action line) so a skimmer gets the thesis before scrolling; add an equivalent compact summary block distinct from our prose short-answer paragraph.",
+    "Insert an in-page 'This Article Contains' jump-link table of contents listing every H2, so readers can navigate our long page directly to sections like the safety block, the ordinary-week table, or the 8-step protocol.",
+    "Attach inline parenthetical citations to named research (e.g. self-determination theory, narrative identity, self-concept-clarity studies) at the claims where we assert mechanism, and add a References section, since both competitors carry sourced authority we currently lack.",
+    "Add a scannable bulleted 'signs you might be in an identity shift' checklist as its own section, converting content we only deliver as prose into a fast self-identification list.",
+    "Add a short standalone 'risks of staying disconnected' section (competitor 2 lists concrete downstream costs) to give readers a stakes summary we never state in one place."
+  ],
+  "what_we_do_that_they_dont": [
+    "Provide a mechanistic model of the blank (two circuits at different speeds, the scan finishing before the preference) rather than framing it only as a normal transition.",
+    "Ship a concrete numbered 8-step rebuilding protocol at low stakes (order first, three-second pause, one defended empty hour, track what happened after) instead of five abstract directions.",
+    "Include a dedicated 'when this belongs with a professional' safety section covering sustained flatness, self-harm thoughts, and controlled/coercive home situations.",
+    "Answer 34 FAQs including scenario-specific queries (after a breakup, after divorce, after children, after trauma, while staying in the relationship, whether it differs for women) that neither competitor covers.",
+    "Provide a differential-diagnosis table separating this pattern from indecision, depletion, clinical anhedonia, protective numbness, and genuine easygoingness.",
+    "Provide a 'recovered end' table translating the fixed state into concrete ordinary-Wednesday behaviours, giving readers a destination the competitors never picture."
+  ],
+  "above_the_fold": {
+    "ours": "Reader sees the H1 question, a boxed 'short answer' paragraph, and a list of self-recognition sentences (\"I'm easy, whatever works\") plus a seminar link; the recognition list earns the next scroll but the answer arrives as a dense paragraph rather than a scannable summary.",
+    "theirs": "Competitor 1 shows the H1, a boxed 'Take-Away Trio' (myth line, fact line, one action to try) and a short reassuring opener, so the thesis and one immediate action are visible before any scrolling.",
+    "gap": "Add a compact scannable summary block (three to four one-line takeaways) above or beside our prose short-answer, so a skimmer gets the claim-plus-first-action at a glance the way the competitor's boxed trio does."
+  },
+  "questions_they_answer_that_we_dont": [
+    "Why do I feel lost even when my life looks fine from the outside?",
+    "Is losing your sense of self the same as an identity crisis?",
+    "What are the risks of staying disconnected from yourself?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors carry named authors, a 'scientifically reviewed by' credentialed byline, and inline peer-reviewed citations with a References list, whereas ours offers a named author and lived-experience specificity but no external sourcing.",
+  "one_change_with_most_traffic_impact": "Add a scannable boxed summary of key takeaways at the top plus a jump-link table of contents, so our deeper content becomes skimmable and navigable the way both ranking competitors are."
+}
