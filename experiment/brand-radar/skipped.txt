@@ -1,0 +1,9 @@
+- ai_responses_results.all_65_questions: args_invalid — The ai_responses_results niche scope does not accept url_match parameter; full-text question strings also yield no matches against ~30M indexed queries
+- generate_custom_queries.all_8_themes: not_approved — surface='agent' approval pending (ID #5)
+- search_demand_results.cross_reference: not called due to generate_custom_queries failure
+
+Workaround applied:
+- ai-responses-by-question.csv contains all 65 attempted questions marked [NO RESULTS]
+- prompts-by-theme.csv uses top-cited domains per theme as demand proxy
+
+data note: Ahrefs Brand Radar indexes primarily commercial/e-commerce queries. Psychology/self-help Q&A has virtually no coverage in the AI responses database.
