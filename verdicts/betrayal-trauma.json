@@ -1,0 +1,28 @@
+{
+  "slug": "betrayal-trauma",
+  "query": "What is betrayal trauma?",
+  "competitors": ["https://www.verywellmind.com/betrayal-trauma-causes-symptoms-impact-and-coping-5270361", "https://www.healthline.com/health/mental-health/betrayal-trauma"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Both competitors anchor the term properly in Jennifer Freyd's betrayal trauma theory, including the dependency insight (you may accept a betrayal from someone you rely on to stay safe), which our page never names. Ours is the better lived account: the guard tuned to catch the next one, the kindness that triggers suspicion, and especially why losing trust in your own judgment outlasts losing trust in the betrayer, with 33 FAQs including EMDR and phone-checking. (The #1 organic result, Freyd's own lab definition page, was skipped as a definition entry rather than an article, and #2, #4 were a PDF and Wikipedia; the next article results were judged.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Explains why one betrayal generalizes to everyone: the guard cross-examines everybody who came after, including you",
+    "Explains why distrust of your own judgment outlasts distrust of the betrayer, the page's most distinctive section",
+    "Shows the pattern in miniature scenes (the seven-forty door, the suspicious thank-you) instead of symptom lists",
+    "Covers rebuilding trust without naivety and whether forgiveness has to be part of it",
+    "33 verbatim FAQs including PTSD and heartbreak differentials, support groups, and reading other people's stories making it worse"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer defines it as the protective stance left after the event and flags the inward turn against your own judgment, then recognition sentences.",
+    "theirs": "Verywell Mind opens with a key-takeaways box and a PsyD quote naming primary attachment figures; the theory arrives attributed and fast.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Why do people sometimes stay loyal to, or keep depending on, the person who betrayed them?",
+    "Can an institution, rather than a person, cause betrayal trauma?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Both competitors attribute the theory to Jennifer Freyd by name and show medical review; ours explains the same theory without ever naming its originator or citing a source.",
+  "one_change_with_most_traffic_impact": "Name Freyd's theory and the dependency mechanism (staying safe can require not seeing the betrayal) in the origins section; both competitors lead with it, and it is the one explanatory idea our page lacks."
+}
