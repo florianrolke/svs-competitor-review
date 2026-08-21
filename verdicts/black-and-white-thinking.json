@@ -1,0 +1,27 @@
+{
+  "slug": "black-and-white-thinking",
+  "query": "Why do I see everything as all or nothing?",
+  "competitors": ["https://www.verywellmind.com/all-or-nothing-thinking-2584173", "https://www.health.harvard.edu/blog/how-to-recognize-and-tame-your-cognitive-distortions-202205042738"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Verywell Mind gives the standard cognitive-distortion template (definition, examples by domain, effects, reframing steps, numbered citations) and Harvard Health gives an MD's personal essay on distortions generally. Ours explains the why the query asks for: a sorting habit with no working middle bin, formed where ambiguous outcomes were genuinely unsafe, movable only when the middle repeatedly proves survivable, with 34 FAQs including the splitting, BPD, ADHD, autism, and OCD differentials. (Note: half of this SERP is off-intent philosophy-of-nothingness content; the two judged pages are the #3 and #6 organic results.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Answers the why: the binary formed where ambiguity was unsafe, so it is protection rather than a thinking error",
+    "Explains why one critical line cancels a thirty-eight-minute good review, as a scene rather than a bullet",
+    "States the change condition precisely: the middle has to prove survivable repeatedly, which is why reframing exercises alone fade",
+    "Explains why it returns the moment you are tired or under real pressure",
+    "34 verbatim FAQs including splitting, one-bite-ruins-the-diet, and loving-to-furious flips over one small thing"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the two-bins mechanism and its origin, then three concrete recognition scenes; the reader is located within a minute.",
+    "theirs": "Verywell Mind opens with a key-takeaways box and the cognitive-distortion label with citations; correct and scannable, but it describes the habit from outside.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Is all-or-nothing thinking linked to panic disorder?"
+  ],
+  "intent_mismatch": "none on our side; note that much of page one (PhilArchive, Buddhist Review, Stanford Encyclopedia) answers a philosophy-of-nothingness question the searcher did not ask, so the real contest is thinner than the SERP length suggests.",
+  "trust_signals": "Verywell Mind shows numbered citations and medical review; Harvard Health shows a named MD author; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "none - the two genuine help articles on page one are both covered by our mechanism and FAQ depth; the only add is a panic-disorder FAQ to complete the condition differentials."
+}
