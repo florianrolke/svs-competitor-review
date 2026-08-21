@@ -1,0 +1,38 @@
+{
+  "slug": "emotional-maturity",
+  "query": "What is emotional maturity?",
+  "competitors": [
+    "https://www.verywellmind.com/signs-of-emotional-maturity-7553316",
+    "https://ryangottfredson.com/blog/2025/05/19/what-emotional-maturity-really-looks-like-and-how-to-build-it/"
+  ],
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "Our page owns the definitional question with a single mechanistic model plus 33 FAQs, but it withholds the scannable, list-first coverage a research reader scanning results expects, which Verywell delivers with an eight-signs list, an explicit age answer, and named credentialed clinicians. Verywell wins breadth and quick-answer packaging while our page wins depth and a sharper single definition, so neither fully dominates the query.",
+  "what_the_winner_does_that_we_dont": [
+    "Front a numbered, skimmable list of concrete signs (Verywell: 8 signs, each with a bolded sub-head) so a reader gets a self-check inventory in the first screen instead of a single narrative definition",
+    "Add a dedicated 'At what age do most people reach emotional maturity?' section answering the specific age sub-question (Verywell cites prefrontal maturation ~25 and lists shaping factors)",
+    "Include a distinct 'What does it mean to be emotionally immature?' contrast section as its own scannable block rather than folding immaturity into prose",
+    "Attribute definitions and signs to named, credentialed practitioners with titles (PhD, LCSW) and reference the APA definition, giving explicit third-party authority our page attributes to no one on-page",
+    "Provide a compact 'How do you develop emotional maturity?' list of contributing factors and practices as a standalone actionable section near the end"
+  ],
+  "what_we_do_that_they_dont": [
+    "Give one precise, testable definition (stay inside a feeling without acting it out or numbing it) rather than a general 'manage emotions healthily' framing",
+    "Include an identify-box of verbatim first-person self-talk phrases readers can match to their own words",
+    "Carry a 'when this belongs with a professional' safety-boundary section before any technique",
+    "Offer a two-column comparison table separating the capacity version from the exit version across eight look-alike behaviors",
+    "Provide 33 FAQs covering long-tail sub-questions (men vs women, genetic, meditation, venting, crying at work) that neither competitor addresses"
+  ],
+  "above_the_fold": {
+    "ours": "H1 'What is emotional maturity?', a short-answer box with the full one-paragraph definition, and an identify-box of five verbatim self-talk phrases; it earns the next scroll for a reader who wants a definition, but offers no skimmable signs list or self-check to hold a scanning reader.",
+    "theirs": "Verywell opens with a Key Takeaways bullet block, a one-line APA-backed definition, and immediately signals the numbered '8 Signs of Emotional Maturity' list, giving a scanning reader an instant checklist and a reason to keep reading.",
+    "gap": "Add a short skimmable signs or self-check list (or a Key Takeaways bullet block) above the fold so a scanning reader gets an at-a-glance inventory, not only the narrative definition."
+  },
+  "questions_they_answer_that_we_dont": [
+    "At what age do most people reach emotional maturity?",
+    "What does it mean to be emotionally immature?",
+    "What factors affect whether someone develops emotional maturity?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Verywell cites named credentialed clinicians and the APA with numbered references, while our page presents an authored definition with no on-page attribution or citations, so competitors lead on visible provenance despite our greater specificity.",
+  "one_change_with_most_traffic_impact": "Add a numbered, skimmable 'signs of emotional maturity' list high on the page so the layout matches the checklist format this research query rewards, without altering the existing definitional prose."
+}
