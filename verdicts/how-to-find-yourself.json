@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-find-yourself",
+  "query": "How do you find yourself again?",
+  "competitors": ["https://positivepsychology.com/how-to-find-yourself/", "https://positivepsychology.com/loss-of-identity/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Both PositivePsychology results are well-built (myth/fact take-away boxes, signs of an identity shift, a causes taxonomy, scientific review) but stay at the level of advice categories like reconnect with your values. Ours supplies the missing mechanism: a preference signal that fell out of use, rebuilt on choices small enough that nobody is watching, with the guilt afterward named in advance.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Names the mechanism (a preference signal trained out of use) instead of listing self-discovery activities",
+    "Explains why the journal and the solo trip did not work, and why the big questions produce the most convincing false answers",
+    "Gives a starting protocol: small unobserved choices, notice the pull before acting, expect guilt afterward",
+    "Explains why boredom is the condition the signal needs",
+    "34 verbatim FAQs including after-breakup, after-divorce, and after-children variants"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the preference-signal protocol in four sentences, then recognition sentences; concrete before any scrolling.",
+    "theirs": "PositivePsychology opens with a Take-Away Trio myth/fact box (feeling lost means something is changing, not that something is wrong) under a scientifically-reviewed byline; an instant reframe with visible authority.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Why do I feel lost even when my life looks fine from the outside?",
+    "Is losing your sense of self normal?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "PositivePsychology shows named authors, a PhD scientific reviewer, and inline citations (Erikson, 1968); ours has no bylines or citations.",
+  "one_change_with_most_traffic_impact": "Add the two missing FAQ phrasings (life looks fine from the outside; is losing your sense of self normal); they are the only coverage gaps against two strong same-domain competitors."
+}
