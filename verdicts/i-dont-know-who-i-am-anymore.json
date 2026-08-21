@@ -1,0 +1,32 @@
+{
+  "slug": "i-dont-know-who-i-am-anymore",
+  "query": "Why don't I know who I am anymore?",
+  "competitors": ["https://www.verywellmind.com/i-dont-know-who-i-am-5186886", "https://positivepsychology.com/loss-of-identity/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Verywell Mind offers a generic 'how identity forms' explainer (Erikson, Marcia) with four vague coping tips (spend time alone, challenge yourself, trust intuition, practice mindfulness), and Positive Psychology gives a causes-list plus five reflection prompts. Ours isolates the word 'anymore' (a specific role ended), names the five stand-in roles, runs a six-row differential-diagnosis table separating this from depression, enmeshment, and purpose-searching, and gives six low-stakes construction steps.",
+  "what_the_winner_does_that_we_dont": [
+    "Positive Psychology cites named research anchors (Slotter et al. on relational identity, Maslach & Leiter on burnout, McAdams & McLean on narrative identity) that give the causal claims external backing; ours asserts the same mechanisms with no citations",
+    "Verywell names the developmental frameworks (Erikson's identity-vs-role-confusion, Marcia's exploration/commitment statuses) that let a reader put a recognized label on the experience"
+  ],
+  "what_we_do_that_they_dont": [
+    "Pins the diagnosis to the word 'anymore' (an acute role ending) and separates it from the broad purpose question, so the searcher in crisis is not handed developmental-psychology throat-clearing",
+    "Names five specific stand-in roles (compliant, achiever, caregiver, guarded, fused) with a table showing exactly what each exposes when it ends",
+    "Provides a six-row differential-diagnosis table distinguishing identity loss from depression, enmeshment, purpose-searching, structural emptiness, and ordinary transition wobble, with the tell for each",
+    "States plainly what does NOT work (sitting alone thinking hard returns borrowed answers) before the six construction steps, and reframes friction/guilt as the enforcement mechanism firing rather than proof of no self",
+    "Explains why achievement never settles the question (the exchange rate, not the amount) and why being needed feels like being someone",
+    "Gives a layered clinical/safety boundary (persistent flatness, post-abuse/betrayal, coercive control) near the top"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query; the short-answer box names the role-vs-self mechanism and the five roles in five sentences, ends on 'that space can be built', then an identify-box of five first-person sentences; the reader gets a diagnosis and hope, which earns the scroll.",
+    "theirs": "Verywell opens with a Table of Contents and Key Takeaways box (get to know yourself, spend time alone, see a professional) before any mechanism; competent but generic and does not mirror the acute 'anymore' pain. Positive Psychology opens with a role-swap vignette then a lead-magnet download prompt, which interrupts before the payoff.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Is losing your sense of self normal?",
+    "What is the difference between identity exploration and identity commitment?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Verywell and Positive Psychology both cite peer-reviewed research and name established theorists (Erikson, Marcia, Slotter, McAdams), while ours has a named founder byline (Florian Rolke) and first-person framing but no external citations, winning on specificity and differential diagnosis rather than cited authority.",
+  "one_change_with_most_traffic_impact": "Add one or two named-framework anchors near the top (Erikson's identity-vs-role-confusion, and the 'identity is built not found' research) to capture the definitional/normal-reassurance query both competitors rank for, without diluting the acute framing."
+}
