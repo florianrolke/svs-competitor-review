@@ -1,0 +1,39 @@
+{
+  "slug": "secure-attachment",
+  "query": "What does secure attachment actually look like?",
+  "competitors": [
+    "https://www.attachmentproject.com/blog/what-does-secure-attachment-look-like/",
+    "https://www.reachlink.com/advice/attachment-styles2/what-secure-attachment-actually-looks-like-from-the-inside/"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "The #1 organic result (Britannica) is an encyclopedia entry and the #2 result (SimplyPsychology) is scoped to infants rather than the adult relationship question, so both were passed over and the top two on-query adult articles, AttachmentProject at #3 and ReachLink at #4, were judged instead. Our page out-covers AttachmentProject on every axis and matches ReachLink's identical concrete-behavior angle while going deeper on the loop mechanism, earned-versus-performed security, and the receiving problem, though ReachLink beats us on scannable structure and named research citations.",
+  "what_the_winner_does_that_we_dont": [
+    "Add an in-page jump navigation / table of contents block near the top that links to each H2, the way ReachLink's 'In this Article' index lets readers skip to a section",
+    "Add a compact numbered 'things securely attached people do' catalog split by context (romantic / friendships / conflict / self-talk), like ReachLink's 25-item list, so the concrete behaviors are skimmable rather than buried in prose",
+    "Attach named-researcher provenance to the specific mechanism claims (e.g. Main & Hesse coherent-narrative / Adult Attachment Interview, Gottman flooding, Porges ventral-vagal state) rather than referring only to unnamed 'developmental research'",
+    "Add a short 'What secure attachment is NOT' bullet block that pre-empts the 'never jealous/never anxious' misconception up front, as ReachLink does in a labeled section",
+    "Include a side-by-side 'same trigger, three attachment responses' comparison covering more than one trigger (ReachLink runs five: silent partner, weekend-plans disagreement, criticism, partner needs space, forgotten reply)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Break the pattern down into a named four-beat loop (signal, interpretation, protective behavior, relief) and pinpoint the interpretation step as the single intervention point",
+    "Distinguish earned, never-wounded, and performed security in a dedicated comparison table, which neither competitor does",
+    "Name the 'receiving problem' (affection discounted on the way in) as a separate machine from the forecasting/loss half",
+    "Provide a numbered practice protocol plus a one-week 'gap log' exercise the reader can start today",
+    "Ship a 34-question FAQ block with schema markup covering edge cases (single, cheating, aging, testing, relapse under load) far beyond the competitors' handful of FAQs",
+    "Include an explicit, high-placed 'when this belongs with a professional' safety boundary"
+  ],
+  "above_the_fold": {
+    "ours": "A plain H1 restating the query, a boxed 'short answer' defining secure attachment as a run of small non-events, and an identify-box of verbatim intrusive-thought sentences; it earns the next scroll by naming the reader's exact experience rather than listing personality traits.",
+    "theirs": "ReachLink opens with a one-line summary, an 'In this Article' jump index, and a hook ('felt like something was missing?') plus the 'why it looks boring' reframe; the jump index earns the scroll by promising navigable depth immediately.",
+    "gap": "Add an in-page jump/table-of-contents index directly under the answer box so readers see the page's full scope and can navigate to their specific sub-question without scrolling blind."
+  },
+  "questions_they_answer_that_we_dont": [
+    "How do I know if I actually have a secure attachment style or if I'm just telling myself I do?",
+    "What does it actually feel like on the inside to have secure attachment compared to anxious or avoidant attachment?",
+    "Can working on your own attachment style actually change your relationships, or does the other person need to change too?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Ours carries a named founder author, first-person lived-experience specificity, and richer edge-case coverage, while ReachLink leans on named academic researchers and citations; ours wins on specificity and provenance but trails on formal citation.",
+  "one_change_with_most_traffic_impact": "Add a scannable, context-grouped numbered catalog of concrete secure behaviors plus an in-page jump index near the top, capturing the skimmable-list and featured-snippet demand that ReachLink's '25 things' and jump nav are built to win."
+}
