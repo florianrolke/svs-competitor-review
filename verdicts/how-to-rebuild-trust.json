@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-rebuild-trust",
+  "query": "How do you rebuild trust after it breaks?",
+  "competitors": ["https://www.healthline.com/health/how-to-rebuild-trust", "https://www.crisistextline.org/blog/2025/03/14/rebuilding-trust-in-a-relationship/"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Healthline is a strong two-sided guide (betrayed and betrayer) with a timeline and affair-specific advice; Crisis Text Line is thin and mostly a funnel to its hotline. Ours matches the two-track structure and goes further (the checking loop, structure over willpower, telling the present person from the original one), but Healthline covers one concrete dilemma we skip.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Two-track frame: the breaker supplies specific repeatable evidence, the hurt person learns to tell the present person from the original one",
+    "Explains why the checking keeps coming back even when it finds nothing",
+    "Sets the standard as transparency offered before it is asked for, plus tolerance of being checked",
+    "Covers friends, parents, and people you cannot leave, not just romantic betrayal",
+    "34 verbatim FAQs including emotional-vs-physical affair differences"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer lays out both tracks and the honest six-months-to-two-years range, then recognition sentences; the searcher knows the real shape of the task immediately.",
+    "theirs": "Healthline opens by listing non-infidelity trust breaches (broken promises, withholding, not showing up in a crisis), broadening the reader's definition before any advice.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Should I ask for all the details of the affair, or is it better not to know?",
+    "What would it take for me to feel safe with this person again?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Healthline shows a named writer and PhD medical reviewer; Crisis Text Line leans on its crisis-service brand; ours has no byline, reviewer, or citations.",
+  "one_change_with_most_traffic_impact": "Add guidance on the details question (how much disclosure about the betrayal helps versus harms); it is the one concrete dilemma Healthline covers that our affair FAQs skip."
+}
