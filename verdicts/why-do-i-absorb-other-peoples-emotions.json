@@ -1,0 +1,37 @@
+{
+  "slug": "why-do-i-absorb-other-peoples-emotions",
+  "query": "Why do I absorb other people's emotions?",
+  "competitors": ["https://markspsychiatry.com/emotional-contagion-why-you-absorb-feelings/", "https://drjudithorloff.com/are-you-catching-other-peoples-emotions/", "https://www.rula.com/blog/emotional-sponge/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Ours answers the 'why' with a developmental origin story (enmeshment, invalidation, neglect), what the absorbing protects against, an eight-way differential separating absorption from empathy, scanning, people pleasing, enmeshment, codependency and anxiety, and a policy-versus-sovereignty picture, while Marks gives a strong but short emotional-contagion mechanism piece, Rula is a clinician-reviewed signs-and-tips explainer, and Orloff is a thin empath coping-tips post. Orloff was weak and partly off-intent (energy fields, white-light visualization, few causes), so a third competitor Rula was fetched so the verdict rests on two genuinely competitive pages; Marks still beats us on naming the neuroscience (mirror neurons, sender versus receiver research) and Rula on carrying a named clinical reviewer.",
+  "what_the_winner_does_that_we_dont": [
+    "Name and explain the neuroscience mechanism: mirror neurons, interoceptive and emotion networks acting as a simulation system, and unconscious millisecond mimicry of posture, tone and breathing (Marks)",
+    "State the sender-versus-receiver research, that expressive and higher-status people set a group's emotional tone, and reframe the reader as a potential anchor rather than only a receiver (Marks)",
+    "List biology, psychology and environment as three researched contributing factors with the honest caveat that the cause is not fully understood (Rula)",
+    "Carry an explicit named clinical reviewer with credentials (Ashley Ayala LMFT) plus a short clinician's-take pull quote, an authority signal ours lacks (Rula)",
+    "Give a concrete proximity experiment as a discrete tip, move at least twenty feet from the suspected source and check for relief (Orloff)"
+  ],
+  "what_we_do_that_they_dont": [
+    "Trace the pattern to three specific childhood origins (enmeshment, invalidation, neglect) and explain what each one installs, which is the actual 'why' the query asks and which the competitors barely touch",
+    "Explain what the absorbing is protecting against (early warning, prevention of a dismissed reaction, bond security) so the reader understands why 'care less' advice fails",
+    "Provide an eight-row differential separating absorption from hypervigilance, walking on eggshells, enmeshment, people pleasing, over-responsibility, empathy, codependency and anxiety, each with a distinguishing tell",
+    "Give the perceptual sequence explicitly, feeling arrives first and explanation second, and use it to show why people pleasing worked on without the perceptual step keeps recurring",
+    "Front-load a safety carve-out for coercive control, mood as household currency, violence, crisis caregiving, addiction, sustained hopelessness and self-harm, directing to a licensed professional",
+    "Map where it shows up across eight arenas (partner, family, work, friends, children, strangers, screens, good moods) with the day's actual cost"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query, a boxed short answer names the missing half-second and the three origin conditions and states the sensitivity stays while the boundary returns, then an identify-box of four ordinary-afternoon scenes plus a seminar link, then the just-finished-argument scene; it strongly earns the scroll by pairing recognition with a hopeful, changeable mechanism.",
+    "theirs": "Marks opens with the walk-into-a-tense-room hook, names emotional contagion immediately, and promises the science plus how to stop being hijacked, which is a competent and skimmable fold; Rula opens with key takeaways and the kitchen-sponge analogy then a signs list; Orloff opens with an empath quiz pitch and a personal anecdote.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is the neuroscience of emotional contagion and what role do mirror neurons play?",
+    "Can I become the calm anchor that others regulate off instead of the absorber?",
+    "Does status or expressiveness determine who sends and who catches emotions in a group?"
+  ],
+  "intent_mismatch": "The searcher's phrasing 'why do I absorb other people's emotions' is emotional and experiential rather than clinical, and our fold answers in that exact register with ordinary-afternoon scenes and the felt half-second; Marks answers half in that register and half in a neuroscience register, Rula's fold is mildly clinical with takeaway bullets, and Orloff's fold answers in a spiritual-sponge register, so ours is the closest match to how the query is actually felt and typed.",
+  "trust_signals": "Marks attributes claims to named neuroscience and contagion research and Rula carries a named LMFT reviewer and researched cause categories, giving both stronger external authority than ours, which is highly specific and adds a first-person practitioner voice but cites no named expert or study; Orloff leans on a bestselling book and unverifiable energy-field claims.",
+  "one_change_with_most_traffic_impact": "Add a short mechanism paragraph naming 'emotional contagion' and mirror-neuron and interoceptive simulation near our origin section with one or two sourced references, capturing the science-and-authority intent Marks and Rula rank on without weakening our stronger developmental-origin and differential coverage.",
+  "serp_quality": "weak: only Marks and Rula are genuinely competitive, the top author result Orloff is a thin empath coping-tips post with unverifiable energy-field claims, so a third article was fetched"
+}
