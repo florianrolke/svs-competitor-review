@@ -1,0 +1,27 @@
+{
+  "slug": "hypervigilance",
+  "query": "What is hypervigilance, and why can I not switch it off?",
+  "competitors": ["https://health.clevelandclinic.org/hypervigilance", "https://therapist.com/behaviors/hypervigilance/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Cleveland Clinic and therapist.com are both competent definition-signs-coping templates with medical review, but neither explains the query's second half: why it will not switch off. Ours answers exactly that (it runs as a procedure, not a mood, which is why scanning continues while you feel calm), adds the threshold-recalibration mechanism, and covers the ADHD, OCD, and paranoia differentials in 34 FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Answers why it cannot be switched off: a lowered detection threshold running as a procedure, independent of felt anxiety",
+    "Explains why relaxing, breathing, and trusting people more fail, and why meditation can make it worse",
+    "Covers the inward scan (monitoring your own body and reactions) and why kindness gets checked as carefully as anger",
+    "Explains the exhaustion after an evening where nothing happened",
+    "34 verbatim FAQs including ADHD, OCD-checking, and paranoia differentials and whether it ever fully switches off"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the procedure-not-mood explanation in four sentences, then recognition sentences; the can't-switch-it-off half is answered before scrolling.",
+    "theirs": "Cleveland Clinic opens with a cinematic walk-to-your-car-at-night scenario, then defines fight-or-flight; vivid but slower to the answer.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can a physical condition like fibromyalgia or chronic pain cause hypervigilance?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Cleveland Clinic carries its hospital brand and reviewer; therapist.com shows an MSW reviewer and numbered source citations; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add a short causes note acknowledging physical conditions (fibromyalgia, chronic pain, thyroid) as drivers; Cleveland Clinic is the only page-one result covering that slice of searchers."
+}
