@@ -1,0 +1,28 @@
+{
+  "slug": "how-to-start-over",
+  "query": "How do you start over when the life you built stopped working?",
+  "competitors": ["https://www.betterup.com/blog/starting-over-in-life", "https://drkimfoster.com/5-strategies-for-starting-over-after-life-falls-apart/"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "BetterUp offers a generic eight-step list plus reflection questions and a coaching pitch; Dr. Kim Foster offers five mindset strategies with a what-not-to-do section. Ours is the only page explaining why restarts fail: the private blueprint measuring the life survives the move, so the new life fails the same test a year later, and it covers restarts with kids, mortgages, and dependents in 34 FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Names the blueprint-versus-life gap as the actual problem, which neither competitor has a concept for",
+    "Lays out the only three moves (blame, change conditions, edit the blueprint) and why the first two dominate",
+    "Explains why repeat restarts stall at about eighteen months",
+    "Covers starting over with kids, a mortgage, and dependents as a first-class section, not an afterthought",
+    "34 verbatim FAQs for specific situations: single mothers, dating after a long marriage, restarting with an ex, starting over at 50"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the gap and the three moves in four sentences, then recognition sentences; the reader gets a diagnosis, not a pep talk.",
+    "theirs": "BetterUp opens with a long list of life transitions that might trigger change; inclusive but slow, and the coaching pitch is visible early.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What are the signs it is time to start over?",
+    "What should you not do when starting over?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "BetterUp shows an author bio and its coaching brand; Dr. Kim Foster writes from firsthand loss as a named MD; ours has no byline or citations.",
+  "one_change_with_most_traffic_impact": "Add a short signs-it-is-time and common-mistakes block; both competitors carry one, and it catches the reader who is still deciding rather than already committed."
+}
