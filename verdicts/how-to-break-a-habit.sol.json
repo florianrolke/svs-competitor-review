@@ -1,0 +1,35 @@
+{
+  "slug": "how-to-break-a-habit",
+  "query": "Why do habits break, and how do you make one hold?",
+  "competitors": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4287360/",
+    "https://www.scientificamerican.com/article/how-the-brain-makes-and-breaks-habits/"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The top organic result (a ScienceDirect journal article) was substituted because webFetch returned only a paywalled highlights stub with no readable body, so the two usable articles judged were the PMC and Scientific American pages next in the organic order. Both competitors explain the neuroscience of why habits persist but stop short of a usable breaking procedure, while our page turns the same mechanism into a step-by-step interruption protocol, a today-action, and coverage of dozens of specific situations.",
+  "what_the_winner_does_that_we_dont": [
+    "Cite named external research with a taxonomy of relapse types (renewal, spontaneous recovery, reinstatement, rapid reacquisition, resurgence), which our relapse section describes in plain language but attributes to no source",
+    "Attribute claims to named authors with institutional affiliation shown near the top, whereas our authorship (Florian Rolke) sits only in page schema and not in the visible body"
+  ],
+  "what_we_do_that_they_dont": [
+    "Give a numbered ordered protocol (interrupt, then environment, then replacement, then conditioning) that a reader can act on without further reading",
+    "Provide a concrete first-step task (a three-day two-second log capturing time, body, focus, and sentence) placed as its own section",
+    "Break the habit into three named, interruptible components (body position, focus, internal sentence) with a specific interruption door for each",
+    "Include a boundary section stating when to see a licensed professional instead, near the top rather than buried",
+    "Cover dozens of specific applications (smoking, evening eating, nail biting, procrastination, helping someone else) as discrete FAQs",
+    "Supply comparison tables mapping each popular method to what it is good at and what it leaves running"
+  ],
+  "above_the_fold": {
+    "ours": "H1 restates the query, then a boxed 'The short answer' delivering the core mechanism in four sentences, then an identify box of verbatim internal sentences; it states the thesis and earns the next scroll by promising the step most methods skip.",
+    "theirs": "Scientific American opens with an H1, a byline of two named researchers, and a lede framing habits as autopilot behavior the brain monitors, but no compact answer to the query and an early subscription interruption before any payoff.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can you prevent a habit from forming in the first place?",
+    "Where in the brain are habits stored and controlled?"
+  ],
+  "intent_mismatch": "The PMC article answers a narrower research question about why behavior change fails to sustain rather than how a reader makes a change hold, and Scientific American answers how the brain forms habits more than how a person breaks one; our page matches the query's both-halves intent directly.",
+  "trust_signals": "Both competitors carry stronger external provenance (named academic authors, institutional affiliation, and citations) while ours leads on specificity and named applied mechanism but keeps its author credit in schema rather than in view.",
+  "one_change_with_most_traffic_impact": "Add a short visible author-and-experience line near the top of the body and attach two or three named external sources to the mechanism and relapse claims, closing the single trust gap both competitors exploit while keeping our stronger procedural coverage."
+}
