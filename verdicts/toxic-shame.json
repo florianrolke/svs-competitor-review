@@ -1,0 +1,34 @@
+{
+  "slug": "toxic-shame",
+  "query": "What is toxic shame, and how is it different from guilt?",
+  "competitors": ["https://anniewright.com/toxic-shame-vs-guilt-difference/", "https://www.psychologytoday.com/ca/blog/brainstorm/202603/guilt-and-shame-are-not-the-same"],
+  "verdict": "split",
+  "confidence": "medium",
+  "why_in_two_sentences": "Annie Wright's page is the strongest competitor in this batch: it opens with a side-by-side toxic-shame-versus-healthy-guilt table (exactly the query's second half), adds neurobiology, a systemic lens, references, and a visible LMFT license number. Ours is deeper on lived mechanism (why evidence never lands, why success makes it worse, the apology-settles-guilt test) with 34 FAQs, so the pages split the query: she wins the fast definitional comparison, we win everything after it. (The #2 organic result, WebMD, fetched without its article body; the next article result, Psychology Today, was judged instead.)",
+  "what_the_winner_does_that_we_dont": [
+    "Opens with a side-by-side toxic shame vs healthy guilt comparison table, answering the query's second half in one glance",
+    "Includes a neurobiology-of-shame section with a references list at the end",
+    "Displays the author's LMFT license number and a clinical review date",
+    "Adds a systemic-lens section (shame as social control) that neither we nor Psychology Today cover",
+    "Addresses the driven, high-functioning reader explicitly as a named audience"
+  ],
+  "what_we_do_that_they_dont": [
+    "The apology test: guilt points at a repair and settles once made, shame has nothing to fix because the whole person is the subject",
+    "Explains why evidence and reassurance never land, and what the self-criticism originally protected",
+    "Explains why success intensifies shame instead of resolving it",
+    "Asks whether some shame is useful rather than treating all of it as pathology",
+    "34 verbatim FAQs including CPTSD, the four types of shame, the term's origin, and how it shows up in the body"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the report-versus-verdict split with the apology test, then recognition sentences; the differential is there but as prose.",
+    "theirs": "Annie Wright puts the full comparison table directly under the title, above any prose; the query's second half is answered in the first screen.",
+    "gap": "Convert the answer-box differential into a small two-column table (shame: verdict about what you are; guilt: report about what you did); the query is a comparison and a table is its natural format."
+  },
+  "questions_they_answer_that_we_dont": [
+    "My inner critic is relentless. Is that toxic shame?",
+    "I've tried affirmations and positive self-talk but they don't touch the shame. Why?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Annie Wright shows an LMFT license number, a clinical review date, and a references list; Psychology Today shows an editor review; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add the side-by-side shame-versus-guilt table at the top; it is the exact format the query's second half asks for and the single element that makes the competitor page faster to trust."
+}
