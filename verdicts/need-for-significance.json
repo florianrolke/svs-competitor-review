@@ -1,0 +1,28 @@
+{
+  "slug": "need-for-significance",
+  "query": "Why do I need to feel important?",
+  "competitors": ["https://greatergood.berkeley.edu/article/item/the_hidden_power_of_mattering_to_othersand_yourself", "https://www.npr.org/2026/02/15/nx-s1-5683310/psychologists-say-feeling-valued-is-a-core-human-need-heres-how-to-meet-it"],
+  "verdict": "ours_wins",
+  "confidence": "medium",
+  "why_in_two_sentences": "Both top article results are interviews with the same author promoting one 2026 book (Mattering), so this SERP is effectively a press tour: strong on the social framing (mattering as a fundamental need, counterfeit mattering, the loneliness angle) but thin on the individual pattern the searcher is asking about. Ours explains the vehicles that deliver significance (achievement, a large ongoing problem, being indispensable), why achievement never banks, and why a problem can be paying you, with 34 verbatim FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Names the three common vehicles (achievement, a large ongoing problem, being indispensable) and what each one costs and who pays",
+    "Explains why achievement never banks and why the drop after a win is bigger than the cause",
+    "Explains how an unsolved problem can be delivering significance, which is why it stays unsolved",
+    "Explains feeling unknown in a room where you are admired",
+    "34 verbatim FAQs including narcissism and self-esteem differentials, post-exit crashes, and name-dropping you hate while doing it"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer normalizes the need and names the three vehicles immediately, then recognition sentences; the reader's own vehicle is identifiable within a minute.",
+    "theirs": "Greater Good opens with a membership appeal and a book excerpt framing a social health crisis; compelling big-picture journalism, but the personal question waits several screens.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can you matter too much, and why is that draining rather than sustaining?",
+    "What is the difference between being valued and being enough as you are?"
+  ],
+  "intent_mismatch": "Partial on the SERP's side: the top organic results answer why mattering matters to society (a book's press tour), not why the searcher personally needs to feel important; our page is the only one answering the individual question.",
+  "trust_signals": "Greater Good (Berkeley) and NPR carry major-institution authority and a named best-selling author with research behind her; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add the valued-versus-enough distinction and the over-mattering drain from Wallace's book as FAQs; the press tour is training searchers to ask about mattering, and our page currently never uses the word."
+}
