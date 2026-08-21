@@ -1,0 +1,37 @@
+{
+  "slug": "how-to-rebuild-trust",
+  "query": "How do you rebuild trust after it breaks?",
+  "competitors": [
+    "https://www.healthline.com/health/how-to-rebuild-trust",
+    "https://www.crisistextline.org/blog/2025/03/14/rebuilding-trust-in-a-relationship/"
+  ],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Our page covers both repair roles with concrete, checkable actions plus timelines, non-partner contexts, and a 34-question FAQ, while Healthline and Crisis Text Line stop at generic advice like communicate, apologize, and be consistent with no operational definition of what counts as evidence. The top two organic results were both usable actual articles, so no substitution was needed.",
+  "what_the_winner_does_that_we_dont": [
+    "Add a short signs-of-trust checklist near the top defining what a trusting relationship looks like (feeling safe, needs heard, no urge to check), which Healthline uses to orient readers before the how-to; ours jumps straight to the broken state.",
+    "Add an explicit 'what trust is NOT' block clarifying that trust does not require sharing bank accounts, phones, computers, or social media, a distinction Healthline makes but ours only implies inside prose.",
+    "Include a dedicated 'is it worth trying to repair at all' decision section with red-flag bullets (continued deceit, insincere apology, words not matching behaviour) as a scannable list, which both competitors surface and ours scatters across prose.",
+    "Surface a named crisis/support resource line (phone or text contact for people in distress) as Crisis Text Line does, since our safety section names professional help but gives no concrete point of contact."
+  ],
+  "what_we_do_that_they_dont": [
+    "Split the repair into two explicit tracks and give each side a numbered, action-level checklist (volunteer before asked, tolerate checking, put an end date on access) rather than generic 'communicate and be consistent'.",
+    "Give a concrete, sourced timeline range of six months to two years with the two factors that move it, where Healthline only says 'it depends' and Crisis Text Line says 'cannot be rushed'.",
+    "Cover non-romantic and hard-to-leave relationships (friend, parent, adult child, coworker, long distance, separation) that neither competitor addresses.",
+    "Define the verification-vs-surveillance distinction operationally (offered access with an end date vs secret monitoring) and give a written 'what would count' evidence exercise with numbered events.",
+    "Provide a 34-question FAQ covering infidelity, financial infidelity, addiction, emotional affairs, apology value, and phone-checking that far exceeds either competitor's coverage."
+  ],
+  "above_the_fold": {
+    "ours": "Reader sees the H1 question, a boxed 'short answer' stating the two-track model and the six-months-to-two-years timeline, then an 'identify-box' checklist of five self-recognition statements with a seminar link; it earns the next scroll by naming both roles and the honest timeline immediately.",
+    "theirs": "Healthline's fold shows the H1, a one-line dek ('requires open communication and time'), and a bulleted list of ways trust breaks beyond infidelity, then a 'what does trust really mean' section; it orients but delivers no concrete repair action above the fold.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What does trust really mean, and what are the signs of trust in a relationship?",
+    "Is it worth it to rebuild trust, or should you end the relationship?",
+    "What about the details of an affair, should the person who cheated share them?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Ours cites a named founder author with a first-person practitioner account and specific timelines while Healthline carries a named writer plus a medical reviewer and Crisis Text Line is an established support organization, so competitors have institutional/medical review authority that ours matches only through practitioner specificity.",
+  "one_change_with_most_traffic_impact": "Add an early scannable 'is repair worth attempting' section with red-flag bullets and a 'what trust is / is not' block, capturing the decision-stage and definitional queries both competitors rank for that our page currently buries in prose."
+}
