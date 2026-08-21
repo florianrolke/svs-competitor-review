@@ -1,0 +1,27 @@
+{
+  "slug": "feeling-unloved",
+  "query": "Why do I feel unloved?",
+  "competitors": ["https://www.psychologytoday.com/us/blog/darwins-subterranean-world/202205/the-psychology-of-feeling-unloved", "https://www.psychologytoday.com/us/blog/heart-of-healthcare/202608/what-keeps-you-from-feeling-truly-loved"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "The #2 organic result was a podcast (Good Life Project) and was skipped in favor of the next Psychology Today article. Geher's piece is a Maslow thought-experiment essay that never explains why the searcher feels unloved or what to do about it, and Bonhoeffer's False-Self essay is reflective and authoritative but offers no diagnosis, no cause differentiation, and no steps; ours mechanizes the feeling, splits it into two distinct histories, and gives a checkable seven-day practice plus 30-plus verbatim FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Splits feeling unloved into two distinct origin histories (warmth that never arrived vs. warmth that arrived unreadable) with a comparison table and a three-question self-test to identify which is yours",
+    "Mechanizes why compliments and reassurance get discounted within seconds and why steady undramatic affection registers as nothing",
+    "Gives a concrete seven-day arrivals-log exercise plus nine repetition-based practices the reader can start today",
+    "Includes a differential table separating feeling unloved from depression, grief, loneliness, a needs mismatch, and a control dynamic, each with a distinguishing test",
+    "Provides a resolved-end table of what recovery looks like week to week, plus 30-plus verbatim FAQs"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the exact query, the short-answer box immediately gives the two-histories thesis, then an italicized recognition list of five unspoken sentences; a reader sees themselves and their mechanism before scrolling, which earns the next scroll.",
+    "theirs": "Bonhoeffer opens with 'the heaviest burdens my patients carry never appear on an MRI' and patients apologizing for taking up his time; evocative and credible, but the reader meets a doctor's reflection rather than an answer to their own question.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Why can I be loved and appreciated yet still wonder whether anyone truly knows me?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Bonhoeffer carries strong provenance (named MD, professor of pediatrics, WHO advisor, cited to Winnicott/McEwen/Brown) and Geher is a named PhD with references, while ours names Florian Rolke only in schema and a first-person account but cites no sources in the body.",
+  "one_change_with_most_traffic_impact": "Add a visible, sourced authority cue in the body (a named author byline plus one or two cited references such as Winnicott's False Self or emotional-neglect research), since both competitors' only real edge over ours is visible provenance."
+}
