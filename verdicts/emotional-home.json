@@ -1,0 +1,28 @@
+{
+  "slug": "emotional-home",
+  "query": "What is your default emotion, and can you change it?",
+  "competitors": ["https://www.bbc.com/future/article/20250226-the-expert-guide-to-taking-control-of-your-emotions", "https://theconversation.com/you-can-change-your-emotions-but-its-a-2-step-process-that-takes-some-effort-280000"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Neither competitor actually addresses the default-emotion half of the query: the BBC piece is an expert guide to in-the-moment emotion tools (Ethan Kross) and The Conversation covers two-step reappraisal research. Ours defines the default as a configuration being actively held (body, attention, sentence), explains why good news thins within days and the same feeling follows you into a new job, and gives the months-long repetition path for moving a baseline, with 34 FAQs. (The #1 organic result, kinsalecbt.com, fetched as garbled binary, and #3, an NPR transcript, fetched too thin to judge; the #4 result, BBC, was judged instead.)",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Defines the default emotion itself (the feeling you return to once a situation passes), which neither competitor attempts",
+    "Explains why good news thins out within days and why a new job does not change the baseline",
+    "Names what the default feeling is quietly being paid, the payoff question neither competitor asks",
+    "Distinguishes a bad week from a personality from a held configuration",
+    "34 verbatim FAQs including the Robbins emotional-home phrasing, emotional homeostasis, inherited defaults, and work-versus-home splits"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer defines the default and its three components, then recognition sentences; both halves of the query (what it is, whether it can change) are answered before scrolling.",
+    "theirs": "The BBC opens with Ethan Kross's credentials and his childhood as an observer of emotion; authoritative, but it is a profile of a scientist's toolkit, not an answer about defaults.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "Can distraction be a productive way of dealing with difficult emotions?",
+    "Where does the defeatist belief that emotions are beyond our control come from?"
+  ],
+  "intent_mismatch": "none on our side; note that both fetched competitors answer the how-to-regulate question rather than the default-emotion question, leaving the definitional half of the query uncontested.",
+  "trust_signals": "The BBC features a named University of Michigan professor directing an emotion lab; The Conversation's authors are academics writing on their own experiments; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "none - ours is the only result answering the default-emotion question directly; the two FAQ additions above would absorb the competitors' best fragments."
+}
