@@ -1,0 +1,27 @@
+{
+  "slug": "unresolved-father-issues",
+  "query": "What happens when you never made peace with a parent?",
+  "competitors": ["https://www.drjananderson.com/blog/how-to-make-peace-with-your-parents-and-just-about-anybody-else", "https://inews.co.uk/inews-lifestyle/parents-died-grieved-relationship-never-had-3382306"],
+  "verdict": "ours_wins",
+  "confidence": "high",
+  "why_in_two_sentences": "Dr. Jan Anderson (a named PsyD writing from her own research and her mother's addiction) lands the same core message as ours, that recovery does not require the parent's participation or forgiveness, and inews adds the complicated-grief frame for estranged bereavement. Ours goes further: the argument is with an internal version of the father maintained daily by you, which is why it survives his apology, his silence, and his death, and it covers the estranged, civil-but-false, and deceased cases separately with 36 verbatim FAQs.",
+  "what_the_winner_does_that_we_dont": [],
+  "what_we_do_that_they_dont": [
+    "Names the actual mechanism: the argument runs against an internal version assembled in childhood, maintained daily by you, which is why his death changes nothing",
+    "Separates making peace from reconciling and from going no contact as three different outcomes",
+    "Explains why the apology does not fix it even when it arrives",
+    "Explains why it comes back after it felt finished, and what closing the file actually involves",
+    "36 verbatim FAQs including dead fathers, absent-not-abusive fathers, rehearsals of conversations that will never happen, and closure when no apology is coming"
+  ],
+  "above_the_fold": {
+    "ours": "H1 is the query, the short answer gives the internal-version mechanism and states that closing it needs no participation from him, then recognition sentences; the shower-composing-the-sentence scene lands immediately after.",
+    "theirs": "Dr. Anderson opens with a Wynona Judd anecdote and her own mother story; warm and credible, but the promise of the headline takes several paragraphs to arrive.",
+    "gap": "none"
+  },
+  "questions_they_answer_that_we_dont": [
+    "What is complicated grief, and does a difficult relationship make it more likely after a parent dies?"
+  ],
+  "intent_mismatch": "none",
+  "trust_signals": "Dr. Anderson is a named PsyD, LPCC citing her own doctoral research and personal experience; inews quotes a working psychotherapist; ours names no one and cites nothing.",
+  "one_change_with_most_traffic_impact": "Add a complicated-grief note inside the professional-boundary section; inews is the only result naming the prolonged-grief pattern that estranged children face after the death, and it is a natural doctor-routing point for us."
+}
