@@ -1,6 +1,11 @@
 slug,url,domain,person_or_source,type,detail
-enmeshed-family,https://www.healthline.com/health/enmeshed-family,healthline.com,Janet Brito PhD,expert,Expert authority
-feeling-responsible-for-everyone,https://www.counselling-directory.org.uk/articles/why-do-i-always-feel-responsible-for-everyone,counselling-directory.org.uk,Jonice Webb PhD,expert,Expert authority
-how-to-love-yourself,https://www.springhealth.com/blog/how-to-love-yourself,springhealth.com,Psychology Today author,expert,Expert authority
-how-to-start-over,https://www.betterup.com/blog/starting-over-in-life,betterup.com,Dr. Kim Foster,expert,Expert authority
-how-to-stop-people-pleasing,https://greatergood.berkeley.edu/article/item/how_to_stop_being_a_people_pleaser,greatergood.berkeley.edu,Science Center author,expert,Expert authority
+betrayal-trauma,https://www.healthline.com/health/mental-health/betrayal-trauma,healthline.com,Crystal Raypole,reviewer,JSON-LD author
+emotional-manipulation,https://www.healthline.com/health/mental-health/emotional-manipulation,healthline.com,Kimberly Holland,reviewer,JSON-LD author
+emotional-numbness,https://www.healthline.com/health/mental-health/emotional-blunting,healthline.com,Erica Cirino,reviewer,JSON-LD author
+emotionally-unavailable,https://www.healthline.com/health/emotionally-unavailable,healthline.com,Crystal Raypole,reviewer,JSON-LD author
+enmeshed-family,https://www.healthline.com/health/enmeshed-family,healthline.com,Rhona Lewis,reviewer,JSON-LD author
+how-to-forgive-yourself,https://www.healthline.com/health/how-to-forgive-yourself,healthline.com,Sara Lindberg,reviewer,JSON-LD author
+how-to-rebuild-trust,https://www.healthline.com/health/how-to-rebuild-trust,healthline.com,Crystal Raypole,reviewer,JSON-LD author
+victim-mentality,https://www.healthline.com/health/victim-mentality,healthline.com,Crystal Raypole,reviewer,JSON-LD author
+what-is-people-pleasing,https://www.healthline.com/health/mental-health/7-subtle-signs-your-trauma-response-is-people-pleasing,healthline.com,Sam Dylan Finch,reviewer,JSON-LD author
+why-do-i-avoid-conflict,https://www.healthline.com/health/conflict-avoidance,healthline.com,Cindy Lamothe,reviewer,JSON-LD author
