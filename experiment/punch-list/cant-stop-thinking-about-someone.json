@@ -1,0 +1,105 @@
+{
+  "slug": "cant-stop-thinking-about-someone",
+  "questions": [
+    {
+      "q": "What is limerence, and does it describe thinking constantly about someone I barely know?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Is the Name Actually Worth?",
+      "heading_is_question": true,
+      "named_finding_inside": "Tennov's 1979 interviews and surveys published in a general-audience book",
+      "what_to_add": ""
+    },
+    {
+      "q": "Where did the word limerence come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Is the Name Actually Worth?",
+      "heading_is_question": false,
+      "named_finding_inside": "Tennov's 1979 interviews and surveys published in a general-audience book",
+      "what_to_add": "An H2 'Where did the word limerence come from?' carrying Tennov's 1979 interview and survey work."
+    },
+    {
+      "q": "Why does an unavailable or ambiguous person take up more of my thoughts?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Least Available Person Produce the Most Thought?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does an unavailable or ambiguous person take up more of my thoughts?' carrying Whitchurch, Wilson, and Gilbert's 2011 uncertainty-and-attraction experiment."
+    },
+    {
+      "q": "Why is my fantasy about them detailed when our real conversations are thin?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Fantasy So Detailed When the Real Conversations Are So Thin?",
+      "heading_is_question": true,
+      "named_finding_inside": "Joel, Eastwick and colleagues' machine-learning study of speed-dating desire",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is there a reliable test or questionnaire for limerence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Not Being Able to Stop Thinking About Someone",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a reliable test or questionnaire for limerence?' carrying no named finding known."
+    },
+    {
+      "q": "What does research actually establish about limerence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind the Word Limerence?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does research actually establish about limerence?' carrying Tennov's original 1979 interview and questionnaire work."
+    },
+    {
+      "q": "What can I change if I cannot stop the thoughts themselves?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Part of This Is Involuntary, and Which Part Is Chosen?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I change if I cannot stop the thoughts themselves?' carrying Wegner's ironic-process thought-suppression finding."
+    },
+    {
+      "q": "How long will this fixation last?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long will this fixation last?' carrying no named finding known."
+    },
+    {
+      "q": "Is limerence a diagnosable mental disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication is used to stop obsessive thoughts about a person?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "doing-it-badly-so-someone-takes-it-back",
+  "questions": [
+    {
+      "q": "What is weaponized incompetence, and is it a real research term?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much of It Holds Up?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is weaponized incompetence, and is it a real research term?' carrying no named finding known."
+    },
+    {
+      "q": "Does doing a task badly enough that someone takes over mean I planned it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Word \"Weaponized\" Get the Mechanism Backward?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Does doing a task badly enough that someone takes over mean I planned it?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I announce that I am hopeless before I even try?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much of It Holds Up?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I announce that I am hopeless before I even try?' carrying Berglas and Jones's 1978 self-handicapping experiment."
+    },
+    {
+      "q": "What does my partner experience when I keep handing tasks back?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Other Person Actually Experience?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does my partner experience when I keep handing tasks back?' carrying Daminger's cognitive-labor interview study."
+    },
+    {
+      "q": "How does this pattern show up with a boss or at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does This Hide When It Does Not Look Like a Chore?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does weaponized incompetence show up with a boss or at work?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether I lack the skill, face an impossible standard, or just want relief?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which of the Five Is Yours, and How Would You Know?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I lack the skill, face an impossible standard, or just want relief?' carrying no named finding known."
+    },
+    {
+      "q": "Who pays for the tasks and mental load I stop doing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Who Actually Pays for This, and How?",
+      "heading_is_question": true,
+      "named_finding_inside": "Daminger's interview study of anticipating, identifying, deciding, and monitoring household work",
+      "what_to_add": ""
+    },
+    {
+      "q": "How strong is the evidence on weaponized incompetence and household labor?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kamo's paired-spouse report comparison and Lachance-Grzela and Bouchard's household-labor review",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medical condition or test could explain a sudden loss of competence and memory?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, condition, medical test, or panel, or say what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I stop my child from pretending to be bad at chores so I take over?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

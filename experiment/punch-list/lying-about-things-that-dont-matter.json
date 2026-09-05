@@ -1,0 +1,105 @@
+{
+  "slug": "lying-about-things-that-dont-matter",
+  "questions": [
+    {
+      "q": "Why do I lie about tiny things when there is nothing to gain?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Lying When There Is Nothing to Gain",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I lie about tiny things when there is nothing to gain?' carrying Shalvi and colleagues' 2012 time-pressure finding."
+    },
+    {
+      "q": "Is lying about small, harmless things normal?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Something Actually Wrong With You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is lying about small, harmless things normal?' carrying DePaulo and colleagues' everyday-lie diary study."
+    },
+    {
+      "q": "How often do people actually lie, and how is that measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Famous Number About Lying Actually Show?",
+      "heading_is_question": true,
+      "named_finding_inside": "Halevy and colleagues' 2014 diary-distribution finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "What is the difference between lying for myself and lying to spare someone else?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which of Your Untruths Are for You, and Which Are for Them?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between self-oriented and other-oriented lies?' carrying DePaulo and colleagues' diary-study classification."
+    },
+    {
+      "q": "Can other people usually tell when I am lying?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This, Honestly?",
+      "heading_is_question": false,
+      "named_finding_inside": "Bond and a co-author's 2006 meta-analysis of deception-detection accuracy",
+      "what_to_add": "An H2 'Can other people usually tell when I am lying?' carrying Bond and DePaulo's 2006 meta-analysis of deception judgments."
+    },
+    {
+      "q": "What can I do right after a pointless lie slips out?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Part of This Is Produced, and Which Part Is Chosen?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do right after a pointless lie slips out?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I exaggerate my competence more around a boss or impressive colleague?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What If You Are Editing a Picture Rather Than Gaining a Thing?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I exaggerate my competence more around a boss or impressive colleague?' carrying Leary and Kowalski's two-component model of impression management."
+    },
+    {
+      "q": "Could growing up with a parent who punished honest answers cause this habit?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Accurate Answer Was Never Safe?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Could growing up with a parent who punished honest answers cause this habit?' carrying no named finding known."
+    },
+    {
+      "q": "What diagnosis explains compulsive lying about insignificant things?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is there a medication that can stop compulsive lying?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

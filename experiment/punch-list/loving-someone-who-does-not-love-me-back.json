@@ -1,0 +1,105 @@
+{
+  "slug": "loving-someone-who-does-not-love-me-back",
+  "questions": [
+    {
+      "q": "What is unrequited love?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Unrequited Love, and What Does the Name Actually Buy You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is unrequited love?' carrying Bringle, Winnick, and Rydell's unrequited-love typology."
+    },
+    {
+      "q": "How common is it to love someone who does not love you back?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Anything Actually Wrong With You for Still Feeling This?",
+      "heading_is_question": false,
+      "named_finding_inside": "Bringle, Winnick and Rydell's survey and typology of unrequited-love experiences",
+      "what_to_add": "An H2 'How common is it to love someone who does not love you back?' carrying Bringle, Winnick, and Rydell's prevalence and typology finding."
+    },
+    {
+      "q": "What does the rejecting person experience on their side?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Happens on the Other Side of This, and Why Does It Matter So Much?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does the rejecting person experience on their side?' carrying Baumeister, Wotman, and Stillwell's two-sided narrative study of unrequited love."
+    },
+    {
+      "q": "Why did their clear no not switch my feelings off?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Clear Answer Not Switch the Feeling Off?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why did their clear no not switch my feelings off?' carrying no named finding known."
+    },
+    {
+      "q": "Why are they awkward with me after turning me down?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Happens on the Other Side of This, and Why Does It Matter So Much?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why are they awkward with me after turning me down?' carrying Baumeister, Wotman, and Stillwell's finding that rejectors report guilt, entrapment, and lack of a social script."
+    },
+    {
+      "q": "How long does unrequited love usually last?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does unrequited love usually last?' carrying no named finding known."
+    },
+    {
+      "q": "Do I have to stop seeing them if they are a colleague or friend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Do You Actually Have to Stop Seeing Them?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Do I have to stop seeing them if they are a colleague or friend?' carrying no named finding known."
+    },
+    {
+      "q": "Could I be grieving the future I imagined rather than the person?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Are Grieving a Life Rather Than a Person?",
+      "heading_is_question": true,
+      "named_finding_inside": "King and Hicks's lost-possible-self research",
+      "what_to_add": ""
+    },
+    {
+      "q": "What disorder causes someone to keep loving a person after rejection?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What kind of couples counseling could make our unequal relationship work?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not treat a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

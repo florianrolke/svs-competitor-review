@@ -1,0 +1,105 @@
+{
+  "slug": "most-attached-to-the-ones-who-hurt-me",
+  "questions": [
+    {
+      "q": "Why am I more attached to someone who treats me badly than to someone kind?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Being More Attached to People Who Treat You Badly",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I more attached to someone who treats me badly than to someone kind?' carrying Humphreys's 1939 partial-reinforcement extinction finding."
+    },
+    {
+      "q": "What is intermittent reinforcement, and why does it make a pull persist?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Does the Name Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is intermittent reinforcement, and why does it make a pull persist?' carrying Humphreys's 1939 partial-reinforcement extinction finding."
+    },
+    {
+      "q": "Has intermittent reinforcement in adult relationships actually been studied?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": true,
+      "named_finding_inside": "Humphreys's 1939 intermittent-reinforcement eyeblink study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does a kind, steady partner feel boring or flat to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are Intensity and Closeness the Same Measurement?",
+      "heading_is_question": false,
+      "named_finding_inside": "Holt-Lunstad, Uchino and colleagues' ambivalent-ties and ambulatory-blood-pressure studies",
+      "what_to_add": "An H2 'Why does a kind, steady partner feel boring or flat to me?' carrying Holt-Lunstad and Uchino's ambivalent-ties finding."
+    },
+    {
+      "q": "Are intensity and genuine closeness the same thing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are Intensity and Closeness the Same Measurement?",
+      "heading_is_question": true,
+      "named_finding_inside": "Holt-Lunstad, Uchino and colleagues' ambivalent-ties and ambulatory-blood-pressure studies",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether I miss the person or the unpredictable relief they provided?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Are You Actually Attached To?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I miss the person or the unpredictable relief they provided?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I defend them when my friends point out how they treated me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does Your Explanation Get Thinner the Longer You Talk?",
+      "heading_is_question": false,
+      "named_finding_inside": "Rozenblit and Keil's 2002 illusion-of-explanatory-depth study",
+      "what_to_add": "An H2 'Why do I defend them when my friends point out how they treated me?' carrying Rozenblit and Keil's illusion-of-explanatory-depth finding."
+    },
+    {
+      "q": "Did growing up with an unpredictable parent teach me to read inconsistency as love?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Shape Was Already Familiar Before You Met Them?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Did growing up with an unpredictable parent teach me to read inconsistency as love?' carrying no named finding known."
+    },
+    {
+      "q": "What disorder makes someone bond most strongly with people who hurt them?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What kind of couples therapy can fix this push-pull relationship?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not treat a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
