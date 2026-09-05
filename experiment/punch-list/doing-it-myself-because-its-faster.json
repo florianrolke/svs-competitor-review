@@ -1,0 +1,105 @@
+{
+  "slug": "doing-it-myself-because-its-faster",
+  "questions": [
+    {
+      "q": "Why do I take work back when doing it myself really is faster?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Was Taking It Back Actually the Wrong Call?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I take work back when doing it myself really is faster?' carrying Szulanski's causal-ambiguity finding."
+    },
+    {
+      "q": "What does research call the mix of high standards, distrust, and correction costs behind this?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Do the Names Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Stoeber and Otto's 2006 review, Leana's 1986 delegation study, and Szulanski's 1996 transfer study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does explaining what is wrong genuinely take longer than fixing it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Explaining It Genuinely Takes Longer Than Doing It?",
+      "heading_is_question": true,
+      "named_finding_inside": "Szulanski's causal ambiguity finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "What happens to an employee when their boss silently rewrites all their work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Other Person Actually Experience?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What happens to an employee when their boss silently rewrites all their work?' carrying no named finding known."
+    },
+    {
+      "q": "Why is being the reliable one so hard for me to give up?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Being the Reliable One Is What You Are Valued For?",
+      "heading_is_question": false,
+      "named_finding_inside": "Swann's self-verification work and Mochon and colleagues' 2012 IKEA-effect finding",
+      "what_to_add": "An H2 'Why is being the reliable one so hard for me to give up?' carrying Swann's self-verification findings."
+    },
+    {
+      "q": "Why am I exhausted even after weekends and holidays?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is the Exhaustion Telling You Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "Maslach and Jackson's 1981 three-component burnout finding and Vohs and colleagues' 2021 preregistered replication",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether I distrust one colleague or everyone I delegate to?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Simply Do Not Trust the Person in Front of You?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I distrust one colleague or everyone I delegate to?' carrying Leana's 1986 delegation finding."
+    },
+    {
+      "q": "How does taking over chores affect my partner at home?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does This Cost Across Ten Years?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does taking over chores affect my partner at home?' carrying no named finding known."
+    },
+    {
+      "q": "Is needing to redo everyone's work a diagnosable condition?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I teach my child to stop taking over other children's tasks?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

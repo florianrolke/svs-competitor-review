@@ -1,0 +1,105 @@
+{
+  "slug": "why-insight-doesnt-change-anything",
+  "questions": [
+    {
+      "q": "Why do I understand exactly why I do something and still keep doing it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does an Accurate Insight Wear Off by the Same Evening?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I understand exactly why I do something and still keep doing it?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between insight and an actual change of state?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does an Accurate Insight Wear Off by the Same Evening?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between insight and an actual change of state?' carrying no named finding known."
+    },
+    {
+      "q": "Why can I predict every line of the same argument with my partner but not interrupt it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Is the Pattern So Much Harder to Interrupt in the Room Where It Actually Lives?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I predict every line of the same argument with my partner but not interrupt it?' carrying no named finding known."
+    },
+    {
+      "q": "Can reading, journaling, or therapy become a way to avoid changing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Can Understanding Itself Become the Way of Not Changing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can reading, journaling, or therapy become a way to avoid changing?' carrying no named finding known."
+    },
+    {
+      "q": "What are the stages between a new realization and a changed habit?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Are the Three Gates Between a New Thought and a Changed Life?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the stages between a new realization and a changed habit?' carrying no named finding known."
+    },
+    {
+      "q": "Why does advice from a coach disappear once I am back at work with my boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Is the Pattern So Much Harder to Interrupt in the Room Where It Actually Lives?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does advice from a coach disappear once I am back at work with my boss?' carrying no named finding known."
+    },
+    {
+      "q": "How do researchers measure whether insight has turned into behavior change?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure whether insight has turned into behavior change?' carrying no named finding known."
+    },
+    {
+      "q": "How long does it usually take for insight to become an automatic new response?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Honestly Take?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it usually take for insight to become an automatic new response?' carrying no named finding known."
+    },
+    {
+      "q": "Does failing to change despite insight mean I have a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication or medical test should I ask my doctor for when insight does not help?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name medication or a medical test or panel, or say what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "abandoning-things-at-ninety-percent",
+  "questions": [
+    {
+      "q": "Why is the last ten percent of a project so much harder than the first ninety?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens in the Last Ten Percent That Did Not Happen in the First Ninety?",
+      "heading_is_question": true,
+      "named_finding_inside": "Cargill's ninety-ninety rule",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my interest disappear as soon as I can see the finish line?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Interest Disappear at Exactly the Point the End Becomes Visible?",
+      "heading_is_question": true,
+      "named_finding_inside": "Hull and Kivetz and colleagues' goal-gradient findings",
+      "what_to_add": ""
+    },
+    {
+      "q": "What do researchers call abandoning a goal near completion?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Does the Name Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Wrosch and colleagues' 2003 goal disengagement and goal reengagement findings",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether quitting was wise or whether I am repeating a pattern?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell a Clean Stop From the Kind That Repeats?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether quitting was wise or whether I am repeating a pattern?' carrying no named finding known."
+    },
+    {
+      "q": "What is the practical difference between pausing a project and abandoning it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Abandoning Something and Pausing It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the practical difference between pausing a project and abandoning it?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I immediately start a new project after dropping an old one?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Starting Something New Feel So Good Straight After Quitting Something Old?",
+      "heading_is_question": true,
+      "named_finding_inside": "Klinger's 1975 incentive disengagement cycle",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why can I finish assignments for my boss but not projects that are only for me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What in Your Actual Week Keeps the Last Ten Percent Undoable?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I finish assignments for my boss but not projects that are only for me?' carrying no named finding known."
+    },
+    {
+      "q": "How do I finish one small thing without making the result a judgment on me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Finish One Thing Without Making It a Referendum on You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I finish one small thing without making the result a judgment on me?' carrying no named finding known."
+    },
+    {
+      "q": "Does repeatedly abandoning projects mean I have ADHD or depression?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I make my child finish every project they start?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

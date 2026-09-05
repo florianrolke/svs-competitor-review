@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-stop-being-a-perfectionist",
+  "questions": [
+    {
+      "q": "How can I stop being a perfectionist without letting the quality of my work collapse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Move Toward It Without Wrecking What You Are Actually Good At?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I stop being a perfectionist without lowering the quality of my work?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep raising the bar again after I decide to lower my standards?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Lowering the Standard Do Nothing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep raising the bar after lowering my standards?' carrying no named finding known."
+    },
+    {
+      "q": "Where does perfectionism usually come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Did the Bar Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where does perfectionism usually come from?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell healthy high standards from perfectionism?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Separates a High Standard From a Perfectionist One?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell healthy high standards from perfectionism?' carrying a named perfectionism instrument such as the Frost Multidimensional Perfectionism Scale."
+    },
+    {
+      "q": "Why do I read disappointment into ordinary comments from my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does Perfectionism Hide When You Would Not Call It Perfectionism?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I read disappointment into ordinary comments from my partner?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do when my boss is about to see work I cannot stop checking?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Move Toward It Without Wrecking What You Are Actually Good At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do when my boss is about to see work I cannot stop checking?' carrying no named finding known."
+    },
+    {
+      "q": "How is perfectionism measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is perfectionism measured in research?' carrying the Frost Multidimensional Perfectionism Scale and Hewitt-Flett Multidimensional Perfectionism Scale."
+    },
+    {
+      "q": "How long does it take before perfectionist habits actually ease?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Actually Take?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it take before perfectionist habits actually ease?' carrying no named finding known."
+    },
+    {
+      "q": "Is my perfectionism actually OCD or another diagnosable disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I stop my child from becoming a perfectionist?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

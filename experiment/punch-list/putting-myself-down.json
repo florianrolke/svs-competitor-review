@@ -1,0 +1,105 @@
+{
+  "slug": "putting-myself-down",
+  "questions": [
+    {
+      "q": "Why do I insult myself before anyone else gets the chance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Line Leave Before You Have Decided to Say It?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I insult myself before anyone else gets the chance?' carrying no named finding known."
+    },
+    {
+      "q": "What does research call self-deprecating humor, and how is it measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "Martin and colleagues' 2003 Humor Styles Questionnaire, Berglas and Jones's 1978 self-handicapping study, and Aronson, Willerman and Floyd's 1966 pratfall-effect study",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell harmless self-deprecating humor from the kind that damages me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## When Is Self-Deprecation Free, and When Is It Building a Case Against You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell harmless self-deprecating humor from the kind that damages me?' carrying Martin and colleagues' Humor Styles Questionnaire."
+    },
+    {
+      "q": "Why do I put myself down most around my boss or other authority figures?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Say the Identical Line for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I put myself down most around my boss or other authority figures?' carrying no named finding known."
+    },
+    {
+      "q": "Why has my partner stopped reassuring me when I put myself down?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up When You Would Not Call It a Joke?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why has my partner stopped reassuring me when I put myself down?' carrying no named finding known."
+    },
+    {
+      "q": "Can self-deprecating jokes quietly hurt my career?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does It Actually Cost You?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can self-deprecating jokes quietly hurt my career?' carrying Aronson, Willerman and Floyd's pratfall-effect finding."
+    },
+    {
+      "q": "Where did my habit of making myself the joke come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Did This Get Installed?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where did my habit of making myself the joke come from?' carrying no named finding known."
+    },
+    {
+      "q": "How can I stop putting myself down without losing my sense of humor?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Change This Without Losing Your Sense of Humor?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I stop putting myself down without losing my sense of humor?' carrying Martin and colleagues' Humor Styles Questionnaire distinction between affiliative and self-defeating humor."
+    },
+    {
+      "q": "Is constantly putting myself down a sign of depression or another diagnosis?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I stop my child from using self-deprecating humor?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
