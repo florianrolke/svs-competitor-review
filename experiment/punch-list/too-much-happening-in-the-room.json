@@ -1,0 +1,105 @@
+{
+  "slug": "too-much-happening-in-the-room",
+  "questions": [
+    {
+      "q": "Why do noise, people, and several things happening at once overwhelm me so easily?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Needing to Leave a Room",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do noise, people, and several things happening at once overwhelm me so easily?' carrying Szalma and Hancock's 2011 noise-and-performance meta-analysis."
+    },
+    {
+      "q": "What is overstimulation, and what does that label actually explain?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Does the Name Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is overstimulation, and what does that label actually explain?' carrying no named finding known."
+    },
+    {
+      "q": "Does the sheer amount of noise actually predict how overwhelmed I will get?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is the Amount of Input Actually the Variable?",
+      "heading_is_question": true,
+      "named_finding_inside": "Szalma and Hancock's 2011 meta-analytic synthesis of noise and performance",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why can I enjoy a loud concert but find a quieter open-plan office unbearable?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is a Concert You Chose Fine and a Quieter Office Not?",
+      "heading_is_question": true,
+      "named_finding_inside": "Haapakangas and colleagues' study of twenty-one open-plan offices",
+      "what_to_add": ""
+    },
+    {
+      "q": "What is sensory processing sensitivity, how is it measured, and how solid is the evidence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Sensory Processing Sensitivity, and How Good Is the Evidence?",
+      "heading_is_question": true,
+      "named_finding_inside": "Greven and colleagues' 2019 critical review and Lionetti and colleagues' 2018 grouping analysis",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does the same room overwhelm me on Thursday but not on Saturday?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Same Room Cost Different Amounts on Different Days?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does the same room overwhelm me on Thursday but not on Saturday?' carrying no named finding known."
+    },
+    {
+      "q": "Why does knowing I can leave a room make it easier even when I stay?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Real Problem Is Having No Way to Leave?",
+      "heading_is_question": true,
+      "named_finding_inside": "the early-1970s perceived-control noise experiments",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I track for a week to work out which rooms are expensive for me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week, Before You Change Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I track for a week to work out which rooms are expensive for me?' carrying no named finding known."
+    },
+    {
+      "q": "Which disorder does sensory overload mean I have?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Which hearing test or medical panel should I ask my doctor for when noise suddenly overwhelms me?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a medical test or panel or say what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

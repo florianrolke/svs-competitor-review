@@ -1,0 +1,105 @@
+{
+  "slug": "not-following-up-with-people-i-liked",
+  "questions": [
+    {
+      "q": "Why don't I follow up with people I liked and wanted to befriend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Not Following Up With People You Liked",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why don't I follow up with people I liked and wanted to befriend?' carrying Feld's 1981 foci-of-activity framework and the liking-gap finding."
+    },
+    {
+      "q": "What do researchers call the role of repeated contact in making friends?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Do the Names Leave Out?",
+      "heading_is_question": true,
+      "named_finding_inside": "Feld's 1981 foci-of-activity framework",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why was making friends effortless at school but difficult in adult life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Was This Effortless Until It Suddenly Was Not?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why was making friends effortless at school but difficult in adult life?' carrying Feld's 1981 foci-of-activity framework."
+    },
+    {
+      "q": "How good is the evidence that seeing the same people repeatedly creates friendship?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence That Repetition Makes Friends?",
+      "heading_is_question": true,
+      "named_finding_inside": "Newcomb's 1961 acquaintance study and Moreland and Beach's 1992 classroom exposure study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does it really take 200 hours to make a close friend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Many Hours Does It Really Take to Make a Friend?",
+      "heading_is_question": true,
+      "named_finding_inside": "the 2019 two-sample study of accumulated hours and friendship closeness",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I assume a new acquaintance merely tolerated me rather than liked me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Believe You Were Tolerated Rather Than Enjoyed?",
+      "heading_is_question": true,
+      "named_finding_inside": "the liking-gap finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I write in a follow-up message after a good conversation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the One Message Actually Look Like?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I write in a follow-up message after a good conversation?' carrying no named finding known."
+    },
+    {
+      "q": "Why does waiting months make the message feel harder and harder to send?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Gap Itself Has Become the Reason?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does waiting months make the message feel harder and harder to send?' carrying no named finding known."
+    },
+    {
+      "q": "Would a friendship app solve my problem if I already meet people but never message them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Just Text Them Fail as Advice?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Would a friendship app solve my problem if I already meet people but never message them?' carrying no named finding known."
+    },
+    {
+      "q": "Which medical test or diagnostic assessment should I ask for if I can never follow up socially?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a medical test or panel, say what to ask a doctor for, or name a diagnosis.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

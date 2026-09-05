@@ -1,0 +1,105 @@
+{
+  "slug": "falling-for-the-idea-of-a-person",
+  "questions": [
+    {
+      "q": "Why do I fall for an idea of someone before I really know them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Falling for the Idea of a Person",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I fall for an idea of someone before I really know them?' carrying Kenny and Acitelli's 2001 assumed-similarity finding."
+    },
+    {
+      "q": "What does hopeless romantic mean, and is it a research-backed term?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do People Mean by Hopeless Romantic, and How Much Is Behind the Phrase?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does hopeless romantic mean, and is it a research-backed term?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my imagined picture get stronger when I know less about the person?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Picture Stronger When You Know Less?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my imagined picture get stronger when I know less about the person?' carrying Kenny and Acitelli's 2001 assumed-similarity finding."
+    },
+    {
+      "q": "How can I separate what I actually know about them from what I supplied?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Actually Know, and What Did You Supply?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I separate what I actually know about them from what I supplied?' carrying no named finding known."
+    },
+    {
+      "q": "Does idealizing a partner make a relationship more stable or more likely to fail?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does Building Someone Up Help a Relationship or Damage It?",
+      "heading_is_question": true,
+      "named_finding_inside": "Gagné and Lydon's 2004 integrative review and Huston, Niehuis and colleagues' 2001 newlywed longitudinal study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can a short first conversation really predict whether a connection will go anywhere?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Short First Conversation Feel So Predictive?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sunnafrank and Ramirez's 2004 brief get-acquainted conversation study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does discovering the real person feel like betrayal when they did nothing wrong?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Disappointment Feel Like a Betrayal When Nobody Did Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does discovering the real person feel like betrayal when they did nothing wrong?' carrying no named finding known."
+    },
+    {
+      "q": "Why does telling myself to slow down not stop me building a whole future?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Deciding to Slow Down Never Do Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does telling myself to slow down not stop me building a whole future?' carrying no named finding known."
+    },
+    {
+      "q": "Which diagnosis explains repeatedly falling for an imagined version of someone?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What treatment should a couple use to cure idealization in their marriage?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not treat a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

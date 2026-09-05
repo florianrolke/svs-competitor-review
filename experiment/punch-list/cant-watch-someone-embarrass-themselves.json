@@ -1,0 +1,105 @@
+{
+  "slug": "cant-watch-someone-embarrass-themselves",
+  "questions": [
+    {
+      "q": "Why can't I watch someone embarrass themselves even when they seem completely fine?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Secondhand Embarrassment",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can't I watch someone embarrass themselves even when they seem completely fine?' carrying Krach and colleagues' 2011 finding that vicarious embarrassment occurred even when the protagonist was oblivious."
+    },
+    {
+      "q": "What is secondhand embarrassment, and is vicarious embarrassment the same thing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Does the Name Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is secondhand embarrassment, and is vicarious embarrassment the same thing?' carrying Krach and colleagues' 2011 vicarious-embarrassment scenarios finding."
+    },
+    {
+      "q": "Why is it sometimes worse when the other person does not realize they are embarrassing themselves?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Hard Case the One Where They Are Perfectly Happy?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why is secondhand embarrassment sometimes worse when the other person does not realize it?' carrying Krach and colleagues' 2011 awareness-by-intent scenario finding."
+    },
+    {
+      "q": "Does strong secondhand embarrassment mean I am more empathetic than other people?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Is This Thin Skin, or Is It Something Else Entirely?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Does strong secondhand embarrassment mean I am more empathetic than other people?' carrying Stocks and colleagues' 2011 perspective-taking experiment and the 2019 Psychological Assessment meta-analysis of self-reported versus behavioral empathy."
+    },
+    {
+      "q": "How strong is the research evidence for explanations of vicarious embarrassment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence for That Reframe, Really?",
+      "heading_is_question": true,
+      "named_finding_inside": "the 2019 Psychological Assessment meta-analysis of 85 studies on self-reported and behavioral empathy",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can I stop the physical cringe reaction, or only stop myself leaving the room?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Separates the Recoil From Leaving the Room?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can I stop the physical cringe reaction, or only stop myself leaving the room?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I feel secondhand embarrassment more strongly for a close friend than for a stranger?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Are Running Their Position Too Completely?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel secondhand embarrassment more strongly for a close friend than for a stranger?' carrying Krach and colleagues' 2015 friend-versus-stranger failure finding."
+    },
+    {
+      "q": "What should I track this week to understand my secondhand embarrassment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I track this week to understand my secondhand embarrassment?' carrying no named finding known."
+    },
+    {
+      "q": "Which diagnosis or medication explains severe secondhand embarrassment?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, diagnostic manual, or medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I train my child not to leave school performances because of secondhand embarrassment?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

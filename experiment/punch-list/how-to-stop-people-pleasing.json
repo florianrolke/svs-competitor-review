@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-stop-people-pleasing",
+  "questions": [
+    {
+      "q": "How do I stop people pleasing when my yes comes out automatically?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## People Pleasing Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop people pleasing when my yes comes out automatically?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I agree before I have even decided what I want?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## People Pleasing Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I agree before I have even decided what I want?' carrying no named finding known."
+    },
+    {
+      "q": "What are the subtle signs that I am people pleasing rather than simply being considerate?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does People Pleasing Sound Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the subtle signs that I am people pleasing rather than simply being considerate?' carrying no named finding known."
+    },
+    {
+      "q": "Why did being agreeable become useful to me in the first place?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Did Being Agreeable Ever Work?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why did being agreeable become useful to me in the first place?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep people pleasing when nobody is actually judging me now?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Keep Running When the Original Conditions Are Gone?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep people pleasing when nobody is actually judging me now?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop people pleasing with my boss without risking my income?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## People Pleasing Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop people pleasing with my boss without risking my income?' carrying no named finding known."
+    },
+    {
+      "q": "How do I show my real preferences to a partner without turning the relationship into constant conflict?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## People Pleasing Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I show my real preferences to a partner without turning the relationship into constant conflict?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop performing a curated version of myself around my parents?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## People Pleasing Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop performing a curated version of myself around my parents?' carrying no named finding known."
+    },
+    {
+      "q": "How can I keep my child from growing up to be a people pleaser?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Which diagnosis or medication would stop chronic people pleasing?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, diagnostic manual, or medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
