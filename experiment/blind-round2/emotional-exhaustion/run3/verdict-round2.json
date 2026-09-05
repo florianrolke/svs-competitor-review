@@ -1,0 +1,95 @@
+{
+  "query": "Why am I so tired in a way sleep doesn't fix?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 6,
+    "B": 4
+  },
+  "per_question": [
+    {
+      "q": "Why am I exhausted even though I sleep eight hours?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A carries the question verbatim as an FAQ and answers it with the mechanism an engine can quote: apnea-driven micro-arousals that shred deep and REM sleep while time-in-bed stays untouched, plus the other testable buckets; B answers with a single emotional-drain frame the reader has not verified."
+    },
+    {
+      "q": "What blood tests should I ask my doctor for if I'm always tired?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "high",
+      "why": "A has a dedicated first-pass panel table (CBC, ferritin with CRP, TSH and free T4, B12, folate, vitamin D, HbA1c, metabolic panel, coeliac serology) with the reason each test is on the list, while B only says to get the boring possibilities checked."
+    },
+    {
+      "q": "Is adrenal fatigue a real condition?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "high",
+      "why": "A answers no with receipts: the 2016 Cadegiani and Kater systematic review in BMC Endocrine Disorders (3,470 articles screened, 58 analysed) and the Endocrine Society position, while still validating that the symptoms are real; B never addresses adrenal fatigue."
+    },
+    {
+      "q": "Why do I feel drained for hours after seeing my family even when nothing bad happened?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B answers this directly: family is where the original arrangement was installed, so those rooms reactivate the old role at adult prices, and an entirely pleasant Sunday lunch can cost more than a full working day."
+    },
+    {
+      "q": "Why do I feel guilty whenever I try to rest?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B devotes a full section to rest producing guilt instead of relief: worth attached to output or caregiving makes an idle hour read as betrayal, and stillness is avoided because it is where feeling arrives."
+    },
+    {
+      "q": "Could it be sleep apnea if I'm slim, female, and don't snore?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "high",
+      "why": "A has a dedicated section on exactly this miss: apnea in women often presents as fatigue, insomnia and morning headaches without dramatic snoring, being slim does not exclude it, and a home sleep test settles it cheaply."
+    },
+    {
+      "q": "Is my exhaustion burnout or depression?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "medium",
+      "why": "A's comparison table separates burnout (context-bound, lifts on a real break, an occupational phenomenon per WHO ICD-11) from depression (pervasive, follows you on holiday, anhedonia) and says to screen with PHQ-9; B's table covers the same ground but routes through its own emotional-exhaustion frame."
+    },
+    {
+      "q": "Why do I cry at films but feel nothing about my own life?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B names the pairing exactly: feeling requires a container that registers as safe, and a film is the only one where nobody will need anything from you afterward, so grief exits through fiction while your own life stays dry-eyed."
+    },
+    {
+      "q": "How long after starting iron or thyroid treatment should I expect to feel better?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "high",
+      "why": "A gives the numbers: iron repletion takes 8 to 12 weeks to show in energy even after ferritin rises, and thyroid replacement needs 6 to 8 weeks per dose adjustment, with the week-three abandonment error named."
+    },
+    {
+      "q": "Why does a five-minute phone call with my mother wipe me out for the day?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B's FAQ matches the scenario nearly verbatim: the call is short but it switches old vigilance and caregiving reflexes back online within seconds, and the tiredness is the cost of that activation rather than of the conversation."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "No account of the relational pattern at all: why family contact, a short call, or caregiving drains out of proportion to the event",
+      "Nothing on rest guilt or on why crying at films coexists with feeling nothing about your own life",
+      "No treatment of the vigilance, suppression and over-responsibility that keep running through sleep and holidays"
+    ],
+    "B": [
+      "No actual medical workup: no blood panel, no ferritin guidance, no sleep-apnea presentation in women, no red flags list",
+      "No verdict on adrenal fatigue or the popular remedies marketed for it",
+      "No recovery timelines for iron, thyroid, or other treatments, and no named instruments or criteria beyond a passing mention of burnout research"
+    ]
+  },
+  "first_screen": "A answers faster and more safely: its opening short answer resolves the question into three testable buckets and names ferritin as the most-missed test, while B's opening commits the reader to a single emotional explanation that has not been ruled in yet.",
+  "provenance": "A: claims are tied to named studies, instruments and bodies (Cadegiani and Kater 2016, the Wisconsin Sleep Cohort, Benjafield 2019, Maslach and Jackson 1981, WHO ICD-11, the 2015 IOM criteria) plus a closing sources list; B offers no research provenance beyond the author's own disclosed experience.",
+  "confidence": "high"
+}
