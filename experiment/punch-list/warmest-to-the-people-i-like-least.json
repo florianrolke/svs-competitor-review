@@ -1,0 +1,105 @@
+{
+  "slug": "warmest-to-the-people-i-like-least",
+  "questions": [
+    {
+      "q": "Why am I extra nice to someone I privately cannot stand?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Warm Version Always the Bigger One?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I extra nice to someone I privately cannot stand?' carrying Bergsieker and colleagues' 2012 omitted-praise finding."
+    },
+    {
+      "q": "What is reaction formation, and is there evidence that it explains exaggerated kindness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and How Much of the Name Is Real?",
+      "heading_is_question": true,
+      "named_finding_inside": "the 1996 physiological-arousal experiment by Wright, Lohr, and a colleague",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I become especially warm with a boss who could make my life difficult?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Warmth Is Insurance?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I especially warm with a boss who has power over me?' carrying no named finding known."
+    },
+    {
+      "q": "Why is this strongest around family members I dislike?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Questions About Being Warmest to the People You Like Least",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why is this strongest around family members I dislike?' carrying no named finding known."
+    },
+    {
+      "q": "Why can I not just act neutral instead of overdoing the friendliness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If There Is No Permitted Neutral?",
+      "heading_is_question": true,
+      "named_finding_inside": "Bergsieker and colleagues' 2012 finding that omitted praise conveys a negative impression",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I feel drained after being pleasant to someone I dislike?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and How Much of the Name Is Real?",
+      "heading_is_question": false,
+      "named_finding_inside": "Zapf's 2002 review linking emotional dissonance with exhaustion",
+      "what_to_add": "An H2 'Why do I feel drained after being pleasant to someone I dislike?' carrying Zapf's 2002 emotional-dissonance review."
+    },
+    {
+      "q": "How can I reduce the over-the-top warmth without suddenly becoming cold?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I reduce the over-the-top warmth without suddenly becoming cold?' carrying Bergsieker and colleagues' 2012 omitted-praise finding."
+    },
+    {
+      "q": "How has exaggerated warmth toward disliked people been studied or measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Do Researchers Call This, and How Much of the Name Is Real?",
+      "heading_is_question": false,
+      "named_finding_inside": "the 1996 Wright and Lohr physiological-arousal study commonly cited for reaction formation",
+      "what_to_add": "An H2 'How has exaggerated warmth toward disliked people been studied or measured?' carrying the 1996 Wright and Lohr physiological-arousal experiment and its measurement limitation."
+    },
+    {
+      "q": "Could this behavior mean I have a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is there medication that can stop this automatic friendliness?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming medication or a condition for which it might be prescribed.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

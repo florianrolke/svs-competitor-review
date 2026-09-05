@@ -1,0 +1,105 @@
+{
+  "slug": "unloading-on-people",
+  "questions": [
+    {
+      "q": "What is emotional unloading, and how is it different from healthy self-disclosure?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Research Call This, and What Does It Leave Out?",
+      "heading_is_question": true,
+      "named_finding_inside": "Altman and Taylor's 1973 layered model of disclosure, Rimé's social-sharing research, and Aron's 1997 closeness study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I feel relieved while unloading and ashamed a few hours later?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Relief Arrive First and the Dread Arrive Later?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sidney Jourard's 1960s work on self-disclosure and being known",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I tell strangers everything but barely talk to my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Emotional Unloading Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I tell strangers everything but barely talk to my partner?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I overshare on first dates even when I promised myself not to?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Emotional Unloading Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I overshare on first dates even when I promised myself not to?' carrying no named finding known."
+    },
+    {
+      "q": "Does telling the same painful story over and over actually help?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does Telling the Story Again and Again Make It Smaller or Bigger?",
+      "heading_is_question": true,
+      "named_finding_inside": "Bernard Rimé's social-sharing research and James Pennebaker's expressive-writing findings",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does being unloaded on do to the listener?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Other Person Actually Experience?",
+      "heading_is_question": true,
+      "named_finding_inside": "Hatfield, Cacioppo, and Rapson's emotional-contagion research",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I stop unloading without becoming silent and emotionally closed off?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Learn to Be Known Without Emptying Everything at Once?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I stop unloading without becoming silent and emotionally closed off?' carrying Aron's 1997 escalation-and-reciprocity closeness finding."
+    },
+    {
+      "q": "Is there a questionnaire or threshold researchers use to measure emotional unloading?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Research Call This, and What Does It Leave Out?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a questionnaire or threshold researchers use to measure emotional unloading?' carrying no named finding known."
+    },
+    {
+      "q": "Is unloading the same thing as trauma dumping?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require using the prohibited trauma framing.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Could compulsive oversharing be a symptom of a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

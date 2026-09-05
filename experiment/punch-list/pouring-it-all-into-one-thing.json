@@ -1,0 +1,105 @@
+{
+  "slug": "pouring-it-all-into-one-thing",
+  "questions": [
+    {
+      "q": "What is sublimation, and is it supported by research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much of It Is Actually Evidence?",
+      "heading_is_question": true,
+      "named_finding_inside": "Cramer's 1991 defense-coding manual and 1998 conscious-coping versus unconscious-defense distinction",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do my problems return the moment a big project ends?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Work Stop Working the Moment It Stops?",
+      "heading_is_question": true,
+      "named_finding_inside": "Smallwood and Schooler's mind-wandering research showing less off-task thought as task demand rises",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether work restores me or is replacing the rest of my life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Engagement That Restores You and Engagement That Replaces Something?",
+      "heading_is_question": true,
+      "named_finding_inside": "Vallerand and colleagues' 2003 harmonious-versus-obsessive passion finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is pouring myself into work during a bad year necessarily unhealthy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Pouring Yourself Into Something Actually a Problem?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is pouring myself into work during a bad year necessarily unhealthy?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do before my current project finishes so I do not immediately replace it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing Before Your Current Project Ends?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do before my current project finishes so I do not immediately replace it?' carrying no named finding known."
+    },
+    {
+      "q": "How does disappearing into work affect my partner and family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does This Cost When the Output Is Genuinely Good?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does disappearing into work affect my partner and family?' carrying no named finding known."
+    },
+    {
+      "q": "How are defense mechanisms measured, and does any instrument measure sublimation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Research on This Page Come From?",
+      "heading_is_question": false,
+      "named_finding_inside": "Cramer's 1991 narrative defense-coding manual",
+      "what_to_add": "An H2 'How are defense mechanisms measured, and does any instrument measure sublimation?' carrying Cramer's 1991 coding manual and the finding that it does not code sublimation."
+    },
+    {
+      "q": "Why does praise from my boss feel uncomfortable when the work is genuinely good?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Being Praised for Dedication Land So Strangely?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does praise from my boss feel uncomfortable when the work is genuinely good?' carrying no named finding known."
+    },
+    {
+      "q": "Could these intense work bursts mean I have bipolar disorder or ADHD?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming diagnoses, disorders, conditions, or a diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is there medication that would stop me from compulsively starting new projects?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming medication or a condition for which it might be prescribed.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

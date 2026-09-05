@@ -1,0 +1,105 @@
+{
+  "slug": "sudden-revulsion-at-someone-i-liked",
+  "questions": [
+    {
+      "q": "What is the ick, and is it a real psychological phenomenon?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Ick, and How Much Research Is Actually Underneath the Phrase?",
+      "heading_is_question": true,
+      "named_finding_inside": "Collisson, Saunders, and Yin's 2025 correlational study of the ick",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does knowing my reaction is unfair not make the disgust disappear?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Knowing It Is Unfair Change Nothing?",
+      "heading_is_question": true,
+      "named_finding_inside": "Haidt and colleagues' work on holding moral judgments after one's reasons fail",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why can one tiny mannerism suddenly spoil the whole person for me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does One Small Detail Contaminate the Whole Person?",
+      "heading_is_question": true,
+      "named_finding_inside": "Frazer's law of contagion",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I get the ick whenever someone starts to really like me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If It Arrives Exactly as They Get Closer?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I get the ick whenever someone starts to really like me?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether the detail revealed something real or was just random disgust?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Detail Was Carrying Real Information?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether the detail revealed something real or was just random disgust?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do about the guilt after suddenly going off someone?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Do With the Guilt?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do about the guilt after suddenly going off someone?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated scale or test that measures the ick?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Ick, and How Much Research Is Actually Underneath the Phrase?",
+      "heading_is_question": false,
+      "named_finding_inside": "Collisson, Saunders, and Yin's 2025 study-specific ick items",
+      "what_to_add": "An H2 'Is there a validated scale or test that measures the ick?' carrying Collisson, Saunders, and Yin's 2025 study-specific items and the finding that they are not a validated instrument."
+    },
+    {
+      "q": "How do I decide whether to keep dating them or end it cleanly?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Do You Do With the Guilt?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I decide whether to keep dating them or end it cleanly?' carrying no named finding known."
+    },
+    {
+      "q": "Does repeatedly getting the ick mean I have an attachment disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can medication stop sudden physical revulsion toward people I date?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming medication or a condition for which it might be prescribed.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
