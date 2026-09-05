@@ -1,0 +1,105 @@
+{
+  "slug": "changing-the-subject",
+  "questions": [
+    {
+      "q": "Why do I change the subject before I even realize I am doing it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Happen Before You Have Decided Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I change the subject before I even realize I am doing it?' carrying no named finding known."
+    },
+    {
+      "q": "What do researchers call it when I steer a conversation away from myself?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Leave Out?",
+      "heading_is_question": true,
+      "named_finding_inside": "Dailey and Palomares's 2004 topic-avoidance study",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether I avoid one subject or one particular person?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Avoiding a Topic and Avoiding a Person?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I avoid one subject or one particular person?' carrying Dailey and Palomares's topic-avoidance findings."
+    },
+    {
+      "q": "Why do lopsided conversations leave both people feeling awkward?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does an Uneven Conversation Feel Wrong to Both of You?",
+      "heading_is_question": true,
+      "named_finding_inside": "Boothby and colleagues' 2018 conversation-liking finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why am I such a good listener if I am also avoiding being known?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is Somebody Who Redirects Often the Best Listener in the Room?",
+      "heading_is_question": true,
+      "named_finding_inside": "Huang and colleagues' 2017 follow-up-question finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does always handing the conversation back cost my friendships?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## So What Does the Pivot Actually Cost, and Who Pays?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does always handing the conversation back cost my friendships?' carrying no named finding known."
+    },
+    {
+      "q": "When is changing the subject a healthy privacy choice?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## When Is Changing the Subject Exactly the Right Move?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'When is changing the subject a healthy privacy choice?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do after I have already redirected the conversation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Is the Line Between the Reflex and the Following Minute?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do after I have already redirected the conversation?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I dodge personal questions from my boss but answer my friends?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is the Difference Between Avoiding a Topic and Avoiding a Person?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I dodge personal questions from my boss but answer my friends?' carrying Dailey and Palomares's topic-and-relationship avoidance findings."
+    },
+    {
+      "q": "Is constantly changing the subject a sign of a mental disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name or rule out a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

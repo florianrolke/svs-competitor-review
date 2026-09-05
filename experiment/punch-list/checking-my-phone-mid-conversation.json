@@ -1,0 +1,105 @@
+{
+  "slug": "checking-my-phone-mid-conversation",
+  "questions": [
+    {
+      "q": "What is phubbing, and how do researchers measure it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Does the Naming Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Chotpitayasunondh and Douglas's 2016 phubbing findings",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I check my phone with my partner but never with a client?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You Do This to People You Love and Almost Never to a Stranger?",
+      "heading_is_question": true,
+      "named_finding_inside": "Misra and colleagues' 2016 coffee-shop observation study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why can I not remember what someone said after a two-second glance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Can You Not Remember What Was Just Said?",
+      "heading_is_question": true,
+      "named_finding_inside": "Leroy's 2009 attention-residue finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my hand reach for my phone when money or family comes up?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Glance Is Escaping Something Specific in This Conversation?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my hand reach for my phone when money or family comes up?' carrying no named finding known."
+    },
+    {
+      "q": "Does putting my phone face down help me listen?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Moving the Phone Work Better Than Deciding to Do Better?",
+      "heading_is_question": true,
+      "named_finding_inside": "Ward and colleagues' 2017 brain-drain experiments",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I stop checking my phone while people are talking?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week, Before You Change Anything Else?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop checking my phone while people are talking?' carrying Ward and colleagues' phone-location finding."
+    },
+    {
+      "q": "Why do pauses during a film make me pick up my phone?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If It Is the Pause You Cannot Sit In?",
+      "heading_is_question": true,
+      "named_finding_inside": "Dwyer and colleagues' 2018 family-meal experiment",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does my phone checking do to the person trying to talk to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Glance Actually Cost the Person in Front of You?",
+      "heading_is_question": true,
+      "named_finding_inside": "Chotpitayasunondh and Douglas's reciprocal-phubbing finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Could a psychiatric diagnosis explain why I cannot stop checking my phone?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I make my child stop checking their phone at dinner?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

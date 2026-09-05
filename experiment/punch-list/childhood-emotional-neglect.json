@@ -1,0 +1,105 @@
+{
+  "slug": "childhood-emotional-neglect",
+  "questions": [
+    {
+      "q": "What is childhood emotional neglect?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Childhood Emotional Neglect Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is childhood emotional neglect?' carrying no named finding known."
+    },
+    {
+      "q": "How can I know if I was emotionally neglected when nothing bad happened?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is There No Incident to Point At?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I know if I was emotionally neglected when nothing bad happened?' carrying no named finding known."
+    },
+    {
+      "q": "How is emotional neglect different from invalidation or emotional abuse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is emotional neglect different from invalidation or emotional abuse?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I distrust the size of my own feelings as an adult?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You Distrust Your Own Emotional Reactions?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I distrust the size of my own feelings as an adult?' carrying no named finding known."
+    },
+    {
+      "q": "How does childhood emotional neglect show up with a partner, friends, or a boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up in an Ordinary Adult Week?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does childhood emotional neglect show up with a partner, friends, or a boss?' carrying no named finding known."
+    },
+    {
+      "q": "Why does love from people now still not feel like enough?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Love Arriving Now Not Close the Gap?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does love from people now still not feel like enough?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do to start trusting my emotional reactions?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Start Trusting Your Own Reactions Again?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to start trusting my emotional reactions?' carrying no named finding known."
+    },
+    {
+      "q": "How common is childhood emotional neglect?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Childhood Emotional Neglect Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How common is childhood emotional neglect?' carrying no named finding known."
+    },
+    {
+      "q": "Is childhood emotional neglect an official diagnosis?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name or rule out a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I do if I think my child is being emotionally neglected?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

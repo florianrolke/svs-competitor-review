@@ -1,0 +1,105 @@
+{
+  "slug": "checking-their-social-media",
+  "questions": [
+    {
+      "q": "What do researchers call repeatedly monitoring someone online?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "Tokunaga's 2011 interpersonal electronic surveillance construct",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I check their profile when I already know what is there?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Knowing Exactly What You Will Find Not Stop You From Looking?",
+      "heading_is_question": true,
+      "named_finding_inside": "Ferster and Skinner's variable-reinforcement finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I feel flat after checking but still do it again?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Flatness Afterward So Specific, and Why Does It Never Work as a Warning?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel flat after checking but still do it again?' carrying no named finding known."
+    },
+    {
+      "q": "Does watching an ex online make it harder to move on?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Cover?",
+      "heading_is_question": false,
+      "named_finding_inside": "Marshall's 2012 post-breakup monitoring study",
+      "what_to_add": "An H2 'Does watching an ex online make it harder to move on?' carrying Marshall's 2012 post-breakup monitoring finding."
+    },
+    {
+      "q": "How can I tell harmless curiosity from checking that is taking over my day?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Much Is This Actually Costing You, Look by Look?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell harmless curiosity from checking that is taking over my day?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep checking a friend who quietly stopped talking to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Did an Ordinary Look Turn Into Something That Organizes Your Day?",
+      "heading_is_question": false,
+      "named_finding_inside": "Doka's disenfranchised-grief concept",
+      "what_to_add": "An H2 'Why do I keep checking a friend who quietly stopped talking to me?' carrying Doka's disenfranchised-grief finding."
+    },
+    {
+      "q": "Why am I reading their photos for an explanation they never gave me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Check the Same Profile for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "Boss's ambiguous-loss concept and Berger and Calabrese's uncertainty-reduction theory",
+      "what_to_add": "An H2 'Why am I reading their photos for an explanation they never gave me?' carrying Boss's ambiguous-loss finding and Berger and Calabrese's uncertainty-reduction theory."
+    },
+    {
+      "q": "How do I stop checking without spending all day fighting the urge?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Stop Without Making It the Only Thing You Think About?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop checking without spending all day fighting the urge?' carrying no named finding known."
+    },
+    {
+      "q": "Is compulsively checking an ex's page a mental disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name or rule out a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is there medication that can stop me checking their social media?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

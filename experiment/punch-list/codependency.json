@@ -1,0 +1,105 @@
+{
+  "slug": "codependency",
+  "questions": [
+    {
+      "q": "What is codependency in plain language?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Codependency Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is codependency in plain language?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell codependency from caring deeply about my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Codependency, or Do You Simply Care About Somebody a Lot?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell codependency from caring deeply about my partner?' carrying no named finding known."
+    },
+    {
+      "q": "Where does codependency come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Codependency Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where does codependency come from?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I feel responsible for managing another person's mood?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Dependency Actually Protecting You From?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel responsible for managing another person's mood?' carrying no named finding known."
+    },
+    {
+      "q": "Can codependency happen with a friend, parent, or boss instead of a partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does It Only Happen in Romantic Relationships?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can codependency happen with a friend, parent, or boss instead of a partner?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between codependency, enmeshment, and parentification?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is It Codependency, Enmeshment, Parentification, or Something Else Entirely?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between codependency, enmeshment, and parentification?' carrying no named finding known."
+    },
+    {
+      "q": "What does healthy interdependency look like day to day?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Interdependency Actually Look Like?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does healthy interdependency look like day to day?' carrying no named finding known."
+    },
+    {
+      "q": "How do I become less codependent without becoming cold?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves It?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I become less codependent without becoming cold?' carrying no named finding known."
+    },
+    {
+      "q": "Is codependency a diagnosable mental illness?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name or rule out a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should my spouse and I treat our codependent marriage together?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never treat a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
