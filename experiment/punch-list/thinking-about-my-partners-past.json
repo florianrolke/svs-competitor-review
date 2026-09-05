@@ -1,0 +1,105 @@
+{
+  "slug": "thinking-about-my-partners-past",
+  "questions": [
+    {
+      "q": "What is retroactive jealousy, and where did the term come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much Weight Can the Name Carry?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is retroactive jealousy, and where did the term come from?' carrying no named finding known."
+    },
+    {
+      "q": "Is obsessing about my partner's ex actually jealousy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Jealousy at All?",
+      "heading_is_question": true,
+      "named_finding_inside": "White and Mullen's 1989 definition of romantic jealousy",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do researchers measure the thinking, feelings, and behavior involved in jealousy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Research Actually Have, If the Label Has Nothing?",
+      "heading_is_question": true,
+      "named_finding_inside": "Pfeiffer and Wong's 1989 Multidimensional Jealousy Scale",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my partner's honest answer only reassure me for a day?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does an Honest Answer Buy So Little?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my partner's honest answer only reassure me for a day?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep asking for details when every detail makes the images worse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Detail Is What Keeps It Running?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep asking for details when every detail makes the images worse?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do instead of asking my partner another question?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do instead of asking my partner another question?' carrying Wegner's ironic-process thought-suppression finding."
+    },
+    {
+      "q": "Does thinking about their ex mean I do not trust my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Thinking About a Partner's Past",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Does thinking about their ex mean I do not trust my partner?' carrying no named finding known."
+    },
+    {
+      "q": "Why can this get worse when my relationship is going well?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Thinking About a Partner's Past",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can this get worse when my relationship is going well?' carrying no named finding known."
+    },
+    {
+      "q": "How long does this pattern usually take to settle?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does this pattern usually take to settle?' carrying no named finding known."
+    },
+    {
+      "q": "Is obsessing over my partner's past a form of OCD?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming and discussing a diagnosis or disorder, which the page will never do.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

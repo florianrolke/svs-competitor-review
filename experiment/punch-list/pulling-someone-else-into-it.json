@@ -1,0 +1,105 @@
+{
+  "slug": "pulling-someone-else-into-it",
+  "questions": [
+    {
+      "q": "What is triangulation in a conflict?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Pulling Someone Else Into It",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is triangulation in a conflict?' carrying Simmel's dyad-to-triad account."
+    },
+    {
+      "q": "How do I tell a genuine reality check from recruiting someone to my side?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Separates a Reality Check From Building a Side?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I tell a genuine reality check from recruiting someone to my side?' carrying no named finding known."
+    },
+    {
+      "q": "Why does agreement from a third person make the conflict feel settled?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Being Agreed With Feel Like the Matter Has Been Handled?",
+      "heading_is_question": true,
+      "named_finding_inside": "Isenberg's 1986 meta-analysis of group polarization",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does telling sympathetic friends my side make my position more extreme?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Being Agreed With Feel Like the Matter Has Been Handled?",
+      "heading_is_question": false,
+      "named_finding_inside": "Schkade and colleagues' like-minded-deliberation experiment",
+      "what_to_add": "An H2 'Does telling sympathetic friends my side make my position more extreme?' carrying Schkade and colleagues' like-minded-deliberation experiment."
+    },
+    {
+      "q": "What happens to a two-person disagreement after several other people know?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Happens to a Two-Person Problem Once Four People Know?",
+      "heading_is_question": true,
+      "named_finding_inside": "Simmel's account of the structural change from a dyad to a triad",
+      "what_to_add": ""
+    },
+    {
+      "q": "Should I go directly to a boss who can punish me for disagreeing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Direct Conversation Would Actually Cost You Something?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Should I go directly to a boss who can punish me for disagreeing?' carrying no named finding known."
+    },
+    {
+      "q": "Did I learn to pass messages through people from the way my family communicated?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Messages Always Went Through Somebody Where You Grew Up?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Did I learn to pass messages through people from the way my family communicated?' carrying no named finding known."
+    },
+    {
+      "q": "How strong is the evidence for triangulation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How strong is the evidence for triangulation?' carrying Isenberg's 1986 meta-analysis of group polarization."
+    },
+    {
+      "q": "What can I do this week to notice when I pull a third person in?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week, Before You Say Anything to Anybody?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do this week to notice when I pull a third person in?' carrying no named finding known."
+    },
+    {
+      "q": "How should I stop my child from triangulating me against their other parent?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child, which the page will never give.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

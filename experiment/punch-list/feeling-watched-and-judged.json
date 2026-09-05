@@ -1,0 +1,105 @@
+{
+  "slug": "feeling-watched-and-judged",
+  "questions": [
+    {
+      "q": "Why do I feel like everyone is watching and judging me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Feeling Watched",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel like everyone is watching and judging me?' carrying Gilovich, Medvec, and Savitsky's spotlight-effect finding."
+    },
+    {
+      "q": "What is the spotlight effect, and how big is it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Big Is the Error, Actually?",
+      "heading_is_question": true,
+      "named_finding_inside": "the spotlight-effect embarrassing-shirt experiment",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does being watched actually make people behave differently?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does Being Watched Actually Change How People Behave?",
+      "heading_is_question": true,
+      "named_finding_inside": "Northover and colleagues' two 2017 meta-analyses of artificial surveillance cues",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do researchers measure public self-consciousness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is the Name for This, and What Does the Name Actually Cover?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure public self-consciousness?' carrying the Fenigstein, Scheier, and Buss Self-Consciousness Scale."
+    },
+    {
+      "q": "Why do I feel watched most strongly when I present something to my boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What If You Genuinely Were Watched Once?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel watched most strongly when I present something to my boss?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do this week to check whether people notice me as much as I think?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Check, and How Do You Run It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do this week to check whether people notice me as much as I think?' carrying Gilovich, Medvec, and Savitsky's spotlight-effect finding."
+    },
+    {
+      "q": "Could the judging voice I hear around people really be my parent's voice?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Observer Is Not in the Room?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Could the judging voice I hear around people really be my parent's voice?' carrying no named finding known."
+    },
+    {
+      "q": "What if people genuinely do stare because I stand out?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Really Are Conspicuous?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What if people genuinely do stare because I stand out?' carrying no named finding known."
+    },
+    {
+      "q": "How long does it take for the feeling of being watched to ease?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it take for the feeling of being watched to ease?' carrying no named finding known."
+    },
+    {
+      "q": "Is feeling watched a symptom of social anxiety disorder?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming a diagnosis or disorder, which the page will never do.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "waiting-for-permission",
+  "questions": [
+    {
+      "q": "Why do I keep waiting for someone to tell me I can start?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Waiting for Permission",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep waiting for someone to tell me I can start?' carrying Rotter's locus-of-control finding."
+    },
+    {
+      "q": "What is an external locus of control?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Waiting for Permission",
+      "heading_is_question": false,
+      "named_finding_inside": "Rotter's 1966 locus-of-control scale",
+      "what_to_add": "An H2 'What is an external locus of control?' carrying Rotter's 1966 locus-of-control scale."
+    },
+    {
+      "q": "How can I tell whether my manager's permission is truly required?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Separates a Required Permission From an Imagined One?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my manager's permission is truly required?' carrying no named finding known."
+    },
+    {
+      "q": "Why am I still waiting for approval from a parent who cannot give it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Person Whose Blessing You Want Cannot Give It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I still waiting for approval from a parent who cannot give it?' carrying no named finding known."
+    },
+    {
+      "q": "Why does it sting when someone less prepared starts before me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Watching Someone Less Prepared Get It Sting in That Particular Way?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does it sting when someone less prepared starts before me?' carrying no named finding known."
+    },
+    {
+      "q": "How is waiting for permission measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is the Name for This, and Why Is the Popular One Wrong?",
+      "heading_is_question": false,
+      "named_finding_inside": "Rotter's 1966 locus-of-control scale",
+      "what_to_add": "An H2 'How is waiting for permission measured in research?' carrying Rotter's 1966 locus-of-control scale."
+    },
+    {
+      "q": "How trustworthy is the learned-helplessness research behind this idea?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Much of This Research Should You Actually Trust?",
+      "heading_is_question": true,
+      "named_finding_inside": "Maier and Seligman's 2016 corrected account of learned helplessness",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does changing this pattern look like in an ordinary workweek?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Repaired Version Look Like on an Ordinary Week?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does changing this pattern look like in an ordinary workweek?' carrying no named finding known."
+    },
+    {
+      "q": "What is one concrete thing I can do before making a bigger decision?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is One Thing to Do This Week, Before Any Bigger Decision?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is one concrete thing I can do before making a bigger decision?' carrying no named finding known."
+    },
+    {
+      "q": "Could ADHD be the reason I cannot start without permission?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming and discussing a diagnosis or condition, which the page will never do.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
