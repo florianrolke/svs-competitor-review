@@ -1,0 +1,105 @@
+{
+  "slug": "avoidant-attachment",
+  "questions": [
+    {
+      "q": "What is avoidant attachment and what does deactivation actually do?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Does Deactivation Actually Work?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is avoidant attachment and what does deactivation actually do?' carrying Dozier and Kobak's 1992 skin-conductance finding."
+    },
+    {
+      "q": "Where does an avoidant way of handling closeness come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Avoidant Attachment Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where does an avoidant way of handling closeness come from?' carrying Ainsworth's Strange Situation finding."
+    },
+    {
+      "q": "What signs would I notice in myself or with a romantic partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Hide When You Would Not Call It Avoidance?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the signs of avoidant attachment in me and with a romantic partner?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell avoidant attachment from genuine independence or introversion?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Avoidant Attachment or Genuine Independence?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell avoidant attachment from genuine independence or introversion?' carrying no named finding known."
+    },
+    {
+      "q": "Why do anxious and avoidant partners get stuck in a pursue-withdraw loop?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Avoidant and Anxious Partners Find Each Other So Reliably?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do anxious and avoidant partners get stuck in a pursue-withdraw loop?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between dismissive avoidance and fearful avoidance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Dismissive and Fearful Avoidance?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between dismissive avoidance and fearful avoidance?' carrying Bartholomew and Horowitz's 1991 four-category model."
+    },
+    {
+      "q": "What can I practice to become more available without forcing one huge vulnerable conversation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Loosens Deactivation?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I practice to become more available without one huge conversation?' carrying no named finding known."
+    },
+    {
+      "q": "Which researchers and measures established avoidant attachment in children and adults?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does This Thinking Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "Ainsworth's Strange Situation procedure; Hazan and Shaver's 1987 adult attachment study; Bartholomew and Horowitz's 1991 four-category model; Dozier and Kobak's 1992 skin-conductance study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is avoidant attachment a diagnosis, and is it the same as avoidant personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, and diagnostic distinction.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I do to prevent my child from developing avoidant attachment?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

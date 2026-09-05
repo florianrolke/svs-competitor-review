@@ -1,0 +1,105 @@
+{
+  "slug": "arranging-my-life-around-avoiding-someone",
+  "questions": [
+    {
+      "q": "Why have I built so much of my routine around avoiding one person?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Redraw the Identical Map for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why have I built so much of my routine around avoiding one person?' carrying no named finding known."
+    },
+    {
+      "q": "How much time and social life can this kind of avoidance cost over a year?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does a Year of This Cost, Counted Properly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How much time and social life can avoiding someone cost over a year?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between escaping an encounter and avoiding it altogether?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Escaping and Avoiding?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between escaping an encounter and avoiding it altogether?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my expectation that seeing them will go badly never fade?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Belief Never Update?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my expectation that seeing them will go badly never fade?' carrying Lovibond and colleagues' 2009 protection-from-extinction finding."
+    },
+    {
+      "q": "How can I tell whether I am protecting myself from real harm or just following an expired habit?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which of the Five Is Yours, and How Would You Know?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I am protecting myself from real harm or following an expired habit?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do if the person I avoid has actually threatened or harmed me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Person Actually Harmed You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do if the person I avoid has actually threatened or harmed me?' carrying a named safety-planning checklist from a recognized domestic-violence service."
+    },
+    {
+      "q": "Is there a practical way to measure all the tiny route changes before I try to stop them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Audit, and Why Is It the Only Move Here You Actually Choose?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I measure all the tiny route changes before trying to stop them?' carrying no named finding known."
+    },
+    {
+      "q": "How strong is the research that avoidance preserves fear and why are the findings limited?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": true,
+      "named_finding_inside": "Bouton's contextual account of extinction learning",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does arranging my life around one person mean I have a mental disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming or discussing a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I stop my child from rearranging school activities to avoid another child?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

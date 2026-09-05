@@ -1,0 +1,105 @@
+{
+  "slug": "avoiding-photos",
+  "questions": [
+    {
+      "q": "Why do I dislike photographs of myself more than what I see in the mirror?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Do the Names Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Mita, Dermer and Knight's 1977 mirror-image preference study; Zajonc's 1968 mere exposure effect",
+      "what_to_add": "An H2 'Why do I dislike photographs of myself more than my mirror image?' carrying Mita, Dermer and Knight's 1977 mirror-image preference finding."
+    },
+    {
+      "q": "What do researchers call the effects that make my photographed face look wrong?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Do the Names Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Zajonc's 1968 mere exposure effect; Mita, Dermer and Knight's 1977 mirror-image preference study; Epley and Whitchurch's 2008 self-face recognition study; Post, Haberman, Iwaki and Whitney's 2012 frozen face effect; Silvia and Duval's objective self-awareness review",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell a harmless preference from photo avoidance that is erasing me from the family record?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Separates a Preference That Costs You Nothing From an Absence That Erases You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell a harmless preference from an absence that erases me from the family record?' carrying no named finding known."
+    },
+    {
+      "q": "How do I figure out whether appearance, being seen, privacy, a bad period, or habit is my real reason?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Step Out of the Same Group Shot for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Which reason is behind my photo avoidance?' carrying no named finding known."
+    },
+    {
+      "q": "What do my children lose when I am always behind the camera?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Your Children Actually See in a Photograph of You?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What do my children lose when I am always behind the camera?' carrying no named finding known."
+    },
+    {
+      "q": "Why does deleting a bad picture bring instant relief even though I may regret it later?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Deleting the Photograph Feel Like Relief and Then Not?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does deleting a bad picture bring instant relief even though I may regret it later?' carrying no named finding known."
+    },
+    {
+      "q": "Does taking the pictures instead of appearing in them change what I remember?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Happens to the Record When You Are Always the Photographer?",
+      "heading_is_question": false,
+      "named_finding_inside": "Henkel's photo-taking impairment finding; Barasch and colleagues' finding that photo-taking shifts visual and auditory memory",
+      "what_to_add": "An H2 'Does taking the pictures instead of appearing in them change what I remember?' carrying Henkel's photo-taking impairment finding and Barasch and colleagues' 2017 memory finding."
+    },
+    {
+      "q": "What should I actually do to stop stepping out of every photograph without forcing myself to like my looks?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do to stop stepping out of every photograph without forcing myself to like my looks?' carrying Zajonc's mere exposure effect."
+    },
+    {
+      "q": "Does extreme distress about photographs mean I have a mental health condition?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming or discussing a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I get my child to stop refusing family photographs?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

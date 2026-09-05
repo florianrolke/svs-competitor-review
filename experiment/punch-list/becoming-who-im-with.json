@@ -1,0 +1,105 @@
+{
+  "slug": "becoming-who-im-with",
+  "questions": [
+    {
+      "q": "What do researchers call changing my voice and behavior to match whoever I am with?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Researched Name for This, and What Does It Actually Measure?",
+      "heading_is_question": true,
+      "named_finding_inside": "Snyder's 1974 self-monitoring measure; Chartrand and Bargh's 1999 chameleon effect; Niederhoffer and Pennebaker's 2002 linguistic convergence finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is adapting to different people a social skill or a sign that I am fake?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is the Adapting a Skill or a Failure of Character?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kilduff and Day's 1994 five-year career study; Mehra, Kilduff and Brass's 2001 workplace-network study",
+      "what_to_add": ""
+    },
+    {
+      "q": "What is the difference between changing my register and changing what I actually believe?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Changing Your Register and Changing Your Positions?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between changing my register and changing what I actually believe?' carrying no named finding known."
+    },
+    {
+      "q": "Why am I so anxious about friends from two parts of my life meeting each other?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Dread of Two Friends Meeting So Specific?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I so anxious about friends from two parts of my life meeting each other?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether I learned to read rooms, never formed my own positions, chose being liked, have lots of range, or shrink around one person?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Work Out Which of the Five Is Running?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Which reason is behind the way I change around people?' carrying no named finding known."
+    },
+    {
+      "q": "Why does advice to just be authentic make me feel worse instead of helping?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Being Told to Be Authentic Make It Worse?",
+      "heading_is_question": true,
+      "named_finding_inside": "Fleeson and Wilt's 2010 finding on felt authenticity",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does research say about whether changing across roles helps or harms well-being and relationships?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Research Actually Say About the Cost?",
+      "heading_is_question": true,
+      "named_finding_inside": "Donahue and colleagues' 1993 self-concept differentiation study; Sheldon and colleagues' 1997 role-variation study; Leone and Hawkins's 2006 close-relationships review; Baird and colleagues' 2006 reanalysis; Fleeson's density-distribution work; Kilduff and Day's career findings; Mehra, Kilduff and Brass's network findings",
+      "what_to_add": ""
+    },
+    {
+      "q": "What is one small thing I can try in my next conversation to keep an opinion of my own?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Smallest Thing You Could Test in the Next Conversation?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is one small thing I can try in my next conversation to keep an opinion of my own?' carrying no named finding known."
+    },
+    {
+      "q": "Does feeling like a different person around different people mean I have a disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming or discussing a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I do when my teenager copies every new friend group?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

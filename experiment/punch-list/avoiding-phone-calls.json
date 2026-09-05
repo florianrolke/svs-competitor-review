@@ -1,0 +1,105 @@
+{
+  "slug": "avoiding-phone-calls",
+  "questions": [
+    {
+      "q": "Why is talking on the phone so much harder for me than texting or email?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is a Call Harder Than Any Other Way of Reaching You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why is talking on the phone harder than texting or email?' carrying Daft and Lengel's media richness theory and Walther's computer-mediated communication findings."
+    },
+    {
+      "q": "What do researchers call phone anxiety, and how is it measured or explained?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do People Call This, and What Does the Name Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "Daft and Lengel's media richness theory; Short, Williams and Christie's social presence account; Kock's media naturalness account; Walther's computer-mediated communication work; McCroskey's communication apprehension measure",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does a simple reply feel more impossible every day I leave it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Reply Get Heavier the Longer It Sits?",
+      "heading_is_question": true,
+      "named_finding_inside": "Zeigarnik's 1927 unfinished-task finding; Sirois and Pychyl's short-term mood-repair account of procrastination; Steel's procrastination meta-analysis",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why can I handle calls from clients or strangers but ignore my mother or a close friend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Do Two People Avoid the Identical Call for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I handle calls from clients or strangers but ignore people close to me?' carrying McCroskey's audience-specific communication apprehension finding."
+    },
+    {
+      "q": "How can I work out which root is behind my phone avoidance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Avoid the Identical Call for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I work out which root is behind my phone avoidance?' carrying no named finding known."
+    },
+    {
+      "q": "What can I say to someone when I am already weeks late replying?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Say When You Are Already Weeks Late?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I say when I am already weeks late replying?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do right before a call so I actually make it without over-rehearsing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Can You Do in the Ninety Seconds Before a Call You Have to Make?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do right before a call so I make it without over-rehearsing?' carrying no named finding known."
+    },
+    {
+      "q": "When is preferring written communication just a preference rather than a costly pattern?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Preferring to Write Instead of Call Actually a Problem?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'When is preferring written communication just a preference rather than a costly pattern?' carrying no named finding known."
+    },
+    {
+      "q": "Is avoiding phone calls a diagnosable disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming or discussing a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medical tests should I ask a doctor for if phone calls suddenly make me panic?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for named medical tests or panels and what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
