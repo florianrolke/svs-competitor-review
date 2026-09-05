@@ -130,6 +130,9 @@ Read these slowly rather than scanning them. People in this pattern say them in 
 - "I have to be strong for everyone else and can't show my struggles."
 - "My own needs and desires always come last."
 - "I'm not living for myself; I'm living for what others expect of me."
+- "I say yes to everything, everything."
+- "I overhelp people, or I'm too kind sometimes, and it gets me in trouble."
+- "For ten years I've said yes. I don't know how to do that, but I'll figure it out and I'll do it."
 - "I can't remember the last time I did something for myself without feeling guilty."
 
 If two or three of those landed, that is the pattern. If nearly all of them landed, that is the pattern with some decades on it and a lot of practice behind it.

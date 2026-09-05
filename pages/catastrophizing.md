@@ -98,6 +98,8 @@ Read these before anything else, and notice which one you have already thought t
 - "I always expect the worst from others now."
 - "I'm always preparing myself for the worst in every situation."
 - "I've stopped expecting loyalty from anyone."
+- "He'd gone quiet, and I started to panic that he'd changed his mind."
+- "My fear is that nobody's going to show up, or that one person will tune in and then they'll just leave."
 
 The cost is a quiet week spent braced against something that never arrives.
 

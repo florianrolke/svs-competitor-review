@@ -42,6 +42,13 @@ faqs:
     the pressure drops. Both effects teach the same unhelpful lesson, that stopping
     is when things go wrong, which makes the next day off harder to take.
   q: Why do I feel worse rather than better after a day off?
+- a: Usually because the week ran at the same speed as the weeks around it. The
+    days had no meetings in them and the pace stayed exactly where it was, so the
+    time got spent on sorting, planning, and catching up rather than on recovery.
+    Booking a longer break rarely repairs that, since the variable is the speed
+    inside the days rather than the number of them. The first morning tells you
+    most; watch what you reach for by ten.
+  q: Why did my week off leave me more tired than the week before it?
 - a: It can overlap with depression while being a different thing. What is described
     here is a specific charge of guilt or wrongness that fires when rest is attempted,
     which is a recognisable pattern rather than a diagnosis. Persistent low mood,
@@ -391,6 +398,24 @@ That part was installed by an environment, over years of daily repetition, rathe
 There is a more uncomfortable version of the same point. Most people carrying this already know rest is important. They know it better than the people reassuring them, can explain the physiology of recovery, and often give excellent advice about it to friends. The knowledge was never the missing piece, which is why more of it does so little. [Why understanding a pattern changes so little on its own is worth reading separately.](/patterns/why-insight-doesnt-change-anything/)
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What took me longest to accept about this one is that the argument had already been won. I could have written a better defense of rest than anyone who tried to give me permission, and I still worked through the afternoon I had deliberately cleared for nothing. Where it sits today is worth saying plainly. An unearned afternoon still comes with a low hum underneath it, and these days I take it anyway, most of the time.
+
+## Why Did the Break You Actually Took Not Feel Like a Break?
+
+Because the pace came with you into it, so the time off ran at working speed and never converted into anything restorative.
+
+The first line of the identify box above is this section in miniature. You clear a Sunday afternoon on purpose, and by the second hour you are answering an email that could have waited until Monday. Stretch that same afternoon across five days and you get something worth naming on its own: a break correctly identified, deliberately taken, protected from everybody else, and still spent at full speed.
+
+People describe it in nearly the same sentence every time. "I probably needed a timeout, but I've been pretty busy in that so-called timeout. This was supposedly my taking it easy, and it hasn't actually felt like it." Notice how much of that was already settled before the week began. The need was real, the permission was there, the days were cleared. What carried on regardless was the machinery that fills a working day, the sorting and the planning and the catching up and the garage that finally got cleared out, because that machinery has no idle setting and nobody ever asked it to grow one.
+
+What shows up in the middle of a week like that reads differently from the guilt the rest of this page describes. Guilt arrives when you stop. This arrives when you almost did, and it sounds more like a scoreboard somebody left running: "It was always this mental battle of what's going to win out that day, and always a feeling that I never managed to get everything done." The second half of that sentence is worth sitting with, because of where it was said. It was said about days on which nothing had to be done at all. The ledger followed the person into the holiday and went on scoring a week that had no entries to score.
+
+The shortest report in this group is also the strangest. "I'm almost feeling like I'm not doing enough." That is somebody on a break they arranged themselves, measuring the day against a quota nobody set, in the one stretch of the year where the quota was formally suspended. Tiredness gets tracked no better here than it does in a working month. What gets tracked is throughput, and throughput on a holiday will always come back low.
+
+There is a version of the same week that does convert, and it is worth being able to tell them apart. "I was actually feeling guilty that I should have been doing some work, but it was nice just to relax." The guilt showed up there too, and the rest happened anyway. That is the ordinary version this page has been describing from the top, and it is the one the practice further down actually loosens. The version in this section never reaches that point. Nothing gets enjoyed, nothing gets recovered, and the guilt does not even get a clear shot, because the work never stopped long enough for it to fire at.
+
+Three other pages each hold a piece of this, and knowing where they end saves you reading the wrong one. [If your version is a whole weekend spent horizontal that still leaves you flat, the drain underneath that is covered separately.](/patterns/emotional-exhaustion/) [If the reflex is that any empty hour gets filled before you have decided anything, that is the busyness page rather than this one.](/patterns/why-am-i-always-busy/) [And if the break in question runs to months rather than days, a sabbatical taken at the same speed as the job it interrupted, that longer version has its own page.](/insights/sabbatical-career-break/) None of the three covers the small, deliberate, hard-won timeout that you took correctly and then ran like an ordinary Tuesday, which is what this section is for.
+
+One practical thing follows from all of it. Booking more days rarely repairs a week like this, though almost everybody tries that first, stretching one week into two and reporting the identical result at the end of it. The variable is the speed inside the days rather than the number of them, which is why what changes this sits closer to what a quiet hour costs you than to how much time you can get signed off.
 
 ## Why Do You Get Sick the Moment You Finally Slow Down?
 

@@ -252,6 +252,7 @@ Say these at the speed they actually arrive, which is faster than you would ever
 - "I guess I make myself feel bad about it. I'm like, oh, I shouldn't be doing X, Y, and Z."
 - "I need to be perfect to be loved."
 - "I often feel like I'm not good enough, no matter how hard I try."
+- "It's guilt. I don't allow myself to have excuses."
 
 The lecture that follows any one of those has a job, and the job is almost never the one it advertises.
 
@@ -320,6 +321,7 @@ The sentences below are how people actually say this, at the level they say it, 
 - "Just beating myself up."
 - "I certainly have experienced that I was not very kind to myself in my head."
 - "I think it comes from unworthiness. I feel like maybe I don't love myself enough to give myself what I really want."
+- "I get mad at myself. I'm like, dude, grow up, son. I've done this so many times."
 - "I know that God forgives everyone, but I don't think I deserve forgiveness."
 
 Read those slowly. What matters is the small physical jolt if one of them turns out to be yours word for word, with no translation required.

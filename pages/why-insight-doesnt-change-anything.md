@@ -94,6 +94,7 @@ See which of these you have already said out loud to somebody, in exactly these 
 - "I know exactly what this pattern is and where it comes from, and I did it again last night."
 - "I know I am doing this right now."
 - "I do not think I can change this. I have looked at it from every angle already."
+- "My problem is accountability. My problem is getting things done."
 
 Every one of those is accurate, and the accuracy has never once changed the evening it was said in.
 
@@ -116,6 +117,7 @@ People in this position say it in almost identical words, and the phrasing repea
 - "I do not think I can change this. I have looked at it from every angle already."
 - "I have already achieved the thing I wanted, so there is nothing missing."
 - "I do not know who I would be without this."
+- "I do not have problems outlining and visualising things in my head. What stays in my head, stays in my head."
 
 Read them at the speed you would read your own handwriting. What matters is the small physical jolt when one of them turns out to be yours word for word, with no translation required.
 

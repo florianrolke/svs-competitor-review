@@ -131,6 +131,8 @@ The sentences below are what people actually run in their own heads about this, 
 - "I got to the end of a forty-minute walk and could not tell you one thing that was said."
 - "My earbuds died on the way to work and I felt something close to panic."
 - "The house is too quiet when everyone is out, so I find something to clean."
+- "When I have an opportunity to have silence, I prefer noise."
+- "I try to avoid being with myself until I can no more."
 
 Read them slowly. The one worth noticing is whichever produces a small physical jolt because it is yours word for word, with no translation required.
 

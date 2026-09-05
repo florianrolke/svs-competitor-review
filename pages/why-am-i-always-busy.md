@@ -278,6 +278,7 @@ The sentences below are the lines people run in their own heads, in their own ph
 - "I'll rest when I've reached all my goals."
 - "I must constantly be improving myself."
 - "I don't deserve to relax; there's too much at stake."
+- "I just don't want this machine to stop. It has to run."
 - "If I just keep busy with other things, I won't have to think about it."
 
 Read them slowly. What matters is the small physical jolt when one of them turns out to be yours word for word, with no translation required.

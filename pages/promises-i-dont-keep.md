@@ -124,6 +124,7 @@ Here are the sentences people actually run in that moment, in the wording they u
 - "Yes, count me in, I would not miss it."
 - "Send it over, I will get back to you tonight."
 - "Of course I will come, it is ages away."
+- "I have not done any last week, but I will do it this week."
 - "I promise, this time I will."
 
 And here are the ones that arrive later, usually alone.
@@ -131,6 +132,7 @@ And here are the ones that arrive later, usually alone.
 - "How is it Sunday already."
 - "It has been three weeks."
 - "I will do it tomorrow and then it is done."
+- "I have been promising myself this kind of thing for many years."
 - "They have stopped asking."
 
 The one to notice is whichever one produced a small physical drop as you read it, with no translation needed.

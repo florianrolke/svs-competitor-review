@@ -123,6 +123,7 @@ The sentences below are what people actually run in their own heads about this, 
 - "I opened a presentation by warning the room it was probably not very good."
 - "I introduced myself with the thing I am worst at, it got a laugh, and I felt fine about it."
 - "Someone said I did well and I immediately explained why it was easy."
+- "I just connected the right people together, and then I got the credit during the event, and it felt like I had not done anything."
 - "I have a set. Three or four lines about myself, and I know exactly where the laugh is."
 - "I said something genuinely cruel about myself, everyone laughed, and I thought about it alone that night."
 - "A friend repeated one of my own jokes back to me and it went straight through me."

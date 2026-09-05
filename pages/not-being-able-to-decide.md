@@ -95,6 +95,7 @@ Things people notice about themselves and mention to nobody.
 - "I have asked four people, and I am currently agreeing with whichever one answered last."
 - "Two mattresses, the same price, and I have given four evenings of my life to it."
 - "I order the same thing every time, and it is not because I like it best."
+- "I have a lot of struggle deciding what opportunity I want to pursue."
 
 [How the seminar works on the thing underneath a pattern like this](https://florianrolke.com/the-soulsearching-experience/)
 

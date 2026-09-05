@@ -47,6 +47,8 @@ faqs:
   a: "Because vivid imagining delivers a real portion of the satisfaction the achievement would. Work by Oettingen and colleagues found that positive fantasies about a desired future predicted lower effort and worse outcomes across several domains, and later studies found such fantasies reduce physiological energy. Picturing yourself running the business in detail spends some of the fuel that starting it would have needed."
 - q: "Why do I need to buy the equipment before I start?"
   a: "Because objects are the fastest available route to becoming the person. A camera, a set of knives, a domain name, a subscription: each one announces an identity the activity itself has not yet earned. The purchase is immediate, real, and visible to others, while the practice is slow and private. This is why the gear so often arrives months before the first honest hour of work does."
+- q: "Why do I defend a purchase I already regret?"
+  a: "Because the alternative is holding two facts at once: that the money is gone and that you knew better. The defense arrives after the payment rather than before it, and it is built to fit an outcome that already happened, so it can never be tested against anything. That is also why it does not settle. A case that cannot be checked has to be rebuilt for the next purchase, which is what keeps the next one buyable."
 - q: "Why do I research hardest right before a deadline?"
   a: "Because that is when the possibility of being judged comes closest, and preparation is the last place where nothing can go wrong yet. The timing makes an excellent diagnostic. If your reading accelerates as the start date approaches rather than tapering off, the reading is working on the date rather than on the task, and you can usually feel the difference in your body while it happens."
 - q: "What if I genuinely need the information?"
@@ -342,6 +344,42 @@ This is the section that tends to reframe the whole thing, because most people c
 The bottom half is worth sitting with. If you have ever finished a paid consultation with somebody genuinely expert, taken clear advice, and then gone back to reading about it, you have run the entire pattern without opening a single article for the wrong reason. The expert closed the information gap and the behavior carried on regardless, which is about as clean a demonstration as you will get that information was not what the behavior was for.
 
 One more version deserves its own line, because it is the most common and the least visible. The rehearsal. Running the project in your head, in detail, with the good version of how it goes, several times a week. It produces a genuine sense of having engaged with it, and it is entirely undetectable from outside. [Running conversations and scenarios in your head has its own page](/patterns/rehearsing-conversations/).
+
+## Why Does the Subscription You Do Not Use Feel Like Progress?
+
+Because the payment went through, and in a week where nothing else got finished, the payment is the one thing that did.
+
+The table above gives the purchase a single row and moves on. It earns more than that, because money behaves differently from every other hiding place on the list. The others postpone something. A purchase completes something. You take an execution step that has been sitting unresolved since spring, and you convert it into a transaction that takes ninety seconds and ends on a confirmation screen. The step itself has not moved. The buying of the step is done, and nothing on the confirmation screen distinguishes between those two.
+
+That is why the timing is so reliable. The week you are furthest behind on the actual work is the week the next tool gets bought. It looks like a contradiction and it is not one. Falling behind raises the pressure, the pressure has to go somewhere, and the checkout is the only door in the building that opens on the first push. The spend is the only part of the plan that finished on time.
+
+What makes this different from the rest of the page is recurrence. One course bought once is an evening. What accumulates is a stack that renews monthly while the shipping does not, and it tends to get described in the language of a bill rather than the language of a mistake.
+
+- "It's death by a thousand subscriptions."
+- "I'm a learning junkie who keeps learning stuff by courses, by trainings, by books, by all the seminars and events."
+- "At times I finish my whole session of that work just fixing things to build the system instead of doing the thing."
+- "Sometimes I wonder if it's even worth it, because all my money is just going into [the tools] and [the] knowledge."
+- "I ended up dropping like [five figures] or something crazy like that."
+
+Now the half that is harder to say out loud. The reason for the purchase arrives after the purchase rather than before it. You do not buy the thing because you have worked out that it will help. You buy it, and then you build the case for it, and the case gets built because nobody enjoys having been stupid. The sentence underneath it usually runs close to this.
+
+- "I buy all the stuff and then I don't use it, and then I try to find a way to convince myself how that was good, because no one likes to be stupid, right?"
+
+That retrospective defense is the part that keeps the next one buyable, and the reason is structural. A justification worked out beforehand can be checked: it names what the tool will do, by when, and in March you can look and see whether it did. A defense assembled afterward cannot be checked at all, because it was built to fit an outcome that had already happened. So it never converts into judgment. It has to be constructed again from nothing for the next purchase, which makes it a subscription of its own, and the only one on the list that never lapses.
+
+There is a version of this that goes further than tools, and it is worth catching because it states the whole thing plainly.
+
+- "I'll just buy my customers. I'll just buy a system."
+
+Said out loud it sounds absurd, which is exactly its value. It names the proposition every softer purchase implies without saying: that there is a price at which the doing can be skipped, and that finding that price is a reasonable use of a Tuesday. It also explains a smaller version of the same evening, the one where the whole session goes into configuring the system that was meant to carry the work, and the work itself never gets touched.
+
+Two neighboring behaviors sit close enough to this one to be confused with it, and both are covered elsewhere. If the order follows a bad feeling rather than a stalled project, and the checkout is doing the work that a walk or a conversation would have done, [that is a different mechanism with its own page](/patterns/buying-things-when-upset/). If the course is functioning as the exit from something you would rather not sit in, [that route is described here](/patterns/escapism/).
+
+The correction is smaller than the amounts involved would suggest, and it is a pause rather than a rule. It sounds like this.
+
+- "I was in that loop (course, course, course) and recently I stopped. Before I click, I wait a minute: do you really need to learn this right now?"
+
+A minute is enough because the purchase depends on speed. Nothing here says the tools were bad or the courses were worthless, and some of them were neither. The useful question is narrower than that, and it fits in the sixty seconds before the click: whether this particular purchase is the step you have been avoiding, bought in a form that arrives tonight.
 
 ## Is "I Need to Understand It Before I Start" an Explanation or an Excuse?
 

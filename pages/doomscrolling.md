@@ -33,6 +33,8 @@ faqs:
   a: "The measured associations are consistent enough to state plainly. Studies link it with lower life satisfaction, more negative mood, worse sleep, and a persistent low-grade dread. It also travels closely with intolerance of uncertainty, a well-studied trait with its own measurement scale. None of that makes it a disorder, and one bad evening on a feed matters very little. Nightly hours of it, across months, reliably cost something."
 - q: "What is the difference between staying informed and doomscrolling?"
   a: "Three things separate them. Stopping: informed reading ends at a point you could name in advance, while doomscrolling ends when the battery dies or you fall asleep. Retention: you can say three things you learned yesterday, or you cannot name a single story from the last half hour. Consequence: being informed occasionally leads to something you do, while doomscrolling leads mostly to more scrolling."
+- q: "Is checking my own numbers all day the same thing as doomscrolling?"
+  a: "It runs on the same schedule. A dashboard, an inbox, or a view count pays out unpredictably in exactly the way a feed does, so the refreshing persists for the same reason. Two things differ. Checking your own numbers is indistinguishable from working, so the usual objection never arrives, and nothing in the loop is anybody else's life. The tell is simple: you already know the number has not moved since the last check."
 - q: "How much news is too much?"
   a: "The amount matters less than the shape. Fifteen deliberate minutes with one serious source, once or twice a day, keeps almost anybody adequately informed. Trouble starts with rotation, where four apps get checked in a loop and each pass adds emotional weight without adding information. If you cannot say what you learned, you were not reading the news. Watch the loop rather than the clock."
 - q: "Why can't I stop even when I feel physically sick?"
@@ -217,6 +219,31 @@ Three differences, and you can check all of them in about a minute.
 An honest word about the quantity. Fifteen deliberate minutes with a serious source, once or twice a day, is being well informed by any reasonable standard. Ninety minutes of refreshing four apps in rotation is a different activity that happens to share a surface with the first one. The rotation is the thing to watch. Each pass adds emotional weight without adding information, which is why you can finish an hour heavier and no better briefed.
 
 The test that settles it fastest is retention. Tomorrow at lunch, try to tell somebody three things you read last night. If you cannot get to three, the hour was doing a job other than informing you, and the rest of this page is about which job.
+
+## What if the feed you cannot leave is your own numbers?
+
+Then the same loop is running, on instruments you built yourself.
+
+The schedule described further up this page does not care what the numbers are about. A revenue figure, an open rate, a view count, a reply that may or may not have arrived overnight: most checks give you nothing, and then one gives you something, which is the arrangement that keeps a thumb moving long after the interest has gone. The gesture is identical to the news version. Everything around it differs, in two ways that matter.
+
+**It runs harder, because checking your own numbers is indistinguishable from working.** Every refusal available to somebody scrolling the news is unavailable here. "This is not helping me" carries no weight against a dashboard you are accountable for. "I should be doing something useful" has nothing to push against, because the tab is legitimately yours and arguably your job. So the hour never sets off the small internal alarm that eventually ends a news scroll. The whole thing looks like diligence from outside the room and feels like diligence from inside it, which is how somebody runs this for years without once putting it on the list of things they would like to change.
+
+What it sounds like when somebody describes it plainly:
+
+- "I can check it every single minute, every single day. I can check my performance and everything."
+- "I'm monitoring the conversations like a hawk."
+- "I've got nine screens now, monitoring various different information."
+- "Every time I click another [profile] and check off another thing in a spreadsheet, I think I lose a brain cell."
+
+Notice how little information is being sought in any of those sentences. The first one names a frequency and not one question the checking would answer. The last one already contains its own verdict, delivered mid-loop by the person doing it.
+
+**Nothing in the loop is anybody else's life.** The news version at least involves other people, which is part of what makes it feel like participation. This one is a closed circuit of your own tabs: your figures, your conversation, your unfinished work looking back at you. And the tell is unusually clean. You already know the number has not moved since the last check. You know the report updates once an hour and you are on your fortieth look at it. The checking carries on anyway, which puts it on the wrong side of the retention test above: the hour was doing a job other than informing you.
+
+One boundary is worth drawing, because the two get confused. [Checking your phone mid-conversation](/patterns/checking-my-phone-mid-conversation/) locks itself to a live person in the room and says so; this one runs in the hour when there is nobody there to interrupt.
+
+An honest word about the evidence. These lines come from people describing the pattern in their own words, unattributed and undated, because none of them agreed to be named on a public page. Consistent description across a handful of people is worth something, and it is worth less than a measurement. No published research yet separates checking your own numbers from doomscrolling as a behavior with its own literature, so the mechanism underneath is the documented part and this version of it is, for now, only well described.
+
+Two things follow. Deleting an app does nothing to this version, because there is nothing to delete: the dashboard is a login you need, and the spreadsheet sits on the machine you work on. And the root underneath is still one of the five above, most often vigilance or the buying back of control, running in daylight instead of after ten.
 
 ## Why does deleting the app not fix it?
 
