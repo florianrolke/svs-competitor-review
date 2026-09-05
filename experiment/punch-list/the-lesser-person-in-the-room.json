@@ -1,0 +1,105 @@
+{
+  "slug": "the-lesser-person-in-the-room",
+  "questions": [
+    {
+      "q": "What is an inferiority complex, where did the term come from, and does the original meaning hold up?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much of It Holds Up?",
+      "heading_is_question": true,
+      "named_finding_inside": "Adler's distinction between a universal feeling of inferiority and an inferiority complex",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does a small room outweigh my actual record when I judge how capable I am?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Small Room Outweigh Everything You Know About Yourself?",
+      "heading_is_question": true,
+      "named_finding_inside": "Zell and Alicke's 2010 local dominance effect",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I rank myself before anyone in the room has given me real evidence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Placing Finish Before Any Evidence Arrives?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I rank myself before anyone in the room has given me real evidence?\" carrying Mussweiler's 2003 selective-accessibility model."
+    },
+    {
+      "q": "Is automatically comparing myself with everyone in a room unusual?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Sorting Yourself Into a Room Actually Unusual?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Is automatically comparing myself with everyone in a room unusual?\" carrying Mussweiler's 2003 comparison-process model."
+    },
+    {
+      "q": "What if I truly am the least experienced person on my team?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Genuinely Are the Least Experienced Person There?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What if I truly am the least experienced person on my team?\" carrying the big-fish-little-pond finding."
+    },
+    {
+      "q": "Why do I stay quiet with my boss even when I have the answer, and then feel even less credible?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Does a Position Decide How Much You Say?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I stay quiet with my boss even when I have the answer, and then feel even less credible?\"; no named finding known."
+    },
+    {
+      "q": "Why does one highly capable person inspire me while another makes me give up?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does One Strong Room Flatten You and Another One Lift You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why does one highly capable person inspire me while another makes me give up?\" carrying the named reachability finding; no named finding known."
+    },
+    {
+      "q": "What can I do in meetings this week if positive affirmations do not change the ranking?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What can I do in meetings this week if positive affirmations do not change the ranking?\"; no named finding known."
+    },
+    {
+      "q": "Is feeling inferior in every room a sign of social anxiety disorder?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming and discussing a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I help my child stop feeling inferior to classmates?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

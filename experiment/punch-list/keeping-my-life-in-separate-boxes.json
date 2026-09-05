@@ -1,0 +1,105 @@
+{
+  "slug": "keeping-my-life-in-separate-boxes",
+  "questions": [
+    {
+      "q": "What is compartmentalization, and does it always mean I am hiding something?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Does the Name Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What is compartmentalization, and does it always mean I am hiding something?\" carrying Showers's 1992 compartmentalization finding."
+    },
+    {
+      "q": "Is keeping work, family, friends and hobbies in separate boxes actually bad for me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Any of This Actually a Problem?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Is keeping work, family, friends and hobbies in separate boxes actually bad for me?\" carrying Rothbard, Phillips and Dumas's 2005 person-arrangement fit finding."
+    },
+    {
+      "q": "What research supports the idea that compartmentalizing can help or hurt depending on what is in each compartment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Better Evidenced Than the Word Itself?",
+      "heading_is_question": true,
+      "named_finding_inside": "Showers's 1992 compartmentalization of positive and negative self-knowledge finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does having several separate parts of myself really buffer me when one part goes badly?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind the Buffering Claim?",
+      "heading_is_question": true,
+      "named_finding_inside": "Rafaeli-Mor and Steinberg's 2002 review of the self-complexity buffering hypothesis",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why am I exhausted when my partner meets my colleagues or two friend groups overlap?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is a Wall Cheaper to Keep Than to Remove?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why am I exhausted when my partner meets my colleagues or two friend groups overlap?\"; no named finding known."
+    },
+    {
+      "q": "How do I work out which wall is ordinary privacy and which one is costing me closeness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Each Particular Wall Buy, and What Does Each Particular Wall Cost?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How do I work out which wall is ordinary privacy and which one is costing me closeness?\"; no named finding known."
+    },
+    {
+      "q": "What happens when two groups from my life finally meet, and how can I test that safely?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens When Two Groups Meet?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What happens when two groups from my life finally meet, and how can I test that safely?\"; no named finding known."
+    },
+    {
+      "q": "Is there a validated scale that measures how compartmentalized a person's social life is?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind the Buffering Claim?",
+      "heading_is_question": false,
+      "named_finding_inside": "Rafaeli-Mor and Steinberg's 2002 review of the self-complexity literature",
+      "what_to_add": "An H2 \"Is there a validated scale that measures how compartmentalized a person's social life is?\" carrying Rafaeli-Mor and Steinberg's 2002 measurement critique."
+    },
+    {
+      "q": "Is this separation a sign that I have dissociative identity disorder?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming and discussing a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I teach my child to stop compartmentalizing home and school?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

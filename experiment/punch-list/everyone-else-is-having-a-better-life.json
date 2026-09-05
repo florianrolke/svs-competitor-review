@@ -1,0 +1,105 @@
+{
+  "slug": "everyone-else-is-having-a-better-life",
+  "questions": [
+    {
+      "q": "What exactly is FOMO, where did the term come from, and how is it measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Is the Name Actually Worth?",
+      "heading_is_question": true,
+      "named_finding_inside": "Przybylski and colleagues' 2013 ten-item FOMO scale",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does social media actually cause FOMO, or do people with FOMO just check it more?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind This Term?",
+      "heading_is_question": false,
+      "named_finding_inside": "Orben and colleagues' 2019 specification-curve analysis of digital technology and well-being",
+      "what_to_add": "An H2 \"Does social media actually cause FOMO, or do people with FOMO just check it more?\" carrying Orben and colleagues' 2019 specification-curve finding."
+    },
+    {
+      "q": "Do other people really go out and have more fun than I do, or am I estimating their lives wrong?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## If the Label Is Thin, What Is Better Evidenced?",
+      "heading_is_question": false,
+      "named_finding_inside": "Deri and colleagues' 2017 studies of overestimating peers' social lives",
+      "what_to_add": "An H2 \"Do other people really go out and have more fun than I do, or am I estimating their lives wrong?\" carrying Deri and colleagues' 2017 social-life estimation finding."
+    },
+    {
+      "q": "Why is this feeling strongest at night and near the weekend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## If the Label Is Thin, What Is Better Evidenced?",
+      "heading_is_question": false,
+      "named_finding_inside": "Milyavskaya and colleagues' 2018 semester-long experience-sampling study",
+      "what_to_add": "An H2 \"Why is this feeling strongest at night and near the weekend?\" carrying Milyavskaya and colleagues' 2018 diary finding."
+    },
+    {
+      "q": "What is the difference between missing one event and feeling like I am missing an entire life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Missing an Event and Missing a Life?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What is the difference between missing one event and feeling like I am missing an entire life?\"; no named finding known."
+    },
+    {
+      "q": "Why do I say yes to plans I do not want and then resent them later?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Part of This Is Involuntary, and Which Part Is Chosen?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I say yes to plans I do not want and then resent them later?\"; no named finding known."
+    },
+    {
+      "q": "How can I tell whether my comparison is distorted or my social life really is too empty right now?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which of the Five Is Yours, and How Would You Know?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How can I tell whether my comparison is distorted or my social life really is too empty right now?\" carrying Deri and colleagues' 2017 social-life estimation finding."
+    },
+    {
+      "q": "Do digital detoxes, gratitude lists, or trying to enjoy missing out actually help?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Detoxes, Gratitude Lists and the Joy of Missing Out Keep Failing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Do digital detoxes, gratitude lists, or trying to enjoy missing out actually help?\"; no named finding known."
+    },
+    {
+      "q": "Could constant FOMO mean I have an anxiety disorder?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming and discussing a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication should I take to stop feeling FOMO?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming or recommending medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

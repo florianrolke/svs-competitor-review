@@ -1,0 +1,105 @@
+{
+  "slug": "the-one-my-family-blames",
+  "questions": [
+    {
+      "q": "Why does my family pile all the blame onto me instead of sharing responsibility?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Family Concentrate Blame Instead of Spreading It?",
+      "heading_is_question": true,
+      "named_finding_inside": "Marques, Yzerbyt and Leyens's 1988 black sheep effect",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does being a family scapegoat actually mean, and where did that idea come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and Where Does the Name Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Vogel and Bell's 1960 family-scapegoating paper",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my family keep retelling the same embarrassing story about me even after I correct it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Same Story About You Keep Getting Told?",
+      "heading_is_question": true,
+      "named_finding_inside": "Norrick's twice-told tales analysis",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether this is a role I fall into only with family or a trait I carry everywhere?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between a Role and a Trait?",
+      "heading_is_question": true,
+      "named_finding_inside": "the 1977 study \"Social roles, social control, and biases in social-perception processes\"",
+      "what_to_add": ""
+    },
+    {
+      "q": "What can I do at the next family visit without starting a confrontation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing Before the Next Occasion?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What can I do at the next family visit without starting a confrontation?\"; no named finding known."
+    },
+    {
+      "q": "Why do I apologize or make the sharp comment before anyone has even blamed me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Role Came With a Function?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I apologize or make the sharp comment before anyone has even blamed me?\"; no named finding known."
+    },
+    {
+      "q": "How does being the blamed one spill over into my relationship with my partner or my behavior with my boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does This Show Up When It Does Not Look Like Blame?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How does being the blamed one spill over into my relationship with my partner or my behavior with my boss?\"; no named finding known."
+    },
+    {
+      "q": "Is there a validated checklist or measure for family scapegoating?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Is there a validated checklist or measure for family scapegoating?\" carrying the published measurement review of family-role checklists, if one exists; otherwise no named finding known."
+    },
+    {
+      "q": "Could being blamed by my family mean I have a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "This can only be answered well by naming or discussing a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I stop my child from becoming the scapegoat in our family?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
