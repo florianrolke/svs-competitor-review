@@ -1,0 +1,105 @@
+{
+  "slug": "the-explanation-i-give-myself",
+  "questions": [
+    {
+      "q": "What is cognitive dissonance, and why do people use the term incorrectly?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Cognitive Dissonance, and Why Does Almost Everyone Use the Term Wrong?",
+      "heading_is_question": true,
+      "named_finding_inside": "the 1959 forced-compliance experiment",
+      "what_to_add": ""
+    },
+    {
+      "q": "How strong is the evidence for cognitive dissonance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Here, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "Chen and Risen's 2010 analysis of the free-choice paradigm",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does self-perception theory disprove cognitive dissonance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Here, Honestly?",
+      "heading_is_question": false,
+      "named_finding_inside": "the 1967 self-perception account",
+      "what_to_add": "An H2 'Does self-perception theory disprove cognitive dissonance?' carrying the 1967 self-perception account."
+    },
+    {
+      "q": "Why does my belief change after I break my own rule instead of my behavior changing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Belief Move Instead of the Behavior?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my belief change after I break my own rule instead of my behavior changing?' carrying no named finding known."
+    },
+    {
+      "q": "Am I lying to myself when I make an excuse after doing it again?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is It a Lie?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Am I lying to myself when I make an excuse after doing it again?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my explanation sound flimsy when I tell a friend out loud?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Sound Thinner When You Say It Out Loud?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my explanation sound flimsy when I tell a friend out loud?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell when my rationalization is making my partner pay for my behavior?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Somebody Else Is Paying for This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell when my rationalization is making my partner pay for my behavior?' carrying no named finding known."
+    },
+    {
+      "q": "What should I write down so I can catch my standard changing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Only Part of This You Actually Choose?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I write down so I can catch my standard changing?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I explain away missed commitments to my boss even when I meant to keep them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does the Explanation Actually Sound Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I explain away missed commitments to my boss even when I meant to keep them?' carrying no named finding known."
+    },
+    {
+      "q": "Can a person be diagnosed with cognitive dissonance?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

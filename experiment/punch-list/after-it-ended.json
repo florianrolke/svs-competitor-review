@@ -1,0 +1,105 @@
+{
+  "slug": "after-it-ended",
+  "questions": [
+    {
+      "q": "Why does a breakup hurt in my chest and stomach even when I know ending it was right?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Anything Actually Wrong With You for Feeling It in Your Body?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does a breakup hurt in my chest and stomach even when ending it was right?' carrying no named finding known."
+    },
+    {
+      "q": "How long does heartbreak actually take to get over?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does heartbreak actually take to get over?' carrying Krishnamurti and colleagues' 2008 breakup-forecasting finding."
+    },
+    {
+      "q": "What does research actually establish about heartbreak and physical pain?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Heartbreak, and What Does the Research Actually Establish?",
+      "heading_is_question": true,
+      "named_finding_inside": "Woo and colleagues' 2014 multivariate-pattern finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Are people accurate when they predict how miserable a breakup will make them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Are You So Much Worse at Predicting This Than You Think?",
+      "heading_is_question": true,
+      "named_finding_inside": "Krishnamurti and colleagues' 2008 breakup-forecasting study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I feel like I no longer know who I am without my ex?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Practical Life Feel Unmoored Out of Proportion to Missing Them?",
+      "heading_is_question": false,
+      "named_finding_inside": "Slotter and colleagues' 2010 self-concept finding",
+      "what_to_add": "An H2 'Why do I feel like I no longer know who I am without my ex?' carrying Slotter and colleagues' 2010 self-concept finding."
+    },
+    {
+      "q": "What can I do in the first month after a relationship ends?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week, Before You Decide Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do in the first month after a relationship ends?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep checking my ex's profile even though it makes me feel worse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Part of This Is Involuntary, and Which Part Did You Choose?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep checking my ex's profile even though it makes me feel worse?' carrying no named finding known."
+    },
+    {
+      "q": "What diagnosis explains heartbreak that still hurts after two years?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Which medication works best for the physical pain of a breakup?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I help my teenage child get over their first breakup?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

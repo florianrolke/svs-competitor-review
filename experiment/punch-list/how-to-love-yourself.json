@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-love-yourself",
+  "questions": [
+    {
+      "q": "What does loving yourself actually mean in everyday life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Loving Yourself Actually Mean, In Plain Words?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does loving yourself actually mean in everyday life?' carrying no named finding known."
+    },
+    {
+      "q": "Why do affirmations and self-care routines make self-love feel fake?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Affirmations and Self-Care Lists Bounce Off?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do affirmations and self-care routines make self-love feel fake?' carrying no named finding known."
+    },
+    {
+      "q": "Where does the habit of putting everyone else's feelings before mine come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Habit of Not Counting Yourself Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where does the habit of putting everyone else's feelings before mine come from?' carrying no named finding known."
+    },
+    {
+      "q": "Why can I give support easily but feel uncomfortable receiving it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is Receiving Harder Than Giving?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I give support easily but feel uncomfortable receiving it?' carrying no named finding known."
+    },
+    {
+      "q": "How does low self-regard show up with a partner or close friends?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does This Hide When You Would Not Call It a Self-Worth Problem?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does low self-regard show up with a partner or close friends?' carrying no named finding known."
+    },
+    {
+      "q": "How does not loving myself affect the way I behave with my boss at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does This Hide When You Would Not Call It a Self-Worth Problem?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does not loving myself affect the way I behave with my boss at work?' carrying no named finding known."
+    },
+    {
+      "q": "What small practices can build self-love when I do not feel it yet?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Build This When You Cannot Feel It On Command?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What small practices can build self-love when I do not feel it yet?' carrying no named finding known."
+    },
+    {
+      "q": "How is self-love measured in psychological research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is self-love measured in psychological research?' carrying no named finding known."
+    },
+    {
+      "q": "Which disorder causes a person to be unable to love themselves?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I teach my child to love themselves more?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "the-life-i-will-start-later",
+  "questions": [
+    {
+      "q": "How can I tell whether the condition I am waiting for has quietly changed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Exactly Got Swapped, and When?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether the condition I am waiting for has quietly changed?' carrying no named finding known."
+    },
+    {
+      "q": "What do researchers call a life that is always deferred until later?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Does the Name Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Komisar's 2000 deferred life plan, Brickman and colleagues' 1978 lottery study, and Luhmann and colleagues' 2011 meta-analysis",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I distinguish a real practical constraint from a moving excuse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Your Constraint Simply Real?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I distinguish a real practical constraint from a moving excuse?' carrying no named finding known."
+    },
+    {
+      "q": "Why does reaching a milestone feel less life-changing than I predicted?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Does the Name Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Brickman and colleagues' 1978 lottery-winner comparison and Luhmann and colleagues' 2011 adaptation meta-analysis",
+      "what_to_add": "An H2 'Why does reaching a milestone feel less life-changing than I predicted?' carrying Brickman and colleagues' 1978 lottery-winner comparison and Luhmann and colleagues' 2011 adaptation meta-analysis."
+    },
+    {
+      "q": "Is hedonic adaptation really proven, or do some life changes last?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Does the Name Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Luhmann and colleagues' 2011 meta-analysis and Headey's 2010 set-point critique",
+      "what_to_add": "An H2 'Is hedonic adaptation really proven, or do some life changes last?' carrying Luhmann and colleagues' 2011 meta-analysis and Headey's 2010 set-point critique."
+    },
+    {
+      "q": "Why do I keep saying I will do it when I have more money even as my savings grow?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is the Condition About Money, or About Deserving?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep saying I will do it when I have more money even as my savings grow?' carrying no named finding known."
+    },
+    {
+      "q": "What if the career or trip I keep postponing was never really my goal?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Do Not Want It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What if the career or trip I keep postponing was never really my goal?' carrying no named finding known."
+    },
+    {
+      "q": "Is putting my life off just another form of procrastination?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Putting Your Life Off Until Later",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is putting my life off just another form of procrastination?' carrying no named finding known."
+    },
+    {
+      "q": "What is one small thing I can do this week to test whether I still want the life I postpone?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week, Before Any Bigger Decision?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is one small thing I can do this week to test whether I still want the life I postpone?' carrying no named finding known."
+    },
+    {
+      "q": "How should I stop my teenager from postponing their future?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

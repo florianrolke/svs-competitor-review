@@ -1,0 +1,105 @@
+{
+  "slug": "when-the-early-feeling-fades",
+  "questions": [
+    {
+      "q": "What is the honeymoon phase, and is it a real research term?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Honeymoon Phase, and How Much Is Actually Behind the Term?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the honeymoon phase, and is it a real research term?' carrying no named finding known."
+    },
+    {
+      "q": "How long is the honeymoon phase supposed to last?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About the Early Intensity Fading",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long is the honeymoon phase supposed to last?' carrying no named finding known."
+    },
+    {
+      "q": "Why does the big early feeling get smaller even when my partner has done nothing wrong?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Big Feeling Get Smaller Just by Continuing?",
+      "heading_is_question": true,
+      "named_finding_inside": "Rankin and colleagues' 2009 behavioral characteristics of habituation",
+      "what_to_add": ""
+    },
+    {
+      "q": "What is the difference between passionate love and companionate love?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Honeymoon Phase, and How Much Is Actually Behind the Term?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between passionate love and companionate love?' carrying no named finding known."
+    },
+    {
+      "q": "How reliable is the claim that passion always declines?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Reliable Is the Claim That Passion Always Declines?",
+      "heading_is_question": true,
+      "named_finding_inside": "Karney and Bradbury's 1995 review of longitudinal marital-quality research",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can intense romantic love really last for decades?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do the Couples Who Stayed Intense Actually Show?",
+      "heading_is_question": true,
+      "named_finding_inside": "Acevedo and colleagues' 2009 review and O'Leary and colleagues' 2012 survey",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell a normal fade from a real problem with my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About the Early Intensity Fading",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell a normal fade from a real problem with my partner?' carrying no named finding known."
+    },
+    {
+      "q": "Why do new jobs and hobbies also stop feeling exciting after a few months?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Questions About the Early Intensity Fading",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do new jobs and hobbies also stop feeling exciting after a few months?' carrying Rankin and colleagues' 2009 behavioral characteristics of habituation."
+    },
+    {
+      "q": "What diagnosis explains why I need intense romance to feel secure?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What treatment should my spouse and I use to restore the honeymoon phase in our marriage?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never treat a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
