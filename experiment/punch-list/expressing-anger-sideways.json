@@ -1,0 +1,105 @@
+{
+  "slug": "expressing-anger-sideways",
+  "questions": [
+    {
+      "q": "What is passive aggressive behavior, and where did the phrase come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much of It Is Real?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is passive aggressive behavior, and where did the phrase come from?' carrying no named finding known."
+    },
+    {
+      "q": "Why can't I tell that I am angry until after I have already acted cold?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Sideways Version Arrive Before You Know You Are Angry?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kashdan and colleagues' 2015 review of emotion differentiation",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I agree to a task and then delay or forget the one thing I resented?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Expressing Anger Sideways",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I agree to a task and then delay or forget the one thing I resented?' carrying no named finding known."
+    },
+    {
+      "q": "How does this pattern show up with a partner who keeps pressing me to talk?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You the Withdrawing Half of a Loop You Have Never Seen Drawn?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does this pattern show up with a partner who keeps pressing me to talk?' carrying Eldridge and colleagues' 2007 finding that demand-withdraw roles track who wants change."
+    },
+    {
+      "q": "Is indirect anger ever reasonable when my boss or landlord has power over me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Saying It Directly Would Actually Cost You Something?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is indirect anger ever reasonable when my boss or landlord has power over me?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my sideways anger mostly land on people close to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": false,
+      "named_finding_inside": "Kassinove and colleagues' 1997 two-country survey of anger episodes",
+      "what_to_add": "An H2 'Why does my sideways anger mostly land on people close to me?' carrying Kassinove and colleagues' 1997 finding that anger episodes overwhelmingly involve well-known people."
+    },
+    {
+      "q": "How is this different from the silent treatment or shutting down in an argument?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This the Same as Going Quiet, Saying You Are Fine, or Going Grey Rock?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is this different from the silent treatment or shutting down in an argument?' carrying no named finding known."
+    },
+    {
+      "q": "How is indirect aggression measured, and how strong is the evidence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": true,
+      "named_finding_inside": "Bjorkqvist, Lagerspetz and Kaukiainen's 1992 developmental study and Archer's 2004 meta-analysis",
+      "what_to_add": ""
+    },
+    {
+      "q": "What can I actually do to stop sending anger sideways?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I actually do to stop sending anger sideways?' carrying no named finding known."
+    },
+    {
+      "q": "Which mental disorder makes someone passive aggressive, and how is it diagnosed?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "how-i-end-up-apologizing",
+  "questions": [
+    {
+      "q": "What is DARVO, and where did the idea come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much Does the Name Actually Know?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is DARVO, and where did the idea come from?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell DARVO from one conversation that simply went badly?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell the Reversal From a Conversation That Simply Went Badly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell DARVO from one conversation that simply went badly?' carrying no named finding known."
+    },
+    {
+      "q": "What if my partner and I both came into the conversation with a real grievance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Conversation With Two Subjects Always Resolve Toward the Louder One?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sillars's 1980 roommate-conflict study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does opening with 'you always' make the other person more defensive?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Way You Opened It Invited the Defense?",
+      "heading_is_question": true,
+      "named_finding_inside": "Malle and colleagues' model of blame",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I apologize even when I still think I was the one who got hurt?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Conceded Because the Conflict Itself Was Unbearable?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I apologize even when I still think I was the one who got hurt?' carrying no named finding known."
+    },
+    {
+      "q": "Why can I never remember the exact moment the conversation flipped?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Can You Never Locate the Exact Moment It Turned?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I never remember the exact moment the conversation flipped?' carrying no named finding known."
+    },
+    {
+      "q": "Can the same reversal happen in a meeting with my boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Ending Up as the One Who Apologizes",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can the same reversal happen in a meeting with my boss?' carrying no named finding known."
+    },
+    {
+      "q": "How strong is the research behind DARVO, and is there a validated measure?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and How Much Does the Name Actually Know?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How strong is the research behind DARVO, and is there a validated measure?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do the next day about the problem that never got answered?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing Tomorrow, About the Thing That Never Got Discussed?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do the next day about the problem that never got answered?' carrying no named finding known."
+    },
+    {
+      "q": "What diagnosis makes me give in and apologize during every conflict?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

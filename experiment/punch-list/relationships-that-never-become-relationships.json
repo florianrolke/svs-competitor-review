@@ -1,0 +1,105 @@
+{
+  "slug": "relationships-that-never-become-relationships",
+  "questions": [
+    {
+      "q": "What exactly counts as a situationship, and is it a real research term?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is a Situationship, and How Much Research Is Actually Underneath the Word?",
+      "heading_is_question": true,
+      "named_finding_inside": "Langlais and colleagues' 2024 exploratory investigation",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I keep ending up in undefined relationships with different people?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Ambiguity Is Protecting You From Being Rejected?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep ending up in undefined relationships with different people?' carrying no named finding known."
+    },
+    {
+      "q": "Why does not knowing where I stand hurt more than a clear no?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Not Knowing Hurt More Than a Clear No Would?",
+      "heading_is_question": true,
+      "named_finding_inside": "Theiss and colleagues' relational-uncertainty findings",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I tell whether I genuinely chose something casual or am just waiting?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell the Ambiguity You Chose From the Ambiguity You Are Enduring?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I tell whether I genuinely chose something casual or am just waiting?' carrying no named finding known."
+    },
+    {
+      "q": "Why can't I just ask the person I am seeing what we are?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Makes a Conversation About This a Turning Point Rather Than a Formality?",
+      "heading_is_question": true,
+      "named_finding_inside": "Planalp and Honeycutt's uncertainty-increasing-events study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is the ambiguity their fault, or am I helping keep it undefined too?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Who Is Actually Keeping This Undefined?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sassler's interviews on how couples entered shared living arrangements",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can an undefined relationship be a healthy choice for an adult?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Anything Actually Wrong With You?",
+      "heading_is_question": false,
+      "named_finding_inside": "Armstrong and colleagues' interviews with 53 women aged 33 to 58",
+      "what_to_add": "An H2 'Can an undefined relationship be a healthy choice for an adult?' carrying Armstrong and colleagues' interview finding about deliberately preserving autonomy."
+    },
+    {
+      "q": "How long does the average situationship last, and how often do they become relationships?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Relationships That Never Become Relationships",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does the average situationship last, and how often do they become relationships?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do this week without giving them an ultimatum?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week, Before You Change Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do this week without giving them an ultimatum?' carrying no named finding known."
+    },
+    {
+      "q": "What kind of couples therapy fixes a situationship and gets both people to commit?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not treat a couple or relationship as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

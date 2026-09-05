@@ -1,0 +1,105 @@
+{
+  "slug": "not-trusting-my-own-memory",
+  "questions": [
+    {
+      "q": "What does gaslighting actually mean, and where did the word come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and Where Does the Name Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Barton and Whitehead's 1969 Lancet description of the gas-light phenomenon",
+      "what_to_add": ""
+    },
+    {
+      "q": "Am I being gaslit, or could two honest people remember the same event differently?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Two Honest People Simply Remember Differently?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Am I being gaslit, or could two honest people remember the same event differently?' carrying no named finding known."
+    },
+    {
+      "q": "How reliable is a vivid memory when I feel completely certain about it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is Ordinary Memory So Much Less Reliable Than It Feels?",
+      "heading_is_question": true,
+      "named_finding_inside": "Neisser and Harsch's Challenger-memory study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can another person's confident account actually change what I remember?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Can Another Person Change What You Remember Without Lying to You?",
+      "heading_is_question": true,
+      "named_finding_inside": "Gabbert, Memon and Allan's 2003 memory-conformity study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can I sincerely remember a detail that never happened at all?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Can You Remember Something That Never Happened at All?",
+      "heading_is_question": true,
+      "named_finding_inside": "Roediger and McDermott's 1995 false-recall study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my memory only collapse around my partner, parent, or one person at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Only Happen Around Certain People?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my memory only collapse around my partner, parent, or one person at work?' carrying no named finding known."
+    },
+    {
+      "q": "Are online gaslighting checklists validated or measured in any reliable way?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Are online gaslighting checklists validated or measured in any reliable way?' carrying no named finding known."
+    },
+    {
+      "q": "Why does the other person's certainty beat my memory even when they are sometimes wrong?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If They Are Just More Certain Than You Are?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does the other person's certainty beat my memory even when they are sometimes wrong?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do without confronting them or secretly recording conversations?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Part of This Did You Actually Choose?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do without confronting them or secretly recording conversations?' carrying no named finding known."
+    },
+    {
+      "q": "What medical test should I ask a doctor for if I keep doubting my memory?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a medical test or panel or say what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

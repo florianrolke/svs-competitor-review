@@ -1,0 +1,105 @@
+{
+  "slug": "closer-to-strangers-than-to-people-i-know",
+  "questions": [
+    {
+      "q": "What is a parasocial relationship, and where did the idea come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and What Does the Name Leave Out?",
+      "heading_is_question": true,
+      "named_finding_inside": "Horton and Wohl's 1956 observations on intimacy at a distance",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does feeling closer to a creator than to my friends mean I am lonely?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Anything Actually Wrong Here?",
+      "heading_is_question": false,
+      "named_finding_inside": "Rubin, Perse and Powell's 1985 local-news-viewer study",
+      "what_to_add": "An H2 'Does feeling closer to a creator than to my friends mean I am lonely?' carrying Rubin, Perse and Powell's 1985 local-news-viewer finding."
+    },
+    {
+      "q": "Why can an online stranger feel emotionally real when they do not know me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Closeness Register as Real Rather Than as Something You Made Up?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can an online stranger feel emotionally real when they do not know me?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between parasocial interaction and a parasocial relationship?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between the Hour You Watch and the Rest of the Week?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between parasocial interaction and a parasocial relationship?' carrying Dibble and colleagues' 2016 measurement-distinction finding."
+    },
+    {
+      "q": "Why did I grieve so much when a creator quit or a show ended?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Did It Hurt So Much When the Show Ended?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why did I grieve so much when a creator quit or a show ended?' carrying no named finding known."
+    },
+    {
+      "q": "Do parasocial bonds crowd out friendships and partners?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Strong Is the Evidence That This Replaces Real Relationships?",
+      "heading_is_question": true,
+      "named_finding_inside": "Derrick, Gabriel and Hughes's social-surrogacy studies",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether watching is actually taking time away from people I know?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If It Has Started Taking Time You Would Otherwise Have Spent?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether watching is actually taking time away from people I know?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I look forward to an upload more than plans with a friend or partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Feeling Closer to Strangers Than to People You Know",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I look forward to an upload more than plans with a friend or partner?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do this week if this bond is starting to worry me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing This Week, Before You Change Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do this week if this bond is starting to worry me?' carrying no named finding known."
+    },
+    {
+      "q": "Is feeling attached to an online creator a sign of a diagnosable disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual, even to rule one out.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
