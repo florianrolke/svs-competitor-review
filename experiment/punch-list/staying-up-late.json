@@ -1,0 +1,105 @@
+{
+  "slug": "staying-up-late",
+  "questions": [
+    {
+      "q": "Why does being exhausted not make me go to bed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Being Exhausted Not Send You to Bed?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kühnel and colleagues' 2018 diary study of self-control demands and bedtime delay",
+      "what_to_add": ""
+    },
+    {
+      "q": "What do researchers call staying up after the time you meant to sleep?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Leave Out?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kroese and colleagues' 2014 definition of bedtime procrastination",
+      "what_to_add": ""
+    },
+    {
+      "q": "What is the late-night hour actually giving me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Hour Actually Giving You?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sonnentag and Fritz's 2007 four recovery experiences",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does knowing tomorrow will be miserable not stop me at midnight?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Knowing Exactly What Tomorrow Will Cost Change Nothing at Midnight?",
+      "heading_is_question": true,
+      "named_finding_inside": "O'Donoghue and Rabin's work on present bias",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my partner going to bed make me want to stay up even longer?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the House Being Quiet Matter More Than the Hour Being Late?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my partner going to bed make me want to stay up even longer?' carrying no named finding known."
+    },
+    {
+      "q": "Why are late nights worse before work on Monday?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Going to Bed Feel Like Starting Tomorrow?",
+      "heading_is_question": true,
+      "named_finding_inside": "Masicampo and Baumeister's 2011 finding on plans reducing goal intrusions",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I change this without just forcing an earlier bedtime?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Would Have to Be Replaced Before You Could Give the Hour Back?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I change this without just forcing an earlier bedtime?' carrying no named finding known."
+    },
+    {
+      "q": "How long does changing bedtime procrastination take?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take to Change, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does changing bedtime procrastination take?' carrying no named finding known."
+    },
+    {
+      "q": "Which sleep disorder makes me stay up even when I am exhausted?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medical sleep test should I ask my doctor to order?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a medical test or panel or saying what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

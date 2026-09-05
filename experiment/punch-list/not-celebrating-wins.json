@@ -1,0 +1,105 @@
+{
+  "slug": "not-celebrating-wins",
+  "questions": [
+    {
+      "q": "Why do my achievements stop feeling good almost immediately?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do the Four Minutes Actually Look Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do my achievements stop feeling good almost immediately?' carrying Quoidbach and colleagues' dampening-strategies finding."
+    },
+    {
+      "q": "What do researchers call the inability to hold onto a good result?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Do the Names Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Bryant and Veroff's savoring model",
+      "what_to_add": ""
+    },
+    {
+      "q": "How is savoring measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is savoring measured?' carrying Bryant's Savoring Beliefs Inventory."
+    },
+    {
+      "q": "Is ambition the reason I never celebrate?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is the Ambition the Problem Here?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is ambition the reason I never celebrate?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I deflect when my boss congratulates me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Being Congratulated Land as Pressure Rather Than Pleasure?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I deflect when my boss congratulates me?' carrying no named finding known."
+    },
+    {
+      "q": "How can not celebrating my wins affect my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does Being Congratulated Land as Pressure Rather Than Pleasure?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can not celebrating my wins affect my partner?' carrying no named finding known."
+    },
+    {
+      "q": "Does the way my family treated achievement explain why celebrating feels embarrassing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Was Achievement Ever Marked in the House You Grew Up In?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Does the way my family treated achievement explain why celebrating feels embarrassing?' carrying no named finding known."
+    },
+    {
+      "q": "What should I actually do when I finish something important?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Would Marking Something Actually Involve?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I actually do when I finish something important?' carrying Harkin and colleagues' 2016 progress-monitoring meta-analysis."
+    },
+    {
+      "q": "Does feeling flat after every achievement mean I have a disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I teach my child to celebrate their accomplishments?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

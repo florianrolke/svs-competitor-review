@@ -1,0 +1,105 @@
+{
+  "slug": "catastrophizing",
+  "questions": [
+    {
+      "q": "What does catastrophizing actually mean?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Catastrophizing Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does catastrophizing actually mean?' carrying Beck's cognitive-distortion formulation."
+    },
+    {
+      "q": "Why does my mind jump to disaster before there is any evidence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Forecast Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my mind jump to disaster before there is any evidence?' carrying no named finding known."
+    },
+    {
+      "q": "How is catastrophizing different from overthinking or realistic caution?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Catastrophizing, or Something Else?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is catastrophizing different from overthinking or realistic caution?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I assume my partner is angry when they go quiet?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does This Show Up When You Would Not Call It Catastrophizing?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I assume my partner is angry when they go quiet?' carrying no named finding known."
+    },
+    {
+      "q": "Why does a good review from my boss make me search for hidden bad news?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Fire Hardest When Nothing Is Wrong?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does a good review from my boss make me search for hidden bad news?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop treating a worst-case prediction as a fact?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Actually Change the Forecast?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop treating a worst-case prediction as a fact?' carrying no named finding known."
+    },
+    {
+      "q": "How is catastrophizing measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Catastrophizing Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "Sullivan and colleagues' 1995 Pain Catastrophizing Scale",
+      "what_to_add": "An H2 'How is catastrophizing measured in research?' carrying Sullivan and colleagues' Pain Catastrophizing Scale while distinguishing pain-specific from general measures."
+    },
+    {
+      "q": "How long does it take to change a catastrophizing habit?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it take to change a catastrophizing habit?' carrying no named finding known."
+    },
+    {
+      "q": "Which disorder is causing my catastrophizing?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I stop my child from always imagining the worst?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

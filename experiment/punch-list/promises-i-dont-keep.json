@@ -1,0 +1,105 @@
+{
+  "slug": "promises-i-dont-keep",
+  "questions": [
+    {
+      "q": "Why do I sincerely mean promises and still fail to keep them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Questions About Meaning a Promise and Not Keeping It",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I sincerely mean promises and still fail to keep them?' carrying the Armitage and Conner intention-behavior meta-analysis."
+    },
+    {
+      "q": "What do researchers call the gap between intending something and doing it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call the Distance Between Meaning It and Doing It?",
+      "heading_is_question": true,
+      "named_finding_inside": "Armitage and Conner's 2001 meta-analysis of 185 studies",
+      "what_to_add": ""
+    },
+    {
+      "q": "Was I lying if I believed my promise when I made it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Were You Lying When You Said It?",
+      "heading_is_question": true,
+      "named_finding_inside": "Schweitzer, Hershey and Bradlow's 2006 trust-recovery finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my future self feel like a different person when the promise comes due?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Person Who Promised Unreachable by Thursday?",
+      "heading_is_question": true,
+      "named_finding_inside": "Pronin, Olivola and Kennedy's 2008 future-self allocation studies",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I agree to my boss's request when saying no does not feel possible?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If No Was Never Actually Available to You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I agree to my boss's request when saying no does not feel possible?' carrying no named finding known."
+    },
+    {
+      "q": "How do I repair trust with my partner after breaking a promise?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Repair One You Already Missed?",
+      "heading_is_question": true,
+      "named_finding_inside": "Schweitzer, Hershey and Bradlow's trust-recovery experiments",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does going silent after a missed promise make things worse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Going Quiet Cost More Than the Miss Itself?",
+      "heading_is_question": true,
+      "named_finding_inside": "Ferrin and colleagues' 2007 comparison of apology, denial and reticence",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does a promise I am more likely to keep sound like?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does a Promise You Can Keep Sound Like Out Loud?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does a promise I am more likely to keep sound like?' carrying Gollwitzer's implementation-intentions finding."
+    },
+    {
+      "q": "Is repeatedly breaking promises a sign of a specific disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I teach my child to stop making promises they cannot keep?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

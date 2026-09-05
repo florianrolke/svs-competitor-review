@@ -1,0 +1,105 @@
+{
+  "slug": "why-am-i-always-busy",
+  "questions": [
+    {
+      "q": "Why do I keep myself busy even when nothing is urgent?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Compulsive Busyness Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep myself busy even when nothing is urgent?' carrying no named finding known."
+    },
+    {
+      "q": "What are the signs that my busyness is avoidance rather than ambition?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Ambition, or Is It Avoidance?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is my busyness avoidance rather than ambition?' carrying no named finding known."
+    },
+    {
+      "q": "Where does the need to fill every hour come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Need to Fill Every Hour Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where does the need to fill every hour come from?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I get irritated when my partner relaxes while I am working?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Somebody Else Sitting Still Make You Irritated?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I get irritated when my partner relaxes while I am working?' carrying no named finding known."
+    },
+    {
+      "q": "How does compulsive busyness show up at work with a boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does It Hide When You Would Not Call It Busyness?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does compulsive busyness show up at work with a boss?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do to stop filling every free moment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to stop filling every free moment?' carrying no named finding known."
+    },
+    {
+      "q": "How long does it take to become comfortable with unstructured time?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it take to become comfortable with unstructured time?' carrying no named finding known."
+    },
+    {
+      "q": "How is compulsive busyness measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is compulsive busyness measured in research?' carrying no named finding known."
+    },
+    {
+      "q": "Could always staying busy mean I have a mental health disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medical tests should I ask my doctor for if constant busyness is exhausting me?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well would require naming a medical test or panel or saying what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
