@@ -1,0 +1,99 @@
+{
+  "query": "What does secure attachment actually look like?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 7,
+    "B": 3
+  },
+  "per_question": [
+    {
+      "q": "What does a securely attached person actually do differently after a fight?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A section titled verbatim 'What Does a Securely Attached Person Actually Do Differently After a Fight?' lists four observable behaviors and names Gottman's finding that repair attempts must be accepted, not just made, plus the 100-bpm timeout-with-a-return-time caveat."
+    },
+    {
+      "q": "Why do I still feel anxious in my relationship even after years of working on myself?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The page is built around this exact reader, and the earned vs. never-wounded vs. performed table answers why the alarm still fires after years of honest work: the flicker still arrives, and what changes is what happens in the ninety seconds after it."
+    },
+    {
+      "q": "Is being calm and low-maintenance the same as being securely attached?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "The section 'Is Being Calm and Low-Maintenance the Same as Being Securely Attached?' names the AAI 'dismissing' classification (brief, idealizing, short on supporting detail) as the calm that is not security, with a table of look-alikes and the load test that separates them."
+    },
+    {
+      "q": "How do psychologists actually measure adult attachment?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "high",
+      "why": "A dedicated comparison of the two measurement traditions, an AAI vs. ECR-R table naming Main, George & Kaplan and Chris Fraley, what each instrument scores, and why they correlate only modestly; the other page mentions the AAI only in passing."
+    },
+    {
+      "q": "Can you become securely attached as an adult?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Its earned-security section leads with the citable core (Main's 'earned security', a fifth to a quarter of secure classifications) and adds the three counterfeits — suppression, intellectualization, forgiveness — that make the answer precise. Genuinely close: the other page covers the same finding with a verbatim heading but in more narrative form."
+    },
+    {
+      "q": "What are the green flags of a secure partner in early dating?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A section titled verbatim 'What Are the Green Flags of a Secure Partner in Early Dating?' with an eight-item observable list (kept plans, steady contact rate, direct answers, a no without a manufactured excuse, a coherent account of exes) plus a separate list of non-signals people over-weight."
+    },
+    {
+      "q": "Why do compliments make me uncomfortable?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The receiving-problem mechanism names the exact experience: the automatic internal rebuttal ('they are just saying that') that discounts affection on the way in, with the flat behavioral fix of saying thank you and adding nothing. The other page does not treat compliment deflection at all."
+    },
+    {
+      "q": "What does secure attachment look like in a child, and what should parents do?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "medium",
+      "why": "A dedicated parenting section grounded in Ainsworth's maternal-sensitivity construct and Winnicott's good-enough mother, plus the Strange Situation description of the secure child (explores, protests at departure, settles on reunion) — both halves of the question with named sources."
+    },
+    {
+      "q": "Why do I test my partner even when things are going well?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The section 'What Separates Testing From Trusting?' explains the mechanism — forcing an early answer to unbearable uncertainty, with the relief installing the habit — and quotes the reader's own inner sentence: 'I often find myself testing people to see if they'll stick around.'"
+    },
+    {
+      "q": "Is it normal for a good, calm relationship to feel boring or flat at first?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The section 'Why Does Calm Register as Danger, and Worry as Caring?' addresses the flatness directly: a nervous system recalibrating after running hot, and the honest caveat that time separates recalibration from a relationship where neither person is present."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Any real account of how adult attachment is measured: no AAI-vs-ECR-R comparison, no Fraley, no dimensional anxiety/avoidance model",
+      "Prevalence and classification data (55-60% secure estimates, the Konrath 2014 cohort decline, disorganized as rarest)",
+      "Several named research programs the other page cites inline: Tronick's mismatch-and-repair, Fonagy's mentalizing, Coan's hand-holding study, Winnicott's good-enough mother",
+      "A dedicated, sourced parenting section built on Ainsworth's sensitivity construct",
+      "A consolidated bibliography of sources and researchers"
+    ],
+    "B": [
+      "The four-beat loop model (ambiguous signal, instant interpretation, protective behavior, teaching relief) that organizes the whole phenomenon",
+      "The receiving problem: why compliments and reassurance fail to land, and the 'say thank you, add nothing' fix",
+      "The earned vs. never-wounded vs. performed security comparison table",
+      "Direct treatment of testing a partner, of a calm relationship feeling flat, and of anxiety persisting after years of work",
+      "A concrete practice protocol (nine repetitions under live conditions) and the one-week gap-log exercise"
+    ]
+  },
+  "first_screen": "A answers faster: its opening answer-box delivers the whole picture in plain images within the first screen (a slow reply stays a slow reply, a compliment lands), while B's otherwise accurate opening paragraph detours into Ainsworth's Strange Situation before reaching everyday behavior.",
+  "provenance": "A: nearly every claim carries an inline named attribution with dates (Main, Ainsworth, Tronick, Coan, Fraley, Winnicott) and the page closes with a consolidated 'Sources and researchers referenced' list; B names five research strands in one late section but attributes less at the point of claim.",
+  "confidence": "high"
+}
