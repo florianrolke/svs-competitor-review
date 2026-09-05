@@ -1,0 +1,105 @@
+{
+  "slug": "agreeing-when-you-disagree",
+  "questions": [
+    {
+      "q": "Why do I say I agree before I have even worked out what I think?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens in the Second Before You Say \"Yeah, Totally\"?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I say I agree before I have even worked out what I think?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my real opinion only become clear after I leave?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Your Real Position Only Show Up on the Drive Home?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my real opinion only become clear after I leave?' carrying no named finding known."
+    },
+    {
+      "q": "What do researchers call public agreement when someone privately disagrees?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Does the Name Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kuran's 1995 preference-falsification account",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I agree with my boss but disagree freely with friends?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If You Are Reading the Room Rather Than the Argument?",
+      "heading_is_question": false,
+      "named_finding_inside": "Detert and Edmondson's implicit voice theories finding",
+      "what_to_add": "An H2 'Why do I agree with my boss but disagree freely with friends?' carrying Detert and Edmondson's implicit voice theories finding."
+    },
+    {
+      "q": "Can saying someone else's view out loud actually change what I remember or believe?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You End Up Arguing Their Case Better Than They Did?",
+      "heading_is_question": false,
+      "named_finding_inside": "Higgins and Rholes's 1978 saying-is-believing study",
+      "what_to_add": "An H2 'Can saying someone else's view out loud actually change what I remember or believe?' carrying Higgins and Rholes's 1978 saying-is-believing study."
+    },
+    {
+      "q": "How can I work out which reason for automatic agreement is mine?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Root Is Yours, Judging Only by Evidence You Already Have?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I work out which reason for automatic agreement is mine?' carrying no named finding known."
+    },
+    {
+      "q": "When is staying quiet instead of disagreeing actually the right choice?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## When Is Agreeing the Right Move?",
+      "heading_is_question": true,
+      "named_finding_inside": "Van Dyne, Ang and Botero's 2003 silence-by-motive framework",
+      "what_to_add": ""
+    },
+    {
+      "q": "What can I say in the moment if I disagree but do not want a fight?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Say the Smaller Version in a Conversation You Are Already In?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I say in the moment if I disagree but do not want a fight?' carrying no named finding known."
+    },
+    {
+      "q": "Why does everyone in a group sometimes think they are the only dissenter?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Everybody in the Room Think They Are the Only One Who Disagrees?",
+      "heading_is_question": true,
+      "named_finding_inside": "Prentice and colleagues' 1993 pluralistic-ignorance study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Which mental health diagnosis causes someone to agree with everyone?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

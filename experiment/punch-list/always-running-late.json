@@ -1,0 +1,105 @@
+{
+  "slug": "always-running-late",
+  "questions": [
+    {
+      "q": "Why am I always late even for things and people I care about?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens in the Last Twenty Minutes?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I always late even for things and people I care about?' carrying no named finding known."
+    },
+    {
+      "q": "What is the planning fallacy, and how much of chronic lateness does it explain?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is There a Name for This, and How Much Does the Name Explain?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kahneman and Tversky's 1979 planning-fallacy account",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why am I punctual for flights and interviews but late for friends and family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Are You On Time for Some Things and Never for Others?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I punctual for flights and interviews but late for friends and family?' carrying no named finding known."
+    },
+    {
+      "q": "How can I estimate the real door-to-door time instead of just the drive?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Time Actually Go When You Count It?",
+      "heading_is_question": false,
+      "named_finding_inside": "Kruger and Evans's 2004 unpacking effect",
+      "what_to_add": "An H2 'How can I estimate the real door-to-door time instead of just the drive?' carrying Kruger and Evans's 2004 unpacking effect."
+    },
+    {
+      "q": "Why do I start one last task when I should be walking out the door?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the One Last Task Actually Buying You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I start one last task when I should be walking out the door?' carrying no named finding known."
+    },
+    {
+      "q": "Why does arriving early and waiting alone feel worse than arriving late?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Arriving Early Feel Worse Than Arriving Late?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does arriving early and waiting alone feel worse than arriving late?' carrying no named finding known."
+    },
+    {
+      "q": "Why does the last-minute rush feel energizing even though I hate being late?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Sprint Give You That Leaving Calmly Does Not?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does the last-minute rush feel energizing even though I hate being late?' carrying no named finding known."
+    },
+    {
+      "q": "What practical changes can stop me from running late without relying on willpower?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Change the Environment Instead of the Intention?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What practical changes can stop me from running late without relying on willpower?' carrying no named finding known."
+    },
+    {
+      "q": "How does repeated lateness affect what a boss, partner, or friend believes about me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does the Apology Cost After the Fourth Time?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does repeated lateness affect what a boss, partner, or friend believes about me?' carrying no named finding known."
+    },
+    {
+      "q": "What medical test should I ask for to find out why I am chronically late?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a medical test or panel or say what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

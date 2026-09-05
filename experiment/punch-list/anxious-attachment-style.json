@@ -1,0 +1,105 @@
+{
+  "slug": "anxious-attachment-style",
+  "questions": [
+    {
+      "q": "What is anxious attachment, and what does it feel like from the inside?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Anxious Attachment Sound Like From the Inside?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is anxious attachment, and what does it feel like from the inside?' carrying no named finding known."
+    },
+    {
+      "q": "Where did anxious attachment come from in my history?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Anxious Attachment Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where did anxious attachment come from in my history?' carrying no named finding known."
+    },
+    {
+      "q": "What are the signs of anxious attachment with a partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Anxious Attachment Look Like Inside a Real Relationship?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the signs of anxious attachment with a partner?' carrying no named finding known."
+    },
+    {
+      "q": "How is anxious attachment different from avoidant or secure attachment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Is Anxious Attachment Different From Avoidant and Secure Patterns?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is anxious attachment different from avoidant or secure attachment?' carrying no named finding known."
+    },
+    {
+      "q": "Why does reassurance from my partner calm me only for a few hours?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Reassurance Stop Working Almost Immediately?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does reassurance from my partner calm me only for a few hours?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire that measures anxious attachment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Anxious Attachment Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated questionnaire that measures anxious attachment?' carrying the Experiences in Close Relationships questionnaire."
+    },
+    {
+      "q": "What does earned security look like in ordinary daily life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Earned Security Actually Look Like?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does earned security look like in ordinary daily life?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do about anxious attachment without making my partner manage it for me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Move Toward It Without Blowing Up Your Relationship?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do about anxious attachment without making my partner manage it for me?' carrying no named finding known."
+    },
+    {
+      "q": "Is anxious attachment a mental disorder, and what diagnosis does it correspond to?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I change my child's behavior if I think they have anxious attachment?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "always-the-host-never-the-guest",
+  "questions": [
+    {
+      "q": "Why am I always the host and never able to relax as a guest?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Happens When You Walk Into Somebody Else's House?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I always the host and never able to relax as a guest?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether hosting is simply a preference or a pattern I cannot put down?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Enjoying Hosting the Problem Here?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether hosting is simply a preference or a pattern I cannot put down?' carrying no named finding known."
+    },
+    {
+      "q": "What do role theory and role-person merger say about someone who is always the host?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Name for This, and Where Does the Name Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Turner's 1978 role-person merger account",
+      "what_to_add": ""
+    },
+    {
+      "q": "Has the always-hosting behavior itself actually been studied?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Good Is the Evidence Behind Any of This, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "Biddle's 1986 review of role theory",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does staying busy as host keep anyone from offering me care or help?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does No Offer Ever Reach You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does staying busy as host keep anyone from offering me care or help?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I talk to everyone at my gatherings but reveal almost nothing about myself?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Role Is Where You Go to Not Be Asked How You Are?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I talk to everyone at my gatherings but reveal almost nothing about myself?' carrying no named finding known."
+    },
+    {
+      "q": "Is always hosting a way to avoid feeling indebted when other people give to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Being Given To Opens Something You Cannot Close?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is always hosting a way to avoid feeling indebted when other people give to me?' carrying no named finding known."
+    },
+    {
+      "q": "Could I be hosting because I need control over the venue, timing, and exit?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Hosting Is How You Keep Control of the Terms?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Could I be hosting because I need control over the venue, timing, and exit?' carrying no named finding known."
+    },
+    {
+      "q": "What should I actually try at my next gathering without giving up hosting?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing at the Next Gathering, Before You Change Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I actually try at my next gathering without giving up hosting?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop my child from becoming the person who always hosts and never receives?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
