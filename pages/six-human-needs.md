@@ -1,82 +1,231 @@
 ---
-title: "What Are the Six Human Needs? The Drivers Underneath Almost Everything You Do"
-metaTitle: "What Are the Six Human Needs?"
-shortTitle: "The Six Human Needs"
-description: "Certainty, variety, significance, love and connection, growth, and contribution. Everyone runs all six, continuously. What each one is asking for, why the need is inborn while the way you meet it was learned, how to find your dominant pair from behavior rather than a quiz, why three needs met by one behavior stops responding to argument, and what actually changes."
-primaryQuestion: "What are the six human needs?"
-intent: research
-faqTitle: "Six Human Needs Questions"
+description: Certainty, variety, significance, love and connection, growth, and contribution.
+  Everyone runs all six, continuously. What each one is asking for, why the need is
+  inborn while the way you meet it was learned, how to find your dominant pair from
+  behavior rather than a quiz, why three needs met by one behavior stops responding
+  to argument, and what actually changes.
+faqTitle: Six Human Needs Questions
 faqs:
-- q: "What are the six human needs?"
-  a: "Certainty, variety, significance, love and connection, growth, and contribution. Every person has all six, running continuously, at every income level and in every culture. What differs from one person to the next is which two dominate, how well each one is currently being met, and what is being used to meet it. Nobody is missing one of the six, and nobody decided to have them."
-- q: "What is the difference between a need and a want?"
-  a: "A want names a vehicle: a relationship, a job title, a number on a page, a house in a particular postcode. The need is the driver underneath it. Two people can want the identical thing for opposite reasons, and two people can want opposite things to feed the same driver. The need has to be inferred from the reason behind the want, which is usually the part nobody has said out loud."
-- q: "What is the difference between a need and a value?"
-  a: "A need is inborn and universal. Everybody has all six of them, and nobody chose to. A value is a learned belief about what brings pain or pleasure, shaped by environment and early relationships, so it varies enormously from person to person. Security, achievement and intimacy are values. They sit one layer above the need and they are far easier to change, because they were learned in the first place."
-- q: "How do you work out your own dominant two needs?"
-  a: "Watch what you get irrationally upset about rather than what you say matters to you. Disproportionate reactions point at a driver more reliably than any stated priority does. Then look at what you defend hardest when somebody suggests changing it, and what you would find hardest to give up for a month. Three data points from actual behavior beat any quiz result, because a quiz measures what you believe about yourself."
-- q: "Can you have more than two dominant needs?"
-  a: "The top two explain most behavior on their own, which is why the model tracks a pair. It remains a simplification of a continuous ranking rather than a hard rule. A third need can sit very close behind the first two and shape a great deal of what somebody does, particularly under stress or in one specific area of life such as work or family."
-- q: "Is significance a bad need to have?"
-  a: "No. It is one of six drivers everybody has, and a life with no significance in it anywhere is unbearable. What varies is the vehicle. Significance built through visible contribution, work that genuinely helps somebody, or a skill practiced to a real standard, looks and costs completely differently from significance built through comparison, status objects, or being the person with the biggest ongoing crisis."
-- q: "Why do I feel guilty about wanting recognition?"
-  a: "Because wanting it gets read as vanity rather than as one of six universal drivers. The guilt usually attaches to the need itself, which was never optional, instead of to the specific way it is being met, which is the part worth examining. Guilt aimed at the driver adds shame on top of an unmet drive and changes nothing about the behavior underneath it."
-- q: "Is this the same as Maslow's hierarchy of needs?"
-  a: "No. Maslow's model is a ladder, where lower needs have to be secured before higher ones become relevant. This model has no ladder. All six operate at once, continuously, at every level of income and safety, which is why somebody with money, property and a stable household can still be starving for connection or significance. The practical difference matters: there is no level you are allowed to skip until later."
-- q: "Is this the same as the five love languages?"
-  a: "No. Love languages describe how one need, connection, prefers to be delivered and received. This model covers all six drivers, of which connection is only one, and it separates the driver from the learned belief and the unexamined condition stacked on top of it. A couple can have their love languages perfectly matched and still fight constantly, because the conflict is sitting in a different need entirely."
-- q: "Can your dominant needs change over time?"
-  a: "Yes, though slowly and usually in response to a real change in circumstances rather than by decision. New parenthood, a serious illness, a business failure, or a move to another country can all shift the ranking. The shift tends to arrive as a change in what irritates you and what you find yourself protecting, noticed months later rather than at the time."
-- q: "Can a chronic problem actually be meeting a need?"
-  a: "Yes, and it is one of the more counterintuitive parts of the model. A long-running health, money or relationship problem can supply certainty in the form of a known daily shape, significance, connection through people checking in, and variety through its own crises. That is a better combined score than many healthy routines manage, which is why solving it can register as a loss before it registers as a relief."
-- q: "Why do I self-sabotage right when things start going well?"
-  a: "An improvement changes a known state into an unknown one, which can trip the same certainty response that a setback would. From inside, the sudden search for something to worry about feels like realism or intuition. Structurally it is the certainty driver doing its job, reacting to unpredictability rather than specifically to bad news. Good news is still news, and news is uncertain by definition."
-- q: "Why did someone who holds good values do something completely against them?"
-  a: "Because drivers outrank values when the two conflict. Values are learned beliefs and they can be argued with. A need does not accept a null result, and when one is starving badly enough it overrides the belief. The contradiction then gets patched afterward with a story about who the person really is, which is a second problem sitting on top of the first, and neither excuses the act."
-- q: "What happens when a need has no vehicle at all?"
-  a: "It gets louder rather than quieter. Attention gets pulled toward it automatically, arriving as restlessness, distraction, or a specific craving that appears out of nowhere. An unexplained urge to check the phone, pick a fight, buy something, or eat when you are not hungry is often data about which driver is currently starving rather than evidence of a discipline failure."
-- q: "Can meeting one need too well backfire?"
-  a: "Routinely. Over-securing one driver tends to starve its opposite. Heavy certainty crowds out variety and growth, and the resulting boredom gets misread as a problem with the job or the relationship rather than as an imbalance inside the same six. The same happens in reverse: a life built for constant novelty leaves nothing predictable enough to rest inside."
-- q: "Why do my partner and I keep having the same fight about plans?"
-  a: "Often it is a need-structure mismatch rather than a disagreement about facts. A confirmed plan reads as safety to somebody certainty-dominant and as a closing door to somebody variety-dominant. Both readings are accurate reports from two different structures, which is why arguing about the specific weekend never settles anything. Named as a design problem instead of a character dispute, it usually reduces to logistics."
-- q: "Why do successful people often feel empty when everything is objectively going well?"
-  a: "Usually because four of the six are met at a high level and the last two are barely touched. Certainty, variety, significance and connection can all be running well while growth and contribution sit at zero, and the result reads as flatness rather than as lack. More of the first four does nothing for it, which is why working harder makes that particular feeling worse rather than better."
-- q: "What are Tony Robbins' 6 human needs?"
-  a: "Certainty, uncertainty or variety, significance, love and connection, growth, and contribution. Robbins is the teacher most people first meet this framework through, and he has taught it in talks and live programs for decades. The list gets used well beyond his work, and the useful part survives the attribution: six drivers, everybody carries all six, and what varies from person to person is the ranking and the vehicle."
-- q: "Are the six human needs the same as basic needs like food, water and shelter?"
-  a: "No. Food, water, sleep and shelter are physical requirements, and once they are reliably handled they stop taking up much attention. The six are psychological drivers that keep running whatever the fridge contains, which is why somebody with a comfortable house and a stable income can still be restless, flat, or starving for connection. Both sets are real, and they operate at different layers."
-- q: "What are the 7 basic human needs?"
-  a: "Lists of seven or eight circulate widely, and most of them mix two different things together: physical requirements such as sleep, food and safety, alongside psychological drivers such as belonging or purpose. The count matters far less than whether a list keeps the driver separate from the specific thing being used to meet it. A list that blends the two gives you something to agree with and nothing to act on."
-- q: "What are the 10 basic human needs?"
-  a: "Ten-item lists usually split the same territory more finely, adding entries like autonomy, security, respect or purpose. A longer list is fine, though the extra rows tend to name values, which are learned and vary enormously from person to person, rather than drivers, which everybody has. If you are comparing versions, one test settles it quickly: does this list tell you what to do differently on a Wednesday?"
-- q: "Is there a six human needs test or quiz?"
-  a: "Several exist online, and any of them works as a starting hypothesis rather than a verdict. A questionnaire reports what you believe about yourself, which is genuinely worth knowing and is a different thing from what drives you. Take the result, then check it against one honest week of your own reactions. Whatever you got disproportionately upset about that week outranks whatever the quiz told you."
-- q: "Is there a book or PDF that explains the six human needs?"
-  a: "There is no single canonical text. The framework spread through talks, live programs and secondhand summaries, which is why the PDFs circulating online vary so widely in quality. When you are judging one, look for whether it separates the need from the vehicle being used to meet it. A summary that lists the six and stops there has handed you a vocabulary rather than a tool."
-- q: "Is the six human needs model scientific?"
-  a: "It is a practical model out of the personal development field rather than a validated psychological instrument, and it is worth being straight about that. What earns it a place is predictive usefulness. Map somebody's dominant pair and their current vehicles and you can usually anticipate what they will protect, what they will avoid, and which advice will bounce straight off them. Test it against your own behavior."
-- q: "Is uncertainty the same as variety in this model?"
-  a: "Yes. Some versions of the list name the second need uncertainty and others name it variety, and both point at one driver: novelty, stimulation, surprise, and the sense that something is still capable of happening. The wording matters in one respect only. Uncertainty makes the clash with certainty obvious, which is useful, because those two pull against each other by construction in every life."
-- q: "What is a six human needs map?"
-  a: "A written layout of the six, with the specific named thing in your life currently supplying each one beside it, plus roughly what it delivers and what it costs. The value sits in what the layout exposes rather than in the drawing. One name appearing in three rows is a load-bearing vehicle, and an empty row is the most common explanation for flatness inside a life that objectively works."
-- q: "How do you know if significance is one of your top two?"
-  a: "Watch what happens when effort goes unrecognized. Somebody significance-dominant goes quietly sour for days after work lands with nobody noticing, and the sourness usually gets explained as tiredness or as a problem with the team. Other signals: recent wins finding their way into unrelated conversations, real difficulty handing anything over, and a private sense that being ordinary would amount to a kind of disappearance."
-- q: "Can you meet a need in a way that is working against you?"
-  a: "Constantly, and it will still feel like relief in the moment, because relief is exactly what the vehicle was built to deliver. A need being met and a need being met well are two separate measurements. The second one asks what the supply costs your health, your relationships and your next five years, and whether it will still be available once conditions change. Most costly vehicles pass the first test and fail the second."
-- q: "How many of the six needs can one behavior meet at once?"
-  a: "Four or five for the most efficient vehicles, which are frequently the most damaging ones. The count predicts how stubborn a behavior will be. Something supplying one need shifts with a decent reason, something supplying two takes a plan, and anything supplying three or more stops responding to argument, because an argument answers one payoff while several keep firing. Count the payoffs before drawing conclusions about your own discipline."
-- q: "Why does certainty built on controlling other people stop working?"
-  a: "Because it requires everybody else to keep complying, and the number of people involved only grows. Control-sourced certainty holds while responsibilities are small, then degrades exactly as life gets bigger, and it charges the people nearby for every unit it delivers. Certainty sourced from a skill you can perform and an inner state you can produce travels with you and costs nobody anything."
-- q: "Can a need be met and still not register?"
-  a: "Yes, and it is one of the more disorienting versions of this. Affection can arrive, be entirely genuine, and fail to land, because an older conclusion is filtering the evidence before it reaches you. From inside it reads as the affection being insufficient or insincere. Somebody in that position can be fed and starving at the same time, which is why adding more supply rarely settles it."
-- q: "Why do I crave something specific when I am under stress?"
-  a: "Because pressure tends to cut off your ordinary supply lines first. The gym goes, the long conversation goes, the unhurried evening goes, and whichever driver those were feeding starts pulling at your attention through the fastest substitute available: the phone, the fridge, the argument, the purchase. The craving is a reading of which need got cut, and it is considerably more accurate than it feels."
+- a: Certainty, variety, significance, love and connection, growth, and contribution.
+    Every person has all six, running continuously, at every income level and in every
+    culture. What differs from one person to the next is which two dominate, how well
+    each one is currently being met, and what is being used to meet it. Nobody is
+    missing one of the six, and nobody decided to have them.
+  q: What are the six human needs?
+- a: 'A want names a vehicle: a relationship, a job title, a number on a page, a house
+    in a particular postcode. The need is the driver underneath it. Two people can
+    want the identical thing for opposite reasons, and two people can want opposite
+    things to feed the same driver. The need has to be inferred from the reason behind
+    the want, which is usually the part nobody has said out loud.'
+  q: What is the difference between a need and a want?
+- a: A need is inborn and universal. Everybody has all six of them, and nobody chose
+    to. A value is a learned belief about what brings pain or pleasure, shaped by
+    environment and early relationships, so it varies enormously from person to person.
+    Security, achievement and intimacy are values. They sit one layer above the need
+    and they are far easier to change, because they were learned in the first place.
+  q: What is the difference between a need and a value?
+- a: Watch what you get irrationally upset about rather than what you say matters
+    to you. Disproportionate reactions point at a driver more reliably than any stated
+    priority does. Then look at what you defend hardest when somebody suggests changing
+    it, and what you would find hardest to give up for a month. Three data points
+    from actual behavior beat any quiz result, because a quiz measures what you believe
+    about yourself.
+  q: How do you work out your own dominant two needs?
+- a: The top two explain most behavior on their own, which is why the model tracks
+    a pair. It remains a simplification of a continuous ranking rather than a hard
+    rule. A third need can sit very close behind the first two and shape a great deal
+    of what somebody does, particularly under stress or in one specific area of life
+    such as work or family.
+  q: Can you have more than two dominant needs?
+- a: No. It is one of six drivers everybody has, and a life with no significance in
+    it anywhere is unbearable. What varies is the vehicle. Significance built through
+    visible contribution, work that genuinely helps somebody, or a skill practiced
+    to a real standard, looks and costs completely differently from significance built
+    through comparison, status objects, or being the person with the biggest ongoing
+    crisis.
+  q: Is significance a bad need to have?
+- a: Because wanting it gets read as vanity rather than as one of six universal drivers.
+    The guilt usually attaches to the need itself, which was never optional, instead
+    of to the specific way it is being met, which is the part worth examining. Guilt
+    aimed at the driver adds shame on top of an unmet drive and changes nothing about
+    the behavior underneath it.
+  q: Why do I feel guilty about wanting recognition?
+- a: 'No. Maslow''s model is a ladder, where lower needs have to be secured before
+    higher ones become relevant. This model has no ladder. All six operate at once,
+    continuously, at every level of income and safety, which is why somebody with
+    money, property and a stable household can still be starving for connection or
+    significance. The practical difference matters: there is no level you are allowed
+    to skip until later.'
+  q: Is this the same as Maslow's hierarchy of needs?
+- a: No. Love languages describe how one need, connection, prefers to be delivered
+    and received. This model covers all six drivers, of which connection is only one,
+    and it separates the driver from the learned belief and the unexamined condition
+    stacked on top of it. A couple can have their love languages perfectly matched
+    and still fight constantly, because the conflict is sitting in a different need
+    entirely.
+  q: Is this the same as the five love languages?
+- a: Yes, though slowly and usually in response to a real change in circumstances
+    rather than by decision. New parenthood, a serious illness, a business failure,
+    or a move to another country can all shift the ranking. The shift tends to arrive
+    as a change in what irritates you and what you find yourself protecting, noticed
+    months later rather than at the time.
+  q: Can your dominant needs change over time?
+- a: Yes, and it is one of the more counterintuitive parts of the model. A long-running
+    health, money or relationship problem can supply certainty in the form of a known
+    daily shape, significance, connection through people checking in, and variety
+    through its own crises. That is a better combined score than many healthy routines
+    manage, which is why solving it can register as a loss before it registers as
+    a relief.
+  q: Can a chronic problem actually be meeting a need?
+- a: An improvement changes a known state into an unknown one, which can trip the
+    same certainty response that a setback would. From inside, the sudden search for
+    something to worry about feels like realism or intuition. Structurally it is the
+    certainty driver doing its job, reacting to unpredictability rather than specifically
+    to bad news. Good news is still news, and news is uncertain by definition.
+  q: Why do I self-sabotage right when things start going well?
+- a: Because drivers outrank values when the two conflict. Values are learned beliefs
+    and they can be argued with. A need does not accept a null result, and when one
+    is starving badly enough it overrides the belief. The contradiction then gets
+    patched afterward with a story about who the person really is, which is a second
+    problem sitting on top of the first, and neither excuses the act.
+  q: Why did someone who holds good values do something completely against them?
+- a: It gets louder rather than quieter. Attention gets pulled toward it automatically,
+    arriving as restlessness, distraction, or a specific craving that appears out
+    of nowhere. An unexplained urge to check the phone, pick a fight, buy something,
+    or eat when you are not hungry is often data about which driver is currently starving
+    rather than evidence of a discipline failure.
+  q: What happens when a need has no vehicle at all?
+- a: 'Routinely. Over-securing one driver tends to starve its opposite. Heavy certainty
+    crowds out variety and growth, and the resulting boredom gets misread as a problem
+    with the job or the relationship rather than as an imbalance inside the same six.
+    The same happens in reverse: a life built for constant novelty leaves nothing
+    predictable enough to rest inside.'
+  q: Can meeting one need too well backfire?
+- a: Often it is a need-structure mismatch rather than a disagreement about facts.
+    A confirmed plan reads as safety to somebody certainty-dominant and as a closing
+    door to somebody variety-dominant. Both readings are accurate reports from two
+    different structures, which is why arguing about the specific weekend never settles
+    anything. Named as a design problem instead of a character dispute, it usually
+    reduces to logistics.
+  q: Why do my partner and I keep having the same fight about plans?
+- a: Usually because four of the six are met at a high level and the last two are
+    barely touched. Certainty, variety, significance and connection can all be running
+    well while growth and contribution sit at zero, and the result reads as flatness
+    rather than as lack. More of the first four does nothing for it, which is why
+    working harder makes that particular feeling worse rather than better.
+  q: Why do successful people often feel empty when everything is objectively going
+    well?
+- a: 'Certainty, uncertainty or variety, significance, love and connection, growth,
+    and contribution. It comes out of the personal development seminar world, where
+    it has been taught in talks and live programs for decades, and that is where most
+    people first meet it. The list gets used well beyond that origin, and the useful
+    part survives the attribution: six drivers, everybody carries all six, and what
+    varies from person to person is the ranking and the vehicle.'
+  q: Where does the six human needs framework come from?
+- a: No. Food, water, sleep and shelter are physical requirements, and once they are
+    reliably handled they stop taking up much attention. The six are psychological
+    drivers that keep running whatever the fridge contains, which is why somebody
+    with a comfortable house and a stable income can still be restless, flat, or starving
+    for connection. Both sets are real, and they operate at different layers.
+  q: Are the six human needs the same as basic needs like food, water and shelter?
+- a: 'Lists of seven or eight circulate widely, and most of them mix two different
+    things together: physical requirements such as sleep, food and safety, alongside
+    psychological drivers such as belonging or purpose. The count matters far less
+    than whether a list keeps the driver separate from the specific thing being used
+    to meet it. A list that blends the two gives you something to agree with and nothing
+    to act on.'
+  q: What are the 7 basic human needs?
+- a: 'Ten-item lists usually split the same territory more finely, adding entries
+    like autonomy, security, respect or purpose. A longer list is fine, though the
+    extra rows tend to name values, which are learned and vary enormously from person
+    to person, rather than drivers, which everybody has. If you are comparing versions,
+    one test settles it quickly: does this list tell you what to do differently on
+    a Wednesday?'
+  q: What are the 10 basic human needs?
+- a: Several exist online, and any of them works as a starting hypothesis rather than
+    a verdict. A questionnaire reports what you believe about yourself, which is genuinely
+    worth knowing and is a different thing from what drives you. Take the result,
+    then check it against one honest week of your own reactions. Whatever you got
+    disproportionately upset about that week outranks whatever the quiz told you.
+  q: Is there a six human needs test or quiz?
+- a: There is no single canonical text. The framework spread through talks, live programs
+    and secondhand summaries, which is why the PDFs circulating online vary so widely
+    in quality. When you are judging one, look for whether it separates the need from
+    the vehicle being used to meet it. A summary that lists the six and stops there
+    has handed you a vocabulary rather than a tool.
+  q: Is there a book or PDF that explains the six human needs?
+- a: It is a practical model out of the personal development field rather than a validated
+    psychological instrument, and it is worth being straight about that. What earns
+    it a place is predictive usefulness. Map somebody's dominant pair and their current
+    vehicles and you can usually anticipate what they will protect, what they will
+    avoid, and which advice will bounce straight off them. Test it against your own
+    behavior.
+  q: Is the six human needs model scientific?
+- a: 'Yes. Some versions of the list name the second need uncertainty and others name
+    it variety, and both point at one driver: novelty, stimulation, surprise, and
+    the sense that something is still capable of happening. The wording matters in
+    one respect only. Uncertainty makes the clash with certainty obvious, which is
+    useful, because those two pull against each other by construction in every life.'
+  q: Is uncertainty the same as variety in this model?
+- a: A written layout of the six, with the specific named thing in your life currently
+    supplying each one beside it, plus roughly what it delivers and what it costs.
+    The value sits in what the layout exposes rather than in the drawing. One name
+    appearing in three rows is a load-bearing vehicle, and an empty row is the most
+    common explanation for flatness inside a life that objectively works.
+  q: What is a six human needs map?
+- a: 'Watch what happens when effort goes unrecognized. Somebody significance-dominant
+    goes quietly sour for days after work lands with nobody noticing, and the sourness
+    usually gets explained as tiredness or as a problem with the team. Other signals:
+    recent wins finding their way into unrelated conversations, real difficulty handing
+    anything over, and a private sense that being ordinary would amount to a kind
+    of disappearance.'
+  q: How do you know if significance is one of your top two?
+- a: Constantly, and it will still feel like relief in the moment, because relief
+    is exactly what the vehicle was built to deliver. A need being met and a need
+    being met well are two separate measurements. The second one asks what the supply
+    costs your health, your relationships and your next five years, and whether it
+    will still be available once conditions change. Most costly vehicles pass the
+    first test and fail the second.
+  q: Can you meet a need in a way that is working against you?
+- a: Four or five for the most efficient vehicles, which are frequently the most damaging
+    ones. The count predicts how stubborn a behavior will be. Something supplying
+    one need shifts with a decent reason, something supplying two takes a plan, and
+    anything supplying three or more stops responding to argument, because an argument
+    answers one payoff while several keep firing. Count the payoffs before drawing
+    conclusions about your own discipline.
+  q: How many of the six needs can one behavior meet at once?
+- a: Because it requires everybody else to keep complying, and the number of people
+    involved only grows. Control-sourced certainty holds while responsibilities are
+    small, then degrades exactly as life gets bigger, and it charges the people nearby
+    for every unit it delivers. Certainty sourced from a skill you can perform and
+    an inner state you can produce travels with you and costs nobody anything.
+  q: Why does certainty built on controlling other people stop working?
+- a: Yes, and it is one of the more disorienting versions of this. Affection can arrive,
+    be entirely genuine, and fail to land, because an older conclusion is filtering
+    the evidence before it reaches you. From inside it reads as the affection being
+    insufficient or insincere. Somebody in that position can be fed and starving at
+    the same time, which is why adding more supply rarely settles it.
+  q: Can a need be met and still not register?
+- a: 'Because pressure tends to cut off your ordinary supply lines first. The gym
+    goes, the long conversation goes, the unhurried evening goes, and whichever driver
+    those were feeding starts pulling at your attention through the fastest substitute
+    available: the phone, the fridge, the argument, the purchase. The craving is a
+    reading of which need got cut, and it is considerably more accurate than it feels.'
+  q: Why do I crave something specific when I am under stress?
+intent: research
+metaDescription: Certainty, variety, significance, love and connection, growth, contribution.
+  What each asks for, how to spot your dominant pair, and what actually changes it.
+metaTitle: What Are the Six Human Needs?
+primaryQuestion: What are the six human needs?
 related:
 - /patterns/why-cant-i-change/
 - /patterns/limiting-beliefs/
-- /patterns/self-sabotage/
 - /insights/the-four-human-longings/
-- /retreats/personal-development-retreat/
+- /patterns/overprotective-parents/
+- /patterns/why-did-the-advice-that-worked-for-them-do-nothing-for-me/
+shortTitle: The Six Human Needs
+title: What Are the Six Human Needs? The Drivers Underneath Almost Everything You
+  Do
 ---
 
 # What are the six human needs?
@@ -98,7 +247,7 @@ Most people find their own structure in a sentence long before they find it in a
 
 Each of those sentences is one of six drivers being met by something that is quietly charging for it.
 
-[How the seminar works with the six drivers underneath what you keep doing](/seminar/)
+[How the seminar works with the six drivers underneath what you keep doing](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 A meeting starts five minutes late and you are annoyed out of all proportion. Nothing was riding on those five minutes, there is no next appointment, and the annoyance arrives anyway with a small edge of righteousness attached to it.
@@ -342,4 +491,4 @@ Take a sheet of paper and write the six words down the left-hand side: certainty
 
 Then read the page for two things. First, whichever name appears in three or more rows, because that is your load-bearing vehicle and the reason certain changes feel impossible rather than merely difficult. Second, whichever row is blank, because a blank in growth or contribution is the most common explanation there is for flatness inside a life that objectively works. That single page tends to explain more about the last five years than most people expect, and it costs you twenty minutes and nothing else.
 
-If what pulls at you is the structure itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of work: real screening before anybody arrives, a group kept small enough that the person carrying everything cannot quietly keep carrying it in the room, and integration built into the design rather than left to you once you are home, because a vehicle gets rebuilt in ordinary weeks rather than in one extraordinary one. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent working out what your life is currently paying for, and what it is buying, is rarely wasted, whatever you decide afterward.
+If what pulls at you is the structure itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of work: real screening before anybody arrives, a group kept small enough that the person carrying everything cannot quietly keep carrying it in the room, and integration built into the design rather than left to you once you are home, because a vehicle gets rebuilt in ordinary weeks rather than in one extraordinary one. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent working out what your life is currently paying for, and what it is buying, is rarely wasted, whatever you decide afterward.

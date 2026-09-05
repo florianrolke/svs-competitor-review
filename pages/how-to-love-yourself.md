@@ -1,86 +1,249 @@
 ---
-title: "How Do You Actually Love Yourself? The Capacity Underneath a Worn Out Phrase"
-metaTitle: "How Do You Actually Love Yourself?"
-shortTitle: "How to Love Yourself"
-description: "Loving yourself means treating your own experience as information that counts, at the same rate you already count everybody else's. Why affirmations and self-care lists bounce off, the exact sentences that give the pattern away, why earning it never closes the gap, why receiving is the hardest part, what the other end looks like on an ordinary Wednesday, and the small repetitions that actually move it."
-primaryQuestion: "How do you actually love yourself?"
-intent: research
-faqTitle: "Loving Yourself Questions"
+description: Loving yourself means treating your own experience as information that
+  counts, at the same rate you already count everybody else's. Why affirmations and
+  self-care lists bounce off, the exact sentences that give the pattern away, why
+  earning it never closes the gap, why receiving is the hardest part, what the other
+  end looks like on an ordinary Wednesday, and the small repetitions that actually
+  move it.
+faqTitle: Loving Yourself Questions
 faqs:
-- q: "How do you actually love yourself?"
-  a: "By treating your own experience as information that counts, at the same rate you already count other people's. In practice that means noticing what you feel on the day you feel it, saying what you want in plain words, accepting help without balancing the exchange, and letting your own reaction stand without auditing it first. It functions as a capacity built by repetition rather than a feeling you can summon on command."
-- q: "What does loving yourself unconditionally actually mean?"
-  a: "It means your own experience keeps counting on the days you are unimpressive, late, unproductive, and plainly in the wrong. The condition being dropped is the performance requirement. Your tiredness is real whether or not you earned it, and your preference stands whether or not the week went well. The word points at access rather than approval, so you can hold a low opinion of how last month went and still treat your own report as true."
-- q: "Why does self love feel fake when I try it?"
-  a: "Because most versions of it ask you to produce a warm verdict about yourself while nothing inside you is actually being consulted. Saying a kind sentence at a mirror requires no noticing, no naming, and no acting on what you find, so the older habit of discounting yourself carries on underneath undisturbed. The fake feeling is accurate. Something is being performed rather than practiced, and a smaller, duller move works better."
-- q: "How do I know whether I love myself or not?"
-  a: "Three ordinary checks answer it quickly. When somebody asks where you want to eat, does a real preference arrive within a few seconds, or only a scan of what they might want? When somebody praises your work, can you say thank you and add nothing? When you are tired at four in the afternoon, does that count as a reason to stop? A blank on all three is the answer."
-- q: "Is it possible to love yourself if you have hated yourself for as long as you can remember?"
-  a: "Yes, and belief is not the entry point. Start where believing is not required: notice one thing you want today and say it out loud, take one compliment without deflecting it, let one small preference stand. Those repetitions work whether or not you agree with them at the time. The warmth tends to arrive months later, after enough evidence has accumulated that the old ruling stops sounding obvious."
-- q: "Why do I feel guilty when I put myself first?"
-  a: "Because in the environment where this was learned, attention flowing toward you had a cost attached, usually somebody else's disappointment. The guilt is a trained signal that you have broken a rule about whose needs come first, and it fires long after the rule stopped applying. It reliably shows up in the first weeks of changing this, and it fades with repetition rather than with argument."
-- q: "Do you have to love yourself before you can love somebody else?"
-  a: "No, and plenty of people love others well while giving themselves nothing. What changes once your own experience starts counting is the quality of what you give, because affection routed through a ledger arrives with an invoice attached even when nobody intended one. You can care for people generously today. Doing it without quietly keeping score is the part that improves when you stop leaving yourself off the list."
-- q: "Do I have to love myself before somebody else can love me?"
-  a: "No, and that line has caused a lot of unnecessary waiting. Plenty of people are loved well while they still discount every bit of it. What is true is narrower: care that arrives cannot land if there is no capacity to register it, so a good partner can supply affection for years without it closing the gap. Both things can be built at once, and neither has to wait for the other."
-- q: "What is the difference between loving yourself and being arrogant?"
-  a: "Arrogance rates you above other people and needs an audience to keep the rating current. Counting your own experience needs no comparison at all, because it is about whether your own report registers as real, not about where you rank. The practical difference shows up in how somebody handles being wrong. Arrogance defends the rating. Somebody with steady regard for themselves can look straight at a mistake."
-- q: "Is confidence the same as loving yourself?"
-  a: "They are different systems and they come apart often. Confidence is a prediction that you can handle a particular thing, built out of evidence that you have handled it before. Counting your own experience is about whether your own report registers as real at all. Plenty of visibly capable people run a meeting with nothing to prove and go home unable to say what they want for dinner. Capability was never the missing piece."
-- q: "Why do compliments make me uncomfortable?"
-  a: "Because a compliment asks you to accept a verdict you privately disagree with, and the fastest way out of that discomfort is to reject it. The reply arrives almost word for word in people who share this pattern: they are just saying that, they do not really mean it. Watch for the joke, the correction, or the favor returned that same evening. All three are the same exit."
-- q: "How do you stop needing everybody else's approval?"
-  a: "By building a second source of the same information, because the approval is doing a real job and cannot simply be switched off. It tells you whether you are acceptable, and that reading has to come from somewhere. Start supplying your own first. Finish a piece of work and write down whether you think it was any good before anybody sees it. Being right about your own work twenty times is what loosens the need."
-- q: "How do I love myself when I genuinely do not like who I am right now?"
-  a: "Separate the regard from the review. You can hold a low opinion of how last year went and still count your own tiredness, your own preferences and your own reactions as real. Liking yourself is a feeling that comes and goes. Counting yourself is an administrative decision you make repeatedly, and it works on the days you are unimpressed with yourself, which are the days it matters."
-- q: "Can you love yourself and still want to change things about yourself?"
-  a: "Yes, and the wanting usually gets cleaner. Effort built on self-rejection has one part of you fighting the starting point while the rest tries to move, which is expensive and rarely lasts past March. Once your own regard stops being withdrawn as a penalty, what remains is a plain preference for something to be different, and preferences turn out to be steadier engines than contempt."
-- q: "What do I do the moment I catch myself dismissing my own feelings?"
-  a: "Write down the exact sentence you used to do the dismissing. It is usually short and familiar: it is not a big deal, other people have it worse, I am being dramatic. Then say the plain version instead, once, out loud or on paper: I am tired, that stung, I did not want to go. Nothing else is required. The catching and the naming are the whole repetition."
-- q: "What are 5 ways to love yourself?"
-  a: "Five that build the capacity rather than five that feel pleasant for an evening. Give one honest answer a day to how are you. Name a preference out loud before you have worked out what anybody else wants. Accept one compliment and add nothing after thank you. Write down the exact sentence you use to dismiss your own reaction. Finish one task because you are done rather than because it is."
-- q: "What are the 7 steps to loving yourself?"
-  a: "No fixed seven exists, and the sequence matters far more than the count. It runs on three moves that repeat: notice what is happening in you, give it a word on the day it happens, then let that word change one small decision. Everything sold as step four onward is a variation on the third move. If a list of seven helps you start, use it, and judge it by whether your own report changed anything this week."
-- q: "What are 10 steps to loving yourself?"
-  a: "The number moves depending on who wrote the list, which is a fair sign that the count is decoration. One move repeated ten times will shift this further than ten moves attempted once. Pick the smallest item on any list you find, usually stating a preference or taking a compliment cleanly, and run it daily for a month. A short practice you finish beats a thorough program you abandon in week two."
-- q: "Does this ever become automatic, or is it something you manage forever?"
-  a: "Parts of it become automatic and parts stay deliberate. Noticing what you want and taking a compliment tend to stop requiring effort after a year or two of ordinary practice. The deeper reflex, the one that discounts your own experience under pressure, gets quieter and still shows up during a hard week. Most people find the gap between the reflex and their response widens rather than the reflex disappearing."
-- q: "Is self love just selfishness with better marketing?"
-  a: "Selfishness treats other people's experience as though it does not count. What this page describes adds your own experience back to a list you were already keeping for everybody else, which is a different operation. The reliable test is what happens to the people around you. Somebody genuinely counting themselves usually becomes easier to be close to, because less resentment is being stored and fewer favors are being quietly invoiced."
-- q: "Should I keep doing the baths, the journal and the gym if none of it is working?"
-  a: "Keep whatever you actually enjoy, and stop expecting it to do a job it cannot do. A bath is a pleasant hour. It does not build the capacity to notice you were exhausted three weeks before you booked it. Pair those things with one repetition that requires you to register something: say what you want at dinner, take a compliment, stop when you are done rather than when the task is."
-- q: "Will a book about loving yourself actually help?"
-  a: "A good one moves the seeing, and none of them move the doing. The names that come up most often are Louise Hay and Teal Swan, and either can put words on something you have carried for years without language for it, which is worth a great deal. What no book does is run the repetition for you. Read one, keep the two lines that landed, then spend a month saying out loud what you want."
-- q: "Nobody ever taught me any of this. Where does somebody with no starting point begin?"
-  a: "With preferences, because they are the lowest stakes version of the same skill. For one week, answer every small question with an actual answer: which restaurant, which film, which side of the bed, how warm the room should be. You are not deciding anything important. You are practicing the act of consulting yourself and finding that something is there, which is the input everything else runs on."
-- q: "How do you love yourself while you are in a relationship?"
-  a: "By putting your own report back into the ordinary decisions, which is where it went missing. Answer the question about the film with your actual answer. Say when a remark landed badly, on the day it landed. Ask for the thing you want without three supporting reasons attached. None of that requires a conversation about the relationship itself. It changes the small traffic, and the small traffic is most of what a relationship runs on."
-- q: "My partner says I have changed since I started this. Is that a bad sign?"
-  a: "Usually it means the system around you is adjusting, which is normal and uncomfortable. People got used to a version of you that never needed anything, and a small no or a stated preference changes what they can expect. Watch what happens over a few months rather than a few days. Discomfort that settles into something more honest is one outcome. Sustained pressure to go back is worth taking seriously."
-- q: "How do you start loving yourself again after a breakup?"
-  a: "Slowly, and by separating two things that arrive together. The grief is about losing a person and it deserves real time. The verdict about yourself that got attached to being left is a separate item, and it usually borrows the breakup as proof of something you already suspected. Handle them apart. Feel the loss on its own terms, and treat the verdict as a claim to be tested rather than a fact you now own."
-- q: "How do you love yourself when nobody else seems to?"
-  a: "Start with the arithmetic rather than the feeling. A stretch with nobody close by is a real shortage of circumstances, and it will keep presenting itself as a verdict on you. Run the small repetitions anyway, since they work with no audience at all: say what you want at dinner alone, stop when you are tired, book the appointment. Then treat the isolation as its own problem, separate and worth solving directly."
-- q: "Why is being alone so uncomfortable when you are supposed to enjoy your own company?"
-  a: "Because company has been doing a job you never noticed it doing. With somebody else in the room there is a reaction to read and a preference to serve, so the question of what you want never has to come up. Alone, nothing supplies the agenda and the blank turns up on its own. A free evening starts reading as a free evening once enough of them have passed without being filled."
-- q: "Is loving yourself different for men?"
-  a: "The mechanism is identical and the training usually differs. Men more often arrive at this through output, where the work is measurable and the internal state has no vocabulary attached to it at all. The practice is the same, and the first move is usually smaller: name one internal state a day, in one word, to yourself, before anybody asks. Most of the difficulty sits in the naming rather than in any shortage of courage."
-- q: "What does the Bible say about loving yourself?"
-  a: "The verse people reach for is love your neighbour as yourself, which appears in Leviticus and is repeated by Jesus in Matthew and Mark. It uses the care you give yourself as the measuring stick for how you treat everybody else. Ephesians makes a similar assumption when it says nobody ever hated their own body. Read plainly, both treat regard for yourself as the baseline, which sits oddly against how the phrase usually gets preached."
-- q: "How do you love yourself when you are depressed?"
-  a: "Shrink the repetitions until they fit the energy you actually have, and get the depression itself assessed by a licensed professional rather than trying to practice around it. On a flat day the whole practice can be one honest three-word answer when somebody asks how you are, and that still counts. Expect the noticing to be harder, since low mood flattens the signal you are trying to catch. Nothing here substitutes for proper care."
-- q: "How do I tell ordinary self criticism apart from something that needs a professional?"
-  a: "Ordinary harshness flares after a mistake and loosens once the situation is understood. Persistent hopelessness that will not lift, numbness that stays whatever you try, an inability to get through normal days, an eating pattern that has taken over, or any thought of harming yourself belongs with a licensed professional rather than a self-directed practice. If you cannot tell which side you are on, treat that uncertainty as the answer."
-- q: "How do you love yourself enough to walk away from something?"
-  a: "Walking away sits downstream of counting yourself, which is why advice to leave rarely lands on somebody who cannot yet name what they want for dinner. Build the small end first. Once your own report counts in ordinary decisions, the large decision tends to make itself, because the evidence has usually been visible for a while. Where somebody is controlling or frightening you, that is a safety question and it goes to people who handle safety."
-- q: "Can a week away help with this, or is it something you can only do at home?"
-  a: "Both, in different ways. Home is where the practice actually accumulates, in ten-second decisions nobody witnesses. A week away helps mainly with visibility, because the rooms and people that trained the discounting keep supplying the cues a dozen times a day and make the habit almost impossible to see. Treat a retreat as a place to see the pattern clearly, then expect the ordinary weeks to do the building."
+- a: By treating your own experience as information that counts, at the same rate
+    you already count other people's. In practice that means noticing what you feel
+    on the day you feel it, saying what you want in plain words, accepting help without
+    balancing the exchange, and letting your own reaction stand without auditing it
+    first. It functions as a capacity built by repetition rather than a feeling you
+    can summon on command.
+  q: How do you actually love yourself?
+- a: It means your own experience keeps counting on the days you are unimpressive,
+    late, unproductive, and plainly in the wrong. The condition being dropped is the
+    performance requirement. Your tiredness is real whether or not you earned it,
+    and your preference stands whether or not the week went well. The word points
+    at access rather than approval, so you can hold a low opinion of how last month
+    went and still treat your own report as true.
+  q: What does loving yourself unconditionally actually mean?
+- a: Because most versions of it ask you to produce a warm verdict about yourself
+    while nothing inside you is actually being consulted. Saying a kind sentence at
+    a mirror requires no noticing, no naming, and no acting on what you find, so the
+    older habit of discounting yourself carries on underneath undisturbed. The fake
+    feeling is accurate. Something is being performed rather than practiced, and a
+    smaller, duller move works better.
+  q: Why does self love feel fake when I try it?
+- a: Three ordinary checks answer it quickly. When somebody asks where you want to
+    eat, does a real preference arrive within a few seconds, or only a scan of what
+    they might want? When somebody praises your work, can you say thank you and add
+    nothing? When you are tired at four in the afternoon, does that count as a reason
+    to stop? A blank on all three is the answer.
+  q: How do I know whether I love myself or not?
+- a: 'Yes, and belief is not the entry point. Start where believing is not required:
+    notice one thing you want today and say it out loud, take one compliment without
+    deflecting it, let one small preference stand. Those repetitions work whether
+    or not you agree with them at the time. The warmth tends to arrive months later,
+    after enough evidence has accumulated that the old ruling stops sounding obvious.'
+  q: Is it possible to love yourself if you have hated yourself for as long as you
+    can remember?
+- a: Because in the environment where this was learned, attention flowing toward you
+    had a cost attached, usually somebody else's disappointment. The guilt is a trained
+    signal that you have broken a rule about whose needs come first, and it fires
+    long after the rule stopped applying. It reliably shows up in the first weeks
+    of changing this, and it fades with repetition rather than with argument.
+  q: Why do I feel guilty when I put myself first?
+- a: No, and plenty of people love others well while giving themselves nothing. What
+    changes once your own experience starts counting is the quality of what you give,
+    because affection routed through a ledger arrives with an invoice attached even
+    when nobody intended one. You can care for people generously today. Doing it without
+    quietly keeping score is the part that improves when you stop leaving yourself
+    off the list.
+  q: Do you have to love yourself before you can love somebody else?
+- a: 'No, and that line has caused a lot of unnecessary waiting. Plenty of people
+    are loved well while they still discount every bit of it. What is true is narrower:
+    care that arrives cannot land if there is no capacity to register it, so a good
+    partner can supply affection for years without it closing the gap. Both things
+    can be built at once, and neither has to wait for the other.'
+  q: Do I have to love myself before somebody else can love me?
+- a: Arrogance rates you above other people and needs an audience to keep the rating
+    current. Counting your own experience needs no comparison at all, because it is
+    about whether your own report registers as real, not about where you rank. The
+    practical difference shows up in how somebody handles being wrong. Arrogance defends
+    the rating. Somebody with steady regard for themselves can look straight at a
+    mistake.
+  q: What is the difference between loving yourself and being arrogant?
+- a: They are different systems and they come apart often. Confidence is a prediction
+    that you can handle a particular thing, built out of evidence that you have handled
+    it before. Counting your own experience is about whether your own report registers
+    as real at all. Plenty of visibly capable people run a meeting with nothing to
+    prove and go home unable to say what they want for dinner. Capability was never
+    the missing piece.
+  q: Is confidence the same as loving yourself?
+- a: 'Because a compliment asks you to accept a verdict you privately disagree with,
+    and the fastest way out of that discomfort is to reject it. The reply arrives
+    almost word for word in people who share this pattern: they are just saying that,
+    they do not really mean it. Watch for the joke, the correction, or the favor returned
+    that same evening. All three are the same exit.'
+  q: Why do compliments make me uncomfortable?
+- a: By building a second source of the same information, because the approval is
+    doing a real job and cannot simply be switched off. It tells you whether you are
+    acceptable, and that reading has to come from somewhere. Start supplying your
+    own first. Finish a piece of work and write down whether you think it was any
+    good before anybody sees it. Being right about your own work twenty times is what
+    loosens the need.
+  q: How do you stop needing everybody else's approval?
+- a: Separate the regard from the review. You can hold a low opinion of how last year
+    went and still count your own tiredness, your own preferences and your own reactions
+    as real. Liking yourself is a feeling that comes and goes. Counting yourself is
+    an administrative decision you make repeatedly, and it works on the days you are
+    unimpressed with yourself, which are the days it matters.
+  q: How do I love myself when I genuinely do not like who I am right now?
+- a: Yes, and the wanting usually gets cleaner. Effort built on self-rejection has
+    one part of you fighting the starting point while the rest tries to move, which
+    is expensive and rarely lasts past March. Once your own regard stops being withdrawn
+    as a penalty, what remains is a plain preference for something to be different,
+    and preferences turn out to be steadier engines than contempt.
+  q: Can you love yourself and still want to change things about yourself?
+- a: 'Write down the exact sentence you used to do the dismissing. It is usually short
+    and familiar: it is not a big deal, other people have it worse, I am being dramatic.
+    Then say the plain version instead, once, out loud or on paper: I am tired, that
+    stung, I did not want to go. Nothing else is required. The catching and the naming
+    are the whole repetition.'
+  q: What do I do the moment I catch myself dismissing my own feelings?
+- a: Five that build the capacity rather than five that feel pleasant for an evening.
+    Give one honest answer a day to how are you. Name a preference out loud before
+    you have worked out what anybody else wants. Accept one compliment and add nothing
+    after thank you. Write down the exact sentence you use to dismiss your own reaction.
+    Finish one task because you are done rather than because it is.
+  q: What are 5 ways to love yourself?
+- a: 'No fixed seven exists, and the sequence matters far more than the count. It
+    runs on three moves that repeat: notice what is happening in you, give it a word
+    on the day it happens, then let that word change one small decision. Everything
+    sold as step four onward is a variation on the third move. If a list of seven
+    helps you start, use it, and judge it by whether your own report changed anything
+    this week.'
+  q: What are the 7 steps to loving yourself?
+- a: The number moves depending on who wrote the list, which is a fair sign that the
+    count is decoration. One move repeated ten times will shift this further than
+    ten moves attempted once. Pick the smallest item on any list you find, usually
+    stating a preference or taking a compliment cleanly, and run it daily for a month.
+    A short practice you finish beats a thorough program you abandon in week two.
+  q: What are 10 steps to loving yourself?
+- a: Parts of it become automatic and parts stay deliberate. Noticing what you want
+    and taking a compliment tend to stop requiring effort after a year or two of ordinary
+    practice. The deeper reflex, the one that discounts your own experience under
+    pressure, gets quieter and still shows up during a hard week. Most people find
+    the gap between the reflex and their response widens rather than the reflex disappearing.
+  q: Does this ever become automatic, or is it something you manage forever?
+- a: Selfishness treats other people's experience as though it does not count. What
+    this page describes adds your own experience back to a list you were already keeping
+    for everybody else, which is a different operation. The reliable test is what
+    happens to the people around you. Somebody genuinely counting themselves usually
+    becomes easier to be close to, because less resentment is being stored and fewer
+    favors are being quietly invoiced.
+  q: Is self love just selfishness with better marketing?
+- a: 'Keep whatever you actually enjoy, and stop expecting it to do a job it cannot
+    do. A bath is a pleasant hour. It does not build the capacity to notice you were
+    exhausted three weeks before you booked it. Pair those things with one repetition
+    that requires you to register something: say what you want at dinner, take a compliment,
+    stop when you are done rather than when the task is.'
+  q: Should I keep doing the baths, the journal and the gym if none of it is working?
+- a: A good one moves the seeing, and none of them move the doing. The names that
+    come up most often are Louise Hay and Teal Swan, and either can put words on something
+    you have carried for years without language for it, which is worth a great deal.
+    What no book does is run the repetition for you. Read one, keep the two lines
+    that landed, then spend a month saying out loud what you want.
+  q: Will a book about loving yourself actually help?
+- a: 'With preferences, because they are the lowest stakes version of the same skill.
+    For one week, answer every small question with an actual answer: which restaurant,
+    which film, which side of the bed, how warm the room should be. You are not deciding
+    anything important. You are practicing the act of consulting yourself and finding
+    that something is there, which is the input everything else runs on.'
+  q: Nobody ever taught me any of this. Where does somebody with no starting point
+    begin?
+- a: By putting your own report back into the ordinary decisions, which is where it
+    went missing. Answer the question about the film with your actual answer. Say
+    when a remark landed badly, on the day it landed. Ask for the thing you want without
+    three supporting reasons attached. None of that requires a conversation about
+    the relationship itself. It changes the small traffic, and the small traffic is
+    most of what a relationship runs on.
+  q: How do you love yourself while you are in a relationship?
+- a: Usually it means the system around you is adjusting, which is normal and uncomfortable.
+    People got used to a version of you that never needed anything, and a small no
+    or a stated preference changes what they can expect. Watch what happens over a
+    few months rather than a few days. Discomfort that settles into something more
+    honest is one outcome. Sustained pressure to go back is worth taking seriously.
+  q: My partner says I have changed since I started this. Is that a bad sign?
+- a: Slowly, and by separating two things that arrive together. The grief is about
+    losing a person and it deserves real time. The verdict about yourself that got
+    attached to being left is a separate item, and it usually borrows the breakup
+    as proof of something you already suspected. Handle them apart. Feel the loss
+    on its own terms, and treat the verdict as a claim to be tested rather than a
+    fact you now own.
+  q: How do you start loving yourself again after a breakup?
+- a: 'Start with the arithmetic rather than the feeling. A stretch with nobody close
+    by is a real shortage of circumstances, and it will keep presenting itself as
+    a verdict on you. Run the small repetitions anyway, since they work with no audience
+    at all: say what you want at dinner alone, stop when you are tired, book the appointment.
+    Then treat the isolation as its own problem, separate and worth solving directly.'
+  q: How do you love yourself when nobody else seems to?
+- a: Because company has been doing a job you never noticed it doing. With somebody
+    else in the room there is a reaction to read and a preference to serve, so the
+    question of what you want never has to come up. Alone, nothing supplies the agenda
+    and the blank turns up on its own. A free evening starts reading as a free evening
+    once enough of them have passed without being filled.
+  q: Why is being alone so uncomfortable when you are supposed to enjoy your own company?
+- a: 'The mechanism is identical and the training usually differs. Men more often
+    arrive at this through output, where the work is measurable and the internal state
+    has no vocabulary attached to it at all. The practice is the same, and the first
+    move is usually smaller: name one internal state a day, in one word, to yourself,
+    before anybody asks. Most of the difficulty sits in the naming rather than in
+    any shortage of courage.'
+  q: Is loving yourself different for men?
+- a: The verse people reach for is love your neighbor as yourself, which appears in
+    Leviticus and is repeated by Jesus in Matthew and Mark. It uses the care you give
+    yourself as the measuring stick for how you treat everybody else. Ephesians makes
+    a similar assumption when it says nobody ever hated their own body. Read plainly,
+    both treat regard for yourself as the baseline, which sits oddly against how the
+    phrase usually gets preached.
+  q: What does the Bible say about loving yourself?
+- a: Shrink the repetitions until they fit the energy you actually have, and get the
+    depression itself assessed by a licensed professional rather than trying to practice
+    around it. On a flat day the whole practice can be one honest three-word answer
+    when somebody asks how you are, and that still counts. Expect the noticing to
+    be harder, since low mood flattens the signal you are trying to catch. Nothing
+    here substitutes for proper care.
+  q: How do you love yourself when you are depressed?
+- a: Ordinary harshness flares after a mistake and loosens once the situation is understood.
+    Persistent hopelessness that will not lift, numbness that stays whatever you try,
+    an inability to get through normal days, an eating pattern that has taken over,
+    or any thought of harming yourself belongs with a licensed professional rather
+    than a self-directed practice. If you cannot tell which side you are on, treat
+    that uncertainty as the answer.
+  q: How do I tell ordinary self criticism apart from something that needs a professional?
+- a: Walking away sits downstream of counting yourself, which is why advice to leave
+    rarely lands on somebody who cannot yet name what they want for dinner. Build
+    the small end first. Once your own report counts in ordinary decisions, the large
+    decision tends to make itself, because the evidence has usually been visible for
+    a while. Where somebody is controlling or frightening you, that is a safety question
+    and it goes to people who handle safety.
+  q: How do you love yourself enough to walk away from something?
+- a: Both, in different ways. Home is where the practice actually accumulates, in
+    ten-second decisions nobody witnesses. A week away helps mainly with visibility,
+    because the rooms and people that trained the discounting keep supplying the cues
+    a dozen times a day and make the habit almost impossible to see. Treat a retreat
+    as a place to see the pattern clearly, then expect the ordinary weeks to do the
+    building.
+  q: Can a week away help with this, or is it something you can only do at home?
+intent: research
+metaDescription: Loving yourself means counting your own experience at the rate you
+  count everyone else's. Why affirmations bounce off, and the repetitions that move
+  it.
+metaTitle: How Do You Actually Love Yourself?
+primaryQuestion: How do you actually love yourself?
 related:
 - /insights/how-to-love-yourself/
 - /insights/root-cause-of-low-self-esteem/
 - /insights/what-is-self-compassion/
-- /patterns/what-is-people-pleasing/
-- /retreats/personal-development-retreat/
+- /patterns/what-does-my-earliest-memory-mean/
+- /patterns/why-does-working-on-myself-make-it-worse/
+shortTitle: How to Love Yourself
+title: How Do You Actually Love Yourself? The Capacity Underneath a Worn Out Phrase
 ---
 
 # How do you actually love yourself?
@@ -102,7 +265,7 @@ Skip the phrase for a moment and read the sentences underneath it, because one o
 
 Sentences like these are why your own tiredness goes straight to an audit while a colleague's is believed on the spot.
 
-[How the seminar works with the habit of counting everybody except yourself](/seminar/)
+[How the seminar works with the habit of counting everybody except yourself](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 Somebody asks where you want to eat. You say you do not mind, and you are telling the truth, because the question went to a part of you that has not been keeping records. Ten seconds later you have a clear opinion about which place they would probably enjoy most, and that opinion arrived instantly, fully formed, with no effort at all.
@@ -178,7 +341,7 @@ The same holds if the discounting is being enforced by somebody. If warmth at ho
 
 From an environment where your experience reliably did not change what happened next.
 
-The formation happens without ceremony and usually without a memorable scene. What was learned was a deficit condition rather than an assault: warmth, attention and acknowledgement were absent, inconsistent, or available on conditions. The words people reach for when they finally describe it are emotional deprivation, feeling emotionally starved, and a sense of having been emotionally invisible in their own house. A child whose emotional presence simply went unregistered has nothing dramatic to remember, which is exactly why so many people in this pattern describe their childhood as fine and mean it completely.
+The formation happens without ceremony and usually without a memorable scene. What was learned was a deficit condition rather than an assault: warmth, attention and acknowledgment were absent, inconsistent, or available on conditions. The words people reach for when they finally describe it are emotional deprivation, feeling emotionally starved, and a sense of having been emotionally invisible in their own house. A child whose emotional presence simply went unregistered has nothing dramatic to remember, which is exactly why so many people in this pattern describe their childhood as fine and mean it completely.
 
 Something specific follows from that. If reporting a feeling never changed the room, the efficient adaptation is to stop generating the report. The registering step gets switched off first, because it is expensive to notice something that goes nowhere. Then the naming goes, because there is nothing to name. What is left as an adult is somebody genuinely skilled at reading other people and genuinely blank about themselves.
 
@@ -194,7 +357,7 @@ The strategy is reasonable on its face. If affection came attached to being usef
 
 The breakdown sits on the receiving side. Care arrives at a person whose registering step was switched off decades ago, so it comes in and does not land, and the deficit reads as unchanged. That is why chronic dissatisfaction shows up inside genuinely good relationships and confuses everybody involved, including the person feeling it. The sentence people use for that is almost unbearable in its plainness: "Even when they love me, I feel overlooked and secondary."
 
-There is a second cost to the earning strategy. It converts every relationship into a ledger. You know exactly what you have given, you know it is more than what came back, and resentment accumulates quietly underneath behaviour that looks entirely generous from the outside. [The version of this that runs on saying yes has its own page](/patterns/what-is-people-pleasing/), and it is the same machinery pointed at a different target.
+There is a second cost to the earning strategy. It converts every relationship into a ledger. You know exactly what you have given, you know it is more than what came back, and resentment accumulates quietly underneath behavior that looks entirely generous from the outside. [The version of this that runs on saying yes has its own page](/patterns/what-is-people-pleasing/), and it is the same machinery pointed at a different target.
 
 ## Why Is Receiving Harder Than Giving?
 
@@ -231,12 +394,12 @@ They look similar from outside and serve completely different masters, so it is 
 
 | What it looks like | What it actually serves | The honest test |
 |---|---|---|
-| Self-indulgence: the second bottle, the cancelled plan, the purchase you will feel odd about | Ending tonight's discomfort, with tomorrow arriving carrying the same problem | Ask on Thursday morning whether Wednesday night's choice served the person you will be in a week |
+| Self-indulgence: the second bottle, the canceled plan, the purchase you will feel odd about | Ending tonight's discomfort, with tomorrow arriving carrying the same problem | Ask on Thursday morning whether Wednesday night's choice served the person you will be in a week |
 | Self-improvement run on self-rejection: the course, the diet, the fifth productivity system | The belief that the current version of you is not acceptable yet | Notice whether the effort survives a bad week, or whether one missed day collapses the whole thing |
 | Withdrawal branded as protecting your peace: cutting people off, going quiet, keeping everyone at a fixed distance | Avoiding the exposure of being known, while sounding like a boundary | Ask whether the distance is chosen once and stable, or restored every time somebody gets close |
 | Counting your own experience: noticing, naming, and acting on what is actually true in you | Building the capacity that all three of the above are standing in for | Ask whether your own report changed a decision this week, in any small way |
 
-The row people confuse most is the second one. Self-improvement is where this pattern hides most comfortably, because it is socially admirable, it feels like progress, and it can run for a decade without ever asking whether the person doing it counts. Somebody can read forty books about themselves and still not know they wanted an early night. [Understanding where a behaviour came from is what actually dissolves contempt for it](/insights/what-is-self-compassion/), and understanding tends to be the faster route in when warmth refuses to arrive by request.
+The row people confuse most is the second one. Self-improvement is where this pattern hides most comfortably, because it is socially admirable, it feels like progress, and it can run for a decade without ever asking whether the person doing it counts. Somebody can read forty books about themselves and still not know they wanted an early night. [Understanding where a behavior came from is what actually dissolves contempt for it](/insights/what-is-self-compassion/), and understanding tends to be the faster route in when warmth refuses to arrive by request.
 
 ## Can Somebody Else Love You Into It?
 
@@ -258,7 +421,7 @@ Each line of this has two ends, and a page that stops after describing the painf
 |---|---|---|
 | Self-invalidation | Self-affirmation | You are annoyed about the email, and you do not talk yourself out of it before you have finished feeling it |
 | Emotional self-neglect | Emotional self-care | You stop at four because you are done, rather than when the task is done |
-| Denial of emotional needs | Acknowledgement of needs | You ask for the phone call you want, in plain words, with no supporting reasons attached |
+| Denial of emotional needs | Acknowledgment of needs | You ask for the phone call you want, in plain words, with no supporting reasons attached |
 | Skepticism of compliments | Acceptance of compliments | Somebody says the work was good and you say thank you and add nothing |
 | Dependence on external validation | Self-validation | You finish something and already know whether it was any good before anybody tells you |
 | Difficulty prioritising yourself | Ease in prioritising yourself | The appointment gets booked in work hours and nobody is owed an explanation |
@@ -278,7 +441,7 @@ Don't judge yourself if the right-hand column currently reads as slightly out of
 
 By running repetitions small enough that you will actually complete them, in places where the stakes are almost nothing.
 
-1. **Answer one question accurately every day.** "How are you" gets a real three-word answer once a day, with somebody safe, on a low-stakes afternoon. Tired and a bit flat is an answer. Fine is a placeholder you both recognise.
+1. **Answer one question accurately every day.** "How are you" gets a real three-word answer once a day, with somebody safe, on a low-stakes afternoon. Tired and a bit flat is an answer. Fine is a placeholder you both recognize.
 2. **State one preference out loud.** Which restaurant, which film, which side of the bed, how warm the room should be. The target is frequency rather than importance, because the capacity being built is the route from consulting yourself to saying the result, and that route gets built by traffic.
 3. **Take one compliment cleanly.** Thank you, nothing added. No joke, no correction, no favor returned that evening. Expect it to feel physically uncomfortable for the first dozen repetitions.
 4. **Log the discount.** Every time you catch yourself dismissing your own reaction, write down the exact sentence you used. It is not a big deal. Other people have it worse. I am being dramatic. Seeing the same four sentences repeat in your own handwriting does more than any amount of reading about the subject.
@@ -319,4 +482,4 @@ Run a three-day counting log. Open a note on your phone. Every time somebody ask
 
 Then read the list on the third night. Most people are startled by the ratio, and either result is useful. A page where the two columns mostly match tells you the capacity is more intact than you feared, and the problem is somewhere else. A page where they almost never match hands you the specific places the discounting happens, in your own words, which is far more workable than the general feeling that something is wrong with you. It costs three days of noticing and nothing else.
 
-If what draws you is the capacity rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around this exact material: a proper screening conversation before anybody is accepted, a cap low enough that the person who spends a week asking everybody else questions gets noticed doing it, and structured work on the weeks after you fly home rather than a warm goodbye on the last morning. The honest limitation is that dates, price, and the final group size cap are still being finalised, so anybody choosing between programs on those numbers today cannot yet include ours in the comparison. Put these same questions to any program you are weighing, ours included, and go with whichever one answers them properly. Feel into it and find out for yourself. Three days spent noticing what you actually wanted is rarely wasted, whatever you decide about anything else.
+If what draws you is the capacity rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this exact material: a proper screening conversation before anybody is accepted, a cap low enough that the person who spends a week asking everybody else questions gets noticed doing it, and structured work on the weeks after you fly home rather than a warm goodbye on the last morning. The honest limitation is that dates, price, and the final group size cap are still being finalised, so anybody choosing between programs on those numbers today cannot yet include ours in the comparison. Put these same questions to any program you are weighing, ours included, and go with whichever one answers them properly. Feel into it and find out for yourself. Three days spent noticing what you actually wanted is rarely wasted, whatever you decide about anything else.

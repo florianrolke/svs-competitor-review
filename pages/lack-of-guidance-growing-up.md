@@ -1,86 +1,243 @@
 ---
-title: "What Happens When Nobody Taught You How to Live? A Lack of Guidance Growing Up, and the Template That Was Never Handed Over"
-metaTitle: "What Happens When Nobody Taught You How to Live?"
-shortTitle: "Lack of Guidance"
-description: "A lack of guidance growing up leaves an adult with no internal template for deciding, prioritizing, or leading. Why you can be excellent at work and adrift everywhere else, why not deciding feels safer than deciding, how to tell this apart from perfectionism, and what the resolved end looks like on an ordinary Wednesday."
-primaryQuestion: "What happens when nobody taught you how to live?"
-intent: research
-faqTitle: "Lack of Guidance Questions"
+description: A lack of guidance growing up leaves an adult with no internal template
+  for deciding, prioritizing, or leading. Why you can be excellent at work and adrift
+  everywhere else, why not deciding feels safer than deciding, how to tell this apart
+  from perfectionism, and what the resolved end looks like on an ordinary Wednesday.
+faqTitle: Lack of Guidance Questions
 faqs:
-- q: "What does a lack of guidance growing up actually mean?"
-  a: "It means reaching adulthood without an internal template for deciding, prioritizing, and setting your own direction, because nobody modeled how those things get done. In practice it shows up as strong performance inside any structure that supplies a scorecard, and a private sense of drift wherever no scorecard exists. The capacity is learnable at any age, and it gets built rather than discovered."
-- q: "Why do I feel lost as an adult when my life looks fine on paper?"
-  a: "Because the pattern is an absence rather than a visible failure, and absences do not show up on paper. A steady job, a decent relationship, and a functioning week can all coexist with having no internal reference point to check a decision against. The drift lives specifically in the areas nobody grades: evenings, friendships, health, and the question of what the next decade is supposed to contain."
-- q: "Why am I confident at work but completely lost in my personal life?"
-  a: "A job hands you the structure that was missing, on the first day. A role description, a manager, deadlines, and metrics do the exact work an internal compass would do, telling you what to aim at and how you will know you got there. Someone who never built the internal version can run the external one beautifully. The drift starts precisely where the scaffolding stops."
-- q: "Why can't I make decisions on my own?"
-  a: "Because a decision you never fully made can never be fully blamed on you, and that protection works. If the direction came from someone else, the direction going wrong belongs to them too. The cost is quiet: every outsourced decision is a decision that generates no evidence about your own judgment, so the years accumulate and the self-trust does not."
-- q: "Why do I always need someone to tell me what to do?"
-  a: "Because looking outward for direction was a working strategy in an environment where no internal compass was ever modeled. Deferring is fast, it is safe, and it reliably produces an answer. What it cannot do is produce a track record. Reducing it usually starts small: form your own view on something first, then ask, so the input informs the call instead of making it."
-- q: "What is the difference between a lack of guidance and perfectionism?"
-  a: "One question separates them. Ask what a great outcome would look like. Perfectionism gives a vivid, detailed answer it believes it cannot reach, so the fear is falling short of a bar it can picture. A lack of guidance produces a pause and a shrug, because no bar was ever set. Both cause procrastination and self-doubt, and they respond to opposite kinds of help."
-- q: "Is this an actual pattern, or am I just lazy?"
-  a: "Laziness would show up everywhere. This shows up selectively, and the selectivity is the giveaway: real drive and real output inside a structure that supplies direction, and stalling in the areas where direction has to come from you. That is a missing skill rather than a missing work ethic, and skills respond to practice in a way character verdicts never do."
-- q: "Why do I feel like a fraud the moment I'm put in charge?"
-  a: "Because authority removes the last person you could hand the decision to. The promotion, the new baby, the project whose owner just left: your competence has not changed, but the room no longer contains anyone to defer to. The gap between how qualified you look on paper and how equipped you feel in the chair does not close by collecting more qualifications, because qualifications were never the missing piece."
-- q: "Why do I avoid leadership roles even when I'm qualified?"
-  a: "Stepping into unclaimed authority means owning outcomes alone, with nobody above you to absorb a bad call. Declining looks like modesty from outside and functions as protection from inside. Each individual refusal is easy to justify, which is why the pattern can run for a decade before anyone notices that the reasons keep changing and the answer never does."
-- q: "Why do I copy other people's routines and life plans instead of making my own?"
-  a: "A borrowed structure comes with a promise that a blank page cannot make: somebody else already checked that it works. Copying also removes authorship, so a plan that fails was a bad plan rather than a bad you. The tell is what happens next. Learning from a model means adapting it within weeks. Leaning on one means keeping it intact past its usefulness, then swapping it whole."
-- q: "Why does not having a clear plan stress me out so much?"
-  a: "Because structure was never modeled as something you build yourself, so its absence reads as danger rather than as open space. An unscheduled week, an undefined project, or a job with no obvious next rung all remove the handrail this pattern relies on. The discomfort is real and it is also trainable, usually by starting with small unstructured blocks you deliberately give a shape to."
-- q: "Why can't I figure out what I actually want from my career?"
-  a: "Because should has been practiced daily for decades and want has been asked roughly never, and a question that never gets asked stops producing an answer. Most people in this pattern have a fluent response to what they ought to do and a complete blank on what they would choose. Restarting works better from small questions, like what you want to eat tonight, than from large ones."
-- q: "Why do I feel unsupported even when people around me would help if I asked?"
-  a: "The felt sense of being alone in a decision does not track who is actually available. It tracks whether support was ever experienced as something reliably there. So a person surrounded by willing friends and competent colleagues can still carry every choice privately, ask for nothing, and conclude from the silence that nobody is backing them. Asking directly, once, tends to be more informative than another month of inferring."
-- q: "Why do I feel invisible or overlooked at work?"
-  a: "Because credit follows visible calls, and this pattern avoids making them. Someone who defers the decision, builds consensus, and lets the plan emerge rarely gets named as the person behind the outcome. The lack of recognition then feeds the belief that you are not leadership material, which makes the next visible call less likely. The loop is self-sealing and it opens from the inside."
-- q: "Why do I avoid confrontation even when I know I should speak up?"
-  a: "Because confrontation requires holding a position under pressure, and holding a position assumes you trust the position. Without that trust, the safer move is to route around the conflict and hope the situation resolves itself. It usually does not. It compounds, and arrives later as something larger. Raising things at normal volume while they are still small is the practice that changes this, and it feels worse than avoiding does."
-- q: "Can you build direction later in life if you never had it growing up?"
-  a: "Yes, and it happens through accumulated evidence rather than insight. Self-trust is built from decisions made and lived with, including the ones that went badly, which means it moves at the speed of real choices with real outcomes. Recognition of the pattern usually takes weeks. Trusting your own judgment takes considerably longer, and it grows steadily once decisions start getting made and recorded."
-- q: "Is a lack of guidance an official diagnosis or just a description?"
-  a: "It is a description of a pattern rather than a clinical label, and nobody will assess you for it or write it on a chart. What the phrase names is an absence of modeling: deciding, prioritizing, and setting direction were never demonstrated in front of you, so the internal version never got built. That framing matters practically, because a missing skill responds to deliberate practice in a way a diagnosis never promises to."
-- q: "Can a lack of guidance in life come from a happy childhood?"
-  a: "Yes, and it commonly does. A home can be affectionate, stable, and free of any incident worth remembering while still never showing a decision made out loud, a priority chosen between two good options, or a disagreement survived in the same room. Warmth and modeling are separate provisions, and a child gets whichever ones were actually available. Most people carrying this describe their upbringing as good, and they are usually right about that."
-- q: "What is the difference between guidance and being told what to do?"
-  a: "Guidance shows you how a call gets reached. Instruction delivers the call and keeps the method out of sight. That is why a childhood full of orders can leave the same blank as one where nobody steered at all, since in both cases deciding was never demonstrated as something a person does. If your upbringing was highly directive, expect real competence at following and a strange blankness at choosing."
-- q: "Why do I put off decisions that have no obviously right answer?"
-  a: "Because a choice with a correct answer only needs research, while a choice between two reasonable options needs an owner. Delaying looks like diligence from outside and works as an exit from authorship from inside. The practical move is to turn the decision into a trial: pick either option for four weeks, put a review date in the calendar, and let real information settle what further thinking has never once settled."
-- q: "Why do I feel powerless when nobody is telling me what to do?"
-  a: "Because the absence of direction registers as an absence of options, even when nothing external is holding the decision shut. Helplessness is simply what missing structure feels like from the inside. The test is small and slightly annoying: name one action you could take this week that nobody is stopping you from taking. There is almost always one, and taking it shifts the feeling further than working out where it came from."
-- q: "Why do I need someone to approve a decision before I trust it?"
-  a: "Because approval has been standing in for evidence. With no record of your own calls turning out well, somebody else's agreement is the only thing that makes a decision feel safe, so you go looking for it every time, including on calls you have already made privately. Building the record changes this: decide, write down what you expect to happen, and read it back a month later. Agreement then works as input rather than as a permission slip."
-- q: "Why do I feel unprepared for things I am objectively ready for?"
-  a: "Because readiness is being measured against an internal standard that was never set, so no quantity of qualifications can register as enough. The feeling tracks the missing reference point rather than your actual capability. A useful counter is to write down, before the thing happens, what would count as handling it acceptably. A bar you set yourself is one you can actually clear, and clearing it a few times is what starts to register."
-- q: "Why do I resist changes I know would be good for me?"
-  a: "Because change removes the handrail, and this pattern leans on the handrail more than on the current arrangement being any good. The unknown supplies no scorecard, no obvious next step, and nobody to check with, which is how an objectively better option still feels worse to walk toward. Making the change smaller helps: a trial period, a reversible version, a date to review it, anything that keeps the exit visible while you go."
-- q: "Why do I feel like a different person in different parts of my life?"
-  a: "Because a set of borrowed structures does not add up to one person. Run a manager's style at work, a partner's preferences at home, and a friend's plan at the weekend, and each version holds together on its own while nothing connects them. What joins them is having stated a few things you actually value and letting those settle the close calls in every setting. Feeling coherent arrives as a byproduct of that rather than as a project of its own."
-- q: "Why do I feel out of sync with my team or my family?"
-  a: "Because being present without ever setting terms leaves you adjacent to a group rather than inside it. If you rarely propose the plan, name a preference, or push back, other people experience you as agreeable and hard to know, and you experience the group as somewhere you visit. One stated preference a week changes this faster than any amount of trying to feel more connected."
-- q: "What kind of guidance actually helps someone who never had any?"
-  a: "The kind that makes the process visible instead of supplying the answer. Somebody who thinks out loud in front of you, names the two options they weighed, says which one they picked and why, then tells you a month later how it turned out, teaches more in an afternoon than a year of instructions. Watching a call get made hands over the method, and the method is the part that went missing."
-- q: "How do I ask for guidance without handing over the decision?"
-  a: "Form your own view first, in writing, before the conversation starts. Then ask one person to react to your call rather than to make it. The wording does most of the work: 'here is what I am leaning toward and why, what am I missing' keeps authorship with you, while 'what should I do' transfers it in five words. Cap the input at one or two people, then decide inside the same week."
-- q: "What does it actually mean to build an internal compass?"
-  a: "It means holding a small set of things you have decided you value, written plainly enough to settle a close call without consulting anybody. Five or six lines you would still defend on a bad day, closer to a working document than to a life philosophy. The test is functional: two decent options want the same evening, something in you knows which one loses, and you can say out loud why."
-- q: "What are the 7 basic life skills?"
-  a: "Lists vary, and the set that matters here is the one no classroom hands over: making a decision under uncertainty, setting a standard where none exists, choosing between two good options, holding a position in a disagreement, asking for input without giving away the call, running a trial instead of committing, and reviewing a choice afterward so it teaches you something. Each is trainable, and they tend to be missing together."
-- q: "What are the five lessons of life?"
-  a: "There is no agreed list, and any page that hands you one is guessing. What is worth having, if nobody modeled these for you, is smaller and duller than a list of lessons: decisions improve with repetition, most of them are more reversible than they feel, other people's plans need editing before they fit, wanting fades as a capacity when it goes unconsulted, and a record of your own calls beats an opinion about yourself."
-- q: "What is one thing that life has taught you?"
-  a: "That being good at your job and knowing what you want are separate skills, and one of them can carry a career for twenty years while the other stays untouched. I built the first for a long time and assumed the second would follow along behind it. It did not, and it only started moving once I decided small things deliberately and kept a record of how they actually turned out."
-- q: "What is the biggest lesson you have learned in life?"
-  a: "That the person who is supposed to be in charge never arrives. For years I assumed the adult in the room was somebody else and that clarity would eventually be handed over. It gets built instead, out of ordinary calls made at roughly seventy percent confidence and lived with afterward, and the building is slow enough that most people give up before enough evidence accumulates to feel different."
-- q: "When should this be worked on with a professional instead of alone?"
-  a: "When the flatness has lasted months, when things you used to enjoy have stopped registering, when a hopelessness will not lift, or when there has been any thought of harming yourself, however brief. Speak with a doctor or a licensed therapist and treat that as more important than any self-directed practice. The same holds alongside an addiction or a diagnosed condition you are currently managing."
+- a: It means reaching adulthood without an internal template for deciding, prioritizing,
+    and setting your own direction, because nobody modeled how those things get done.
+    In practice it shows up as strong performance inside any structure that supplies
+    a scorecard, and a private sense of drift wherever no scorecard exists. The capacity
+    is learnable at any age, and it gets built rather than discovered.
+  q: What does a lack of guidance growing up actually mean?
+- a: 'Because the pattern is an absence rather than a visible failure, and absences
+    do not show up on paper. A steady job, a decent relationship, and a functioning
+    week can all coexist with having no internal reference point to check a decision
+    against. The drift lives specifically in the areas nobody grades: evenings, friendships,
+    health, and the question of what the next decade is supposed to contain.'
+  q: Why do I feel lost as an adult when my life looks fine on paper?
+- a: A job hands you the structure that was missing, on the first day. A role description,
+    a manager, deadlines, and metrics do the exact work an internal compass would
+    do, telling you what to aim at and how you will know you got there. Someone who
+    never built the internal version can run the external one beautifully. The drift
+    starts precisely where the scaffolding stops.
+  q: Why am I confident at work but completely lost in my personal life?
+- a: 'Because a decision you never fully made can never be fully blamed on you, and
+    that protection works. If the direction came from someone else, the direction
+    going wrong belongs to them too. The cost is quiet: every outsourced decision
+    is a decision that generates no evidence about your own judgment, so the years
+    accumulate and the self-trust does not.'
+  q: Why can't I make decisions on my own?
+- a: 'Because a mentor promises the thing that was missing, which is somebody who
+    has already worked out what good looks like. The search is genuinely useful and
+    it also postpones the part that builds a compass, which is making a call and finding
+    out what happens. A workable compromise: pick the smallest live decision you are
+    stalling on, decide it this week, and take the mentor question to what happened
+    afterward.'
+  q: Why do I keep looking for a mentor instead of just starting?
+- a: One question separates them. Ask what a great outcome would look like. Perfectionism
+    gives a vivid, detailed answer it believes it cannot reach, so the fear is falling
+    short of a bar it can picture. A lack of guidance produces a pause and a shrug,
+    because no bar was ever set. Both cause procrastination and self-doubt, and they
+    respond to opposite kinds of help.
+  q: What is the difference between a lack of guidance and perfectionism?
+- a: 'Laziness would show up everywhere. This shows up selectively, and the selectivity
+    is the giveaway: real drive and real output inside a structure that supplies direction,
+    and stalling in the areas where direction has to come from you. That is a missing
+    skill rather than a missing work ethic, and skills respond to practice in a way
+    character verdicts never do.'
+  q: Is this an actual pattern, or am I just lazy?
+- a: 'Because authority removes the last person you could hand the decision to. The
+    promotion, the new baby, the project whose owner just left: your competence has
+    not changed, but the room no longer contains anyone to defer to. The gap between
+    how qualified you look on paper and how equipped you feel in the chair does not
+    close by collecting more qualifications, because qualifications were never the
+    missing piece.'
+  q: Why do I feel like a fraud the moment I'm put in charge?
+- a: Stepping into unclaimed authority means owning outcomes alone, with nobody above
+    you to absorb a bad call. Declining looks like modesty from outside and functions
+    as protection from inside. Each individual refusal is easy to justify, which is
+    why the pattern can run for a decade before anyone notices that the reasons keep
+    changing and the answer never does.
+  q: Why do I avoid leadership roles even when I'm qualified?
+- a: 'A borrowed structure comes with a promise that a blank page cannot make: somebody
+    else already checked that it works. Copying also removes authorship, so a plan
+    that fails was a bad plan rather than a bad you. The tell is what happens next.
+    Learning from a model means adapting it within weeks. Leaning on one means keeping
+    it intact past its usefulness, then swapping it whole.'
+  q: Why do I copy other people's routines and life plans instead of making my own?
+- a: Because structure was never modeled as something you build yourself, so its absence
+    reads as danger rather than as open space. An unscheduled week, an undefined project,
+    or a job with no obvious next rung all remove the handrail this pattern relies
+    on. The discomfort is real and it is also trainable, usually by starting with
+    small unstructured blocks you deliberately give a shape to.
+  q: Why does not having a clear plan stress me out so much?
+- a: Because should has been practiced daily for decades and want has been asked roughly
+    never, and a question that never gets asked stops producing an answer. Most people
+    in this pattern have a fluent response to what they ought to do and a complete
+    blank on what they would choose. Restarting works better from small questions,
+    like what you want to eat tonight, than from large ones.
+  q: Why can't I figure out what I actually want from my career?
+- a: The felt sense of being alone in a decision does not track who is actually available.
+    It tracks whether support was ever experienced as something reliably there. So
+    a person surrounded by willing friends and competent colleagues can still carry
+    every choice privately, ask for nothing, and conclude from the silence that nobody
+    is backing them. Asking directly, once, tends to be more informative than another
+    month of inferring.
+  q: Why do I feel unsupported even when people around me would help if I asked?
+- a: Because credit follows visible calls, and this pattern avoids making them. Someone
+    who defers the decision, builds consensus, and lets the plan emerge rarely gets
+    named as the person behind the outcome. The lack of recognition then feeds the
+    belief that you are not leadership material, which makes the next visible call
+    less likely. The loop is self-sealing and it opens from the inside.
+  q: Why do I feel invisible or overlooked at work?
+- a: Because confrontation requires holding a position under pressure, and holding
+    a position assumes you trust the position. Without that trust, the safer move
+    is to route around the conflict and hope the situation resolves itself. It usually
+    does not. It compounds, and arrives later as something larger. Raising things
+    at normal volume while they are still small is the practice that changes this,
+    and it feels worse than avoiding does.
+  q: Why do I avoid confrontation even when I know I should speak up?
+- a: Yes, and it happens through accumulated evidence rather than insight. Self-trust
+    is built from decisions made and lived with, including the ones that went badly,
+    which means it moves at the speed of real choices with real outcomes. Recognition
+    of the pattern usually takes weeks. Trusting your own judgment takes considerably
+    longer, and it grows steadily once decisions start getting made and recorded.
+  q: Can you build direction later in life if you never had it growing up?
+- a: 'It is a description of a pattern rather than a clinical label, and nobody will
+    assess you for it or write it on a chart. What the phrase names is an absence
+    of modeling: deciding, prioritizing, and setting direction were never demonstrated
+    in front of you, so the internal version never got built. That framing matters
+    practically, because a missing skill responds to deliberate practice in a way
+    a diagnosis never promises to.'
+  q: Is a lack of guidance an official diagnosis or just a description?
+- a: Yes, and it commonly does. A home can be affectionate, stable, and free of any
+    incident worth remembering while still never showing a decision made out loud,
+    a priority chosen between two good options, or a disagreement survived in the
+    same room. Warmth and modeling are separate provisions, and a child gets whichever
+    ones were actually available. Most people carrying this describe their upbringing
+    as good, and they are usually right about that.
+  q: Can a lack of guidance in life come from a happy childhood?
+- a: Guidance shows you how a call gets reached. Instruction delivers the call and
+    keeps the method out of sight. That is why a childhood full of orders can leave
+    the same blank as one where nobody steered at all, since in both cases deciding
+    was never demonstrated as something a person does. If your upbringing was highly
+    directive, expect real competence at following and a strange blankness at choosing.
+  q: What is the difference between guidance and being told what to do?
+- a: 'Because a choice with a correct answer only needs research, while a choice between
+    two reasonable options needs an owner. Delaying looks like diligence from outside
+    and works as an exit from authorship from inside. The practical move is to turn
+    the decision into a trial: pick either option for four weeks, put a review date
+    in the calendar, and let real information settle what further thinking has never
+    once settled.'
+  q: Why do I put off decisions that have no obviously right answer?
+- a: 'Because the absence of direction registers as an absence of options, even when
+    nothing external is holding the decision shut. Helplessness is simply what missing
+    structure feels like from the inside. The test is small and slightly annoying:
+    name one action you could take this week that nobody is stopping you from taking.
+    There is almost always one, and taking it shifts the feeling further than working
+    out where it came from.'
+  q: Why do I feel powerless when nobody is telling me what to do?
+- a: 'Because approval has been standing in for evidence. With no record of your own
+    calls turning out well, somebody else''s agreement is the only thing that makes
+    a decision feel safe, so you go looking for it every time, including on calls
+    you have already made privately. Building the record changes this: decide, write
+    down what you expect to happen, and read it back a month later. Agreement then
+    works as input rather than as a permission slip.'
+  q: Why do I need someone to approve a decision before I trust it?
+- a: Because readiness is being measured against an internal standard that was never
+    set, so no quantity of qualifications can register as enough. The feeling tracks
+    the missing reference point rather than your actual capability. A useful counter
+    is to write down, before the thing happens, what would count as handling it acceptably.
+    A bar you set yourself is one you can actually clear, and clearing it a few times
+    is what starts to register.
+  q: Why do I feel unprepared for things I am objectively ready for?
+- a: 'Because change removes the handrail, and this pattern leans on the handrail
+    more than on the current arrangement being any good. The unknown supplies no scorecard,
+    no obvious next step, and nobody to check with, which is how an objectively better
+    option still feels worse to walk toward. Making the change smaller helps: a trial
+    period, a reversible version, a date to review it, anything that keeps the exit
+    visible while you go.'
+  q: Why do I resist changes I know would be good for me?
+- a: Because a set of borrowed structures does not add up to one person. Run a manager's
+    style at work, a partner's preferences at home, and a friend's plan on the weekend,
+    and each version holds together on its own while nothing connects them. What joins
+    them is having stated a few things you actually value and letting those settle
+    the close calls in every setting. Feeling coherent arrives as a byproduct of that
+    rather than as a project of its own.
+  q: Why do I feel like a different person in different parts of my life?
+- a: Because being present without ever setting terms leaves you adjacent to a group
+    rather than inside it. If you rarely propose the plan, name a preference, or push
+    back, other people experience you as agreeable and hard to know, and you experience
+    the group as somewhere you visit. One stated preference a week changes this faster
+    than any amount of trying to feel more connected.
+  q: Why do I feel out of sync with my team or my family?
+- a: The kind that makes the process visible instead of supplying the answer. Somebody
+    who thinks out loud in front of you, names the two options they weighed, says
+    which one they picked and why, then tells you a month later how it turned out,
+    teaches more in an afternoon than a year of instructions. Watching a call get
+    made hands over the method, and the method is the part that went missing.
+  q: What kind of guidance actually helps someone who never had any?
+- a: 'Form your own view first, in writing, before the conversation starts. Then ask
+    one person to react to your call rather than to make it. The wording does most
+    of the work: ''here is what I am leaning toward and why, what am I missing'' keeps
+    authorship with you, while ''what should I do'' transfers it in five words. Cap
+    the input at one or two people, then decide inside the same week.'
+  q: How do I ask for guidance without handing over the decision?
+- a: 'It means holding a small set of things you have decided you value, written plainly
+    enough to settle a close call without consulting anybody. Five or six lines you
+    would still defend on a bad day, closer to a working document than to a life philosophy.
+    The test is functional: two decent options want the same evening, something in
+    you knows which one loses, and you can say out loud why.'
+  q: What does it actually mean to build an internal compass?
+- a: 'Lists vary, and the set that matters here is the one no classroom hands over:
+    making a decision under uncertainty, setting a standard where none exists, choosing
+    between two good options, holding a position in a disagreement, asking for input
+    without giving away the call, running a trial instead of committing, and reviewing
+    a choice afterward so it teaches you something. Each is trainable, and they tend
+    to be missing together.'
+  q: What are the 7 basic life skills?
+- a: 'There is no agreed list, and any page that hands you one is guessing. What is
+    worth having, if nobody modeled these for you, is smaller and duller than a list
+    of lessons: decisions improve with repetition, most of them are more reversible
+    than they feel, other people''s plans need editing before they fit, wanting fades
+    as a capacity when it goes unconsulted, and a record of your own calls beats an
+    opinion about yourself.'
+  q: What are the five lessons of life?
+- a: That being good at your job and knowing what you want are separate skills, and
+    one of them can carry a career for twenty years while the other stays untouched.
+    I built the first for a long time and assumed the second would follow along behind
+    it. It did not, and it only started moving once I decided small things deliberately
+    and kept a record of how they actually turned out.
+  q: What is one thing that life has taught you?
+- a: That the person who is supposed to be in charge never arrives. For years I assumed
+    the adult in the room was somebody else and that clarity would eventually be handed
+    over. It gets built instead, out of ordinary calls made at roughly seventy percent
+    confidence and lived with afterward, and the building is slow enough that most
+    people give up before enough evidence accumulates to feel different.
+  q: What is the biggest lesson you have learned in life?
+- a: When the flatness has lasted months, when things you used to enjoy have stopped
+    registering, when a hopelessness will not lift, or when there has been any thought
+    of harming yourself, however brief. Speak with a doctor or a licensed therapist
+    and treat that as more important than any self-directed practice. The same holds
+    alongside an addiction or a diagnosed condition you are currently managing.
+  q: When should this be worked on with a professional instead of alone?
+intent: research
+metaDescription: Excellent at work and adrift everywhere else. What happens when nobody
+  hands over a template for deciding or leading, and how that template gets built
+  later.
+metaTitle: What Happens When Nobody Taught You How to Live?
+primaryQuestion: What happens when nobody taught you how to live?
 related:
 - /patterns/how-to-stop-being-a-perfectionist/
 - /patterns/unrealistic-parental-expectations/
 - /patterns/childhood-emotional-neglect/
 - /patterns/need-for-certainty/
-- /retreats/personal-development-retreat/
+- /patterns/why-am-i-confident-at-work-and-lost-at-home/
+shortTitle: Lack of Guidance
+title: What Happens When Nobody Taught You How to Live? A Lack of Guidance Growing
+  Up, and the Template That Was Never Handed Over
 ---
 
 # What happens when nobody taught you how to live?
@@ -102,7 +259,7 @@ This gap is easier to spot in your own phrasing than in any description of it, s
 
 Each of those quietly hands a call to somebody else, and ten years of them leaves you with no record of your own judgment to check against.
 
-[How the seminar works with the compass nobody handed you](/seminar/)
+[How the seminar works with the compass nobody handed you](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 There is a particular silence that lands about forty minutes into a meeting, when a decision is sitting on the table and everyone is waiting for somebody to make it. You look around the room for whoever is supposed to decide, and then remember that this time it is you.
@@ -344,4 +501,4 @@ I spent five years and more than five thousand hours doing this kind of work on 
 
 Start the decision log tonight, with one entry. Pick a decision you have been carrying for more than two weeks, make it small enough that being wrong costs one evening or twenty dollars, and make it now. Write four things in a note: what you chose, today's date, one sentence of why, and one sentence predicting how it turns out. Then set a reminder four weeks from today to read it back. Do that for a dozen decisions and you will be holding the one thing this pattern has never had access to, which is a record of your own judgment being tested. Most people find the record is better than their opinion of themselves, and the ones who find otherwise now have something specific to work with rather than a vague feeling of being unreliable.
 
-If what pulls at you is the compass itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly defers to the room cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent working out what you want, rather than what you are supposed to want, is rarely wasted, whatever you decide afterward.
+If what pulls at you is the compass itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly defers to the room cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent working out what you want, rather than what you are supposed to want, is rarely wasted, whatever you decide afterward.

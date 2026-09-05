@@ -3,6 +3,7 @@ title: "Why Can't I Trust Anyone? The Verdict That Stopped Being About One Perso
 metaTitle: "Why Can't I Trust Anyone?"
 shortTitle: "Why I Can't Trust Anyone"
 description: "Distrust aimed at everybody at once runs as a standing policy rather than a reaction to any particular person, which is why it fires at people who have done nothing. The sentences that come with it, why it arrives for plenty of people with no betrayal behind it, why it spreads to doctors and institutions and strangers at the door, why kindness sets it off harder than coldness does, and what willingness to trust looks like on an ordinary Wednesday."
+metaDescription: "Distrust aimed at everyone at once runs as a standing policy, which is why it fires at people who have done nothing. Where it installs, and what moves it."
 primaryQuestion: "Why can't I trust anyone?"
 intent: research
 faqTitle: "Questions About Not Trusting Anyone"
@@ -18,15 +19,15 @@ faqs:
 - q: "Why do I feel guilty for not trusting my own family?"
   a: "Because naming it means questioning the very people the guard was built around, and loyalty tends to run in the same direction as the injury. Distrust that formed inside a family of origin is usually the last kind anybody says out loud, and often the last kind they let themselves think clearly. Guilt at noticing says something about how early it started rather than about whether your read is fair."
 - q: "Does this mean I am going to be a bad partner?"
-  a: "No. It means a set of specific behaviours will keep appearing until they get named: quiet loyalty tests, withheld information, suspicion arriving ahead of evidence, warmth given at a metered rate. Named, each one becomes something you can make a choice about in the moment. Unnamed, they get enacted and then explained afterwards as caution. Plenty of people run this pattern and are steady, loyal partners while they work on it."
+  a: "No. It means a set of specific behaviors will keep appearing until they get named: quiet loyalty tests, withheld information, suspicion arriving ahead of evidence, warmth given at a metered rate. Named, each one becomes something you can make a choice about in the moment. Unnamed, they get enacted and then explained afterwards as caution. Plenty of people run this pattern and are steady, loyal partners while they work on it."
 - q: "Why do I feel nothing when someone tells me they love me?"
   a: "Usually because the sentence gets run through the same check as everything else before any feeling is allowed near it, and by the time the check finishes the moment has passed. People describe it as mystification rather than emptiness, as though the words were information of uncertain reliability. The feeling is often present underneath and arrives late, sometimes hours later, once nothing turned out to be attached to it."
 - q: "Is refusing help from people actually a trust problem, or am I just independent?"
-  a: "The test is what happens on the occasions when you do accept help. Genuine independence can take an offer with a thank you and let the exchange sit unbalanced for a while. Protective self-reliance produces an immediate urge to repay it, minimise it, or explain that you did not really need it. Removing dependency is among the most effective guards available, and the only one that reliably gets complimented rather than questioned."
+  a: "The test is what happens on the occasions when you do accept help. Genuine independence can take an offer with a thank you and let the exchange sit unbalanced for a while. Protective self-reliance produces an immediate urge to repay it, minimize it, or explain that you did not really need it. Removing dependency is among the most effective guards available, and the only one that reliably gets complimented rather than questioned."
 - q: "Why do I feel disloyal wanting to trust someone who reminds me of a person who hurt me?"
   a: "Because the verdict got filed under a category rather than under a name, so extending trust to anybody in that category feels like overruling something you learned at real cost. Wanting to trust the new person carries no betrayal of your own history. That wanting is the actual mechanism by which a verdict gets narrowed back down to the one person it was always about."
 - q: "Is it normal to fact-check what people tell me even when I have no reason to doubt them?"
-  a: "It is common and rarely discussed, largely because it passes for diligence. Habitual verification that runs regardless of the evidence in front of it is one of the quieter behaviours in this pattern. The thing worth noticing is the trigger. Checking prompted by something specific and current is ordinary. Checking that runs on everything, including claims with no stake attached at all, is the policy running rather than the situation."
+  a: "It is common and rarely discussed, largely because it passes for diligence. Habitual verification that runs regardless of the evidence in front of it is one of the quieter behaviors in this pattern. The thing worth noticing is the trigger. Checking prompted by something specific and current is ordinary. Checking that runs on everything, including claims with no stake attached at all, is the policy running rather than the situation."
 - q: "Am I a hypocrite for wanting people to trust me completely while I trust almost no one?"
   a: "No. Being trustworthy and extending trust are two separate capacities that develop somewhat independently, and an asymmetry between them is extremely common here. Many people in this pattern are scrupulously reliable, partly because they know precisely what unreliability costs. Wanting to be believed while finding belief hard to hand over describes the shape of the injury rather than a failing in your character."
 - q: "Is it okay to tell someone I do not fully trust them yet?"
@@ -44,7 +45,7 @@ faqs:
 - q: "What causes a lack of trust in others?"
   a: "Two routes arrive at the same place. One is a specific broken trust, where somebody you depended on turned out to be acting against you, and the finding spread outward from them to people in general. The other builds quietly, out of attention that never arrived, a household where nothing could be predicted, or a childhood in which your own judgment was never allowed to run anything. Most people find both are partly true of them."
 - q: "Is not trusting people a mental illness?"
-  a: "No. Difficulty trusting people is a pattern rather than a diagnosis, and it appears in plenty of people who are otherwise steady and well. It does show up alongside several recognised conditions, which is a different claim from being one. Where the suspicion has hardened into fixed beliefs that hold firm against direct evidence, or where it comes with hopelessness that has not lifted for months, that deserves a qualified opinion rather than a page."
+  a: "No. Difficulty trusting people is a pattern rather than a diagnosis, and it appears in plenty of people who are otherwise steady and well. It does show up alongside several recognized conditions, which is a different claim from being one. Where the suspicion has hardened into fixed beliefs that hold firm against direct evidence, or where it comes with hopelessness that has not lifted for months, that deserves a qualified opinion rather than a page."
 - q: "Does this count as a real problem if I have no story to explain it?"
   a: "Yes, and the version with no story attached often runs deeper. Something installed across thousands of ordinary days leaves no moment to point at, which makes it harder to see and harder to date. Plenty of people carry this with no betrayal behind it, and most of them feel disqualified from their own experience, because there is nothing to tell anybody who asks. Nothing had to happen for this to be real."
 - q: "Is this a trust problem, or am I just a realistic and careful person?"
@@ -52,9 +53,9 @@ faqs:
 - q: "Why can't I trust anyone anymore, when I used to trust people easily?"
   a: "Usually because one event, or a slow accumulation of small ones, hardened a working assumption into a rule, and a rule does not get tested. The ease you remember was a default that had not yet been contradicted. What replaced it is another default pointing the other way. Both of them answer before the person in front of you has done anything, which is the part that can actually change."
 - q: "Why does it feel like there is nobody in this world I can trust?"
-  a: "Because a verdict that covers everybody feels like an observation about the world rather than a setting you are carrying. It arrives with the weight of accumulated evidence, and some of that evidence is real. The tell is that it holds steady regardless of who is in the room, including people whose behaviour over years contradicts it. A read that never changes with the person is describing the reader rather than the people."
+  a: "Because a verdict that covers everybody feels like an observation about the world rather than a setting you are carrying. It arrives with the weight of accumulated evidence, and some of that evidence is real. The tell is that it holds steady regardless of who is in the room, including people whose behavior over years contradicts it. A read that never changes with the person is describing the reader rather than the people."
 - q: "Why do I assume the worst about someone's intentions when they have given me no reason to?"
-  a: "Because it was loaded before they arrived. The read comes out of the original situation rather than out of anything this person has done, and they simply walked into range of it. Knowing that saves you searching their behaviour for a justification that will not be there. It also moves the useful question, which becomes how far past the original situation the guard now reaches."
+  a: "Because it was loaded before they arrived. The read comes out of the original situation rather than out of anything this person has done, and they simply walked into range of it. Knowing that saves you searching their behavior for a justification that will not be there. It also moves the useful question, which becomes how far past the original situation the guard now reaches."
 - q: "What are the everyday signs of mistrust that are easy to miss in yourself?"
   a: "The ones that pass for competence. Keeping conversation pleasant and factual so nothing personal accumulates. Having an exit located before a plan starts. Reading a message twice for what is underneath it. Declining an offer that would have helped, then explaining the refusal to yourself afterwards as good sense. Each is defensible on its own, which is exactly why the accumulation goes unnoticed for years."
 - q: "Why do I swing between trusting nobody and trusting somebody completely?"
@@ -66,7 +67,7 @@ faqs:
 - q: "Why does not trusting people feel like the only thing keeping me safe?"
   a: "Because it works, and it has never been given a chance to be wrong. A guard that prevents exposure produces no visible failures, so the evidence file only ever fills on one side. What it prevents is narrower than it feels: being caught unprepared by a repeat of the original harm. Recalibrating what it fires on leaves that protection intact, which is why the goal is scope rather than switching anything off."
 - q: "Why do I resist trusting someone even when I want to?"
-  a: "Because wanting and permitting are handled by different parts of the system, and the guard was installed to override exactly this kind of wanting. It does not check whether you have decided to be different. What changes it is a piece of evidence small enough that the guard does not veto it: one honest sentence, one favour accepted without immediately levelling the exchange. Wanting is the beginning of the work rather than a failure of it."
+  a: "Because wanting and permitting are handled by different parts of the system, and the guard was installed to override exactly this kind of wanting. It does not check whether you have decided to be different. What changes it is a piece of evidence small enough that the guard does not veto it: one honest sentence, one favor accepted without immediately levelling the exchange. Wanting is the beginning of the work rather than a failure of it."
 - q: "Why does it take me so much longer than other people to trust someone?"
   a: "Because you are measuring your own timeline against other people's, and the clocks run differently. Somebody who never needed to build a guard starts from a position you were not given, so their pace tells you very little. The measure worth using is your own movement. Has a person who was on probation six months ago been let any further in since? That is the question with a usable answer in it."
 - q: "Is it better to just not trust anyone?"
@@ -77,7 +78,7 @@ faqs:
   a: "First check whether it is current. If somebody is actively deceiving you, or controlling your money, your movement, or your contact with other people, that is a live situation that needs a professional and people who can help you leave. If it is the older pattern, narrow it. Pick one person, one small thing, and one week, rather than working on trust in general, which is too large a target to aim at."
 related:
 - /patterns/trust-issues/
-- /patterns/betrayal-trauma/
+- /patterns/when-someone-close-betrays-you/
 - /patterns/why-dont-i-trust-myself/
 - /patterns/hypervigilance/
 - /patterns/how-to-rebuild-trust/
@@ -102,14 +103,14 @@ Start with these rather than with the explanation. One of them usually lands bef
 
 Each one is a ruling about people in general, which is how somebody who has done nothing to you ends up paying for what somebody else did.
 
-[How the seminar works with a verdict that covers everybody](/seminar/)
+[How the seminar works with a verdict that covers everybody](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 A new colleague offers, for no reason you can immediately identify, to take half of something you are behind on. Before the thank you has finished forming, a second and quieter process is already running underneath it: what this gets them, what they will want later, what you have just quietly become indebted for.
 
 That second process, and specifically the fact that it starts before the person has done anything, is the whole subject of this page.
 
-Most people who type this question are not asking about one person. They are asking about the word in the middle of it. Something that began as a finding about somebody specific, or that began with nobody specific at all, ended up as a rule covering doctors, landlords, neighbours, new colleagues, old friends, the people at the door, and the version of your own judgment that used to have a say in any of it. The pattern that produces that spread, and what narrows it back down again, is what everything below is about.
+Most people who type this question are not asking about one person. They are asking about the word in the middle of it. Something that began as a finding about somebody specific, or that began with nobody specific at all, ended up as a rule covering doctors, landlords, neighbors, new colleagues, old friends, the people at the door, and the version of your own judgment that used to have a say in any of it. The pattern that produces that spread, and what narrows it back down again, is what everything below is about.
 
 ## Why does "anyone" feel like the more accurate word than "someone"?
 
@@ -167,13 +168,13 @@ And the same holds from the inside. If you are carrying an addiction, a diagnose
 
 Yes, and a very large number of people do. This is the version that leaves somebody feeling disqualified from their own experience, because there is no story to tell when anybody asks.
 
-Two broad routes arrive at the same adult stance. The first is a discrete break: somebody a part of your life rested on turned out to be acting against you, and the conclusion generalised outward from that one person to people. [The aftermath of a specific break, including what to do about the person involved, has its own page.](/patterns/betrayal-trauma/)
+Two broad routes arrive at the same adult stance. The first is a discrete break: somebody a part of your life rested on turned out to be acting against you, and the conclusion generalized outward from that one person to people. [The aftermath of a specific break, including what to do about the person involved, has its own page.](/patterns/when-someone-close-betrays-you/)
 
 The second route has no scene in it at all. The guard gets installed by absence, by unpredictability, or by never having your own read allowed to run anything. Different environments teach it in different ways, and the flavour of the adult version usually tells you which one you had.
 
 | Where it came from | What that environment actually taught | The adult version it produces |
 |---|---|---|
-| A specific broken trust | Somebody you depended on was working against you while acting otherwise | A guard aimed at everybody, with one face behind it. [More here](/patterns/betrayal-trauma/) |
+| A specific broken trust | Somebody you depended on was working against you while acting otherwise | A guard aimed at everybody, with one face behind it. [More here](/patterns/when-someone-close-betrays-you/) |
 | Attention and consistency that simply never arrived | Reliance itself was a category error, since nothing was there to lean on | A deep reluctance with nothing dramatic to point at. [More here](/patterns/childhood-emotional-neglect/) |
 | Availability that came and went without warning | Instability is the normal state of things, and care is conditional on being useful | Warmth read as a transaction, plus an urgent need to know where you stand. [More here](/patterns/fear-of-abandonment/) |
 | Open conflict or violence between the adults | Danger arrives from inside the house, from the people who were supposed to be safe | Closeness itself tied to risk, and a read on events that gets discounted along with everybody's motives. [More here](/patterns/growing-up-with-violence/) |
@@ -188,19 +189,19 @@ Because a policy costs almost nothing to run, never has to be revised, and canno
 
 A person-by-person read is expensive. It has to be built from scratch for every new acquaintance, updated when they do something unexpected, and held with a degree of uncertainty that stays uncomfortable for months. A blanket verdict skips all of that. It arrives instantly, applies everywhere, and produces the same answer under pressure as it does on a calm Tuesday. Judged purely as a piece of engineering, it is elegant.
 
-What it exists to prevent is worth stating precisely, because it is narrower than people assume. The goal is preventing a repeat of the original harm, and above all preventing being caught unprepared by it. Every behaviour in the set serves that specific end. Scanning for signs of deceit catches trouble before it lands. Testing loyalty forces an answer early rather than waiting to be blindsided by one. Keeping conversation superficial, holding back real feelings and needs and vulnerable details, removes the material that a future betrayal would need in order to hurt. Declining to rely on anybody removes the exposure altogether, on the reasoning that nothing relied on can be pulled away.
+What it exists to prevent is worth stating precisely, because it is narrower than people assume. The goal is preventing a repeat of the original harm, and above all preventing being caught unprepared by it. Every behavior in the set serves that specific end. Scanning for signs of deceit catches trouble before it lands. Testing loyalty forces an answer early rather than waiting to be blindsided by one. Keeping conversation superficial, holding back real feelings and needs and vulnerable details, removes the material that a future betrayal would need in order to hurt. Declining to rely on anybody removes the exposure altogether, on the reasoning that nothing relied on can be pulled away.
 
 Extending the same logic outward to institutions and strangers follows naturally. If somebody at close range could do that, then somebody at any range could do it, and a verdict that stops at the front door is a verdict with a gap in it.
 
 Underneath all of that sits the quietest protection of the set, and it is aimed at yourself. Discounting your own judgment, or deciding the fault was yours for having trusted at all, keeps the world explicable. An error you made is an error you could theoretically avoid next time. Believing instead that the original harm was simply not predictable would mean living in a world where the same thing could happen again tomorrow with no warning, and that is a considerably harder thing to carry. So the doubt turns inward, at real cost, and buys back a sense that the situation is at least manageable.
 
-## Why do doctors, landlords, and people at call centres get the same treatment?
+## Why do doctors, landlords, and people at call centers get the same treatment?
 
 Because the verdict does not distinguish between a person who could betray you and a role that has power over an outcome, and to a system built for advance warning those look identical.
 
 This is the part of the pattern that gets discussed least, and it takes up more of an ordinary week than the relational part does. A doctor recommends a procedure, and the first assumption is padded billing rather than a needed treatment, so two more opinions get booked before anything is agreed to. An unknown number rings, the phone gets left to ring out on purpose, and the voicemail gets screened before any decision about calling back. Somebody raising money at the door gets tuned out and filed as a scam before the sentence is finished. A routine form asks a simple factual question, and the honest answer gets softened or withheld just in case, with no specific reason attached to the caution.
 
-None of those moments involves anybody you love. That is exactly why they are useful evidence. In a close relationship the caution can always be defended by pointing at something the other person did. A form has done nothing. A voicemail from a number you do not recognise has done nothing. When the same guard shows up in a situation with no relational stake in it, you are watching the policy itself run, uncontaminated by any actual history with anybody.
+None of those moments involves anybody you love. That is exactly why they are useful evidence. In a close relationship the caution can always be defended by pointing at something the other person did. A form has done nothing. A voicemail from a number you do not recognize has done nothing. When the same guard shows up in a situation with no relational stake in it, you are watching the policy itself run, uncontaminated by any actual history with anybody.
 
 Where control or violence was part of the original environment, this spread is close to automatic. The people with authority over an outcome, doctors, employers, courts, anyone whose decision is final, occupy the same shape as the person whose decision was always final at home. The response transfers whole.
 
@@ -214,7 +215,7 @@ Four things, and getting the confusion sorted matters, because each one repairs 
 
 | What it looks like from outside | What it might actually be | The thing that tells them apart |
 |---|---|---|
-| A guard aimed at everybody, with one specific person and one specific event behind it | [Betrayal trauma](/patterns/betrayal-trauma/) | There is a scene. You could describe the before and after in a paragraph, with a date attached |
+| A guard aimed at everybody, with one specific person and one specific event behind it | [Betrayal by somebody you depended on](/patterns/when-someone-close-betrays-you/) | There is a scene. You could describe the before and after in a paragraph, with a date attached |
 | The same guard, with nothing to point at and a sense of having always been this way | This pattern in its commonest form | Your honest answer to "when did this start" is that you cannot remember it being otherwise |
 | Doubt aimed at your own read of people rather than at their motives | [Self-directed distrust](/patterns/why-dont-i-trust-myself/) | The discomfort sits on your judgment rather than on their character, and second opinions calm it briefly |
 | Continuous scanning that runs even on a good day when you feel calm | [Hypervigilance](/patterns/hypervigilance/) | It runs as a background procedure with no emotion attached, which is why relaxing does nothing to it |
@@ -231,11 +232,11 @@ One more piece of sorting. "Trust issues" is a single label sitting on top of fo
 
 Because coldness confirms the model at no processing cost, and kindness has nowhere to file.
 
-Somebody being short with you, cancelling at the last minute, or turning out to have an angle produces a small internal click of recognition. The world behaved as expected. Nothing needs revising. It stings, and it is cheap.
+Somebody being short with you, canceling at the last minute, or turning out to have an angle produces a small internal click of recognition. The world behaved as expected. Nothing needs revising. It stings, and it is cheap.
 
-Warmth is expensive. A new neighbour who is unusually friendly for no clear reason triggers a private inventory of what they might eventually want. Compliments arrive and a background check runs before the thank you does: what is this softening me up for, why now, what does accepting it commit me to. Praise gets deflected with a joke or a correction, which is often read by everybody else as modesty and is doing something quite different. Accepting a compliment means lowering, by a fraction, the same guard that is holding everything else up.
+Warmth is expensive. A new neighbor who is unusually friendly for no clear reason triggers a private inventory of what they might eventually want. Compliments arrive and a background check runs before the thank you does: what is this softening me up for, why now, what does accepting it commit me to. Praise gets deflected with a joke or a correction, which is often read by everybody else as modesty and is doing something quite different. Accepting a compliment means lowering, by a fraction, the same guard that is holding everything else up.
 
-There is a second mechanism running underneath that, and it explains why generosity in particular is so hard to receive. A favour creates something that functions like a debt, and a debt means dependency, and dependency is the exposure the whole arrangement exists to remove. The urge to repay it immediately, level the exchange, or explain that you did not really need it is the ledger being cleared so that nothing is owed and nothing is owing.
+There is a second mechanism running underneath that, and it explains why generosity in particular is so hard to receive. A favor creates something that functions like a debt, and a debt means dependency, and dependency is the exposure the whole arrangement exists to remove. The urge to repay it immediately, level the exchange, or explain that you did not really need it is the ledger being cleared so that nothing is owed and nothing is owing.
 
 Where warmth was originally conditional on being useful, the reinterpretation is close to automatic. Kindness with no invoice attached does not compute, so the mind supplies the missing invoice and starts hunting for the ask.
 
@@ -257,7 +258,7 @@ The hardest version of the inversion is the one people are most ashamed of. Trus
 
 More than the relational cost people usually count, and the largest items on the bill are the ones that never get filed under trust at all.
 
-Start with the labour. Running motive analysis on every conversation is genuinely tiring, and the tiredness rarely gets attributed to its source. It shows up as exhaustion after an evening that looked easy from outside, a mind that will not settle at eleven at night, and the flat depletion of having verified a dozen small claims that carried no stake. A person running a second track underneath every exchange is only ever half in the room, and the people close to them can usually feel that without being able to name it.
+Start with the labor. Running motive analysis on every conversation is genuinely tiring, and the tiredness rarely gets attributed to its source. It shows up as exhaustion after an evening that looked easy from outside, a mind that will not settle at eleven at night, and the flat depletion of having verified a dozen small claims that carried no stake. A person running a second track underneath every exchange is only ever half in the room, and the people close to them can usually feel that without being able to name it.
 
 Then the narrowing. Shared commitments declined, offers of help refused, projects left unfinished rather than shown, opportunities passed on because taking them would have meant relying on somebody. Each individual refusal is defensible. The accumulation is a life with fewer things in it than the person is capable of, and the shrinkage happens slowly enough that nobody notices a single decision that caused it.
 
@@ -280,9 +281,9 @@ Willingness to trust does not mean trusting everybody equally. That would be a w
 | A doctor recommends a procedure | Padded billing is assumed, and two further opinions get booked before anything is agreed | You ask what the alternatives are, and a second opinion becomes a considered decision rather than a reflex |
 | Somebody raises money at the door | They get tuned out and filed as a scam before the sentence finishes | You say no thank you and it costs you nothing, or you ask one question and decide |
 | A routine form asks a factual question | The honest answer gets softened just in case | You answer it accurately, because nothing about it was ever load-bearing |
-| A new neighbour is friendly for no clear reason | A private inventory starts of what they might eventually want | The friendliness gets to be friendliness until something specific contradicts it |
+| A new neighbor is friendly for no clear reason | A private inventory starts of what they might eventually want | The friendliness gets to be friendliness until something specific contradicts it |
 
-Day to day, it looks like accepting help without immediately needing to repay it or explain it away. Compliments land instead of getting scanned. A new acquaintance no longer serves a probation before an ordinary conversation feels safe. Plans get made without an exit route already located. Professionals and institutions get engaged with proportionate scepticism rather than assumed bad faith by default.
+Day to day, it looks like accepting help without immediately needing to repay it or explain it away. Compliments land instead of getting scanned. A new acquaintance no longer serves a probation before an ordinary conversation feels safe. Plans get made without an exit route already located. Professionals and institutions get engaged with proportionate skepticism rather than assumed bad faith by default.
 
 The single clearest marker is what happens after a disappointment, and it is worth knowing in advance, because the disappointment will come. With the policy running, one person letting you down collapses outward onto everybody, and the read then stays frozen at the worst-case setting indefinitely. With trust that calibrates, it narrows: this person, this thing, this week. Everybody else stays where they were. And it recovers when new evidence arrives instead of holding out for a proof that never comes.
 
@@ -296,9 +297,9 @@ Small, low-cost exposure repeated often enough to build a track record that the 
 2. **Hand over one ordinary, low-cost piece of yourself, and then actually watch what happens.** Not a confession. One honest sentence about your real week, given to somebody where nothing much is riding on it. Then let that single data point count. The belief you are working against was built from accumulated evidence, and it can only be revised by accumulated evidence.
 3. **Ask the direct question instead of running the quiet test.** This is the fastest single change available. A test the other person was never told about cannot accumulate as evidence even when they pass it, so a year of quiet testing produces no update at all. A direct question produces an answer you can file.
 4. **Say the uncomfortable sentence out loud.** "This takes me a long time, and most of it has nothing to do with you." It reads as risky and it usually lands better than performing a trust that is not there.
-5. **Narrow every verdict to the person it belongs to.** When a conclusion arrives about people in general, rewrite it with a name, a behaviour, and a date in it. "People leave" becomes something specific enough to be true, and something specific enough to have limits.
+5. **Narrow every verdict to the person it belongs to.** When a conclusion arrives about people in general, rewrite it with a name, a behavior, and a date in it. "People leave" becomes something specific enough to be true, and something specific enough to have limits.
 6. **Keep the part of the caution that is accurate.** Where the guard formed around a genuinely repeated pattern, or a person who is still in your life and still doing it, some of that caution is current information. Sorting the proportionate part from the part that fires regardless of who is in front of you is the actual work, and discarding the whole thing would be a downgrade.
-7. **Practise narrowing on something small.** The next time somebody disappoints you in a minor way, note whether the verdict stays with them or travels. Catching the travel counts, even on the occasions when you cannot stop it.
+7. **Practice narrowing on something small.** The next time somebody disappoints you in a minor way, note whether the verdict stays with them or travels. Catching the travel counts, even on the occasions when you cannot stop it.
 
 Is any of that comfortable? No. It is slow, freaking unglamorous work, and it looks like nothing at all from outside, which is exactly why it holds when a single dramatic decision to trust again does not.
 
@@ -318,8 +319,8 @@ The destination is worth naming accurately, because a lot of disappointment come
 
 Narrow one verdict, on paper, and give it fifteen minutes. Open a note and write down the last time somebody let you down, in the form you actually hold it, which will almost certainly be a general statement: people do this, nobody stays, everybody wants something. Write it exactly as it sounds in your head.
 
-Then rewrite it three times. Once with the person's name in it. Once with the specific behaviour in it, described the way a neutral witness would describe it. And once with the date. Now read the general version and the specific version side by side, and make one more list: the people currently in your life to whom the general version is being applied, who were not there and had nothing to do with it.
+Then rewrite it three times. Once with the person's name in it. Once with the specific behavior in it, described the way a neutral witness would describe it. And once with the date. Now read the general version and the specific version side by side, and make one more list: the people currently in your life to whom the general version is being applied, who were not there and had nothing to do with it.
 
 That last list is the whole thing in miniature, and most people find it longer than they expected. It costs you nothing beyond fifteen minutes, and it does something no amount of resolving to be more trusting will do, because it works on the scope of the verdict rather than on its strength.
 
-If what pulls at you is the guard itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that you can hand over one true thing and watch what actually happens to it in a room where somebody is holding the container, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you came looking for. Feel into it and find out for yourself. A week spent finding out who you are when the second process is switched off is rarely wasted, whatever you decide about anybody else.
+If what pulls at you is the guard itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that you can hand over one true thing and watch what actually happens to it in a room where somebody is holding the container, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you came looking for. Feel into it and find out for yourself. A week spent finding out who you are when the second process is switched off is rarely wasted, whatever you decide about anybody else.

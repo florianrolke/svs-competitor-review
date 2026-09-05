@@ -3,6 +3,7 @@ title: "What Are Trust Issues, and Where Do They Come From? The Four Patterns Un
 metaTitle: "What Are Trust Issues?"
 shortTitle: "Trust Issues"
 description: "Trust issues is one label covering four separate patterns: hypervigilance, quiet testing, pre-emptive withdrawal, and a settled expectation of betrayal. Which one is yours, why the guard reads as realism from the inside, why plenty of people have this with no betrayal to point at, how damaged trust in others differs from damaged trust in your own judgment, and what calibrated trust looks like on an ordinary Tuesday."
+metaDescription: "One label covering four patterns: hypervigilance, quiet testing, early exits, expecting betrayal. Which one is yours, and what calibrated trust looks like."
 primaryQuestion: "What are trust issues, and where do they come from?"
 intent: research
 faqTitle: "Trust Issues Questions"
@@ -12,17 +13,17 @@ faqs:
 - q: "What are the signs that somebody has trust issues?"
   a: "From outside: questions that get followed up, plans made with an exit already located, help refused, compliments deflected, and a slight bracing when things go well. Warmth arrives at a metered rate. Small inconsistencies get filed and remembered. The clearest sign is what happens after a good stretch, because that is when the pattern gets loudest rather than quietest, and something often gets dismantled for reasons that sound convincing at the time."
 - q: "What causes trust issues?"
-  a: "Two routes arrive at the same adult stance. One is a specific break: somebody a part of your life rested on turned out to be acting against you, and the conclusion spread outward to everybody else. The other involves no single event, just a caregiver whose reaction to the same behaviour changed without warning, so a child learned to read the room continuously and never learned that people are predictable."
-- q: "What kind of childhood trauma causes trust issues?"
-  a: "Two kinds lead here, and the second one rarely gets called trauma at all. One is a clear breach: a parent who lied, vanished, or turned out to be somebody other than who they presented. The other has no incident to point at, only a caregiver whose response to the same behaviour was different from one day to the next. Both produce an adult who checks first and relies second, and only one of them leaves you with a story that explains it."
+  a: "Two routes arrive at the same adult stance. One is a specific break: somebody a part of your life rested on turned out to be acting against you, and the conclusion spread outward to everybody else. The other involves no single event, just a caregiver whose reaction to the same behavior changed without warning, so a child learned to read the room continuously and never learned that people are predictable."
+- q: "What kind of childhood causes trust issues?"
+  a: "Two kinds lead here, and the second one rarely gets called harm at all. One is a clear breach: a parent who lied, vanished, or turned out to be somebody other than who they presented. The other has no incident to point at, only a caregiver whose response to the same behavior was different from one day to the next. Both produce an adult who checks first and relies second, and only one of them leaves you with a story that explains it."
 - q: "Can trust issues be genetic?"
-  a: "Temperament runs in families, and some people startle more easily than others, which can make the same household land harder. The more reliable inheritance is behavioural. A parent who trusted nobody teaches a child what ordinary caution looks like, and the child copies it years before they are able to evaluate it. A habit picked up that way is more available to change than most people assume, because it was learned rather than built in."
+  a: "Temperament runs in families, and some people startle more easily than others, which can make the same household land harder. The more reliable inheritance is behavioral. A parent who trusted nobody teaches a child what ordinary caution looks like, and the child copies it years before they are able to evaluate it. A habit picked up that way is more available to change than most people assume, because it was learned rather than built in."
 - q: "Can you have trust issues if nobody ever actually betrayed you?"
   a: "Yes, and plenty of people do. Growing up around somebody whose mood set the weather teaches the same lesson a betrayal teaches: you cannot know in advance what you will get when you rely on someone. There is no scene to point at, which is why people in this version often assume they are simply anxious or difficult. The guardedness is identical. Only the origin story is missing."
 - q: "Can one betrayal really make you distrust everybody, including people who have done nothing wrong?"
   a: "Yes, and it spreads faster than most people believe. A conclusion drawn about one person generalises outward to people at large within weeks, because a wide rule feels like the safer bet. That is why the alert fires around a partner of nine years with a spotless record and around somebody met on Tuesday, at the same volume. Neither of them is being consulted. The alert is running on what it learned somewhere else entirely."
 - q: "What disorder causes trust issues?"
-  a: "None, in the sense the question expects. Difficulty trusting people is a description of behaviour rather than a diagnosis, and it appears alongside many different conditions without belonging to any one of them. What it usually points to is history. If the wariness has widened past relationships into places where nothing personal is at stake, or survives clear evidence against it, that is worth an appointment with a clinician rather than more reading."
+  a: "None, in the sense the question expects. Difficulty trusting people is a description of behavior rather than a diagnosis, and it appears alongside many different conditions without belonging to any one of them. What it usually points to is history. If the wariness has widened past relationships into places where nothing personal is at stake, or survives clear evidence against it, that is worth an appointment with a clinician rather than more reading."
 - q: "Do trust issues come from insecurity?"
   a: "Sometimes, and it runs in the other direction more often than people expect. Insecurity can make somebody assume they are about to be dropped, which produces checking and testing. Equally, years of guarding against betrayal quietly lower your sense of what you are worth, because a person who expects to be let down starts to wonder what it is about them. The two feed each other, which is why working on either one tends to move the other."
 - q: "Is it trust issues, or am I just a good judge of character?"
@@ -30,7 +31,7 @@ faqs:
 - q: "Why do I test people instead of just asking them?"
   a: "Because a test produces an answer without exposing you to the cost of asking. A direct question means admitting you want reassurance, which hands somebody information about where you are soft. A small ask, a pointed silence, or a minor inconsistency raised at the right moment gets you data with nothing given away. The catch is that ordinary people fail quiet tests they were never told they were sitting."
 - q: "Why do I need people to prove their loyalty over and over?"
-  a: "Because the question being asked is not really about them. Underneath the repeated checking sits a quieter one about yourself, along the lines of whether you are worth staying loyal to, and no amount of somebody else's good behaviour can answer that one. So proof lands, holds for a couple of days, and drains away. Working out which of the two questions you are actually asking is worth more than another round of reassurance, because they need completely different work."
+  a: "Because the question being asked is not really about them. Underneath the repeated checking sits a quieter one about yourself, along the lines of whether you are worth staying loyal to, and no amount of somebody else's good behavior can answer that one. So proof lands, holds for a couple of days, and drains away. Working out which of the two questions you are actually asking is worth more than another round of reassurance, because they need completely different work."
 - q: "Why do I push people away when things are going well?"
   a: "Because a good stretch raises what there is to lose, which makes the alarm louder rather than quieter. Leaving first converts an unpredictable future loss into a controlled present one, and a certain hurt is easier to sit with than an uncertain one. It usually arrives disguised as clarity, a sudden calm certainty that this was never going to work anyway, timed just after a genuinely good week."
 - q: "Why do I expect everybody to let me down eventually?"
@@ -60,7 +61,7 @@ faqs:
 - q: "Can trust issues ruin a relationship?"
   a: "They can end one, and the ending is rarely dramatic. What usually happens is that the other person gets tired of being assessed and never told the criteria, then leaves without ever knowing what they were measured against. That departure reads afterwards as confirmation that people go, which is the loop worth interrupting. None of it is fixed in advance. It is what happens when the pattern runs for years without being named out loud."
 - q: "Are trust issues a red flag in a new relationship?"
-  a: "They are information, and what matters is whether the person knows they have this and is doing anything about it. Somebody who can say plainly that they get guarded and would rather talk about it than act it out is workable. Somebody who requires you to keep proving yourself while insisting the problem is your behaviour is a harder situation, whatever the origin. Check early whether the caution is aimed at you specifically or at everybody."
+  a: "They are information, and what matters is whether the person knows they have this and is doing anything about it. Somebody who can say plainly that they get guarded and would rather talk about it than act it out is workable. Somebody who requires you to keep proving yourself while insisting the problem is your behavior is a harder situation, whatever the origin. Check early whether the caution is aimed at you specifically or at everybody."
 - q: "Can trust issues affect a sexual relationship?"
   a: "Often, and it rarely announces itself as a trust problem. Physical closeness asks for the same thing emotional closeness asks for, which is a guard lowered on purpose in front of somebody. So the mind stays half on duty, presence comes and goes, and afterwards there can be an unexpected pull toward distance. None of that is a verdict on the relationship or on you. It tends to move as the wider guard moves."
 - q: "How do you handle trust issues in a new relationship?"
@@ -74,7 +75,7 @@ faqs:
 - q: "How do you love somebody who has trust issues?"
   a: "By being boringly consistent and by declining to audition. Do what you said you would do at the time you said it, including on small things nobody would notice. Answer direct questions directly. Then step out of the endless proving, kindly and out loud: say you will keep showing up and that re-proving yourself weekly is beyond what anyone can sustain. Their guard stays theirs to lower."
 related:
-- /patterns/betrayal-trauma/
+- /patterns/when-someone-close-betrays-you/
 - /patterns/fear-of-abandonment/
 - /patterns/anxious-attachment-style/
 - /patterns/emotionally-unavailable/
@@ -100,7 +101,7 @@ Before any of the explanation, read these five sentences and notice which ones a
 
 Sentences like those come from several different protective habits sharing one label, and working out which ones are yours is what makes anything you do about them land.
 
-[How the seminar works with a caution that stopped updating years ago](/seminar/)
+[How the seminar works with a caution that stopped updating years ago](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 There is a small move most people searching this phrase already know by heart. A message arrives that says almost nothing, four words and a full stop, and you read it three times looking for a tone that was probably never in it. You decide it was fine. An hour later you check it once more.
@@ -159,18 +160,18 @@ And the same holds from the inside. If you are carrying an addiction, a diagnose
 
 ## Which Four Patterns Is One Label Actually Covering?
 
-Four, and most people run two of them hard and barely recognise the other two.
+Four, and most people run two of them hard and barely recognize the other two.
 
 The label gets used as though it names a single symptom. In practice it collects four separate protective strategies that arrived for the same reason and now operate independently. Telling them apart is the most useful thing you can do with an afternoon, because each one responds to a different intervention and the advice that works on one does nothing for another.
 
 | The pattern | What it looks like from outside | The sentence underneath | What it is trying to prevent |
 |---|---|---|---|
-| Hypervigilance | Tone and body language analysed continuously, messages reread, hidden meanings hunted in ordinary sentences, exhaustion after an evening that looked easy | "I must analyze every detail to avoid being deceived." | Missing the signal a second time |
+| Hypervigilance | Tone and body language analyzed continuously, messages reread, hidden meanings hunted in ordinary sentences, exhaustion after an evening that looked easy | "I must analyze every detail to avoid being deceived." | Missing the signal a second time |
 | Testing | Loyalty checked before it is relied on, verbal promises treated as load-bearing, trivial statements quietly verified, small asks that are really checks | "I have to be careful; everyone has an angle." | Relying on somebody before you know whether they hold |
 | Pre-emptive withdrawal | Exit routes maintained at all times, relationships ended abruptly at the first sign of conflict, closeness and distance alternating without explanation | "Next time, I'll be the one who leaves first." | Being the one who gets left, and being surprised by it |
 | Expected betrayal | New relationships read as reruns of old ones, a flat unsurprised response when anybody disappoints you, cynicism carried as hard-won wisdom | "It's only a matter of time before someone betrays me again." | The shock, which is treated as worse than the loss |
 
-Two quieter strategies run underneath all four, and they rarely get named as trust behaviour at all. The first is withholding. True feelings, personal history, current needs, achievements, and unfinished creative work stay behind the line, because each of them is understood as material somebody could one day pick up and use. Sarcasm and analysis do the practical work here, keeping a conversation moving without letting it land anywhere costly.
+Two quieter strategies run underneath all four, and they rarely get named as trust behavior at all. The first is withholding. True feelings, personal history, current needs, achievements, and unfinished creative work stay behind the line, because each of them is understood as material somebody could one day pick up and use. Sarcasm and analysis do the practical work here, keeping a conversation moving without letting it land anywhere costly.
 
 The second is removing dependency. If nobody is relied on, nobody is in a position to fail you. That produces the refusal of freely offered help, the pride in handling everything alone, and the quiet equation that trusting somebody means handing them power over how you feel. It also earns compliments, which is why it survives longest. [Where that hardens into distance from feeling generally has its own page.](/patterns/emotionally-unavailable/)
 
@@ -180,17 +181,17 @@ Rank the four for yourself against the last three months rather than against you
 
 From an environment that never reliably told you what you would get, which teaches the same lesson a single sharp betrayal teaches, without providing anything to point at afterward.
 
-Two routes lead to the same adult stance. The first is the one everybody expects. A trust broke: a partner with a second phone, a parent with a second life, a friend of fifteen years who repeated the one thing you asked them to keep, a business partner who moved money, an employer who closed ranks around somebody else. Then the conclusion generalises, fast, from that one person to people, from that one institution to institutions. [The aftermath of a specific break has its own page, including what to do about the person involved and whether forgiveness has to come into it.](/patterns/betrayal-trauma/)
+Two routes lead to the same adult stance. The first is the one everybody expects. A trust broke: a partner with a second phone, a parent with a second life, a friend of fifteen years who repeated the one thing you asked them to keep, a business partner who moved money, an employer who closed ranks around somebody else. Then the conclusion generalises, fast, from that one person to people, from that one institution to institutions. [The aftermath of a specific break has its own page, including what to do about the person involved and whether forgiveness has to come into it.](/patterns/when-someone-close-betrays-you/)
 
-The second route involves no betrayal at all, and it is the one that leaves people feeling disqualified from their own experience. A caregiver's emotional responses were simply inconsistent. Warmth on Tuesday, volatility on Wednesday, for the same behaviour from the same child. Nothing was hidden and nothing was broken. What was missing was a pattern.
+The second route involves no betrayal at all, and it is the one that leaves people feeling disqualified from their own experience. A caregiver's emotional responses were simply inconsistent. Warmth on Tuesday, volatility on Wednesday, for the same behavior from the same child. Nothing was hidden and nothing was broken. What was missing was a pattern.
 
-A child in that house does something reasonable in response. They start reading continuously. They adjust their behaviour to avoid reactions they cannot predict, watch faces for the early signs, and become skilled at interpretation years before most people learn to ride a bike. That skill does not switch off at eighteen. It becomes an adult who scans every room they enter and describes themselves as perceptive, which they genuinely are, and as tired, which they also genuinely are.
+A child in that house does something reasonable in response. They start reading continuously. They adjust their behavior to avoid reactions they cannot predict, watch faces for the early signs, and become skilled at interpretation years before most people learn to ride a bike. That skill does not switch off at eighteen. It becomes an adult who scans every room they enter and describes themselves as perceptive, which they genuinely are, and as tired, which they also genuinely are.
 
 The lesson taught by inconsistency is identical to the one taught by rupture: you cannot know in advance what you will get when you rely on somebody, so build a life that needs the answer less often. The two routes diverge on exactly one thing, which is whether you can name a before and an after. If you can, the first page above is the closer fit. If your honest answer is that you have always been like this, the second route is almost certainly yours, and the reason nothing dramatic comes to mind is that nothing dramatic ever needed to happen.
 
 This second version carries a signature the first one does not. It shows up dressed as logistics rather than as suspicion. A sleep schedule kept identical on weekends. A detailed itinerary for a holiday that was supposed to be restful. A plan B for most scenarios and a plan C for a few. The same hairdresser and the same doctor for eleven years, not out of loyalty but because a known quantity costs less than an unknown one. A preference for recorded talks over live ones, so that anything overwhelming can be paused. None of that looks like a trust problem from outside. All of it is the same project: make the environment predictable, since the people in it never were.
 
-One more thing belongs to this route specifically. Where the first version produces a guard that stays rigidly shut, this one often produces boundaries that move. What you are willing to accept from somebody shifts week to week, because nobody ever modelled a boundary that stayed in one place long enough to copy. Self-esteem tends to move with it, rising and falling with whatever feedback arrived most recently. [The reaching version of the same unpredictable care, where the response is pursuit rather than guardedness, is covered separately.](/patterns/anxious-attachment-style/)
+One more thing belongs to this route specifically. Where the first version produces a guard that stays rigidly shut, this one often produces boundaries that move. What you are willing to accept from somebody shifts week to week, because nobody ever modeled a boundary that stayed in one place long enough to copy. Self-esteem tends to move with it, rising and falling with whatever feedback arrived most recently. [The reaching version of the same unpredictable care, where the response is pursuit rather than guardedness, is covered separately.](/patterns/anxious-attachment-style/)
 
 ## Why Does the Guard Feel Like Good Sense Rather Than a Problem?
 
@@ -198,7 +199,7 @@ Because it is genuinely working at something, because it gets socially rewarded,
 
 Start with the reframe, which is doing most of the work. Cynicism gets experienced as realism. Guardedness gets experienced as strength. Somebody who has stopped expecting much from anyone reads, to themselves, as a person who has finally grown up. That reading has real logic behind it, and it is the most reasonable interpretation available from inside the pattern, which is precisely why arguing with it head on has never moved anybody.
 
-Then there is the reward. The traits this produces are the ones offices praise. Unflappable. Hard to fool. Never surprised. Handles everything alone. Notices what other people miss. A person can be complimented for fifteen years on the exact behaviour that is costing them every close relationship they have, which is a strange thing to live inside and a hard thing to volunteer for changing.
+Then there is the reward. The traits this produces are the ones offices praise. Unflappable. Hard to fool. Never surprised. Handles everything alone. Notices what other people miss. A person can be complimented for fifteen years on the exact behavior that is costing them every close relationship they have, which is a strange thing to live inside and a hard thing to volunteer for changing.
 
 The mechanism underneath is simpler than either. The guard never gets tested, so it never gets disproved. Every ordinary day where nothing bad happens gets filed as evidence that the vigilance is working, rather than as evidence that the vigilance was unnecessary. There is no control condition. A person who has never once lowered the guard has no idea what would have happened if they had, and the not knowing feels like confirmation.
 
@@ -233,11 +234,11 @@ Somebody can believe other people are broadly honest and still refuse to rely on
 
 | Where the doubt is aimed | How it sounds | What it does to an ordinary week | What moves it |
 |---|---|---|---|
-| At other people | "Everyone's kindness has a hidden agenda." | Motives get analysed, warmth gets metered, kindness arrives and gets priced | Small handovers to specific people that turn out fine, repeated more often than feels reasonable |
+| At other people | "Everyone's kindness has a hidden agenda." | Motives get analyzed, warmth gets metered, kindness arrives and gets priced | Small handovers to specific people that turn out fine, repeated more often than feels reasonable |
 | At your own judgment | "I feel like I can't trust my own judgment of people." | Three second opinions before a decision that carries no real risk, gut feelings overruled on principle | Low-stakes calls made alone and graded afterward, until your own hit rate becomes visible |
 | At both | "Why do I always end up trusting the wrong people?" | Paralysis. Neither the outside nor the inside counts as evidence, so nothing gets decided at all | Working the self-trust axis first, because it is the instrument you use to read everything else |
 
-The self-trust axis usually gets installed one of two ways. Either a judgment call turned out badly enough that the conclusion generalised from that decision to your decisions, or somebody spent a long time contradicting your read of situations you had read correctly. An inconsistent caregiver does the second version by accident, simply by never confirming which reality was operating that day. [The repeated, everyday form of having a reaction dismissed until you stop consulting it is covered separately.](/patterns/emotional-invalidation/)
+The self-trust axis usually gets installed one of two ways. Either a judgment call turned out badly enough that the conclusion generalized from that decision to your decisions, or somebody spent a long time contradicting your read of situations you had read correctly. An inconsistent caregiver does the second version by accident, simply by never confirming which reality was operating that day. [The repeated, everyday form of having a reaction dismissed until you stop consulting it is covered separately.](/patterns/emotional-invalidation/)
 
 Watch what damage there does to an ordinary week. A decision that used to take an afternoon now needs opinions from three people whose stake in the outcome is zero. A gut feeling about a new colleague arrives and gets immediately overruled, on principle, because gut feelings are what got you here. Ambiguity becomes intolerable, so you either force a premature verdict or avoid the situation entirely. [Getting that instrument back into service is slower work than it sounds, and it has its own page.](/insights/how-to-trust-your-intuition/)
 
@@ -257,25 +258,25 @@ There is also a smaller cost, easy to miss. The scanning takes up the bandwidth 
 
 ## Where Does This Show Up Outside of Romance?
 
-In at least seven places, and most people recognise themselves in two at first, then find a third a week later.
+In at least seven places, and most people recognize themselves in two at first, then find a third a week later.
 
 | Where it shows up | What it looks like from outside | The sentence underneath |
 |---|---|---|
 | At work | Reluctance in team projects, unfinished work kept hidden, a standing suspicion of anyone senior, credit tracked carefully | "I have to be careful with what I share about myself." |
-| With creative work | Ideas held back until they cannot be criticised, half-formed things never shown, a fear of the work being taken | "I can't show my true feelings, or they'll be used against me." |
+| With creative work | Ideas held back until they cannot be criticized, half-formed things never shown, a fear of the work being taken | "I can't show my true feelings, or they'll be used against me." |
 | With money | Shared commitments avoided, everything wanted in writing, a caution around agreements that reads as prudence | "I can't afford to be naive." |
 | With plans and routines | Itineraries, contingency plans, fixed schedules kept even on free weekends, known quantities chosen over better unknown ones | "I always have to be on my toes." |
 | In groups | Reluctance to speak in group settings, support groups and shared processes avoided, a preference for one-to-one where the variables are fewer | "I have to keep people at a distance." |
 | With help arriving toward you | Offers refused, compliments deflected, apologies met with a search for the angle | "Everyone's kindness has a hidden agenda." |
 | With your own good news | A good week met with unease, joy quietly rationed, a sense of something being owed | "It's not safe to be too happy; something bad will happen." |
 
-The routines row is the one people argue with hardest, and it is the most diagnostic of the set. Nobody questions a person who is organised. A plan B is sensible. A plan B for a dinner with two friends is a person managing an unpredictability that stopped existing decades ago, and the tell is what happens when the plan gets disrupted: a mild disruption producing a disproportionate internal reaction says the plan was carrying more weight than the schedule.
+The routines row is the one people argue with hardest, and it is the most diagnostic of the set. Nobody questions a person who is organized. A plan B is sensible. A plan B for a dinner with two friends is a person managing an unpredictability that stopped existing decades ago, and the tell is what happens when the plan gets disrupted: a mild disruption producing a disproportionate internal reaction says the plan was carrying more weight than the schedule.
 
 The good news row deserves attention too, because it is so rarely connected to trust at all. Guilt attached to happiness makes complete sense inside this pattern. A calm stretch is when the guard is lowest, so a calm stretch is when a surprise would cost the most, and the internal system responds by treating good weeks as the dangerous part of the cycle. [The related habit of withdrawing entirely rather than risking any of this is covered separately.](/insights/why-do-i-isolate-myself/)
 
 ## What Does It Cost the People Trying to Get Close to You?
 
-More than most people running this pattern realise, and naming it plainly is more useful than feeling bad about it.
+More than most people running this pattern realize, and naming it plainly is more useful than feeling bad about it.
 
 From the other side, being close to somebody with a strong version of this feels like living on probation with no release date. Answers get checked. Ordinary statements get followed up. Good weeks are met with a slight bracing. The other person can sense that they are being assessed continuously without ever being told what the criteria are, and no amount of passing settles anything, because a passed test only proves that the test was too easy.
 
@@ -299,9 +300,9 @@ Every one of these patterns has two ends, and the guarded end is only ever half 
 | Distrust in commitment | Trust in commitment | A date six months out goes in the calendar without an exit route going in beside it |
 | Reluctance to confide | Willingness to share | Somebody asks how the year has been and gets the year rather than the summary |
 | Fear of deceit | Confidence in honesty | An explanation gets taken at face value the first time, and that is the end of it |
-| Doubt in loyalty | Confidence in loyalty | A cancelled plan stays a cancelled plan for the whole evening |
-| Scepticism about loyalty | Acceptance of human nature | Somebody lets you down in a small way and remains somebody you like |
-| Resistance to trust | Gradual trust building | Trust gets extended in instalments, and you can say what the next instalment depends on |
+| Doubt in loyalty | Confidence in loyalty | A canceled plan stays a canceled plan for the whole evening |
+| Skepticism about loyalty | Acceptance of human nature | Somebody lets you down in a small way and remains somebody you like |
+| Resistance to trust | Gradual trust building | Trust gets extended in instalments, and you can say what the next installment depends on |
 | Interpreting indifference as betrayal | Understanding different perspectives | A friend who has gone quiet for three weeks is a friend who has been busy |
 | Need for external validation | Internal validation | A decision gets made on Tuesday, by you, without a poll |
 | Self-blame | Self-compassion | A misjudgment gets corrected once and does not become a verdict on your character |
@@ -309,7 +310,7 @@ Every one of these patterns has two ends, and the guarded end is only ever half 
 | Reliving past betrayals | Focusing on present trust | The memory stays, and stops being consulted about people who were not there |
 | Self-protective isolation | Healthy social engagement | You go to the thing, and you stay past the first hour |
 | Self-sabotaging trust | Building trusting relationships | The good week gets to be a good week, and nothing gets dismantled on Thursday |
-| Scepticism of genuine emotions | Trust in genuine expressions | Somebody says they are glad to see you and you believe them on the first pass |
+| Skepticism of genuine emotions | Trust in genuine expressions | Somebody says they are glad to see you and you believe them on the first pass |
 
 Read the right-hand column carefully, because it is deliberately unimpressive. Nobody in it is trusting everybody, and nobody is handing themselves over. The destination named there is calibrated trust: telling one person from another and extending trust in proportion to what somebody has actually shown you. That is a smaller promise than the ones usually made about this subject and it is the honest one.
 
@@ -342,7 +343,7 @@ That answer is unsatisfying, so here is the useful version of it. Proof has a sh
 
 Three things genuinely sit in the other person's hands. Being consistent, including on the small things nobody would notice, because consistency accumulates where declarations do not. Answering direct questions directly, without defensiveness and without a speech. And declining the audition, kindly and out loud: saying that they will keep showing up and that re-proving themselves weekly is beyond what anybody can sustain. That last one sounds harsh and is usually the moment something starts to move, because it puts the guard back where it belongs, with the person holding it.
 
-What sits in your hands is the calibration. Nobody else can do that part, and no amount of somebody else's good behaviour substitutes for it. That is the unfair arithmetic of this pattern: it was installed by somebody else and it can only be recalibrated by you.
+What sits in your hands is the calibration. Nobody else can do that part, and no amount of somebody else's good behavior substitutes for it. That is the unfair arithmetic of this pattern: it was installed by somebody else and it can only be recalibrated by you.
 
 ## How Long Does This Take, Honestly?
 
@@ -362,4 +363,4 @@ Build a trust register, and give it fifteen minutes. Open a note and write down 
 
 Two things usually turn up, and both are useful. The register is almost never flat. Somebody who has been telling themselves for years that they trust nobody discovers that they are already discriminating carefully, which means the machinery for calibrated trust is intact and simply overridden by a general policy. And in the evidence column, a good portion of the entries will turn out to have somebody else's face attached, often a face that has not been in your life for a decade. That exercise costs you fifteen minutes and nothing else, and most people find it more clarifying than the last three years of thinking about it.
 
-If what pulls at you is the guard itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with analysis cannot quietly sit out the week inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent looking at what the guard has been quietly costing you is rarely wasted, whatever you decide about anybody else.
+If what pulls at you is the guard itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with analysis cannot quietly sit out the week inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent looking at what the guard has been quietly costing you is rarely wasted, whatever you decide about anybody else.

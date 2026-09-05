@@ -3,6 +3,7 @@ title: "What Is People Pleasing, Actually? The Line Between Kindness and Complia
 metaTitle: "What Is People Pleasing?"
 shortTitle: "What Is People Pleasing"
 description: "People pleasing is the habit of managing what other people feel about you by editing what you show, want and say. The plain definition, the exact sentences that run underneath it, how to tell it apart from ordinary kindness, where it forms, what it protects, and what the other end of the pattern actually looks like."
+metaDescription: "Kindness costs you time and leaves you warm afterward. Pleasing costs a piece of your own position and leaves a quiet score. Where the line actually falls."
 primaryQuestion: "What is people pleasing?"
 intent: research
 faqTitle: "People-Pleasing Definition Questions"
@@ -33,8 +34,8 @@ faqs:
   a: "On the way home tonight, ask yourself one question: where today did I say yes with my mouth and no with my body? Write the answer in a note, one sentence, with the time it happened. Do nothing else with it. Getting the pattern onto paper with a time stamp turns it from a personality trait into a specific behavior, and specific behaviors are the only kind that can be practiced differently."
 - q: "How do you stop being a people pleaser and still be a nice person?"
   a: "Keep the behavior and change what drives it. Feeding your friends, covering for a colleague, staying late for somebody who needs it: none of that has to go. What changes is whether declining was genuinely available before you agreed, which is a difference nobody outside you can see anyway. Practice on one small request this week by saying you will answer tomorrow. A decided yes lands warmer than a compelled one."
-- q: "What trauma do people pleasers have?"
-  a: "Often nothing that would look like trauma from the outside. The usual history is smaller and steadier: affection that arrived with performance attached, a parent whose mood you learned to read before you could read words, a house where being easy was the safest thing to be. Larger events do sit underneath this for some people. Where the history is heavy, it belongs with a licensed professional rather than with self-directed work."
+- q: "What kind of history do people pleasers have?"
+  a: "Often nothing that would look serious from the outside. The usual history is smaller and steadier: affection that arrived with performance attached, a parent whose mood you learned to read before you could read words, a house where being easy was the safest thing to be. Larger events do sit underneath this for some people. Where the history is heavy, it belongs with a licensed professional rather than with self-directed work."
 - q: "What is people pleasing a sign of?"
   a: "Usually a belief formed early that acceptance is conditional and has to be maintained. It points at a learned equation, worth in exchange for usefulness, rather than at a defect in your character. It can also point at a current situation where disagreeing carries real cost, which is worth checking honestly before you file it under history. The same behavior means different things depending on whether the danger is past or present."
 - q: "What are some examples of people pleasing behavior?"
@@ -98,7 +99,7 @@ Somewhere in this list is a sentence you have said to yourself this week, in clo
 
 Sentences like these are why the yes leaves your mouth before you have decided anything, and why the tiredness underneath never quite lifts.
 
-[How the seminar works with the yes you gave before you meant it](/seminar/)
+[How the seminar works with the yes you gave before you meant it](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 Almost every article on this question hands you a list of signs and then tells you to set boundaries. The list is usually accurate and almost useless, because every item on it describes behavior that looks exactly like being a decent person from the outside. Making dinner for someone, saying yes to a favor, holding your tongue in a meeting: none of those can be read from the outside at all. The read that helps happens on the inside, in the second before you answer, and again on the drive home.
@@ -266,4 +267,4 @@ On the way home tonight, in the car or on the walk or on the last stretch of the
 
 Do nothing else with it. Do not act on it, do not correct it, do not go back and renegotiate anything. Repeat it for three evenings and then read the four or five lines you have. Something specific will be visible without any interpretation from me: the same person keeps appearing, or the same time of day, or the same kind of request. That is the value of a time stamp. It turns the pattern from a personality trait you carry into a behavior that happened at 4:40 on a Wednesday, and only the second kind can be practiced differently.
 
-If what pulls at you is the pattern itself rather than a better technique for saying no, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of work: real screening before anyone arrives, a group small enough that facilitators can genuinely hold what surfaces, and integration built into the design rather than left to you once you are home. Exact dates, price, group size cap, and the specific screening and aftercare format are still being finalized. Ask any program these same questions, ours included, and pick the container that actually fits what you came here looking for. Feel into it, and find out for yourself. Seeing this pattern clearly is worth the afternoon it takes you, whatever you decide afterward.
+If what pulls at you is the pattern itself rather than a better technique for saying no, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of work: real screening before anyone arrives, a group small enough that facilitators can genuinely hold what surfaces, and integration built into the design rather than left to you once you are home. Exact dates, price, group size cap, and the specific screening and aftercare format are still being finalized. Ask any program these same questions, ours included, and pick the container that actually fits what you came here looking for. Feel into it, and find out for yourself. Seeing this pattern clearly is worth the afternoon it takes you, whatever you decide afterward.

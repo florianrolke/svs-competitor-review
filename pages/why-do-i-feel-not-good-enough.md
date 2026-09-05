@@ -3,6 +3,7 @@ title: "Why Do I Always Feel Not Good Enough? The Verdict About Capability, and 
 metaTitle: "Why Do I Always Feel Not Good Enough?"
 shortTitle: "Feeling Not Good Enough"
 description: "Feeling not good enough is usually a verdict about capability rather than about worth, issued by an evaluator installed early and never updated by results. The sentences that give it away, the three routes into it, why achievement fails to convert into felt competence, how it differs from low self-esteem and from perfectionism, and what steady competence looks like on an ordinary Thursday."
+metaDescription: "Feeling not good enough is a verdict about capability, issued by an evaluator installed early that no achievement updates. Where it forms, what loosens it."
 primaryQuestion: "Why do I always feel not good enough?"
 intent: research
 faqTitle: "Feeling Not Good Enough Questions"
@@ -12,11 +13,11 @@ faqs:
 - q: "Why do I feel not good enough when nobody around me is actually criticizing me?"
   a: "Because the evaluator moved inside a long time ago. In the original environment somebody else set the standard and delivered the assessment, and at some point that job got taken over internally so it could carry on without them. No present-day critic is required. This is also why leaving a difficult job or a difficult family often changes the volume while leaving the verdict itself running exactly as before."
 - q: "Is feeling not good enough the same thing as perfectionism?"
-  a: "They sit at different depths. Perfectionism is the strategy: if the work is flawless, there is no surface left for criticism to land on. Feeling inadequate is the belief that strategy exists to defend against. Lowering your standards on its own therefore tends to produce anxiety rather than relief, because you have removed the defence and left the thing it was defending against completely intact."
-- q: "Why can I not just accept a compliment?"
-  a: "Because accepting it would mean the internal assessment was wrong, and a system running for decades defends itself. Deflecting keeps the ledger consistent, which is why the rebuttal arrives before you have decided to make it. There is a smaller reason people miss too: agreeing with praise means being looked at for a moment longer, and being looked at closely is precisely what the pattern is organised to avoid."
+  a: "They sit at different depths. Perfectionism is the strategy: if the work is flawless, there is no surface left for criticism to land on. Feeling inadequate is the belief that strategy exists to defend against. Lowering your standards on its own therefore tends to produce anxiety rather than relief, because you have removed the defense and left the thing it was defending against completely intact."
+- q: "Why does praise make me want to explain what was actually wrong with it?"
+  a: "Because a correction restores the version of the work you privately hold, and carrying two assessments at once is the uncomfortable part. Explaining the flaws also protects against a later discovery, which is what this is organized around. The habit shows up first in email, where a thank-you arrives with a paragraph of caveats attached to it. Sending one without them is a small, exact place to practice."
 - q: "Why do I redo work that was already fine?"
-  a: "Re-checking is the behavioural wing of the same defence. Flawless work gives criticism nothing to land on, so the checking feels like diligence from inside while functioning as protection. The tell is what happens after you send it. If the relief lasts minutes rather than hours, the checking was never really about the work. Time spent is a poor proxy for whether something is actually finished."
+  a: "Re-checking is the behavioral wing of the same defense. Flawless work gives criticism nothing to land on, so the checking feels like diligence from inside while functioning as protection. The tell is what happens after you send it. If the relief lasts minutes rather than hours, the checking was never really about the work. Time spent is a poor proxy for whether something is actually finished."
 - q: "Why does one piece of criticism erase five pieces of praise?"
   a: "Because feedback is being processed as an assessment of you rather than a note on the work. Praise gets filed as politeness, since polite people say nice things, while criticism gets filed as the honest read that slipped out. Both enter the same ledger at wildly different weights. Noticing which explanation you reach for in the hour after feedback is the single most useful thing to watch."
 - q: "Why am I so afraid of being found out?"
@@ -26,11 +27,11 @@ faqs:
 - q: "Why do I compare myself to other people's best moments?"
   a: "Because you are comparing your interior against somebody else's exterior, which keeps the result permanently unfavourable. You have access to every hesitation and every abandoned draft of your own work, and to none of theirs. Nobody rigged that comparison on purpose; the difference in what you can see does it by itself. Comparing situations rather than persons is the practical repair, and it takes deliberate effort."
 - q: "Why do I feel guilty when I take a day off?"
-  a: "Because rest was never neutral. In an environment where standing tracked output, rest had to be earned first, and unearned rest still trips the same alarm decades later. The guilt tends to arrive not during a busy week but on a quiet Saturday with nothing scheduled. Practising rest you have not paid for, in small doses, works directly on this and feels wrong for a while."
+  a: "Because rest was never neutral. In an environment where standing tracked output, rest had to be earned first, and unearned rest still trips the same alarm decades later. The guilt tends to arrive not during a busy week but on a quiet Saturday with nothing scheduled. Practicing rest you have not paid for, in small doses, works directly on this and feels wrong for a while."
 - q: "Why am I embarrassed to ask basic questions at work?"
   a: "Because asking exposes a gap, and an exposed gap gets read as confirmation rather than as a normal part of learning something new. The cost is real and it compounds. The unasked question becomes an hour of guessing, and the guess sometimes becomes a mistake that is genuinely harder to explain than the question would have been. Asking early is usually the cheaper of the two."
 - q: "Why do I downplay my achievements when people ask about them?"
-  a: "Minimising keeps you below the bar where you could be judged, which feels considerably safer than standing next to your own work. Saying an accurate thing about something you did well registers as boasting from inside this pattern, even when it lands as entirely ordinary to everyone listening. A useful check: would you describe a colleague's identical work in the same reduced terms?"
+  a: "Minimizing keeps you below the bar where you could be judged, which feels considerably safer than standing next to your own work. Saying an accurate thing about something you did well registers as boasting from inside this pattern, even when it lands as entirely ordinary to everyone listening. A useful check: would you describe a colleague's identical work in the same reduced terms?"
 - q: "Why do I feel like I have to be the best or I am nothing?"
   a: "This is an all-or-nothing frame in which anything short of top reads as failure, and it usually formed where approval only ever arrived at the top. People describe it in exactly those words: I am not good enough unless I am the best. The practical trouble is that the frame guarantees the outcome, since almost nobody is the best at anything for very long."
 - q: "Why does getting promoted make this worse instead of better?"
@@ -46,9 +47,9 @@ faqs:
 - q: "What causes not feeling good enough?"
   a: "Growing up where the bar was pitched too high to clear or left too vague to aim at, so the verdict of good enough never got issued and never stuck. Three routes lead into it: expectations nobody could have met, having your own perceptions waved away until they stopped counting as evidence, and carrying adult responsibility as a child. School, a first manager, or a sibling who was effortlessly better can do the same job."
 - q: "What are common signs of feeling not good enough?"
-  a: "Re-reading a short email several times before sending it. Waiting to be found out in a job you have held for years. Listing what is wrong with something you made before anyone else can. A weekend off that produces guilt rather than rest. One critical line in a review outlasting nine positive ones. Holding back from applying until every gap is covered. Most people recognise three or four of those and have never connected them to each other."
+  a: "Re-reading a short email several times before sending it. Waiting to be found out in a job you have held for years. Listing what is wrong with something you made before anyone else can. A weekend off that produces guilt rather than rest. One critical line in a review outlasting nine positive ones. Holding back from applying until every gap is covered. Most people recognize three or four of those and have never connected them to each other."
 - q: "What disorder is never feeling good enough?"
-  a: "None. No diagnosis carries that name, and feeling persistently inadequate is a learned pattern rather than a condition. It does appear inside several recognised conditions, and impostor feelings, the phrase most people reach for here, has never been a clinical diagnosis either. If the feeling comes with hopelessness that will not lift, or with an eating pattern you cannot control, a doctor is the right address for that rather than an article."
+  a: "None. No diagnosis carries that name, and feeling persistently inadequate is a learned pattern rather than a condition. It does appear inside several recognized conditions, and impostor feelings, the phrase most people reach for here, has never been a clinical diagnosis either. If the feeling comes with hopelessness that will not lift, or with an eating pattern you cannot control, a doctor is the right address for that rather than an article."
 - q: "What are five signs of poor mental wellbeing?"
   a: "Sleep that has changed in either direction, appetite that has changed, withdrawing from people you normally want to see, losing interest in things that reliably used to land, and a low mood that holds for weeks rather than days. Any of those alongside this pattern moves it out of self-directed territory and into a conversation with a doctor. Add any thought of harming yourself and that conversation belongs today, with a crisis line if it is out of hours."
 - q: "Why is nothing I do ever good enough?"
@@ -58,11 +59,11 @@ faqs:
 - q: "Can I have decent self-esteem and still feel not good enough?"
   a: "Yes, and the combination confuses people for years. Plenty of people know they are loved, know their life has value, and still go tense at any task they have not done before. The opposite pairing exists too, where somebody doubts their worth as a person while their competence at work goes unquestioned. Value and capability are separate instruments, and knowing which one is misreading decides which repair has any chance of working."
 - q: "Why do I feel like I am not good enough for my partner?"
-  a: "Because the person whose approval matters most becomes the place the assessment runs hardest. It shows up as apologising for having needs, over-giving to stay worth keeping, hearing a minor complaint as a report on the entire relationship, and quietly waiting for them to work out they could do better. Their reassurance helps for about a day. What helps for longer is letting yourself be seen at your ordinary rather than at your most useful."
+  a: "Because the person whose approval matters most becomes the place the assessment runs hardest. It shows up as apologizing for having needs, over-giving to stay worth keeping, hearing a minor complaint as a report on the entire relationship, and quietly waiting for them to work out they could do better. Their reassurance helps for about a day. What helps for longer is letting yourself be seen at your ordinary rather than at your most useful."
 - q: "Why do I feel not good enough around my husband after years together?"
   a: "Long relationships accumulate a scoreboard. Years of small comparisons, the things he handles better, the version of you he saw at your worst, and a domestic standard nobody ever agreed out loud. If the assessment was already running before you met, marriage gives it more material rather than a resolution. Worth checking honestly whether anything in the present is feeding it, because a partner who keeps your standing conditional is a live dynamic and needs handling directly."
 - q: "Why do I feel like I am not good enough for anyone?"
-  a: "Because a capability verdict tends to generalise once it has run long enough, and at some point it stops being about a particular person and becomes a rule about your prospects. The tell is that it arrives before any specific candidate does. Nobody has assessed you and declined. The assessment was issued first, and then it went looking for evidence, which is a very different thing from a fact about how you land with people."
+  a: "Because a capability verdict tends to generalize once it has run long enough, and at some point it stops being about a particular person and becomes a rule about your prospects. The tell is that it arrives before any specific candidate does. Nobody has assessed you and declined. The assessment was issued first, and then it went looking for evidence, which is a very different thing from a fact about how you land with people."
 - q: "Why do I not feel pretty or attractive enough for my partner?"
   a: "Appearance is where the same evaluator finds its easiest material, because there is always a comparison available and the scoring never closes. The mechanism is identical to the work version, and so is the outcome: reassurance lands for a moment and then gets discounted. One boundary matters here. If this has attached itself to what you eat or to how much you weigh, that needs specialist help sooner than it will feel necessary."
 - q: "Why do I feel like no one is good enough for me?"
@@ -101,7 +102,7 @@ Skip the explanation for a moment and read these first. The one that belongs to 
 
 Each of these is a verdict about what you are capable of rather than a description of your record, which is why a strong review can still ruin the rest of the week.
 
-[How the seminar works with a verdict that no achievement updates](/seminar/)
+[How the seminar works with a verdict that no achievement updates](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 A performance review comes back almost entirely positive, and three days later the only sentence you can still quote from memory is the line about the missed deadline. Everything else in that document was praise, and none of it made it to Wednesday.
@@ -141,7 +142,7 @@ The same holds in a few less obvious situations. If the feeling of inadequacy is
 
 Almost certainly something with a different question underneath, and separating the two is the most useful thing you can do in the next ten minutes.
 
-Low self-esteem asks a question about value: am I worth much? Feeling inadequate asks a question about capability: am I equipped for this? Those come apart more often than people expect. You can feel entirely lovable, be certain your friends want you there, know your life has worth, and still brace every single time somebody hands you a task you have not done before. You can also run the opposite arrangement: quietly convinced you are not worth much as a person, while trusting your professional judgement completely. Same person, two separate instruments, two separate readings.
+Low self-esteem asks a question about value: am I worth much? Feeling inadequate asks a question about capability: am I equipped for this? Those come apart more often than people expect. You can feel entirely lovable, be certain your friends want you there, know your life has worth, and still brace every single time somebody hands you a task you have not done before. You can also run the opposite arrangement: quietly convinced you are not worth much as a person, while trusting your professional judgment completely. Same person, two separate instruments, two separate readings.
 
 This matters practically, because the repairs are different. Value doubt responds to being received, to relationships where you are wanted without producing anything. Capability doubt responds to something else entirely, which the last third of this page is about.
 
@@ -151,12 +152,12 @@ This matters practically, because the repairs are different. Value doubt respond
 | "I am not worth much as a person" | Low self-esteem, a verdict on value | Am I of any worth at all? |
 | "They will eventually find out I am a fraud" | Impostor feelings, the same doubt narrowed to a role or a credential | Do I deserve to be in this specific room? |
 | "I am fine only while I am producing" | Conditional worth, where standing rises and falls with output | Does my worth survive a bad quarter? |
-| "It has to be flawless before it leaves my desk" | Perfectionism, the strategy built to prevent the verdict | How do I make sure nobody can criticise this? |
+| "It has to be flawless before it leaves my desk" | Perfectionism, the strategy built to prevent the verdict | How do I make sure nobody can criticize this? |
 | "I genuinely have not learned this yet" | An actual skill gap | Does practice close it within a few months? |
 
 The last row deserves more respect than it usually gets. Sometimes you really have not learned the thing yet, and the honest answer is a few months of practice rather than any inner work at all. The way to tell them apart is what happens after you learn it. A real skill gap closes and the feeling goes with it. This pattern watches you close the gap, files the achievement, and moves the bar to whatever you have not learned yet.
 
-If the value question is the one that actually lives in you, [the root cause of low self-esteem has its own page](/insights/root-cause-of-low-self-esteem/), as does [the heavier version where the verdict lands on who you are](/patterns/self-loathing/). If the strategy is the part you recognise most, [start with perfectionism instead](/patterns/how-to-stop-being-a-perfectionist/). This page owns the middle piece: the doubt about whether you can do the thing, running independently of whether you are liked or valued for doing it.
+If the value question is the one that actually lives in you, [the root cause of low self-esteem has its own page](/insights/root-cause-of-low-self-esteem/), as does [the heavier version where the verdict lands on who you are](/patterns/self-loathing/). If the strategy is the part you recognize most, [start with perfectionism instead](/patterns/how-to-stop-being-a-perfectionist/). This page owns the middle piece: the doubt about whether you can do the thing, running independently of whether you are liked or valued for doing it.
 
 ## Where Does This Actually Come From?
 
@@ -180,7 +181,7 @@ From a specific verdict: that the real, unperformed version of you is not good e
 
 The fear gets named plainly by the people living inside it as a persistent worry that their authentic self is not good enough or worthy of acceptance. Sit with the structure of that for a moment, because it explains the whole architecture. If the true self might fail inspection, then the sensible move is to keep the inspection permanently pending. Never landing on "I am competent" is exactly how you do that. A bar that keeps moving cannot be definitively failed. It can only be endlessly approached, which hurts continuously and never delivers the one result you cannot survive.
 
-Perfectionism and constant self-checking are the behavioural wing of the same defence. Flawless work leaves criticism no surface to land on. And criticising yourself first genuinely does hurt less than waiting for somebody else to do it, in the same way that flinching before a blow is not irrational. The pre-emptive strike is a real strategy, and for a while it works.
+Perfectionism and constant self-checking are the behavioral wing of the same defense. Flawless work leaves criticism no surface to land on. And criticizing yourself first genuinely does hurt less than waiting for somebody else to do it, in the same way that flinching before a blow is not irrational. The pre-emptive strike is a real strategy, and for a while it works.
 
 Underneath both sits a quieter third function that almost nobody notices in themselves. Never fully claiming your own competence keeps the verdict dependent on an external source, which was the only kind of verdict that counted as real in the original environment. Issuing your own would mean trusting an instrument nobody in your childhood ever treated as reliable. So the doubt is doing something for you: it keeps the authority where it has always been, with other people, where it feels safe and familiar even while it is ruining your Sunday evenings. [The full version of that outsourcing, and what it costs, is worth reading separately.](/patterns/why-do-i-need-validation/)
 
@@ -196,12 +197,12 @@ There is a second reason, and it is structural. Achievement raises the bar it is
 
 ## Where Does It Show Up in an Ordinary Week?
 
-In more places than most people expect, and usually in only one or two arenas that get recognised as inadequacy at all.
+In more places than most people expect, and usually in only one or two arenas that get recognized as inadequacy at all.
 
 | Where it shows up | What it looks like from outside | The sentence underneath |
 |---|---|---|
 | At work | Over-preparing for a routine update, re-checking finished work, holding back from applying until every gap is covered | "I'm terrified of failing and being seen as not good enough." |
-| With a partner | Reading one small complaint as a verdict on the whole relationship, apologising for needing anything | "Feeling overwhelmed means I am inadequate." |
+| With a partner | Reading one small complaint as a verdict on the whole relationship, apologizing for needing anything | "Feeling overwhelmed means I am inadequate." |
 | As a parent or carer | Measuring yourself against an imagined standard nobody set, treating one bad evening as evidence about your character | "If I don't meet my high standards, I have let everyone down." |
 | Scrolling | Twenty minutes of other people's finished results landing as information about you | "I'm constantly comparing myself to others and feeling inadequate." |
 | In something you took up recently | Quitting the class, the sport, or the instrument at the point where you are visibly a beginner | "If someone is better than me, it means I'm not good enough." |
@@ -219,7 +220,7 @@ This is the single most reliable identifier of this pattern, more reliable than 
 
 That asymmetry is doing real work in your week. It means a strong piece of work reliably produces a bad evening. It means you can be given clear, useful, actionable information and be unable to use it, because you spent the available energy on absorbing the implication rather than on the note. And it means people who work with you learn, over time, to soften their feedback, which removes the only source of external calibration you had left.
 
-The repair is unglamorous and it is mechanical. When feedback arrives, write down the specific change being requested and nothing else. One line, in the imperative, about the work. Then read your line back and check whether anything in it is actually a statement about you as a person. Almost never is. What you are practising is the sorting step, which in most people happens automatically and in this pattern was never installed.
+The repair is unglamorous and it is mechanical. When feedback arrives, write down the specific change being requested and nothing else. One line, in the imperative, about the work. Then read your line back and check whether anything in it is actually a statement about you as a person. Almost never is. What you are practicing is the sorting step, which in most people happens automatically and in this pattern was never installed.
 
 ## Can You Feel Inadequate and Look Extremely Capable at the Same Time?
 
@@ -250,7 +251,7 @@ The competent end of this has nothing to do with confidence that never wavers, a
 
 Read the right-hand column carefully, because it is deliberately unimpressive. Nobody in it is announcing anything or feeling remarkable. A shaky first attempt happens in that column all the time. What has changed is that the shaky first attempt no longer threatens the underlying sense of being somebody who generally figures things out.
 
-Don't judge yourself if that column reads as slightly out of reach right now. The distance between the two columns took decades to build, and nobody crosses it in an afternoon. The useful thing is that the right-hand column is made of specific, small, repeatable behaviours rather than a change of personality, which means there is somewhere to start.
+Don't judge yourself if that column reads as slightly out of reach right now. The distance between the two columns took decades to build, and nobody crosses it in an afternoon. The useful thing is that the right-hand column is made of specific, small, repeatable behaviors rather than a change of personality, which means there is somewhere to start.
 
 ## What Actually Moves This?
 
@@ -269,7 +270,7 @@ This is slow precisely because the entire system was built to distrust that inte
 7. **Do something in public that you are visibly bad at.** A beginner class, a new sport, an instrument. What you are after is the experience of being observably incompetent, surviving it, and getting slightly better in front of witnesses, which is the exact sequence this pattern has spent thirty years preventing. Whether you ever get good at the thing barely matters.
 8. **Pick one domain rather than all of them.** Most people find this loosens in specific areas before it loosens generally: trusting their competence at work while still doubting it as a parent, or the reverse. That unevenness is normal, and it says nothing about whether the work is taking. Choose the domain where the stakes are lowest and start there.
 
-Is any of this comfortable? No. It is small and freaking repetitive, and it is exactly the kind of thing that holds when a single dramatic realisation does not. [The related work of trusting your own judgement again runs on the same machinery](/patterns/how-to-trust-yourself/), as does [the wider question of where insecurities form in the first place](/patterns/where-insecurities-come-from/).
+Is any of this comfortable? No. It is small and freaking repetitive, and it is exactly the kind of thing that holds when a single dramatic realization does not. [The related work of trusting your own judgment again runs on the same machinery](/patterns/how-to-trust-yourself/), as does [the wider question of where insecurities form in the first place](/patterns/where-insecurities-come-from/).
 
 ## How Long Does This Take, Honestly?
 
@@ -279,7 +280,7 @@ Recognition arrives quickly. Most people can catch the discount mid-sentence wit
 
 The verdict itself takes far longer, because it was rehearsed daily for years and it fades at the pace of accumulated experience rather than understanding. Reading this page changes remarkably little on its own. Fifty unfinished discount sentences, fifty accepted compliments, and a year of writing down your own read before anybody else's changes a great deal. Expect it to move in one domain first, expect regression during any period of high visibility or high stakes, and expect a visit home to undo three months of it in an afternoon. None of that means it is not working.
 
-Does it ever disappear entirely? Most people describe it loosening rather than vanishing. The gap between the doubt arriving and the doubt being believed gets longer. Recovery time after a mistake drops from days toward hours. And at some point you notice you took on something unfamiliar without first surveying everything you might not know about it, which is the change finally showing up in behaviour instead of in understanding. [Why insight on its own so rarely produces that change is worth understanding separately.](/patterns/why-insight-doesnt-change-anything/)
+Does it ever disappear entirely? Most people describe it loosening rather than vanishing. The gap between the doubt arriving and the doubt being believed gets longer. Recovery time after a mistake drops from days toward hours. And at some point you notice you took on something unfamiliar without first surveying everything you might not know about it, which is the change finally showing up in behavior instead of in understanding. [Why insight on its own so rarely produces that change is worth understanding separately.](/patterns/why-insight-doesnt-change-anything/)
 
 ## What Is One Thing to Do Today, Before You Try to Prove Anything?
 
@@ -287,4 +288,4 @@ Open a note and make two columns. In the left column, write the last three thing
 
 Then read the right column on its own. Almost everybody is startled by how automatic and how uniform the discounts are, and how little they have to do with the specific event. Seeing your own machinery written down in your own phrasing is worth more than another month of trying to feel differently, and it costs you fifteen minutes and no money. Keep the note. Add to it for a fortnight. The list itself starts doing some of the work, because a discount you have already written down twice is much harder to believe on the third occasion.
 
-If what pulls at you is the verdict itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the over-prepared, quietly exhausted high performer cannot hide inside it, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finally letting your own read of your own life count is rarely wasted, whatever you decide afterward.
+If what pulls at you is the verdict itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the over-prepared, quietly exhausted high performer cannot hide inside it, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finally letting your own read of your own life count is rarely wasted, whatever you decide afterward.

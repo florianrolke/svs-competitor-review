@@ -3,6 +3,7 @@ title: "What Is Emotional Maturity? The Capacity to Feel Something Without Actin
 metaTitle: "What Is Emotional Maturity?"
 shortTitle: "Emotional Maturity"
 description: "Emotional maturity is the capacity to stay inside a feeling long enough for it to finish, without acting it out or shutting it down. What it sounds like from the inside, why composure gets mistaken for it, why staying calm and letting it out train the same exit, and what actually builds the capacity."
+metaDescription: "Emotional maturity is the capacity to stay inside a feeling while it runs its course. What it looks like in the ten seconds after something lands."
 primaryQuestion: "What is emotional maturity?"
 intent: research
 faqTitle: "Emotional Maturity Questions"
@@ -106,7 +107,7 @@ Before the mechanics, the sentences. These are the permissions people give thems
 
 Every one of them reads as good judgment while you are saying it, which is how somebody arrives at forty with admired composure and no idea what is going on in their own chest.
 
-[How the seminar works with the composure that shows up instead of the feeling](/seminar/)
+[How the seminar works with the composure that shows up instead of the feeling](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 Sharp feedback arrives in a meeting, earlier and more publicly than you expected. There is a half second of heat across the chest, and then two doors open at once: fire something back, or go smooth and pleasant and completely absent.
@@ -160,7 +161,7 @@ Right here, before anything practical, because this boundary matters more than e
 
 Some of what gets called emotional control is a survival response to something ongoing. If you are managing another person's mood to keep a household safe, if going blank is how you get through evenings at home, or if closeness reliably brings back memories of being hurt, that belongs with a licensed professional rather than with a self-directed practice. The same holds alongside an addiction, a diagnosed condition you are currently managing, a hopelessness that has not lifted for months, or any thought of harming yourself, however quickly it passes.
 
-Deliberately staying with a strong feeling is also a poor idea while you are in acute crisis. The material below assumes ordinary conditions: the clipped email on Tuesday, the friend who cancelled a third time, the disappointment you talked yourself out of within the hour. Under heavier load, doing this with someone trained to sit with you is safer and works considerably better than doing it alone.
+Deliberately staying with a strong feeling is also a poor idea while you are in acute crisis. The material below assumes ordinary conditions: the clipped email on Tuesday, the friend who canceled a third time, the disappointment you talked yourself out of within the hour. Under heavier load, doing this with someone trained to sit with you is safer and works considerably better than doing it alone.
 
 ## What Actually Happens to a Feeling That Gets to Finish?
 
@@ -238,7 +239,7 @@ A cluster of beliefs holds this in place, and almost all of them sound like matu
 - **Absence of conflict read as peace.** A lack of visible friction taken as evidence that everything is fine, with the unresolved current running underneath it going unnamed for years.
 - **Avoidance rationalized as efficiency.** Choosing not to engage with a difficult conversation framed as a smart use of limited energy, which is a genuinely good argument and also, frequently, a cover story.
 
-Every one of those reads as maturity from the inside. Several read as maturity from the outside too, which is how somebody gets praised for two decades for the exact behavior that is quietly costing them their closest relationships. [The wider catalogue of routes people take away from their own feelings is worth reading alongside this.](/insights/ways-we-avoid-our-emotions/)
+Every one of those reads as maturity from the inside. Several read as maturity from the outside too, which is how somebody gets praised for two decades for the exact behavior that is quietly costing them their closest relationships. [The wider catalog of routes people take away from their own feelings is worth reading alongside this.](/insights/ways-we-avoid-our-emotions/)
 
 The version that hides best is the positive one. Focusing on the good, staying grateful, refusing to dwell: all of it is genuinely useful, and all of it doubles perfectly as an exit, because it arrives with moral cover. [That specific move has a name and a page of its own.](/insights/what-is-spiritual-bypassing/)
 
@@ -389,4 +390,4 @@ Run a ten-second log for forty-eight hours. Open a note on your phone. Every tim
 
 Then read the list on the second night. Two things usually surprise people. The first is how many dashes there are, since most people assume they are feeling things and simply not showing them. The second is that the letters cluster, and one door does eighty percent of the work. Knowing your door is worth more than any amount of general resolve to be more present, because it turns an abstract intention into something you can catch in flight. It costs you two days of noticing and nothing else, and it works whether or not you ever go anywhere or buy anything.
 
-If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a joke cannot quietly hide inside it, and integration built into the design, since a week of feeling things in a beautiful valley is worth very little without the ordinary Wednesdays that follow it. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent learning to stay in the room with something you have been leaving for twenty years is rarely wasted, whatever you decide afterward.
+If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a joke cannot quietly hide inside it, and integration built into the design, since a week of feeling things in a beautiful valley is worth very little without the ordinary Wednesdays that follow it. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent learning to stay in the room with something you have been leaving for twenty years is rarely wasted, whatever you decide afterward.

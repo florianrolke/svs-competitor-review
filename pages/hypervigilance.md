@@ -3,6 +3,7 @@ title: "What Is Hypervigilance, and Why Can I Not Switch It Off? The Threshold T
 metaTitle: "What Is Hypervigilance?"
 shortTitle: "Hypervigilance"
 description: "Hypervigilance is continuous threat-scanning that runs as a procedure rather than a mood, which is why it keeps going when you feel calm. Where the low threshold gets set, why relaxing and meditating slide off it, how it differs from anxiety, intuition, paranoia and plain conscientiousness, what it costs, and what genuinely recalibrates it."
+metaDescription: "Hypervigilance runs as a background procedure, so it keeps scanning while you feel calm. Where the threshold got set, and what genuinely recalibrates it."
 primaryQuestion: "What is hypervigilance, and why can I not switch it off?"
 intent: research
 faqTitle: "Hypervigilance Questions"
@@ -101,7 +102,7 @@ You can feel perfectly calm and still have one of these running underneath. Chec
 
 The cost is an ordinary evening that leaves you flattened, and rooms you never quite arrive in.
 
-[How the seminar works with the scanning that keeps running while you feel calm](/seminar/)
+[How the seminar works with the scanning that keeps running while you feel calm](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 You took the seat facing the door last week, and you never decided to. Somewhere between the entrance and the table the seating was already settled, by a part of you that did not consult you about it.
@@ -181,7 +182,7 @@ At least seven more things beyond anxiety, and most of them are flattering, whic
 | Being observant or perceptive | People compliment it. You notice everything. You are so perceptive | Observation can be switched off at will. This runs whether or not you want it running, and the inability to stop is the pattern itself |
 | Paranoia | Both involve suspicion and a refusal to take situations at face value | Paranoia usually carries a fixed belief that specific people intend harm. This is generalized scanning with no persecutory story attached |
 | Being a planner or Type A | The calendar, the contingencies, the meticulous preparation, the early arrival | Planning stops when the plan exists. This re-checks a finished plan, because the checking is what is doing the regulating. [The certainty-seeking version has its own page.](/patterns/need-for-certainty/) |
-| Clinical hyperarousal in a trauma picture | Startle, sleep trouble, and a body permanently on duty appear in both | The clinical picture usually attaches to identifiable triggers and sits alongside other criteria, and only a professional can assess it. This version can form with no discrete incident anywhere |
+| Clinical hyperarousal after serious harm | Startle, sleep trouble, and a body permanently on duty appear in both | The clinical picture usually attaches to identifiable triggers and sits alongside other criteria, and only a professional can assess it. This version can form with no discrete incident anywhere |
 | Composure under pressure | You are visibly the calmest person in a tense room, and people notice | Composure is equanimity. This is the algorithm succeeding, predicting the room correctly and pre-adjusting, at a cost nobody can see |
 | Empathy | Reading emotional cues accurately looks exactly like attunement | Empathy is aimed at connection. This is the same skill aimed at prediction, which stays diagnostic even when it is pointed at people you love |
 
@@ -238,7 +239,7 @@ Three hours in a friendly crowd means three hours of face-reading, position-trac
 
 The tiredness is the bill for the scans, rather than evidence that the evening was bad or that something is wrong with you. That reframe changes very little practically and a surprising amount emotionally, because it stops the evening from being filed as a personal failure.
 
-It also explains a pattern most people in this cluster recognize instantly: preferring smaller groups, needing a long quiet stretch afterward, feeling relieved when plans get cancelled. Those are the choices a person makes when a certain kind of room costs them three times what it costs everybody else, which makes them a good deal less freely chosen than they look from outside.
+It also explains a pattern most people in this cluster recognize instantly: preferring smaller groups, needing a long quiet stretch afterward, feeling relieved when plans get canceled. Those are the choices a person makes when a certain kind of room costs them three times what it costs everybody else, which makes them a good deal less freely chosen than they look from outside.
 
 ## Why Does Kindness Get Checked as Carefully as Anger?
 
@@ -318,4 +319,4 @@ Spend ten minutes naming your three categories. Not a log, not a practice, just 
 
 Then rank them by how often you are actually in them, and start with the most frequent, rather than the worst. Most people carry this as one undifferentiated condition, some version of I am just a wary person, which offers nothing to work on. Three named categories with a frequency next to each is something with an address. That distinction costs you ten minutes and it is the piece almost everybody skips, which is why so many people spend years applying general calm to a specific problem.
 
-If what pulls at you is that recalibration rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, so the room is genuinely what it claims to be and your scanning has nothing legitimate to find, a group kept small enough that you can eventually stop tracking everybody in it, and integration built into the design, since the categories that need new evidence are the ones waiting at home rather than the ones in the valley. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. There is no hurry on any of this, and a week spent in a room you did not have to read is rarely wasted, whatever you decide afterward.
+If what pulls at you is that recalibration rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, so the room is genuinely what it claims to be and your scanning has nothing legitimate to find, a group kept small enough that you can eventually stop tracking everybody in it, and integration built into the design, since the categories that need new evidence are the ones waiting at home rather than the ones in the valley. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. There is no hurry on any of this, and a week spent in a room you did not have to read is rarely wasted, whatever you decide afterward.

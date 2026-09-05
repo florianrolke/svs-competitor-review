@@ -2,16 +2,17 @@
 title: "How Does Growing Up Around Violence Shape an Adult? The Half Second Your Body Still Answers In"
 metaTitle: "How Growing Up Around Violence Shapes Adults"
 shortTitle: "Growing Up Around Violence"
-description: "Childhood trauma in adults often shows up as a nervous system still on duty: the flinch at a slammed door, the seat facing the entrance, the peace kept at your own expense. The internal sentences that give it away, why witnessing counts, the adult behaviors that trace back, what separates it from a private temperament, and what the settled end looks like on an ordinary Tuesday."
+description: "Early harm often shows up in adults as a nervous system still on duty: the flinch at a slammed door, the seat facing the entrance, the peace kept at your own expense. The internal sentences that give it away, why witnessing counts, the adult behaviors that trace back, what separates it from a private temperament, and what the settled end looks like on an ordinary Tuesday."
+metaDescription: "The flinch at a slammed door, the seat facing the entrance, the peace kept at your own expense. How a childhood around violence still runs decades later."
 primaryQuestion: "How does growing up around violence shape an adult?"
 intent: research
 faqTitle: "Growing Up Around Violence Questions"
 faqs:
-- q: "What are the signs of childhood trauma in adults?"
+- q: "What are the signs of early harm in adults?"
   a: "Commonly reported ones cluster in three places. The body: an exaggerated startle, broken sleep, headaches or stomach trouble with no clear medical cause. The environment: checking locks repeatedly, noting exits on arrival, choosing the seat facing the door. Relationships: difficulty trusting new people, going flat during conflict, testing a partner's loyalty. No single item on that list confirms anything by itself, and a professional assessment is a separate step worth taking."
 - q: "How does an abusive childhood affect adulthood?"
   a: "Mostly through the body rather than through memory. An adult who grew up around harm runs threat detection continuously: exits noted on arrival, sleep that breaks easily, a startle that fires before any thought reaches it. Relationships carry it too, as distrust that shows up before evidence does and a habit of keeping the peace at personal cost. Those responses were accurate once, and they recalibrate slowly as different evidence accumulates."
-- q: "What does unresolved childhood trauma look like in adults?"
+- q: "What does early harm that was never dealt with look like in adults?"
   a: "Usually a life that works on the surface with an alarm system underneath still on duty. Broken sleep, old scenes replaying uninvited, going flat during conflict, a quiet certainty that the good stretch is about to end. Resolved means the memory can be described without the body joining in. Unresolved means it still arrives as a physical event, decades later, in rooms where nothing is happening."
 - q: "My parents never hit me, they just fought and screamed at each other constantly. Can that still cause this?"
   a: "Yes. Witnessing violence between the adults who were supposed to be safe registers in much the same way as being struck. A child watching does not have to be the target for the environment itself to become the injury, because the same lessons land either way: closeness and danger arrive together, peace is fragile and has to be actively managed, and nobody is reliably coming to make it stop."
@@ -19,7 +20,7 @@ faqs:
   a: "Often a specific set of associations. Male anger read as a countdown rather than an emotion. Authority figures watched more closely than the situation calls for. A body that answers a raised voice from a man faster than it answers anything else. Some people spend a lifetime becoming his opposite. Some hear his temper come out of their own mouth and are horrified by it. Both are common, and neither one settles anything about who you are now."
 - q: "Does a violent older sibling count, or was that just how brothers are?"
   a: "It counts. Rough play has an even feel and an obvious ending. Being hit by somebody bigger who lives in your house, in front of adults who treated it as ordinary, teaches exactly what a violent parent teaches: home is where harm comes from, and saying so changes nothing. Sibling violence gets minimized more reliably than any other kind, and usually the first person minimizing it is the one who lived through it."
-- q: "What age is trauma most damaging?"
+- q: "What age is harm most damaging?"
   a: "Nobody can give you a single age, and the honest version is that several things weigh at once. Harm that lands earlier tends to shape more, because it arrives while the basic expectations about safety and closeness are still forming, before there is any language to file it under. How long it went on, and whether one steady adult was present, appear to matter at least as much as the age itself."
 - q: "Why do I flinch when someone raises their voice, even when I know I am not in danger?"
   a: "Because the body learned to treat volume itself as the warning, without waiting to check who it was aimed at. The startle fires in a fraction of a second, well before any thought about whether the shouting concerns you. Knowing you are safe does not reach the reflex in time. It tends to soften slowly, at the pace of accumulated quiet years rather than through argument."
@@ -98,14 +99,14 @@ Do any of these sound like sentences you have already said to yourself?
 
 A body that stayed on guard for thirty years does not talk itself down, and that half second of bracing costs more across a life than anybody ever adds up.
 
-[How the seminar works with a nervous system still on duty](/seminar/)
+[How the seminar works with a nervous system still on duty](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 A door slams somewhere in the house. You already know who is home, you already know nothing is wrong, and your body has still gone still and listening a half second before any of that reached the part of you that knows things.
 
 That half second is the whole subject of this page. Nothing about it feels like remembering. It arrives as a physical event, faster than thought, in a body that made an accurate calculation a long time ago and has been repeating it ever since in rooms where it no longer applies.
 
-Most people searching for childhood trauma in adults are looking for something narrower than a definition. They want to know why they scan a restaurant before sitting down. Why a partner raising their voice about a missed exit on the highway makes their whole system go quiet and calculating. Why they say "I'm fine" to someone who is visibly worried and half believe it themselves. This page is about those specific things, where they came from, and what the other end of them looks like.
+Most people searching for the adult effects of early harm are looking for something narrower than a definition. They want to know why they scan a restaurant before sitting down. Why a partner raising their voice about a missed exit on the highway makes their whole system go quiet and calculating. Why they say "I'm fine" to someone who is visibly worried and half believe it themselves. This page is about those specific things, where they came from, and what the other end of them looks like.
 
 One thing before all of it, because it matters more than everything underneath. If you are having flashbacks, panic that takes over your day, dissociation that costs you hours, or any thought of harming yourself, that belongs with a doctor or a licensed therapist rather than with an article. Describing a pattern and assessing a person are two different pieces of work. Only the second one can tell you what you are dealing with, and nothing here substitutes for it.
 
@@ -150,7 +151,7 @@ The first is that closeness and danger arrive together. The people who fed you w
 
 Where a person's cruelty was involved rather than only chaos, a fourth channel opens. What you were told about yourself while it was happening gets stored as fact rather than as an insult. Being belittled at seven does not feel like an opinion at seven. It feels like information, and it is still sitting there at thirty-seven, phrased in the second person, in somebody else's voice.
 
-This overlaps with several neighboring patterns without being any of them. [The scanning that a volatile but not physically dangerous household produces has its own page](/patterns/walking-on-eggshells/), and so does [the version where the injury was absence rather than danger](/patterns/childhood-emotional-neglect/). If deceit rather than force is the part that keeps catching, [the betrayal thread is worth reading separately](/patterns/betrayal-trauma/).
+This overlaps with several neighboring patterns without being any of them. [The scanning that a volatile but not physically dangerous household produces has its own page](/patterns/walking-on-eggshells/), and so does [the version where the injury was absence rather than danger](/patterns/childhood-emotional-neglect/). If deceit rather than force is the part that keeps catching, [the betrayal thread is worth reading separately](/patterns/when-someone-close-betrays-you/).
 
 ## When Does This Belong With a Professional Rather Than a Page Like This?
 
@@ -316,4 +317,4 @@ Run a return log for forty-eight hours. Open a note on your phone, and each time
 
 Then read it on the second night and look only at the third column. Most people expect to be shocked by how often the system fires and are actually shocked by the recovery times, which tend to be either much shorter or much longer than they assumed. That number is the one worth tracking over the next year, because it moves, and because it is a far more honest measure of change than whether the startle happened at all. Two days of noticing costs you nothing and gives you a baseline you will still be able to compare against next spring.
 
-If what pulls at you is that recalibration rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around this kind of material: real screening before anyone arrives, so nobody who needs a clinician instead ends up in a group, a group kept small enough that the person deflecting with humor cannot quietly disappear inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. There is no hurry on any of this, and a week spent finally looking at what your body has been carrying is rarely wasted, whatever you decide afterward.
+If what pulls at you is that recalibration rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anyone arrives, so nobody who needs a clinician instead ends up in a group, a group kept small enough that the person deflecting with humor cannot quietly disappear inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. There is no hurry on any of this, and a week spent finally looking at what your body has been carrying is rarely wasted, whatever you decide afterward.

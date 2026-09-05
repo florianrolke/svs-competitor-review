@@ -3,6 +3,7 @@ title: "Why Can't I Name What I'm Feeling? The Gap Between the Sensation and the
 metaTitle: "Why Can't I Name What I'm Feeling?"
 shortTitle: "Naming Your Feelings"
 description: "The feeling arrives on time and the word for it does not, so the honest answer to a direct question comes out as I don't know. Where that gap forms, what the vagueness was protecting, how it differs from numbness and from being a private person, the substitutes it runs on, and what a working emotional vocabulary looks like on an ordinary Thursday."
+metaDescription: "The feeling arrives on time and the word for it does not, so the honest answer comes out as I don't know. Where that gap forms, and how naming gets built."
 primaryQuestion: "Why can't I name what I'm feeling?"
 intent: research
 faqTitle: "Naming Your Feelings Questions"
@@ -101,7 +102,7 @@ Read these slowly and notice which ones are already in your own voice.
 
 Sentences like these keep running underneath a feeling that never gets a name, and an unnamed feeling is one nobody else can help you with.
 
-[How the seminar works with the gap between a feeling and the words for it](/seminar/)
+[How the seminar works with the gap between a feeling and the words for it](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 Somebody asks how you feel about it. There is no edge in the question and no trap in it, just an ordinary Thursday evening and a person who genuinely wants to know. Then comes the pause. You can tell that something is happening in there, roughly the way you can tell a room is cold before you look at the thermostat, and what arrives in your mouth is "I don't know", or "stressed, I guess", or a tidy opinion about what somebody else should have done instead. The conversation moves on. Ten minutes later you are rinsing a pan, faintly irritated with yourself, and you have no word for that either.
@@ -201,9 +202,9 @@ The hyper-vigilance row is the one that surprises people. Plenty of people in th
 
 Because it assumes the exact capacity that is missing, and it assumes it can be produced on demand in under two seconds.
 
-The question is asked kindly, usually by somebody who has never had this problem and therefore has no idea it is a problem. For them the word is simply there, the way a first language is there. Being asked to produce one on request when the labeling layer is thin feels roughly like being asked to name a colour you can see but have never been told the word for. The frustration that follows generally has nothing to do with the person asking.
+The question is asked kindly, usually by somebody who has never had this problem and therefore has no idea it is a problem. For them the word is simply there, the way a first language is there. Being asked to produce one on request when the labeling layer is thin feels roughly like being asked to name a color you can see but have never been told the word for. The frustration that follows generally has nothing to do with the person asking.
 
-There is a version of the answer that works, and it involves changing what you are answering with. Report the sensation and the timing rather than the label: something tightened in my chest when you said that, it started about ten minutes ago, and I do not have the word for it yet. That is a complete and honest answer. It gives the other person something real to work with, and it lets you practise the first half of the skill without waiting until the second half is finished.
+There is a version of the answer that works, and it involves changing what you are answering with. Report the sensation and the timing rather than the label: something tightened in my chest when you said that, it started about ten minutes ago, and I do not have the word for it yet. That is a complete and honest answer. It gives the other person something real to work with, and it lets you practice the first half of the skill without waiting until the second half is finished.
 
 ## What Does the Other End of This Actually Look Like?
 
@@ -236,7 +237,7 @@ By running the mirroring cycle yourself, slowly and on purpose, in rooms where a
 4. **Keep the list and add a line at the bottom.** No need to give up a habit that works. Write the bullet points, then write one sentence naming what you feel about the whole page. The list gets you to the door, and the sentence goes through it.
 5. **Catch the joke once a week and reverse it.** You will feel the swerve arriving a beat before it does. Say "actually, let me try to say what that was" and take another run at it. Once a week is a serious practice.
 6. **Check your own face first.** When news lands in a group, take one second to notice what happened in your body before you look at anybody else. Mimicry is fast, so this only works if you get there first.
-7. **Practise in calm rooms.** Pressure takes the vocabulary before it takes anything else, so an argument is the worst possible place to learn this. Build it on ordinary Thursdays and it will eventually turn up on the hard days.
+7. **Practice in calm rooms.** Pressure takes the vocabulary before it takes anything else, so an argument is the worst possible place to learn this. Build it on ordinary Thursdays and it will eventually turn up on the hard days.
 8. **Say one of them to another person.** Naming it privately builds the label. Naming it out loud to somebody safe is what disconnects the old cost from the sentence, and that is a separate piece of work.
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The thing I was slowest to notice was how much of this is a skill rather than a temperament. For years I could give an intelligent account of why I was the way I was and still go blank when somebody asked what I was feeling right then, and I read that blank as evidence there was nothing there. Where it sits today is worth saying plainly: the words come faster than they did, they still go missing under real pressure, and I would rather tell you that than sell a finished version of something nobody finishes.
@@ -269,4 +270,4 @@ Set three alarms on your phone, spread across tomorrow, and give yourself ninety
 
 At the end of the four days you will have twelve entries. Read them in one sitting. Most people find two things they were not expecting: the same two or three words doing all of the work, and a handful of second guesses that were noticeably more accurate than the first ones. That gap between the first word and the second is the skill you are building, and starting on it costs you about six minutes a day.
 
-If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a joke cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent learning to say a true thing about yourself out loud, clumsily, in front of people who will not flinch, is rarely wasted, whatever you decide afterward.
+If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a joke cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent learning to say a true thing about yourself out loud, clumsily, in front of people who will not flinch, is rarely wasted, whatever you decide afterward.

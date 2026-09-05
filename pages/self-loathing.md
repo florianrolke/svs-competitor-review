@@ -1,82 +1,240 @@
 ---
-title: "What Is Self Loathing, and Where Does It Come From? The Verdict, the Voice, and Why Arguing Back Fails"
-metaTitle: "What Is Self Loathing?"
-shortTitle: "Self Loathing"
-description: "Self loathing is a verdict about who you are rather than a complaint about something you did, and it usually began as somebody else's evaluation that you learned to run without them. The exact sentences that give it away, where the standard was originally set, why arguing with the voice makes it louder, how it hides inside modesty and drive, and what the other end looks like on an ordinary Tuesday."
-primaryQuestion: "What is self loathing, and where does it come from?"
-intent: research
-faqTitle: "Self Loathing Questions"
+description: Self loathing is a verdict about who you are rather than a complaint
+  about something you did, and it usually began as somebody else's evaluation that
+  you learned to run without them. The exact sentences that give it away, where the
+  standard was originally set, why arguing with the voice makes it louder, how it
+  hides inside modesty and drive, and what the other end looks like on an ordinary
+  Tuesday.
+metaDescription: "Self loathing arrives as a verdict about who you are, delivered as fact, which is why arguing with it fails. Where it was learned, and what loosens it."
+faqTitle: Self Loathing Questions
 faqs:
-- q: "Why do I hate myself for no reason?"
-  a: "There is usually a reason, and it is old enough to have stopped feeling like one. Most self hatred traces back to an environment where approval was conditional, or where your read on your own experience was regularly dismissed, so evaluating stopped being something other people did to you and became something you do to yourself. By adulthood the verdict arrives with no trigger attached, which is exactly what makes it feel groundless."
-- q: "Is self loathing the same as self hatred?"
-  a: "In ordinary use, yes, and the small difference is worth knowing anyway. Hatred describes the heat, an active hostility toward yourself that flares up and burns out. Loathing describes something colder and more settled, closer to disgust, and it runs quietly in the background on days when nothing in particular has gone wrong. People move between the two, often in the same afternoon. Which word you use changes nothing about what helps, so pick whichever sounds more like your week."
-- q: "Is self loathing a mental illness?"
-  a: "No, and nobody gets diagnosed with it. Self loathing describes an experience rather than a condition, and it turns up alongside a wide range of lives, including plenty that look successful from outside. It does deserve professional attention alongside hopelessness that has not lifted for months, thoughts of harming yourself, or any thought of ending your life. In that case contact a doctor or a crisis line today rather than reading further."
-- q: "What personality disorder is self loathing?"
-  a: "None is defined by it. Harsh self-judgment appears as a feature inside the descriptions of several diagnosed conditions, which is where this question usually comes from, and appearing as a feature is a long way from being the condition. Plenty of people carry a brutal internal verdict and meet the criteria for nothing at all. Only a proper assessment settles it, so if the question keeps returning, book one rather than diagnosing yourself online."
-- q: "What does psychology call self loathing?"
-  a: "There is no single clinical term for it. The nearest research language is internalized shame, harsh self-criticism, and self-directed hostility, all of which have been studied, and none of which is a label anybody receives. Some frameworks describe an internal critic formed out of early relationships, and some describe a learned rule about conditional worth. The names differ more than the descriptions do, and all of them point at the same everyday experience."
-- q: "Is self loathing an emotion or a belief?"
-  a: "Both are present, and the belief is the part that keeps it going. The emotional layer is contempt or disgust, which arrives in the body within a second and passes like any other feeling. The belief layer is a conclusion about your worth that stays put between episodes, unexamined, waiting. Feelings pass on their own. A conclusion has to be caught in the act of being applied, which is why this takes attention rather than mood management."
-- q: "How common is self loathing, and how much of it is normal?"
-  a: "Common enough that most people recognize a few of its sentences in themselves, and the useful question is about degree rather than presence. Almost everybody has a critical voice and the occasional cringe at a memory. What marks the heavier version is frequency, duration, and reach: a verdict arriving many times a day, staying for hours, and changing what you attempt. Once it is deciding which jobs you apply for and who you date, it has passed normal."
-- q: "Why do I feel physically disgusted with myself sometimes?"
-  a: "Because contempt is a whole body event rather than a thought, and disgust is one of its ordinary expressions. People describe a drop in the chest or the stomach on catching their own reflection, or a physical recoil at a memory from years ago. The feeling arrives faster than any sentence, which is part of why reasoning with it afterward changes so little. Persistent disgust toward your own body is worth raising with a professional."
-- q: "What does self loathing look like from the outside?"
-  a: "Usually like nothing at all, which is why it goes unnoticed for years. What other people actually see are small habits: apologizing for taking up time, making the joke about yourself before anybody else can, leaving your name off work you did, declining things you would be good at, and an inability to sit still on a free afternoon. From outside, most of that passes for someone diligent and easy to have around."
-- q: "Can you loathe yourself and still be confident at work?"
-  a: "Very commonly, and this is the version that goes unnoticed longest. Competence and a harsh internal verdict live together easily, because the competence is often what the verdict demanded in the first place. The tell is what happens after a win. The achievement gets discounted within days, the next target starts before the last one has landed, and praise gets filed as politeness rather than as information."
-- q: "Why do I cringe at memories of things I did years ago?"
-  a: "Because the memory is being handled as evidence rather than as history. An ordinary awkward moment gets replayed by a system that already reached a conclusion about you and keeps hunting for support. The intensity tells you about the strength of the verdict rather than the size of the original event. Almost everybody has these. Frequency and duration are what separate a normal cringe from something worth working on."
-- q: "Why do compliments make me feel worse rather than better?"
-  a: "Because a compliment contradicts a settled position, and contradiction creates pressure. Three things tend to happen at once. The praise gets discounted as politeness, a small alarm goes off about being looked at more closely than you would like, and the gap between how you are being described and how you privately rate yourself becomes uncomfortable. Practicing a plain thank you with nothing added works directly on this."
-- q: "Is it normal to hate how I look?"
-  a: "Dissatisfaction with appearance is extremely common, and a settled hatred of your own body is a heavier thing. The distinction that matters day to day is whether the feeling lands on a feature or on you as a person, and whether it changes what you do: avoiding photographs, mirrors, swimming, dating. Persistent distress about your body deserves a licensed professional rather than a self directed practice."
-- q: "What is the difference between guilt and self loathing?"
-  a: "Guilt attaches to something you did and it points toward a repair. You apologize, you make it right, and guilt usually fades once you have. Self loathing attaches to who you are, so no repair reaches it, and people often notice that fixing the specific thing changes nothing about the feeling underneath. A useful test: once you have made it right, check honestly whether anything actually lifted."
-- q: "Is self loathing a form of narcissism?"
-  a: "No, though the accusation gets made often enough to sting. The overlap people notice is attention: somebody running a constant verdict about themselves is preoccupied with themselves, which can look self-absorbed from outside. The direction is the opposite one. Narcissism defends an inflated self-image, and this attacks the self-image relentlessly. Some people do carry both, an outward front over a private verdict, and that combination is a good reason to work with a professional."
-- q: "Is self loathing selfish, or a form of pride?"
-  a: "Neither, although both charges get thrown at people who are already struggling, usually by somebody who means well. The pride version has a grain in it: holding yourself to a standard nobody else is held to does place you in a special category, and noticing that can loosen things a little. Used as an accusation it simply adds another count to the indictment. Being told you are selfish for suffering has yet to reduce anybody's suffering."
-- q: "Will I lose my drive if I stop being hard on myself?"
-  a: "This is the most common reason people keep the voice, and the fear deserves taking seriously rather than dismissing. What tends to happen is quieter than the fear predicts. Output continues, recovery time after a setback drops, and the work stops requiring a running threat to get started at all. Test it on something small and reversible before you take anybody's word for it, mine included."
-- q: "Why do I feel like a fraud even though I am good at my job?"
-  a: "Because competence and self assessment run on separate tracks, and only one of them updates. Successes get attributed to luck, timing, or an easy year, so evidence of ability keeps arriving and keeps failing to register anywhere. The result is a person with a real record and no internal sense of owning it. Noticing which explanation you reach for in the hour after a win is the useful place to start."
-- q: "How does self loathing affect relationships?"
-  a: "It works as a filter on everything a partner says. Affection gets tested, discounted, or read as pity. Care gets repaid within the hour so the ledger stays level. Ordinary criticism lands as confirmation of the verdict and produces a reaction out of all proportion to the remark. Across years this exhausts both people, because the partner is being asked daily to disprove something that was decided long before they ever turned up."
-- q: "How do I quiet the voice at three in the morning?"
-  a: "Expect it there, because tiredness removes the effort that keeps it quiet during the day, and nothing decided at three in the morning is reliable enough to act on. Practically: get out of bed, put a light on, write the exact sentence down word for word, and leave answering it until daylight. Writing it moves you from inside the sentence to outside it. Arguing with it in the dark reliably makes it longer."
-- q: "Does self loathing come from one big event or from years of small ones?"
-  a: "Far more often from an accumulation of small ones, which is why so many people cannot point to a cause and conclude the feeling must be groundless. A daily environment where affection tracked performance, or where your account of your own experience was routinely corrected, does the work without ever producing a memorable scene. Single events matter too, and they usually land on ground that was already prepared."
-- q: "Is self loathing a symptom of depression?"
-  a: "It can be part of a depressed stretch, and it also runs in people who are not depressed at all, so one does not establish the other. The two feed each other in practice. A low period makes the verdict louder, and a loud verdict makes the low period harder to climb out of. Working out which is which belongs with a doctor rather than with a page. If low mood has held for months, book that appointment this week."
-- q: "Is self loathing dangerous?"
-  a: "It can be, and the line is worth stating plainly. Contempt turned inward is linked to withdrawal, to punishing behavior, and at the severe end to thoughts of self-harm, which is why nobody should sit alone with the heavy version of it. If there is any thought of ending your life or hurting yourself, contact a doctor, a crisis line, or the emergency services today. The everyday version costs you opportunities, rest, and closeness."
-- q: "What is profound self loathing?"
-  a: "The phrase usually means the version that has stopped feeling like an opinion and become the floor everything else stands on. Practically it looks like a verdict present most waking hours, no memory of a period without it, avoidance of mirrors, photographs, and being seen, and a settled certainty that anybody who likes you has been fooled. That level belongs in a room with a professional rather than in a set of exercises done alone."
-- q: "Can a therapist help with this, and what should I look for?"
-  a: "Yes, and a professional is the right route whenever the material is heavy, longstanding, or tangled with anything clinical. Look for somebody who works with early relational patterns and with shame, ask directly how they actually work rather than only about credentials, and give it a handful of sessions before judging the fit. If you are in crisis, contact a doctor or a crisis line first and arrange ongoing support after."
-- q: "Does self loathing get worse with age?"
-  a: "It changes shape more reliably than it changes volume. The demands feeding it tend to move from school and career toward appearance, health, money, and the question of what you have made of your life. Some people find it eases as external pressure drops away, and others find it sharpens as the ledger starts to look harder to correct. Age by itself decides very little here."
-- q: "What do I say to someone I love who talks about themselves like this?"
-  a: "Skip the argument, because contradicting the sentence usually produces a better defense of it. Something closer to this works: I heard what you just called yourself, I do not see you that way, and I am not going to debate it with you. Then stay present and ordinary. Repeated warmth that survives their worst self description does more across months than any single correction does in an evening."
-- q: "How do you get rid of self loathing?"
-  a: "You loosen it rather than remove it, and most people begin by trying to win the argument, which is the part worth dropping first. What actually reduces it is unglamorous: register the sentence as a sentence, leave it unanswered, and carry on with whatever you were doing, several dozen times a week for months. Add one honest look at where the standard was originally set. Expect the weight to drop long before the frequency does."
-- q: "How do I know whether I am actually making progress?"
-  a: "Three markers, none of them silence. The gap between a sentence arriving and you believing it gets longer. Recovery time after a mistake shortens, from days toward hours. And you start catching the moment a report about something you did turns into a verdict about who you are, while it is happening. Progress here shows up as a slow change in weight rather than a change in volume."
-- q: "What is the opposite of self loathing?"
-  a: "Self-acceptance, which disappoints most people who ask, because they were hoping for confidence or self-love. The far end is quieter than either of those. It looks like a day with no commentary about your worth running underneath it, where an error is annoying for twenty minutes and then finished, and where being ordinary at something is survivable. Nobody there feels impressive. What they have back is the afternoon."
-- q: "What does the Bible say about self loathing?"
-  a: "I am no theologian, so take this as an outsider's summary rather than as teaching. Most Christian readings hold that a person is made in God's image and loved as they are, which puts contempt for yourself outside what is being asked of you, and they keep that separate from repentance, which concerns what you did. Plenty of people find their own tradition steadying here. If self-contempt is being carried as proof of humility, a pastor or a priest is the better person to ask."
-- q: "Can a retreat or a week away help with self loathing?"
-  a: "It can give you concentrated time, a group, and a facilitator in the room, which is considerably more than most people get at home. What a week cannot do is finish it, and any program implying otherwise is worth walking away from. The durable part happens on ordinary days afterward, so ask any program what specifically it does in the weeks after you fly home."
+- a: There is usually a reason, and it is old enough to have stopped feeling like
+    one. Most self hatred traces back to an environment where approval was conditional,
+    or where your read on your own experience was regularly dismissed, so evaluating
+    stopped being something other people did to you and became something you do to
+    yourself. By adulthood the verdict arrives with no trigger attached, which is
+    exactly what makes it feel groundless.
+  q: Why do I hate myself for no reason?
+- a: In ordinary use, yes, and the small difference is worth knowing anyway. Hatred
+    describes the heat, an active hostility toward yourself that flares up and burns
+    out. Loathing describes something colder and more settled, closer to disgust,
+    and it runs quietly in the background on days when nothing in particular has gone
+    wrong. People move between the two, often in the same afternoon. Which word you
+    use changes nothing about what helps, so pick whichever sounds more like your
+    week.
+  q: Is self loathing the same as self hatred?
+- a: No, and nobody gets diagnosed with it. Self loathing describes an experience
+    rather than a condition, and it turns up alongside a wide range of lives, including
+    plenty that look successful from outside. It does deserve professional attention
+    alongside hopelessness that has not lifted for months, thoughts of harming yourself,
+    or any thought of ending your life. In that case contact a doctor or a crisis
+    line today rather than reading further.
+  q: Is self loathing a mental illness?
+- a: None is defined by it. Harsh self-judgment appears as a feature inside the descriptions
+    of several diagnosed conditions, which is where this question usually comes from,
+    and appearing as a feature is a long way from being the condition. Plenty of people
+    carry a brutal internal verdict and meet the criteria for nothing at all. Only
+    a proper assessment settles it, so if the question keeps returning, book one rather
+    than diagnosing yourself online.
+  q: What personality disorder is self loathing?
+- a: There is no single clinical term for it. The nearest research language is internalized
+    shame, harsh self-criticism, and self-directed hostility, all of which have been
+    studied, and none of which is a label anybody receives. Some frameworks describe
+    an internal critic formed out of early relationships, and some describe a learned
+    rule about conditional worth. The names differ more than the descriptions do,
+    and all of them point at the same everyday experience.
+  q: What does psychology call self loathing?
+- a: Both are present, and the belief is the part that keeps it going. The emotional
+    layer is contempt or disgust, which arrives in the body within a second and passes
+    like any other feeling. The belief layer is a conclusion about your worth that
+    stays put between episodes, unexamined, waiting. Feelings pass on their own. A
+    conclusion has to be caught in the act of being applied, which is why this takes
+    attention rather than mood management.
+  q: Is self loathing an emotion or a belief?
+- a: 'Common enough that most people recognize a few of its sentences in themselves,
+    and the useful question is about degree rather than presence. Almost everybody
+    has a critical voice and the occasional cringe at a memory. What marks the heavier
+    version is frequency, duration, and reach: a verdict arriving many times a day,
+    staying for hours, and changing what you attempt. Once it is deciding which jobs
+    you apply for and who you date, it has passed normal.'
+  q: How common is self loathing, and how much of it is normal?
+- a: Because contempt is a whole body event rather than a thought, and disgust is
+    one of its ordinary expressions. People describe a drop in the chest or the stomach
+    on catching their own reflection, or a physical recoil at a memory from years
+    ago. The feeling arrives faster than any sentence, which is part of why reasoning
+    with it afterward changes so little. Persistent disgust toward your own body is
+    worth raising with a professional.
+  q: Why do I feel physically disgusted with myself sometimes?
+- a: 'Usually like nothing at all, which is why it goes unnoticed for years. What
+    other people actually see are small habits: apologizing for taking up time, making
+    the joke about yourself before anybody else can, leaving your name off work you
+    did, declining things you would be good at, and an inability to sit still on a
+    free afternoon. From outside, most of that passes for someone diligent and easy
+    to have around.'
+  q: What does self loathing look like from the outside?
+- a: Very commonly, and this is the version that goes unnoticed longest. Competence
+    and a harsh internal verdict live together easily, because the competence is often
+    what the verdict demanded in the first place. The tell is what happens after a
+    win. The achievement gets discounted within days, the next target starts before
+    the last one has landed, and praise gets filed as politeness rather than as information.
+  q: Can you loathe yourself and still be confident at work?
+- a: Because the memory is being handled as evidence rather than as history. An ordinary
+    awkward moment gets replayed by a system that already reached a conclusion about
+    you and keeps hunting for support. The intensity tells you about the strength
+    of the verdict rather than the size of the original event. Almost everybody has
+    these. Frequency and duration are what separate a normal cringe from something
+    worth working on.
+  q: Why do I cringe at memories of things I did years ago?
+- a: Because a compliment contradicts a settled position, and contradiction creates
+    pressure. Three things tend to happen at once. The praise gets discounted as politeness,
+    a small alarm goes off about being looked at more closely than you would like,
+    and the gap between how you are being described and how you privately rate yourself
+    becomes uncomfortable. Practicing a plain thank you with nothing added works directly
+    on this.
+  q: Why do compliments make me feel worse rather than better?
+- a: 'Dissatisfaction with appearance is extremely common, and a settled hatred of
+    your own body is a heavier thing. The distinction that matters day to day is whether
+    the feeling lands on a feature or on you as a person, and whether it changes what
+    you do: avoiding photographs, mirrors, swimming, dating. Persistent distress about
+    your body deserves a licensed professional rather than a self directed practice.'
+  q: Is it normal to hate how I look?
+- a: 'Guilt attaches to something you did and it points toward a repair. You apologize,
+    you make it right, and guilt usually fades once you have. Self loathing attaches
+    to who you are, so no repair reaches it, and people often notice that fixing the
+    specific thing changes nothing about the feeling underneath. A useful test: once
+    you have made it right, check honestly whether anything actually lifted.'
+  q: What is the difference between guilt and self loathing?
+- a: 'No, though the accusation gets made often enough to sting. The overlap people
+    notice is attention: somebody running a constant verdict about themselves is preoccupied
+    with themselves, which can look self-absorbed from outside. The direction is the
+    opposite one. Narcissism defends an inflated self-image, and this attacks the
+    self-image relentlessly. Some people do carry both, an outward front over a private
+    verdict, and that combination is a good reason to work with a professional.'
+  q: Is self loathing a form of narcissism?
+- a: 'Neither, although both charges get thrown at people who are already struggling,
+    usually by somebody who means well. The pride version has a grain in it: holding
+    yourself to a standard nobody else is held to does place you in a special category,
+    and noticing that can loosen things a little. Used as an accusation it simply
+    adds another count to the indictment. Being told you are selfish for suffering
+    has yet to reduce anybody''s suffering.'
+  q: Is self loathing selfish, or a form of pride?
+- a: This is the most common reason people keep the voice, and the fear deserves taking
+    seriously rather than dismissing. What tends to happen is quieter than the fear
+    predicts. Output continues, recovery time after a setback drops, and the work
+    stops requiring a running threat to get started at all. Test it on something small
+    and reversible before you take anybody's word for it, mine included.
+  q: Will I lose my drive if I stop being hard on myself?
+- a: Because competence and self assessment run on separate tracks, and only one of
+    them updates. Successes get attributed to luck, timing, or an easy year, so evidence
+    of ability keeps arriving and keeps failing to register anywhere. The result is
+    a person with a real record and no internal sense of owning it. Noticing which
+    explanation you reach for in the hour after a win is the useful place to start.
+  q: Why do I feel like a fraud even though I am good at my job?
+- a: It works as a filter on everything a partner says. Affection gets tested, discounted,
+    or read as pity. Care gets repaid within the hour so the ledger stays level. Ordinary
+    criticism lands as confirmation of the verdict and produces a reaction out of
+    all proportion to the remark. Across years this exhausts both people, because
+    the partner is being asked daily to disprove something that was decided long before
+    they ever turned up.
+  q: How does self loathing affect relationships?
+- a: 'Expect it there, because tiredness removes the effort that keeps it quiet during
+    the day, and nothing decided at three in the morning is reliable enough to act
+    on. Practically: get out of bed, put a light on, write the exact sentence down
+    word for word, and leave answering it until daylight. Writing it moves you from
+    inside the sentence to outside it. Arguing with it in the dark reliably makes
+    it longer.'
+  q: How do I quiet the voice at three in the morning?
+- a: Far more often from an accumulation of small ones, which is why so many people
+    cannot point to a cause and conclude the feeling must be groundless. A daily environment
+    where affection tracked performance, or where your account of your own experience
+    was routinely corrected, does the work without ever producing a memorable scene.
+    Single events matter too, and they usually land on ground that was already prepared.
+  q: Does self loathing come from one big event or from years of small ones?
+- a: It can be part of a depressed stretch, and it also runs in people who are not
+    depressed at all, so one does not establish the other. The two feed each other
+    in practice. A low period makes the verdict louder, and a loud verdict makes the
+    low period harder to climb out of. Working out which is which belongs with a doctor
+    rather than with a page. If low mood has held for months, book that appointment
+    this week.
+  q: Is self loathing a symptom of depression?
+- a: It can be, and the line is worth stating plainly. Contempt turned inward is linked
+    to withdrawal, to punishing behavior, and at the severe end to thoughts of self-harm,
+    which is why nobody should sit alone with the heavy version of it. If there is
+    any thought of ending your life or hurting yourself, contact a doctor, a crisis
+    line, or the emergency services today. The everyday version costs you opportunities,
+    rest, and closeness.
+  q: Is self loathing dangerous?
+- a: The phrase usually means the version that has stopped feeling like an opinion
+    and become the floor everything else stands on. Practically it looks like a verdict
+    present most waking hours, no memory of a period without it, avoidance of mirrors,
+    photographs, and being seen, and a settled certainty that anybody who likes you
+    has been fooled. That level belongs in a room with a professional rather than
+    in a set of exercises done alone.
+  q: What is profound self loathing?
+- a: Yes, and a professional is the right route whenever the material is heavy, longstanding,
+    or tangled with anything clinical. Look for somebody who works with early relational
+    patterns and with shame, ask directly how they actually work rather than only
+    about credentials, and give it a handful of sessions before judging the fit. If
+    you are in crisis, contact a doctor or a crisis line first and arrange ongoing
+    support after.
+  q: Can a therapist help with this, and what should I look for?
+- a: It changes shape more reliably than it changes volume. The demands feeding it
+    tend to move from school and career toward appearance, health, money, and the
+    question of what you have made of your life. Some people find it eases as external
+    pressure drops away, and others find it sharpens as the ledger starts to look
+    harder to correct. Age by itself decides very little here.
+  q: Does self loathing get worse with age?
+- a: 'Skip the argument, because contradicting the sentence usually produces a better
+    defense of it. Something closer to this works: I heard what you just called yourself,
+    I do not see you that way, and I am not going to debate it with you. Then stay
+    present and ordinary. Repeated warmth that survives their worst self description
+    does more across months than any single correction does in an evening.'
+  q: What do I say to someone I love who talks about themselves like this?
+- a: 'You loosen it rather than remove it, and most people begin by trying to win
+    the argument, which is the part worth dropping first. What actually reduces it
+    is unglamorous: register the sentence as a sentence, leave it unanswered, and
+    carry on with whatever you were doing, several dozen times a week for months.
+    Add one honest look at where the standard was originally set. Expect the weight
+    to drop long before the frequency does.'
+  q: How do you get rid of self loathing?
+- a: Three markers, none of them silence. The gap between a sentence arriving and
+    you believing it gets longer. Recovery time after a mistake shortens, from days
+    toward hours. And you start catching the moment a report about something you did
+    turns into a verdict about who you are, while it is happening. Progress here shows
+    up as a slow change in weight rather than a change in volume.
+  q: How do I know whether I am actually making progress?
+- a: Self-acceptance, which disappoints most people who ask, because they were hoping
+    for confidence or self-love. The far end is quieter than either of those. It looks
+    like a day with no commentary about your worth running underneath it, where an
+    error is annoying for twenty minutes and then finished, and where being ordinary
+    at something is survivable. Nobody there feels impressive. What they have back
+    is the afternoon.
+  q: What is the opposite of self loathing?
+- a: I am no theologian, so take this as an outsider's summary rather than as teaching.
+    Most Christian readings hold that a person is made in God's image and loved as
+    they are, which puts contempt for yourself outside what is being asked of you,
+    and they keep that separate from repentance, which concerns what you did. Plenty
+    of people find their own tradition steadying here. If self-contempt is being carried
+    as proof of humility, a pastor or a priest is the better person to ask.
+  q: What does the Bible say about self loathing?
+- a: It can give you concentrated time, a group, and a facilitator in the room, which
+    is considerably more than most people get at home. What a week cannot do is finish
+    it, and any program implying otherwise is worth walking away from. The durable
+    part happens on ordinary days afterward, so ask any program what specifically
+    it does in the weeks after you fly home.
+  q: Can a retreat or a week away help with self loathing?
+intent: research
+metaTitle: What Is Self Loathing?
+primaryQuestion: What is self loathing, and where does it come from?
 related:
 - /insights/how-to-stop-negative-self-talk/
 - /insights/root-cause-of-low-self-esteem/
 - /insights/what-is-self-compassion/
 - /patterns/how-to-stop-being-a-perfectionist/
-- /retreats/personal-development-retreat/
+- /patterns/black-and-white-thinking/
+shortTitle: Self Loathing
+title: What Is Self Loathing, and Where Does It Come From? The Verdict, the Voice,
+  and Why Arguing Back Fails
 ---
 
 # What is self loathing, and where does it come from?
@@ -98,7 +256,7 @@ Before any of the explanation, see whether one of these is already yours.
 
 None of that reads as an opinion from the inside, which is why thirty years of evidence to the contrary never gets a hearing.
 
-[How the seminar works with the verdict you keep passing on yourself](/seminar/)
+[How the seminar works with the verdict you keep passing on yourself](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 It is eleven at night and you are cleaning your teeth. A sentence you said at three that afternoon comes back, in full, with the small pause that followed it. Then, faster than the memory itself and before you have decided anything, a word about yourself. The word describes you as a person rather than the sentence you said.
@@ -313,4 +471,4 @@ Keep a tally for one waking day. Open a note on your phone and add a single mark
 
 Two things come back from that day. The first is the number, which usually lands somewhere between twenty and two hundred and is almost always a shock, because a sentence you hear fifty times a day stops registering as an event at all. The second is more useful and costs you nothing extra. For the second or two you spend recording each one, you are standing outside the sentence rather than inside it, and that position, observer rather than defendant, is what every practice above is quietly built on. A single day of tallying gives you fifty short rehearsals of it, for free, before you decide anything about anything.
 
-If what pulls at you is the verdict itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects every piece of care cannot quietly do it unnoticed for a week, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent looking straight at a sentence you have been running since you were nine is rarely wasted, whatever you decide afterward.
+If what pulls at you is the verdict itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects every piece of care cannot quietly do it unnoticed for a week, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent looking straight at a sentence you have been running since you were nine is rarely wasted, whatever you decide afterward.

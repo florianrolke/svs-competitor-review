@@ -3,6 +3,7 @@ title: "How Do You Stop People Pleasing? The Survival Strategy Underneath the Au
 metaTitle: "How to Stop People Pleasing and Why It Started"
 shortTitle: "Stop People Pleasing"
 description: "Agreeableness gets learned in places where approval arrived on conditions, and it keeps running long after the conditions are gone. The internal sentences that give the pattern away, why the yes arrives before you decide anything, where it hides in the parent relationship and in intimate partnership, what the resolved end looks like on an ordinary Tuesday, and the small repetitions that actually move it."
+metaDescription: "The yes arrives before you decide anything. Where that reflex was learned, why it runs hardest with parents and partners, and the repetitions that loosen it."
 primaryQuestion: "How do you stop people pleasing?"
 intent: research
 faqTitle: "People Pleasing Questions"
@@ -33,7 +34,7 @@ faqs:
   a: "When agreeing is what keeps you physically or financially safe with somebody who makes preferences expensive. Control over money or movement, retaliation, a household where a refusal carries consequences well past awkwardness, all of that belongs with a licensed professional and with people who can help you get somewhere safe. The same holds alongside an addiction, a diagnosed condition you are managing, hopelessness that will not lift, or thoughts of harming yourself."
 - q: "Is people pleasing a form of narcissism?"
   a: "Rarely, though the confusion makes sense. Both patterns keep your attention fixed on how you are landing with other people, so from the outside the monitoring can look similar. The motive is what separates them. Being admired is the point in one, and staying safe from somebody's withdrawal is the point in the other. Most people in this pattern would hand the attention over gladly if the warmth stayed."
-- q: "What kind of childhood trauma causes people pleasing?"
+- q: "What kind of early harm causes people pleasing?"
   a: "Usually nothing dramatic enough that anyone involved would call it that. The ordinary version is a home where warmth arrived on conditions, or where one adult's mood set the weather for everybody, or where the standard was pitched high enough that arriving was never possible. A child in any of those learns to read the room and adjust accordingly. Harder histories produce it too, and those belong with a licensed professional rather than a practice you run alone."
 - q: "Is people pleasing the same thing as fawning?"
   a: "They overlap heavily. Fawning is the word usually applied to appeasing somebody in a moment of threat, and people pleasing is the everyday version of that same move, running on a schedule in rooms where nothing dangerous is happening. The distinction that matters practically is danger. Appeasing somebody who retaliates is a safety situation for a licensed professional. Giving away a Saturday you wanted is a pattern you can work with directly."
@@ -100,7 +101,7 @@ This pattern shows up in sentences long before it shows up in a decision, so rea
 
 An automatic yes buys you a second of relief and bills you for it on a Saturday you had meant to keep.
 
-[How the seminar works with the yes that arrives before you decide](/seminar/)
+[How the seminar works with the yes that arrives before you decide](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 There is a particular second that most people searching this phrase already know well. Somebody asks for something. Before any decision happens anywhere you could point to, you hear your own voice agreeing, warmly and easily, to a Saturday you had quietly set aside for yourself. The regret arrives about four hours later. The actual cost arrives on Saturday.
@@ -260,4 +261,4 @@ Run a yes ledger for the rest of today. Open a note on your phone and write down
 
 Then read the list before you sleep and count how many times the same word repeats. That word is the actual fear driving the pattern, and most people find it is one word rather than five. Knowing which one it is makes every repetition afterward far more accurate, and the exercise costs you nothing beyond a day of noticing.
 
-If the pull you feel is toward the pattern itself rather than toward a location or a ceremony, [our Sacred Valley seminar](/seminar/) works directly on this kind of material. Everybody gets screened before arriving, the group stays small enough that a quiet agreeable person cannot vanish into the back of it, and the weeks after the flight home are built into the design. The honest limitation: exact dates, the price, and the final cap on group size are still being finalized, so anybody comparing programs on those numbers this week cannot yet compare ours. Put these same questions to every program you are weighing, this one included. Feel into it and find out for yourself. A week spent working out what you want, before you check whether it is convenient for anybody else, is rarely wasted, whatever you decide afterward.
+If the pull you feel is toward the pattern itself rather than toward a location or a ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works directly on this kind of material. Everybody gets screened before arriving, the group stays small enough that a quiet agreeable person cannot vanish into the back of it, and the weeks after the flight home are built into the design. The honest limitation: exact dates, the price, and the final cap on group size are still being finalized, so anybody comparing programs on those numbers this week cannot yet compare ours. Put these same questions to every program you are weighing, this one included. Feel into it and find out for yourself. A week spent working out what you want, before you check whether it is convenient for anybody else, is rarely wasted, whatever you decide afterward.

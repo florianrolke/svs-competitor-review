@@ -3,6 +3,7 @@ title: "Why Do I Feel Unloved? The Two Very Different Reasons That End in the Sa
 metaTitle: "Why Do I Feel Unloved?"
 shortTitle: "Feeling Unloved"
 description: "Feeling unloved has two separate histories behind it: warmth that genuinely never arrived, and warmth that arrived in a form you were never able to read. Why being told you are loved changes so little, how to tell which one is yours, what each asks of you next, and what the resolved end looks like in an ordinary week."
+metaDescription: "Feeling unloved has two different histories behind it: warmth that never arrived, and warmth that arrived in a form you could not read. Which one is yours."
 primaryQuestion: "Why do I feel unloved?"
 intent: research
 faqTitle: "Feeling Unloved Questions"
@@ -23,10 +24,10 @@ faqs:
   a: "Both are answers to the same absence. Wanting closeness badly and avoiding it can run in one person at once, which is why this looks like clinging in one relationship and coldness in the next. Solitude also gets processed as a verdict rather than as an evening, so time alone stops being neutral and starts being informative about your worth. Neither the pursuing nor the withdrawing is a fixed trait."
 - q: "Why do I always feel like I care more than the other person does?"
   a: "Because the ledger got built early and it only ever runs in one direction. Over-giving was the strategy that produced whatever warmth was available, so it became automatic, and the boundary that would have balanced the exchange never got installed. The result is a relationship where one person does most of the reaching and quietly keeps count. The counting is the part worth noticing, since it points at the pattern rather than at the partner."
-- q: "Can you feel unloved even if your childhood was not traumatic?"
-  a: "Yes, and that is the common version. This forms as a deficit rather than an assault, meaning something necessary failed to arrive rather than something harmful being done. Financially stable, physically safe, well run homes staffed by parents every neighbour would describe as good ones produce it routinely. Believing that nothing counts unless something happened is the main reason it goes unnamed well into adulthood."
-- q: "Why do I feel embarrassed asking for affection?"
-  a: "Because asking makes the want visible, and a visible want can be declined. The rule arrives fast: if I express my needs, they will see me as needy and reject me. So the request gets replaced by hinting, by over-giving, or by waiting to be offered. Worth testing rather than assuming, since plainly worded requests for affection are received far better than the rule predicts, and the test takes one sentence."
+- q: "Can you feel unloved even if nothing bad happened in your childhood?"
+  a: "Yes, and that is the common version. This forms as a deficit rather than an assault, meaning something necessary failed to arrive rather than something harmful being done. Financially stable, physically safe, well run homes staffed by parents every neighbor would describe as good ones produce it routinely. Believing that nothing counts unless something happened is the main reason it goes unnamed well into adulthood."
+- q: "Why is it easier to give affection than to ask for it?"
+  a: "Because giving keeps you in the position that has always felt safe, which is the one where the other person has the need. Asking reverses it and puts your wanting on the table where somebody could decline it. Most people in this pattern have never run the test. One plain sentence, said once, with no hint or hedge in front of it, usually gets a far warmer answer than the rehearsals allowed for."
 - q: "Why do I feel unworthy of love no matter what I achieve?"
   a: "Because achievement was never addressed to that question. Over-identifying with career success is a substitution, producing approval, respect, and a relief that fades within days. Approval delivered from outside also expires, so it has to be sought again, which is why the scan for the next thing tends to start minutes after something goes well. The felt experience of being loved comes from an entirely different supply."
 - q: "Why does someone going quiet make me panic that they have stopped loving me?"
@@ -50,17 +51,17 @@ faqs:
 - q: "How do I tell whether love was missing or I was unable to take it in?"
   a: "Two checks settle it for most people. First, try to recall affection from childhood. Nothing available, no scene, a shrug, suggests it was genuinely thin. A handful of moments you can still describe in detail suggests it was rare and therefore weighted heavily. Second, notice your first internal reaction to warmth today. Flatness points at a capacity that was never built. A fast, specific rebuttal points at one that works and is set to reject."
 - q: "What is the difference between feeling unloved and feeling unwanted?"
-  a: "They usually travel together and they point at different things. Unloved is about warmth failing to register once you are already in the room. Unwanted is about whether there is a place for you at all, which is why it shows up as apologising for taking up time and leaving gatherings early. Most people carrying one carry some of the other. The useful place to start is whichever sentence you recognised faster."
+  a: "They usually travel together and they point at different things. Unloved is about warmth failing to register once you are already in the room. Unwanted is about whether there is a place for you at all, which is why it shows up as apologizing for taking up time and leaving gatherings early. Most people carrying one carry some of the other. The useful place to start is whichever sentence you recognized faster."
 - q: "What is the difference between loneliness and feeling unloved?"
   a: "Loneliness is a supply problem, so company fixes it. An evening with friends genuinely helps, and a stretch of isolation genuinely causes it. This does neither. It holds inside a full week of company and it survives a good relationship, because what is missing is the ability to take connection in rather than access to it. Watching honestly whether more company changes anything is the cleanest test available."
 - q: "Is feeling unloved a sign of depression?"
-  a: "It can be, and there is a usable test. Depression tends to flatten everything, so food, music, work and company all go grey together. This one stays narrow, pointed at people and at whether you matter to them, while the rest of life keeps its colour. If the flatness is general, if it has held for months, or if you have had any thought of harming yourself, see a doctor rather than reading further."
+  a: "It can be, and there is a usable test. Depression tends to flatten everything, so food, music, work and company all go gray together. This one stays narrow, pointed at people and at whether you matter to them, while the rest of life keeps its color. If the flatness is general, if it has held for months, or if you have had any thought of harming yourself, see a doctor rather than reading further."
 - q: "What disorder makes you feel unloved?"
   a: "None, in the sense that no diagnosis carries that name. It is a description of how something feels, and it turns up alongside depression, anxiety, and several attachment patterns without being any of them. The practical distinction is worth making. Hopelessness that has stayed put for months, or any thought of hurting yourself, belongs with a doctor today. A feeling that stays sharp specifically about people usually points at a history instead."
-- q: "Why do I feel invisible in my own family?"
-  a: "Because going unregistered leaves no mark you can point to. Nobody asked what you thought, nobody noticed when you went quiet, and the family's version of you got fixed early and never updated. Adults from those houses tend to describe a curated phone call, a role they play at Christmas, and a sense that the person they actually are has never been in the room with them."
-- q: "Why do I feel like a burden to my family?"
-  a: "Because a child who was rarely asked about learns that their needs cost somebody something, and the cheapest way to stay welcome is to need less. The adult version sounds like apologising for calling, keeping visits short, and running your own news past a filter before saying any of it. Worth noticing that the belief almost never gets tested. Families are usually far less inconvenienced by you than the rule predicts."
+- q: "Why does a warm family gathering leave me feeling worse afterward?"
+  a: "Because the gathering supplies plenty of contact and very little registration, and the gap between those two is easiest to see once everyone has gone. Loud rooms are especially good at hiding it. You were included, fed, talked at, and nobody asked anything that reached you. The drive home is where the arithmetic lands. Naming what you actually wanted from the evening is more useful than deciding the family failed."
+- q: "Why do I keep my problems from the people who love me?"
+  a: "Because sharing something heavy tests whether the warmth is real, and the test carries a cost you would rather not pay. Staying quiet protects the relationship from a verdict. It also guarantees that nobody gets the chance to prove you wrong, so the account stays exactly as it was. Choosing one person and one ordinary problem, and saying it plainly without softening it first, is how the account gets new information."
 - q: "Why do I feel unloved in my marriage when nothing is obviously wrong?"
   a: "Because a long marriage tends to supply affection in the format this pattern reads worst. Steady, undramatic, reliable warmth produces no spike and no rescue, and a nervous system calibrated on scarcity registers consistency as nothing much. The result is low-grade restlessness inside a relationship that is genuinely working, with no trigger anybody can name. Worth checking that before you start auditing what your partner is failing to do."
 - q: "Why do I push people away right when somebody starts getting close?"
@@ -72,7 +73,7 @@ faqs:
 - q: "Why does feeling unloved get worse at night?"
   a: "Because the day supplies distraction and the evening takes it away. Tasks, colleagues and errands keep the question from surfacing, and once the house goes quiet there is nothing to occupy the part of you that has been scanning since morning. Unanswered messages also read worse after ten. Whatever conclusion you reach at eleven at night is worth writing down and rereading at nine the next morning before you act on it."
 - q: "Does feeling unloved for years change you?"
-  a: "It changes what you practise, and practice becomes character over enough years. Decades of discounting warmth builds a fast reflex for it. Decades of earning your place builds somebody useful, accommodating, and quietly tired. None of that is fixed, though the undoing runs at the speed of repetition rather than insight. What shifts first is usually the gap between the alarm going off and you acting on it."
+  a: "It changes what you practice, and practice becomes character over enough years. Decades of discounting warmth builds a fast reflex for it. Decades of earning your place builds somebody useful, accommodating, and quietly tired. None of that is fixed, though the undoing runs at the speed of repetition rather than insight. What shifts first is usually the gap between the alarm going off and you acting on it."
 - q: "What do you do when you feel so unloved?"
   a: "Stop trying to settle it by argument first. Listing the people who clearly care about you is the standard move and it changes nothing, because evidence was never the missing piece. Something checkable works better. For one week, note every piece of warmth that comes toward you and what happened to it in the ten seconds that followed. The gap between those two counts is the actual problem."
 related:
@@ -102,7 +103,7 @@ These get thought rather than said out loud. One of them usually lands harder th
 
 Sentences like those keep running underneath relationships that are genuinely affectionate, and more reassurance rarely reaches them.
 
-[How the seminar works with warmth that arrives and never quite lands](/seminar/)
+[How the seminar works with warmth that arrives and never quite lands](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 Somebody compliments your work and the words "oh, it was nothing" are out of your mouth before the sentence has landed anywhere. Later that evening you open a message a parent sent you eight months ago, the one warm one, and read it again for maybe the tenth time this year, while the hundred ordinary messages either side of it have gone from memory entirely.
@@ -194,13 +195,13 @@ The vocabulary people reach for is the same in both cases. Emotionally starved. 
 | Where the gap sits | Nothing was supplied | Supply arrived and got refused at the door |
 | What happens when love shows up now | It has nothing to attach to, so it slides off | It gets inspected, discounted, and filed as insincere |
 | The honest question | Was it ever actually given | Was I ever able to take it in |
-| What the work looks like | Building a function that was never installed | Practising reception, one small signal at a time |
+| What the work looks like | Building a function that was never installed | Practicing reception, one small signal at a time |
 
 Both routes end with the same final move, and it is the move that does the real damage. The absence gets explained as a property of the self. A child cannot conclude that the adults around them were overwhelmed, unwell, or never shown how to be curious about anybody's inner life, including their own. That conclusion needs a vantage point nobody has at seven. What a child can conclude, and reliably does, is that the warmth other children appear to get is being withheld for a reason, and the reason must be them. Almost everything downstream follows from that single misattribution, and [the shape of that first wrong conclusion is worth understanding on its own terms](/insights/the-core-wound/).
 
 ## Which of the Two Is Yours, and Does It Change Anything?
 
-It changes what you practise, which is the whole reason for separating them.
+It changes what you practice, which is the whole reason for separating them.
 
 Three questions get most people to a usable answer within a few minutes. Ask them slowly and take the first response rather than the considered one.
 
@@ -221,7 +222,7 @@ Watch the move happen in slow motion and it is remarkably consistent. A piece of
 Four kinds of incoming warmth get refused, and people usually notice only one of them in themselves:
 
 1. **Praise.** The compliment gets deflected, corrected, joked away, or answered with a compliment inside the same minute, which levels the exchange and cancels the debt.
-2. **Help.** Somebody does something for you and a favour goes back within the hour. Reluctance to accept help is the same reflex operating on a bigger unit.
+2. **Help.** Somebody does something for you and a favor goes back within the hour. Reluctance to accept help is the same reflex operating on a bigger unit.
 3. **Reassurance.** You ask, you receive an answer, and the relief lasts about ninety minutes before the question re-forms. Reassurance that gets sought from outside always expires, which is why it needs re-supplying so often.
 4. **Ordinary, undramatic consistency.** This is the one almost nobody catches. Somebody who is reliably kind, week after week, produces no spike, no rescue, and no dramatic moment. A system trained on rare intense warmth reads a flat consistent signal as no signal at all. Steady affection can be arriving daily for years and get filed as nothing much.
 
@@ -248,7 +249,7 @@ The fourth job deserves more sympathy than it usually gets. Choosing the company
 
 ## Where Does It Show Up in an Ordinary Week?
 
-In seven places, and most people recognise themselves in two or three before the others land.
+In seven places, and most people recognize themselves in two or three before the others land.
 
 | Where it shows up | What it looks like from outside | The sentence underneath |
 |---|---|---|
@@ -257,7 +258,7 @@ In seven places, and most people recognise themselves in two or three before the
 | With family | A curated version of your year on the phone, and one warm message from years ago reread again | "Even when they love me, I feel overlooked and secondary." |
 | At work | Extra taken on without being asked, accommodation offered before anybody requests it | "I am only worthy of love if I am useful or pleasing to others." |
 | In a group | You clock that nobody looked up when you started talking, and you finish the sentence anyway | "I often feel invisible in social situations." |
-| When care comes toward you | A compliment deflected before it lands, a favour returned inside the hour | "They're just saying that. They don't really mean it." |
+| When care comes toward you | A compliment deflected before it lands, a favor returned inside the hour | "They're just saying that. They don't really mean it." |
 | On a Friday with nothing on | The empty evening gets read as information about your worth rather than as an empty evening | "Being single means I'm unlovable." |
 
 The work row is the one people defend hardest, because it gets rewarded. Taking on more looks like conscientiousness from every angle and can run an entire career without anybody noticing that the effort is buying something other than a salary.
@@ -311,7 +312,7 @@ Every one of these patterns has two ends, and describing only the wounded end le
 | Desiring constant reassurance | Trusting other people's affection | A week goes by without you asking whether things are alright between you |
 | Self-invalidation | Self-affirmation | A feeling gets named on the day it happens, with no audit of whether you are allowed it |
 | Longing for affection | Self-compassion | An evening alone gets treated kindly rather than used as evidence |
-| Chronic dissatisfaction | Inner fulfilment | A good weekend gets enjoyed while it is happening instead of inspected for what is missing |
+| Chronic dissatisfaction | Inner fulfillment | A good weekend gets enjoyed while it is happening instead of inspected for what is missing |
 | Compromising boundaries | Maintaining boundaries | A no gets said without rehearsal and without bracing for the relationship to end |
 | Reluctance to express love | Confidence in expressing love | You tell somebody you are glad they exist, first, without waiting to hear it back |
 | Feeling unqualified for success | Feeling worthy of success | Something goes well and you take it as yours, without immediately looking for the next thing |
@@ -332,10 +333,10 @@ By running repetitions small enough that you will actually finish them, in situa
 2. **Log the discount.** Every time warmth arrives and gets reclassified, write down what arrived and the exact sentence you used to dismiss it. Change nothing. Fourteen days of that produces a list of your own rebuttals in your own handwriting, and the rebuttals turn out to be about four sentences repeating.
 3. **Count the ordinary evidence rather than the dramatic evidence.** At the end of a day, write the small consistent things: who replied, who remembered something, who made you tea without being asked. This trains the reading of exactly the signal the pattern is blind to.
 4. **Ask the plain question instead of running the audit.** When a short reply sets the scan off, ask once, in ordinary words, whether everything is alright between you. Ten seconds of asking beats an afternoon of interpretation, and it gives you real information rather than another simulation.
-5. **Make one want visible per week.** Ask for something small you would like, in plain words, without three supporting reasons and without a favour paid in advance. The thing itself hardly matters. What gets rebuilt is the muscle that registers a want and then says it out loud.
-6. **Stop paying for the affection you already have.** Watch the hour after somebody is warm to you and notice the extra favour, the gift, the over-helpfulness that goes out. Skip it once and sit with the discomfort, which is where the belief that love has a price is actually stored.
+5. **Make one want visible per week.** Ask for something small you would like, in plain words, without three supporting reasons and without a favor paid in advance. The thing itself hardly matters. What gets rebuilt is the muscle that registers a want and then says it out loud.
+6. **Stop paying for the affection you already have.** Watch the hour after somebody is warm to you and notice the extra favor, the gift, the over-helpfulness that goes out. Skip it once and sit with the discomfort, which is where the belief that love has a price is actually stored.
 7. **Sit alone on purpose for twenty minutes with nothing to do.** No phone, no podcast, no task. Watch what verdict shows up in the silence, because a person who cannot be alone for twenty minutes without producing evidence about their worth will keep needing company for the wrong reason.
-8. **Put it in the body rather than in the argument.** When you catch yourself reasoning about whether somebody loves you, drop the reasoning and locate the feeling physically: chest, throat, stomach. [Feeling something rather than analysing it is its own skill.](/insights/how-to-feel-your-emotions/)
+8. **Put it in the body rather than in the argument.** When you catch yourself reasoning about whether somebody loves you, drop the reasoning and locate the feeling physically: chest, throat, stomach. [Feeling something rather than analyzing it is its own skill.](/insights/how-to-feel-your-emotions/)
 9. **Say the warm thing first.** Tell somebody you appreciate them without waiting to hear it back and without a reason attached. Going first is the practice, because a person who only ever responds to affection never finds out what it feels like to start it.
 
 Is any of this satisfying while you do it? No. It is slow, unremarkable, and freaking boring in the way that actual repair usually is. It also holds, which the dramatic version generally does not.
@@ -348,14 +349,14 @@ Recognition is fast. Most people can catch the discount happening in real time w
 
 Reception takes far longer, because it is being built rather than repaired. The original loop, warmth arriving and being taken in, either ran thousands of times in your childhood or it did not, and assembling a rough adult version of it takes a serious quantity of small unremarkable repetitions spread across months, in rooms where nothing much is at stake. Reading this page changes very little on its own. Fifty compliments accepted plainly, on the day they were given, change a great deal.
 
-For most people this gets quieter and smaller rather than disappearing, and it tends to resurface at genuine wobbles: an illness, a move abroad, a breakup, a bereavement. What changes is the gap between the alarm and the behaviour, and how long an episode runs. An afternoon lost to decoding a short message becomes a ten-minute detour, and that is a real difference to live inside.
+For most people this gets quieter and smaller rather than disappearing, and it tends to resurface at genuine wobbles: an illness, a move abroad, a breakup, a bereavement. What changes is the gap between the alarm and the behavior, and how long an episode runs. An afternoon lost to decoding a short message becomes a ten-minute detour, and that is a real difference to live inside.
 
 Is that frustrating? Yes, and I would rather say so than sell a faster route that does not exist. Plenty of people also do this alongside a therapist, and for something that formed in the absence of another person's attention, rebuilding part of it in the presence of one makes obvious sense. [The link between this and how you value yourself generally is worth reading too.](/insights/root-cause-of-low-self-esteem/)
 
 ## What Is One Thing to Do Today, Before You Decide Anything About Anybody?
 
-Run an arrivals log for seven days. Open a note on your phone, and every time any piece of warmth comes toward you, however small, write two lines: what arrived, and what you did with it in the ten seconds afterward. A colleague said the thing you wrote was good, and you said it was mostly somebody else's work. Your sister sent a photo for no reason, and you replied with logistics. Somebody held a door and you apologised. It takes fifteen seconds an entry and you can do it from a supermarket queue.
+Run an arrivals log for seven days. Open a note on your phone, and every time any piece of warmth comes toward you, however small, write two lines: what arrived, and what you did with it in the ten seconds afterward. A colleague said the thing you wrote was good, and you said it was mostly somebody else's work. Your sister sent a photo for no reason, and you replied with logistics. Somebody held a door and you apologized. It takes fifteen seconds an entry and you can do it from a supermarket queue.
 
 Then read the whole list on the eighth day and count two things: how many pieces of warmth actually arrived that week, and how many of them you let land. Almost everybody is surprised by the first number, which is usually far higher than the felt experience suggested, and sobered by the second. Seeing both, in your own handwriting, across a week of ordinary Tuesdays, does more than another year of asking whether you are loved enough, because it moves the question from a place you cannot check to a place you can.
 
-If what pulls at you is that reception itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly asks for nothing cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out whether you can let one true thing land is rarely wasted, whatever you decide about anybody else.
+If what pulls at you is that reception itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly asks for nothing cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out whether you can let one true thing land is rarely wasted, whatever you decide about anybody else.

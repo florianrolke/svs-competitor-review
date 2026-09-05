@@ -3,6 +3,7 @@ title: "What Is Inner Child Work, and Does It Actually Do Anything? The Mechanis
 metaTitle: "What Is Inner Child Work? An Honest Answer"
 shortTitle: "Inner Child Work"
 description: "Inner child work sounds soft and attracts skepticism for good reason. Here is the mechanism underneath it, an automatic read on ambiguous situations that got calibrated early and never updated, why letters and affirmations mostly bounce off it, what actually retrains it in real relationships, and how long that honestly takes."
+metaDescription: "What inner child work actually targets, why letters and affirmations mostly bounce off it, what retrains it in real relationships, and how long that takes."
 primaryQuestion: "What is inner child work, and does it actually do anything?"
 intent: research
 faqTitle: "Inner Child Work Questions"
@@ -38,7 +39,7 @@ faqs:
 - q: "Why does it help for a few days and then wear off?"
   a: "Because a few good days usually reflect the insight or the session rather than a retrained pattern. The old read reasserts itself the next time something unplanned and ambiguous happens, which is expected rather than a failure. Durable change shows up as a slow shift in how often the read fires and how fast you recover, measured across months. A good mood that survives a few days after a strong session is a different thing entirely, and a much cheaper one."
 - q: "Is this the same as therapy, or a replacement for it?"
-  a: "It works as one component of the same broader project and replaces nothing, particularly where there is significant trauma, an addiction, a diagnosed condition you are currently managing, or a childhood that includes violence or sexual harm. A licensed professional also supplies something a self-directed practice cannot: a steady relationship to test the old prediction against, with somebody trained to notice what you skip."
+  a: "It works as one component of the same broader project and replaces nothing, particularly where there is serious harm, an addiction, a diagnosed condition you are currently managing, or a childhood that includes violence or sexual harm. A licensed professional also supplies something a self-directed practice cannot: a steady relationship to test the old prediction against, with somebody trained to notice what you skip."
 - q: "Why do some people do this work for years without changing much?"
   a: "Usually because it stayed at the level of reading, reflecting, and understanding, which is comfortable and produces no new evidence. Insight alone gives the pattern nothing to update against. The people who shift it are the ones who kept running small, unglamorous, live experiments long after the insight stopped being interesting: staying present through a silence, accepting praise without correcting it, asking for something plainly."
 - q: "What are the five wounds of the inner child?"
@@ -102,7 +103,7 @@ Leave the vocabulary aside for a moment and read the sentences instead. The one 
 
 Sentences like those are the fast read this work is aimed at, and it fires on an ordinary silence long before anything has actually happened.
 
-[How the seminar works with the read that turns a quiet afternoon into evidence](/seminar/)
+[How the seminar works with the read that turns a quiet afternoon into evidence](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 You send a message that mattered slightly more than you let on. An hour and a half later you have opened the thread three times, checked the exact minute it was marked read, and started composing an apology for something you could not name if somebody asked you to.
@@ -333,4 +334,4 @@ Open a note on your phone with three lines per entry. Every time you catch the f
 
 Read the whole thing on the seventh night and count. Most entries resolve into something entirely ordinary: a busy afternoon, a dead battery, somebody having a bad day about something with nothing to do with you. A running tally in your own handwriting is much harder to dismiss than reassurance from anybody else, because the detector that discounts a compliment has no argument to make against your own list. It costs nothing, it requires belief in nothing, and it is the closest thing to a fair test of this entire idea that you can run before the weekend.
 
-If what pulls at you is the retraining itself rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly organizes everybody else cannot disappear into the role for a week, and integration built into the design, since a live testing ground is exactly what this work needs and exactly what most programs leave you to arrange alone. The honest limitation is that dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you came looking for. Feel into it and find out for yourself. Seven days of writing down what you predicted and what actually happened is worth having whatever you decide about the rest.
+If what pulls at you is the retraining itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly organizes everybody else cannot disappear into the role for a week, and integration built into the design, since a live testing ground is exactly what this work needs and exactly what most programs leave you to arrange alone. The honest limitation is that dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you came looking for. Feel into it and find out for yourself. Seven days of writing down what you predicted and what actually happened is worth having whatever you decide about the rest.

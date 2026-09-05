@@ -3,6 +3,7 @@ title: "How Do You Change How You Feel, on Purpose? The Three Levers Underneath 
 metaTitle: "How to Change Your State, on Purpose"
 shortTitle: "How to Change Your State"
 description: "A state gets built from three inputs you are already running: how the body is being used, where attention is pointed, and the language going on underneath. Why a low state feels like an accurate report on reality, why positive thinking loses to an unchanged posture, what a real shift takes in the moment, and how long a new default honestly takes."
+metaDescription: "A state runs on three inputs: how the body is used, where attention points, and the language underneath. Move one alone and a good thought fades in minutes."
 primaryQuestion: "How do you change how you feel, on purpose?"
 intent: research
 faqTitle: "Questions About Changing How You Feel"
@@ -26,7 +27,7 @@ faqs:
 - q: "Do I have to run this every single day, forever?"
   a: "Every state clears on its own, so at the start yes, several times a day and deliberately. That changes as repetitions accumulate: the shift gets faster, smaller cues trigger it, and the new configuration eventually starts arriving without being asked for. What keeps the daily requirement in place longest is skipping the storage step, since a shift that leaves nothing behind has to be rebuilt from scratch every time."
 - q: "Why do I end up in the same low mood no matter what changes in my life?"
-  a: "Because changing circumstances does not rebuild the route. Your default state is the cheapest, most practised option your system has, and a new job or a new relationship arrives on top of the same posture, the same habitual focus and the same internal sentences. Nothing about those was rehearsed differently, so the default reasserts within a few weeks and the new circumstances get read through it."
+  a: "Because changing circumstances does not rebuild the route. Your default state is the cheapest, most practiced option your system has, and a new job or a new relationship arrives on top of the same posture, the same habitual focus and the same internal sentences. Nothing about those was rehearsed differently, so the default reasserts within a few weeks and the new circumstances get read through it."
 - q: "Why does my anger feel like it is protecting me?"
   a: "Because it may genuinely have worked. Anger has probably got you noticed, stopped somebody taking advantage, or produced movement when nothing else did, and your system filed that result. The state is doing a real job. The difficulty is that it becomes the only state in rotation, applied to situations that needed something else, and the cost lands on the relationship and the body over years rather than in the moment."
 - q: "Why did the shift I felt at a retreat or a big event wear off so fast?"
@@ -46,7 +47,7 @@ faqs:
 - q: "Can you change how you feel?"
   a: "Yes, and the honest answer comes in two speeds. What you feel right now can move in under a minute, once your body, your attention and the language underneath move together instead of one at a time. What you feel by default, the state you land back in under pressure, takes weeks to months of repetition. Feelings about a specific person or event tend to follow once the state producing them has shifted."
 - q: "What are 5 ways to change yourself?"
-  a: "Five that survive contact with an ordinary week: change what your body is doing before you try to change your mind, give attention one specific target rather than an instruction to stop thinking, catch the exact sentence running underneath and say a different one out loud, use the top of a good state to decide what something means, and practise all of it in the room where you actually lose it. Repetitions matter more than which one you start with."
+  a: "Five that survive contact with an ordinary week: change what your body is doing before you try to change your mind, give attention one specific target rather than an instruction to stop thinking, catch the exact sentence running underneath and say a different one out loud, use the top of a good state to decide what something means, and practice all of it in the room where you actually lose it. Repetitions matter more than which one you start with."
 - q: "What are the 7 steps in changing your life?"
   a: "The number moves depending on who is selling the list, and no seven-step version survives an ordinary Tuesday. What holds up is smaller and duller. Operate your state deliberately, several times a day. Store a new meaning while the state is up rather than letting it clear empty. Run the repetitions inside the situations that produce the old state. Count repetitions rather than results, and give it months rather than a weekend."
 - q: "How do you change your life when you feel stuck?"
@@ -101,7 +102,7 @@ A state does its talking in sentences like these. Notice which one arrives in yo
 
 Lines like those run underneath a mood all day, settling what your morning means before you have had any say in it.
 
-[How the seminar works with the state that decides your day before you notice it](/seminar/)
+[How the seminar works with the state that decides your day before you notice it](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 You sit down at your desk at nine in the morning and you already know, before you have opened a single tab, that today is a write-off. Nothing has actually happened yet. The email that would confirm it has not arrived, the conversation that would prove it has not been had, and the verdict is already in.
@@ -144,9 +145,9 @@ It is worth separating three words that get used interchangeably. A state is wha
 
 Right here, before any technique, because this line matters more than everything underneath it.
 
-If a low state has stopped lifting at all, if hopelessness has been sitting there for months, if there is any thought of harming yourself however quickly it passes, that belongs with a licensed professional now. The same holds alongside an addiction that has started organising your week, a diagnosed condition you are currently managing, or a bereavement in the last few weeks. What follows here is a practice for the ordinary version of a bad state, the Tuesday that went grey at ten in the morning for no reason anybody could name. It sits alongside professional care rather than in place of it, and asking in month one costs far less than asking in month twelve.
+If a low state has stopped lifting at all, if hopelessness has been sitting there for months, if there is any thought of harming yourself however quickly it passes, that belongs with a licensed professional now. The same holds alongside an addiction that has started organizing your week, a diagnosed condition you are currently managing, or a bereavement in the last few weeks. What follows here is a practice for the ordinary version of a bad state, the Tuesday that went gray at ten in the morning for no reason anybody could name. It sits alongside professional care rather than in place of it, and asking in month one costs far less than asking in month twelve.
 
-There is a second situation worth naming plainly. If your state is being produced by somebody else's behaviour, if your day is spent tracking a mood in the house so that nothing goes off, the levers will help you cope and they will leave the actual problem exactly where it is. [That situation has its own page.](/patterns/walking-on-eggshells/)
+There is a second situation worth naming plainly. If your state is being produced by somebody else's behavior, if your day is spent tracking a mood in the house so that nothing goes off, the levers will help you cope and they will leave the actual problem exactly where it is. [That situation has its own page.](/patterns/walking-on-eggshells/)
 
 ## Why Does Thinking Positive Fail So Reliably?
 
@@ -216,7 +217,7 @@ The honest test for whether you changed a state or hid one has nothing to do wit
 
 ## Where Does This Show Up When You Would Not Call It a Mood Problem?
 
-In six places, and most people recognise themselves in one or two of them before they see the rest.
+In six places, and most people recognize themselves in one or two of them before they see the rest.
 
 | What it looks like from outside | What is actually running | The sentence underneath |
 |---|---|---|
@@ -227,7 +228,7 @@ In six places, and most people recognise themselves in one or two of them before
 | A steady face and level voice in front of a child or a team | A mask over an unchanged physiology, usually costlier to hold than it looks from any angle | "I am so in pain, but if I let my children see that it will make them so upset." |
 | Returning to anger whenever something needs standing up for | A state used as the only available tool, because it is the one that has reliably produced attention | "I don't want to stop being angry, because if I don't get angry then I keep getting taken advantage of." |
 
-Take the version most people recognise fastest. Somebody spends the twenty-minute drive to a difficult meeting running the worst version of it in full: what the other person will say, what they will say back, the tone, the face, the silence afterward. They arrive with a tight jaw and shallow breath and read that tension as diagnostic, as proof the conversation really is dangerous. The tension was built by the rehearsal. Body, attention and language all ran the fight before anybody had said a word, and the meeting inherited a state that was fully assembled before it started. What changed it, when it changed, was two minutes of deliberately different posture and breathing before the door. The move was physical rather than intellectual, and it altered which version of the conversation felt available once the meeting actually began.
+Take the version most people recognize fastest. Somebody spends the twenty-minute drive to a difficult meeting running the worst version of it in full: what the other person will say, what they will say back, the tone, the face, the silence afterward. They arrive with a tight jaw and shallow breath and read that tension as diagnostic, as proof the conversation really is dangerous. The tension was built by the rehearsal. Body, attention and language all ran the fight before anybody had said a word, and the meeting inherited a state that was fully assembled before it started. What changed it, when it changed, was two minutes of deliberately different posture and breathing before the door. The move was physical rather than intellectual, and it altered which version of the conversation felt available once the meeting actually began.
 
 A second version is harder to see, because it looks like competence. Somebody has spent years treating every difficult feeling in their household as a problem to be managed rather than a signal to be read, and describes things at home as fine. The tension is real, constant, and never named, which is exactly why it never resolves. It drains hours that never feel like they belonged to the person living them. What cracked it open was a single question: how long does one hour feel in that specific room, compared with an hour anywhere else. They worked out the answer themselves, and a cost that had been chronic enough to become invisible turned into a specific number that could no longer be filed as nothing.
 
@@ -255,7 +256,7 @@ By moving all three levers inside the same minute, deliberately, before you feel
 4. **Do all three inside sixty seconds.** Order matters less than overlap. Three levers moved in the same minute hold each other up. Three moved across an afternoon behave like three separate one-lever attempts and fail the same way.
 5. **Use the top of it.** While the state is up, say what the triggering thing now means, in one sentence. This is the storage step, it takes about eight seconds, and it is the one that gets skipped almost every time.
 6. **Run it before you need it rather than after.** Two minutes in the car park before a hard conversation is worth twenty minutes of recovery afterward. Nearly everyone runs this in the wrong direction, arriving braced and repairing later.
-7. **Practise it in the room where you actually lose it.** A shift rehearsed only in calm conditions has never been tested. Do it at your own desk at nine in the morning, in the kitchen at six in the evening, in the car outside your parents' house, in the five minutes before the weekly call you dread.
+7. **Practice it in the room where you actually lose it.** A shift rehearsed only in calm conditions has never been tested. Do it at your own desk at nine in the morning, in the kitchen at six in the evening, in the car outside your parents' house, in the five minutes before the weekly call you dread.
 8. **Count repetitions rather than results.** Ten deliberate shifts inside real situations move more than one perfect one on a good day. [Overthinking in particular needs the body lever first, because attention will not redirect while the physiology keeps generating fresh things to replay.](/insights/what-is-overthinking/)
 
 Is any of this comfortable at first? No. It is mechanical, slightly embarrassing, and freaking repetitive, and it is exactly the kind of thing that holds when a single dramatic decision does not.
@@ -311,4 +312,4 @@ Is that frustrating? Yes, and I would rather say so than sell a faster route tha
 
 The next time you notice your state has dropped, do nothing about it for sixty seconds and write three things down. What your body is doing right now: posture, jaw, shoulders, the length of your exhale. What your attention has been on for the last ten minutes. The exact sentence running underneath, in the words it actually uses rather than a tidied version. Then change all three, deliberately, for ninety seconds. Stand up, breathe long, pick one specific target for your attention, say a different sentence out loud. Then read back what you wrote and answer one question: does the same situation still mean what it meant two minutes ago? Whatever the answer turns out to be, you now have it from your own experience instead of from a page, and it cost you two minutes.
 
-If what pulls at you is that mechanism rather than the setting or the ceremony, [our Sacred Valley seminar](/seminar/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that people get worked with individually rather than talked at, and practice rehearsed in ordinary conditions so it survives the Tuesday after you fly home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to operate the thing that has been operating you is rarely wasted, whatever you decide afterward.
+If what pulls at you is that mechanism rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that people get worked with individually rather than talked at, and practice rehearsed in ordinary conditions so it survives the Tuesday after you fly home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to operate the thing that has been operating you is rarely wasted, whatever you decide afterward.
