@@ -1,0 +1,105 @@
+{
+  "slug": "buying-things-when-upset",
+  "questions": [
+    {
+      "q": "What do researchers call buying things to make yourself feel better?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers and Everybody Else Call This, and Where Does the Name Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Mandel, Rucker, Levav and Galinsky's 2017 compensatory-consumption model",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I buy something right after an argument with my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Purchase Is the Only Action Available?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I buy something right after an argument with my partner?' carrying no named finding known."
+    },
+    {
+      "q": "Why does the parcel feel disappointing when waiting for it felt so good?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Parcel Always a Letdown When the Waiting Was So Good?",
+      "heading_is_question": true,
+      "named_finding_inside": "Berridge and Robinson's wanting-versus-liking finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I barely remember deciding to place the order?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Decision Feel Made Before You Notice Deciding?",
+      "heading_is_question": true,
+      "named_finding_inside": "Soman's payment-transparency finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I keep buying gear for the person I want to become?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Item Is a Small Piece of the Person You Meant to Be?",
+      "heading_is_question": true,
+      "named_finding_inside": "Wicklund and Gollwitzer's symbolic self-completion finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does shopping feel especially tempting when work leaves me powerless?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Order Is the One Outcome That Is Guaranteed?",
+      "heading_is_question": true,
+      "named_finding_inside": "Rick, Pereira and Burson's 2014 restored-control finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell a comforting purchase from one that is just replacing a need?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Purchases Genuinely Restore You, and Which Ones Stand In for Something That Cannot Be Bought?",
+      "heading_is_question": true,
+      "named_finding_inside": "Van Boven and Gilovich's 2003 experiential-purchase finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I change the next time I feel the urge to shop while upset?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Would Have to Be Supplied Before the Buying Could Shrink?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do the next time I want to shop while upset?' carrying no named finding known."
+    },
+    {
+      "q": "How is emotional spending measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Do Researchers and Everybody Else Call This, and Where Does the Name Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Cryder, Lerner, Gross and Dahl's 2008 misery-is-not-miserly experiment",
+      "what_to_add": "An H2 'How is emotional spending measured in research?' carrying Cryder, Lerner, Gross and Dahl's 2008 misery-is-not-miserly experiment."
+    },
+    {
+      "q": "Which disorder or medication explains compulsive shopping?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

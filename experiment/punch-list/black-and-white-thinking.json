@@ -1,0 +1,105 @@
+{
+  "slug": "black-and-white-thinking",
+  "questions": [
+    {
+      "q": "What does black-and-white thinking look like in everyday life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does All-or-Nothing Thinking Actually Look Like on an Ordinary Day?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does black-and-white thinking look like in everyday life?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I see one mistake as proof that the whole thing failed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does One Critical Line Cancel an Entire Good Review?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does one mistake make the whole thing feel like a failure?' carrying no named finding known."
+    },
+    {
+      "q": "Where does all-or-nothing thinking come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Binary Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where does all-or-nothing thinking come from?' carrying no named finding known."
+    },
+    {
+      "q": "How is black-and-white thinking different from perfectionism or catastrophizing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Perfectionism, Catastrophizing, or Overthinking?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is black-and-white thinking different from perfectionism or catastrophizing?' carrying no named finding known."
+    },
+    {
+      "q": "How does this pattern show up with a partner or close friend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does All-or-Nothing Thinking Actually Look Like on an Ordinary Day?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does black-and-white thinking show up in close relationships?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do in the moment instead of jumping to an extreme verdict?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Practice the Middle Without Lowering Your Standards?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do in the moment instead of jumping to an extreme verdict?' carrying no named finding known."
+    },
+    {
+      "q": "Why does one critical comment from my boss erase all the praise?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does One Critical Line Cancel an Entire Good Review?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does one critical comment from my boss erase all the praise?' carrying no named finding known."
+    },
+    {
+      "q": "How long does it take to become more comfortable with gray areas?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it take to become more comfortable with gray areas?' carrying no named finding known."
+    },
+    {
+      "q": "Which mental health disorder causes black-and-white thinking?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I stop my child from thinking in all-or-nothing terms?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

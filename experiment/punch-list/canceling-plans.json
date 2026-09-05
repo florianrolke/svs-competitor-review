@@ -1,0 +1,105 @@
+{
+  "slug": "canceling-plans",
+  "questions": [
+    {
+      "q": "What do researchers call the pattern of wanting plans and then canceling them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "Epley and Schroeder's 2014 Mistakenly Seeking Solitude study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does relief hit the instant I send the cancellation text?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Relief Arrive Before You Have Even Put the Phone Down?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does relief hit the instant I send the cancellation text?' carrying no named finding known."
+    },
+    {
+      "q": "Why did I genuinely want the plan when I agreed to it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Did You Want the Plan When You Made It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why did I genuinely want the plan when I agreed to it?' carrying no named finding known."
+    },
+    {
+      "q": "Why can two people cancel the same dinner for totally different reasons?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Cancel the Identical Dinner for Completely Different Reasons?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can two people cancel the same dinner for totally different reasons?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether canceling is real rest or avoidance that is shrinking my life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Cancellation Restores You and Which One Shrinks Your Life?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether canceling is real rest or avoidance that is shrinking my life?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I feel fine once I actually arrive at the plan?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens If You Go to the Thing You Would Have Canceled?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel fine once I actually arrive at the plan?' carrying Epley and Schroeder's Mistakenly Seeking Solitude finding."
+    },
+    {
+      "q": "How do I stop saying yes to my boss or friends and canceling later?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Say No at the Invitation Instead of at the Door?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop saying yes to my boss or friends and canceling later?' carrying no named finding known."
+    },
+    {
+      "q": "What does repeatedly canceling cost my friendships over time?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does It Cost You Over the Years?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does repeatedly canceling cost my friendships over time?' carrying Gable's 2006 social-avoidance finding."
+    },
+    {
+      "q": "How is chronic canceling measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Canceling Plans Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "Epley and Schroeder's commuter experiment",
+      "what_to_add": "An H2 'How is chronic canceling measured?' carrying Sheeran's inclined-abstainers finding."
+    },
+    {
+      "q": "Which diagnosis causes someone to cancel plans all the time?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

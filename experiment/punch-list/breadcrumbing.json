@@ -1,0 +1,105 @@
+{
+  "slug": "breadcrumbing",
+  "questions": [
+    {
+      "q": "What exactly counts as breadcrumbing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Breadcrumbing?",
+      "heading_is_question": true,
+      "named_finding_inside": "Navarro, Larranaga, Yubero and Villora's 2020 breadcrumbing study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I only message them when they start pulling away?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Message Go Out Exactly When They Start to Drift?",
+      "heading_is_question": true,
+      "named_finding_inside": "the schedules-of-reinforcement finding that unpredictable rewards produce more persistent behavior",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell breadcrumbing from ordinary friendliness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Ordinary Warmth From the Kind That Keeps Someone on a String?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell breadcrumbing from ordinary friendliness?' carrying no named finding known."
+    },
+    {
+      "q": "Why do people breadcrumb for such different reasons?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Breadcrumb the Same Way for Completely Different Reasons?",
+      "heading_is_question": true,
+      "named_finding_inside": "Shin and Ariely's 2004 disappearing-doors study",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does breadcrumbing do to the person on the receiving end?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does This Actually Cost, on Both Sides?",
+      "heading_is_question": true,
+      "named_finding_inside": "Navarro, Larranaga, Yubero and Villora's 2020 finding on life satisfaction, loneliness, and helplessness",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why would I keep back burners while I am committed to a partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Breadcrumbing?",
+      "heading_is_question": false,
+      "named_finding_inside": "Dibble and Drouin's 2014 back-burner study",
+      "what_to_add": "An H2 'Why do people keep back burners while committed to a partner?' carrying Dibble and Drouin's 2014 back-burner finding."
+    },
+    {
+      "q": "How do I stop breadcrumbing someone without ghosting them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Stop Without Sending a Cruel Message or Vanishing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop breadcrumbing someone without ghosting them?' carrying no named finding known."
+    },
+    {
+      "q": "Where did the term breadcrumbing come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Breadcrumbing?",
+      "heading_is_question": false,
+      "named_finding_inside": "Navarro, Larranaga, Yubero and Villora's 2020 breadcrumbing study",
+      "what_to_add": "An H2 'Where did the term breadcrumbing come from?' carrying Navarro, Larranaga, Yubero and Villora's 2020 breadcrumbing study."
+    },
+    {
+      "q": "How can I tell if someone is breadcrumbing me rather than genuinely undecided?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Tell Ordinary Warmth From the Kind That Keeps Someone on a String?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell if someone is breadcrumbing me rather than genuinely undecided?' carrying no named finding known."
+    },
+    {
+      "q": "Is breadcrumbing a diagnosable disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

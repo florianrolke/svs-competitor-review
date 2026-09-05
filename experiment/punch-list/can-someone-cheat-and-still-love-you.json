@@ -1,0 +1,105 @@
+{
+  "slug": "can-someone-cheat-and-still-love-you",
+  "questions": [
+    {
+      "q": "Can someone actually love me and still cheat on me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Cheating and Love Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can someone actually love me and still cheat on me?' carrying Esther Perel's State of Affairs finding."
+    },
+    {
+      "q": "What does an affair really tell me about why my partner cheated?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is an Affair Actually Reporting?",
+      "heading_is_question": true,
+      "named_finding_inside": "Esther Perel's 2017 State of Affairs account of infidelity as a search for aliveness or identity",
+      "what_to_add": ""
+    },
+    {
+      "q": "How could my partner betray a value they genuinely believed in?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Would Someone Act Against a Value They Genuinely Hold?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How could my partner betray a value they genuinely believed in?' carrying no named finding known."
+    },
+    {
+      "q": "Does understanding why they cheated mean I am excusing it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does Understanding Why He Did It Mean Letting Him Off the Hook?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Does understanding why they cheated mean I am excusing it?' carrying no named finding known."
+    },
+    {
+      "q": "Why can I not stop replaying or checking what happened?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Did You Confirm It, or Are You Still Trying To?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I not stop replaying or checking what happened?' carrying no named finding known."
+    },
+    {
+      "q": "How do I separate the fact of cheating from what I think it says about me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Fact, and What Is the Meaning You Put On It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I separate the fact of cheating from what I think it says about me?' carrying no named finding known."
+    },
+    {
+      "q": "Why does betrayal by a partner hurt more than other losses?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does This Hurt in a Place Nothing Else Reaches?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sue Johnson's attachment-injury model",
+      "what_to_add": ""
+    },
+    {
+      "q": "How long does it take for the checking, replay, and meaning to settle?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Honestly Take?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it take for the checking, replay, and meaning to settle?' carrying no named finding known."
+    },
+    {
+      "q": "What medical tests should I ask for after discovering an affair?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never name a medical test or panel or say what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What treatment can save our marriage after cheating?",
+      "kind": "POLICY",
+      "policy_reason": "The page will never treat a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
