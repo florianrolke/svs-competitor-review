@@ -1,0 +1,163 @@
+phrase,domain,times_cited,times_appeared,cite_through_ratio,domain_rating
+doom spending,money.kompas.com/,1,1,0.0,90
+doom spending,www.antaranews.com/,1,1,0.0,84
+stress spending,pubmed.ncbi.nlm.nih.gov/,4,13,0.75,95.0
+stress spending,www.cdc.gov/,2,7,1.0,94.0
+stress spending,doi.org/,2,3,0.0,94.0
+stress spending,www.nature.org/,2,2,0.0,88.0
+stress spending,health.clevelandclinic.org/,2,5,0.5,92.0
+stress spending,pmc.ncbi.nlm.nih.gov/,2,5,0.0,95.0
+stress spending,www.healthychildren.org/,1,1,0.0,89.0
+stress spending,link.springer.com/,1,1,0.0,93.0
+stress spending,www.birds.cornell.edu/,1,1,0.0,92.0
+stress spending,www.nationalgeographic.com/,1,1,0.0,91.0
+stress spending,www.kidsmentalhealthfoundation.org/,1,1,0.0,71.0
+stress spending,medlineplus.gov/,1,2,0.0,91.0
+stress spending,florencewilliams.com/,1,1,0.0,55.0
+stress spending,www.sciencedirect.com/,1,4,1.0,94.0
+stress spending,www.nps.gov/,1,1,1.0,92.0
+stress spending,www.mayoclinic.org/,1,1,1.0,92.0
+stress spending,archive.cdc.gov/,1,1,0.0,94.0
+stress spending,onlinelibrary.wiley.com/,1,1,0.0,93.0
+stress spending,www.aap.org/,1,1,0.0,90.0
+stress spending,www.washingtonpost.com/,1,1,1.0,93.0
+stress spending,www.kirkusreviews.com/,1,1,0.0,86.0
+stress spending,www.fao.org/,1,1,0.0,91.0
+stress spending,www.ons.gov.uk/,1,1,0.0,90.0
+stress spending,www.recreation.gov/,1,1,1.0,85.0
+stress spending,research.fs.usda.gov/,1,1,0.0,92.0
+stress spending,www.nature.com/,1,1,0.0,93.0
+stress spending,books.google.com/,1,1,0.0,100.0
+stress spending,newsinhealth.nih.gov/,1,1,1.0,95.0
+stress spending,www.nhlbi.nih.gov/,1,1,0.0,95.0
+stress spending,bmjopen.bmj.com/,1,1,0.0,92.0
+stress spending,medschool.umich.edu/,1,1,1.0,91.0
+stress spending,home.nps.gov/,1,1,1.0,92.0
+stress spending,www.healthline.com/,1,1,0.0,92.0
+stress spending,ods.od.nih.gov/,1,1,0.0,95.0
+stress spending,www.nasa.gov/,1,1,0.0,92.0
+stress spending,stagetestdomain.nih.gov/,1,1,0.0,95.0
+email anxiety,doi.org/,1,1,1.0,94
+email anxiety,www.tandfonline.com/,1,1,1.0,92
+email anxiety,pmc.ncbi.nlm.nih.gov/,1,1,1.0,95
+analysis paralysis,boardgamegeek.com/,17,39,0.4706,88.0
+analysis paralysis,www.gamesradar.com/,8,7,0.25,84.0
+analysis paralysis,www.reddit.com/,7,19,0.5714,95.0
+analysis paralysis,coopboardgames.com/,6,5,0.0,63.0
+analysis paralysis,en.wikipedia.org/,4,3,0.25,97.0
+analysis paralysis,www.tabletopgaming.co.uk/,4,4,0.0,54.0
+analysis paralysis,frontlinegaming.org/,3,2,0.0,53.0
+analysis paralysis,thedicedrop.com/,3,1,0.0,6.0
+analysis paralysis,www.researchgate.net/,2,2,0.0,93.0
+analysis paralysis,ryanboardgames.com/,2,1,0.0,0.1
+analysis paralysis,sobrief.com/,2,2,0.5,53.0
+analysis paralysis,books.apple.com/,2,2,0.0,97.0
+analysis paralysis,www.goodreads.com/,2,5,0.0,92.0
+analysis paralysis,misutmeeple.com/,2,2,0.0,35.0
+analysis paralysis,www.youtube.com/,2,3,0.0,99.0
+analysis paralysis,punchboard.co.uk/,2,2,0.0,30.0
+analysis paralysis,books.google.com/,2,2,0.0,100.0
+analysis paralysis,boardgameguys.com/,2,1,0.0,10.0
+analysis paralysis,www.harrypotter.com/,2,8,0.5,81.0
+analysis paralysis,arstechnica.com/,2,1,0.0,91.0
+analysis paralysis,www.boardgameoracle.com/,2,2,0.0,25.0
+analysis paralysis,dicetower.com/,2,4,0.5,61.0
+analysis paralysis,victoryconditions.com/,2,2,0.0,9.0
+analysis paralysis,pubmed.ncbi.nlm.nih.gov/,2,7,0.5,95.0
+analysis paralysis,pmc.ncbi.nlm.nih.gov/,2,3,0.5,95.0
+analysis paralysis,tfumux.fandom.com/,1,1,0.0,92.0
+analysis paralysis,link.springer.com/,1,1,0.0,93.0
+analysis paralysis,researchconnect.upstate.edu/,1,1,1.0,76.0
+analysis paralysis,www.wargamer.com/,1,1,1.0,65.0
+analysis paralysis,eplanetbrokers.com/,1,1,0.0,48.0
+analysis paralysis,outof.games/,1,1,1.0,43.0
+analysis paralysis,robots.fandom.com/,1,1,0.0,92.0
+analysis paralysis,www.mexc.co/,1,1,0.0,70.0
+analysis paralysis,www.cfainstitute.org/,1,1,0.0,84.0
+analysis paralysis,playcascadia.com/,1,1,0.0,41.0
+analysis paralysis,islaythedragon.com/,1,1,0.0,36.0
+analysis paralysis,www.boardgamehelpers.com/,1,1,1.0,10.0
+analysis paralysis,irrationallabs.com/,1,1,0.0,60.0
+analysis paralysis,aonprd.com/,1,1,1.0,70.0
+analysis paralysis,thoughtliteracy.org/,1,1,0.0,0.2
+analysis paralysis,www.asmodee.co.uk/,1,1,0.0,59.0
+analysis paralysis,www.seibertron.com/,1,1,1.0,58.0
+analysis paralysis,www.mckinsey.com/,1,1,0.0,92.0
+analysis paralysis,rules.dized.com/,1,1,0.0,48.0
+analysis paralysis,www.rpg.net/,1,1,0.0,71.0
+analysis paralysis,www.scribd.com/,1,1,0.0,91.0
+analysis paralysis,mentalhealthathome.org/,1,1,0.0,33.0
+analysis paralysis,minifiniti.com/,1,1,1.0,9.0
+analysis paralysis,www2.unicron.com/,1,2,1.0,33.0
+analysis paralysis,www.cardhaus.com/,1,1,0.0,43.0
+analysis paralysis,thethoughtfulgamer.com/,1,1,1.0,21.0
+analysis paralysis,dublapedia.com/,1,1,0.0,0.0
+analysis paralysis,d1vzi28wh99zvq.cloudfront.net/,1,1,1.0,94.0
+analysis paralysis,www.austingallery.org/,1,1,0.0,9.0
+analysis paralysis,www.ludum.fr/,1,4,1.0,48.0
+analysis paralysis,puzzlewick.com/,1,1,1.0,0.2
+analysis paralysis,ericsandroni.com/,1,1,0.0,10.0
+analysis paralysis,www.therewillbe.games/,1,1,0.0,38.0
+analysis paralysis,www.soundwavesoblivion.com/,1,1,0.0,7.0
+analysis paralysis,store.steampowered.com/,1,5,0.0,93.0
+analysis paralysis,www.wbstudiotour.jp/,1,1,0.0,65.0
+analysis paralysis,www.livemint.com/,1,1,0.0,88.0
+analysis paralysis,r.datuan.dev/,1,4,0.0,14.0
+analysis paralysis,www.g2.com/,1,1,0.0,91.0
+analysis paralysis,studylib.net/,1,1,0.0,73.0
+analysis paralysis,www.meepletrail.com/,1,1,0.0,0.2
+analysis paralysis,thegaminggang.com/,1,1,0.0,37.0
+analysis paralysis,www.lelabodesjeux.com/,1,1,0.0,30.0
+analysis paralysis,paizo.com/,1,1,1.0,76.0
+analysis paralysis,tradersunion.com/,1,1,0.0,72.0
+analysis paralysis,www.vantagemarkets.com/,1,1,1.0,76.0
+analysis paralysis,www.northwalestabletop.org/,1,1,0.0,14.0
+analysis paralysis,www.everand.com/,1,5,0.0,80.0
+analysis paralysis,www.boardgamequest.com/,1,1,0.0,52.0
+analysis paralysis,mailchimp.com/,1,1,0.0,93.0
+analysis paralysis,transformers2005.fandom.com/,1,1,0.0,92.0
+analysis paralysis,diarynigracia.com/,1,1,0.0,1.9
+analysis paralysis,luvembooks.com/,1,1,1.0,6.0
+analysis paralysis,www.spiritislandwiki.com/,1,1,0.0,26.0
+analysis paralysis,insights.exness.com/,1,1,0.0,78.0
+analysis paralysis,www.simonandschuster.com/,1,1,1.0,88.0
+analysis paralysis,combiners.fandom.com/,1,1,0.0,92.0
+analysis paralysis,www.tandfonline.com/,1,2,1.0,92.0
+analysis paralysis,boardgamewikia.com/,1,1,0.0,3.8
+analysis paralysis,www.cybertron21.com/,1,1,0.0,1.9
+analysis paralysis,www.finra.org/,1,1,1.0,91.0
+analysis paralysis,www.bookaholiclis.com/,1,1,0.0,0.1
+analysis paralysis,www.aonprd.com/,1,1,1.0,70.0
+analysis paralysis,www.unicron.us/,1,1,0.0,27.0
+analysis paralysis,www.mexc.com/,1,1,0.0,86.0
+analysis paralysis,martinfowler.com/,1,1,1.0,88.0
+analysis paralysis,www.bajajbroking.in/,1,1,0.0,57.0
+analysis paralysis,www.revenueflow.com/,1,1,0.0,3.7
+analysis paralysis,chcse.blogspot.com/,1,1,0.0,95.0
+analysis paralysis,alpha.summaries.com/,1,1,1.0,33.0
+analysis paralysis,www.ludologists.com/,1,1,0.0,2.0
+analysis paralysis,opinionatedgamers.com/,1,1,0.0,52.0
+analysis paralysis,www.psychologytoday.com/,1,1,0.0,93.0
+analysis paralysis,www.spielvibe.com/,1,1,0.0,0.1
+analysis paralysis,www.scraigzahler.com/,1,1,0.0,14.0
+shiny object syndrome,en.wikipedia.org/,3,3,0.3333,97.0
+shiny object syndrome,www.oxfordlearnersdictionaries.com/,2,2,0.0,81.0
+shiny object syndrome,psychology.ucdavis.edu/,1,1,0.0,90.0
+shiny object syndrome,citeseerx.ist.psu.edu/,1,1,0.0,91.0
+shiny object syndrome,www.collinsdictionary.com/,1,1,0.0,85.0
+shiny object syndrome,www.dcvc.com/,1,1,0.0,63.0
+shiny object syndrome,democrats-financialservices.house.gov/,1,1,0.0,91.0
+shiny object syndrome,ericsandroni.com/,1,1,0.0,10.0
+shiny object syndrome,stephenboudreau.com/,1,1,1.0,9.0
+shiny object syndrome,ideandigest.com/,1,1,0.0,0.0
+shiny object syndrome,www.psychologytoday.com/,1,1,0.0,93.0
+shiny object syndrome,blog.blackarcscend.com/,1,1,0.0,0.0
+shiny object syndrome,en.wiktionary.org/,1,1,0.0,91.0
+shiny object syndrome,www.dictionary.com/,1,2,1.0,90.0
+shiny object syndrome,scaleread.com/,1,1,0.0,16.0
+shiny object syndrome,www.merriam-webster.com/,1,1,0.0,91.0
+shiny object syndrome,tradelosstracker.com/,1,1,0.0,0.1
+shiny object syndrome,slangdefine.org/,1,1,0.0,56.0
+shiny object syndrome,psychology.stackexchange.com/,1,1,0.0,91.0
+shiny object syndrome,philarchive.org/,1,1,0.0,74.0
+shiny object syndrome,pmc.ncbi.nlm.nih.gov/,1,1,0.0,95.0
