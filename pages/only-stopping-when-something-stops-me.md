@@ -123,7 +123,7 @@ Then the thing that actually stops you arrives. Some nights it is a limit: a too
 
 Notice what did not happen in any version of that. At no point did you look at the work, decide it was enough, and put it down with capacity left over. The idea does not have a slot to arrive in.
 
-Then there is the next layer, which is the one people do not connect to the first. Ask when your last full day away from it was. Not a Saturday with two hours of catching up in it. A day with none. For a great many people the honest answer is a number of weeks that is uncomfortable to say out loud, and the way it gets said out loud is almost always in the same tone: "It's been really busy over the last few weeks. I think I took one day off over the last three weeks. Pretty scary."
+Then there is the next layer, which is the one people do not connect to the first. Ask when your last full day away from it was. Not a Saturday with two hours of catching up in it. A day with none. For a great many people the honest answer is a number of weeks that is uncomfortable to say out loud, and the way it gets said out loud is almost always in the same tone: "It's been really busy over the last few weeks. I think I took one day off over the last three weeks. Pretty scary. [...]"
 
 That tone is worth listening for in yourself. There is no alarm anywhere in it. What you are hearing is somebody reporting a fact about their own life and hearing it for the first time as they say it.
 
@@ -335,7 +335,7 @@ Here is the hole. The arithmetic prices the hour and does not price the input. I
 
 There is a second hole and it is about the shape of the run rather than the hours in it. A three-week push with a stated end is a different object from a permanent state, and the first can be genuinely correct. The question worth asking is whether this push has an end date you could say out loud, and whether the last one did, and whether the one before that ended when it said it would. Where the answer is a run of pushes with no gaps between them, the arithmetic has stopped being arithmetic and become the reason.
 
-Two lines are worth putting side by side, because they could be the same person at two points in one season. "Normally I take a day to recover, but I really haven't got time." And: "I think we're all going beyond 100 miles an hour in like our systems. Like I need to rest. I'm working all days."
+Two lines are worth putting side by side, because they could be the same person at two points in one season. "Normally I take a day to recover, but I really haven't got time. [...]" And: "I think we're all going beyond 100 miles an hour in like our systems. Like I need to rest. I'm working all days."
 
 ## What If Stopping Is Where the Reckoning Arrives?
 

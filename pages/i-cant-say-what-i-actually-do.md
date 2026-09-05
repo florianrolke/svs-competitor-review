@@ -6,7 +6,7 @@ description: "Somebody asks what you do and you hear yourself give the old answe
 metaDescription: "Somebody asks what you do and the only true answer you have is a plan. Why the question wants a category word, and why a better line never fixes it."
 primaryQuestion: "Why can't I say what I actually do in one sentence?"
 intent: research
-label: ""
+label:
 faqTitle: "Questions About Not Being Able to Say What You Do"
 faqs:
 - q: "Why can't I say what I actually do in one sentence?"
@@ -66,7 +66,7 @@ faqs:
 - q: "Why does this get worse when things are actually going well?"
   a: "Because a good stretch raises the stakes on the sentence. Once there is something real to protect, a vague answer feels like underselling it and a confident answer feels like a claim you might have to take back. The pressure follows the progress rather than the setbacks, which is why it can arrive in a month where nothing went wrong."
 - q: "How long does this take to change, honestly?"
-  a: "The noticing takes about a fortnight. A short answer that reliably works takes a couple of months of saying it to real people and repairing whatever did not land. The private verdict about being bad at this fades slowest of the three, and often only when somebody repeats your own sentence back to you without being prompted."
+  a: "The noticing takes about a dozen days. A short answer that reliably works takes a couple of months of saying it to real people and repairing whatever did not land. The private verdict about being bad at this fades slowest of the three, and often only when somebody repeats your own sentence back to you without being prompted."
 - q: "When does this belong with a licensed professional rather than a page?"
   a: "When the difficulty has spread well past the sentence. If you are turning down invitations to avoid the question, if a flatness has sat over everything for months regardless of what you do, if sleep has stopped returning, or if there is any thought of harming yourself, that belongs with a licensed professional now rather than later, and everything here can wait."
 related:
@@ -190,13 +190,13 @@ For everybody else, which is nearly everyone reading, the rest applies.
 
 It gets better and it never closes, and the improving is what keeps you at it.
 
-The shape is always the same. A phrase turns up that feels close. You write it down. Over the following days you improve it, swap one word, tighten the middle, try it in the shower, and each version is genuinely better than the last, which is the trap. Progress on the wording is real and it is measured against the wrong thing. Then a fortnight has gone and the phrase is still not sayable at a barbecue.
+The shape is always the same. A phrase turns up that feels close. You write it down. Over the following days you improve it, swap one word, tighten the middle, try it in the shower, and each version is genuinely better than the last, which is the trap. Progress on the wording is real and it is measured against the wrong thing. Then twelve days have gone and the phrase is still not sayable at a barbecue.
 
 Here is the part nobody points out. A phrase that names a finished thing is a description. A phrase that names an unfinished thing is a forecast, and a forecast cannot be made accurate by editing, because the thing it is about has not happened. So the search cannot end well. It ends when you stop, or it ends when the thing finishes and supplies its own word.
 
 That has a practical consequence worth sitting with, because it is the opposite of what everybody advises. The clarity you are trying to write your way into usually arrives from outside. It arrives the first time somebody other than you describes you to a third person and gets it roughly right. It arrives with the first result somebody paid for or thanked you for. It arrives when you have done the same thing enough times that there is a same thing. In every case the word comes after the fact, and every hour spent trying to make it come first is spent on the only sequence that has never worked.
 
-None of which makes writing things down a waste. The question worth holding is what the writing is for. A line written now is a working note for you rather than a finished answer for other people, and treating it as the second is what turns a fortnight into six months.
+None of which makes writing things down a waste. The question worth holding is what the writing is for. A line written now is a working note for you rather than a finished answer for other people, and treating it as the second is what turns half a month into six months.
 
 ## Why Do Two People Fail the Same Sentence for Completely Different Reasons?
 
@@ -264,7 +264,7 @@ The tells: you have caught yourself giving different answers to different people
 
 More than any amount of introspection about the sentence, because the follow-up question is the listener reporting back what they received.
 
-This is the cheapest diagnostic available and almost nobody uses it, because everybody is too busy replaying their own half of the exchange. Try it for a fortnight. After you answer, notice what the other person asks. There are only about five things they can ask, and each one points somewhere different.
+This is the cheapest diagnostic available and almost nobody uses it, because everybody is too busy replaying their own half of the exchange. Try it for two full weeks. After you answer, notice what the other person asks. There are only about five things they can ask, and each one points somewhere different.
 
 | What they ask next | What they received | Which version this points at |
 |---|---|---|
@@ -313,13 +313,13 @@ She and a co-author extended the argument in 2010 to the story a person tells du
 
 Take both of those as one line of evidence rather than two, because they share an author, and I would rather say that than let a reading list look longer than it is. And take the limits with them. That work is qualitative, on professionals in particular kinds of transition, with modest numbers and no measured effect anywhere in it. It supplies a shape people recognize, which is what I am using it for, and it does not establish that any of this works.
 
-What it does supply is a correction to the private method. If a usable answer is built by testing versions on listeners, then the fortnight you spent improving a phrase alone worked as a substitute for the work rather than as preparation for it. The first version you say to an actual person will be worse than the one in your notebook and it will teach you something the notebook cannot, which is what happens in the four seconds after you stop talking.
+What it does supply is a correction to the private method. If a usable answer is built by testing versions on listeners, then the thirteen days you spent improving a phrase alone worked as a substitute for the work rather than as preparation for it. The first version you say to an actual person will be worse than the one in your notebook and it will teach you something the notebook cannot, which is what happens in the four seconds after you stop talking.
 
 ## Where Does This Hide When You Would Not Call It a Problem With a Sentence?
 
 In several places that look like ordinary preferences, which is why it can run for years without ever being named.
 
-**In being interested in other people.** You ask the first question, and the second, and the third, and people leave conversations with you feeling listened to, which is genuinely a good thing to be. It is also a complete defense against ever having to answer. The tell is whether you can remember the last time somebody got a full answer out of you.
+**In being interested in other people.** You ask the first question, and the second, and the third, and people leave conversations with you feeling listened to, which is genuinely a good thing to be. It is also a complete defense against ever having to answer, and [the page on changing the subject](/patterns/changing-the-subject/) owns that move in its own right. The tell is whether you can remember the last time somebody got a full answer out of you.
 
 **In arriving late and leaving early.** The question happens in the first ten minutes of a room and again at the door. A person who arrives while things are underway and leaves before the goodbyes has removed both occasions, and it reads as being busy.
 
@@ -335,7 +335,7 @@ In several places that look like ordinary preferences, which is why it can run f
 
 Later than the behavior, in a currency that never gets connected back to it.
 
-**The hours are the smallest part.** A fortnight lost to a phrase is annoying and recoverable. Repeat it four times a year for three years and the number gets large, and it still is not the main cost.
+**The hours are the smallest part.** Two clear weeks lost to a phrase is annoying and recoverable. Repeat it four times a year for three years and the number gets large, and it still is not the main cost.
 
 **The rooms get smaller.** This is where it actually gets expensive. Each avoided event is individually reasonable and the set of them is a shrinking life. Nobody notices a narrowing that happens one decline at a time, and the opportunities that never arrived leave no record of not arriving.
 
@@ -399,7 +399,7 @@ Nothing in the middle column is impressive and that is the point. Almost nobody 
 
 Three different speeds, and running them together is why people give up in the third week.
 
-The noticing moves first and it moves at the wrong end. For the first fortnight you catch it afterward, in the car, having already given the old answer. That feels like failure and it is the normal first stage. Within a month or so most people catch it during, which is a different experience and does not immediately change what comes out of your mouth.
+The noticing moves first and it moves at the wrong end. For the first two solid weeks you catch it afterward, in the car, having already given the old answer. That feels like failure and it is the normal first stage. Within a month or so most people catch it during, which is a different experience and does not immediately change what comes out of your mouth.
 
 A serviceable answer takes a couple of months and it takes contact with people to get there. Expect the first four attempts to be worse than the notebook version. Expect one of them to land oddly well and to have no idea why until you have said it twice more. The improvement comes from the repair rather than from the drafting.
 
@@ -449,7 +449,7 @@ One note on the first-person lines in the box near the top. They were said by re
 
 Count the exchanges and change nothing at all.
 
-Open a note on your phone. For the next fortnight, every time somebody asks what you do, write three things down afterward. What you said, as close to word for word as you can manage. What they asked next. And what you did with the rest of the conversation.
+Open a note on your phone. For the next two whole weeks, every time somebody asks what you do, write three things down afterward. What you said, as close to word for word as you can manage. What they asked next. And what you did with the rest of the conversation.
 
 Do not improve anything while you are doing this. Do not resolve to have a better answer ready. Do not tell anybody you are running it, because announcing it turns the whole thing into something you are being watched on, which is the fastest way to stop recording honestly.
 
@@ -457,8 +457,8 @@ By the end you will have somewhere between six and twenty rows, and three things
 
 If what landed hardest here was the missing word, the counting may be enough on its own and you can stop there with something useful. If what landed hardest was one of the other three, the room where it gets defended, the promise you are refusing to sign, or the two true answers you keep swapping between, then the thing worth working on sits underneath the sentence rather than inside it.
 
-[Our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works at that layer. In Florian's own words: *"So if there is a certain behavior that you don't quite know what that is, nor can you explain it, that's why you come here."* First we find what the stumble is actually doing for you, because something that reliable is never doing nothing. Then what stands in the way of the version where the question costs you nine seconds. Then a plan you are held accountable to afterward, back in your own week, at the same barbecues, with the same people asking. Everybody is screened before arriving, which keeps the group small enough that somebody who has spent two years giving the old answer gets worked with properly rather than handed a formula with three blanks in it.
+[Our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works at that layer. As Florian puts it: so if there is a certain behavior that you don't quite know what that is, nor can you explain it, that's why you come here. First we find what the stumble is actually doing for you, because something that reliable is never doing nothing. Then what stands in the way of the version where the question costs you nine seconds. Then a plan you are held accountable to afterward, back in your own week, at the same barbecues, with the same people asking. Everybody is screened before arriving, which keeps the group small enough that somebody who has spent two years giving the old answer gets worked with properly rather than handed a formula with three blanks in it.
 
 One limitation worth stating plainly. Exact dates, the price and the final cap on group size are still being settled, so anybody comparing programs on those numbers this week cannot yet compare ours. Ask every program you are weighing the same questions, this one included, and decide from what comes back.
 
-The fortnight of counting costs nothing and is worth having whichever way it comes out.
+The fourteen-day count costs nothing and is worth having whichever way it comes out.
