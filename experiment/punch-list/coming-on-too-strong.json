@@ -1,0 +1,105 @@
+{
+  "slug": "coming-on-too-strong",
+  "questions": [
+    {
+      "q": "What is love bombing, and where did the term come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Love Bombing, and Where Did the Word Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is love bombing, and where did the term come from?' carrying no named finding known."
+    },
+    {
+      "q": "Is there any validated way to measure love bombing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Much Evidence Is Actually Behind the Word You Have Been Handed?",
+      "heading_is_question": true,
+      "named_finding_inside": "Strutzenberg and colleagues' 2017 self-report love-bombing questionnaire study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I send even more messages when someone starts pulling away?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Their Going Quiet Make You Send More Rather Than Less?",
+      "heading_is_question": true,
+      "named_finding_inside": "Lerman and Iwata's review of temporary response increases after reinforcement withdrawal",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether the other person is matching my intensity?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the One Difference That Is Actually Checkable?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether the other person is matching my intensity?' carrying a named reciprocity-of-self-disclosure finding."
+    },
+    {
+      "q": "Is intense attraction at the beginning of a relationship normal?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Anything Actually Wrong With You for Feeling This Much?",
+      "heading_is_question": true,
+      "named_finding_inside": "Zsok, Haucke and Barelds' dating-event study of love at first sight",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I come on too strong with dates but not with friends or coworkers?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Which of the Five Is Yours, and What Separates Them?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I come on too strong with dates but not with friends or coworkers?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do before sending another intense message?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing Before Your Next Message?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do before sending another intense message?' carrying no named finding known."
+    },
+    {
+      "q": "How does coming on too strong affect the person I am dating?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does This Actually Cost the Other Person?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does coming on too strong affect the person I am dating?' carrying no named finding known."
+    },
+    {
+      "q": "Does coming on too strong mean I have a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or assess a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication can stop me from getting so intense at the start of relationships?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or recommend medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

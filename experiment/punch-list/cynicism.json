@@ -1,0 +1,105 @@
+{
+  "slug": "cynicism",
+  "questions": [
+    {
+      "q": "What causes a person to become cynical?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Cynicism Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What causes a person to become cynical?' carrying no named finding known."
+    },
+    {
+      "q": "How is cynicism different from realism, caution, or pessimism?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is It Cynicism, or Is It Just Realism?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is cynicism different from realism, caution, or pessimism?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I assume every kind gesture has a hidden motive?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up When You Would Not Call It Cynicism?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I assume every kind gesture has a hidden motive?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my friend's good news make me irritated instead of happy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Other People's Good News Land Badly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my friend's good news make me irritated instead of happy?' carrying no named finding known."
+    },
+    {
+      "q": "Is cynicism pushing my partner and friends away?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Running This as a Policy Actually Cost?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is cynicism pushing my partner and friends away?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I distrust my workplace's mission and my boss's motives?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up When You Would Not Call It Cynicism?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I distrust my workplace's mission and my boss's motives?' carrying no named finding known."
+    },
+    {
+      "q": "How do I become more hopeful without becoming naive?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Hopeful Realism Actually Look Like?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I become more hopeful without becoming naive?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated scale that measures cynicism?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated scale that measures cynicism?' carrying no named finding known."
+    },
+    {
+      "q": "Is cynicism a mental illness or a symptom of a specific disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or assess a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication can make me less cynical?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or recommend medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

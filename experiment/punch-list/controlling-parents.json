@@ -1,0 +1,105 @@
+{
+  "slug": "controlling-parents",
+  "questions": [
+    {
+      "q": "What do controlling parents do to a child's judgment in adulthood?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Controlling Parents Actually Take From a Child?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What do controlling parents do to a child's judgment in adulthood?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between strict parents and controlling parents?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Difference Between Strict Parents and Controlling Parents?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between strict parents and controlling parents?' carrying no named finding known."
+    },
+    {
+      "q": "Why do siblings from the same controlling home become completely different adults?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two Children From the Same House Turn Out Opposite?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do siblings from the same controlling home become completely different adults?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I still imagine my parent's reaction before making a decision?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You Still Imagine the Verdict When Nobody Asked?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I still imagine my parent's reaction before making a decision?' carrying no named finding known."
+    },
+    {
+      "q": "How can growing up with controlling parents affect my romantic relationship?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up in an Adult Life?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can growing up with controlling parents affect my romantic relationship?' carrying no named finding known."
+    },
+    {
+      "q": "How can it affect the way I act with a boss or coworkers?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up in an Adult Life?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can controlling parents affect the way I act with a boss or coworkers?' carrying no named finding known."
+    },
+    {
+      "q": "How do I rebuild trust in my own decisions?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Build Judgment You Never Got to Practice?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I rebuild trust in my own decisions?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire for measuring controlling parenting?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Controlling Parents Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated questionnaire for measuring controlling parenting?' carrying no named finding known."
+    },
+    {
+      "q": "How can I make sure I do not become a controlling parent to my child?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not give advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What disorder do adults raised by controlling parents usually develop?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or assess a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "conditional-self-worth",
+  "questions": [
+    {
+      "q": "What does conditional self-worth actually mean?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Conditional Self-Worth Questions",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does conditional self-worth actually mean?' carrying no named finding known."
+    },
+    {
+      "q": "How is conditional self-worth different from low self-esteem or impostor feelings?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Your Worth Low, or Is It Conditional?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is conditional self-worth different from low self-esteem or impostor feelings?' carrying no named finding known."
+    },
+    {
+      "q": "What causes someone to tie their worth to achievement?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which Conditions Did You Actually Get?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What causes someone to tie their worth to achievement?' carrying no named finding known."
+    },
+    {
+      "q": "Why does a promotion make me feel good for only a few days?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Achievement Buy So Little Time?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does a promotion make me feel good for only a few days?' carrying no named finding known."
+    },
+    {
+      "q": "How does conditional self-worth show up with a partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does This Do to the People Closest to You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does conditional self-worth show up with a partner?' carrying no named finding known."
+    },
+    {
+      "q": "Why can I not rest or take a sick day without working?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Can You Not Take a Sick Day Without Working Through It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I not rest or take a sick day without working?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop using productivity as proof that I matter?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop using productivity as proof that I matter?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire that measures contingencies of self-worth?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated questionnaire that measures contingencies of self-worth?' carrying no named finding known."
+    },
+    {
+      "q": "Is conditional self-worth a diagnosable mental disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or assess a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication should I take for achievement-based self-worth?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or recommend medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

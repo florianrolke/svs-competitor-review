@@ -1,0 +1,105 @@
+{
+  "slug": "complaining-without-changing",
+  "questions": [
+    {
+      "q": "What do researchers call repeatedly rehashing the same problem with a friend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Leave Out?",
+      "heading_is_question": true,
+      "named_finding_inside": "Rose's 2002 co-rumination study and Rose, Carlson and Waller's 2007 follow-up",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does venting actually make me feel better or just keep the problem alive?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Leave Out?",
+      "heading_is_question": false,
+      "named_finding_inside": "Zech and Rimé's 2005 emotional-sharing study",
+      "what_to_add": "An H2 'Does venting actually make me feel better or just keep the problem alive?' carrying Zech and Rimé's 2005 emotional-sharing finding."
+    },
+    {
+      "q": "Why do I feel relieved after complaining even though nothing changes?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Saying It Out Loud Make You Lighter and Change Nothing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel relieved after complaining even though nothing changes?' carrying Zech and Rimé's 2005 emotional-sharing finding."
+    },
+    {
+      "q": "What if I truly cannot change the situation I keep complaining about?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Speaking Is Genuinely the Only Action Available?",
+      "heading_is_question": true,
+      "named_finding_inside": "Hirschman's exit-and-voice framework and Lazarus and Folkman's problem-focused versus emotion-focused coping finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I keep announcing that I will quit but never take the first step?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Saying It Is the Closest Thing to Doing It?",
+      "heading_is_question": true,
+      "named_finding_inside": "Gollwitzer and colleagues' 2009 identity-intention announcement study",
+      "what_to_add": ""
+    },
+    {
+      "q": "How is years of complaining affecting the friend who listens to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Your Friend's Patient Face Actually Telling You?",
+      "heading_is_question": false,
+      "named_finding_inside": "Rose's co-rumination finding",
+      "what_to_add": "An H2 'How is years of complaining affecting the friend who listens to me?' carrying Rose's co-rumination finding."
+    },
+    {
+      "q": "How can I talk about a bad job with my partner without repeating the same speech?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does a Different Sentence Sound Like on the Actual Tuesday?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I talk about a bad job with my partner without repeating the same speech?' carrying Kowalski's instrumental-versus-expressive complaining finding."
+    },
+    {
+      "q": "How do I figure out what I am really asking for when I complain?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Can You Do This Week Without Announcing Anything?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I figure out what I am really asking for when I complain?' carrying no named finding known."
+    },
+    {
+      "q": "Is years of repetitive complaining a symptom of a mental disorder?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not name or assess a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What treatment should my partner and I use to stop our marriage becoming one long complaint loop?",
+      "kind": "POLICY",
+      "policy_reason": "The page will not treat a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
