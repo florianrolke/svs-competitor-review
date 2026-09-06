@@ -1,0 +1,105 @@
+{
+  "slug": "feeling-responsible-for-everyone",
+  "questions": [
+    {
+      "q": "Why do I feel responsible for everyone even when nobody asks me to help?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Everyone Else's Situation Feel Like Your Job?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I feel responsible for everyone even when nobody asks me to help?'; no named finding known."
+    },
+    {
+      "q": "How can I tell whether I'm genuinely responsible or just taking on things that aren't mine?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Your Responsibility Actually End?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How can I tell whether a responsibility is genuinely mine?'; no named finding known."
+    },
+    {
+      "q": "Why do I feel guilty and anxious when I delegate at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Delegating Feel Like Abandonment?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I feel guilty and anxious when I delegate at work?'; no named finding known."
+    },
+    {
+      "q": "What can I do to stop automatically fixing everyone else's problems?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Hand Something Back Without Dropping Anyone?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How do I stop automatically fixing everyone else's problems?'; no named finding known."
+    },
+    {
+      "q": "Why do I feel responsible for my parent's mood every time we talk?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does Your Responsibility Actually End?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I feel responsible for my parent's mood every time we talk?'; no named finding known."
+    },
+    {
+      "q": "What should I do when my boss keeps letting other people's missed deadlines become my problem?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does Your Responsibility Actually End?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'What should I do when my boss makes other people's missed deadlines my problem?'; no named finding known."
+    },
+    {
+      "q": "How do I care about my partner's feelings without treating every bad mood as mine to solve?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Your Responsibility Actually End?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How do I care about my partner's feelings without treating every bad mood as mine to solve?'; no named finding known."
+    },
+    {
+      "q": "Is feeling responsible for everyone a sign of codependency or another condition?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a diagnosis, disorder, or condition, even to rule one out.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medical tests should I ask my doctor for if I cannot switch off this sense of responsibility?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a medical test or panel or what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I stop my child from feeling responsible for everyone in the family?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

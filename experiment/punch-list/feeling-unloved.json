@@ -1,0 +1,105 @@
+{
+  "slug": "feeling-unloved",
+  "questions": [
+    {
+      "q": "Why do I feel unloved even when people tell me they care about me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Real Affection Sometimes Fail to Register at All?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I feel unloved even when people tell me they care about me?'; no named finding known."
+    },
+    {
+      "q": "How can I tell whether love was actually missing in childhood or I just couldn't take it in?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Which of the Two Is Yours, and Does It Change Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How can I tell whether love was missing in childhood or I could not take it in?'; no named finding known."
+    },
+    {
+      "q": "Why do I assume my partner has stopped loving me whenever they go quiet?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up in an Ordinary Week?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I assume my partner has stopped loving me whenever they go quiet?'; no named finding known."
+    },
+    {
+      "q": "What can I do to actually believe compliments and affection?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Start Letting Love Register?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How can I start believing compliments and affection?'; no named finding known."
+    },
+    {
+      "q": "Why do I push people away and then feel desperate when they leave?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Clinging and Pushing People Away Come From the Same Place?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I push people away and then feel desperate when they leave?'; no named finding known."
+    },
+    {
+      "q": "What's the difference between feeling unloved and simply being lonely?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'What is the difference between feeling unloved and loneliness?' carrying Peplau and Perlman's loneliness definition."
+    },
+    {
+      "q": "Why does my family say they love me when I never feel known by them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Do Two Very Different Childhoods End in the Same Sentence?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why does my family say they love me when I never feel known by them?'; no named finding known."
+    },
+    {
+      "q": "Is feeling unloved a symptom of depression or another disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a diagnosis, disorder, or condition, even to rule one out.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I help my child who says nobody loves them?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can my spouse and I heal our marriage's unloved dynamic together?",
+      "kind": "POLICY",
+      "policy_reason": "Treating a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

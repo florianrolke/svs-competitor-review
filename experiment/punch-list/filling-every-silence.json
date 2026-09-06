@@ -1,0 +1,105 @@
+{
+  "slug": "filling-every-silence",
+  "questions": [
+    {
+      "q": "Why do I need a podcast, music, or a screen every time things go quiet?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Fill the Same Silences for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I need a podcast, music, or a screen every time things go quiet?'; no named finding known."
+    },
+    {
+      "q": "What do researchers call it when someone cannot sit alone with their thoughts?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and What Does the Name Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "Timothy Wilson and colleagues' 2014 Just Think: The Challenges of the Disengaged Mind studies",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is hating silence the same thing as loneliness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are Solitude and Loneliness the Same Thing at Different Strengths?",
+      "heading_is_question": true,
+      "named_finding_inside": "Peplau and Perlman's 1982 definition of loneliness",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my hand reach for my phone before I even decide to use it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Reach Happen Before You Decide Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why does my hand reach for my phone before I decide to use it?'; no named finding known."
+    },
+    {
+      "q": "Does constant background noise make it harder to focus or think through decisions?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does It Actually Cost You?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Does constant background noise make it harder to focus or make decisions?' carrying Killingsworth and Gilbert's A Wandering Mind Is an Unhappy Mind finding."
+    },
+    {
+      "q": "Why does my partner sitting quietly beside me make me uneasy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does It Actually Cost You?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why does my partner sitting quietly beside me make me uneasy?'; no named finding known."
+    },
+    {
+      "q": "How do I get comfortable with silence without giving up music and podcasts completely?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Change This Without Becoming Someone Who Never Listens to Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How do I get comfortable with silence without giving up music and podcasts?'; no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire that measures discomfort with silence or undirected time?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Is there a validated questionnaire that measures discomfort with silence or undirected time?'; no named finding known."
+    },
+    {
+      "q": "Could needing constant sound mean I have ADHD or another disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a diagnosis, disorder, or condition, even to rule one out.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is my inability to tolerate silence a trauma response, and how do I treat it?",
+      "kind": "POLICY",
+      "policy_reason": "Using the word trauma or framing the issue as trauma treatment.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

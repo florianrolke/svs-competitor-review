@@ -1,0 +1,105 @@
+{
+  "slug": "giving-more-than-was-asked",
+  "questions": [
+    {
+      "q": "Why do I always give people much more than the occasion calls for?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Overshoot in Exactly the Same Way for Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I always give people much more than the occasion calls for?'; no named finding known."
+    },
+    {
+      "q": "Why do big gifts make people uncomfortable even when I expect nothing back?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens on the Other Side of an Outsized Gift?",
+      "heading_is_question": true,
+      "named_finding_inside": "Molm and colleagues' early-2000s social-exchange experiments",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is my generosity itself the problem?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is the Generosity Itself the Problem?",
+      "heading_is_question": true,
+      "named_finding_inside": "Andreoni's 1990 warm-glow account",
+      "what_to_add": ""
+    },
+    {
+      "q": "What do psychologists call the mismatch between what gift givers and receivers value?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Do the Names Run Out?",
+      "heading_is_question": true,
+      "named_finding_inside": "Galak, Givi and colleagues' 2016 giver and recipient asymmetry framework",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my partner get distant after I do something really generous for them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What If Giving Keeps You in the Position of Needing Nothing?",
+      "heading_is_question": false,
+      "named_finding_inside": "Blau's 1964 social-exchange account of unreciprocated benefits and standing",
+      "what_to_add": "Add an H2 'Why does my partner get distant after I do something really generous for them?' carrying Blau's 1964 social-exchange account of unreciprocated benefits and standing."
+    },
+    {
+      "q": "How do I figure out what I am really trying to get from an oversized gift?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Which of the Five Is Yours?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How do I figure out what I am trying to get from an oversized gift?'; no named finding known."
+    },
+    {
+      "q": "Why can I spend freely on other people but feel uncomfortable letting them help me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Giving Keeps You in the Position of Needing Nothing?",
+      "heading_is_question": true,
+      "named_finding_inside": "Blau's 1964 social-exchange account of unreciprocated benefits and standing",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I do at the next birthday or dinner so I do not overdo it again?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Doing at the Next Occasion?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'What should I do at the next birthday or dinner so I do not overdo it again?'; no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire that measures compulsive over-giving?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Is there a validated questionnaire that measures compulsive over-giving?'; no named finding known."
+    },
+    {
+      "q": "Could giving away money I cannot afford be a sign of mania or another condition?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a diagnosis, disorder, or condition, even to rule one out.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

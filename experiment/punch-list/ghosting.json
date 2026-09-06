@@ -1,0 +1,105 @@
+{
+  "slug": "ghosting",
+  "questions": [
+    {
+      "q": "Why do I ghost people I actually like instead of just sending a reply?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Silence Easier Than the Sentence?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I ghost people I actually like instead of sending a reply?'; no named finding known."
+    },
+    {
+      "q": "What exactly counts as ghosting, and where did the word come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Ghosting, and Where Did the Word Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "Leslie Baxter's relationship-ending strategy framework",
+      "what_to_add": ""
+    },
+    {
+      "q": "How is ghosting different from a slow fade, soft ghosting, or the silent treatment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Ghosting Apart From a Slow Fade, Soft Ghosting, or the Silent Treatment?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How is ghosting different from a slow fade, soft ghosting, or the silent treatment?'; no named finding known."
+    },
+    {
+      "q": "What does being ghosted actually do to the person on the receiving end?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Silence Actually Do to the Person on the Other End?",
+      "heading_is_question": true,
+      "named_finding_inside": "Kipling Williams's four-needs model of exclusion",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I end things kindly without getting trapped in a long argument?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Learn to End Things Cleanly Without Becoming Brutal?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'How can I end things kindly without getting trapped in a long argument?'; no named finding known."
+    },
+    {
+      "q": "What should I say to someone I ghosted months ago?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Say to Someone You Ghosted Months Ago?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'What should I say to someone I ghosted months ago?'; no named finding known."
+    },
+    {
+      "q": "Why do I ghost recruiters, clients, and my boss as well as dates?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Do Two People Ghost Identically for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Why do I ghost recruiters, clients, and my boss as well as dates?' carrying Indeed's 2019 and 2021 job-seeker ghosting surveys."
+    },
+    {
+      "q": "Should I contact someone who ghosted me, or accept that it is over?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "Add an H2 'Should I contact someone who ghosted me, or accept that it is over?'; no named finding known."
+    },
+    {
+      "q": "Is repeatedly ghosting people a sign of a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a diagnosis, disorder, or condition, even to rule one out.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can we stop the ghosting cycle and repair our marriage together?",
+      "kind": "POLICY",
+      "policy_reason": "Treating a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
