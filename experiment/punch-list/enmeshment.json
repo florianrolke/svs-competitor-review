@@ -1,0 +1,105 @@
+{
+  "slug": "enmeshment",
+  "questions": [
+    {
+      "q": "What is enmeshment, in plain English?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Enmeshment Actually Mean?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is enmeshment, in plain English?' carrying Salvador Minuchin's structural family systems finding on diffuse boundaries."
+    },
+    {
+      "q": "Why do I want independence from my family but feel terrified of it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Wanting Independence and Dreading It Happen at the Same Time?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I want independence from my family but feel terrified of it?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether I am asking for advice or asking my parents for permission?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Am I Gathering Information, or Gathering Permission?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I am asking for advice or asking my parents for permission?' carrying no named finding known."
+    },
+    {
+      "q": "Why do tiny decisions like ordering food take me so long?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Menu Take Twenty Minutes?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do tiny decisions like ordering food take me so long?' carrying no named finding known."
+    },
+    {
+      "q": "How does enmeshment with a parent show up with my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up in an Adult Life?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does enmeshment with a parent show up with my partner?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I refuse help and insist on deciding everything alone?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Can the Opposite Look Be the Same Wound?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I refuse help and insist on deciding everything alone?' carrying no named finding known."
+    },
+    {
+      "q": "Is enmeshment a symptom of a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I treat my child's separation anxiety if our family is enmeshed?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for advice aimed at a parent about a child and requires naming a condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Where did the idea of enmeshment come from, and how is it measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where did the idea of enmeshment come from, and how is it measured?' carrying Salvador Minuchin's structural family systems formulation and David Olson's Family Adaptability and Cohesion Evaluation Scales findings."
+    },
+    {
+      "q": "What can I do to become more independent without cutting off my family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to become more independent without cutting off my family?' carrying no named finding known."
+    }
+  ]
+}

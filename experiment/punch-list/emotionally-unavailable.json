@@ -1,0 +1,105 @@
+{
+  "slug": "emotionally-unavailable",
+  "questions": [
+    {
+      "q": "What does emotionally unavailable actually mean?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Emotionally Unavailable Sound Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does emotionally unavailable actually mean?' carrying no named finding known."
+    },
+    {
+      "q": "What are the signs that someone is emotionally unavailable rather than just private?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the signs that someone is emotionally unavailable rather than just private?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I pull away right after I feel close to someone?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Distance Protecting?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I pull away right after I feel close to someone?' carrying Mary Ainsworth's Strange Situation findings on attachment strategies."
+    },
+    {
+      "q": "How can I tell if I am the emotionally unavailable one?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Could You Be the Unavailable One Without Knowing It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell if I am the emotionally unavailable one?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do when my partner will not open up emotionally?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Can You Make Somebody Else Available?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do when my partner will not open up emotionally?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep choosing emotionally unavailable partners?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do the Pursuer and the Distancer Keep Finding Each Other?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep choosing emotionally unavailable partners?' carrying Cindy Hazan and Phillip Shaver's adult attachment findings."
+    },
+    {
+      "q": "How can I tell whether my emotionally distant boss is guarded or simply professional?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does It Hide When You Would Not Call It Unavailability?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my emotionally distant boss is guarded or simply professional?' carrying no named finding known."
+    },
+    {
+      "q": "Is emotional unavailability a symptom of narcissistic personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can couples therapy fix an emotionally unavailable marriage?",
+      "kind": "POLICY",
+      "policy_reason": "The question treats a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How is emotional availability measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is emotional availability measured in research?' carrying Zeynep Biringen's Emotional Availability Scales findings."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-wounds",
+  "questions": [
+    {
+      "q": "What is an emotional wound, and how is it different from a painful memory?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is an Emotional Wound, Structurally?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is an emotional wound, and how is it different from a painful memory?' carrying no named finding known."
+    },
+    {
+      "q": "How do I figure out which emotional wounds I have?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Which Wounds Are There, and What Did Each One Leave Unmet?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I figure out which emotional wounds I have?' carrying no named finding known."
+    },
+    {
+      "q": "Why do old emotional wounds still affect me decades later?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Wound Persist After the Original Danger Is Gone?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do old emotional wounds still affect me decades later?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether my reaction is an emotional wound or just my personality?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This a Wound, or Is It Just Who You Are?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my reaction is an emotional wound or just my personality?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I want closeness and then push my partner away?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Your Own Patterns Contradict Each Other?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I want closeness and then push my partner away?' carrying Mary Ainsworth's Strange Situation findings on attachment strategies."
+    },
+    {
+      "q": "Can emotional wounds explain why criticism from my boss feels so personal?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does the Resolved End of a Wound Actually Look Like?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can emotional wounds explain why criticism from my boss feels so personal?' carrying no named finding known."
+    },
+    {
+      "q": "Can childhood trauma create emotional wounds that need trauma therapy?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires trauma language and framing the work as trauma treatment.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Are emotional wounds a sign of PTSD or another mental health condition?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming diagnoses or conditions.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does research say about how emotional wounds are measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How are emotional wounds measured in research?' carrying the Young Schema Questionnaire findings on early maladaptive schemas."
+    },
+    {
+      "q": "What can I actually do to heal an emotional wound?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Does an Emotional Wound Actually Resolve?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I actually do to heal an emotional wound?' carrying no named finding known."
+    }
+  ]
+}

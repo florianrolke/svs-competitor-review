@@ -1,0 +1,105 @@
+{
+  "slug": "enmeshed-family",
+  "questions": [
+    {
+      "q": "What is an enmeshed family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is an Enmeshed Family Just a Close Family?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is an enmeshed family?' carrying Salvador Minuchin's structural family systems finding on diffuse boundaries."
+    },
+    {
+      "q": "How can I tell an enmeshed family from a genuinely close family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is an Enmeshed Family Just a Close Family?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell an enmeshed family from a genuinely close family?' carrying Salvador Minuchin's structural family systems finding on diffuse boundaries."
+    },
+    {
+      "q": "Why do I feel guilty whenever I say no to my family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Guilt Arrive Before the Boundary Does?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel guilty whenever I say no to my family?' carrying no named finding known."
+    },
+    {
+      "q": "Why can I not decide what I want without checking with my family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Can You Not Answer \"What Do You Want\" Without Checking the Room?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I not decide what I want without checking with my family?' carrying no named finding known."
+    },
+    {
+      "q": "What do I do if my partner is still enmeshed with their parents?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does It Show Up in an Adult Life?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What do I do if my partner is still enmeshed with their parents?' carrying no named finding known."
+    },
+    {
+      "q": "How do enmeshed families usually react when someone sets a boundary?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Do You Have to Cut Contact to Get Free of It?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do enmeshed families usually react when someone sets a boundary?' carrying no named finding known."
+    },
+    {
+      "q": "What should a parent do to stop raising an enmeshed child?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is family enmeshment a trauma response that needs trauma therapy?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires trauma language and framing the issue as trauma treatment.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do researchers measure whether a family is enmeshed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure whether a family is enmeshed?' carrying David Olson's Family Adaptability and Cohesion Evaluation Scales findings."
+    },
+    {
+      "q": "Can I become less enmeshed without cutting off my family?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Do You Have to Cut Contact to Get Free of It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can I become less enmeshed without cutting off my family?' carrying no named finding known."
+    }
+  ]
+}

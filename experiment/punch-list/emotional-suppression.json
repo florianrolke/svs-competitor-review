@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-suppression",
+  "questions": [
+    {
+      "q": "Why do I push my feelings down even when I am alone?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Suppression Actually Protecting?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I push my feelings down even when I am alone?' carrying James Gross's expressive-suppression finding from the process model of emotion regulation."
+    },
+    {
+      "q": "How can I tell emotional suppression from actually being calm?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Suppression, Numbness, Privacy, or Composure?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell emotional suppression from actually being calm?' carrying the Emotion Regulation Questionnaire finding on expressive suppression."
+    },
+    {
+      "q": "What are the signs that I am suppressing emotions without realizing it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does It Look Like From Outside, When Nothing Looks Wrong?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the signs that I am suppressing emotions without realizing it?' carrying the Emotion Regulation Questionnaire finding on expressive suppression."
+    },
+    {
+      "q": "Why do my feelings hit me hours or days after something happens?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Feeling Turn Up Three Days Late?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do my feelings hit me hours or days after something happens?' carrying no named finding known."
+    },
+    {
+      "q": "How does bottling things up affect my relationship with my partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Hide When You Would Not Call It Suppression?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does bottling things up affect my relationship with my partner?' carrying James Gross and Robert Levenson's emotional-suppression finding."
+    },
+    {
+      "q": "What should I do when my boss makes it unsafe to show emotion?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If Expressing It Really Would Cost You Something?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do when my boss makes it unsafe to show emotion?' carrying no named finding known."
+    },
+    {
+      "q": "Can suppressing emotions cause depression or an anxiety disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming diagnoses or disorders.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is emotional suppression a trauma response, and how is it treated?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires using trauma language and framing the response as trauma treatment.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does research say about the health effects of emotional suppression?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does the Body End Up Sending the Bill?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does research say about the health effects of emotional suppression?' carrying James Gross and Oliver John's Emotion Regulation Questionnaire findings on suppression and well-being."
+    },
+    {
+      "q": "What can I do today to stop automatically bottling up my feelings?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is One Thing to Do Today, Before You Try to Feel Anything Bigger?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do today to stop automatically bottling up my feelings?' carrying no named finding known."
+    }
+  ]
+}
