@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-rebuild-trust",
+  "questions": [
+    {
+      "q": "What should I actually do if I am the one who broke someone's trust?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Person Who Broke Trust Actually Have to Do?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I actually do if I am the one who broke someone’s trust?' with no named finding known."
+    },
+    {
+      "q": "What am I responsible for doing if I am the person who was betrayed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Betrayed Person Have to Do, and Why Is It the Harder Half?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What am I responsible for doing if I am the person who was betrayed?' with no named finding known."
+    },
+    {
+      "q": "Why do I keep checking when I never find anything?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Checking Keep Coming Back When It Finds Nothing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep checking when I never find anything?' with no named finding known."
+    },
+    {
+      "q": "How long does rebuilding trust usually take?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does Rebuilding Trust Actually Take?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does rebuilding trust usually take?' with no named finding known."
+    },
+    {
+      "q": "How can I earn my boss's trust again after I hid a mistake at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Rebuild Trust With a Friend, a Parent, or Somebody You Cannot Leave?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I earn my boss’s trust again after I hid a mistake at work?' with no named finding known."
+    },
+    {
+      "q": "Can I forgive somebody and still decide not to trust them again?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Getting Treated as One Thing Here?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can I forgive somebody and still decide not to trust them again?' with no named finding known."
+    },
+    {
+      "q": "How can I tell whether rebuilding trust is working or just stuck?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does It Look Like When It Is Actually Working?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether rebuilding trust is working or just stuck?' with no named finding known."
+    },
+    {
+      "q": "How do I rebuild trust with a parent who keeps breaking promises to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Rebuild Trust With a Friend, a Parent, or Somebody You Cannot Leave?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I rebuild trust with a parent who keeps breaking promises to me?' with no named finding known."
+    },
+    {
+      "q": "Which couples therapy should we use to fix our marriage after an affair?",
+      "kind": "POLICY",
+      "policy_reason": "Treating a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication should I ask for if betrayal has made me constantly suspicious?",
+      "kind": "POLICY",
+      "policy_reason": "Naming medication or advising what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

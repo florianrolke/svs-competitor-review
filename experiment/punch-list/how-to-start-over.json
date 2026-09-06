@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-start-over",
+  "questions": [
+    {
+      "q": "How do I know whether I really need a fresh start or I am just running away?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Changing Everything Rarely Change Anything?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I know whether I really need a fresh start or I am just running away?' with no named finding known."
+    },
+    {
+      "q": "How can I start over when I have kids, a mortgage, and people depending on me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Start Over With Kids, a Mortgage, and Someone Who Depends on You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I start over when I have kids, a mortgage, and people depending on me?' with no named finding known."
+    },
+    {
+      "q": "Is it too late to start my life over at 50?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Start Over With Kids, a Mortgage, and Someone Who Depends on You?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is it too late to start my life over at 50?' with no named finding known."
+    },
+    {
+      "q": "Why did moving to a new city and changing jobs leave me feeling the same?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Changing Everything Rarely Change Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why did moving to a new city and changing jobs leave me feeling the same?' with no named finding known."
+    },
+    {
+      "q": "How can I tell whether my circumstances need to change or my expectations do?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This a Conditions Problem or a Blueprint Problem?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my circumstances need to change or my expectations do?' with no named finding known."
+    },
+    {
+      "q": "What is one realistic first step when I want to start over but feel frozen?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is One Thing to Do Today, Before You Change Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is one realistic first step when I want to start over but feel frozen?' with no named finding known."
+    },
+    {
+      "q": "Should I quit after my boss passed me over, or am I reacting too fast?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Is This a Conditions Problem or a Blueprint Problem?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Should I quit after my boss passed me over, or am I reacting too fast?' with no named finding known."
+    },
+    {
+      "q": "How do I build a new identity after a divorce?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does a Life Stop Working When Nothing Obviously Broke?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I build a new identity after a divorce?' with no named finding known."
+    },
+    {
+      "q": "How should I help my child adjust when I decide to start over?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is wanting to start over a sign of depression or a midlife crisis condition?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a diagnosis or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

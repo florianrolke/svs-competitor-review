@@ -1,0 +1,105 @@
+{
+  "slug": "hypervigilance",
+  "questions": [
+    {
+      "q": "What is hypervigilance, and what does it feel like day to day?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Hypervigilance Sound Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is hypervigilance, and what does it feel like day to day?' with no named finding known."
+    },
+    {
+      "q": "Why do I keep scanning a room even when I feel completely calm?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Run Constantly Instead of Only When Something Is Wrong?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep scanning a room even when I feel completely calm?' with no named finding known."
+    },
+    {
+      "q": "What causes someone to become hypervigilant in the first place?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Would a Nervous System Set the Alarm This Low?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What causes someone to become hypervigilant in the first place?' with no named finding known."
+    },
+    {
+      "q": "Why do I analyze my partner's tone and assume something bad is coming?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Kindness Get Checked as Carefully as Anger?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I analyze my partner’s tone and assume something bad is coming?' with no named finding known."
+    },
+    {
+      "q": "Where does hypervigilance show up in an ordinary week?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Actually Run in an Ordinary Week?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where does hypervigilance show up in an ordinary week?' with no named finding known."
+    },
+    {
+      "q": "What can I do to turn hypervigilance down without losing my awareness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Recalibrate a Threshold That Was Set Twenty Years Ago?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to turn hypervigilance down without losing my awareness?' with no named finding known."
+    },
+    {
+      "q": "Why am I exhausted after a normal evening where nothing went wrong?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Am I So Tired After an Evening Where Nothing Happened?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I exhausted after a normal evening where nothing went wrong?' with no named finding known."
+    },
+    {
+      "q": "How do researchers measure hypervigilance?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure hypervigilance?' with no named finding known."
+    },
+    {
+      "q": "Is my hypervigilance PTSD, ADHD, or OCD?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out diagnoses or disorders.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What medication is used to treat hypervigilance?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or recommending medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

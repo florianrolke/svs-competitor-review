@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-trust-yourself",
+  "questions": [
+    {
+      "q": "What does trusting yourself actually mean?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Self-Trust, Actually?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does trusting yourself actually mean?' with no named finding known."
+    },
+    {
+      "q": "Why do I ask several people what they think when I already have an opinion?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Checkpoint Actually Come From?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I ask several people what they think when I already have an opinion?' with no named finding known."
+    },
+    {
+      "q": "What can I do to start trusting my decisions again?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Actually Rebuild It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to start trusting my decisions again?' with no named finding known."
+    },
+    {
+      "q": "Why did one bad judgment about a partner make me doubt every decision I make?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does One Wrong Read About One Person Take Down the Whole Faculty?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why did one bad judgment about a partner make me doubt every decision I make?' with no named finding known."
+    },
+    {
+      "q": "What do I do when my boss dismisses my read of a situation while I am speaking?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Do When Somebody Dismisses Your Read While It Is Happening?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What do I do when my boss dismisses my read of a situation while I am speaking?' with no named finding known."
+    },
+    {
+      "q": "How do I tell intuition from anxiety when making a decision?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How long does rebuilding self-trust usually take?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does rebuilding self-trust usually take?' with no named finding known."
+    },
+    {
+      "q": "Is there a validated scale researchers use to measure self-trust?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated scale researchers use to measure self-trust?' with no named finding known."
+    },
+    {
+      "q": "How can I trust my reaction when my partner says I am too sensitive?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Do When Somebody Dismisses Your Read While It Is Happening?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I trust my reaction when my partner says I am too sensitive?' with no named finding known."
+    },
+    {
+      "q": "Can medication help me stop second-guessing every decision?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or recommending medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

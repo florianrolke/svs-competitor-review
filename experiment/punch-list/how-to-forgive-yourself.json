@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-forgive-yourself",
+  "questions": [
+    {
+      "q": "Why do I keep replaying one mistake years later even though I know I cannot change it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Deciding to Forgive Yourself Do Nothing?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep replaying one mistake years later?' with no named finding known."
+    },
+    {
+      "q": "How can I forgive myself without letting myself off the hook?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does Forgiving Yourself Mean Excusing What You Did?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I forgive myself without letting myself off the hook?' with no named finding known."
+    },
+    {
+      "q": "What do I do when I cannot apologize because the person is gone or will not speak to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Person Is Dead, Gone, or Will Not Speak to You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What do I do when I cannot apologize because the person is gone or will not speak to me?' with no named finding known."
+    },
+    {
+      "q": "How do I know whether I have actually forgiven myself?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Other End Actually Look Like?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I know whether I have actually forgiven myself?' with no named finding known."
+    },
+    {
+      "q": "Why does my guilt come back as soon as something good happens to me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Come Back Hardest When Things Finally Go Well?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my guilt come back as soon as something good happens to me?' with no named finding known."
+    },
+    {
+      "q": "How long does it usually take to forgive yourself?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Honestly Take?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it usually take to forgive yourself?' with no named finding known."
+    },
+    {
+      "q": "What can I do today to stop punishing myself for what I did?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is One Thing to Do Today, Before You Try to Forgive Anything?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do today to stop punishing myself for what I did?' with no named finding known."
+    },
+    {
+      "q": "How do I forgive myself for a mistake that hurt my coworkers and disappointed my boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Tell Real Accountability From Guilt Wearing Its Clothes?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I forgive myself for a mistake that hurt my coworkers and disappointed my boss?' with no named finding known."
+    },
+    {
+      "q": "Does being unable to forgive myself mean I have OCD or depression?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is there a medication that can stop severe guilt and self-blame?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or recommending medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
