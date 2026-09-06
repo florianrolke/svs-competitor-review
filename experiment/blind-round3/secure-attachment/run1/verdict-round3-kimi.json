@@ -1,0 +1,99 @@
+{
+  "query": "What does secure attachment actually look like?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 8,
+    "B": 2
+  },
+  "per_question": [
+    {
+      "q": "What does a securely attached person actually do differently after a fight?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The dedicated section 'What Does a Securely Attached Person Actually Do Differently After a Fight?' matches the question verbatim and names the Gottman lab finding that accepted repair attempts separate couples who last, plus the ~100 bpm flooding caveat with the return-time rule."
+    },
+    {
+      "q": "Why do I still feel anxious in my relationship even after years of working on myself?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The never-wounded / earned / performed table and the section 'Why Does Calm Register as Danger, and Worry as Caring?' answer exactly why the alarm still fires after years of work, including that the flicker's presence says almost nothing about progress."
+    },
+    {
+      "q": "Is being calm and low-maintenance the same as being securely attached?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The dedicated heading 'Is Being Calm and Low-Maintenance the Same as Being Securely Attached?' names Main's dismissing classification — calm with an idealizing, detail-free narrative — and backs it with a look-alike table of distinguishing tests."
+    },
+    {
+      "q": "How do psychologists actually measure adult attachment?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "high",
+      "why": "The section 'How do the two main measurement traditions differ?' gives a comparison table of the Adult Attachment Interview versus the ECR-R — developers, what each scores, what each best predicts, limitations, and their modest agreement."
+    },
+    {
+      "q": "Can you become securely attached as an adult?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The section 'Can You Become Securely Attached as an Adult?' names Main's earned security, the Pearson et al. 1994 paper, and the earned/never-wounded/performed table that sets honest expectations; S's counterfeits list is crisp but the treatment is thinner."
+    },
+    {
+      "q": "What are the green flags of a secure partner in early dating?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The green-flags section lists eight observable load-tests plus four explicit non-signals (intensity, constant availability, never fighting, confident presentation), one more diagnostic flag than the other page, with the threat-activation caveat."
+    },
+    {
+      "q": "Why do compliments make me uncomfortable?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The receiving-problem mechanism — the automatic internal rebuttal 'they are just saying that' — and the behavioral rule 'say thank you and add nothing' answer this directly; the other page barely touches compliments."
+    },
+    {
+      "q": "What does secure attachment look like in a child, and what should parents do?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "high",
+      "why": "The dedicated section 'What does secure attachment look like in a parent?' names Ainsworth's maternal sensitivity construct, the secure-base/safe-haven functions, Winnicott's good-enough mother, and the finding that modest sensitivity interventions shift classifications."
+    },
+    {
+      "q": "Why do I test my partner even when things are going well?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The section 'What Separates Testing From Trusting?' explains testing as forcing an early answer ('If you had to create the situation, you were not observing it'), and the sabotage FAQ explains the relief mechanism that keeps the habit alive."
+    },
+    {
+      "q": "Is it normal for a good, calm relationship to feel boring or flat at first?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The section 'Why Does Calm Register as Danger, and Worry as Caring?' names the flat-feeling problem directly and distinguishes a recalibrating nervous system from a relationship where neither person is present."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "A side-by-side of the two measurement traditions (AAI vs ECR-R) with developers, administration and limitations",
+      "Prevalence figures and cohort trends (e.g., the Konrath 2014 meta-analysis)",
+      "A consolidated source list with dates at the end of the page",
+      "Several named strands the other page carries: Tronick's mismatch-and-repair, Fonagy's mentalizing, Coan's co-regulation, Winnicott's good-enough mother",
+      "A section on misusing the framework (e.g., 'what attachment style do abusers have')"
+    ],
+    "B": [
+      "A direct treatment of why compliments and reassurance fail to land (the receiving problem and the 'thank you, nothing added' rule)",
+      "A section on testing a partner and how it differs from discernment",
+      "Why a good, calm relationship can feel boring or flat after years of anxiety, and how to tell recalibration from absence",
+      "The earned vs never-wounded vs performed distinction",
+      "A concrete self-observation exercise like the one-week gap log"
+    ]
+  },
+  "first_screen": "B answers faster: its short answer is a dense behavioral definition anchored in named research within the first two paragraphs, while A opens evocatively (\"small non-events\") and takes longer to reach mechanics.",
+  "provenance": "B: nearly every claim carries a named researcher and often a date inline, and a 'Sources and researchers referenced' list closes the page; A names five research strands in one origins section but attributes less inline and mixes in first-person material.",
+  "confidence": "high"
+}
