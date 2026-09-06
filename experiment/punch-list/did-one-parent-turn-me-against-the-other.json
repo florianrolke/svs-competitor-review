@@ -1,0 +1,105 @@
+{
+  "slug": "did-one-parent-turn-me-against-the-other",
+  "questions": [
+    {
+      "q": "How can I tell whether my opinion of one parent came from my own memories or the other parent's stories?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Actually Run the Check?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my opinion of one parent came from my own memories or the other parent's stories?' carrying Bartlett's reconstructive-memory finding and Loftus's misinformation-effect research."
+    },
+    {
+      "q": "Why do I feel guilty and disloyal just for questioning what my mother told me about my father?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What About the Parent Who Raised You?",
+      "heading_is_question": false,
+      "named_finding_inside": "Ivan Boszormenyi-Nagy's invisible loyalties",
+      "what_to_add": "An H2 'Why do I feel guilty and disloyal just for questioning what one parent told me about the other?' carrying Ivan Boszormenyi-Nagy's invisible-loyalties concept."
+    },
+    {
+      "q": "How do I reconnect with a parent I may have unfairly rejected for years?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does an Actual Conversation With Him Look Like?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I reconnect with a parent I may have unfairly rejected for years?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my sibling remember the parent I disliked so differently from me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You and Your Sibling Remember Different Parents?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my sibling remember the parent I disliked so differently from me?' carrying no named finding known."
+    },
+    {
+      "q": "Can one parent turn me against the other without deliberately lying?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does Any of This Require a Parent Who Meant Harm?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can one parent turn me against the other without deliberately lying?' carrying no named finding known."
+    },
+    {
+      "q": "What is triangulation in a family, and how would I know if I was pulled into it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is a Preframe, and How Is It Different From a Reframe?",
+      "heading_is_question": false,
+      "named_finding_inside": "Murray Bowen's concept of triangulation",
+      "what_to_add": "An H2 'What is triangulation in a family, and how would I know if I was pulled into it?' carrying Murray Bowen's family-systems concept of triangulation."
+    },
+    {
+      "q": "Is parental alienation a recognized mental disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming a purported condition and its status in diagnostic manuals.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I get my alienated child to trust me and come back?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Was being turned against my father a form of childhood trauma?",
+      "kind": "POLICY",
+      "policy_reason": "The question explicitly requires using and framing the experience as trauma.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Should I contact the parent I was warned about if I personally remember violence or coercion?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Should I contact the parent I was warned about if I personally remember violence or coercion?' carrying no named finding known."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-exhaustion",
+  "questions": [
+    {
+      "q": "Why am I still exhausted after a full night's sleep or a week off?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Doesn't Sleep or a Week Off Repair It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I still exhausted after a full night's sleep or a week off?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell emotional exhaustion from burnout?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Burnout, or Is It Something Else?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell emotional exhaustion from burnout?' carrying Maslach and Jackson's burnout finding that emotional exhaustion is a measured burnout dimension."
+    },
+    {
+      "q": "Is this emotional exhaustion or depression?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming or ruling out a diagnosis or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What blood tests should I ask my doctor for if I wake up exhausted every day?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for named medical tests or panels and what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does spending time with a partner who treats me well still leave me drained?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Are the People You Love the Most Expensive?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does spending time with a partner who treats me well still leave me drained?' carrying no named finding known."
+    },
+    {
+      "q": "Why does a five-minute call with my parent wipe me out for the rest of the day?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Hide When You Would Not Call It Exhaustion?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does a five-minute call with my parent wipe me out for the rest of the day?' carrying no named finding known."
+    },
+    {
+      "q": "What are the early signs that I am becoming emotionally exhausted?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does It Look Like From Outside, When Nothing Looks Wrong?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the early signs that I am becoming emotionally exhausted?' carrying the Maslach Burnout Inventory's emotional-exhaustion findings."
+    },
+    {
+      "q": "What does emotional exhaustion actually mean, and how is it different from ordinary tiredness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Is This Burnout, or Is It Something Else?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does emotional exhaustion actually mean, and how is it different from ordinary tiredness?' carrying the Maslach Burnout Inventory's definition of emotional exhaustion."
+    },
+    {
+      "q": "What can I do to recover when rest is not helping my emotional exhaustion?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to recover when rest is not helping my emotional exhaustion?' carrying no named finding known."
+    },
+    {
+      "q": "How is emotional exhaustion measured or tested?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming a psychological test or instrument.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

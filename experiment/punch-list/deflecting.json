@@ -1,0 +1,105 @@
+{
+  "slug": "deflecting",
+  "questions": [
+    {
+      "q": "What does deflecting mean in a conversation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Deflection, and What Does the Word Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sidney Jourard's disclosure reciprocity research; Altman and Taylor's social penetration theory; Arthur Aron's thirty-six questions; Charles Derber's shift and support responses; the Humor Styles Questionnaire",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I crack a joke every time a conversation gets serious?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Deflection, and What Does the Word Actually Cover?",
+      "heading_is_question": false,
+      "named_finding_inside": "Rod Martin and colleagues' Humor Styles Questionnaire",
+      "what_to_add": "An H2 'Why do I crack a joke every time a conversation gets serious?' carrying Rod Martin and colleagues' Humor Styles Questionnaire finding on self-defeating humor."
+    },
+    {
+      "q": "Why can't I just accept a compliment without minimizing it or praising the other person back?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Deflecting Apart From Modesty, Privacy, or Being a Good Listener?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can't I just accept a compliment without minimizing it or praising the other person back?' carrying no named finding known."
+    },
+    {
+      "q": "My partner says I never let them know what is going on with me. Why do I shut them out?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Deflecting Cost the People Who Want to Know You?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I shut my partner out when they ask what is going on with me?' carrying Sidney Jourard's disclosure-reciprocity finding."
+    },
+    {
+      "q": "How can I tell whether I am deflecting or simply choosing to be private?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Deflecting Apart From Modesty, Privacy, or Being a Good Listener?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I am deflecting or simply choosing to be private?' carrying no named finding known."
+    },
+    {
+      "q": "How do I answer personal questions more honestly without oversharing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Learn to Stay in the Frame Without Oversharing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I answer personal questions more honestly without oversharing?' carrying no named finding known."
+    },
+    {
+      "q": "Is deflecting a defense mechanism, and what is it protecting me from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Deflect Identically for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is deflecting a defense mechanism, and what is it protecting me from?' carrying no named finding known."
+    },
+    {
+      "q": "How should I respond when my boss deflects blame and turns every criticism back on me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How should I respond when my boss deflects blame and turns every criticism back on me?' carrying no named finding known."
+    },
+    {
+      "q": "Is constant deflecting a sign of a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming or ruling out a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I get my child to stop deflecting whenever I ask what happened?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

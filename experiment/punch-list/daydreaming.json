@@ -1,0 +1,105 @@
+{
+  "slug": "daydreaming",
+  "questions": [
+    {
+      "q": "Why do I keep disappearing into daydreams for hours even when I want to be present?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Daydream More Compelling Than the Real Day?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep disappearing into daydreams for hours even when I want to be present?' carrying no named finding known."
+    },
+    {
+      "q": "What is maladaptive daydreaming, and is it a real disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming a purported condition and its status in diagnostic manuals.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does music make me start pacing and daydreaming almost automatically?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Music, Pacing, and Headphones Set It Off?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does music make me start pacing and daydreaming almost automatically?' carrying the MDS-16 findings on music and repetitive movement in maladaptive daydreaming."
+    },
+    {
+      "q": "How can I tell harmless daydreaming from daydreaming that is taking over my life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Ordinary Daydreaming From the Kind That Costs You?",
+      "heading_is_question": true,
+      "named_finding_inside": "Jerome Singer's Imaginal Processes Inventory and three daydreaming styles; Killingsworth and Gilbert's 2010 experience-sampling study",
+      "what_to_add": ""
+    },
+    {
+      "q": "What can I actually do to stop losing whole evenings to daydreaming?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Get the Hours Back Without Losing the Imagination?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I actually do to stop losing whole evenings to daydreaming?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I daydream constantly at work but much less when I am with other people?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does Forcing Yourself to Stop Move the Problem Somewhere Else?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I daydream constantly at work but much less when I am with other people?' carrying no named finding known."
+    },
+    {
+      "q": "What should I say to my partner when my daydreaming makes them feel ignored?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I say to my partner when my daydreaming makes them feel ignored?' carrying no named finding known."
+    },
+    {
+      "q": "Why do my daydreams have the same characters and storylines for years?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does Daydreaming Actually Look Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do my daydreams have the same characters and storylines for years?' carrying no named finding known."
+    },
+    {
+      "q": "Is vivid daydreaming the same thing as zoning out or losing awareness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is Maladaptive Daydreaming?",
+      "heading_is_question": false,
+      "named_finding_inside": "Eli Somer's research description of maladaptive daydreaming",
+      "what_to_add": "An H2 'Is vivid daydreaming the same thing as zoning out or losing awareness?' carrying Eli Somer's finding that maladaptive daydreamers retain awareness that the fantasy is imagined."
+    },
+    {
+      "q": "Is there a test that can tell me whether my daydreaming is maladaptive?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming a psychological test or instrument and a condition label.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "doomscrolling",
+  "questions": [
+    {
+      "q": "What is doomscrolling?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What is doomscrolling?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sharma and colleagues' 2022 Doomscrolling Scale and the Social Media Doomscrolling Scale",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I keep scrolling bad news even though I can feel it making me worse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why does it feel worse every minute and still not stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Rozin and Royzman's negativity bias; Baumeister and colleagues' Bad Is Stronger Than Good review; Skinner's variable-ratio reinforcement finding; the Zeigarnik effect; Gerbner's mean world syndrome",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why is my doomscrolling always worst in bed at night?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why is it always at night?",
+      "heading_is_question": true,
+      "named_finding_inside": "Utrecht researchers' 2014 bedtime procrastination research",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does hours of doomscrolling do to my brain and my view of the world?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why does it feel worse every minute and still not stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Rozin and Royzman's negativity bias; the Zeigarnik effect; George Gerbner's mean world syndrome",
+      "what_to_add": "An H2 'What does hours of doomscrolling do to my brain and my view of the world?' carrying Rozin and Royzman's negativity-bias finding, the Zeigarnik effect, and George Gerbner's mean-world-syndrome finding."
+    },
+    {
+      "q": "How can I stop doomscrolling without deleting every app and relapsing a week later?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How do you change this without a purge that collapses in nine days?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I stop doomscrolling without deleting every app and relapsing a week later?' carrying no named finding known."
+    },
+    {
+      "q": "Do screen-time limits actually work for doomscrolling?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why does deleting the app not fix it?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Do screen-time limits actually work for doomscrolling?' carrying no named finding known."
+    },
+    {
+      "q": "How do I know whether I am staying informed or just doomscrolling?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What separates staying informed from doomscrolling?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I know whether I am staying informed or just doomscrolling?' carrying no named finding known."
+    },
+    {
+      "q": "My partner says I am never present because I am always on my phone. What should I do?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How do you change this without a purge that collapses in nine days?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do when my partner says doomscrolling makes me unavailable?' carrying no named finding known."
+    },
+    {
+      "q": "Is doomscrolling an addiction or a sign of an anxiety disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming or ruling out diagnoses, disorders, or conditions.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I stop my teenager from doomscrolling at night?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
