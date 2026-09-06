@@ -1,0 +1,105 @@
+{
+  "slug": "fear-of-failure",
+  "questions": [
+    {
+      "q": "What does fear of failure actually mean, beyond just not wanting a bad result?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Fear Protecting You From?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does fear of failure actually mean, beyond just not wanting a bad result?' carrying no named finding known."
+    },
+    {
+      "q": "Why am I terrified of failing at small things when I know the stakes are low?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Fear of Failing Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I terrified of failing at small things when I know the stakes are low?' carrying no named finding known."
+    },
+    {
+      "q": "Why does an email from my boss make my chest tighten before I even open it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does It Hide When You Would Not Call It Fear?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does an email from my boss make my chest tighten before I even open it?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell fear of failure apart from perfectionism, procrastination, or sensible caution?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Fear of Failing, or Something Standing Next to It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell fear of failure apart from perfectionism, procrastination, or sensible caution?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I leave projects at ninety percent instead of finishing and showing them to people?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Look Like Output Rather Than Avoidance?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I leave projects at ninety percent instead of finishing and showing them to people?' carrying no named finding known."
+    },
+    {
+      "q": "Why does succeeding over and over never make me less afraid of the next failure?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Doesn't Succeeding Ever Settle the Question?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does succeeding over and over never make me less afraid of the next failure?' carrying no named finding known."
+    },
+    {
+      "q": "How can I practice failing without blowing up my career or finances?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Practice Failing at a Scale You Can Survive?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I practice failing without blowing up my career or finances?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated scale researchers use to measure fear of failure?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated scale researchers use to measure fear of failure?' carrying David Conroy's Performance Failure Appraisal Inventory."
+    },
+    {
+      "q": "What medication should I ask my doctor for if fear of failure is ruining my work?",
+      "kind": "POLICY",
+      "policy_reason": "naming a medication or what to ask a doctor for",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I stop my child from panicking over grades and mistakes?",
+      "kind": "POLICY",
+      "policy_reason": "advice aimed at a parent about a child",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

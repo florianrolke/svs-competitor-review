@@ -1,0 +1,105 @@
+{
+  "slug": "fawn-response",
+  "questions": [
+    {
+      "q": "What is the fawn response, and why does it make someone move toward danger?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Would a Nervous System Move Toward Danger Instead of Away From It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the fawn response, and why does it make someone move toward danger?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I automatically agree with my boss and only realize later that I disagreed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens in the Half Second Before You Agree?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I automatically agree with my boss and only realize later that I disagreed?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell fawning apart from ordinary people pleasing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Fawning, or Is It People Pleasing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell fawning apart from ordinary people pleasing?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between fawning and freezing during conflict?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Fawning Get Confused With Freezing?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between fawning and freezing during conflict?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop apologizing and saying yes before I have had time to think?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop apologizing and saying yes before I have had time to think?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell if my partner is fawning around me rather than genuinely agreeing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Can You Fawn With One Person and Be Blunt With Another?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell if my partner is fawning around me rather than genuinely agreeing?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire or checklist for measuring the fawn response?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated questionnaire or checklist for measuring the fawn response?' carrying no named finding known."
+    },
+    {
+      "q": "Is fawning a sign of PTSD or another diagnosable disorder?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, condition, or diagnostic manual",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I heal the trauma behind my fawn response?",
+      "kind": "POLICY",
+      "policy_reason": "using the word trauma or framing anything as trauma treatment",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I help my child stop fawning around angry adults?",
+      "kind": "POLICY",
+      "policy_reason": "advice aimed at a parent about a child",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

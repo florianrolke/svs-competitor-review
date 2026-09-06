@@ -1,0 +1,105 @@
+{
+  "slug": "everyone-else-is-a-supporting-character",
+  "questions": [
+    {
+      "q": "What does main character syndrome actually mean?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Main Character Syndrome, and What Does the Phrase Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does main character syndrome actually mean?' carrying no named finding known."
+    },
+    {
+      "q": "Is narrating my own life and putting myself at the center normal?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Narrating Your Own Life Actually a Fault?",
+      "heading_is_question": true,
+      "named_finding_inside": "Heider and Simmel's 1944 animation study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does it bother me so much when someone looks at their phone while I tell a personal story?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does an Inattentive Listener Damage the Story and Not Only the Mood?",
+      "heading_is_question": true,
+      "named_finding_inside": "Pasupathi and Rich's 2005 listener-attention study",
+      "what_to_add": ""
+    },
+    {
+      "q": "Where did the phrase main character syndrome come from, and when did people start using it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Main Character Syndrome, and What Does the Phrase Actually Cover?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Where did the phrase main character syndrome come from, and when did people start using it?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a real test or validated scale for main character syndrome?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Evidence Actually Support, and Where Is It Thin?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a real test or validated scale for main character syndrome?' carrying no named finding known."
+    },
+    {
+      "q": "My partner says I make everything about me; how do I tell whether they have a point?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Is the Accusation Version of This Word Worth Refusing?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'My partner says I make everything about me; how do I tell whether they have a point?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop treating my friends like supporting characters without making myself invisible?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Happens in the Seven Seconds After the Flat Reaction?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop treating my friends like supporting characters without making myself invisible?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I remember my own lines from a conversation but barely remember what the other person said?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does This Actually Sound Like in Your Own Head?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I remember my own lines from a conversation but barely remember what the other person said?' carrying no named finding known."
+    },
+    {
+      "q": "Does main character syndrome mean someone has a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, condition, or diagnostic manual",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I teach my teenager not to act like the main character?",
+      "kind": "POLICY",
+      "policy_reason": "advice aimed at a parent about a child",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

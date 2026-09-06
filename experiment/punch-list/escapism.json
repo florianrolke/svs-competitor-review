@@ -1,0 +1,105 @@
+{
+  "slug": "escapism",
+  "questions": [
+    {
+      "q": "How can I tell whether scrolling or gaming is escapism or just a normal way to relax?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This a Break, or Is It Escapism?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether scrolling or gaming is escapism or just a normal way to relax?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I mentally check out whenever my partner and I have a difficult conversation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does It Hide When You Would Not Call It Escapism?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I mentally check out whenever my partner and I have a difficult conversation?' carrying no named finding known."
+    },
+    {
+      "q": "What causes someone to keep escaping into fantasy, work, or screens?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Reflex to Leave Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What causes someone to keep escaping into fantasy, work, or screens?' carrying no named finding known."
+    },
+    {
+      "q": "What can I actually do to stop checking out all the time?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I actually do to stop checking out all the time?' carrying no named finding known."
+    },
+    {
+      "q": "Could my boss see my overworking as dedication even if I am using work to avoid my life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is the Version That Looks Like Growth the Hardest to Catch?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can overworking look like dedication to a boss while still functioning as escapism?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire that measures escapism?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated questionnaire that measures escapism?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between escapism and procrastination?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Escapism, or One of Its Neighbors?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between escapism and procrastination?' carrying no named finding known."
+    },
+    {
+      "q": "How does one person's escapism affect their partner over time?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does This Actually Cost, When Nothing Obviously Goes Wrong?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does one person's escapism affect their partner over time?' carrying no named finding known."
+    },
+    {
+      "q": "How can I stop my child from escaping into video games whenever something is hard?",
+      "kind": "POLICY",
+      "policy_reason": "advice aimed at a parent about a child",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is chronic escapism a mental disorder or a sign of a specific diagnosis?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, condition, or diagnostic manual",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "fear-of-abandonment",
+  "questions": [
+    {
+      "q": "What does fear of abandonment look and sound like in everyday life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Fear of Abandonment Sound Like From the Inside?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does fear of abandonment look and sound like in everyday life?' carrying no named finding known."
+    },
+    {
+      "q": "Why am I so afraid people will leave even when nobody has actually left?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Fear Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I so afraid people will leave even when nobody has actually left?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I push my partner away when what I really want is reassurance that they will stay?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Run in Two Opposite Directions at Once?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I push my partner away when what I really want is reassurance that they will stay?' carrying no named finding known."
+    },
+    {
+      "q": "Why does reassurance from my partner wear off so quickly?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Can Somebody Else Reassure This Away?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does reassurance from my partner wear off so quickly?' carrying no named finding known."
+    },
+    {
+      "q": "Can fear of abandonment make ordinary feedback from my boss feel like I am about to be fired?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up Outside Romantic Relationships?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can fear of abandonment make ordinary feedback from my boss feel like I am about to be fired?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether my fear is misfiring or someone really is pulling away?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my fear is misfiring or someone really is pulling away?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do on my own to make fear of abandonment less controlling?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do on my own to make fear of abandonment less controlling?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a validated scale or questionnaire for fear of abandonment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a validated scale or questionnaire for fear of abandonment?' carrying no named finding known."
+    },
+    {
+      "q": "Does fear of abandonment mean I have borderline personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, condition, or diagnostic manual",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Should my spouse and I get couples therapy to fix our abandonment dynamic?",
+      "kind": "POLICY",
+      "policy_reason": "treating a couple or marriage as the patient",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
