@@ -1,0 +1,94 @@
+{
+  "query": "Why am I waiting for someone to tell me I am allowed to start?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 10,
+    "B": 0
+  },
+  "per_question": [
+    {
+      "q": "Why do I keep waiting for someone to tell me I can start?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has an exact-match heading, \"Why Do I Keep Waiting for Someone to Tell Me I Can Start?\", followed by the conversation-reset explanation and a three-question list for identifying the loop. B has the shared short answer but omits this dedicated section."
+    },
+    {
+      "q": "What is an external locus of control?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the exact heading \"What Is an External Locus of Control?\" and directly explains Rotter's forced-choice scale, the continuum it produces, and four things the term does not mean. B leaves the definition inside the broader naming section and FAQ."
+    },
+    {
+      "q": "How can I tell whether my manager's permission is truly required?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the exact manager-focused heading and places the concrete real-versus-imagined-permission table directly beneath it. The table's checks—who decides, what happens after a no, and whether the person knows you are waiting—make it a clean citation target."
+    },
+    {
+      "q": "Why am I still waiting for approval from a parent who cannot give it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has an exact parent-focused heading and puts the named bereavement finding about continuing an inner relationship with someone who died inside that answer. B's broader \"person whose blessing\" section lacks that finding and is less aligned with the query."
+    },
+    {
+      "q": "Why does it sting when someone less prepared starts before me?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the exact heading and includes the named distinction between two experiences commonly grouped as envy, along with the evidence limitation about languages with two separate words. B uses a less direct heading and omits that finding."
+    },
+    {
+      "q": "How is waiting for permission measured in research?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Only A has the exact heading \"How Is Waiting for Permission Measured in Research?\" It explicitly says there is no direct instrument, then lists the neighboring measures and three limitations involving self-report, laboratory settings, and causal direction."
+    },
+    {
+      "q": "How trustworthy is the learned-helplessness research behind this idea?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "medium",
+      "why": "Both pages contain the named 1967 experiments, the 1978 reformulation, and the 2016 Maier and Seligman correction in their research-trust section. A earns the citation narrowly because its separate measurement section supplies the missing context that this behavior is not directly measured and that applying the animal work here is analogical."
+    },
+    {
+      "q": "What does changing this pattern look like in an ordinary workweek?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses this question verbatim as a heading and answers with four concrete procedural changes: ask the real authority, shorten the conversation loop, make a low-cost move, and change the internal question. B's corresponding heading paraphrases the user's language."
+    },
+    {
+      "q": "What is one concrete thing I can do before making a bigger decision?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the question verbatim as its heading and immediately gives a compact exercise: write one name and one sentence about what materially happens if that person says no. The resulting two-branch test identifies whether the authority has a real lever."
+    },
+    {
+      "q": "Could ADHD be the reason I cannot start without permission?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page discusses ADHD, so neither can support a direct answer. A is the less-poor citation because its disclaimer says the pattern is not a diagnosis and its dedicated measurement section states that no instrument directly measures waiting for permission, supporting a cautious refusal to infer ADHD from this behavior."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "It has no ADHD-specific section or evidence and therefore cannot answer whether ADHD explains the behavior.",
+      "Its final action heading does not explicitly frame the exercise as something to do \"this week,\" as B's does."
+    ],
+    "B": [
+      "It lacks dedicated, search-aligned sections for the core loop, external locus of control, and research measurement.",
+      "Its parent and envy sections use broader headings and omit the named bereavement and envy findings that A places inside the relevant answers.",
+      "It has no ADHD-specific section or evidence."
+    ]
+  },
+  "first_screen": "The first screen is effectively identical on A and B: both use the same H1, short-answer box, recognition list, and opening narrative. A answers the full set of reader questions faster only after that shared opening, because its later headings match the questions more directly.",
+  "provenance": "A makes provenance easier to assess because named findings and their limits appear inside the sections they support, especially the bereavement finding, the envy distinction, Rotter's scale, and the dedicated measurement discussion. Both pages still lack a formal reference list.",
+  "confidence": "high"
+}

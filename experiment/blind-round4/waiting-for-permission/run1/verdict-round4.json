@@ -1,0 +1,94 @@
+{
+  "query": "Why am I waiting for someone to tell me I am allowed to start?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 10,
+    "B": 0
+  },
+  "per_question": [
+    {
+      "q": "Why do I keep waiting for someone to tell me I can start?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the near-verbatim heading \"Why Do I Keep Waiting for Someone to Tell Me I Can Start?\" followed by a direct explanation of the encouragement-versus-authorization loop and a three-question list for breaking it."
+    },
+    {
+      "q": "What is an external locus of control?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the exact heading \"What Is an External Locus of Control?\" and places Rotter's 1966 forced-choice scale, the continuum interpretation, and a four-item clarification list directly beneath it."
+    },
+    {
+      "q": "How can I tell whether my manager's permission is truly required?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the exact heading \"How Can I Tell Whether My Manager's Permission Is Truly Required?\" and immediately supplies the refusal-consequence test plus a six-row real-versus-imagined permission table."
+    },
+    {
+      "q": "Why am I still waiting for approval from a parent who cannot give it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the exact parent-focused heading and places the bereavement finding about an ongoing inner relationship with someone who died inside that section. B uses a broader \"person whose blessing\" heading and omits that named research context."
+    },
+    {
+      "q": "Why does it sting when someone less prepared starts before me?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A repeats the question as its heading and puts the described distinction between two experiences labeled envy, including the evidence limitation, directly in the answering section."
+    },
+    {
+      "q": "How is waiting for permission measured in research?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Only A has the exact heading \"How Is Waiting for Permission Measured in Research?\" It directly states that no instrument measures the behavior and lists the adjacent measures and three methodological consequences."
+    },
+    {
+      "q": "How trustworthy is the learned-helplessness research behind this idea?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "medium",
+      "why": "A's research-measurement section leads directly into the trust section, where the 1967 experiments, the 1978 reformulation, and Maier and Seligman's 2016 correction are named alongside the animal-to-human analogy limitation."
+    },
+    {
+      "q": "What does changing this pattern look like in an ordinary workweek?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the question verbatim as a heading and answers it with four concrete procedural changes: put questions to real authorities, shorten conversation loops, act at a low-cost scale, and shift the internal question."
+    },
+    {
+      "q": "What is one concrete thing I can do before making a bigger decision?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the exact heading and a compact exercise: write one name and one sentence describing what would materially happen if that person said no."
+    },
+    {
+      "q": "Could ADHD be the reason I cannot start without permission?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page discusses ADHD, so neither directly supports an answer. A is the less-poor citation because its dedicated measurement section explicitly distinguishes this unmeasured behavior from neighboring constructs and warns what the available instruments cannot establish."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "It does not discuss ADHD or distinguish ADHD-related task initiation difficulty from waiting for authorization.",
+      "Its manager-specific heading is less visibly general than B's broader required-versus-imagined-permission heading, even though A's section text does generalize the test."
+    ],
+    "B": [
+      "It lacks direct, searcher-worded body headings for the recurring conversation loop, external locus of control, a manager's actual authority, parental approval, research measurement, ordinary-workweek change, and the concrete pre-decision exercise.",
+      "It omits A's dedicated research-measurement section and the named bereavement and envy findings placed inside their relevant answer sections.",
+      "It does not discuss ADHD."
+    ]
+  },
+  "first_screen": "A answers the reader marginally faster overall. The two opening screens are identical, but A's subsequent exact-question headings make the requested answers easier to reach and extract.",
+  "provenance": "A makes claim origins easier to assess because it places the bereavement and envy findings inside the sections they support and adds a dedicated measurement section that identifies the available methods and their limits.",
+  "confidence": "high"
+}

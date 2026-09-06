@@ -1,0 +1,93 @@
+{
+  "query": "Why is my real life always waiting on one more thing?",
+  "winner_overall": "B",
+  "citation_score": {
+    "A": 1,
+    "B": 9
+  },
+  "per_question": [
+    {
+      "q": "How can I tell whether the condition I am waiting for has quietly changed?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B's \"What Exactly Got Swapped, and When?\" section places the dated two-sentence comparison beside the Goethals and Reckman memory finding, directly supporting why an external record can reveal a quiet change."
+    },
+    {
+      "q": "What do researchers call a life that is always deferred until later?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the directly targeted heading \"What Do Researchers Call This, and Where Does the Name Stop?\" followed by a three-row table naming the deferred life plan, anticipated versus experienced utility, and hedonic adaptation."
+    },
+    {
+      "q": "How do I distinguish a real practical constraint from a moving excuse?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B uses this question almost verbatim as a heading and answers it with a concrete criterion: a real constraint has a nameable amount, date, document, or person and does not upgrade as it is approached."
+    },
+    {
+      "q": "Why does reaching a milestone feel less life-changing than I predicted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B has an exact-match heading for this question and places anticipated versus experienced utility and hedonic adaptation inside that section, alongside the explanation that a milestone quickly becomes the new floor."
+    },
+    {
+      "q": "Is hedonic adaptation really proven, or do some life changes last?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B has a dedicated heading matching the question and a focused evidence review naming the 2011 Luhmann meta-analysis, Headey's 2010 critique, unemployment as a lasting effect, and four explicit study limitations."
+    },
+    {
+      "q": "Why do I keep saying I will do it when I have more money even as my savings grow?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B's \"Is the Condition About Money, or About Deserving?\" section adds Easterlin's named account that material aspirations can rise with income, then immediately gives the Stevenson and Wolfers counterfinding and marks the issue as contested."
+    },
+    {
+      "q": "What if the career or trip I keep postponing was never really my goal?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B turns this question into a near-verbatim heading and places beneath it the inherited-goal explanation, the identified-versus-guilt-driven goal model, and the grief-versus-relief check."
+    },
+    {
+      "q": "Is putting my life off just another form of procrastination?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B has an exact-match heading and tests the pattern against a three-part research definition of procrastination, explaining which two elements fail and when procrastination can instead be nested inside deferral."
+    },
+    {
+      "q": "What is one small thing I can do this week to test whether I still want the life I postpone?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B uses the full question as a heading and gives two immediately scannable actions: compare today's sentence with the one from five years ago, then use one long-saved object on an ordinary day."
+    },
+    {
+      "q": "How should I stop my teenager from postponing their future?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page provides parent-directed guidance, but B's dedicated inherited-goal section specifically identifies parental goals and guilt-driven pursuit as possible causes, making it the less misleading source for a parent deciding how to respond."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "It lacks question-matched sections for milestone disappointment, the limits of hedonic adaptation, practical constraints, inherited goals, procrastination, and the one-week test.",
+      "It does not include B's named evidence on memory reconstruction, rising material aspirations, or identified versus guilt-driven goals."
+    ],
+    "B": [
+      "It replaces A's highly searchable \"What Do Researchers Call This, and Where Does the Name Stop?\" heading with a milestone-focused heading, making the terminology question less directly retrievable.",
+      "It provides no dedicated advice for a parent responding to a teenager's deferral."
+    ]
+  },
+  "first_screen": "B answers the reader faster overall. Its opening screen is effectively identical to A's, but immediately after the shared introduction its question-shaped headings route readers directly to milestone, evidence, constraint, goal, procrastination, and action answers.",
+  "provenance": "B makes provenance easier to assess because it moves named findings and their limitations into the sections they support, including Goethals and Reckman on recalled positions, Luhmann and Headey on adaptation, and Easterlin versus Stevenson and Wolfers on money.",
+  "confidence": "high"
+}

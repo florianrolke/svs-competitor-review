@@ -1,0 +1,95 @@
+{
+  "query": "How do you actually love yourself?",
+  "winner_overall": "B",
+  "citation_score": {
+    "A": 0,
+    "B": 10
+  },
+  "per_question": [
+    {
+      "q": "What does loving yourself actually mean in everyday life?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The heading \"What Does Loving Yourself Actually Mean, In Plain Words?\" gives a direct definition and a three-part Registering, Naming, and Counting list. B also places the Grossmann et al. 2014 finding about reasoning asymmetry inside that section."
+    },
+    {
+      "q": "Why do affirmations and self-care routines make self-love feel fake?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The exact-match heading \"Why Do Affirmations and Self-Care Lists Bounce Off?\" explains the input-versus-output distinction. B strengthens that section with the named 2009 Psychological Science paper \"Positive Self-Statements: Power for Some, Peril for Others\" and its finding about participants with low self-regard."
+    },
+    {
+      "q": "Where does the habit of putting everyone else's feelings before mine come from?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Under \"Where Does the Habit of Not Counting Yourself Come From?\", B identifies conditional or absent warmth, criticism, family illness, siblings, school, and early relationships as routes. It also places the Assor et al. 2004 finding on performance-contingent parental warmth directly in this origin section."
+    },
+    {
+      "q": "Why can I give support easily but feel uncomfortable receiving it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The heading \"Why Is Receiving Harder Than Giving?\" directly explains that receiving tests a verdict about one's worth while giving does not. B adds the Marigold et al. 2007 compliment experiment in that section and includes the concrete \"say thank you and add nothing\" practice."
+    },
+    {
+      "q": "How does low self-regard show up with a partner or close friends?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B uses this question almost verbatim as a heading and follows it with a table containing separate friendship and partner rows. Those rows name one-sided listening, constant compromises, tone-reading, and private scorekeeping."
+    },
+    {
+      "q": "How does not loving myself affect the way I behave with my boss at work?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B has a dedicated heading matching the question and a concrete behavior list: absorbing extra work, postponing pay talks, over-reading replies, softening requests, and volunteering for undesirable work. It also gives a workplace-specific practice for stating workload plainly."
+    },
+    {
+      "q": "What small practices can build self-love when I do not feel it yet?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The section \"How Do You Build This When You Cannot Feel It On Command?\" contains an eight-item practice list, including stating one preference, taking one compliment cleanly, and logging dismissive thoughts. B also names affect labeling and summarizes the Lieberman 2007 finding and the Torre and Lieberman 2018 review beside the relevant practices."
+    },
+    {
+      "q": "How is self-love measured in psychological research?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "high",
+      "why": "B alone has an exact-match section and a table of four research constructs, their instruments, and what each misses. It specifically names the 1965 ten-item self-esteem questionnaire, Neff's 2003 26-item self-compassion scale, unmitigated communion, and self-concept clarity."
+    },
+    {
+      "q": "Which disorder causes a person to be unable to love themselves?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page identifies a disorder, but B is more citable because its research-measurement section explicitly says self-love is not used as a research variable and separates it into adjacent constructs. Its professional-help section also provides a concrete symptom list without assigning a diagnosis."
+    },
+    {
+      "q": "How can I teach my child to love themselves more?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page gives parent-directed instructions, but B's origins section provides the closest specific evidence: the Assor et al. 2004 finding links performance-contingent parental warmth with later internal compulsion, short-lived satisfaction, and resentment. The same section contrasts that pattern with having a child's emotional experience register and affect what happens next."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "A lacks B's dedicated sections for behavior with a boss and for psychological measurement.",
+      "A lacks the named Grossmann, Assor, Marigold, Lieberman, and scale findings placed inside the sections they support.",
+      "A uses a broad hiding-places heading rather than B's question-matching partner-and-friends heading."
+    ],
+    "B": [
+      "B replaces A's broader \"Where Does This Hide When You Would Not Call It a Self-Worth Problem?\" heading, making the non-relationship rows in that table less visible from the heading.",
+      "B still lacks a direct section answering the disorder question.",
+      "B still lacks parent-directed guidance about helping a child."
+    ]
+  },
+  "first_screen": "B answers the reader faster overall: although both pages have the same immediate short-answer box and opening examples, B's subsequent question-matching headings route readers directly to relationships, bosses, and research measurement.",
+  "provenance": "B makes provenance easier to assess because named studies, journals, years, instruments, findings, and limitations appear inside the sections whose claims they support. A contains the shared claims but not those embedded research anchors.",
+  "confidence": "high"
+}

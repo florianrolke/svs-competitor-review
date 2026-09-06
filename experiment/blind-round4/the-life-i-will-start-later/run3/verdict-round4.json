@@ -1,0 +1,94 @@
+{
+  "query": "Why is my real life always waiting on one more thing?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 9,
+    "B": 1
+  },
+  "per_question": [
+    {
+      "q": "How can I tell whether the condition I am waiting for has quietly changed?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A places the Goethals and Reckman memory finding inside the early section explaining how a condition gets swapped, then gives the dated two-sentence comparison that reveals the change."
+    },
+    {
+      "q": "What do researchers call a life that is always deferred until later?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B's heading \"What Do Researchers Call This, and Where Does the Name Stop?\" directly retrieves the answer, followed by the named-term table distinguishing the deferred life plan, anticipated versus experienced utility, and hedonic adaptation."
+    },
+    {
+      "q": "How do I distinguish a real practical constraint from a moving excuse?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the near-verbatim heading \"How Do I Distinguish a Real Practical Constraint From a Moving Excuse?\" and immediately supplies concrete tests: name the amount, date, document, or person, and check whether it stays fixed."
+    },
+    {
+      "q": "Why does reaching a milestone feel less life-changing than I predicted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses this question verbatim as a heading and answers it with the milestone-to-floor mechanism, then names anticipated versus experienced utility and hedonic adaptation in the same section."
+    },
+    {
+      "q": "Is hedonic adaptation really proven, or do some life changes last?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has a dedicated verbatim heading and a focused evidence review naming the 2011 Luhmann meta-analysis, Headey's 2010 critique, unemployment as a durable effect, and four limits of the panel evidence."
+    },
+    {
+      "q": "Why do I keep saying I will do it when I have more money even as my savings grow?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Under \"Is the Condition About Money, or About Deserving?\", A places Easterlin's material-aspirations account and the counterpoint from Stevenson and Wolfers directly beside the explanation of why the target rises with income."
+    },
+    {
+      "q": "What if the career or trip I keep postponing was never really my goal?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A repeats the question as a heading and adds the motivation-research distinction between an identified goal and one maintained to avoid guilt, alongside the grief-versus-relief diagnostic."
+    },
+    {
+      "q": "Is putting my life off just another form of procrastination?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has the question as a dedicated heading and compares the pattern against a three-part research definition of procrastination, including a clear account of which two elements fail and when both patterns can coexist."
+    },
+    {
+      "q": "What is one small thing I can do this week to test whether I still want the life I postpone?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the full question as its heading and gives two concrete tests immediately below it: compare today's sentence with the one from five years ago, and use one long-saved object on an ordinary day."
+    },
+    {
+      "q": "How should I stop my teenager from postponing their future?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page directly gives parent-to-teen advice. A is the marginally better citation because its question-framed constraint section explicitly warns against labeling genuine constraints as excuses and provides a fixed-versus-moving test, the safest relevant framework for a parent."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Its researcher-label material sits under a milestone heading rather than the highly retrievable researcher-worded heading used by B.",
+      "It does not directly address how a parent should respond to a teenager."
+    ],
+    "B": [
+      "It lacks dedicated question-matching sections for hedonic adaptation, procrastination, the money-and-growing-savings mechanism, and the postponed-goal question.",
+      "It omits A's Goethals and Reckman memory finding, Easterlin and Stevenson-Wolfers income evidence, and the motivation-research model.",
+      "It does not directly address how a parent should respond to a teenager."
+    ]
+  },
+  "first_screen": "A answers the reader faster overall: although both pages have the same opening answer box, A's body then routes several likely follow-up questions through headings that closely or exactly match the searcher's wording.",
+  "provenance": "A makes claim origins easier to inspect because named findings are placed inside the sections that answer the relevant question, including Goethals and Reckman on shifting recall, Easterlin and Stevenson-Wolfers on income, and Luhmann and Headey on adaptation.",
+  "confidence": "high"
+}

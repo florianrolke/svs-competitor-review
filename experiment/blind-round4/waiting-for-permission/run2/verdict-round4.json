@@ -1,0 +1,94 @@
+{
+  "query": "Why am I waiting for someone to tell me I am allowed to start?",
+  "winner_overall": "B",
+  "citation_score": {
+    "A": 1,
+    "B": 9
+  },
+  "per_question": [
+    {
+      "q": "Why do I keep waiting for someone to tell me I can start?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B has the near-verbatim heading “Why Do I Keep Waiting for Someone to Tell Me I Can Start?” followed by a direct explanation of the repeating conversation loop and a three-question list for identifying it."
+    },
+    {
+      "q": "What is an external locus of control?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B has an exact-match section heading, “What Is an External Locus of Control?”, with Rotter’s 1966 scale and a four-item list of what the term does not mean."
+    },
+    {
+      "q": "How can I tell whether my manager's permission is truly required?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B uses the exact question as a heading and places the real-versus-imagined-permission comparison table directly beneath it, including concrete tests about consequences, authority, and whether the manager knows the reader is waiting."
+    },
+    {
+      "q": "Why am I still waiting for approval from a parent who cannot give it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B has the exact parent-focused question as its heading and adds the named bereavement finding about continuing an inner relationship with someone who has died inside that answer."
+    },
+    {
+      "q": "Why does it sting when someone less prepared starts before me?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B has the exact question as a heading and puts the described two-part envy distinction and its evidentiary limitation inside the section answering the sting."
+    },
+    {
+      "q": "How is waiting for permission measured in research?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "high",
+      "why": "Page B alone has an exact-match measurement section that opens with “Not directly” and then distinguishes control-belief scales, developmental interviews, and uncontrollability experiments."
+    },
+    {
+      "q": "How trustworthy is the learned-helplessness research behind this idea?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Page A’s “How Much of This Research Should You Actually Trust?” section directly names the 1978 reformulation and the 2016 Maier and Seligman correction, then explicitly limits the application because the original evidence came from animal experiments. Both pages contain this material, but A reaches the trust section with less intervening research material."
+    },
+    {
+      "q": "What does changing this pattern look like in an ordinary workweek?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B uses the question nearly verbatim as a heading and follows it with four concrete procedural changes involving direct questions, shorter conversation loops, low-cost action, and a changed internal question."
+    },
+    {
+      "q": "What is one concrete thing I can do before making a bigger decision?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B has the exact question as a heading and immediately gives the four-minute “one name and one sentence” exercise, including separate next steps for real and imagined authority."
+    },
+    {
+      "q": "Could ADHD be the reason I cannot start without permission?",
+      "cite": "B",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page discusses ADHD specifically, but Page B’s dedicated research-measurement section explicitly says no instrument measures waiting for permission itself and separates the behavior from neighboring constructs; its disclaimer also states that the page is not diagnostic."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "A lacks B’s exact search-language headings for the manager, parent, less-prepared peer, external-locus, workweek, and concrete-action questions.",
+      "A lacks B’s dedicated section explaining that waiting for permission is not measured directly and identifying the neighboring research methods.",
+      "A does not place the bereavement and envy findings inside the sections that answer those specific questions."
+    ],
+    "B": [
+      "B still lacks any ADHD-specific discussion or evidence, so it cannot directly answer the clinical differential question.",
+      "B has no meaningful citation asset unique to A for the learned-helplessness trust question; the core correction and limitations are shared."
+    ]
+  },
+  "first_screen": "Both pages have the same title, short-answer box, and opening examples, so they answer the main reader question equally quickly on the first screen. B becomes faster for the supplied follow-up questions because its later headings match the search language directly.",
+  "provenance": "B makes provenance easier to assess because named findings and their limitations sit within the parent, envy, measurement, and research sections that use them, while the dedicated measurement section distinguishes scales, interviews, and experiments.",
+  "confidence": "high"
+}

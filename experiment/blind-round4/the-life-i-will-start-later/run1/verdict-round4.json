@@ -1,0 +1,94 @@
+{
+  "query": "Why is my real life always waiting on one more thing?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 9,
+    "B": 1
+  },
+  "per_question": [
+    {
+      "q": "How can I tell whether the condition I am waiting for has quietly changed?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's \"What Exactly Got Swapped, and When?\" section gives the dated two-sentence comparison and places the Goethals and Reckman memory finding directly beside that test. B has the same practical comparison but omits the named finding."
+    },
+    {
+      "q": "What do researchers call a life that is always deferred until later?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B has the directly targeted heading \"What Do Researchers Call This, and Where Does the Name Stop?\" followed by the named term \"the deferred life plan\" and a table distinguishing all three concepts. A contains the same terminology, but buries it under a milestone heading."
+    },
+    {
+      "q": "How do I distinguish a real practical constraint from a moving excuse?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses this question almost verbatim as a heading and answers it with a concrete list of real gates plus the rule that a real constraint has a nameable amount, date, document, or person and holds still."
+    },
+    {
+      "q": "Why does reaching a milestone feel less life-changing than I predicted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has an exact-match heading and immediately explains the milestone becoming the new floor, then names anticipated versus experienced utility and hedonic adaptation beneath it. B places those findings under a general terminology heading instead."
+    },
+    {
+      "q": "Is hedonic adaptation really proven, or do some life changes last?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has this exact heading and a dedicated evidence section separating the weak and strong claims, with Luhmann's 2011 meta-analysis, Headey's 2010 argument, and a four-part limitations list. B mentions the findings only inside its broader terminology section."
+    },
+    {
+      "q": "Why do I keep saying I will do it when I have more money even as my savings grow?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A's \"Is the Condition About Money, or About Deserving?\" section puts Easterlin's material-aspirations account and the contrasting Stevenson and Wolfers finding directly with the money explanation. B has the heading but omits that named evidence."
+    },
+    {
+      "q": "What if the career or trip I keep postponing was never really my goal?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the question verbatim as its heading and includes both the inherited-goal explanation and the grief-versus-relief diagnostic. It also places the motivation-research distinction between identified and guilt-driven goals in that section, which B omits."
+    },
+    {
+      "q": "Is putting my life off just another form of procrastination?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has an exact-match dedicated section defining procrastination's three elements and showing which fail for life deferral, plus a paragraph on how procrastination can sit inside a larger deferral. B has only a short FAQ answer and no body section."
+    },
+    {
+      "q": "What is one small thing I can do this week to test whether I still want the life I postpone?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the full question as a heading and gives two explicit tests: compare today's condition sentence with the one from five years ago, then use one long-saved object on an ordinary day. B gives the same actions under a less specific \"What Is Worth Doing This Week\" heading."
+    },
+    {
+      "q": "How should I stop my teenager from postponing their future?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page directly gives parent-to-teenager advice. A is the closer citation because its dedicated procrastination section supplies a definition-based distinction between avoiding a present task and deferring a life behind unmet conditions, including the case where the two are stacked."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "A lacks B's directly searchable \"What Do Researchers Call This, and Where Does the Name Stop?\" heading for the terminology question.",
+      "A does not directly address how a parent should respond to a teenager's deferral."
+    ],
+    "B": [
+      "B lacks dedicated question-matched body sections for milestone disappointment, hedonic-adaptation evidence, practical constraints, inherited goals, procrastination, and the weekly test.",
+      "B omits the Goethals and Reckman memory finding, Easterlin's aspirations account with the Stevenson and Wolfers counterpoint, and the motivation-research distinction attached to inherited goals.",
+      "B does not directly address how a parent should respond to a teenager's deferral."
+    ]
+  },
+  "first_screen": "A answers the reader faster overall. The pages have the same title, short answer, opening examples, and initial condition-swap section, but A's subsequent question-matched headings route most of the supplied questions directly to an answer; B is faster only for the terminology question.",
+  "provenance": "A makes provenance easier to assess because it moves named evidence into the sections where the claims are answered and adds the Goethals and Reckman memory study, the contested Easterlin account with Stevenson and Wolfers, and a motivation-research distinction. Both retain the Brickman, Luhmann, Headey, and Hsee and Zhang attributions.",
+  "confidence": "high"
+}

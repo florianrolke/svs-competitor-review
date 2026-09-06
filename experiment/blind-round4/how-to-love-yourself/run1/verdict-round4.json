@@ -1,0 +1,95 @@
+{
+  "query": "How do you actually love yourself?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 10,
+    "B": 0
+  },
+  "per_question": [
+    {
+      "q": "What does loving yourself actually mean in everyday life?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A's exact-match heading \"What Does Loving Yourself Actually Mean, In Plain Words?\" defines it as registering, naming, and counting one's experience in a numbered three-part list. The Grossmann et al. 2014 finding is placed inside that same section as research support for the everyday double standard."
+    },
+    {
+      "q": "Why do affirmations and self-care routines make self-love feel fake?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Under the exact-match heading \"Why Do Affirmations and Self-Care Lists Bounce Off?\", A names the 2009 Psychological Science paper \"Positive Self-Statements: Power for Some, Peril for Others\" and summarizes its relevant result. B has the explanation but omits that named finding."
+    },
+    {
+      "q": "Where does the habit of putting everyone else's feelings before mine come from?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A's heading \"Where Does the Habit of Not Counting Yourself Come From?\" gives the childhood absence, conditional warmth, criticism, illness, sibling, school, and relationship routes. It also places the Assor et al. 2004 conditional-parental-regard finding directly in that origin section."
+    },
+    {
+      "q": "Why can I give support easily but feel uncomfortable receiving it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A's \"Why Is Receiving Harder Than Giving?\" section directly contrasts the two behaviors and names the Marigold et al. 2007 compliment experiment. That finding is located beside the explanation that receiving tests one's private judgment of worth while giving does not."
+    },
+    {
+      "q": "How does low self-regard show up with a partner or close friends?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the exact heading \"How Does Low Self-Regard Show Up With a Partner or Close Friends?\" above a table with separate friendship and partner rows, concrete behaviors, and the sentence underneath each pattern. B contains the same rows under a broader heading that does not directly announce this answer."
+    },
+    {
+      "q": "How does not loving myself affect the way I behave with my boss at work?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A adds an exact-match boss-at-work section listing absorbed extra work, delayed pay conversations, over-reading short replies, softened requests, negative readings of neutral reviews, and unspoken disagreement. B has only a general work row and lacks this dedicated answer."
+    },
+    {
+      "q": "What small practices can build self-love when I do not feel it yet?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A's \"How Do You Build This When You Cannot Feel It On Command?\" section provides an eight-item numbered practice list. A also places the Lieberman et al. 2007 affect-labeling finding and the Torre and Lieberman 2018 review immediately after the relevant practices."
+    },
+    {
+      "q": "How is self-love measured in psychological research?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Only A has an exact-match measurement section and a table covering self-esteem, self-compassion, unmitigated communion, and self-concept clarity, including how each is measured and what it misses. It also names the Neff scale and Muris and Petrocchi meta-analysis."
+    },
+    {
+      "q": "Which disorder causes a person to be unable to love themselves?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page identifies a disorder that causes this. A is the closer citation because its measurement section explicitly treats self-love as an unmeasured umbrella phrase rather than a diagnostic variable, while its professional-help section lists warning signs without assigning a diagnosis."
+    },
+    {
+      "q": "How can I teach my child to love themselves more?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page gives parent-directed teaching advice. A is marginally more citable because its origins section includes the Assor et al. 2004 finding on parental warmth conditional on performance, identifying a specific parental pattern relevant to what not to teach."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "No direct answer naming or ruling out disorders associated with inability to love oneself",
+      "No parent-directed section or practical guidance for teaching a child self-love"
+    ],
+    "B": [
+      "No dedicated boss-at-work section",
+      "No dedicated psychological-measurement section or comparison table",
+      "No named findings placed inside the definition, affirmation, origins, receiving, or practice sections",
+      "Its partner-and-friends evidence sits under a broad hiding-places heading rather than the searcher's question"
+    ]
+  },
+  "first_screen": "A answers the reader faster only by a negligible margin: both pages have the same title, short-answer box, diagnostic sentence list, and opening examples. A's advantage begins after that shared first screen, where its question-matched sections and supporting findings improve retrieval.",
+  "provenance": "A makes provenance easier to assess because it places named papers, authors, journals, years, results, and limitations inside the sections whose claims they support. B removes those finding-level citations from the body.",
+  "confidence": "high"
+}

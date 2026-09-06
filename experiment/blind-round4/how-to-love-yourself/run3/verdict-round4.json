@@ -1,0 +1,93 @@
+{
+  "query": "How do you actually love yourself?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 10,
+    "B": 0
+  },
+  "per_question": [
+    {
+      "q": "What does loving yourself actually mean in everyday life?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The exact-match heading \"What Does Loving Yourself Actually Mean, In Plain Words?\" defines it through a numbered registering, naming, and counting framework, and adds the Grossmann et al. 2014 finding on reasoning about one's own versus others' problems."
+    },
+    {
+      "q": "Why do affirmations and self-care routines make self-love feel fake?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The heading \"Why Do Affirmations and Self-Care Lists Bounce Off?\" directly answers the question, and A places the named 2009 Psychological Science paper \"Positive Self-Statements: Power for Some, Peril for Others\" inside that section."
+    },
+    {
+      "q": "Where does the habit of putting everyone else's feelings before mine come from?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The section \"Where Does the Habit of Not Counting Yourself Come From?\" gives the emotional-deprivation and criticism routes, then supports the performance-contingent route with the Assor et al. 2004 finding."
+    },
+    {
+      "q": "Why can I give support easily but feel uncomfortable receiving it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The exact-answer section \"Why Is Receiving Harder Than Giving?\" identifies compliment rejection, exaggerated independence, and exchange-balancing, while A also places the Marigold et al. 2007 compliment experiment in that section."
+    },
+    {
+      "q": "How does low self-regard show up with a partner or close friends?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A uses the near-exact heading \"How Does Low Self-Regard Show Up With a Partner or Close Friends?\" and immediately supplies a table with separate friendship and partner rows, outward behaviors, and the sentence underneath each."
+    },
+    {
+      "q": "How does not loving myself affect the way I behave with my boss at work?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A has a dedicated exact-match boss-at-work section listing absorbed extra work, delayed pay conversations, over-reading replies, softened requests, and unspoken disagreement. B only has a general work row in a broader table."
+    },
+    {
+      "q": "What small practices can build self-love when I do not feel it yet?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The section \"How Do You Build This When You Cannot Feel It On Command?\" provides an eight-item practice list, and A adds the named affect-labeling findings from Lieberman et al. 2007 and Torre and Lieberman 2018 directly beneath it."
+    },
+    {
+      "q": "How is self-love measured in psychological research?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Only A has the exact-match measurement section and its table distinguishing self-esteem, self-compassion, unmitigated communion, and self-concept clarity, including how each is measured and what each misses."
+    },
+    {
+      "q": "Which disorder causes a person to be unable to love themselves?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "medium",
+      "why": "Neither page names a single disorder, but A offers the stronger clinical boundary in \"When Does This Belong With a Professional Rather Than a Practice?\" and adds a research-measurement section that distinguishes related constructs rather than presenting self-love as a diagnosis."
+    },
+    {
+      "q": "How can I teach my child to love themselves more?",
+      "cite": "A",
+      "clinical": true,
+      "confidence": "low",
+      "why": "Neither page gives direct parenting advice, but A's origin section includes the named Assor et al. 2004 finding about parental warmth contingent on performance, the most specific child-relevant evidence on either page."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "A has no material citability gap relative to B because B adds no unique answer element.",
+      "A still lacks a direct section on disorders and a direct section giving parents child-focused practices."
+    ],
+    "B": [
+      "B omits the named findings attached to the definition, affirmations, origins, receiving, and practice sections.",
+      "B lacks dedicated question-matched sections for partner or close-friend behavior, boss behavior, and psychological measurement."
+    ]
+  },
+  "first_screen": "Both pages answer the main query equally fast with the same short-answer box, but A becomes more useful faster for the supplied questions because its question-matched headings route readers directly to the relevant answer.",
+  "provenance": "A makes provenance substantially easier to assess because it places named papers, authors, journals, years, limitations, and the measurement table inside the sections whose claims they support; B removes those findings.",
+  "confidence": "high"
+}
