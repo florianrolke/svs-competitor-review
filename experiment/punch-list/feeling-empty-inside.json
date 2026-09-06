@@ -1,0 +1,105 @@
+{
+  "slug": "feeling-empty-inside",
+  "questions": [
+    {
+      "q": "What does it mean when I feel empty inside?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Is There No Event to Point At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What does it mean when I feel empty inside?\"; no named finding known."
+    },
+    {
+      "q": "Why do I still feel empty when my life looks good on paper?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Persist When Everything Looks Handled?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I still feel empty when my life looks good on paper?\"; no named finding known."
+    },
+    {
+      "q": "What can I do tonight when the empty feeling shows up?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What can I do tonight when the empty feeling shows up?\"; no named finding known."
+    },
+    {
+      "q": "Why can't I feel loved even when my partner is affectionate?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Affection Land Somewhere Just Short of You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why can't I feel loved even when my partner is affectionate?\"; no named finding known."
+    },
+    {
+      "q": "How can I tell whether I'm empty or just bored?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Emptiness, Depression, or Boredom?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How can I tell whether I'm empty or just bored?\"; no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire for chronic feelings of emptiness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Is there a validated questionnaire for chronic feelings of emptiness?\"; no named finding known."
+    },
+    {
+      "q": "Which mental disorders can cause a constant empty feeling?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming diagnoses, disorders, or conditions.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What blood tests should I ask my doctor for if I feel empty and flat?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for named medical tests or panels and what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can unresolved trauma be the reason I feel empty?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires using trauma or framing the pattern through trauma.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I do if my child keeps saying they feel empty inside?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

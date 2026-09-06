@@ -1,0 +1,105 @@
+{
+  "slug": "fear-of-rejection",
+  "questions": [
+    {
+      "q": "What does fear of rejection look like in everyday life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Look Like a Decision Rather Than Like Fear?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What does fear of rejection look like in everyday life?\"; no named finding known."
+    },
+    {
+      "q": "Why am I so much more afraid of rejection than other people seem to be?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does the Fear Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why am I so much more afraid of rejection than other people seem to be?\"; no named finding known."
+    },
+    {
+      "q": "How do I get over my fear of being told no?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How do I get over my fear of being told no?\"; no named finding known."
+    },
+    {
+      "q": "How can I stop treating my partner's slow replies like proof they are rejecting me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does an Unanswered Message Land Like a Verdict?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How can I stop treating my partner's slow replies like proof they are rejecting me?\"; no named finding known."
+    },
+    {
+      "q": "Why can't I ask my boss for a raise even when I've earned one?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does It Show Up Outside Dating?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why can't I ask my boss for a raise even when I've earned one?\"; no named finding known."
+    },
+    {
+      "q": "How is fear of rejection different from fear of abandonment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How is fear of rejection different from fear of abandonment?\"; no named finding known."
+    },
+    {
+      "q": "How do researchers measure rejection sensitivity?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How do researchers measure rejection sensitivity?\" carrying Downey and Feldman's Rejection Sensitivity Questionnaire findings."
+    },
+    {
+      "q": "Is rejection sensitivity part of ADHD?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming and discussing a diagnosis or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can trauma cause an intense fear of rejection?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires using trauma or framing the pattern through trauma.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I teach my child not to be devastated by rejection?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

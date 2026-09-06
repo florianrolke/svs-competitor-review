@@ -1,0 +1,105 @@
+{
+  "slug": "feeling-invisible",
+  "questions": [
+    {
+      "q": "What does it mean to feel invisible around other people?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does It Keep Happening Now That You Are an Adult?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What does it mean to feel invisible around other people?\"; no named finding known."
+    },
+    {
+      "q": "Why do I feel invisible even in a room full of friends?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does It Keep Happening Now That You Are an Adult?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I feel invisible even in a room full of friends?\"; no named finding known."
+    },
+    {
+      "q": "How do I start being seen without turning into an attention seeker?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Start Being Seen Without Turning Into Someone You Are Not?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How do I start being seen without turning into an attention seeker?\"; no named finding known."
+    },
+    {
+      "q": "Why has my partner stopped asking what I want or how I feel?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does It Keep Happening Now That You Are an Adult?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why has my partner stopped asking what I want or how I feel?\"; no named finding known."
+    },
+    {
+      "q": "Why does my boss overlook me even though I quietly do so much work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Hide When You Would Not Call It Invisibility?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why does my boss overlook me even though I quietly do so much work?\"; no named finding known."
+    },
+    {
+      "q": "How can I tell feeling invisible from being introverted or genuinely humble?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How can I tell feeling invisible from being introverted or genuinely humble?\"; no named finding known."
+    },
+    {
+      "q": "What does 'glass child' mean, and where did the term come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is \"Glass Child\" the Word for Growing Up Beside a Sibling in Crisis?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What does 'glass child' mean, and where did the term come from?\"; no named finding known."
+    },
+    {
+      "q": "Is feeling invisible a symptom of depression?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming or ruling out a diagnosis or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I help my child who says nobody notices them?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can childhood trauma make someone feel invisible as an adult?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires using trauma or framing the pattern through trauma.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

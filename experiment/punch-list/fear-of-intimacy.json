@@ -1,0 +1,105 @@
+{
+  "slug": "fear-of-intimacy",
+  "questions": [
+    {
+      "q": "What is fear of intimacy, exactly?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does Fear of Intimacy Sound Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What is fear of intimacy, exactly?\"; no named finding known."
+    },
+    {
+      "q": "What does fear of intimacy look and feel like in everyday life?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Fear of Intimacy Sound Like From the Inside?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What does fear of intimacy look and feel like in everyday life?\"; no named finding known."
+    },
+    {
+      "q": "Why do I pull away right after my relationship has been going really well?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Withdrawal Arrive After a Good Stretch Instead of After a Fight?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I pull away right after my relationship has been going really well?\"; no named finding known."
+    },
+    {
+      "q": "What should I do when my partner suddenly goes cold after we've been close?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does the Retreat Look Like From the Other Side of It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What should I do when my partner suddenly goes cold after we've been close?\"; no named finding known."
+    },
+    {
+      "q": "How can I tell fear of intimacy from introversion or simply needing space?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How can I tell fear of intimacy from introversion or simply needing space?\"; no named finding known."
+    },
+    {
+      "q": "Is there a validated scale for measuring fear of intimacy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Is there a validated scale for measuring fear of intimacy?\" carrying Descutner and Thelen's Fear-of-Intimacy Scale validation findings."
+    },
+    {
+      "q": "Is fear of intimacy a diagnosable disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming a diagnosis, disorder, condition, or diagnostic manual.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can medication reduce fear of intimacy?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming or discussing medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I help my child who refuses affection and avoids closeness?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I change my habit of shutting down when someone gets close?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves It?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How do I change my habit of shutting down when someone gets close?\"; no named finding known."
+    }
+  ]
+}

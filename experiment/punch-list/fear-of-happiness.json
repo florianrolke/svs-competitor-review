@@ -1,0 +1,105 @@
+{
+  "slug": "fear-of-happiness",
+  "questions": [
+    {
+      "q": "What does fear of happiness actually mean?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does the Alarm Get Louder as Things Get Better?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What does fear of happiness actually mean?\" carrying findings from Mohsen Joshanloo's Fear of Happiness Scale."
+    },
+    {
+      "q": "Why do I get nervous as soon as things start going well?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Alarm Get Louder as Things Get Better?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I get nervous as soon as things start going well?\"; no named finding known."
+    },
+    {
+      "q": "What can I do to stop bracing for something bad whenever I'm happy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"What can I do to stop bracing for something bad whenever I'm happy?\"; no named finding known."
+    },
+    {
+      "q": "Why do I start an argument with my partner right after we've had a really good week?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does the Alarm Get Louder as Things Get Better?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I start an argument with my partner right after we've had a really good week?\"; no named finding known."
+    },
+    {
+      "q": "Why do I immediately downplay praise or a promotion from my boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You Downplay a Win Before Anybody Else Gets the Chance?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Why do I immediately downplay praise or a promotion from my boss?\"; no named finding known."
+    },
+    {
+      "q": "Is there a validated questionnaire that measures fear of happiness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"Is there a validated questionnaire that measures fear of happiness?\" carrying Mohsen Joshanloo's Fear of Happiness Scale validation findings."
+    },
+    {
+      "q": "Does being afraid to feel happy mean I have depression?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming or ruling out a diagnosis or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can childhood trauma make happiness feel unsafe?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires using trauma or framing the pattern through trauma.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I help my child who seems scared whenever something good happens?",
+      "kind": "POLICY",
+      "policy_reason": "This asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How is fear of happiness different from ordinary pessimism?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Self-Sabotage, Hypervigilance, or Something Else?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 \"How is fear of happiness different from ordinary pessimism?\"; no named finding known."
+    }
+  ]
+}
