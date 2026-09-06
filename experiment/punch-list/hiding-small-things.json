@@ -1,0 +1,105 @@
+{
+  "slug": "hiding-small-things",
+  "questions": [
+    {
+      "q": "What is self-concealment, and why do people do it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Does the Naming Stop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Uysal, Lin and Knee's 2010 finding that greater self-concealment predicted lower well-being through blocked autonomy, competence and connection",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is it normal to keep harmless things private from a partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Privacy Itself the Problem Here?",
+      "heading_is_question": true,
+      "named_finding_inside": "Finkenauer and Hazam's 2000 finding that both disclosure and freedom to keep things private were positively associated with marital satisfaction",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I hide tiny purchases when nobody has forbidden them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Something This Small Need Hiding at All?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I hide tiny purchases when nobody has forbidden them?' carrying no named finding known."
+    },
+    {
+      "q": "Can my partner tell I am hiding things even if they do not know what?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Concealment Cost, and Who Pays It?",
+      "heading_is_question": false,
+      "named_finding_inside": "Finkenauer and colleagues' 2009 finding that perceived concealment by a partner predicted lower trust and satisfaction",
+      "what_to_add": "An H2 'Can my partner tell I am hiding things even if they do not know what?' carrying Finkenauer and colleagues' 2009 perceived-concealment finding."
+    },
+    {
+      "q": "Is leaving out a detail the same as lying?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This the Same as Lying, or the Same as Cheating?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is leaving out a detail the same as lying?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop hiding ordinary things without turning it into one huge confession?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Deciding to Be More Open Not Work?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop hiding ordinary things without turning it into one huge confession?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do if my teenager keeps hiding small things from me?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can we fix secrecy in our marriage together?",
+      "kind": "POLICY",
+      "policy_reason": "Treating a couple or marriage as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is hiding harmless things a sign of compulsive lying disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How is self-concealment measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Do Researchers Call This, and Where Does the Naming Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is self-concealment measured in research?' carrying Larson and Chastain's Self-Concealment Scale."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "growing-up-with-violence",
+  "questions": [
+    {
+      "q": "How does growing up around violence affect you as an adult?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is Your Body Still Doing This Decades Later?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How does growing up around violence affect you as an adult?' carrying Felitti and Anda's Adverse Childhood Experiences Study finding."
+    },
+    {
+      "q": "Does it still count if I only watched my parents fight and nobody hit me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Actually Form, and Does It Count If Nobody Hit You?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Does it still count if I only watched my parents fight and nobody hit me?' carrying Felitti and Anda's Adverse Childhood Experiences Study finding."
+    },
+    {
+      "q": "Why do I flinch at raised voices even when I know I am safe?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is Your Body Still Doing This Decades Later?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I flinch at raised voices even when I know I am safe?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep choosing partners who feel familiar but turn out to be unsafe?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You Keep Ending Up in Rooms That Feel Familiar?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I keep choosing partners who feel familiar but turn out to be unsafe?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop keeping the peace at work and in relationships at my own expense?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does Keeping the Peace Feel Mandatory?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop keeping the peace at work and in relationships at my own expense?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether I am naturally private or constantly managing danger?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Are You Sure That Is What You Are Looking At?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether I am naturally private or constantly managing danger?' carrying no named finding known."
+    },
+    {
+      "q": "Does this mean I have PTSD?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How should I help my child after they witnessed violence at home?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What trauma treatment works best for adults who grew up around violence?",
+      "kind": "POLICY",
+      "policy_reason": "Using the word trauma and framing the answer as trauma treatment.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do researchers measure the adult effects of childhood violence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure the adult effects of childhood violence?' carrying the Adverse Childhood Experiences questionnaire used in the Felitti and Anda ACE Study."
+    }
+  ]
+}

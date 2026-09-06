@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-find-yourself",
+  "questions": [
+    {
+      "q": "How do I know whether I have lost myself?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Can You Answer for Everyone Else in Half a Second and Go Blank on Yourself?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I know whether I have lost myself?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I automatically agree with my partner before I know what I want?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Can You Answer for Everyone Else in Half a Second and Go Blank on Yourself?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I automatically agree with my partner before I know what I want?' carrying no named finding known."
+    },
+    {
+      "q": "How do I find myself again after a breakup?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Rebuild the Signal Without Changing Anything Big?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I find myself again after a breakup?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether my career goal is mine or just what my family approves of?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is That Goal Yours, or Is It Only Approved Of?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my career goal is mine or just what my family approves of?' carrying no named finding known."
+    },
+    {
+      "q": "Why did a personality test fail to tell me who I really am?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Did the Journal and the Solo Trip Not Work?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why did a personality test fail to tell me who I really am?' carrying no named finding known."
+    },
+    {
+      "q": "How do psychologists measure whether someone has a clear sense of self?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do psychologists measure whether someone has a clear sense of self?' carrying Campbell and colleagues' Self-Concept Clarity Scale."
+    },
+    {
+      "q": "How can I help my teenager figure out who they are?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is losing yourself in relationships a sign of codependency?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I find myself again after trauma?",
+      "kind": "POLICY",
+      "policy_reason": "Using the word trauma and framing the answer around trauma.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Which course or guru is best for finding yourself?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a course, teacher, guru, or seminar other than the page's own.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

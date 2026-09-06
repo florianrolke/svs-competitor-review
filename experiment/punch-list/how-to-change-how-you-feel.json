@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-change-how-you-feel",
+  "questions": [
+    {
+      "q": "How can I change how I feel quickly when I am stuck in a bad mood?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Change Your State in the Next Two Minutes?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I change how I feel quickly when I am stuck in a bad mood?' carrying no named finding known."
+    },
+    {
+      "q": "Why does positive thinking make me feel worse instead of better?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Thinking Positive Fail So Reliably?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does positive thinking make me feel worse instead of better?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop one critical comment from my boss ruining my whole day?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Does a Bad Mood Feel Like an Accurate Report?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop one critical comment from my boss ruining my whole day?' carrying no named finding known."
+    },
+    {
+      "q": "Why does anger feel like the only way my partner takes me seriously?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If a Bad State Is the Only Thing That Has Ever Worked?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does anger feel like the only way my partner takes me seriously?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between an emotion, a mood, and a state?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Are the Three Levers a State Actually Runs On?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between an emotion, a mood, and a state?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell whether this is a bad mood or depression?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What hormone panel should I ask for if my mood keeps changing?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a medical test or panel and what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can antidepressants change how I feel about my partner?",
+      "kind": "POLICY",
+      "policy_reason": "Naming a medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I teach my child to change their emotional state?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can changing my body and attention heal trauma responses?",
+      "kind": "POLICY",
+      "policy_reason": "Using the word trauma and framing the answer as trauma treatment.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

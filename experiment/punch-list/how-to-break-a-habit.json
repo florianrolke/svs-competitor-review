@@ -1,0 +1,105 @@
+{
+  "slug": "how-to-break-a-habit",
+  "questions": [
+    {
+      "q": "What is the most effective way to break a bad habit?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does the Right Order Look Like?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the most effective way to break a bad habit?' carrying no named finding known."
+    },
+    {
+      "q": "Why does willpower work for a while and then fail when I am stressed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does One Bad Day Undo Three Good Weeks?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does willpower work for a while and then fail when I am stressed?' carrying no named finding known."
+    },
+    {
+      "q": "What is the habit loop, and how do researchers measure habit strength?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is a Habit Actually Made Of?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the habit loop, and how do researchers measure habit strength?' carrying Verplanken and Orbell's Self-Report Habit Index."
+    },
+    {
+      "q": "Is the 21-day rule for breaking a habit actually true?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is the 21-day rule for breaking a habit actually true?' carrying Lally and colleagues' 2010 habit-automaticity study."
+    },
+    {
+      "q": "What is the difference between one slip and a full relapse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does One Bad Day Undo Three Good Weeks?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between one slip and a full relapse?' carrying no named finding known."
+    },
+    {
+      "q": "How can I stop automatically checking my phone every time work gets difficult?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Find the Exact Two Seconds?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I stop automatically checking my phone every time work gets difficult?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my partner nagging me about a habit make me do it more?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Why Doesn't Feeling Bad About It Count as an Interruption?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my partner nagging me about a habit make me do it more?' carrying no named finding known."
+    },
+    {
+      "q": "Should I use nicotine patches to break a smoking habit?",
+      "kind": "POLICY",
+      "policy_reason": "Naming and advising on a medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I get my child to stop biting their nails?",
+      "kind": "POLICY",
+      "policy_reason": "Advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I tell whether my habit is actually an addiction?",
+      "kind": "POLICY",
+      "policy_reason": "Naming or ruling out a diagnosis, disorder, or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
