@@ -1,0 +1,105 @@
+{
+  "slug": "giving-unsolicited-advice",
+  "questions": [
+    {
+      "q": "Why do I give advice when nobody asked me for it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Happens in the Seconds Before You Start Talking?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I give advice when nobody asked me for it?' carrying Goldsmith's 2000 sequential-placement finding."
+    },
+    {
+      "q": "How can I tell whether someone wants advice or just wants me to listen?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Wanted Advice From Advice That Lands as a Correction?",
+      "heading_is_question": true,
+      "named_finding_inside": "Goldsmith's sequential placement finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I say instead when a friend is venting?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Can You Actually Do in the First Ten Seconds?",
+      "heading_is_question": true,
+      "named_finding_inside": "the sequence finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does my partner get annoyed when I am only trying to help?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Their Face Change While You Are Still Being Helpful?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my partner get annoyed when I am only trying to help?' carrying Goldsmith and Fitch's advice-as-face-threat finding."
+    },
+    {
+      "q": "What is support matching, and what does it say about giving advice?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Do the Names Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Cutrona and Russell's 1990 optimal matching model",
+      "what_to_add": "An H2 'What is support matching, and what does it say about giving advice?' carrying Cutrona and Russell's 1990 optimal matching model."
+    },
+    {
+      "q": "Does unsolicited advice actually damage friendships over time?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does This Cost You, and What Does It Cost Them?",
+      "heading_is_question": true,
+      "named_finding_inside": "Deelstra's result",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I feel rejected when people ignore advice I gave them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Sting When You Are Told They Only Wanted to Vent?",
+      "heading_is_question": true,
+      "named_finding_inside": "Blunden and colleagues' 2019 finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "How do I stop giving my employees solutions before they finish explaining the problem?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Can You Actually Do in the First Ten Seconds?",
+      "heading_is_question": false,
+      "named_finding_inside": "the sequence finding",
+      "what_to_add": "An H2 'How do I stop giving my employees solutions before they finish explaining the problem?' carrying Burleson and colleagues' sequence finding on inquiry and emotional support before advice."
+    },
+    {
+      "q": "Is compulsive advice-giving a symptom of a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, or condition",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How long does it usually take to break the unsolicited-advice habit?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Take to Change, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it usually take to break the unsolicited-advice habit?' carrying no named finding known."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "going-stiff-when-someone-hugs-me",
+  "questions": [
+    {
+      "q": "Why does my body go stiff when someone hugs me even though I like them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Your Body Answer Before You Do?",
+      "heading_is_question": true,
+      "named_finding_inside": "Sambo and Iannetti's 2013 defensive blink-reflex finding; McGlone, Wessberg and Olausson's 2014 review",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can I want physical affection and still tense up when I get it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Can You Want the Closeness and Still Go Stiff?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Can I want physical affection and still tense up when I get it?' carrying no named finding known."
+    },
+    {
+      "q": "What is touch avoidance, and how is it measured?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Names Does the Research Give This, and What Do the Names Miss?",
+      "heading_is_question": false,
+      "named_finding_inside": "Andersen and Leibowitz's 1978 touch-avoidance measure",
+      "what_to_add": "An H2 'What is touch avoidance, and how is it measured?' carrying Andersen and Leibowitz's 1978 touch-avoidance measure."
+    },
+    {
+      "q": "Why do I tense up with one person but not with anyone else?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If It Is Only Certain People?",
+      "heading_is_question": true,
+      "named_finding_inside": "Suvilehto and colleagues' 2015 body-touch mapping study",
+      "what_to_add": ""
+    },
+    {
+      "q": "What does my partner think when I stiffen during a hug?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Other People Actually Notice?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does my partner think when I stiffen during a hug?' carrying no named finding known."
+    },
+    {
+      "q": "How do I tell people I need a different kind of hug without hurting their feelings?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Changes If You Say It Out Loud Instead of Joking?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I tell people I need a different kind of hug without hurting their feelings?' carrying no named finding known."
+    },
+    {
+      "q": "Is it a good idea to force myself to hug more people so I get used to it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Has Trying to Relax Into It Never Worked?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is it a good idea to force myself to hug more people so I get used to it?' carrying no named finding known."
+    },
+    {
+      "q": "Could autism or sensory processing disorder explain why hugs feel overwhelming?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, or condition",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Does research really show that touch calms the brain?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Reliable Is the Research on Touch, Honestly?",
+      "heading_is_question": true,
+      "named_finding_inside": "Coan, Schaefer and Davidson's 2006 hand-holding brain-imaging study",
+      "what_to_add": ""
+    },
+    {
+      "q": "What can I try the next time someone hugs me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is Worth Trying at the Next Goodbye?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I try the next time someone hugs me?' carrying no named finding known."
+    }
+  ]
+}

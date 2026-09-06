@@ -1,0 +1,105 @@
+{
+  "slug": "going-quiet-when-others-succeed",
+  "questions": [
+    {
+      "q": "Why do I go quiet when a friend tells me good news?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do Two People Go Quiet at the Same News for Completely Different Reasons?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I go quiet when a friend tells me good news?' carrying Tesser's self-evaluation maintenance model."
+    },
+    {
+      "q": "Does struggling to celebrate other people's success make me a bad friend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Going Quiet Proof That You Are a Bad Friend?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Does struggling to celebrate other people's success make me a bad friend?' carrying no named finding known."
+    },
+    {
+      "q": "What is the difference between benign envy and malicious envy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do Researchers Call This, and Where Do the Names Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Van de Ven, Zeelenberg and Pieters' 2009 study",
+      "what_to_add": "An H2 'What is the difference between benign envy and malicious envy?' carrying Van de Ven, Zeelenberg and Pieters' 2009 study."
+    },
+    {
+      "q": "Why can I celebrate my partner's wins in some areas but feel flat about others?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What If the Win Landed in the Exact Domain You Measure Yourself By?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I celebrate my partner's wins in some areas but feel flat about others?' carrying the self-evaluation maintenance model's domain-relevance finding."
+    },
+    {
+      "q": "What should I text someone when I am already days late congratulating them?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Say If You Are Already Days Late?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I text someone when I am already days late congratulating them?' carrying no named finding known."
+    },
+    {
+      "q": "Does social media make envy about other people's success worse?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does Social Media Make This Worse, or Only More Visible?",
+      "heading_is_question": true,
+      "named_finding_inside": "Krasnova and colleagues' 2013 finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why does a coworker's promotion feel like a verdict on my own career?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does Their Good News Sometimes Land as a Verdict on You?",
+      "heading_is_question": true,
+      "named_finding_inside": "Lockwood and Kunda's 1997 result",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I respond warmly when I genuinely feel flat?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does a Warm Response Actually Consist Of, Mechanically?",
+      "heading_is_question": true,
+      "named_finding_inside": "Langston's 1994 finding; Logan and Cobb's 2016 finding",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is going quiet at other people's success a sign of narcissistic personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, or condition",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How is going quiet at someone's success measured in research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Do Researchers Call This, and Where Do the Names Stop?",
+      "heading_is_question": false,
+      "named_finding_inside": "Gerber, Wheeler and Suls' 2017 meta-analysis",
+      "what_to_add": "An H2 'How is going quiet at someone's success measured in research?' carrying a validated named instrument for this specific response; no named finding known."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "growing-up-with-an-unpredictable-parent",
+  "questions": [
+    {
+      "q": "What does growing up with an emotionally unpredictable parent do to you as an adult?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does It Show Up When You Would Not Call It Distrust?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does growing up with an emotionally unpredictable parent do to you as an adult?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I feel tense when everything in my life is finally going well?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does a Good Week Make You Brace Instead of Relax?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I feel tense when everything in my life is finally going well?' carrying no named finding known."
+    },
+    {
+      "q": "Why do compliments make me suspicious instead of happy?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Disbelief Actually Protecting You From?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do compliments make me suspicious instead of happy?' carrying no named finding known."
+    },
+    {
+      "q": "How can an unpredictable parent affect my relationships with a partner?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Do You Test a Relationship Right When It Starts Going Well?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can an unpredictable parent affect my relationships with a partner?' carrying no named finding known."
+    },
+    {
+      "q": "Why am I calmer in a crisis than on a peaceful weekend?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Still Run When Nobody Else Is in the Room?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why am I calmer in a crisis than on a peaceful weekend?' carrying no named finding known."
+    },
+    {
+      "q": "How is this different from ordinary trust issues?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is This Trust Issues, Anxious Attachment, or Something Else?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is distrust learned from an unpredictable parent different from ordinary trust issues?' carrying no named finding known."
+    },
+    {
+      "q": "How do I stop testing my relationship whenever it starts to feel stable?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Build a Track Record You Never Had?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I stop testing my relationship whenever it starts to feel stable?' carrying no named finding known."
+    },
+    {
+      "q": "Do I have to cut contact with my parent before I can change this pattern?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Does the Parent Have to Change, or Do You Have to Cut Contact?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Do I have to cut contact with my parent before I can change this pattern?' carrying no named finding known."
+    },
+    {
+      "q": "Could my parent's bipolar disorder be the reason their moods were unpredictable?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, or condition",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What should I do so my child is not affected by my unpredictable moods?",
+      "kind": "POLICY",
+      "policy_reason": "advice aimed at a parent about a child",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

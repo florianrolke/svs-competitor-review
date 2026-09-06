@@ -1,0 +1,105 @@
+{
+  "slug": "grey-rocking",
+  "questions": [
+    {
+      "q": "What is the grey rock method?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Grey Rock Method, and What Does the Term Actually Cover?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the grey rock method?' carrying no named finding known."
+    },
+    {
+      "q": "Does grey rocking actually work, or can it make someone push harder?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Grey Rock Method, and What Does the Term Actually Cover?",
+      "heading_is_question": false,
+      "named_finding_inside": "Tronick and colleagues' 1975 still-face procedure",
+      "what_to_add": "An H2 'Does grey rocking actually work, or can it make someone push harder?' carrying Tronick and colleagues' 1975 still-face procedure."
+    },
+    {
+      "q": "Is grey rocking backed by psychological research?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is the Grey Rock Method, and What Does the Term Actually Cover?",
+      "heading_is_question": false,
+      "named_finding_inside": "Gross's expressive-suppression research; Butler and colleagues' 2003 conversation study",
+      "what_to_add": "An H2 'Is grey rocking backed by psychological research?' carrying Butler and colleagues' 2003 expressive-suppression conversation study while clearly noting that grey rocking itself has not been trialed."
+    },
+    {
+      "q": "What is the difference between grey rocking and the silent treatment?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Tell Going Grey Rock Apart From Being Quiet, Private, or Just Tired?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is the difference between grey rocking and the silent treatment?' carrying no named finding known."
+    },
+    {
+      "q": "Why is acting blank around my parent so exhausting?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Going Grey Rock Actually Look Like From the Inside?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why is acting blank around my parent so exhausting?' carrying Gross's expressive-suppression findings on physiological and cognitive load."
+    },
+    {
+      "q": "Why has my grey-rocking habit spread to people I trust?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Flatness Spread to People It Was Never Built For?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why has my grey-rocking habit spread to people I trust?' carrying no named finding known."
+    },
+    {
+      "q": "How can I stop grey rocking without oversharing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Come Back Online Without Handing Over More Than You Want To?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I stop grey rocking without oversharing?' carrying no named finding known."
+    },
+    {
+      "q": "Is grey rocking appropriate with a difficult boss at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is Going Grey Rock Ever the Right Move?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is grey rocking appropriate with a difficult boss at work?' carrying no named finding known."
+    },
+    {
+      "q": "Should I grey rock my child when they are provoking me?",
+      "kind": "POLICY",
+      "policy_reason": "advice aimed at a parent about a child",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is grey rocking recommended for someone with narcissistic personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "naming a diagnosis, disorder, or condition",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
