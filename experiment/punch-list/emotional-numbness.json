@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-numbness",
+  "questions": [
+    {
+      "q": "What does emotional numbness mean, and where does it come from?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Where Does Emotional Numbness Actually Come From?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does emotional numbness mean, and where does it come from?' carrying no named finding known."
+    },
+    {
+      "q": "Why can't I cry even when I know I am upset?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Do You Start Turning the Volume Back Up?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can't I cry even when I know I am upset?' carrying no named finding known."
+    },
+    {
+      "q": "Is emotional numbness a sign of depression?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires naming and assessing a diagnosis or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "What blood tests should I ask my doctor for if I feel emotionally numb?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for medical tests or panels and what to ask a doctor for.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Could my antidepressant be making me emotionally numb?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires naming and discussing medication.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why do I go emotionally blank around my partner but feel normal at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Is Numbness Strongest With the People You Are Closest To?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I go emotionally blank around my partner but feel normal at work?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do to start feeling my emotions again?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Start Turning the Volume Back Up?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to start feeling my emotions again?' carrying Eugene Gendlin's Focusing finding."
+    },
+    {
+      "q": "Is emotional numbness permanent, or can it go away?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## How Long Does This Take, Honestly?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is emotional numbness permanent, or can it go away?' carrying no named finding known."
+    },
+    {
+      "q": "Is there a questionnaire researchers use to measure emotional numbness?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure emotional numbness?' carrying no named finding known."
+    },
+    {
+      "q": "Is feeling emotionally numb the same as dissociation?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires naming and distinguishing a clinical condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

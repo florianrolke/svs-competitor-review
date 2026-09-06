@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-home",
+  "questions": [
+    {
+      "q": "What is an emotional home, and is it the same thing as my usual mood?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is a Default Emotional State Actually Made Of?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is an emotional home, and how is it different from a mood?' carrying Brickman and Campbell's hedonic-adaptation finding."
+    },
+    {
+      "q": "Why do I slide back into the same low feeling even after something really good happens?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does It Snap Back After Something Genuinely Good Happens?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I slide back into the same low feeling after good things happen?' carrying Brickman and Campbell's hedonic-adaptation finding."
+    },
+    {
+      "q": "How can I figure out what my own emotional baseline actually is?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Is One Thing to Do Today, Before You Change Anything Else?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I figure out what my emotional baseline is?' carrying no named finding known."
+    },
+    {
+      "q": "Why am I confident and upbeat at work but flat or irritable at home?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Did Yours Actually Come From?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can my emotional baseline be different at work and at home?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I keep ending up in the same emotional dynamic with different partners?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Is the Feeling Quietly Being Paid?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I repeat the same emotional dynamic with different partners?' carrying no named finding known."
+    },
+    {
+      "q": "What can I do to change a painful emotional baseline?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Moves a Baseline?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What can I do to change a painful emotional baseline?' carrying James Gross's process-model finding on emotion regulation."
+    },
+    {
+      "q": "How long does it take to change your default emotional state?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Long Does This Honestly Take?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How long does it take to change your default emotional state?' carrying no named finding known."
+    },
+    {
+      "q": "Is my low emotional baseline actually depression?",
+      "kind": "POLICY",
+      "policy_reason": "Answering well requires naming or assessing a diagnosis or condition.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Do I inherit my emotional baseline from my parents, or is it learned?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Did Yours Actually Come From?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Do I inherit my emotional baseline from my parents, or is it learned?' carrying no named finding known."
+    },
+    {
+      "q": "How do researchers measure a person's emotional set point?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure a person's emotional set point?' carrying no named finding known."
+    }
+  ]
+}

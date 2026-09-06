@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-manipulation",
+  "questions": [
+    {
+      "q": "What counts as emotional manipulation rather than normal influence?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does a Manipulative Move Actually Do?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What counts as emotional manipulation rather than normal influence?' carrying no named finding known."
+    },
+    {
+      "q": "What are the most common emotional manipulation tactics?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do the Moves Sound Like in an Ordinary Week?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the most common emotional manipulation tactics?' carrying Jennifer Freyd's DARVO finding."
+    },
+    {
+      "q": "How can I tell whether my partner is manipulating me or just expressing a need?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Tell Manipulation From Persuasion, or From Somebody Simply Having a Need?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell whether my partner is manipulating me or expressing a need?' carrying no named finding known."
+    },
+    {
+      "q": "Why does my parent make me feel guilty whenever I say no?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Do the Moves Sound Like in an Ordinary Week?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does my parent make me feel guilty whenever I say no?' carrying no named finding known."
+    },
+    {
+      "q": "What does emotional manipulation by a boss look like at work?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Which Levers Do These Moves Actually Pull?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does emotional manipulation by a boss look like?' carrying no named finding known."
+    },
+    {
+      "q": "What should I do in the moment when I realize someone is guilt-tripping me?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Become Harder to Steer?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do when I realize someone is guilt-tripping me?' carrying no named finding known."
+    },
+    {
+      "q": "How can I tell if I am emotionally manipulating people without realizing it?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Could You Be Making Some of These Moves Without Meaning To?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I tell if I am emotionally manipulating people without realizing it?' carrying no named finding known."
+    },
+    {
+      "q": "Is gaslighting just one type of emotional manipulation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do the Moves Sound Like in an Ordinary Week?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is gaslighting one type of emotional manipulation?' carrying no named finding known."
+    },
+    {
+      "q": "Does emotional manipulation mean someone has a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires naming or ruling out a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can we heal our marriage from emotional manipulation?",
+      "kind": "POLICY",
+      "policy_reason": "The question treats the marriage or couple as the patient.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}

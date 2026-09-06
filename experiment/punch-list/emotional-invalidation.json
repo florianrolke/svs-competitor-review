@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-invalidation",
+  "questions": [
+    {
+      "q": "What is emotional invalidation in everyday language?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Emotional Invalidation Sound Like Moment to Moment?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What is emotional invalidation in everyday language?' carrying Marsha Linehan's invalidating-environment finding."
+    },
+    {
+      "q": "What are some common examples of someone invalidating your feelings?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Does Emotional Invalidation Sound Like Moment to Moment?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are common examples of emotional invalidation?' carrying no named finding known."
+    },
+    {
+      "q": "How is emotional invalidation different from gaslighting or simply disagreeing?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is It Emotional Invalidation, or Something Else?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How is emotional invalidation different from gaslighting or disagreement?' carrying no named finding known."
+    },
+    {
+      "q": "Why do I doubt my own feelings before anyone has even responded?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Does the Dismissing Voice End Up Inside Your Own Head?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why do I invalidate my own feelings before anyone responds?' carrying Marsha Linehan's invalidating-environment finding."
+    },
+    {
+      "q": "What should I say when my partner tells me I am overreacting?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Do You Do When Somebody Dismisses Your Reaction in the Moment?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I say when my partner tells me I am overreacting?' carrying no named finding known."
+    },
+    {
+      "q": "What does emotional invalidation look like when it comes from a boss?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## Where Does It Show Up in an Adult Life?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does emotional invalidation from a boss look like?' carrying no named finding known."
+    },
+    {
+      "q": "How do I rebuild self-trust after years of having my feelings dismissed?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## How Do You Start Trusting Your Own Reaction Again?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do I rebuild self-trust after years of emotional invalidation?' carrying Marsha Linehan's invalidating-environment finding."
+    },
+    {
+      "q": "How can I stop invalidating my child's feelings?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Can emotional invalidation cause an anxiety disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires naming and discussing a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "Is there a questionnaire researchers use to measure childhood emotional invalidation?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How do researchers measure childhood emotional invalidation?' carrying the Invalidating Childhood Environment Scale."
+    }
+  ]
+}

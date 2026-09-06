@@ -1,0 +1,105 @@
+{
+  "slug": "emotional-maturity",
+  "questions": [
+    {
+      "q": "What does emotional maturity actually mean?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Are the Signs of Emotional Maturity?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What does emotional maturity actually mean?' carrying James Gross's emotion-regulation finding."
+    },
+    {
+      "q": "What are the signs that someone is emotionally mature?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Are the Signs of Emotional Maturity?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What are the signs that someone is emotionally mature?' carrying no named finding known."
+    },
+    {
+      "q": "Why does staying calm in an argument leave me completely exhausted?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Is That Composure, or Is That Departure?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why does staying calm in an argument leave me exhausted?' carrying James Gross's expressive-suppression finding."
+    },
+    {
+      "q": "What should I do when my partner acts emotionally immature?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "partial",
+      "where": "## What Does the Mature End Look Like on an Ordinary Wednesday?",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'What should I do when my partner acts emotionally immature?' carrying John Gottman's repair-attempt finding."
+    },
+    {
+      "q": "At what age do people become emotionally mature?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## At What Age Does Emotional Maturity Develop?",
+      "heading_is_question": true,
+      "named_finding_inside": "Longitudinal imaging studies run at the US National Institute of Mental Health from the late 1990s onward",
+      "what_to_add": ""
+    },
+    {
+      "q": "Why can I handle grief well but lose control when I am angry?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## Why Can Someone Be Mature About Grief and a Wreck About Anger?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Why can I handle grief well but lose control when I am angry?' carrying no named finding known."
+    },
+    {
+      "q": "How can I build emotional maturity as an adult?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "yes",
+      "where": "## What Actually Builds This?",
+      "heading_is_question": true,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'How can I build emotional maturity as an adult?' carrying Eugene Gendlin's Focusing finding."
+    },
+    {
+      "q": "Is there a reliable scale or test for emotional maturity?",
+      "kind": "COMPETING",
+      "policy_reason": "",
+      "answered": "no",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": "An H2 'Is there a reliable scale or test for emotional maturity?' carrying no named finding known."
+    },
+    {
+      "q": "Is emotional immaturity a personality disorder?",
+      "kind": "POLICY",
+      "policy_reason": "Answering requires naming or ruling out a diagnosis or disorder.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    },
+    {
+      "q": "How can I teach my child to become emotionally mature?",
+      "kind": "POLICY",
+      "policy_reason": "The question asks for advice aimed at a parent about a child.",
+      "answered": "",
+      "where": "",
+      "heading_is_question": false,
+      "named_finding_inside": "",
+      "what_to_add": ""
+    }
+  ]
+}
