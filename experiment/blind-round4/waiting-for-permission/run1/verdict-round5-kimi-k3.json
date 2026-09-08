@@ -1,0 +1,59 @@
+{
+  "model": "kimi-k3",
+  "slug": "waiting-for-permission",
+  "run": 1,
+  "verdicts": [
+    {
+      "question": "Why do I keep waiting for someone to tell me I can start?",
+      "winner": "A",
+      "reason": "A has a dedicated section titled 'Why Do I Keep Waiting for Someone to Tell Me I Can Start?' that dissects the encouragement-vs-authorization conversation loop and gives three loop-breaking questions; B covers the loop only in passing."
+    },
+    {
+      "question": "What is an external locus of control?",
+      "winner": "A",
+      "reason": "A's standalone section 'What Is an External Locus of Control?' defines the construct (Rotter 1966) and lists four things it does not mean; B buries the definition inside a broader naming section."
+    },
+    {
+      "question": "How can I tell whether my manager's permission is truly required?",
+      "winner": "A",
+      "reason": "A's heading 'How Can I Tell Whether My Manager's Permission Is Truly Required?' matches the question directly and pairs the one-question lever test with a real-vs-imagined permission table."
+    },
+    {
+      "question": "Why am I still waiting for approval from a parent who cannot give it?",
+      "winner": "A",
+      "reason": "A's heading matches the question verbatim and the section adds the bereavement finding that an ongoing inner relationship with someone who died is the ordinary case; B's version lacks that finding."
+    },
+    {
+      "question": "Why does it sting when someone less prepared starts before me?",
+      "winner": "A",
+      "reason": "A's heading matches the question and the section adds the two-kinds-of-envy distinction explaining why the word fits badly; B's parallel section omits it."
+    },
+    {
+      "question": "How is waiting for permission measured in research?",
+      "winner": "A",
+      "reason": "A has a dedicated section 'How Is Waiting for Permission Measured in Research?' stating no instrument measures the behavior directly and laying out three consequences; B has no such section."
+    },
+    {
+      "question": "How trustworthy is the learned-helplessness research behind this idea?",
+      "winner": "A",
+      "reason": "Both pages carry the same honesty section with the 2016 Maier and Seligman correction, but A reinforces it with an adjacent measurement-limits section, making its trustworthiness answer the more citable package."
+    },
+    {
+      "question": "What does changing this pattern look like in an ordinary workweek?",
+      "winner": "A",
+      "reason": "A's heading 'What Does Changing This Pattern Look Like in an Ordinary Workweek?' matches the question and lists the four concrete weekly changes; B's equivalent uses vaguer 'repaired version' wording."
+    },
+    {
+      "question": "What is one concrete thing I can do before making a bigger decision?",
+      "winner": "A",
+      "reason": "A's heading matches the question nearly verbatim and delivers the four-minute name-and-sentence exercise with both outcome branches spelled out."
+    },
+    {
+      "question": "Could ADHD be the reason I cannot start without permission?",
+      "winner": "A",
+      "reason": "Neither page names ADHD; A's wider set of definitional and differential sections plus its licensed-professional routing section gives a citation engine marginally more relevant adjacent material (low confidence)."
+    }
+  ],
+  "a_count": 10,
+  "b_count": 0
+}

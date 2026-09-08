@@ -1,0 +1,59 @@
+{
+  "model": "kimi-k3",
+  "slug": "how-to-love-yourself",
+  "run": 1,
+  "verdicts": [
+    {
+      "question": "What does loving yourself actually mean in everyday life?",
+      "winner": "A",
+      "reason": "Both pages open with the same plain-words definition, but A anchors the double standard in a named finding (Grossmann et al., Psychological Science 2014, reasoning wiser about others' problems than one's own) with its limit stated."
+    },
+    {
+      "question": "Why do affirmations and self-care routines make self-love feel fake?",
+      "winner": "A",
+      "reason": "A's affirmations section cites the specific 2009 Psychological Science experiment 'Positive Self-Statements: Power for Some, Peril for Others', where low-self-regard participants felt worse after affirming; B argues the point without the study."
+    },
+    {
+      "question": "Where does the habit of putting everyone else's feelings before mine come from?",
+      "winner": "A",
+      "reason": "A's origins section adds the named Assor et al. 2004 Journal of Personality finding on parental warmth conditional on performance, directly answering where the habit comes from; B describes the same routes without the citation."
+    },
+    {
+      "question": "Why can I give support easily but feel uncomfortable receiving it?",
+      "winner": "A",
+      "reason": "A's receiving section names the Marigold et al. 2007 JPSP compliment experiment (elaborating a compliment hurt low-self-regard participants; describing it concretely did not); B covers the same ground without it."
+    },
+    {
+      "question": "How does low self-regard show up with a partner or close friends?",
+      "winner": "A",
+      "reason": "A has a dedicated section headed exactly 'How Does Low Self-Regard Show Up With a Partner or Close Friends?' fronting the six-row disguise table; B keeps that table under the vaguer 'Where Does This Hide' heading."
+    },
+    {
+      "question": "How does not loving myself affect the way I behave with my boss at work?",
+      "winner": "A",
+      "reason": "A has a dedicated section 'How Does Not Loving Myself Affect the Way I Behave With My Boss At Work?' listing the specific boss-directed behaviors; B only has one work row inside a general table."
+    },
+    {
+      "question": "What small practices can build self-love when I do not feel it yet?",
+      "winner": "A",
+      "reason": "Both list the same eight small repetitions, but A adds the affect-labeling evidence (Lieberman et al. 2007; Torre & Lieberman 2018 caveat), letting an answer engine cite what the practices rest on and how far it goes."
+    },
+    {
+      "question": "How is self-love measured in psychological research?",
+      "winner": "A",
+      "reason": "A has a dedicated section 'How Is Self-Love Measured In Psychological Research?' with a four-instrument table (self-esteem 1965, Neff's 2003 self-compassion scale, unmitigated communion, self-concept clarity) plus the Muris & Petrocchi 2017 critique; B has no measurement section."
+    },
+    {
+      "question": "Which disorder causes a person to be unable to love themselves?",
+      "winner": "A",
+      "reason": "Neither page names a disorder; both route to professional care with the same warning signs, and A's identical routing plus its measurement section's honesty about self-report limits is marginally the more citable package (low confidence)."
+    },
+    {
+      "question": "How can I teach my child to love themselves more?",
+      "winner": "A",
+      "reason": "Neither page addresses parenting directly, but A's origins section with the Assor 2004 conditional-warmth finding gives a parent the one actionable lever (do not attach warmth to performance); B lacks the citation (low confidence)."
+    }
+  ],
+  "a_count": 10,
+  "b_count": 0
+}
