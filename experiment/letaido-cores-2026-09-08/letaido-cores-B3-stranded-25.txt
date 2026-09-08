@@ -1,0 +1,7 @@
+# B3 - stranded pages, punch-list ranks 116-140.
+# Built 2026-09-08 by execution/build_letaido_cores.py. Format: ahrefs_pull.py --seeds-file (one phrase per line, '#' ignored).
+# Every core here has NO priced volume in any keyword set on disk.
+# Capped at 40.
+# EMPTY: no punch-list file for any rank 116-140 has been pushed to the review repo yet (25 slugs checked, 0 found)
+# Nothing to pull for this tranche today. Re-run this script once those punch-list files are pushed.
+# cores: 0
