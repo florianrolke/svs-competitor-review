@@ -199,6 +199,22 @@ Here is where all three of them stop, said plainly. Every one of these names des
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
 
+## What Is Touch Avoidance, and How Is It Measured?
+
+A difference between people that gets measured by asking them, which is a smaller and stranger procedure than the term makes it sound.
+
+Here is what producing a number involves. You are handed a set of statements about being touched by various sorts of people, close family, friends, strangers, somebody you are involved with, and you mark how far each one is true of you. The marks are added up. The total puts you somewhere among everybody else who answered the same statements. Nobody touches you at any point in it, and no hug is ever observed. What has been recorded is an account you composed in a calm minute about contact in general.
+
+That design settles what the number is allowed to mean, and the honest list runs in two directions.
+
+It is good for comparison. It shows you that a great many people answered roughly as you did, which is worth something on a subject where most people quietly assume they are the only one. It gives researchers a way to line up groups and ask whether the pattern moves with country, with age, with how somebody was raised. And it hands you a word you can say out loud, which counts for a lot in an area where people usually have none.
+
+It is poor at nearly everything you came here for. There is no cut-off anywhere in it, no threshold with ordinary people on one side and a category on the other, so any source telling you whether you "have" touch avoidance has invented a line the measurement does not contain. Two people with the same total can behave completely differently at the moment of contact, because a total is a rank among other people rather than a description of an event.
+
+And the case that brought you to this page is the one it has no space for. The statements ask what you prefer and how comfortable you are. They have no cell for wanting the hug, being glad the person crossed the room, and finding that your shoulders answered ahead of you regardless. A measure built out of preferences cannot see a response that runs against a preference, which is why a total, high or low, has never once explained the half second to anybody living inside it.
+
+So the number names a position, and a position is not a reason. Which of the different reasons set out on this page belongs to you is a separate question, answered by what varies in your own contact rather than by where you land among strangers who filled in the same form.
+
 ## How Reliable Is the Research on Touch, Honestly?
 
 Less reliable than its confidence would suggest, and you should know that before you build anything on it.
@@ -390,9 +406,13 @@ Wanting contact and responding to contact are separate systems, and they were ne
 
 Most people in this position have drawn the wrong conclusion from their own evidence. The reasoning runs: my body rejects hugs, so I must not want them. The brace reports on the arrival of contact. It reports nothing whatsoever about the wanting, which is generated somewhere else entirely and is perfectly capable of running in the opposite direction.
 
+A 2017 review in *Personality and Social Psychology Review*, titled "Affectionate Touch to Promote Relational, Psychological, and Physical Well-Being in Adulthood: A Theoretical Model and Review of the Research", builds its whole account on touch that is received, treating what lands on your body as a quantity of its own and holding it apart from how much affection you feel or show. The limit sits in the review's own framing: it calls the adult evidence largely unexplored, proposes a model of how received contact might do its work, and closes on an agenda for future research rather than a settled result, so what it supports is the separation of the three quantities, and what it leaves wide open is the case in front of you, where the contact you wanted arrives and your shoulders answer it anyway.
+
 This is also where the popular material on skin hunger becomes actively unhelpful. A great deal of it prescribes a daily quantity of hugs as though the problem were arithmetic. For somebody whose response is a defended one, an instruction to accumulate contact is an instruction to spend more time in the exact position that produces the brace, without any of the information that would make it different. [The version of this that shows up as feeling alone in company rather than as a physical response](/patterns/why-do-i-feel-lonely-even-around-people/) sits in adjacent territory and is worth reading if the loneliness is louder than the flinch.
 
-## Why Has Trying to Relax Into It Never Worked?
+## Is It a Good Idea to Force Myself to Hug More People So I Get Used to It?
+
+Not as a quantity of extra hugs, because repetitions of the same event supply nothing the response has not already had a thousand times, and that is the same reason trying to relax into it has never worked.
 
 For three reasons, and the first one is enough on its own.
 
@@ -410,6 +430,8 @@ They do not see the shoulders. They do not register the arm calculation or the w
 
 What they do register is duration and the pat, because those two things are addressed to them. A hug that ends early with three taps carries a message in ordinary social language, and the ordinary reading of that message is that the other person would rather not be doing this. That reading is wrong in almost every case covered by this page, and it is the actual cost of the whole pattern.
 
+If the person is a partner rather than somebody at a party, that reading costs more, because they have hundreds of these to average and they are averaging them into a conclusion about how you feel about them, out of the same two signals everybody else gets. Neither the length nor the pat carries any information about which of the reasons on this page produced it, so whatever a partner has concluded was assembled from the only material available to them, which makes it a reason to say one plain sentence rather than a settled fact about what they believe, and what they do believe is something only they can tell you.
+
 Which is a useful thing to know, because it relocates the problem. The expensive part is a misunderstanding rather than a body. Misunderstandings are repaired with sentences. That is a considerably smaller job than the one you have probably been trying to do.
 
 ## What Would It Mean to Take the Body Seriously as Evidence?
@@ -426,7 +448,9 @@ Either way, the first step is the same and it is a measurement rather than a cha
 
 Then read the log looking only for what varies. If nothing varies, you are probably looking at a low baseline or a sensory ceiling. If it varies by person, you have your answer and it is about a relationship. If it varies by situation, look at what those situations predicted. Two weeks of that beats any amount of thinking about it, because the whole difficulty with this pattern is that the crucial part happens too fast to observe in real time and can only be caught by comparison afterward.
 
-## What Changes If You Say It Out Loud Instead of Joking?
+## How Do I Tell People I Need a Different Kind of Hug Without Hurting Their Feelings?
+
+With one sentence that describes the hug you want rather than the sort of person you are, kept warm about them, and the thing worth knowing before you pick which sentence is what changes when you say it out loud instead of joking.
 
 More than almost anything else available, and it costs one sentence.
 
@@ -486,9 +510,9 @@ The brace itself moves slowly, unevenly, and in some cases should not move at al
 
 Expect it back under specific conditions. Cold weather, crowds, the end of a long week, a stranger at a work event, a funeral where everybody hugs and nobody warned you. The response returns because the conditions that produce it returned, which is a return of conditions rather than a loss of anything you built.
 
-And expect to get it wrong regularly. You will pat somebody out of a hug you wanted, or make the joke on reflex a fortnight after deciding to stop, or step back first at the one goodbye where you meant not to. A rule you break twice and keep the third time is working normally.
+And expect to get it wrong regularly. You will pat somebody out of a hug you wanted, or make the joke on reflex two weeks after deciding to stop, or step back first at the one goodbye where you meant not to. A rule you break twice and keep the third time is working normally.
 
-## What Is Worth Trying at the Next Goodbye?
+## What Can I Try the Next Time Someone Hugs Me?
 
 One thing, and it is closer to a measurement than to a change.
 

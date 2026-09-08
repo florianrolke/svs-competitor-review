@@ -360,6 +360,20 @@ There is a second complication worth naming here, because it changes what you ar
 
 Look at the bottom row, because the two questions decide different things. Deciding what actually happened has to come before deciding what it means for the relationship, and both of those come before deciding what to do. Collapsing all three into one conversation in the first week, at the point of maximum pain and minimum information, is the single most common way this goes badly.
 
+## Can Someone Actually Love Me and Still Cheat on Me?
+
+Yes, and the reason is duller than either of the two stories you are currently choosing between. Love and fidelity answer different questions, so an act can report on one of them and leave the other exactly where it stood.
+
+The most useful measurement on this is a 2019 study by Selterman, Garcia and Tsapelas, published under the title "Motivations for Extradyadic Infidelity Revisited". Four hundred and ninety-five people, most of them young adults, filled in an online questionnaire about affairs they had actually had and reported in their own words what had driven them. What came back was not one reason. Earlier work had separated four of them: dissatisfaction, neglect, anger, and plain desire. This study pulled apart at least five more, among them low commitment, wanting to feel more popular, wanting a wider range of partners, situational things such as being drunk and not thinking clearly, and, sitting on that list as one item rather than as the heading over it, having fallen out of love with the partner at home.
+
+Look at that list again with your own week in mind. "I had fallen out of love with you" is on it, as one of at least nine separable drivers, and the authors' own summary of what their results do is push the field away from reading an affair as a straight readout of what the relationship was missing. The sentence he handed you, or the sentence you arrived at on your own, is one item on a list. It is not the list.
+
+The limits are not small and they belong right here. Those were 495 people volunteering answers about their own conduct on the internet, which is about as thin as evidence on a question like this ever gets, and a reason given afterward is a different object from the reason that was running at the time. The study also could not say, and did not try to say, which motive was operating in any individual case. It reports what the category holds. Your house was not in the sample.
+
+There is a second reason both things can stand at once, and this one is a model rather than a measured result, so take it as a shape and not as evidence. Love, described this way, is several components moving independently: the intimacy, the desire, and whether you have decided to stay. A person can lose most of one of those and hold the others at full strength, which is why "he still loves me" and "he did this" are not the contradiction they feel like. [The page on deciding whether to stay works through those components in detail.](/patterns/should-i-leave-my-relationship/)
+
+None of that settles your case, and it is not built to. What it does is remove one option from the week you are having: the version where the act, on its own, establishes that none of it was real. That conclusion stays available to you if the rest of what you lived supports it. It does not arrive with the discovery.
+
 ## Why Would Someone Act Against a Value They Genuinely Hold?
 
 Because needs outrank values when the two conflict for long enough, and the driver wins.
@@ -367,6 +381,8 @@ Because needs outrank values when the two conflict for long enough, and the driv
 This is the question people actually ask after a betrayal, once the shouting is over. How could someone who believes what he says he believes do what he did. The answer is unsatisfying and it is also the most useful thing on this page. Values operate on what a person endorses and would defend in an argument. Needs operate on what actually moves behavior under pressure, especially pressure that has been building for years without a name. Where the two disagree, behavior follows the need, and the person is left holding an act he cannot reconcile with who he believes himself to be.
 
 That gap then gets patched with a story, because human beings cannot walk around holding an unresolved contradiction about their own character. The cheapest available patch is a story that makes the act consistent: I was unhappy for years. We had been over for a long time. I never really loved you.
+
+There is a well-described mechanism behind that patch, and it is honest to say that it is a model rather than one researcher's result about affairs. When behavior and belief come apart, the belief is what gives way, because the behavior has already happened and cannot be taken back. [The page on acting out of character carries the research on that, with the names and dates attached.](/patterns/why-did-i-do-something-so-out-of-character/) What the model explains is why a story appears so fast and arrives sounding so authoritative. What it cannot do is tell you which of his sentences is one of those repairs and which is a plain report of what he felt, and nothing available to you from the outside will sort them.
 
 Consider what that means about the sentence that wrecked you. Very often it was manufactured after the fact, by someone trying to make his own behavior survivable to himself, and then handed to you as though it were a finding about the last decade. You have been treating a patch as evidence. It is worth at least suspecting the sentence rather than accepting it as the verdict on everything you remember.
 
@@ -382,7 +398,9 @@ There is a well-known clinical model for what happens next, developed by the psy
 
 That inversion is why "nothing was wrong" and "something was unmet" turn out to be two entirely different audits. Most couples only ever run the first one. Absence of conflict, a working household, a marriage other people admire, and no visible symptoms at all can sit directly on top of one person receiving almost no novelty and almost no sense of mattering for several years running. That condition has no obvious tell. It shows up as a slow drift of attention.
 
-## Did You Confirm It, or Are You Still Trying To?
+## Why Can I Not Stop Replaying or Checking What Happened?
+
+Because the checking is answering a question that reopens as soon as it closes, which is a different problem from the one it looks like. The narrower version is worth asking first: did you confirm it, or are you still trying to? [The involuntary replay, the part that arrives without being asked for, has its own page, and it is a different mechanism from the checking described here.](/patterns/why-cant-i-stop-thinking-about-my-partners-affair/)
 
 Those two states feel identical from the inside and produce completely different information, so it is worth knowing which one you are in.
 
@@ -399,6 +417,8 @@ The evidence audit runs on the same wiring. Sitting up compiling a silent ledger
 The fact is what happened. The meaning is the sentence that arrived with it, and the meaning is where nearly all of the intensity lives.
 
 This lands badly at first, so let me be precise about what is being claimed. Nobody is suggesting the pain is invented or that a smaller word would make you feel better. The claim is narrower and more useful: the event and the sentence you have attached to it are two separate objects, they arrived so close together that they feel like one, and only one of them has been checked.
+
+The split has a formal name and it predates this page by decades. In the appraisal account of emotion, an event produces its emotional consequence through the evaluation laid on top of it rather than through the event itself, and the evaluation is the part that can be changed. That account has its names and dates set out on [the page about plans changing](/patterns/why-do-i-get-so-upset-when-plans-change/), so it is described here rather than re-argued. The limit is the one that matters for you tonight: appraisal work was built and studied on ordinary stressors, not on a discovery of this size, and nobody has shown that separating the two lines shortens the grief. What it reliably does is stop the second layer, the one about what the event proved about you, from being carried as established fact.
 
 | The fact, in one plain line | The sentence that arrived with it | What would have to be true for that sentence to hold |
 |---|---|---|
@@ -418,6 +438,8 @@ No. Understanding and excusing are two separate acts, and you can perform the fi
 In the heat of it they feel like the same motion. Somebody explains that he had gone years without feeling admired, and something in you goes cold, because it sounds like the beginning of an argument for why this was reasonable. That reflex is protective and it costs you the only tool that actually changes anything, since understanding the mechanism is what eventually gives you a decision to make rather than a wound to sit inside.
 
 Hold both statements in the same paragraph. The need was real and the coverage failure was mutual, in the ordinary sense that neither of you was tending to something. The choice of vehicle was his alone, made without you, and concealed from you. Explaining the first has no bearing on the second. He remains fully responsible for what he decided to do about a problem you were both living inside.
+
+It is worth being straight about what research can and cannot settle here. The work on why people act against their own values explains the mechanism, and none of it was ever built to weigh how much somebody should be held responsible, because responsibility is not a quantity a study can measure. So nothing anybody has found licenses what he did, and nothing anybody has found obliges you to forgive it. Explaining and excusing stay separate, and the weighing stays yours no matter how well you come to understand the mechanism.
 
 Anger tends to run hottest and longest for precisely as long as understanding feels like surrender. Once those two come apart, the anger usually gets more specific, which is uncomfortable in a different and much more workable way.
 
@@ -496,6 +518,8 @@ The meaning can move in weeks. The structure takes months. The involuntary part 
 Separating the fact from the story is the fastest of the three, and people are often surprised by it. A conclusion held for six weeks can come apart in one afternoon of writing it down and looking at what it was actually resting on. That does not end the pain. It ends the second layer of pain, the part that was about what the event proved about you, which is frequently the heavier of the two.
 
 The replay, the sleep, and the physical drops ease unevenly. Expect better weeks followed by a bad one for no reason you can identify, anniversaries that land harder than the days around them, and specific places or songs that stay difficult for a year. None of that is a sign of failure or of having made the wrong decision.
+
+One measured thing belongs beside your own estimate. People are consistently poor at predicting how long a bad feeling will last, and the error runs one way: the reaction gets predicted as longer and heavier than it turns out to be. That work was done on ordinary losses and disappointments rather than on anything the size of a discovery like this, so take it as a caution about your own estimate and not as a promise about your timeline. What it argues against is the single sentence that says you will feel exactly like this for years, which is a prediction made on the worst available day by somebody who does not have the data yet.
 
 If the relationship continues, the rebuilding runs on its own clock, and it is longer than almost anyone hopes: many months at minimum, often considerably more, with two tracks that both have to hold. [The honest version of that timeline is set out in full on the repair page.](/patterns/how-to-rebuild-trust/) The thing worth watching for is the false ending, which arrives at around month four when the fighting stops and both people quietly decide it is finished. Stopping the fighting is a change in symptoms. Whether the need that went unsupplied now has somewhere real to go is a different question, and it is the one that decides whether you are here again at month twenty.
 

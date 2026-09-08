@@ -105,7 +105,7 @@ You get to the printer. Nothing happens. Nothing was ever going to happen. And o
 
 Then there is the counter.
 
-You are third in a queue and you have three words to say when you get to the front. You know the words. You have said them hundreds of times. And you are running them anyway, silently, in order, checking the ordering, adjusting the emphasis on the middle one, and preparing a version for the possibility that they ask you something back. When your turn comes it takes four seconds and goes exactly as it has always gone, and you rehearsed it for ninety.
+You are third in a line and you have three words to say when you get to the front. You know the words. You have said them hundreds of times. And you are running them anyway, silently, in order, checking the ordering, adjusting the emphasis on the middle one, and preparing a version for the possibility that they ask you something back. When your turn comes it takes four seconds and goes exactly as it has always gone, and you rehearsed it for ninety.
 
 Then there is the laugh.
 
@@ -113,7 +113,7 @@ A burst of laughter goes up somewhere behind you, from a group you are not part 
 
 Then there is half past one in the morning.
 
-You are awake, and you are holding a thirty second exchange from an afternoon three days ago, in which you said something slightly wrong and somebody's face did something that might have been nothing. You have rerun it enough times that the version you are watching is no longer the original. The other person put it down before they got to the car park and has not touched it since. You have been carrying it for seventy-two hours and it is heavier now than when you picked it up.
+You are awake, and you are holding a thirty second exchange from an afternoon three days ago, in which you said something slightly wrong and somebody's face did something that might have been nothing. You have rerun it enough times that the version you are watching is no longer the original. The other person put it down before they got to the parking lot and has not touched it since. You have been carrying it for seventy-two hours and it is heavier now than when you picked it up.
 
 And then there is the table by the window.
 
@@ -147,7 +147,7 @@ You have a slightly different walk when you know somebody is behind you on a qui
 
 You have a name badge or a lanyard somewhere in your life that you turned around so the name faced your chest.
 
-And you have the recovery you never account for. The twenty minutes in the car park before you drive off. The stop on the way home. The three quarters of an hour after getting in, during which you would say nothing is happening.
+And you have the recovery you never account for. The twenty minutes in the parking lot before you drive off. The stop on the way home. The three quarters of an hour after getting in, during which you would say nothing is happening.
 
 None of those is a problem on its own. Together they are a tax, levied in five and ten minute pieces, on a claim about other people that nobody has ever asked you to produce evidence for.
 
@@ -188,6 +188,22 @@ If the sense of being observed carries content, meaning that you have a specific
 And if what you recognize here sits alongside anything you are already being seen for, the person seeing you is better placed than this page and should hear about it.
 
 For everybody else, which is almost everybody reading, the rest applies.
+
+## How Do Researchers Measure Public Self-Consciousness?
+
+With a questionnaire, and knowing how that questionnaire is built tells you more about the term than any definition of it does.
+
+The instrument everybody still uses appeared in 1975, in the Journal of Consulting and Clinical Psychology, under the title "Public and private self-consciousness: Assessment and theory." I am naming it by its title rather than by its three authors, for the reason given further up: those names are credited on another page here that uses this distinction for a different behavior, and repeating them in a fourth place would make a set of separately written pages look like one reading list.
+
+It is twenty-three statements, each rated by how characteristic of you it is. The seven that make up the public half are the ones this page is about, and they are worth seeing, because a term you have only met as a label turns concrete the moment you read what it is actually made of. They ask about concern with your style of doing things, about the way you present yourself, about being self-conscious regarding the way you look, about usually worrying whether you are making a good impression, about how much you care what other people think of you, about ordinary awareness of your own appearance, and one that is simply about what you do immediately before you leave the house. Seven statements. That is the whole of the public half.
+
+Two things follow from reading the items rather than the label.
+
+The first is that a score here is a position on a spread rather than the presence or absence of anything. Everybody who fills it in gets a number. There is no cut point on the scale where one kind of person becomes another kind, and any page that tells you that you either have this or do not have it is describing something the instrument was never built to deliver.
+
+The second is a limit, and it belongs on the page rather than in a footnote. The original 1975 analysis reported three components rather than two, and researchers have argued about the internal structure ever since, including whether the two headline components are really two and whether one of them divides further. A later revision reworded the items for people outside a university, and scores are not directly comparable across the two versions. So the honest reading is this: the spread is real and reasonably stable in the same person over time, and the architecture underneath the spread has never been settled.
+
+One more thing the questionnaire cannot do, which matters for everything below. It places you on a continuum of how much attention rests on yourself as something visible. It produces no figure at all for how many people are actually looking at you, and that second quantity is the one doing the damage in your week. [The page on stepping out of photographs carries the attributed version of this distinction](/patterns/avoiding-photos/), because a camera comes close to a clean instance of it. That page owns the lens. This one owns the room, and the number attached to the room is something you have to obtain yourself.
 
 ## Why Is the Sensation Itself Accurate Equipment?
 
@@ -249,11 +265,25 @@ That is the mechanism underneath both the spotlight effect and the illusion of t
 
 There is a satisfying consequence to this, and it is the basis of the check further down. The error says nothing at all about how interesting you are. What it describes is where you are standing. Everybody in the room is running the identical error about themselves, from their own vantage point, at the same time. The person at desk fourteen who did not notice you crossed the floor is at that moment convinced that everybody has an opinion about the email they just sent.
 
+## Why Do I Feel Like Everyone Is Watching and Judging Me?
+
+Because two separate claims arrive fused, and hardly anybody separates them, including most of the people who write about this.
+
+The first claim is a count. Some number of people in this room have attention pointed at you right now. The second claim is a verdict. Those people are forming a view, and the view is unfavorable. You experience the two as one event and you argue with them as one event, which is a large part of why arguing has never worked. They come apart cleanly, and once they do they behave in completely different ways.
+
+The count is the half with a measured error attached. Where this has been put to the question, people asked to estimate how many observers registered a specific, noticeable thing about them produce figures around double the number who could actually name it afterward. The limit matters as much as the finding: the real figure was not zero, it sat near a quarter of the room, the samples were small and mostly undergraduate, and the popular retelling has rounded the quarter down to nobody because zero makes a tidier sentence. You are running about twice high, you are not running infinitely high, and both halves of that carry weight.
+
+The verdict is the half with no measurement on it at all, and the honesty here has to be flat. Nobody can tell you what the people in that room concluded. I cannot, and neither can any page promising you that they concluded nothing. What can be said is where the wording of the verdict comes from, and it does not come from them. You supply it, in your own vocabulary, at a resolution no stranger has access to, about material no stranger can see. The person at desk fourteen did not compose a paragraph about your arms. You did, and you have been reading it back to yourself ever since.
+
+Notice what the split does to the compound question. If the count runs about double and the wording of the verdict is largely your own, then "everyone is watching and judging me" turns out to be one checkable claim wrapped around one unanswerable one. The checkable half is worth measuring this week and the method is further down. The unanswerable half is worth recognizing as authorship rather than as reporting, and the root where the observer has left the room is where that thread carries on.
+
+One thing this page will not do with the split, since it would be the easy move. It will not tell you the verdict is always wrong. Some people do form views, you have met several of them, and any page that denies it loses to your own memory in about the time it takes to recall one. The narrower claim survives that memory intact: the count is inflated by a factor you can obtain in a week, and the language of the judgment is yours.
+
 ## Does Being Watched Actually Change How People Behave?
 
 This is where the popular literature is at its weakest, and it is worth taking apart, because the belief sitting underneath your dread is that being observed has consequences.
 
-The famous demonstration is a good one. Bateson and colleagues ran a study in 2006 in a university coffee room with an honesty box, where people were expected to pay for their drinks on trust. Above the price list they alternated two images week by week: a picture of flowers, and a picture of a pair of eyes. Payments were substantially higher in the weeks with the eyes. The result was elegant, cheap to run, and immediately famous, and within a few years pictures of eyes were being stuck up in bike sheds, car parks and cafeterias on the strength of it.
+The famous demonstration is a good one. Bateson and colleagues ran a study in 2006 in a university coffee room with an honesty box, where people were expected to pay for their drinks on trust. Above the price list they alternated two images week by week: a picture of flowers, and a picture of a pair of eyes. Payments were substantially higher in the weeks with the eyes. The result was elegant, cheap to run, and immediately famous, and within a few years pictures of eyes were being stuck up in bike sheds, parking lots and cafeterias on the strength of it.
 
 Then the accumulated evidence was pooled. Northover and colleagues published two meta-analyses in 2017 across the studies that had built up, and found no evidence overall that artificial surveillance cues increase generosity. Not a smaller effect than claimed. No effect they could detect, across the body of work as a whole.
 
@@ -363,6 +393,8 @@ More tells.
 
 **And it is much harsher than any actual person has been.** If you wrote down the worst thing a real human being has said to you this year and set it next to what you said to yourself about the thing you did on Tuesday, the comparison is not close.
 
+That register has a developmental account behind it, and it is worth having. Fernyhough's work on inner speech holds that thinking in words grows out of dialogue with other people and keeps the shape of dialogue long afterward, which is why an internal commentary can arrive with a speaker attached rather than as neutral thought. The limit sits exactly where you want the answer: that evidence rests largely on people reporting their own inner speech, the measures for it are contested, and nothing in the account can tell you whose voice yours is, only that a voice having a character at all is an ordinary property of thinking rather than a sign of anything.
+
 Where this is the root, the material that applies to you sits underneath the room entirely, and this page will get you no further than the sorting. It is worth being straight about that rather than letting you carry a room-shaped framework away and apply it to something that has nothing to do with rooms.
 
 ## What If You Really Are Conspicuous?
@@ -385,6 +417,8 @@ The tells are the reverse of the second root.
 
 **And it changes when the setting changes.** Move, or change jobs, or spend a week among people like you, and it drops away entirely rather than following you, which is the clean separation from the fourth root.
 
+There is research on this, and it is old and blunt. Kanter, studying a corporation where one group made up a small fraction of a department, called people in that position tokens and named heightened visibility as the most consistent thing they get: noticed and remembered out of proportion to their share of the room, with individual acts read as representative of a category rather than as something a person did. The limit is worth having, since this page is strict about limits elsewhere: that was field observation inside a single company in the 1970s rather than a controlled comparison, and it describes workplaces with lopsided proportions rather than every setting in which somebody stands out. What it does establish is that the visibility you are reporting has been documented from the outside, by somebody counting.
+
 If this is your version, the useful question stops being whether the perception is accurate and becomes what carrying it costs and what you want to do about the setting. That is a different conversation, and it concerns arrangements rather than the correction of a distortion. It is also the version where a page telling you nobody is watching does the most damage, because you know from your own evidence that it is false, and you may then throw out everything else along with it.
 
 ## Which of the Five Fits, and What Would Separate Them?
@@ -400,6 +434,24 @@ The separating question is different for each, and none of them is about how sen
 | Genuine conspicuousness | Would somebody else in your position report the same thing? | It maps onto the setting, it has content that turns out to be accurate, and it drops away when the setting changes |
 
 Read the right-hand column slowly. Most people find one row lands differently from the other four. A fair number find two are running together, most often the second and the fourth, which is a coherent combination: an inflated estimate gives the internal observer material to work with, and the observer keeps the estimate topped up.
+
+## Why Do I Feel Watched Most Strongly When I Present Something to My Boss?
+
+Because that room contains the one ingredient that reliably turns other people from scenery into an audience, and the ingredient has nothing to do with how many of them there are.
+
+Cottrell and colleagues isolated it in 1968. Participants first learned a set of nonsense words, some of them far more often than others, and were then asked to identify words flashed too briefly to be read at all, so that what came out of their mouths was whatever had been practiced hardest. They did this under three arrangements: alone, in front of two people who were present but blindfolded and waiting in the room for their own part in something unrelated, and in front of two people who were watching attentively. Only the third arrangement pushed the practiced responses up. Bodies in the room did nothing on their own. Bodies that could see and form a view did.
+
+That is the whole of what your boss adds. The headcount has not changed. What has changed is that one person present holds consequences, and your equipment is doing what the 1968 arrangement predicts, which is registering an evaluating audience instead of a crowd. It explains something you have probably noticed and filed away as inconsistency in yourself. You can eat in a cafeteria of two hundred strangers with no trouble at all and lose your hands entirely in front of four colleagues and one manager, and by headcount the cafeteria should be the worse room.
+
+The limits belong here, because this literature is less tidy than the summary of it sounds. That was a small laboratory study from 1968 on an artificial word task, and when the wider body of work on how audiences affect performance was pooled decades later, the effects came out real and small rather than large. It also says nothing at all about what an audience does to somebody who is already running a high estimate, which is most of the reason you are on this page.
+
+Three consequences follow, and they are more useful than the finding.
+
+**Preparation aimed at the room is aimed at the wrong variable.** More rehearsal of the words moves very little, because the words were never what your body was reacting to. What changes the room is anything that lowers the ambiguity of the evaluation: knowing what is being judged, knowing what happens with the answer, knowing whether the decision was made before you walked in.
+
+**The intensity tracks how unresolved the judgment is.** A meeting where you already know the outcome is uncomfortable and quiet. A meeting where the outcome is live is the one that takes your hands away, and the projector at the front of it has nothing to do with anything.
+
+**This is the best room to run the check in, not the worst.** The advice further down says to practice on something ordinary, and that stands for your first attempt. After that, this room is where your estimate is highest and therefore where the gap between prediction and figure is widest, and it is also the room that has been costing you the most, which makes it the best value for four minutes and a pen.
 
 ## What Is the Check, and How Do You Run It?
 
@@ -424,6 +476,8 @@ That thinness is the point. That is your entire attention budget for other peopl
 **Step three: put the two numbers next to each other and do not draw a conclusion yet.** One pair is an anecdote. Three pairs is a pattern, and three pairs takes about a week to collect.
 
 **Step four: expect the answer to be "some" rather than "none".** This is the part that separates the check from the reassurance genre, and it is why it survives. If your prediction was nine of eleven and the honest figure is two, you have not learned that nobody sees you. You have learned that your instrument reads about four times high in that room, which is precise, actionable and consistent with the two people who genuinely did notice. A conclusion that has room in it for the people who noticed is a conclusion that will still be standing next month.
+
+One thing about the numbers before you go and collect them. Where this has been measured, estimates come in at roughly double the honest figure, and the honest figure is not zero: in the demonstration everybody quotes, about a quarter of the room could still name the thing, on small undergraduate samples with moderate effects. So expect a gap of that shape rather than a constant. If your three pairs come back at two and a half times, or at four times in one particular room and barely at all in another, you have obtained your own figure rather than run it wrong.
 
 A few practical notes, because people run this badly in predictable ways.
 
@@ -505,7 +559,7 @@ The estimates stop being updated. A room you have avoided for six years carries 
 
 The unasked questions accumulate. Every meeting has one or two you rehearsed and did not ask, and they do not disappear. They collect into a slowly widening gap between what you know and what people think you know, and that gap eventually starts producing real consequences at work, which then feed the estimate.
 
-The tax compounds quietly. Twenty minutes in a car park, three quarters of an hour on the sofa, a walk taken the long way. None of it is visible on any day and all of it is time.
+The tax compounds quietly. Twenty minutes in a parking lot, three quarters of an hour on the sofa, a walk taken the long way. None of it is visible on any day and all of it is time.
 
 And the people close to you build a theory. In the absence of an explanation they construct one, and the one they usually construct is about them: that you did not want to come, that you were bored, that you disapproved of their friends. That theory is wrong and it is not unreasonable given the evidence, which is that you left early and said very little. The cheapest correction available is one sentence said in advance, and most people in this pattern have never said it once.
 
@@ -523,7 +577,7 @@ You still get the replay occasionally, at half past one. What has changed is tha
 
 You ask the question in the meeting more often than you used to. Not always. More often. And the ones you do not ask stop being carried home.
 
-And the twenty minutes in the car park has become five, or has become nothing at all, and you got that time back without becoming a different sort of person.
+And the twenty minutes in the parking lot has become five, or has become nothing at all, and you got that time back without becoming a different sort of person.
 
 What has not changed is the sensitivity itself. Ten years from now you will still register the room. Every page promising to remove that is offering you something you would not want if you got it, since the same instrument is doing your reading of everybody else.
 
@@ -535,7 +589,7 @@ It runs at three speeds and confusing them is why people decide nothing is happe
 
 **The estimate moves over months.** A number that has been running unchallenged since you were fourteen does not update because you contradicted it three times in March. It updates because you accumulate a dozen instances over a year, and because you stop being surprised by the direction of the error. Somewhere in there, without a specific day attached to it, the walk across the floor stops producing a count.
 
-**And which rooms it applies in moves slowest of all.** If your version is the third root, where scrutiny was once genuinely real, expect this to take considerably longer, and expect it to be uneven, and do not read the unevenness as failure. An alertness that was accurate for three years is not going to be talked out of itself in a fortnight by somebody who was not there.
+**And which rooms it applies in moves slowest of all.** If your version is the third root, where scrutiny was once genuinely real, expect this to take considerably longer, and expect it to be uneven, and do not read the unevenness as failure. An alertness that was accurate for three years is not going to be talked out of itself in two weeks by somebody who was not there.
 
 Expect the sensation itself not to move much, ever. What changes is the number on top of it and how many of your decisions that number gets to make. Three of those four things are available. One of them is not, and it was never the problem.
 

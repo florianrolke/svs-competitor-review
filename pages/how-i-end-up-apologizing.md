@@ -135,11 +135,15 @@ And it leaves a residue you will still be carrying on Thursday, made of two part
 
 None of this is dramatic. Nobody shouted. That is precisely why it accumulates unexamined for years, and why people who have been in it since their twenties still arrive at a page like this asking whether it counts as anything.
 
-## What Is the Name for This, and How Much Does the Name Actually Know?
+## How Strong Is the Research Behind DARVO, and Is There a Validated Measure?
+
+Two questions sit inside that one, and they are worth taking in order. What is the name for this, and where did the idea come from? And then the harder one: how much does the name actually know?
 
 The term is **DARVO**, and it stands for deny, attack, and reverse victim and offender.
 
 It was named in 1997 by a psychology researcher working on how people and institutions respond when they are accused of causing harm. The observation was about a sequence rather than a type of person. Somebody is confronted about something they did. First the account is denied. Then the person raising it is criticized, often for the manner, the motive, or the timing of raising it. And then the positions swap, so that by the end the person who came in with a complaint is the one who has caused the trouble and the one who was complained about is the one who has been treated unfairly.
+
+The researcher was Freyd, and the setting she named it in should travel with the word. Her subject was what happens after a serious accusation, including how institutions answer complaints made against them, which is a considerable distance from two people disagreeing about a handover. The gap between where the term was introduced and where it now gets used is the source of most of the trouble it causes.
 
 Written out like that, it describes the driveway exactly. That is why the term has spread so far and so fast.
 
@@ -148,6 +152,8 @@ Written out like that, it describes the driveway exactly. That is why the term h
 **What the term cannot tell you** is anything about why, and anything about who was right. It is a description of a shape. It says nothing about whether the denial was honest, nothing about whether the criticism of your delivery was fair, and nothing about what would change it. There is no scale that settles a case, no threshold, and no agreed number of incidents.
 
 And then there is the evidence, which has to be stated plainly because almost nothing written about this term states it. The sequence is a described pattern rather than a measured mechanism. Scales for measuring it exist, they are recent, they are short, and they rely on people reporting on their own experience or reacting to written scenarios rather than on anybody observing real conversations. A good deal of that measurement work comes from the same research group that coined the term, which means it is better understood as one line of work developing its own idea than as independent confirmation from elsewhere. Nothing establishes how often the sequence occurs in ordinary life, and there is no basis for any figure about how common it is.
+
+So, plainly: is there a validated measure? There are short self-report scales, developed largely by Harsey with the group that coined the term, and scenario experiments from the same line of work in which readers shown a denial-and-counter-accusation response went on to rate the accused person as less abusive and to place more of the responsibility on the one who complained. Take that result at exactly what it is: it measures how third parties read a described exchange, it sets no threshold, it scores no single conversation, and nothing in it establishes how often any of this happens outside a study.
 
 The larger problem is what popular use has done to it. In its original setting the word described a response to a serious accusation. In general use it has broadened until it covers any disagreement in which somebody defends themselves. That broadening is not a small drift, and it is the reason the term is dangerous in ordinary conflict.
 
@@ -183,6 +189,8 @@ This is the question the whole page exists to answer, and almost nobody writes i
 
 The honest answer starts with a limit: one conversation cannot tell you. A single exchange in which you ended up apologizing is compatible with a reversal, with two people each having something to raise, with you having opened badly, and with the other person being right. Anybody who offers you a test that resolves a single conversation is describing something the evidence does not support.
 
+That limit follows from the shape of what has actually been measured. The scales described above ask a person to report a pattern across a relationship, how much of the sequence they met over time after raising things, and none of them takes a single evening and returns an answer about it. So anything offering to settle your one conversation is claiming a power those measures were never built to have.
+
 What can be distinguished is a pattern across many conversations, and the useful test has three parts.
 
 **Does the subject ever come back?** In a conversation that simply went badly, the original point is available again later. You can raise the handover the following week and get an answer to it. In a reversal, every route back to the original subject is already occupied. Raising it again is itself the problem.
@@ -203,7 +211,7 @@ Notice what that table does not do. It does not tell you which column you are in
 
 ## Why Does a Conversation With Two Subjects Always Resolve Toward the Louder One?
 
-Because a conversation is a queue with one position, and nothing decides the order except who holds it.
+Because a conversation is a line with one position, and nothing decides the order except who holds it.
 
 This is the most common version of the whole pattern and the one nobody names, because it has no villain in it and therefore makes a poor story. You came in with the handover. They came in carrying something too, possibly for weeks, possibly about you, possibly about something entirely unrelated that your opening happened to touch. Two real subjects arrived in one conversation and there is no mechanism anywhere that decides which gets discussed first.
 
@@ -271,6 +279,8 @@ Then the apology was a purchase, and what it bought was the end of the conversat
 
 This root has nothing to do with who was right, and people in it often know perfectly well that they were right, which is why the evening afterward is so bad. The apology came out because the tension in the room had reached a level that had to stop, and apologizing is the fastest available way to stop it. It works. That is the problem. It works in seconds, reliably, every time, and nothing else in the situation works at all.
 
+There is a name for what is doing the work. In the learning literature it is called negative reinforcement: an action that removes something unpleasant gets strengthened by the removal, and how fast the relief arrives does more of the strengthening than how large it is. Which is why you can apologize while still privately holding that you were the one who got hurt, since your opinion about fault is slow and the relief is immediate. Its limit belongs in the same breath: that is a general result from controlled learning experiments on simple behaviors, carried here without a name attached because it belongs to a broad line of work rather than one study, and applying it to a real argument is an inference rather than something anybody has measured in the room.
+
 The trade is visible if you look at what you get and what you spend. You get the temperature down immediately and warmth restored. You spend the matter you came in with, and you take on a new charge about your delivery that will be available to both of you in future conversations. That is a poor exchange made under pressure by somebody who genuinely could not stay in the room another minute.
 
 The reason this one does not respond to deciding to hold your ground is that holding your ground is a plan aimed at nerve, when the difficulty is cost. If staying in a conflict for another two minutes is genuinely expensive for you, a resolution does not change the price. It just means you pay it once, have a worse conversation, and conclude privately that raising things makes everything worse.
@@ -309,6 +319,8 @@ The turn is built out of four or five small transitions, none of which is a turn
 
 Memory makes this worse rather than better. Recall of conversations is reconstructive, it is poor at ordering, and it fills gaps with whatever makes the sequence coherent. So the replay you run on the stairwell is smoother than the original, has a clearer structure, and often contains a decisive moment that you have supplied yourself because a story needs one.
 
+One old result sits underneath that and is worth having exactly. Sachs, in 1967, played people recorded passages and then checked whether they noticed a sentence being altered: alterations that changed the meaning were caught, while alterations that left the meaning alone and changed only the wording were missed almost at once, after a short run of intervening speech. What survives a conversation is its meaning, and the sentences themselves go first. Hold that at its real weight, since it was a small laboratory study using recordings, with nothing at stake for the listener, and it says nothing about the ordering of turns in an argument. What it does explain is the particular thing you keep failing at, which is that you are trying to recover a sentence that was gone before the conversation had finished with it.
+
 Which is why the useful question is not where it turned. The useful question is whether the thing you came to raise ever got an answer, and that one you can answer with certainty, immediately, on any day, without reconstructing anything.
 
 ## Where Does This Hide When It Does Not Look Like Apologizing?
@@ -324,6 +336,24 @@ It hides in a written message you drafted three times, sent as a much shorter on
 It hides in the laundry, or wherever your version of that is, where you conduct the conversation you meant to have with nobody in the room and it goes extremely well.
 
 And it hides in the reasonable-sounding decision that this particular thing is not worth it, made about the ninth thing in a row, each of which was individually not worth it.
+
+## Can the Same Reversal Happen in a Meeting With My Boss?
+
+Yes, and the version at work is easier to see than the one at home, because somebody writes it down.
+
+You raise a capacity problem and the meeting turns into a conversation about your communication style. You flag a handover that did not happen and the write-up records a discussion about your attitude in the team. The same sequence runs with less heat and considerably more paperwork, and the operational point you actually came in with is missing from the outcome in exactly the way it goes missing on a driveway.
+
+Three things differ at work, and only one of them is in your favor.
+
+There is a written trail, and the trail is the part you can use. A disagreement at home leaves two accounts and nothing else. A meeting leaves a calendar entry, an email, a write-up somebody typed up afterward. If the thing you raised is absent from that write-up, you can see that it is absent, which is information a private argument never hands you.
+
+The roles are formal, and that cuts both ways. A manager has legitimate standing to raise how you communicate, so the second subject at work usually is real, which makes this far more likely to be the two-subjects case than the reversal case. It also means holding your subject costs more than social discomfort. That is a genuine constraint on you rather than a failure of nerve.
+
+And an outside description is available that is not a friend. A colleague who was in the room, a skip level, an HR contact, a union rep. The neutral read this page keeps recommending is one of the few things easier to obtain at work than anywhere else in your life.
+
+The word itself is even less usable here. It was introduced for responses to serious accusations, including the answers institutions give to complaints made against them, so saying it out loud in a review meeting converts a capacity problem into a charge about somebody's character, in writing, with your name on the complaint. Whatever was true about the capacity problem before that sentence, it is now the smaller of the two things in the room.
+
+What does transfer is the small move. Write the operational point in one sentence with a date on it, and put it somewhere that is not the conversation. Then look at the next write-up and see whether it is there. That is a check you can run without anybody's cooperation, and it produces the one thing an argument at home almost never produces, which is a written account of what was discussed and what was left out.
 
 ## What Does This Cost Over a Year?
 
@@ -398,6 +428,8 @@ One sentence and one decision, and nothing else this week.
 Open a note tomorrow morning and write the thing you originally went in to raise. Only that. What happened, on what day, in plain words. No mention of how the conversation went, nothing about their response, nothing about your tone. If you cannot write it without including the conversation, that is worth knowing on its own.
 
 Then decide one of three things about it. That it still matters and you will raise it again in that plain form. That it still matters and you will handle it another way that does not require them. Or that it has stopped mattering and you are closing it on purpose.
+
+One finding from elsewhere is worth borrowing here, with its limit attached and with no name on it, because it belongs to a broad line of work rather than to any single study. An intention written as a specific action at a specific time converts into action considerably more often than an intention held in general, and the advantage averaged across dozens of trials is one of the more reliable results in this area. The limit is the part that applies to you. That advantage shrinks toward nothing when the person is genuinely in two minds about the goal, and being in two minds is the ordinary condition of somebody deciding whether to reopen a matter with someone they live with. So write the sentence and put a day on the decision, and do not expect the writing to do the deciding for you.
 
 Do that for the next four things. Then read the four sentences together in one sitting.
 

@@ -21,7 +21,7 @@ faqs:
   q: Is being busy all the time actually a bad thing if I am getting things done?
 - a: A packed weekend contains no gaps, so nothing gets an opening to surface. A free
     one is mostly gap. That is why the hardest hours in this pattern tend to be Saturday
-    afternoon and the third day of a holiday rather than the busiest Wednesday of
+    afternoon and the third day of a vacation rather than the busiest Wednesday of
     the quarter, and why a demanding week can feel oddly steadying while a quiet one
     feels unsafe.
   q: Why does a free weekend stress me out more than a packed one?
@@ -31,7 +31,7 @@ faqs:
     response is to rebuild the structure, so the itinerary gets planned to the hour.
     The restlessness commonly eases around day four or five, which is part of why
     longer breaks feel different from long weekends.'
-  q: Why can't I relax on holiday?
+  q: Why can't I relax on vacation?
 - a: It is common, and it does two things at once. Lists genuinely help, and list-making
     can also supply a feeling of order and control while the item that actually needs
     attention stays untouched. Both can be true on the same afternoon. A useful check
@@ -109,7 +109,7 @@ faqs:
   q: Why do I feel uncomfortable when someone asks how I'm really doing?
 - a: It can be either, and the two coexist often enough that sorting them by feel
     rarely works. The distinguishing question is whether stopping is available as
-    a choice. Ambition pauses for a holiday and picks up afterwards without much drama.
+    a choice. Ambition pauses for a vacation and picks up afterward without much drama.
     A protective pattern cannot pause without distress, because pausing is exactly
     what it was built to prevent. Watch what happens on a day with nothing in it.
   q: Is constantly being on a sign of anxiety rather than ambition?
@@ -133,14 +133,14 @@ faqs:
     External load and internal rule are separate problems, and only one of them responds
     to a better calendar.'
   q: Why is modern life so hectic?
-- a: A hard worker can pause. The work points toward something wanted, so a holiday
+- a: A hard worker can pause. The work points toward something wanted, so a vacation
     interrupts it and it survives the interruption. Compulsive busyness points away
     from a present feeling and cannot sit inside an unscheduled hour, because that
     hour is where the feeling would arrive. Two people can log identical weeks with
     completely different machinery running underneath, and the difference only becomes
     visible when the work stops.
   q: How is compulsive busyness different from just being a hard worker?
-- a: A free hour that acquires a task list within minutes, a holiday planned to the
+- a: A free hour that acquires a task list within minutes, a vacation planned to the
     hour, a new project begun before the last one is closed out, guilt attached to
     a nap, a rundown of tasks offered when somebody asks how you are, and irritation
     at watching another person sit still. Any one of those alone means little. Four
@@ -251,14 +251,14 @@ Read these before any of the explanation. The recognition tends to arrive on one
 - "I fear that if I slow down or relax, everything will fall apart."
 - "I'm not meant to have an easy or relaxed life."
 
-What it costs is the five minutes after something finishes, then the free Saturday, then the holiday, all of them filled before you decided anything.
+What it costs is the five minutes after something finishes, then the free Saturday, then the vacation, all of them filled before you decided anything.
 
 [How the seminar works with the hour you will not leave empty](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
 You finish something. There are five minutes before the next thing needs to start, and somewhere inside those five minutes a tab is open, or a chore has been found, or an errand has been remembered, all of it arriving before you decided anything.
 
-If that one landed, several of the others will too. A Saturday with nothing in it produces a low hum of dread rather than relief, and by eleven in the morning there is a task list anyway. The day after a big project ships, the day that was supposed to feel like something, gets filled by lunchtime with the next project, occasionally before the last one has been properly closed out. A friend asks how you are, really, during a slow moment, and what comes out is an inventory of everything you are currently juggling. A holiday gets planned to the hour, because three in the afternoon in a hotel room with nothing scheduled feels worse than a Tuesday at your desk. And watching somebody sit and read for an hour produces a flicker of irritation, or a private verdict about them, instead of nothing at all.
+If that one landed, several of the others will too. A Saturday with nothing in it produces a low hum of dread rather than relief, and by eleven in the morning there is a task list anyway. The day after a big project ships, the day that was supposed to feel like something, gets filled by lunchtime with the next project, occasionally before the last one has been properly closed out. A friend asks how you are, really, during a slow moment, and what comes out is an inventory of everything you are currently juggling. A vacation gets planned to the hour, because three in the afternoon in a hotel room with nothing scheduled feels worse than a Tuesday at your desk. And watching somebody sit and read for an hour produces a flicker of irritation, or a private verdict about them, instead of nothing at all.
 
 One plain thing before the rest. If what you are carrying includes an exhaustion that sleep no longer touches, months of hopelessness that will not lift, or any thought of harming yourself however briefly it passes, that belongs with a doctor or a crisis line today rather than with a page like this one. There is a fuller version of that boundary a few sections down.
 
@@ -299,11 +299,25 @@ Two less obvious situations belong there too. If the pace is running your body d
 
 The second one is specific to this pattern and gets missed. If the activity is currently holding off a recent bereavement, a separation, or a loss you have not yet looked at directly, then deliberately creating quiet is a much bigger move than it sounds, and it is worth having somebody with you when you do it rather than trying it alone on a Saturday. There is a real difference between an old habit of filling time and a wall you built three months ago because you genuinely needed one. The first responds well to practice. The second usually needs company.
 
+## Why Do I Keep Myself Busy Even When Nothing Is Urgent?
+
+Because urgency was never what the activity was answering. What it answers is the gap, and a gap opens widest on exactly the days when nothing is pressing.
+
+Notice the verb in that question, because it is doing real work. Being busy happens to you. Keeping yourself busy is something you supply, and the supply runs most reliably when the outside demand runs out. A deadline week needs no help from you. A quiet Wednesday does, and you provide it, usually within the hour, usually with something that would look entirely reasonable to anybody who asked.
+
+One experimental result maps onto this closely enough to be worth naming precisely. It is named here by its title rather than by its authors, because the lead author already appears on this site for an unrelated finding and one surname should not end up standing for two different things. A 2010 paper in Psychological Science called Idleness Aversion and the Need for Justifiable Busyness reported two experiments in which people given a wait chose to stay still when there was no reason to move, and chose the activity as soon as a reason was supplied, including a reason the authors themselves describe as specious. Participants who ended up busy reported being happier than participants who stayed idle, and that held even where the busyness had been imposed rather than chosen. The conclusion the authors draw is the uncomfortable half of it: a good deal of what people pursue may be functioning as justification for staying busy rather than as the thing actually wanted.
+
+Hold that at its real weight. It is a short laboratory wait with a supplied choice, run on volunteers, and it says nothing at all about where any individual person's dread of an empty interval came from. What it does establish is that the reason often gets recruited after the fact, which is exactly the experience of finding yourself twenty minutes into an errand you would struggle to justify if somebody stopped you and asked why now.
+
+There is a version of this that runs across a whole working day, where the day itself has no edge and nothing internal ever calls it finished. That is a related pattern with a page of its own: [what happens when only something outside you ever stops the work](/patterns/only-stopping-when-something-stops-me/).
+
 ## Is This Ambition, or Is It Avoidance?
 
 Check the direction, then check an empty day.
 
-Ambition points toward a wanted future. It can pause, because pausing does not threaten it. A holiday interrupts an ambitious project and the project is still there afterwards, unharmed by three weeks of nothing. Compulsive busyness points away from a present feeling, and it cannot tolerate an unscheduled hour, because the unscheduled hour is precisely where the avoided feeling would arrive. Same calendar, same output, entirely different job being done.
+Ambition points toward a wanted future. It can pause, because pausing does not threaten it. A vacation interrupts an ambitious project and the project is still there afterward, unharmed by three weeks of nothing. Compulsive busyness points away from a present feeling, and it cannot tolerate an unscheduled hour, because the unscheduled hour is precisely where the avoided feeling would arrive. Same calendar, same output, entirely different job being done.
+
+That split has a name in the motivation literature, where approach motivation is described as organized around reaching something wanted and avoidance motivation as organized around not arriving somewhere unwanted; [the page on canceling plans carries the citation and the researchers behind it](/patterns/canceling-plans/), so what sits here is the model rather than a second attribution. Keep the limit in front of you: that work was built and measured on social and achievement goals rather than on unscheduled hours, so it gives you the shape of the distinction and not a score you can put on your own week.
 
 That distinction matters more than any amount of introspection about motivation, because the two feel almost identical from the inside. Both produce long hours. Both get praised. Both come with a sense of purpose while the work is actually happening. The difference only becomes visible when the work stops, which is exactly the condition this pattern has arranged never to occur.
 
@@ -338,6 +352,8 @@ From four fairly different childhoods that converge on the same adult calendar.
 
 Most people recognize one route strongly and a second faintly. The routes are not mutually exclusive, and a household can supply three of them at once without anybody involved intending anything of the kind.
 
+The fourth route is the one with measured work behind it. Adults who recall a parent's warmth arriving attached to their performance report, at higher rates, still running the behavior under internal pressure rather than choice, with the satisfaction after a success draining off quickly; [the citation and the researchers' names sit on the page about learning to like yourself](/patterns/how-to-love-yourself/), so what is here is the finding rather than a second attribution. The limit lives in the method, which is grown adults rating their own remembered childhoods on questionnaires, and that cannot separate what happened from how it is being remembered now.
+
 Not every case traces back to a parent. A school where standing was published in rank order every term. A first job under a manager who spoke only to correct. A stretch where the household finances genuinely did depend on you being relentless. A field that measures people in visible units and says so out loud. The mechanism holds across all of them: stopping became expensive, often enough that not stopping became automatic.
 
 ## What Is All the Activity Actually Protecting?
@@ -364,7 +380,7 @@ Because the gap is where the feeling gets its opening, and five minutes is long 
 
 Watch which moments in your week are actually the hard ones. Almost nobody in this pattern struggles at ten o'clock on a Wednesday with three deadlines running. The difficulty shows up in the seam: the pause after a call ends, the twenty minutes before dinner, the stretch between finishing and starting. The seam is short enough that nothing has to be planned in it, and long enough that something can surface.
 
-That is why a free weekend can be harder than a packed one. A packed weekend has no seams. A free one is mostly seam. It is also why a holiday can be worse than an ordinary week rather than better, since time away strips out every container that normally holds the activity, the job, the commute, the standing list, and leaves unstructured hours in an unfamiliar room. The common repair is to rebuild the containers on the spot, which is how a rest becomes an itinerary planned to the hour.
+That is why a free weekend can be harder than a packed one. A packed weekend has no seams. A free one is mostly seam. It is also why a vacation can be worse than an ordinary week rather than better, since time away strips out every container that normally holds the activity, the job, the commute, the standing list, and leaves unstructured hours in an unfamiliar room. The common repair is to rebuild the containers on the spot, which is how a rest becomes an itinerary planned to the hour.
 
 The same mechanic explains the small stuff. Silence in a room removes the activity doing containment work, and the phone reinstates it inside a second. The reach happens before any decision, which makes it very hard to catch and very easy to dismiss as nothing. Overcommitment works one level up: signing up for more than the calendar can hold guarantees a legitimate reason to stay busy, and a full calendar built from genuine obligations cannot be argued with by anybody, including you. That is a large part of its appeal, and it is why this often intensifies as somebody becomes more capable and more in demand rather than easing off.
 
@@ -374,7 +390,7 @@ In seven arenas, and most people recognize two or three before recognizing the r
 
 | Where it shows up | What it looks like from outside | The sentence underneath |
 |---|---|---|
-| With unscheduled time | A free Saturday that has a task list by eleven, a holiday planned to the hour | "I can't relax; there's always more to do." |
+| With unscheduled time | A free Saturday that has a task list by eleven, a vacation planned to the hour | "I can't relax; there's always more to do." |
 | At work | Saying yes to more than the calendar can hold, a new project begun before the last one is closed out | "People will think I'm lazy if I'm not always busy." |
 | With decisions | Research, comparison and planning that circle something for months without converting into action | "I must constantly be improving myself." |
 | With rest | A nap that produces guilt, downtime that needs a justification drafted first | "Relaxation is a reward, not a necessity." |
@@ -386,13 +402,51 @@ The decisions row is the one people defend hardest, and it deserves a word on it
 
 The rest row is where the cost accumulates fastest. Recovery gets deferred until the body enforces it, which means the rest you eventually take is far more expensive than the rest you refused. And because the guilt is loudest on the quiet Saturday rather than during the busy week, this pattern systematically withholds recovery at exactly the point it is most available.
 
-Compulsive list-making sits across several rows at once and confuses people, so it is worth being precise. Lists do genuine organisational work, and list-making can also supply a feeling of order and control while the thing that actually needs attention stays untouched. Both are true, frequently in the same person on the same afternoon. The check is whether the list ever converts into the difficult item, or whether the difficult item keeps getting rewritten in neater handwriting.
+Compulsive list-making sits across several rows at once and confuses people, so it is worth being precise. Lists do genuine organizational work, and list-making can also supply a feeling of order and control while the thing that actually needs attention stays untouched. Both are true, frequently in the same person on the same afternoon. The check is whether the list ever converts into the difficult item, or whether the difficult item keeps getting rewritten in neater handwriting.
+
+## Why Do I Work on the Days I Say I Take Off?
+
+Because a day gets its name in advance and its contents afterward, and the name is what gets remembered.
+
+Ask somebody carrying this how many days off they had in the last four weeks and the answer comes straight off the calendar. Four, maybe six. Ask instead how many of those days contained no work at all, nothing answered, no catching up while dinner cooked, no quick look at something that could have waited until morning, and it usually comes down to one, or none at all. Both answers are given sincerely. The first reports what the days were called and the second reports what happened inside them.
+
+The test earlier on this page asks you to deliberately empty a Saturday. This one costs nothing to arrange, because the days have already happened. It reads the ones you already believe were free, which is where the misreport lives. A day off exists on the calendar. Whether it existed in the week is a separate question.
+
+Counted that way, the days split two ways, and the difference between them matters far more than the total.
+
+In the first kind, the hours were chosen over something. There was a person, a plan, an afternoon with a shape to it, and the work won. You could say what lost. That is a decision about what comes first, repeated so often it stopped registering as one, and it moves once it becomes visible.
+
+In the second kind, nothing lost, because nothing stood opposite it. The hours fill a day that would otherwise be spent alone in an apartment with the afternoon still to get through. This version gets read as discipline by everybody watching, including you, and rearranging the week does not touch it, because the week never put the work there. [The same empty day can produce the opposite behavior, where nothing gets done at all](/patterns/spending-the-whole-weekend-in-bed/), and the unstructured day underneath is the same one.
+
+[If a free day holds until the guilt arrives and then turns back into a working day](/patterns/why-do-i-feel-guilty-when-i-rest/), that is the piece to read next. If no day ever reaches a point where the work is done, that belongs with [the day with no finish line](/patterns/only-stopping-when-something-stops-me/). And if the interesting part is what you tell people about those days rather than what happened inside them, [that sits with the pattern about saying you are busy](/patterns/saying-im-busy/).
+
+Go back through the last four weeks tonight. Mark the days you would have called off, then mark the ones where nothing got done. If the two sets of marks land on different days, you have the answer, and nothing had to be cleared to get it.
+
+## How Does Compulsive Busyness Show Up at Work With a Boss?
+
+As the most rewarded version of it, which is why work is the last place anybody thinks to look.
+
+The work row in the table above covers the mechanics: yes said to more than the calendar can hold, a new project opened before the last one is closed. What a manager adds is an audience. Somebody is now watching the output, and this pattern already treats visible activity as proof of being alright, so the two lock together neatly. A standing meeting where you run through what you are carrying becomes a place to be reassured. An appraisal that praises volume becomes evidence for the rule. Nobody in that chain is doing anything wrong, and every part of it makes the pattern stronger.
+
+Three shapes show up often enough to be worth naming.
+
+The first is the pre-emptive yes. A request arrives and the answer leaves before the calendar has been consulted, because a pause would need explaining and an explanation would draw attention to how full the week already is. The yes spares you a conversation, and it buys another legitimate reason to stay busy, which is what the pattern wanted anyway.
+
+The second is manufactured visibility during quiet stretches. Almost every job has slow weeks. In a slow week this pattern does not rest. It finds a project, drafts a proposal, tidies a process nobody asked about, and the work is often genuinely good, which is what keeps it invisible. It is also why a slow quarter can leave somebody more depleted than a busy one.
+
+The third is the unclosed finish. A piece of work lands and the next one starts before anybody has said anything about the first, which removes the gap and removes the chance of hearing whether it was any good in the same movement. People carrying this frequently report never having been told, and then notice that they were never still long enough for the telling.
+
+Two nearby things belong to other pages rather than to this one. If the day itself has no edge, if there is no point at which the work is done and only an outside interruption ever ends it, [that pattern is written up separately](/patterns/only-stopping-when-something-stops-me/), including why a diary with nothing spare in it does such reliable work. And if the interesting part is the word busy as a way of declining things, [that has its own page too, along with the research on how busyness gets read by other people](/patterns/saying-im-busy/).
+
+What helps at work is smaller than a conversation with your manager. Leave twenty minutes unbooked after anything that finishes. Wait one hour before answering the next request that lands on an already full week. Neither one asks anybody else to change, and both put a seam back into a day that has been carefully built without any.
 
 ## Why Does Somebody Else Sitting Still Make You Irritated?
 
 Because their ease looks like a permission slip you were never issued.
 
 The irritation almost never has anything to do with the person. If rest had to be earned in your house, then somebody resting without having earned it registers, below the level of thought, as a rule being broken. Nobody consciously thinks that. What arrives is a flat verdict about them: lazy, unmotivated, coasting. The verdict feels like an assessment of their character and is actually a report on your own terms of employment.
+
+There is a reason the verdict arrives in moral language rather than as a preference. Celniker and colleagues reported in 2022, in the Journal of Experimental Psychology: General, that people judge visible effort as morally admirable and reward it with money across paid employment, personal fitness and charitable fundraising, even where the extra effort adds nothing to the product, the quality or the value produced, with the same pattern appearing in South Korean and French replications. The limit is that this measures how observers rate described strangers and staged tasks rather than why your own rest has to be earned, so it accounts for the moral flavor of the flicker and not for its origin in your house.
 
 Underneath the irritation there is usually something simpler and harder to admit, which is envy. Not envy of their afternoon specifically, but of the idea of being allowed to have one without first producing a reason for it. That is why the flicker tends to be sharpest with the people closest to you, a partner on the sofa, a housemate reading, a sibling who genuinely seems fine doing less. Distance makes other people's rest easy to ignore. Proximity does not.
 
@@ -406,7 +460,7 @@ The day a project ships should be the day something lands. Instead the next thin
 
 There is a second mechanism working alongside this one, where achievement functions as a bid for approval rather than as something wanted for its own sake, so the satisfaction is supposed to arrive from outside and mostly fails to land. [That valuation runs underneath the calendar and has a page of its own](/patterns/conditional-self-worth/), and it is worth reading if the flatness after a win is the part that bothers you most. The piece that belongs here is narrower: even when a finish does land, this pattern will not leave it a room to land in.
 
-I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What I got wrong for the longest time was assuming the problem was the workload. I kept optimising the calendar, and a better calendar just produced a more efficient version of the same avoidance, with cleaner columns. What actually moved it was smaller and considerably duller than any of that: sitting in an unplanned hour often enough that it stopped reading as an emergency. Where it sits today is worth saying plainly. The reach for something to do is still the first thing that happens when a day empties out, and these days I notice it before I obey it, most of the time.
+I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What I got wrong for the longest time was assuming the problem was the workload. I kept optimizing the calendar, and a better calendar just produced a more efficient version of the same avoidance, with cleaner columns. What actually moved it was smaller and considerably duller than any of that: sitting in an unplanned hour often enough that it stopped reading as an emergency. Where it sits today is worth saying plainly. The reach for something to do is still the first thing that happens when a day empties out, and these days I notice it before I obey it, most of the time.
 
 ## What Does Meaningful Activity Actually Look Like?
 
@@ -438,6 +492,8 @@ Small unscheduled gaps, taken deliberately, with whatever surfaces in them left 
 
 The reason it has to be that, rather than a mindset shift or a better system, is mechanical. The busyness is protecting against a feeling: loneliness, being caught short, disappointing or burdening somebody, being unworthy without output. A planner does not touch a feeling. Neither does an insight, which is why people who understand this pattern perfectly still invent an errand at nine on a Sunday. What updates a protective strategy is direct experience of the protected situation turning out to be survivable, collected enough times that the nervous system stops treating it as news.
 
+One thing about the evidence before the list. No study I can find has measured these eight steps as a package, so this is a practice built out of the mechanism rather than a protocol somebody has trialed and reported, and the nearest measured neighbor, that keeping a written count of your own behavior tends to change the behavior being counted, sits [on the page about anger arriving sideways](/patterns/expressing-anger-sideways/) with its citation attached. That neighbor carries its own limit, since an effect produced by watching yourself can fade once the watching stops, which is a reason to keep the writing down to one line rather than to build a system around it.
+
 1. **Take ten unstructured minutes and refuse to resolve them.** No phone, no book, no list, no plan. Set a timer so you are not also managing the clock. The discomfort that arrives somewhere around minute three is the entire material of this exercise, and the instruction is to stay with it rather than to do anything about it.
 2. **Name what arrives, once, in plain words.** Not analyze it, not solve it. One word or one short sentence is enough. Lonely. Behind. Afraid I am wasting this. Naming builds the route from noticing to saying, and that route gets built by traffic rather than by depth.
 3. **Leave one gap in the week and defend it from yourself.** Put an hour in the calendar with nothing in it. The threat to that hour is you at nine on Thursday, holding a reasonable-sounding errand, and knowing that in advance is most of what it takes to keep it.
@@ -457,12 +513,32 @@ Months rather than weeks, and the honest answer runs at two speeds.
 
 Recognition arrives quickly. Most people can catch the reach mid-flight within a few weeks of deliberate attention: the moment the tab opens, the moment the errand gets invented, the moment the free Saturday acquires a list. Catching it counts fully even on the days you go ahead anyway. Watching yourself manufacture a task while knowing exactly what you are doing feels terrible and is a genuine step forward.
 
-The reflex takes far longer, because the nervous system learned busyness as safety, sometimes decades ago, and a single insight does not unlearn a survival strategy. Repetition does. Reading this page changes remarkably little on its own. Fifty unstructured ten-minute gaps, sat through without being resolved, change a great deal. Expect it to move in one area first, usually evenings before holidays. Expect it to regress hard during financial pressure, a new job, or any stretch where somebody is watching your output closely. None of that means the work stopped taking.
+The reflex takes far longer, because the nervous system learned busyness as safety, sometimes decades ago, and a single insight does not unlearn a survival strategy. Repetition does. Reading this page changes remarkably little on its own. Fifty unstructured ten-minute gaps, sat through without being resolved, change a great deal. Expect it to move in one area first, usually evenings before vacations. Expect it to regress hard during financial pressure, a new job, or any stretch where somebody is watching your output closely. None of that means the work stopped taking.
 
-Does it disappear? Most people describe it loosening rather than vanishing. The gap between the urge and acting on it gets longer. The free Saturday stops needing a list by eleven, then stops needing one at all, then one day passes without you noticing that it did. That last part, noticing afterwards rather than during, is what the change actually looks like from the inside, and it is considerably less dramatic than anybody hopes.
+A number would be useful here and I do not have an honest one, because I have found no study measuring how long tolerance for unstructured time takes to build. The nearest measured quantity is how long a new daily behavior takes to run without deliberation, reported at a median of around sixty-six days with individual times running from under three weeks to well past two hundred, and [the page on motivation running out carries that work with its citation](/patterns/why-does-motivation-always-run-out/); the limit is that those were simple daily behaviors chosen by volunteers rather than the deliberate tolerating of an empty hour, which makes the spread the useful part and the median close to meaningless for you.
+
+Does it disappear? Most people describe it loosening rather than vanishing. The gap between the urge and acting on it gets longer. The free Saturday stops needing a list by eleven, then stops needing one at all, then one day passes without you noticing that it did. That last part, noticing afterward rather than during, is what the change actually looks like from the inside, and it is considerably less dramatic than anybody hopes.
+
+## How Is Compulsive Busyness Measured in Research?
+
+Mostly by proxy, and the distance between the proxies and the thing on this page is worth seeing clearly before you go looking for a number to put on yourself.
+
+No instrument measures an hour you will not leave empty. What instruments do measure falls into four groups, each one adjacent to this pattern without being it.
+
+Hours are the first and the crudest. Time-use records and self-reported working hours are easy to collect and they answer a question this page has not asked, since somebody can work sixty hours because the job genuinely demands sixty hours and then go on vacation without incident.
+
+Attitudes toward work are the second, and they get closer. The measurement work there separates working a great deal from working compulsively, which is the exact distinction this page turns on; [the page on the day with no finish line carries that scale and its citation](/patterns/only-stopping-when-something-stops-me/).
+
+How busyness is read by other people is the third, measured by showing participants a described stranger and asking them to rate that person. Useful, and about perception rather than about anybody's Saturday; [the page on saying you are busy holds that research and handles it carefully](/patterns/saying-im-busy/).
+
+What people do when left alone with nothing is the fourth and the closest of the four. The best known experiment in that group put participants in a bare room with their own thoughts for a few minutes and recorded how unpleasant they found it; [that study is written up in full on the page about filling every silence](/patterns/filling-every-silence/), including the half everybody quotes and the half everybody drops.
+
+Two structural limits apply to nearly all of it. Almost every measure is self-report, so it records what somebody is willing to say about themselves on a form. And almost all of it is collected at a single moment rather than across months, which means it can show that two things travel together and cannot show which one arrived first, and that is precisely the question you would want answered.
+
+One further finding belongs in a section about measurement, because it applies to you rather than to the researchers. Etkin reported in 2016, in the Journal of Consumer Research, that measuring an activity increases how much of it people do while at the same time reducing how much they enjoy it, by pulling attention onto output until an enjoyable activity begins to feel like work. Six experiments, and the effect ran without any external reward attached to it. Set that against the short written record suggested at the end of this page. Keep it to one line an evening, keep it about what showed up rather than about a score, and stop once it has told you something, because the urge to turn it into a tracked number is the same urge this whole page is about.
 
 ## What Is One Thing to Do Today, Before You Fill the Next Free Evening?
 
 Pick the ten minutes tonight that you would normally fill. Sit down without a phone, a book, a list, or a plan, and set a timer so you are not also watching the clock. When it goes off, write one line: what showed up, and what you reached for first. Do that three evenings in a row, then read the three lines together on the fourth. Most people find close to the same word in all three, and finding that word is worth considerably more than another month of trying to be more disciplined about the calendar. It costs you thirty minutes across four days, and it is worth doing whether or not you ever go anywhere or buy anything.
 
-If what pulls at you is the stillness itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the dependable, useful, endlessly capable person cannot quietly become the one who helps everybody else and never takes a turn, and long unstructured stretches left in the schedule on purpose, with integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out what has been waiting in the hours you keep filling is rarely wasted, whatever you decide afterward.
+If what pulls at you is the stillness itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the dependable, useful, endlessly capable person cannot quietly become the one who helps everybody else and never takes a turn, and long unstructured stretches left in the schedule on purpose, with integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out what has been waiting in the hours you keep filling is rarely wasted, whatever you decide afterward.

@@ -135,7 +135,9 @@ It looks like the smoke alarm you did not change the battery in, and the battery
 
 Twenty of those across a month produces a month that feels completely ordinary from where you are standing, and a month in which a person living with you has done a set of things they never agreed to do and cannot point at the moment they agreed.
 
-## What Is the Name for This, and How Much of It Holds Up?
+## What Is Weaponized Incompetence, and Is It a Real Research Term?
+
+No, it is not a research term, and that matters less than people expect, because the behavior it points at is real and the word attached to it is the part that fails.
 
 The name is **weaponized incompetence**, and it is worth being honest about what kind of thing it is before you accept it about yourself.
 
@@ -179,7 +181,9 @@ If the shame around this is heavy enough to be affecting your sleep, your eating
 
 And if there is any thought of harming yourself, that belongs with a licensed professional now rather than later, and everything else here can wait indefinitely.
 
-## Why Does the Word "Weaponized" Get the Mechanism Backward?
+## Does Doing a Task Badly Enough That Someone Takes Over Mean I Planned It?
+
+Usually not, and the word weaponized is what reverses the actual sequence.
 
 Because it starts at the outcome and reasons backward to an intention that mostly is not there.
 
@@ -188,6 +192,8 @@ Look at what an observer actually has. They have a list of tasks that migrated. 
 Now look at what you have. You have a series of separate occasions, spread across a decade, each of which felt like nothing at the time. You have no memory of choosing. When you search for a moment of calculation you come up empty, and the emptiness feels like a defense you cannot use, because saying you did not mean to sounds exactly like what somebody who meant to would say.
 
 Both accounts are honest. They are describing different things. The observer is describing the shape of a decade. You are describing the inside of a Tuesday.
+
+There is a measured version of that gap and it is a good deal smaller than the popular one: a 2006 meta-analysis in Psychological Bulletin pooled 173 published studies of the idea that people explain their own behavior by circumstance and other people's by character, and found the average effect close to zero, which retires the claim in its general form. What survived the pooling is narrow and it happens to describe your situation exactly, because the gap did hold for negative events and when the actor and the observer were close to each other, which makes the disagreement between the two of you real and makes it no kind of proof that either account is the accurate one.
 
 There is a version where the plan is real, and pretending otherwise would be dishonest. Some people do work out that a particular result gets them out of a particular job, and repeat it knowingly, and could describe the strategy if you asked them under oath. That version exists. It is a minority, and if it is you, you already knew before opening this page, and you will not have needed the paragraph about relief.
 
@@ -301,13 +307,15 @@ Then learning the task costs you a story, and the story is more expensive than t
 
 This root is uncomfortable and it is common in people over forty. What began as a description of some Tuesdays has hardened into a settled fact about your nature, and you now defend it. Somebody suggests the thing is learnable and something in you goes tight. That flash of irritation is the whole root, visible in about a second, and it shows up around identity far more reliably than it shows up around ability.
 
-The reason it is defended is worth stating plainly, because it is not stupidity. If the thing turns out to be learnable in a fortnight, then the last eleven years of not doing it were avoidable, and somebody else carried them, and that bill arrives all at once. A settled incapacity is cheaper than an eleven-year invoice. It is also more comfortable socially: it is a fixed feature people have stopped commenting on, and turning it into a live question puts the commenting back.
+The reason it is defended is worth stating plainly, because it is not stupidity. If the thing turns out to be learnable in two weeks, then the last eleven years of not doing it were avoidable, and somebody else carried them, and that bill arrives all at once. A settled incapacity is cheaper than an eleven-year invoice. It is also more comfortable socially: it is a fixed feature people have stopped commenting on, and turning it into a live question puts the commenting back.
 
 The tell is that you can hear yourself say it. The sentence is worn smooth from use. It has a rhythm. Sometimes it gets a laugh, and you can feel the laugh coming before you have finished the sentence.
 
 The second tell is that you defend it against evidence. Somebody points out that you learned three complicated things last year. You have a reason why those were different. You will have a reason ready before they finish speaking, which is what a defended position looks like from the inside.
 
-## Which of the Five Is Yours, and How Would You Know?
+## How Can I Tell Whether I Lack the Skill, Face an Impossible Standard, or Just Want Relief?
+
+Which of the five roots above is yours can be worked out, and those three are the ones people most often mistake for each other.
 
 Judge it by evidence you already have rather than by which description sounds least bad.
 
@@ -320,6 +328,26 @@ Judge it by evidence you already have rather than by which description sounds le
 | Someone says it is learnable and you go tight | It is now identity | You have a counter-argument ready before they finish | Deciding whether the story is worth what it costs |
 
 Two things about the table. Most people are a blend, usually of the third row and one other, and the dominant one is what to work from. And the last row is the one people skim, so if you moved through it quickly, that is worth a second look.
+
+## Why Do I Announce That I Am Hopeless Before I Even Try?
+
+Because the sentence works, it works before anything has happened, and nothing about it requires you to refuse anybody.
+
+Notice the timing, because the timing is the whole tell. An excuse after the failure is ordinary and everybody produces them. A statement of incapacity issued before the attempt is a different object entirely. It arrives while the result is still theoretical, so there is nothing yet to check it against, and by the time a result exists the frame is already set: whatever happened, it was predicted. The section above on the term itself calls that self-handicapping and deliberately does not attach a researcher to it.
+
+Four things the sentence does that a plain refusal does not.
+
+**It intercepts the request before it becomes one.** You never say no, because nothing was ever asked. A refusal has to be delivered to a person and can be discussed, and the discussion is the risk. A disclaimer arrives ahead of the question and closes the route without anybody noticing that a route was closed.
+
+**It is funny, and a laugh closes a subject.** The line gets a small laugh and the laugh does the work. Nobody cross-examines a joke, and the person who was going to ask you now has a reason not to that feels like their own.
+
+**It claims capacity rather than willingness.** I cannot and I will not sit in completely different categories. One of them invites an argument about your character. The other invites sympathy, or at worst a shrug, and neither of those ends with the task arriving anyway.
+
+**It gets repeated by other people.** This is the part nobody sees coming. Say it often enough and it stops being your line. Somebody else says it for you, in front of other people, as a plain fact about you, and the belief is now maintained outside your head by people who like you.
+
+The cost is small on each occasion and it accumulates in one direction only. Every saying adds a little to the list, and the list is the thing on this page that has never once shrunk. That is why the practical move here is to leave the sentence out one single time rather than to resolve to be a different person.
+
+One limit worth stating plainly. The laboratory work on announced handicaps was done on scored tasks inside single sessions, with volunteers stating an obstacle in advance and then being measured on something that carried a score. Nobody has established whether announcing incapacity at home causes the transfer or merely travels alongside it, so hold the mechanism as a description that fits rather than as something demonstrated in anybody's house.
 
 ## Where Does This Hide When It Does Not Look Like a Chore?
 
@@ -338,6 +366,26 @@ In every domain with a visible standard and somebody nearby who meets it.
 **In relationships themselves.** Being no good at cards, at calling your mother, at remembering when things are. Announced as a personality trait, functioning as an exemption.
 
 **At work.** The minutes you no longer take. The system you are known for not understanding. The client nobody routes to you. Each of those left your job without a conversation, and laid end to end they describe a role that has been narrowing for years in a direction you did not pick.
+
+## How Does This Pattern Show Up With a Boss or at Work?
+
+The same way it does at home, with politer vocabulary and a paper trail you can actually read.
+
+Nobody at work will use the popular phrase to your face. What gets used instead is the language of fit. Not really your strength. We will put somebody else on that one. Better to play to strengths. Every one of those sentences is considerate, most of them are meant kindly, and the effect is identical to the version at home: a task leaves you permanently, and no conversation is ever held about it leaving.
+
+Three things are different at work, and two of them are worse.
+
+**The transfer is close to one-way.** At home the task comes around again next week, so there is always another occasion. A task that has left a job does not come back, because there is no natural next occasion and no reason for anybody to reopen an arrangement that is working. Roles narrow by removal, and removal is silent.
+
+**The bill arrives in a currency that never mentions the tasks.** It turns up years later as a conversation about seniority, or about what you are being considered for, and you are weighed against people whose lists grew while yours shrank. Nobody in that room will connect it to the report you stopped producing in 2021.
+
+**The evidence is written down, and that is the one real advantage the work version has.** The home version leaves no record and comes down to your memory against somebody else's. The work version leaves a trail: the meeting series you stopped being invited to, the distribution list you quietly came off, the system you have never had a login for, the client who got routed elsewhere. That is checkable, and almost nobody checks it.
+
+The announcement behaves differently here too. Said at home it is a small joke. Said at work it is heard as somebody being realistic about themselves, which is an admired quality, so the line is frequently praised on the way to closing the subject permanently.
+
+Same audit, one extra column. What left, roughly when, and whether anybody ever discussed it leaving. Most people find that the middle column clusters into one or two short periods, and that the third column is empty the whole way down.
+
+One honest limit. None of this has been measured. There is no workplace research on this pattern under any name, the household research does not carry over to an office, and what you have just read is the same mechanism applied to a different room by somebody who has watched it happen rather than counted it.
 
 ## Who Actually Pays for This, and How?
 
@@ -409,7 +457,9 @@ Almost everybody spends that moment doing one of two things. Deciding, privately
 
 Catching an absence is the actual skill, and it is learnable. It sounds like this: it is Thursday, the grocery order is presumably happening, and nobody has mentioned it to me. That thought, once, is worth more than a month of resolving. It does not require you to act on it. It only requires you to have it.
 
-## What Does the Other Person Actually Experience?
+## What Does My Partner Experience When I Keep Handing Tasks Back?
+
+What follows runs with anybody who ends up holding what you handed back, and it runs hardest with the person you live with.
 
 A sequence they can describe badly and feel completely, which is a particular kind of corrosive.
 
@@ -484,6 +534,8 @@ Expect the whole thing back under exhaustion, during illness, in the first month
 From a small amount of relevant published work and a much larger amount of watching people describe this in rooms, and the two are worth separating.
 
 The research side is thinner than the subject deserves and I would rather say so than dress it up. Lachance-Grzela and Bouchard published the review of a decade of household labor research in Sex Roles in 2010, which is where the three families of explanation come from and where the honest conclusion that none of them fully accounts for the gap comes from as well. Daminger published the interview study of the cognitive dimension of household labor in the American Sociological Review in 2019, which is where the separation of anticipating, identifying, deciding and monitoring comes from. Kamo published the comparison of husbands' and wives' separate reports on the same households in Social Science Research in 2000, which is the basis for treating confident percentages carefully.
+
+The 2006 meta-analysis in Psychological Bulletin that pooled 173 studies of the actor and observer asymmetry is where the section on whether you planned it gets its numbers, and I have named it by year and journal rather than by its author, who is already cited elsewhere on this site for unrelated work.
 
 Self-handicapping I have deliberately described without attribution. The 1978 paper that named it, and the later distinction between announcing a handicap and building one, are both carried properly on other pages of this site in contexts where they fit better, and repeating a citation across three pages makes a set of writing feel assembled rather than thought about. Where the finding matters more than the attribution, I have named the finding.
 

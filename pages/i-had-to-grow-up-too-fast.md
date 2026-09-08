@@ -39,7 +39,7 @@ faqs:
     readiness for it. None of them is a diagnosis, and each describes the same trade
     from a slightly different angle.
   q: What is it called when you grow up too fast?
-- a: Mostly in the ordinary parts of a week. Holidays get planned to the hour. You
+- a: Mostly in the ordinary parts of a week. Vacations get planned to the hour. You
     end up running the logistics at gatherings you were invited to enjoy. Every hobby
     acquires a metric. An empty evening arrives and something in you immediately goes
     looking for a task. Teasing lands harder than the joke deserves, and rest only
@@ -135,7 +135,7 @@ faqs:
     group without anybody choosing it. Plenty of people described as old souls were
     simply never given the option of being young ones.
   q: Why do I feel like the old soul or the serious one in every friend group?
-- a: Because the job is familiar and the alternative is unpractised. Holding logistics
+- a: Because the job is familiar and the alternative is unpracticed. Holding logistics
     gives you a defined place in the group, an obvious contribution, and something
     to do while everybody else drifts. The tell is what happens when somebody offers
     to take it off you. If handing over the booking produces unease rather than relief,
@@ -363,7 +363,7 @@ In more places than the obvious one, and most people recognize themselves in two
 
 | Where it shows up | What it looks like from outside | What is actually happening |
 |---|---|---|
-| Holidays | An itinerary built before the flights are booked, every day accounted for | An unplanned week leaves nothing between you and the discomfort of having nothing to hold |
+| Vacations | An itinerary built before the flights are booked, every day accounted for | An unplanned week leaves nothing between you and the discomfort of having nothing to hold |
 | Friends' gatherings | You host, cook, drive, and run the logistics without being asked | Being useful is a role you know how to occupy. Goofing around comes with no role attached |
 | Career | A path chosen for stability rather than for interest | Wanting something because you enjoy it was rarely affordable, so it stopped being a category |
 | Hobbies | Everything you do has an outcome, a metric, or a certificate at the end | An interest with no justification attached still has to be defended, mostly to yourself |

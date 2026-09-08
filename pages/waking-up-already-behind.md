@@ -34,7 +34,7 @@ faqs:
 - q: "What is the cortisol awakening response?"
   a: "It is the sharp rise in cortisol that happens in roughly the first thirty to forty-five minutes after you wake. Pruessner and colleagues described it in 1997 and it has been measured many thousands of times since. It happens whether you feel calm or frantic, so on its own it cannot explain a bad morning. Treat it as the engine starting rather than as the reason you are unhappy about the drive."
 - q: "Does the morning cortisol rise get bigger before a hard day?"
-  a: "It appears to. Thorn and colleagues reported in 2006 that the response was smaller at the weekend than on a working day, and Kunz-Ebrecht and colleagues found the same weekday difference in a large group of British civil servants. So the rise is not indifferent to what is coming. The honest limit is that this measure is unusually hard to collect accurately, which the section on evidence sets out."
+  a: "It appears to. Thorn and colleagues reported in 2006 that the response was smaller on the weekend than on a working day, and Kunz-Ebrecht and colleagues found the same weekday difference in a large group of British civil servants. So the rise is not indifferent to what is coming. The honest limit is that this measure is unusually hard to collect accurately, which the section on evidence sets out."
 - q: "What is sleep inertia?"
   a: "It is the period of genuinely degraded functioning immediately after waking, when reaction time, judgment and mood are measurably worse than they will be an hour later. Tassi and Muzet reviewed it in 2000. The practical consequence is that the first several minutes of your day are not a reliable readout of anything, and yet those are exactly the minutes in which most people deliver a verdict on their whole life."
 - q: "So should I not trust what I think in the first ten minutes?"
@@ -68,7 +68,7 @@ faqs:
 - q: "Does checking my phone first thing make it worse?"
   a: "It usually does, and for a specific reason rather than a general one about screens. The phone supplies fresh material for the comparison at the exact moment you have no counterevidence of your own. Every message is another thing already waiting, and none of it is balanced by anything you have done today. The first useful ten minutes of most mornings are the ones where nobody has added anything."
 - q: "How long does this take to change?"
-  a: "The length of the episode usually moves within a fortnight once the first sentence is written down and nothing is decided before the first hour. The standard itself takes considerably longer, because it was built over years and is doing a job. Anyone promising a fast answer on the second half is guessing. What moves quickly is how much authority you grant the morning."
+  a: "The length of the episode usually moves within two weeks once the first sentence is written down and nothing is decided before the first hour. The standard itself takes considerably longer, because it was built over years and is doing a job. Anyone promising a fast answer on the second half is guessing. What moves quickly is how much authority you grant the morning."
 - q: "What if there is no thought at all, just the feeling?"
   a: "That is common and it points somewhere specific. When the morning arrives with no content in it at all, there is usually nothing to solve, because the state itself is the habit rather than a response to any item. Content-free mornings respond to changes in the conditions around waking rather than to any work on the material, since there is no material. Note it in the log as a blank line, which is data."
 - q: "Can I just decide not to believe it?"
@@ -117,7 +117,7 @@ Every page you have already read about this treats you as a person with a sympto
 
 Before any of the rest of it, because a racing heart is a physical symptom and this page is not written by anybody qualified to interpret one.
 
-If your heart is racing most mornings rather than occasionally. If there is pain, pressure or tightness in your chest. If you are short of breath, or wake gasping, or somebody has told you that you stop breathing in the night. If you wake soaked, or feel faint or grey when you stand up. If any of this comes with a thought of harming yourself. Any one of those belongs with a doctor today rather than eventually. Not after a fortnight of better evenings. Not once you have ruled things out by reading. Today.
+If your heart is racing most mornings rather than occasionally. If there is pain, pressure or tightness in your chest. If you are short of breath, or wake gasping, or somebody has told you that you stop breathing in the night. If you wake soaked, or feel faint or grey when you stand up. If any of this comes with a thought of harming yourself. Any one of those belongs with a doctor today rather than eventually. Not after two weeks of better evenings. Not once you have ruled things out by reading. Today.
 
 I am not going to list what a doctor might be looking for, and leaving it out is deliberate rather than coy. Several ordinary and very treatable things produce a fast heart and a bad first hour, some of them have nothing whatsoever to do with how you feel about your life, and none of them can be sorted out by a person reading an article about themselves. Putting candidate names in front of you would do one of two things: convince you that you have one, or convince you that you do not. Both of those are conclusions for somebody who can actually examine you, and twenty minutes with them is a different kind of work from anything here. Where both apply, theirs goes first.
 
@@ -133,7 +133,7 @@ Your body begins preparing for morning several hours before you have any intenti
 
 That matters for a specific reason. Something which behaves the same way on your good mornings and your terrible ones cannot by itself be what makes a morning terrible. The rise is the engine starting. It is not the reason you are unhappy about the drive.
 
-Except the picture is more interesting than that, and this is where it starts to bear on the actual question. The rise is not completely indifferent to what is coming. Thorn and colleagues reported in 2006 that the response was smaller at the weekend than on a working day. Kunz-Ebrecht and colleagues had reported the same working-day difference in a large sample of British civil servants two years earlier. Several other groups have found similar things since. So a body waking into a day it expects to be demanding appears to start harder than a body waking into a free one.
+Except the picture is more interesting than that, and this is where it starts to bear on the actual question. The rise is not completely indifferent to what is coming. Thorn and colleagues reported in 2006 that the response was smaller on the weekend than on a working day. Kunz-Ebrecht and colleagues had reported the same working-day difference in a large sample of British civil servants two years earlier. Several other groups have found similar things since. So a body waking into a day it expects to be demanding appears to start harder than a body waking into a free one.
 
 Read plainly, that says something worth sitting with. Some part of you has already appraised today, in your sleep, before you had any conscious access to the question. The appraisal never arrived as a thought, and you did not have it. Something closer to a setting got changed while you slept.
 
@@ -276,7 +276,7 @@ Seven mornings produces something almost nobody has, which is their own first se
 
 Because the deficit is not denominated in hours, so adding hours does not pay it off.
 
-This is worth stating flatly, because getting up earlier is the single most common thing people try and it has a very consistent result. They set the clock for five thirty. It works for a fortnight. And then the identical feeling arrives at five thirty instead of quarter past six, with the same words in it, and now they are also tired.
+This is worth stating flatly, because getting up earlier is the single most common thing people try and it has a very consistent result. They set the clock for five thirty. It works for two weeks. And then the identical feeling arrives at five thirty instead of quarter past six, with the same words in it, and now they are also tired.
 
 The mechanism is simple once the comparison is visible. If what you are measured against is an imagined version of today rather than a fixed quantity of work, then extending the day extends the imagined version by exactly the same amount. Ninety minutes at the front becomes ninety minutes of additional expected output. The gap is unchanged, and you have paid for it with sleep, which makes the physical half worse.
 
@@ -290,7 +290,7 @@ In several places nobody files under mornings, which is why the pattern often ru
 
 | The form it takes | What it looks like from outside | Why it is the same thing |
 |---|---|---|
-| The Sunday of a holiday | Three days into time off and the feeling arrives anyway | Unlimited capacity, no external standards, maximum imagined day |
+| The Sunday of a vacation | Three days into time off and the feeling arrives anyway | Unlimited capacity, no external standards, maximum imagined day |
 | Waking from an afternoon nap | Twenty minutes of dread out of proportion to a nap | A second waking in a day, and the same comparison runs at it |
 | The first hour back after a break | A week away, then a morning worse than any before you left | The imagined day has been accruing while nothing was being produced |
 | Sunday evening, working backward | Dread that reaches for tomorrow morning specifically | The comparison arriving early, before the waking it belongs to |
@@ -299,7 +299,7 @@ In several places nobody files under mornings, which is why the pattern often ru
 
 That last row is the one that surprises people most, and it is a strong confirmation that the mechanism is a comparison rather than a workload. If the morning were about how much you have to do, a productive day would produce an easier tomorrow. For a lot of people it reliably produces a harder one, because the imagined version simply resets higher.
 
-The holiday row is worth one more sentence too. People take the holiday version as proof that they cannot relax, or that something is deeply wrong with them. What a holiday actually removes is every external standard at once, which leaves the internal one running unopposed for a week. That is information about the standard rather than a verdict on your capacity to rest.
+The vacation row is worth one more sentence too. People take the vacation version as proof that they cannot relax, or that something is deeply wrong with them. What a vacation actually removes is every external standard at once, which leaves the internal one running unopposed for a week. That is information about the standard rather than a verdict on your capacity to rest.
 
 ## Why Do Two People With the Identical Morning Need Opposite Things?
 
@@ -345,7 +345,7 @@ There is one popular piece of advice I want to refuse explicitly rather than qui
 
 ## What Happens If You Make the Standard Visible?
 
-Usually it loses a good deal of its authority within a fortnight, and how fast that happens tells you something about what it was made of.
+Usually it loses a good deal of its authority within two weeks, and how fast that happens tells you something about what it was made of.
 
 The move is small and it feels almost too simple. On a weekday afternoon, sitting down with the week's log, write out the day the standard was measuring you against. Not the day you planned. The day that would have been enough. Write it as a list, with hours attached, as though somebody were going to have to actually do it.
 
@@ -381,7 +381,7 @@ The row that matters most is the third one. When free days stop being the bad on
 
 The morning shortens in weeks. The standard takes considerably longer, and anybody telling you otherwise is selling something.
 
-The realistic sequence looks like this. The log takes seven mornings and costs almost nothing. The hour rule produces a change you can notice within days, because it removes the decisions rather than the feeling, and the decisions are what were bleeding into the rest of the day. Writing the standard down usually shifts the intensity within a fortnight, mostly because a thing you have read cannot go back to being invisible.
+The realistic sequence looks like this. The log takes seven mornings and costs almost nothing. The hour rule produces a change you can notice within days, because it removes the decisions rather than the feeling, and the decisions are what were bleeding into the rest of the day. Writing the standard down usually shifts the intensity within two weeks, mostly because a thing you have read cannot go back to being invisible.
 
 Then it comes back. Usually in a hard week, usually in the same words, and it feels like proof that none of it took. It is not proof. A comparison that formed over years reasserts itself whenever the conditions that favor it return, and a bad week reproduces those conditions faithfully. Returning is part of the shape rather than a failure of it.
 

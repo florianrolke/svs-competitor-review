@@ -121,6 +121,22 @@ There is no internal marker separating "this is genuinely how bad things are" fr
 
 Which is also why arguing with a low state loses. You argue on its terms, using the vocabulary it selected, about the evidence it chose to hand you. The argument feels rigorous and the deck was cut before you sat down.
 
+## How Do You Stop One Critical Comment From Your Boss Ruining Your Whole Day?
+
+By working on the hours after the comment rather than on the comment, because the sentence is over almost as soon as it is said and the state it installed is what keeps going.
+
+Think about how the damage actually accumulates. A single sentence of feedback lands, a state gets built out of it inside a few seconds, and then that state goes to work on every ordinary thing that happens afterward. The colleague who says nothing, the unanswered message, the meeting that ran long, the tone of a reply that would have read as neutral before lunch. None of those events changed. Each one now arrives into a reader who is already primed for a particular verdict, and each one obligingly supplies it.
+
+Two ordinary mechanisms do most of that work, and both are documented well enough to go and check, on pages here that already carry the sourcing.
+
+The first is that a critical sentence carries more weight, and stays available for longer, than a pleasant sentence of the same length. Four people can tell you the work was good and one can tell you it was thin, and by mid-afternoon only one of those five is still running. [That effect has a name, a date and two sets of researchers on the page that owns it.](/patterns/doomscrolling/)
+
+The second is that what you retrieve matches the state you are currently in. Once the low state is up, your own history starts handing you confirming material without being asked: the last time feedback went badly, the project that stalled, the conversation you already half suspected had gone wrong. None of it is invented, which is exactly what makes it convincing, and it is still a biased sample arriving with the authority of a fair one. [The retrieval half of this is sourced on the page about what an earliest memory means.](/patterns/what-does-my-earliest-memory-mean/)
+
+Put those together and the shape of the problem changes. You are unlikely to talk yourself out of a sentence somebody has already said, and you do not have to. What is still open, with most of the day left, is whether the next six things that happen get read through the state that sentence produced. That is a state question rather than a feedback question, which is why arguing about whether the criticism was fair tends to eat an afternoon and change nothing. The criticism can be entirely fair and the day can still be recoverable, because those are two separate matters and only one of them is still live.
+
+What actually moves it is the machinery in the next three sections: the levers the state is running on, and how to operate them on purpose before the day has finished writing itself.
+
 ## What Are the Three Levers a State Actually Runs On?
 
 Three, and every one of them is running right now, whether or not you are operating it on purpose.
@@ -141,6 +157,20 @@ All three are live simultaneously, which changes what a mood actually is. A mood
 
 It is worth separating three words that get used interchangeably. A state is what is running right now. A mood is the same configuration held long enough that it starts to feel like the baseline you are reporting from. A default state is the one you return to under load, regardless of what is going on around you. Same mechanism, three timescales, and only the last one takes months to move.
 
+## What Is the Difference Between an Emotion, a Mood, and a State?
+
+An emotion is short and has something it is about. A mood is longer, vaguer, and about nothing in particular. A state, on this page, is the umbrella over both, because the same three inputs run underneath either one.
+
+The paragraph above separated a state from a mood from a default. The word left out of that set is emotion, and in ordinary use it is the one causing most of the confusion, because people reach for a different repair depending on which of the three they think they are in.
+
+Take them in order of duration. An emotion arrives attached to something: a message, a face, a piece of news. It has a target you could name, it usually runs for minutes, and it tends to fade once the thing it is about has been dealt with or has gone away. A mood has no such attachment. It is diffuse, it colors everything without being about any of it, and it can sit for hours or days with nothing in particular having happened. A default is the mood you keep coming back to when circumstances stop supplying a reason either way.
+
+The 2003 paper in Psychological Review titled "Core affect and the psychological construction of emotion" sets out the version of this that most current work builds on. Underneath both an emotion and a mood, it argues, sits a continuously present feeling of good or bad and energized or flat, always running, with no direct access on your part to what is causing it. When that feeling floats free with nothing attached, it gets experienced as a mood. When it gets attributed to a cause, an emotional episode starts. Same underlying quantity, different amounts of explanation wrapped around it.
+
+The distinction earns its space here because it decides what you try. Searching for the cause works on an emotion, since there is one to find. Run the same search on a mood and you will still find something, because a low state is extremely good at producing candidates, and what you find will be the state's selection rather than the mood's cause. That is the mid-afternoon question "what is wrong with me" answered with whatever happens to be nearest.
+
+Two honest qualifications. The boundaries are not sharp, and the people who study this do not fully agree on where one word stops and the next begins; duration and target are the usual dividing lines and both are matters of degree. And the labels themselves do less work than they look like they do. This page says "state" throughout on purpose, because whichever of the three words fits what you are in right now, the body, the attention and the language underneath are the same three things, and they move the same way.
+
 ## When Does This Belong With a Professional Rather Than a Page Like This?
 
 Right here, before any technique, because this line matters more than everything underneath it.
@@ -160,6 +190,8 @@ So the sentence has to be held. Consciously, continuously, against a body and a 
 Mechanically, a one-lever intervention lost to a two-lever holdout. What it gets read as is "affirmations don't work for me" or "I'm just not a positive person", which is a verdict about your character standing in for a description of something that was never actually attempted. [Working on the sentence itself is worth doing, and it works far better with the other two levers moving.](/insights/how-to-stop-negative-self-talk/)
 
 The reverse failure is quieter and just as common. Go for a walk, stretch, breathe properly, and the state genuinely lifts. Nothing is wrong with that, and the body is the fastest lever there is. Then the state clears on its own, as every state does, and because nothing new was stored while it was up, the old interpretations are sitting exactly where you left them. A good hour, and Monday still means what it meant.
+
+There is an experiment behind all of this, and it belongs to another page on this site rather than to this one. Asked to repeat a flattering sentence about themselves and then say how they felt, people who already thought poorly of themselves came out feeling worse than people who repeated nothing, while people who already felt fine about themselves got a small lift, which is the limit worth carrying away: the same one-lever instruction moves people in opposite directions depending on how they already feel about themselves, and it lands hardest on the ones most likely to be handed it. [The finding is named, dated and argued with in full on the page that owns it.](/patterns/how-to-love-yourself/)
 
 ## What Do the Sentences Underneath a Stuck State Sound Like?
 
@@ -255,13 +287,15 @@ By moving all three levers inside the same minute, deliberately, before you feel
 3. **Change the sentence, and say it out loud if the room allows it.** Catch the exact words running underneath, which usually takes one honest second, then replace them with something you would actually defend to a friend. Saying it aloud matters more than it sounds, because speech recruits breath and posture, which quietly gives you two levers for the price of one.
 4. **Do all three inside sixty seconds.** Order matters less than overlap. Three levers moved in the same minute hold each other up. Three moved across an afternoon behave like three separate one-lever attempts and fail the same way.
 5. **Use the top of it.** While the state is up, say what the triggering thing now means, in one sentence. This is the storage step, it takes about eight seconds, and it is the one that gets skipped almost every time.
-6. **Run it before you need it rather than after.** Two minutes in the car park before a hard conversation is worth twenty minutes of recovery afterward. Nearly everyone runs this in the wrong direction, arriving braced and repairing later.
+6. **Run it before you need it rather than after.** Two minutes in the parking lot before a hard conversation is worth twenty minutes of recovery afterward. Nearly everyone runs this in the wrong direction, arriving braced and repairing later.
 7. **Practice it in the room where you actually lose it.** A shift rehearsed only in calm conditions has never been tested. Do it at your own desk at nine in the morning, in the kitchen at six in the evening, in the car outside your parents' house, in the five minutes before the weekly call you dread.
 8. **Count repetitions rather than results.** Ten deliberate shifts inside real situations move more than one perfect one on a good day. [Overthinking in particular needs the body lever first, because attention will not redirect while the physiology keeps generating fresh things to replay.](/insights/what-is-overthinking/)
 
 Is any of this comfortable at first? No. It is mechanical, slightly embarrassing, and freaking repetitive, and it is exactly the kind of thing that holds when a single dramatic decision does not.
 
 Don't judge yourself if the first few barely move anything. Running a shift while a state is at full volume and watching it shift almost nothing is a completely normal step, and it still counts as a repetition. The count is what does the work.
+
+Step one is the step with a controlled comparison behind it. Balban and colleagues ran a randomized controlled study, reported in 2023 in Cell Reports Medicine under the title "Brief structured respiration practices enhance mood and reduce physiological arousal", which set three five-minute daily breathing exercises against an equal daily five minutes of mindfulness meditation over a month, and found that the exercise deliberately lengthening the out-breath produced the larger improvement in mood and the larger drop in resting breathing rate. The limit is the shape of that test rather than its result, because it measured a daily practice across weeks with mood reported by the people doing it, which supports the body lever being worth something real and settles nothing at all about the exact count of seconds in the short version above.
 
 ## What If a Bad State Is the Only Thing That Has Ever Worked?
 
@@ -273,6 +307,8 @@ Being told to stop being angry moves nobody in this position, and it deserves no
 
 The same logic covers urgency, vigilance and low-grade dread. Each is a state that did real work at some point and then stayed in rotation long past its usefulness. [Anger specifically, including what to do with it in the moment, is covered separately](/insights/how-to-deal-with-anger/), and [why a pattern keeps running long after you have understood it perfectly](/patterns/why-cant-i-change/) is worth settling alongside this.
 
+That trade is measurable rather than merely plausible: a 2008 paper in Psychological Science titled "Hedonic and Instrumental Motives in Anger Regulation" found that people expecting a confrontational task chose, in advance, activities that would make them angrier, made no such choice when the task ahead was not confrontational, and then performed better on the confrontational task for having done it. The limit is the width of the window, because those tasks were short and measured immediately, so the finding says anger can genuinely pay inside one confrontation and says nothing whatever about what years of reaching for it first costs everywhere else.
+
 ## What Does It Look Like When a Default Has Actually Moved?
 
 Quieter than most people expect, and visible in what gets decided rather than in how anybody looks.
@@ -283,7 +319,7 @@ Every one of these is a polarity with two ends, and describing only the stuck en
 |---|---|---|
 | The state arrives and gets reported as reality | The state gets noticed as a state | You catch that you are flat at ten in the morning, before it has finished writing the rest of the day |
 | Meaning assigned automatically | Meaning assigned deliberately | The short, flat text gets read twice, and the second read is the one you act on |
-| Rehearsing the worst version on the way there | Building the state you want on the way there | Two minutes of different breathing in the car park, and the room you walk into is a different room |
+| Rehearsing the worst version on the way there | Building the state you want on the way there | Two minutes of different breathing in the parking lot, and the room you walk into is a different room |
 | Suppressing in front of people | Settling before you walk in | The face is calm and there is nothing underneath it that needs holding down |
 | Waiting to feel like it | Producing the state and going anyway | The gym, the call, the difficult paragraph happens at the wrong energy level and gets done |
 | One state in rotation for everything | Several states genuinely available | Anger stays in the kit, and it stops being the only thing in the kit |
@@ -312,4 +348,4 @@ Is that frustrating? Yes, and I would rather say so than sell a faster route tha
 
 The next time you notice your state has dropped, do nothing about it for sixty seconds and write three things down. What your body is doing right now: posture, jaw, shoulders, the length of your exhale. What your attention has been on for the last ten minutes. The exact sentence running underneath, in the words it actually uses rather than a tidied version. Then change all three, deliberately, for ninety seconds. Stand up, breathe long, pick one specific target for your attention, say a different sentence out loud. Then read back what you wrote and answer one question: does the same situation still mean what it meant two minutes ago? Whatever the answer turns out to be, you now have it from your own experience instead of from a page, and it cost you two minutes.
 
-If what pulls at you is that mechanism rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that people get worked with individually rather than talked at, and practice rehearsed in ordinary conditions so it survives the Tuesday after you fly home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to operate the thing that has been operating you is rarely wasted, whatever you decide afterward.
+If what pulls at you is that mechanism rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that people get worked with individually rather than talked at, and practice rehearsed in ordinary conditions so it survives the Tuesday after you fly home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to operate the thing that has been operating you is rarely wasted, whatever you decide afterward.

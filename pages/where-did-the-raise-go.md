@@ -93,7 +93,7 @@ Because most of it went on the quiet removal of small annoyances rather than on 
 Sentences people say about money that arrived and then went missing, usually while looking at a bank statement and finding nothing wrong with it.
 
 - "I earn a lot more than I did and I honestly could not tell you what changed."
-- "There is nothing to show for it. No holiday, no car, nothing in the account."
+- "There is nothing to show for it. No vacation, no car, nothing in the account."
 - "I am not extravagant. I do not know where it goes."
 - "The idea of going back to how we lived four years ago feels like a punishment, and I could not tell you why."
 
@@ -372,7 +372,7 @@ The rest is mine. I hold no clinical qualification of any kind. I am not a thera
 
 Considerably less dramatic than people expect, and mostly a change in visibility rather than in spending.
 
-Somebody who has worked this out has not cancelled everything. They still have most of the conveniences, because most of them were good exchanges. What changed is that the list exists. They can name it, they know roughly what it costs across a year, and each item on it has survived being looked at rather than having never been looked at.
+Somebody who has worked this out has not canceled everything. They still have most of the conveniences, because most of them were good exchanges. What changed is that the list exists. They can name it, they know roughly what it costs across a year, and each item on it has survived being looked at rather than having never been looked at.
 
 Two or three items usually go, and they are rarely the expensive ones. They tend to be the ones that turn out to have been solving a problem that no longer exists, or that were reclassified as necessities during a period that has ended.
 

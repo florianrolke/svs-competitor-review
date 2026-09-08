@@ -14,7 +14,7 @@ faqs:
 - q: "Is it a problem to prefer a small circle of close people?"
   a: "No, and any page implying otherwise has confused a preference with a symptom. Plenty of people run two or three genuinely close relationships and a wide, warm, pleasant outer ring, and they are among the most settled people you will meet. Limiting the number of things and going deeper on the ones that remain is a reasonable way to live. The question on this page is narrower than how many friends you have."
 - q: "How do I tell whether I chose the distance or defaulted into it?"
-  a: "Four questions get you most of the way. Can you say roughly when it started and why. Does it vary between people, or sit at one level for everybody. Could you imagine telling one specific person one true thing without something closing first. And when you accidentally say something real, does the mild exposure pass in an hour or does it make you avoid that person for a fortnight."
+  a: "Four questions get you most of the way. Can you say roughly when it started and why. Does it vary between people, or sit at one level for everybody. Could you imagine telling one specific person one true thing without something closing first. And when you accidentally say something real, does the mild exposure pass in an hour or does it make you avoid that person for two weeks."
 - q: "Why do I know far more about my friends than they know about me?"
   a: "Because asking is the most respectable way to hold a conversation open without entering it. A good question moves the attention across the table and keeps it there. Nothing about your interest is fake, which is what makes this so durable. The interest is real and it happens to do a second job, and after a few years the imbalance in what each of you knows is enormous and neither of you has ever mentioned it."
 - q: "Why do I change the subject when a conversation turns personal?"
@@ -110,7 +110,7 @@ You were at her kitchen table for two hours. Her father's scan came back on Tues
 
 Driving home, something surfaces that you do not usually let finish. She does not know that something has been going on in your own year since February. She does not know it because you have never mentioned it, and you have never mentioned it in four separate conversations this month that would each have been a natural place to say it.
 
-This has happened for a long time. You could produce, for eight or nine people, a detailed account of their marriages, their money, their parents' health, the thing they are ashamed of, the job they nearly took. Ask any of them to describe your last twelve months and you would get your job title and a holiday.
+This has happened for a long time. You could produce, for eight or nine people, a detailed account of their marriages, their money, their parents' health, the thing they are ashamed of, the job they nearly took. Ask any of them to describe your last twelve months and you would get your job title and a vacation.
 
 The word most people reach for at this point is lonely, and it is usually not quite right. You are not short of company. You are not disliked. Almost everyone would call you a good friend and several of them would say you are the person they call. The accurate version is stranger than loneliness: you are close to a lot of people and known by none of them, and somewhere in the last twenty years you set that up.
 
@@ -120,7 +120,7 @@ This page is about that arrangement, and about one question that turns out to ma
 
 Almost entirely unremarkable, which is the first thing worth saying about it.
 
-Monday, somebody at work asks how your weekend was. You give a real answer about a real weekend and leave out that you spent Sunday afternoon in a car park not wanting to go home. Wednesday, a friend describes a fight with her sister and asks whether you and your brother ever get like that. You say something warm and slightly general and ask her what happened next. Thursday, the group you have known for eleven years spends an evening being funny and nobody says anything that could not have been said in front of strangers, including you.
+Monday, somebody at work asks how your weekend was. You give a real answer about a real weekend and leave out that you spent Sunday afternoon in a parking lot not wanting to go home. Wednesday, a friend describes a fight with her sister and asks whether you and your brother ever get like that. You say something warm and slightly general and ask her what happened next. Thursday, the group you have known for eleven years spends an evening being funny and nobody says anything that could not have been said in front of strangers, including you.
 
 Nothing in that week is a lie. Nothing in it is even evasive in a way anybody could point to. The information that stayed inside would each have been optional to share, and skipping it once is what everybody does. What makes it a pattern is that it is never once skipped in the other direction.
 
@@ -366,7 +366,7 @@ None of which means nothing can change. It means the useful work is upstream of 
 
 Four things, in roughly this order, and none of them is a decision to be more open.
 
-**Establishing which root, by test rather than by preference.** Take the table above, pick the row that fits best, and run its version for a fortnight. All you can really do is test the hypothesis whether it is going to work. Nobody can tell you in advance, and it would be humorous to think you could put together a plan that works on the first strike. Life rarely goes that way. You take the most likely reading, you run it, and you read what comes back, which is slower and considerably more honest than choosing the root that sounds most like the person you would prefer to be.
+**Establishing which root, by test rather than by preference.** Take the table above, pick the row that fits best, and run its version for two weeks. All you can really do is test the hypothesis whether it is going to work. Nobody can tell you in advance, and it would be humorous to think you could put together a plan that works on the first strike. Life rarely goes that way. You take the most likely reading, you run it, and you read what comes back, which is slower and considerably more honest than choosing the root that sounds most like the person you would prefer to be.
 
 **One sentence, one person, once.** Not a conversation, not a confession, not a plan to be more open in general. One answer given one sentence more fully than the question required, to the person you would least mind getting it wrong with. What you are after here is evidence rather than connection, because your prediction about what happens next has never once been compared against what actually happens.
 
@@ -380,7 +380,7 @@ One caution about the second item. Kelly and McKillop pointed out in 1996 that w
 
 It runs at two speeds, and confusing them is what makes people quit around week three.
 
-Noticing is fast. The move happens several times a week and it becomes visible almost as soon as you start watching for it, usually within a fortnight. Catching it live is genuinely uncomfortable, because you can feel the swerve assembling and perform it anyway, sometimes twice in one conversation. That discomfort is a step rather than a failure.
+Noticing is fast. The move happens several times a week and it becomes visible almost as soon as you start watching for it, usually within two weeks. Catching it live is genuinely uncomfortable, because you can feel the swerve assembling and perform it anyway, sometimes twice in one conversation. That discomfort is a step rather than a failure.
 
 Changing it is slow, because it moves at the speed of actual exchanges rather than at the speed of understanding. Six fuller answers over two months, in real conversations with real people, will do more than any amount of reading. It will only make a difference once you give time enough time and let it accumulate until it leads to something visible and palpable, and the accumulation runs at whatever rate your actual week allows.
 

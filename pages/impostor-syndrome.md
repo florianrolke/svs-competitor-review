@@ -191,7 +191,7 @@ faqs:
   q: Why do I still feel like a fraud after ten years of experience?
 - a: The output is real and so is the bill. It arrives as hours of unnecessary preparation,
     opportunities quietly declined, credit handed away in public, and eventually a
-    tiredness that a holiday does not touch. The work would still get done without
+    tiredness that a vacation does not touch. The work would still get done without
     any of it, at considerably lower cost, which is the part that is hard to believe
     from inside. Nobody has to drop their standards to stop paying that bill.
   q: Is impostor syndrome bad for you if it keeps you working hard?
@@ -292,7 +292,7 @@ One more situation is worth naming plainly, because it gets misfiled as this pat
 
 The tell is what you are afraid of. Ordinary self-doubt fears failing at something ahead of you. This fears being discovered about something already behind you, which means it requires a real track record to work on.
 
-That distinction sounds academic until you notice that the repair differs for each one, which is why it is worth two minutes. Three neighbouring patterns produce similar-looking weeks and respond to completely different work.
+That distinction sounds academic until you notice that the repair differs for each one, which is why it is worth two minutes. Three neighboring patterns produce similar-looking weeks and respond to completely different work.
 
 **A general sense of being inadequate** is diffuse and needs no evidence in either direction. It runs on ordinary Tuesdays with nothing in particular to trigger it, and it applies to everything: work, parenting, friendship, hosting. The fraud feeling is narrower and stranger, because it requires achievements in order to have something to discount. Somebody with no track record cannot feel like a fraud about it. [The broader version of that doubt has its own page](/patterns/why-do-i-feel-not-good-enough/), and plenty of people carry both at once.
 
@@ -344,6 +344,22 @@ The instinctive fix is to gather more proof. One more credential, one more win, 
 Evidence arrives at a desk where the decision about what counts was made long before, by somebody who is no longer in the building. Luck, timing and other people are always available as explanations, and they are always technically true, because luck and timing and other people are involved in absolutely everything anyone has ever accomplished. That is what makes the discount so hard to refute, because every one of those explanations is always technically accurate. They simply get applied selectively, to you, permanently, and never to the colleague who did the identical thing.
 
 Watch the sequence when praise arrives. It gets picked apart for what the other person must be missing, or must not have seen yet, or is being polite about. Then the next goal is underway before the last one has been felt at all, which keeps the ledger permanently open. Understanding this on the page changes remarkably little on its own, which is a general feature of insight rather than a failure on your part. [Why understanding a pattern rarely shifts it is worth reading alongside this.](/patterns/why-insight-doesnt-change-anything/)
+
+## Why Do I Say My Skill Is Finished While People Are Still Paying Me for It?
+
+Because it sounds like clear sight rather than self-doubt, and clear sight is the version of this nobody thinks to check.
+
+Everything above works on one result at a time. This one works on the whole trade at once. The sentence runs something like: what I am good at has had its day, everybody has moved to something else, and I am the last one to notice. Heard from outside it reads as somebody being unsentimental about their own industry, so it earns agreement where self-doubt would have earned an argument. That is why it can run untested. Nobody sets out to reassure somebody who is simply being accurate.
+
+Two questions answer it, and neither asks anybody for reassurance. Both fit in a single sitting.
+
+The first: who has actually stopped paying? Not who might, not who would if they looked closely. Who stopped hiring you, stopped renewing, stopped sending people your way, since the day you filed yourself as finished. Write the names and the month each one happened. Most people who sit down to that list find nothing to put on it. The money kept clearing. The referrals kept coming from somebody who was passed your name.
+
+The second almost never gets attempted: has anybody been asked? Not hinted at, not inferred from a reply that took three days. Asked straight out what they would still bring to you and what they would now take elsewhere. This is a large conclusion about your own value, reached in one of the few areas where the evidence is easy to collect, and in most cases nobody who actually pays you has ever been asked.
+
+Leaving it unchecked costs more than a bad mood, because it removes things from your week. The proposal that never goes out, since the work would look dated beside what everyone else is shipping. The piece that stays in drafts because people who know more will read it. The role you do not go for, on the grounds that the job listing wanted somebody current. [The finished thing that never leaves the folder is worked through separately](/patterns/why-i-cant-press-publish/), and this is the same refusal wearing a more respectable reason.
+
+Notice what has happened to the objection. It has stopped being "I might not manage this one" and become "it is already too late for me", which closes the attempt before anybody else gets a say in it. [Getting your own low estimate on record first](/patterns/putting-myself-down/) runs on the same logic, and [what turns up the moment the current work gets difficult](/patterns/the-idea-that-arrives-when-it-gets-hard/) is worth reading next to this one.
 
 ## Where Does It Show Up in an Ordinary Week?
 
@@ -415,10 +431,10 @@ Start with what does not work, since it is where most of the effort goes. More p
 1. **Catch the sentence in real time.** The discount has a shape: "that does not really count because". Hearing it as it leaves, rather than noticing an hour later that it happened, is the whole skill. Catching it counts even on the days you go ahead and discount anyway.
 2. **Let a specific piece of praise stand for ten seconds.** Somebody says something good. Say thank you, add nothing, and sit inside the discomfort while it passes. Ten seconds is genuinely enough. This is far harder than it sounds and it works on the root directly.
 3. **Write the result down before the discount arrives.** A running record of what you actually did, entered within an hour of doing it, in plain sentences with no qualifiers. Later, when the same result has been reduced to luck, you have your own account of it in your own handwriting.
-4. **Name what would actually be discovered.** One sentence, specific. Most people find either a real and closable gap, which takes a fortnight of work, or a general dread with nothing concrete attached, which is the pattern itself and needs different treatment. Both answers are useful, and knowing which one you have saves years.
+4. **Name what would actually be discovered.** One sentence, specific. Most people find either a real and closable gap, which takes two weeks of work, or a general dread with nothing concrete attached, which is the pattern itself and needs different treatment. Both answers are useful, and knowing which one you have saves years.
 5. **Say one accurate thing about your own work out loud each week.** To a colleague, a partner, a friend. Not a boast. One true sentence about something you did well. The capacity being built is the route from knowing to saying, and that route only gets built by traffic.
 6. **Reduce the over-preparation deliberately, once, at a scale you can survive.** Prepare the five-minute update for ten minutes instead of forty-five. Watch what actually happens. Finding out experientially that the room does not turn on you is worth more than any amount of reassurance from other people.
-7. **Ask one person you trust what they think you are genuinely good at.** Write it down verbatim. Argue with none of it on the page. Read it again in a fortnight, when the conversation has faded and the sentences are still sitting there.
+7. **Ask one person you trust what they think you are genuinely good at.** Write it down verbatim. Argue with none of it on the page. Read it again in two weeks, when the conversation has faded and the sentences are still sitting there.
 8. **Notice which domain it is loudest in.** Where the fraud feeling is strongest is usually where the original standard was set, and that connection, once you see it, takes some of the authority out of the voice enforcing it.
 
 Is any of this comfortable? No. It is small, freaking repetitive, and considerably less satisfying than the fantasy where one enormous achievement finally settles the question. It is also the version that holds, which the enormous achievement never has for anybody.

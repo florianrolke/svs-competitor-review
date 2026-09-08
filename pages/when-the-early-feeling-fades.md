@@ -99,7 +99,7 @@ Things people notice at the end of a perfectly good evening, and mention to nobo
 
 You can name the week.
 
-It was somewhere in the fourth year, or the nineteenth month, or the second autumn, and what happened in it was that you stopped checking. Not dramatically. You did not delete anything or make a decision or have a conversation about it. You simply noticed, at some point afterward, that your phone had been sitting on the arm of a chair for most of an evening and you had not turned it over once to see whether their name was on it. A year earlier you would have turned it over eleven times.
+It was somewhere in the fourth year, or the nineteenth month, or the second fall, and what happened in it was that you stopped checking. Not dramatically. You did not delete anything or make a decision or have a conversation about it. You simply noticed, at some point afterward, that your phone had been sitting on the arm of a chair for most of an evening and you had not turned it over once to see whether their name was on it. A year earlier you would have turned it over eleven times.
 
 Nothing had gone wrong. Nothing has gone wrong since. They still make you laugh in the particular way that nobody else does. You know how they take their coffee and which of their friends they are actually close to and what they sound like on the phone to their mother. When the key goes in the door at the end of a long day, something in you settles, and you can feel it settle, and you do not get up.
 
@@ -124,6 +124,8 @@ It is a genuine piece of ordinary vocabulary and it does real work. People say i
 **Where the phrase came from.** Ordinary speech, and nowhere else. It is old. Its earliest recorded English uses in the sixteenth century already had the ending built into them, describing the affection of newly married people as a sweetness that changes the way the moon changes. That is an etymology rather than a finding, and it is worth knowing for one reason only: the phrase arrived carrying a prediction, centuries before anybody measured anything, and the prediction has been riding along inside it ever since.
 
 **What it is not.** It is not a research construct. There is no scale for it, no agreed definition of when it starts, no agreed definition of when it ends, and no body of work that recruits people who are in one and measures anything about them. It turns up in psychology writing the way it turns up in conversation, as a loose descriptor borrowed from everyday language. Occasionally a paper will refer to a honeymoon effect when describing the shape of a satisfaction curve, and even there the phrase is doing decoration rather than measurement.
+
+**The one place the word gets measured.** The single research literature that uses honeymoon as a technical label is about changing jobs: Boswell and colleagues reported the predicted sequence in a sample of managers in *The Relationship Between Employee Job Change and Job Satisfaction: The Honeymoon-Hangover Effect*, published in the Journal of Applied Psychology in 2005, with satisfaction low before a voluntary move, higher immediately after it, and declining again afterward. What that study measured is job satisfaction over time in people who changed employers, the honeymoon word is a label attached to the shape of the curve rather than a defined phase with a start and an end, and none of it is about couples.
 
 **Which makes the numbers a problem.** You will find articles telling you the honeymoon phase lasts two months. Others say six months. Others say a year, two years, three years, or that it runs from six months to two years depending on the couple. These are stated with the same confidence and they contradict each other, which should be the first clue. Follow any of them back and the trail ends at another article. None of them terminate at a study that defined the phase, operationalized its end, and followed people long enough to observe it. The numbers were invented, repeated, and eventually acquired the authority of things that get repeated.
 
@@ -196,6 +198,22 @@ And here is the part the popular framing gets backward. Those ingredients did no
 | Absence, and the anticipation it produces | Presence, which produces something else |
 | Intensity you could feel from across a room | A response so familiar it stopped announcing itself |
 
+## What Is the Difference Between Passionate Love and Companionate Love?
+
+Two different things running on two different scales, and not an early and a late version of one thing, which is the correction that does most of the work on this page.
+
+Passionate love is the name for the state you have been comparing everything to. Longing, preoccupation, physical arousal, absorption, and attention that goes to one person without being sent there. It is loud by construction. You can be doing something else entirely and still be running it underneath, which is most of why it feels like knowledge rather than like a feeling.
+
+Companionate love names something with a different shape. Affection, trust, ease, and attachment to somebody whose life has become tangled with yours to the point where removing them would change the architecture of your week. It does not spike. It behaves more like a background condition than an event, and background conditions are exactly what a person stops registering.
+
+The word that matters is separable. Two scales, running at the same time, at levels that do not have to match. High on one and low on the other is an ordinary reading, and so is high on both, and so is a slow drift on one while the other holds still. What the popular version does instead is arrange them end to end, so the first is supposed to convert into the second on a schedule, and once they are end to end the arithmetic goes wrong in one specific way. If you have the second, you must have spent the first. Spending it makes the second the thing you were left with.
+
+Nothing in the evidence requires that arrangement. What it supports is the plainer statement that the two vary independently inside the same relationship, which is why a quiet year can hold a great deal of one and very little of the other, and why nobody inside that year can tell from the feeling alone which of those two facts they are reacting to.
+
+Now the limits, and they are worth stating. Both are measured with self-report questionnaires, most of them built in the 1980s, and researchers have argued about their factor structure ever since. Asking somebody how intensely they long for their partner returns what that person believes about longing along with whatever they feel. And the distinction is a model, which makes it a useful way of carving up something continuous rather than the discovery of two separate organs. This page names it as a model on purpose, for the reason given earlier where the term itself was taken apart.
+
+What it buys you on an ordinary evening is one specific thing. A quieter feeling is a report from the first scale. Most people have never had a second instrument in the house, so when the first one goes quiet there is nothing else in the room to read.
+
 ## Why Does a Big Feeling Get Smaller Just by Continuing?
 
 Because responses to repeated things get smaller, and this is one of the most consistently observed facts about nervous systems there is.
@@ -207,6 +225,18 @@ Rankin and colleagues set out the behavioral characteristics of habituation in 2
 Now the honesty. Habituation is best demonstrated in simple preparations, reflexes, and animals with small nervous systems, because those are the systems where you can present an identical stimulus a hundred times and measure the response cleanly. A partner is not an identical stimulus, a relationship is not a laboratory, and the feeling you have about somebody is not a reflex. Applying the word here is an analogy. It is a good analogy, because the shape fits and because the recovery-after-absence part is directly observable in ordinary life. It is still an analogy, and anybody presenting it to you as a proven mechanism for why your relationship feels different is overstating what the research shows.
 
 What the analogy is genuinely good for is removing the accusation. If the response gets smaller because the thing has been met many times, then the reduction says nothing whatsoever about the quality of the thing. The traffic did not get quieter. You did not lose your hearing. Nothing about the road changed, and nothing about the road is being judged by the fact that you sleep through it.
+
+## How Long Is the Honeymoon Phase Supposed to Last?
+
+Nobody has ever measured it, so the honest answer is that there is no supposed-to.
+
+Earlier on this page the numbers in circulation get taken apart. What is worth adding is what to do with the question once you stop expecting a number back from it, because the question underneath is a reasonable one. Something did run for a while and then stopped, and you want to know whether yours ran for the right length.
+
+There is no right length, and the reason sits in the ingredients. The early state runs on not knowing somebody, not being sure of them, and having done none of it with them before. It lasts as long as the supply of those three lasts, and the supply is set by circumstances with no connection at all to the quality of the relationship. Two people who see each other twice a month, living in different cities, can hold the uncertainty for years. Two people who move in together in the fourth week resolve it inside a year. A long stretch apart hands a little of it back for a while, which is the recovery described above, and the return gets misread as proof that the feeling was retrievable all along.
+
+The nearest measured curve anywhere is the job one named earlier on this page, and it settles a shape rather than a length: satisfaction up right after the move, then down again, with no start date and no end date attached to the word honeymoon by anybody who actually measured anything.
+
+So the comparison people run here has nothing on the other side of it. If yours lasted nine months and an article says two years, the article is not reporting a study, and the shortfall you calculated does not exist. If yours lasted four years and an article says six months, you were not handed something rare that you have now lost. Whatever yours was, it lasted as long as its ingredients did, and its length is close to the least informative fact available about the relationship it happened in.
 
 ## How Reliable Is the Claim That Passion Always Declines?
 
@@ -352,6 +382,22 @@ Two notes on using this. Most people are in the first root and a large minority 
 
 The third root is the one people talk themselves out of, and it is the one where getting it wrong is most expensive in both directions. Look for the companions rather than for the feeling. Companions are checkable. Feelings are not.
 
+## How Can I Tell a Normal Fade From a Real Problem With My Partner?
+
+By what arrived with it, and by nothing at all about how big it is.
+
+The table above gives the five roots and their separators. What most people want at this point is a procedure, so here is one, with the warning attached that it produces information rather than a verdict.
+
+Take one recent month, not the whole relationship. A whole relationship is far too much material, and a search that long will find items for whichever conclusion you brought to it. One month is short enough to remember accurately and long enough to contain the ordinary range.
+
+Then look at what you stopped doing, rather than at what they did. There is a specific request you no longer make, and you can say what it is in one sentence, and you can name roughly when you stopped making it. There is a subject you have stopped raising. You notice relief when a plan gets canceled, and the relief arrives before the disappointment does. You edit sentences before saying them. Every item on that list is a change in your own conduct, and your own conduct is the part you are actually in a position to observe.
+
+Insist on a date and an example for every item. Anybody can produce three grievances about anything after a long enough search, which is why an unchecked list confirms whatever worry produced it. An item that cannot be dated or illustrated is a mood wearing the clothes of evidence.
+
+Then read the result for what it is. An empty list alongside a fade is the ordinary version, and the alarm about it is being generated somewhere other than the relationship. A list with three dated items on it settles nothing either. It is a set of specific things you have stopped saying, and specific things are workable in a way that a quiet feeling has never been.
+
+Two limits, plainly. Nothing here scores anything, and no list rules anything in or out for anybody. And the timing tell matters more than the count: unease that lands on the evenings when nothing at all happened behaves differently from unease that lands after something specific, and you are the only person positioned to notice which one yours does.
+
 ## Why Does the Search Keep Coming Back Clean and Keep Getting Run Again?
 
 Because it is aimed at the wrong category of thing, and a search aimed at the wrong category produces null results forever.
@@ -365,6 +411,20 @@ Then something specific happens with the null result, and it is the engine of th
 That loop can run for years. It never terminates, because the thing that would terminate it is either finding a fault, which is not there, or accepting that the absence of a fault is the answer, which the rule about size will not permit.
 
 The way out of the loop runs through noticing that you have been asking the relationship a question the relationship cannot answer, rather than through a better search.
+
+## Why Do New Jobs and Hobbies Also Stop Feeling Exciting After a Few Months?
+
+Because none of the machinery involved is romantic, and the same three ingredients run every version of it.
+
+A new job supplies what a new relationship supplies. Nothing about it has been met before. There is real uncertainty, in that case about whether you can do the work and whether they will keep you, and it resolves in the same direction if things go well. First occasions arrive daily for a while and then stop arriving. And you built a picture of the place out of an interview and a website, which contact corrects downward in the ordinary way. Within a few months all three are gone, and what is left is competence, which is quieter, worth considerably more, and completely unable to produce what the first weeks produced.
+
+The hobby version is the same shape with less at stake. The instrument, the language app, the pottery, the running: each one is thrilling while you are visibly bad at it and improving weekly, and each one goes quiet at roughly the point where you get competent enough that progress stops announcing itself. People put the instrument down at the moment it started being worth playing.
+
+The measured version of this is the job curve named earlier on this page, tested on people who changed employers, with satisfaction rising right after the move and falling back afterward.
+
+The honest limit on the comparison is worth stating and it is not small. Nobody has measured one person's romantic curve against that same person's job curve in one sample, so the shared shape is an observation about shapes rather than a demonstrated common cause. It is a strong observation, because the account of the ingredients transfers item for item, and it remains an observation.
+
+What the transfer is genuinely useful for is telling you where to look. If jobs, hobbies, cities, and friendships all go quiet at the same point and all get quietly written off afterward, then the recurring element across that list is what you conclude when a thing stops being loud, and that conclusion has been returning the same result for years without ever once being examined.
 
 ## What Part of This Happens on Its Own, and What Part Did You Choose?
 

@@ -138,7 +138,7 @@ The second group is the audit, which runs quietly on every relationship you have
 - "They didn't like my post on social media; I must be unlovable."
 - "I'm always on alert for signs that someone doesn't like me."
 
-The third group is the price list, and it is the one that quietly organises whole careers and whole marriages:
+The third group is the price list, and it is the one that quietly organizes whole careers and whole marriages:
 
 - "I need to earn love and affection by being what others want me to be."
 - "I must perform perfectly to keep someone's love."
@@ -211,13 +211,31 @@ Three questions get most people to a usable answer within a few minutes. Ask the
 
 Most people find they are a blend, in some proportion, and the proportion matters more than the label. The practical difference sits in the homework. Somebody who never received warmth is building a capacity from scratch, which is slower and needs more outside help, since a function that formed in the absence of another person's attention tends to rebuild in the presence of one. Somebody who received warmth and could not read it is running interference on an existing capacity, and the useful work is catching the rejection in the two seconds it takes place.
 
+Those three questions are a sorting aid rather than a test, and it is worth being blunt about why. The instrument you are answering them with is your own recall of a period nobody kept a record of, and where adult recall of childhood has been set against notes made at the time, the two agree considerably less well than people expect. [That comparison, with its numbers, is laid out on the page about what emotional wounds are and how they actually heal](/patterns/emotional-wounds/), and [why one scene keeps arriving on its own while an equally real one from the same year has to be requested by name is worked through on the earliest-memory page](/patterns/what-does-my-earliest-memory-mean/). I am pointing at both rather than repeating their sourcing, since each belongs to the page that carries it. None of that makes your reading of your own history worthless. It makes it evidence rather than proof, which is the right weight to give it before you decide what to practice.
+
 Getting this wrong sends people to the wrong task for years. Somebody in the second group who assumes they were simply never loved goes looking for more supply, more reassurance, more proof, and stays hungry inside relationships that are objectively feeding them. Somebody in the first group who assumes they must be blocking something blames themselves for a capacity nobody ever taught them.
+
+## Why Does My Family Say They Love Me When I Never Feel Known by Them?
+
+Because love and knowing are two separate supplies, and a family can be entirely reliable about the first while never once having practiced the second.
+
+The love is usually real and usually visible in what the family does. Somebody drove out at night when your car died. Somebody has said the sentence at the end of every call for as long as you can remember. Somebody would still put a roof over you tomorrow without needing to be asked twice. None of that is in doubt, and that is exactly what makes the feeling so hard to say out loud. There is no cruelty to point at, no scene to describe, and nothing an outsider would recognize as a shortage.
+
+What is missing is a different thing with a plain description. Nobody has asked you a question whose answer they could not already predict. Nobody stayed once the first sentence turned out to be complicated. What you actually think about your own life, what frightens you this year, what you would change if nobody minded, have never come up, and after enough of it never coming up you stopped offering. A family can be devoted and incurious at the same time, and those two travel together far more often than anybody says.
+
+Two measured results are useful here, and both belong to other pages, so I am pointing at them rather than repeating their sourcing. The first is that emotional disclosure predicts the felt experience of closeness considerably more strongly than factual disclosure does, with the sense of having been responded to carrying much of the effect, which is why a full and truthful account of your year can leave you feeling like a stranger among the people who raised you. [That work is set out on the page about keeping everyone at the same comfortable distance.](/patterns/keeping-people-at-a-distance/) The second is that people are markedly more confident of having been understood by somebody close to them than by a stranger, while being no more accurate with the close one. [That study is named on the page about the explanations we give ourselves.](/patterns/the-explanation-i-give-myself/) Together they describe a family that is certain it knows you, on evidence that would not survive being checked.
+
+Then comes the move this whole page turns on. Because the love is genuine and the gap is real at the same time, there is nobody to accuse of anything, so the explanation goes inward exactly as it did at seven. I must be hard to know. There must be less in here than there is in other people. That conclusion is doing the same job as the one described above and it is wrong in the same way, and noticing that they are the same conclusion is most of the work available in this particular corner.
+
+What to do about it is smaller than it sounds and it asks nothing of anybody else. Offer one thing nobody requested, once, and watch what comes back. Some families take it and something opens. Some families let it pass, and that is information rather than a ruling about you. Not being noticed at all is a related but separate pattern, and [it has a page to itself](/patterns/feeling-invisible/).
 
 ## Why Does Real Affection Sometimes Fail to Register at All?
 
 Because there is a door, and most of what arrives gets turned away at it in under two seconds.
 
 Watch the move happen in slow motion and it is remarkably consistent. A piece of warmth comes in. It contradicts an account of yourself that has been running since primary school. The mind now has two options, update the account or discount the evidence, and it takes the cheaper one every single time. The compliment gets reclassified as politeness. The invitation gets reclassified as somebody being short of options. The apology gets reclassified as somebody managing you. The account survives intact, and it survives the next thousand pieces of evidence exactly the same way.
+
+Some of that has been measured. A 2000 paper in the *Journal of Personality and Social Psychology* titled "Self-Esteem and the Quest for Felt Security: How Perceived Regard Regulates Attachment Processes" asked dating and married people to describe themselves, to describe their partner, and to say how they believed their partner saw them, and reported that the people who thought least of themselves underestimated how positively their partners actually saw them, with that distance widening rather than closing across the months the dating couples were followed. I am naming the paper by its title rather than by its authors, because all three of them already carry different findings elsewhere on this site, one of those findings on [the page about starting a fight when things are going well](/patterns/picking-fights/). The limit is worth stating plainly: it measures a distance between what somebody believes they are worth to a partner and what that partner reports, among people who agreed to be asked, and it says nothing about which of the two histories above put the distance there.
 
 Four kinds of incoming warmth get refused, and people usually notice only one of them in themselves:
 
@@ -247,7 +265,9 @@ Everything else in the pattern grows from there and sorts into four jobs, which 
 
 The fourth job deserves more sympathy than it usually gets. Choosing the company of an animal over a person is a completely reasonable trade for somebody who has learned that people go quiet without warning. It is worth noticing, not correcting, and the useful question is what the substitute is protecting you from testing.
 
-## Where Does It Show Up in an Ordinary Week?
+## Why Do I Assume My Partner Has Stopped Loving Me Whenever They Go Quiet?
+
+Where does it show up in an ordinary week? The partner version is the one people ask about first, and it is the plainest setting the whole mechanism has. A quiet evening carries no information about why it is quiet, so a mind already holding a conclusion about itself fills the empty space with the conclusion it has rather than leaving the space empty. The assumption arrives before any ordinary explanation gets a hearing, and it is about you rather than about anything that happened to them that afternoon. The same move runs in six other settings.
 
 In seven places, and most people recognize themselves in two or three before the others land.
 
@@ -265,7 +285,9 @@ The work row is the one people defend hardest, because it gets rewarded. Taking 
 
 The friends row catches people who consider themselves sociable. A busy, warm social life containing nobody who knows what you are genuinely dealing with is one of the most effective hiding places this pattern has, since from outside it looks like the opposite of isolation. [The quieter version of that move is covered separately.](/insights/why-do-i-isolate-myself/)
 
-## Are You Sure That Is What You Are Looking At?
+## What's the Difference Between Feeling Unloved and Simply Being Lonely?
+
+Are you sure that is what you are looking at? Loneliness is a question about how much company you have, and this is a question about what happens to company once it arrives, which is why the two come apart under the simplest test there is: company relieves the first and barely moves the second. Somebody can be surrounded every day of the week and still hold the sentence at the top of this page. Loneliness has pages of its own, [the version that keeps a conversation from ever going quiet](/patterns/filling-every-silence/) and [the version that runs hardest in company](/patterns/why-do-i-feel-lonely-even-around-people/).
 
 Worth checking, because six fairly different situations produce a similar-sounding week, and what to do about each of them differs completely.
 
@@ -273,7 +295,7 @@ Worth checking, because six fairly different situations produce a similar-soundi
 |---|---|---|
 | Feeling unloved that started inside one specific relationship this year | An accurate read on that relationship | An accurate read has a start date. This pattern has been running as long as you can remember |
 | A general greyness where nothing lands, food, music and friends included | A low mood that needs a clinician rather than a page | Feeling unloved is selective and stays sharp about people. A flattening of everything is a different signal. See the section above on professional support |
-| It arrived after a bereavement, a breakup, or a move | Grief doing its ordinary work | Grief reorganises across months and responds to time. This does not soften on its own |
+| It arrived after a bereavement, a breakup, or a move | Grief doing its ordinary work | Grief reorganizes across months and responds to time. This does not soften on its own |
 | Wanting noticeably more contact than the people around you offer | A plain mismatch of needs, with nobody at fault | Ask once, in plain words, for what you want. A mismatch usually adjusts. A pattern reappears with the next person |
 | Very few people around and almost nobody to call | Loneliness, which is a supply problem | More company genuinely helps loneliness. It rarely touches this, which is the whole diagnostic |
 | Warmth restored when you back down, withdrawn when you assert something | A control dynamic | The warmth tracks your compliance rather than anybody's capacity. This belongs with a professional |
@@ -287,6 +309,8 @@ Because both are strategies against the same absence, which is why the two can l
 The reaching version is easier to spot. More contact, more reassurance, more giving, more monitoring, the alarm going off at any drop in temperature and the response being to move closer. From inside it feels like love. Much of it is a threat-detection system trying to close a gap by force. [The anxious end of that has its own page](/patterns/anxious-attachment-style/), as does [the fear of being left that drives it](/patterns/fear-of-abandonment/).
 
 The withdrawing version does the same job from the other direction. If nothing is fully risked, nothing can be confirmed. Going quiet after a close weekend, keeping things light, choosing partners who are structurally unavailable, all of it protects against the same verdict by making sure the verdict is never delivered. Attraction to unavailable people is more logical than it looks: a relationship where love has to be earned is familiar territory, and a question left permanently open never gets answered badly. [Why the same type keeps reappearing is worth settling separately.](/insights/why-do-i-attract-the-same-people/)
+
+There is a described model sitting under that pairing, and it is worth having even with no name attached to it here. It holds that people continually trade the wish for closeness against the need to protect themselves against being rejected, and that when the sense of being at risk rises, the cheaper move is to reduce exposure rather than to reach further. Reaching and withdrawing are two outputs of one calculation, which is why the same person can run both inside a single month and experience each as a different self. [The researchers and the review they set it out in are named on the page about starting a fight right when things are good](/patterns/picking-fights/), so the sourcing is one click away instead of repeated here.
 
 The two often pair up. One person reaches, the other retreats, each escalating in response to the other, and both experience the whole thing as being caused entirely by their partner. Nobody in that loop is behaving badly. Two protective systems built in two different houses are running at full volume in one kitchen.
 
@@ -319,7 +343,7 @@ Every one of these patterns has two ends, and describing only the wounded end le
 
 Read the right-hand column carefully, because it is deliberately unimpressive. Nobody in it is being adored. What changed is the location of the validating function: it moved from outside the person to inside them, and the practical result is that other people's warmth becomes pleasant rather than load-bearing.
 
-The single most telling marker sits in that first row. Ordinary, consistent, undramatic affection starts registering as love, instead of being discounted for not being intense enough to trust. That is a smaller change than it sounds and it reorganises everything, because ordinary consistent affection is what most love actually looks like once you can see it.
+The single most telling marker sits in that first row. Ordinary, consistent, undramatic affection starts registering as love, instead of being discounted for not being intense enough to trust. That is a smaller change than it sounds and it reorganizes everything, because ordinary consistent affection is what most love actually looks like once you can see it.
 
 None of this requires deciding your childhood was fine, forgiving anybody, or reaching a settled account of your parents. Being alone stops being evidence. A delayed reply stops triggering a scan. Needing something stops requiring an apology in front of it. Those are the real markers, and they are small enough to be missed while they are happening.
 
@@ -341,6 +365,8 @@ By running repetitions small enough that you will actually finish them, in situa
 
 Is any of this satisfying while you do it? No. It is slow, unremarkable, and freaking boring in the way that actual repair usually is. It also holds, which the dramatic version generally does not.
 
+One move to leave off that list, because it is the obvious one and it has been tested. Repeating a warm sentence about yourself in the hope of coming to believe it leaves people who already hold a low opinion of themselves feeling worse rather than better, and the experiment behind that, with its limits, is named in full on [the page about how you actually love yourself](/patterns/how-to-love-yourself/), which also carries a second result pointing the same way, on what happens when somebody is asked to spell out what a partner's compliment says about them. I am pointing at those rather than repeating them, since they belong to that page. Both run with the nine items above rather than against them: reception gets rebuilt by small repetitions of receiving, not by arguing yourself into a conclusion. [The compliment reflex on its own, and what to do in the seconds it takes, has a page to itself.](/patterns/why-cant-i-accept-compliments/)
+
 ## How Long Does This Take, Honestly?
 
 Longer than anybody wants, and the honest answer runs at two speeds.
@@ -359,4 +385,4 @@ Run an arrivals log for seven days. Open a note on your phone, and every time an
 
 Then read the whole list on the eighth day and count two things: how many pieces of warmth actually arrived that week, and how many of them you let land. Almost everybody is surprised by the first number, which is usually far higher than the felt experience suggested, and sobered by the second. Seeing both, in your own handwriting, across a week of ordinary Tuesdays, does more than another year of asking whether you are loved enough, because it moves the question from a place you cannot check to a place you can.
 
-If what pulls at you is that reception itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly asks for nothing cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out whether you can let one true thing land is rarely wasted, whatever you decide about anybody else.
+If what pulls at you is that reception itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly asks for nothing cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out whether you can let one true thing land is rarely wasted, whatever you decide about anybody else.

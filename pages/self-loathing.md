@@ -387,7 +387,7 @@ In eight ordinary behaviors, most of which get read as modesty, drive, independe
 |---|---|---|
 | With praise | Deflecting, correcting the compliment, returning one within the minute | "I am not deserving of praise or recognition unless I am perfect." |
 | With help | Refusing it, doing everything alone, insisting it is quicker that way | "Asking for help means I'm incompetent." |
-| With rest | Guilt on a free afternoon, a task list on holiday, no unstructured time | "Relaxation is a reward, not a necessity." |
+| With rest | Guilt on a free afternoon, a task list on vacation, no unstructured time | "Relaxation is a reward, not a necessity." |
 | With achievement | The next target starting before the current one has landed | "I'm only as good as my latest achievement." |
 | With mistakes | A small error replayed for days, out of all proportion | "If I make a mistake, I am a failure." |
 | With kindness | Reading care as pity, or as the opening move in something | "If I show that I'm struggling, people will think less of me." |

@@ -372,7 +372,7 @@ Worth checking, because six fairly different situations produce a similar-lookin
 
 The last row deserves its own attention, because it is the most convincing disguise this pattern has. The trade gets relabeled after the fact as who you always were, and the relabeling is sincere. By the time anybody asks, you have a perfectly good reason for every step you took, and each reason is true. What went missing is the fact that a different answer was ever available.
 
-Each of the neighbouring patterns has its own page and its own route out. [The self that vanished when a role ended works differently](/patterns/i-dont-know-who-i-am-anymore/), and so does [the cage with a door you can describe and still do not open](/patterns/why-do-i-feel-trapped/).
+Each of the neighboring patterns has its own page and its own route out. [The self that vanished when a role ended works differently](/patterns/i-dont-know-who-i-am-anymore/), and so does [the cage with a door you can describe and still do not open](/patterns/why-do-i-feel-trapped/).
 
 ## Where Does It Show Up When You Would Not Call It Giving Up?
 
@@ -421,7 +421,7 @@ More than it saves, and the costs land in places that are hard to trace back to 
 
 The first cost is that the identity gets built on the wrong material. When a life is organized around what was given up rather than around what is wanted, sacrifice becomes the load-bearing wall. That works, in a way, for as long as there is something to sacrifice for. It becomes precarious the moment the children leave, the parent dies, or the career reaches whatever it was climbing toward, and the structure discovers it has nothing else holding it up.
 
-The second cost is that achievement stops converting. Reaching the goal produces a shorter satisfaction than expected and then the gap reopens, because the gap was never about performance. [Why more output settles nothing when worth is tied to the scoreboard is covered separately](/patterns/conditional-self-worth/), and it compounds badly with this pattern, since a life built to somebody else's specification generates a persistent sense of having got away with something no matter how well it goes. [That particular flavour of fraudulence has its own page.](/patterns/impostor-syndrome/)
+The second cost is that achievement stops converting. Reaching the goal produces a shorter satisfaction than expected and then the gap reopens, because the gap was never about performance. [Why more output settles nothing when worth is tied to the scoreboard is covered separately](/patterns/conditional-self-worth/), and it compounds badly with this pattern, since a life built to somebody else's specification generates a persistent sense of having got away with something no matter how well it goes. [That particular flavor of fraudulence has its own page.](/patterns/impostor-syndrome/)
 
 The third cost is that success on the wrong path becomes destabilizing rather than good. If your sense of yourself was assembled around going without, a stretch where things genuinely go your way can feel unfamiliar enough to be uncomfortable, and unfamiliar discomfort has a way of resolving itself through a badly timed decision. [The protective logic underneath that kind of self-interference is worth understanding on its own terms.](/patterns/self-sabotage/)
 

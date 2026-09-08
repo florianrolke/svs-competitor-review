@@ -180,6 +180,18 @@ One thing I am deliberately not doing on this page is naming a condition, not ev
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
 
+## Why Has My Sleep Gotten Worse Over the Last Few Weeks With Nothing to Point At?
+
+Begin with the part that is not mine to answer. If the loss has run for weeks and is still running, if you come up fighting for air, if anyone sleeping near you has heard your breathing stop and start again, or if the afternoons are taking you under at your desk, that is a doctor's question and it should be asked this week. The first section of this page explains why no candidates are named here, and that holds for this one too.
+
+Everything after that runs differently. There is no hour in it. You surface several times a night and go back down each time, and nothing moves in behind you. No first item. No order. Nothing you could write down at breakfast. What you notice is only the sum of them: worse nights, harder mornings, and a start you cannot put a week on. Seven weeks ago? Nine? You look for the thing that started it and there is nothing that started it.
+
+That absence is why the daylight appointment described later here does not reach this one. The appointment works by taking material out of the night and giving it an hour elsewhere. Here there is no material to move. The appointment sits empty, the nights stay where they are, and a good method gets blamed for landing on a problem it was never built for.
+
+One thing reliably makes it worse. Once the night has a number attached to it, handed over by a phone or by something you wear, an ordinary poor night comes back to you as a result you were given. You read the number first, it sets the tone before anything else has had a chance to, and the following night is spent keeping an eye on the very thing you are trying to stop watching. That is the trap the section below on trying to get back to sleep describes, now with a number bolted onto it.
+
+What this one rewards instead is a plain record with no number in it. Two weeks of it. What time you went to bed, what the evening before it held, and how you felt by mid-morning, written the way you would say it. A worsening nobody can date very often acquires a date once something plain is writing it down. And if two weeks of it give you no pattern to look at, that is itself worth taking to a doctor, which is where this section started.
+
 ## Is Three in the Morning Genuinely Special, or Is That Folklore?
 
 Mostly folklore, and a page that wants your trust should say so before it says anything else clever.
@@ -196,7 +208,7 @@ What can be said without stretching anything is much simpler. In daylight, any t
 
 ## Why Does the List Arrive Already in Order?
 
-Because it is sorted, and the sorting key is not the one you would use during the day.
+Because it is handled, and the sorting key is not the one you would use during the day.
 
 At three in the afternoon your priorities are ordered by what is due. The thing with the nearest deadline is at the top, and the thing you keep meaning to think about is somewhere near the bottom, under a hundred items with dates on them. That ordering is imposed from outside. Deadlines do it for you.
 
@@ -281,9 +293,9 @@ In several places that nobody files under sleep at all, which is why the pattern
 | The first ninety seconds of waking | The list is fully assembled before your feet touch the floor | The wake happened at seven instead of three. Nothing else changed |
 | Sunday afternoon | A flat stretch in an empty day and the same three subjects arrive | The only daylight hour with no claim on it |
 | Waking without a list | You surface, feel a specific dread, and can name nothing | The occupancy arrived without content, which usually means habit |
-| The two week gap | It stops completely on holiday and restarts on the first Sunday back | The material never went anywhere. The competing claims did |
+| The two week gap | It stops completely on vacation and restarts on the first Sunday back | The material never went anywhere. The competing claims did |
 
-The holiday version is the one worth sitting with. People take it as proof that work is the problem, and sometimes it is. More often what a holiday supplies is several unclaimed hours per day in the daylight, which gives the material somewhere else to go, and the night stops having to hold it. That is a clue about the structure of your ordinary week rather than a verdict on your job.
+The vacation version is the one worth sitting with. People take it as proof that work is the problem, and sometimes it is. More often what a vacation supplies is several unclaimed hours per day in the daylight, which gives the material somewhere else to go, and the night stops having to hold it. That is a clue about the structure of your ordinary week rather than a verdict on your job.
 
 ## Why Does Trying to Get Back to Sleep Make the Hour Longer?
 
@@ -303,7 +315,7 @@ Usually the frequency drops, and it drops faster than most people expect, which 
 
 The approach is old and simple. Pick a fixed slot, fifteen or twenty minutes, at the same time most days, in a specific place that is not your bed. When something from the list turns up outside that slot, note it in one line and take it to the appointment rather than working on it where you stand. Then, at the appointment, actually do the worrying. Deliberately, on paper, for the full time, without trying to feel better.
 
-Borkovec built this in the early eighties and the reported results were good. The honest limits are worth stating alongside them. The original work ran on small student groups, the effects were measured over short periods, and the appointment is almost always delivered as one part of a larger package, so its independent contribution has never been cleanly separated from everything it was bundled with. What can be said with confidence is that it is cheap, it takes twenty minutes, and it produces a usable result within about a fortnight either way.
+Borkovec built this in the early eighties and the reported results were good. The honest limits are worth stating alongside them. The original work ran on small student groups, the effects were measured over short periods, and the appointment is almost always delivered as one part of a larger package, so its independent contribution has never been cleanly separated from everything it was bundled with. What can be said with confidence is that it is cheap, it takes twenty minutes, and it produces a usable result within about two weeks either way.
 
 The reason it fits this particular pattern so well is structural. If the diagnosis is that the material has no hour anywhere in your week, then the intervention is an hour. Everything else follows from that. You are not trying to think less. You are moving where the thinking happens, from an hour with no light and no counterevidence to one with both.
 
@@ -357,7 +369,7 @@ You will still wake. Everybody does, several times, forever. What changes is how
 | Now | The settled version |
 |---|---|
 | You wake and the list is already on item three | You wake, notice you are awake, and nothing in particular arrives |
-| The first item is the same one it was in March | The first item got an hour on a Wednesday and stopped queueing |
+| The first item is the same one it was in March | The first item got an hour on a Wednesday and stopped lining up |
 | An hour and a half, most of it arithmetic | Seventeen minutes, and you could not say afterward what you thought about |
 | Conclusions reached at three that shape your Monday | Nothing decided before daylight, as a standing rule |
 | The clock consulted four times a night | The clock face turned away and the hour genuinely unknown |
@@ -369,9 +381,9 @@ The line that matters most in that table is the second one. The nights change wh
 
 The hour usually shortens within two or three weeks. The material underneath it takes considerably longer, and anybody promising otherwise is guessing.
 
-Here is the realistic sequence. The log takes a week and costs almost nothing. Turning the clock away and stopping the arithmetic produces a noticeable change in the length of the hour within a few nights, because it removes the part that was actively waking you further. Giving the top item a real slot in daylight moves the frequency inside about a fortnight, on the version where an unscheduled decision was the driver.
+Here is the realistic sequence. The log takes a week and costs almost nothing. Turning the clock away and stopping the arithmetic produces a noticeable change in the length of the hour within a few nights, because it removes the part that was actively waking you further. Giving the top item a real slot in daylight moves the frequency inside about two weeks, on the version where an unscheduled decision was the driver.
 
-Then it comes back. Usually in a hard week, usually about the same subject, and it feels like proof that none of it took. It is not proof. A pattern that formed because something had nowhere to go returns whenever that condition returns, and a bad fortnight reproduces the condition faithfully. Returning is part of the shape rather than a failure of it.
+Then it comes back. Usually in a hard week, usually about the same subject, and it feels like proof that none of it took. It is not proof. A pattern that formed because something had nowhere to go returns whenever that condition returns, and a bad two weeks reproduces the condition faithfully. Returning is part of the shape rather than a failure of it.
 
 The version driven by a watch that outlived its emergency is slower, and honest about being slower. Months rather than weeks. It also responds to different things, mostly to what your days are made of rather than to anything done at night, and it is the version most worth getting somebody else to look at with you.
 

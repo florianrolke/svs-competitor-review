@@ -78,7 +78,7 @@ faqs:
 - q: "When does this belong with a professional rather than a practice I run myself?"
   a: "When the thought arriving in the quiet involves harming yourself, which comes ahead of everything else on this page and belongs with a licensed professional or a crisis line today. When the noise has been holding off a bereavement or a separation from the last few months. When what surfaces is memories that replay without being asked for, sleep broken for months, or a flatness that has not lifted."
 - q: "How long does it take to change this?"
-  a: "Noticing arrives inside a fortnight, and the reflex takes months. Most people can catch themselves after the fact within two weeks of paying attention, and catching it counts even on the days the audio still starts. It also arrives in patches: clean in the shower, unchanged in the car. That is the normal shape of it rather than evidence that none of it took."
+  a: "Noticing arrives inside two weeks, and the reflex takes months. Most people can catch themselves after the fact within two weeks of paying attention, and catching it counts even on the days the audio still starts. It also arrives in patches: clean in the shower, unchanged in the car. That is the normal shape of it rather than evidence that none of it took."
 - q: "Does understanding why I do this make it stop?"
   a: "On its own, rarely. Understanding is useful once, so you stop giving the behavior more weight than it deserves, and it also puts a lot of pressure on you if you do not act on it. Life changes through action. You can describe your own root in precise language and still put the earbuds in tomorrow at the front door, which is the ordinary experience rather than a personal failure."
 related:
@@ -136,7 +136,7 @@ The sentences below are what people actually run in their own heads about this, 
 
 Read them slowly. The one worth noticing is whichever produces a small physical jolt because it is yours word for word, with no translation required.
 
-Three details tend to arrive together and almost never get said out loud. The first is that you often do not hear it. There are long stretches, sometimes whole hours, where you could not report a single sentence of what was playing, which means the sound was working as a floor rather than as content. The second is the disproportion when it fails. Dead earbuds, a tunnel with no signal, a flat phone at the start of a two-hour drive, and something happens in your chest that a flat battery does not really warrant. The third is the speed. You listen at one and a half or double, you skip forward constantly, and you have a queue you will never get to the bottom of, all of which gives away that the material was never the point.
+Three details tend to arrive together and almost never get said out loud. The first is that you often do not hear it. There are long stretches, sometimes whole hours, where you could not report a single sentence of what was playing, which means the sound was working as a floor rather than as content. The second is the disproportion when it fails. Dead earbuds, a tunnel with no signal, a flat phone at the start of a two-hour drive, and something happens in your chest that a flat battery does not really warrant. The third is the speed. You listen at one and a half or double, you skip forward constantly, and you have a line you will never get to the bottom of, all of which gives away that the material was never the point.
 
 The shame, when there is any, sits on the second one specifically. The fact that you can go a decade without hearing what you played is at least darkly funny. The small lurch when the sound stops is the part people do not mention.
 
@@ -160,7 +160,7 @@ The second is what turned up when the procedure was run at scale. Buttrick and c
 
 The third reverses the moral of the story, and it is the reason to be careful with the whole finding. Hatano and colleagues reported in 2022 that people substantially underestimate how enjoyable and engaging a stretch of just sitting and thinking turns out to be. Asked to forecast it, participants predicted something dull. Asked afterward, the same participants rated the experience well above their own forecast. Westgate and colleagues had already shown in 2017 that giving somebody something specific to think about beforehand raised their enjoyment further, and Alahmadi and colleagues found the same year that simply telling people the period could be pleasant improved how pleasant they found it.
 
-Hold those three together and the honest summary changes shape. A minority of people in a bare laboratory room found a short empty stretch bad enough to do something strange about it. Most people find it mildly unengaging and expect it to be worse than it is. That is a smaller claim than the one in circulation, and it is a more useful one for you, because a prediction that runs ahead of the experience is a thing you can test in a car park on a Tuesday. The reflex this page describes is real and well evidenced. The story that human beings cannot bear their own company is doing more work than the evidence supports.
+Hold those three together and the honest summary changes shape. A minority of people in a bare laboratory room found a short empty stretch bad enough to do something strange about it. Most people find it mildly unengaging and expect it to be worse than it is. That is a smaller claim than the one in circulation, and it is a more useful one for you, because a prediction that runs ahead of the experience is a thing you can test in a parking lot on a Tuesday. The reflex this page describes is real and well evidenced. The story that human beings cannot bear their own company is doing more work than the evidence supports.
 
 A second line of research fills in why. Matthew Killingsworth and Daniel Gilbert published a study in Science in 2010 called A Wandering Mind Is an Unhappy Mind, sampling the moment-to-moment experience of around two and a half thousand adults. They found that minds wandered away from the task at hand roughly forty-seven percent of the time, and that mind-wandering predicted lower mood afterward rather than the other way around. Put that next to the Wilson result and the picture sharpens. Undirected attention tends to drift, the drift often goes somewhere unpleasant, and people learn very quickly to prevent the drift from starting.
 
@@ -227,6 +227,24 @@ And the other direction deserves the same respect, since none of this romanticiz
 
 So the practical question is which one your sound is covering, and there is a cheap test for it. Notice whether the audio goes on specifically when the house empties and comes off when somebody walks in, or whether it goes on in a full house and a full car with equal reliability. The first points at company, and the useful move is about people rather than about silence. [Feeling alone in a room with other people in it behaves differently again](/patterns/why-do-i-feel-lonely-even-around-people/) and is worth reading if that is the version you recognize. The second points at the attention gap the research above describes, and the rest of this page is built for it.
 
+## Is There a Validated Questionnaire That Measures Discomfort With Silence or Undirected Time?
+
+No. Nothing has been built and validated for this specific difficulty, and the online quizzes that come up when you search for one have not been checked against anything.
+
+That absence has a reason, and the reason is more useful than a result would have been. The best-known research on this exact discomfort, described further up this page, used a task rather than a written measure. People were put somewhere plain for a fixed stretch of minutes and asked afterward how it had gone. That design captures an episode that happened to somebody under instruction, and it says nothing about a standing trait they carry from a shower to a drive to a free hour with nothing in it.
+
+What does exist are tested measures of the neighbors, and each one misses in a way it is useful to know before you go hunting for one.
+
+Burger published Individual Differences in Preference for Solitude in the Journal of Research in Personality in 1995, and it measures how much a person wants time by themselves. That is a different object from how somebody handles an unassigned hour once they have it. A person can rate high on wanting solitude and still start audio seconds after getting some, which is the exact combination a great many readers of this page will recognize in themselves.
+
+Boredom has a tested version too, published in 1986, and [the page on feeling empty carries it with its researchers named](/patterns/feeling-empty-inside/). Boredom proneness describes how readily somebody finds an available activity unengaging, which is a claim about the fit between a person and the thing they are doing. This pattern fires when there is no activity to fit.
+
+There are also scales for how much a person enjoys effortful thinking. Those measure appetite for a hard problem, which is a different appetite from being able to sit with no problem at all.
+
+The limits run the same way across all three. Each asks people to report on themselves, so the answers carry whatever a person has noticed about their own habits and nothing they have missed. Each was developed and validated largely on university students. And none was designed for your question, so a result from any of them puts you on a dimension beside yours rather than on yours.
+
+Which leaves you something better than all of them, and it is already further down this page. Two days of writing down every time audio starts, with a single word beside each entry for what came just before. That records what you did rather than what you believe you do, it runs on your own showers and your own drives rather than on somebody else's volunteers, and nobody has to validate it for it to be true about you.
+
 ## Why Does the Reach Happen Before You Decide Anything?
 
 Because it completes in under two seconds and it works, which is a combination almost nothing else available to you can match.
@@ -238,6 +256,8 @@ That is the whole mechanism, and it explains most of what follows. A reward arri
 Then a second thing happens, which is what turns a reflex into a system. The audio produces a good outcome. The commute passes quickly, you learn something, the walk feels less wasted. So the behavior gets confirmed. But you never run the control condition. You have not driven to the supermarket in silence since 2016, so the evidence that the silence would be unbearable is entirely circumstantial, and it has been accumulating unchallenged for a very long time.
 
 There is one more piece, and it is recent. For most of human history the gap between wanting sound and having it was measured in getting up and crossing a room. Now it is measured in a thumb. A reflex that would once have needed a radio dial, a cassette, or a decision about which record to put on now needs less deliberation than scratching an ear. The pattern is old. The frictionlessness is new, and it removed the last few seconds in which a person used to have the chance to notice what they were doing.
+
+There is a name for the shape of that reach in the research on how people actually handle their devices. A 2012 paper in Personal and Ubiquitous Computing, titled Habits make smartphone use more pervasive, described what it called the checking habit: brief inspections of a screen that begin without a triggering thought and end without a conclusion. [The page on checking a phone mid-conversation carries that work and names its researchers](/patterns/checking-my-phone-mid-conversation/). Its limit belongs with it. The work described how devices were being handled rather than testing what makes a hand move, so it gives you an accurate name for the behavior and no account at all of why yours runs, and the why is what this page is for.
 
 No behavior happens for no reason, and the absence of a behavior does not happen for no reason either. The silence you never enter is as caused as the sound you always start.
 
@@ -255,7 +275,7 @@ This is the section that usually reframes the whole thing, because most people c
 | The car | A twelve-minute drive that acquired a podcast years ago | No journey is short enough to be left silent |
 | The short walk | Earbuds in for the walk to the bin or the corner shop | Distance stops mattering, because the gap is the trigger |
 | The last hour | Something playing until you are asleep, restarted nightly | The most reliably undirected stretch of the day is covered |
-| The four-second pause | Phone out at a red light, in a lift, in a queue of two | Any gap over a few seconds gets filled |
+| The four-second pause | Phone out at a red light, in a lift, in a line of two | Any gap over a few seconds gets filled |
 | The occupied hands | A video propped on the counter for the washing up | A task that leaves the mind free gets a companion |
 | Without any device | A chore found the moment the house goes quiet | The same reach, paid in activity |
 | Without any device | A call made to somebody you did not need to call | The same reach, paid in company |
@@ -323,13 +343,15 @@ They share an engine and they run at different scales, which is exactly why peop
 | The typical test | An unplanned four seconds at a red light | An unplanned Saturday |
 | What other people see | Nothing at all | Reliability, work ethic, being on top of things |
 | The usual justification | "I am learning something" | "It has to get done" |
-| What it survives | An empty week, a holiday, redundancy | Very little, once the calendar clears |
+| What it survives | An empty week, a vacation, redundancy | Very little, once the calendar clears |
 
-The row that matters most is the last one. Busyness needs a supply of things to do, so it collapses when the supply stops, which is why people fall apart on holidays and in the first month of a new quiet job. This pattern needs nothing at all. It survives an empty week perfectly well, because the gaps it fills are four seconds long and there is an endless supply of them. That makes it both smaller and considerably more durable.
+The row that matters most is the last one. Busyness needs a supply of things to do, so it collapses when the supply stops, which is why people fall apart on vacations and in the first month of a new quiet job. This pattern needs nothing at all. It survives an empty week perfectly well, because the gaps it fills are four seconds long and there is an endless supply of them. That makes it both smaller and considerably more durable.
 
 Plenty of people run both, and the two feed each other, since a full calendar produces more seams and each seam gets filled. The reason to separate them is practical. Clearing your calendar does nothing to the reflex, and reclaiming your showers does nothing to your yeses. They want different moves.
 
-## What Does It Actually Cost You?
+## Does Constant Background Noise Make It Harder to Focus or Think Through Decisions?
+
+Yes on thinking decisions through, and less than most people expect on focus itself. What this pattern costs arrives after the audio stops rather than while it plays, which is why the older question is the sharper one: what does it actually cost you? The wandering-mind study named earlier on this page gives the shape of the answer. Unoccupied attention drifts, some of that drift goes somewhere uncomfortable, and covering every gap keeps you clear of the uncomfortable part and clear of everything else the drift was carrying.
 
 More than the embarrassment, and in five places most people have never connected to it.
 
@@ -343,6 +365,24 @@ More than the embarrassment, and in five places most people have never connected
 
 **It costs the people in the room.** The screen at the table, the earbud left in during the walk, the podcast that stays on while a passenger is in the car. Each one is small and none of them would survive being raised as a complaint. What accumulates is a household where nobody has had a conversation that started from nothing in a long time, because a conversation that starts from nothing needs a silence to start in. [Friendships that stay on the surface often have exactly this underneath them](/patterns/why-are-my-friendships-so-surface-level/).
 
+## Why Does My Partner Sitting Quietly Beside Me Make Me Uneasy?
+
+Because a shared silence is undirected time with somebody else present in it, and their being there makes the gap harder to leave alone rather than easier.
+
+Alone, the reach is free. You put something on and nobody registers that you did it. Beside somebody who is comfortable saying nothing, both the reach and the decision to leave it alone are visible to another person. That is why a person who manages a silent shower perfectly well can find a silent hour on a sofa beside their partner much worse. The gap is identical. What changed is that there is now somebody present who might notice what you do with it, yourself included.
+
+Two different things get confused inside that unease, and they want opposite handling.
+
+The first is the plain gap, the same one this page has been describing from the start. Nothing has gone wrong between you. Your system met an unassigned stretch, an unassigned stretch is what it reaches to cover, and another person being there did not change the trigger at all. This version of it has no content. Asked what is wrong, you would say nothing is wrong and you would be telling the truth.
+
+The second has content. Silence beside that specific person reads as something: distance, disapproval, a conversation that ended badly last week and never finished. This version has a subject. You could write down what you think their silence means, and you find yourself talking in order to check it. What comes out is usually a question about their day, a small complaint about something unrelated, or a plan for the weekend, and none of those is really about its subject.
+
+Sorting which one you are in takes about a week and no discussion whatsoever. Notice whether the unease shows up beside anybody who stops talking, a friend on a long drive included, or only beside that one person. Notice whether it lifts when they speak or when you put something on. If any voice will do, you are in the first case and the rest of this page applies to you unchanged. If only their voice will do, silence was never the difficulty and no amount of tolerance for it will touch what is.
+
+One thing to be clear about in the second case, because it is where writing of this kind usually overreaches. Nothing above is a reading of your relationship, and nothing above is a technique to run on another person. What is available to you is your own end of it: the conclusion you draw in that gap, how quickly you draw it, and whether you have ever checked it against anything they said. That is a much smaller project than repairing a relationship, and it has the advantage of being the only one you can actually act on.
+
+A limit belongs with all of that. Somebody who says nothing for an hour may be resting, may be occupied with something that has no connection to you, or may be unhappy and unwilling to start. Your unease cannot tell those three apart, because it began before any information about them had arrived. Whatever it is reporting, it is reporting on the gap rather than on them.
+
 ## Why Does Deleting the Podcast App Move the Problem Somewhere Else?
 
 Because pressure applied at one point in a system gets displaced rather than removed.
@@ -351,7 +391,7 @@ When you have a balloon full of water and you squeeze it in one place, it will b
 
 For about three weeks it works. Then the radio goes back on in the car, and it is only the radio, so it hardly counts. Or the washing up acquires a video propped against the kettle. Or the phone stays in a drawer and the house develops an unusual number of small jobs that need doing the moment it goes quiet. Or somebody starts calling a friend on every drive, which reads to everybody including them as being better at keeping in touch. The bulge shows up at a distance from the squeeze, and that distance is what makes the connection so easy to miss. Six weeks and one completely different behavior is more than enough to break the causal link in anybody's mind.
 
-There is a second failure that looks like success for longer. Changing a behavior with force or with discipline works, and it is not necessarily what makes it stick. You have to have a way to sustain it, and for that there also needs to be an element of environment that changes. A silent fortnight is a real achievement and a fragile one, because every condition that built the reflex is exactly where you left it.
+There is a second failure that looks like success for longer. Changing a behavior with force or with discipline works, and it is not necessarily what makes it stick. You have to have a way to sustain it, and for that there also needs to be an element of environment that changes. A silent two weeks is a real achievement and a fragile one, because every condition that built the reflex is exactly where you left it.
 
 Environment is unusually concrete for this pattern, which is good news, because concrete things can be altered.
 
@@ -389,7 +429,7 @@ One caution about what to do with a reclaimed silence, because there is a way to
 
 The short, enclosed, daily ones, and the reason to start there is that you cannot fail badly in six minutes.
 
-Before any of them, one principle that saves people a lot of wasted effort. Subtract before you add. The common first move is to install something demanding on top of an unchanged input diet: a meditation practice, a journaling habit, a course about attention. That asks a system with no experience of low stimulation to go straight to the most demanding version available, and it usually collapses inside a fortnight and takes some self-respect with it. Take one input out first. The practice becomes far easier to add once a quiet room has stopped reading as an emergency.
+Before any of them, one principle that saves people a lot of wasted effort. Subtract before you add. The common first move is to install something demanding on top of an unchanged input diet: a meditation practice, a journaling habit, a course about attention. That asks a system with no experience of low stimulation to go straight to the most demanding version available, and it usually collapses inside two weeks and takes some self-respect with it. Take one input out first. The practice becomes far easier to add once a quiet room has stopped reading as an emergency.
 
 | The window | Roughly how long | Why it is a good place to start |
 |---|---|---|
@@ -445,11 +485,13 @@ The first is the overcorrection. People read a page like this, strip everything 
 
 The second is treating understanding as the finish line. Life changes through action. Self-knowledge is genuinely useful, and it also puts a lot of pressure onto you if you do not act upon it. You can read this page four times, describe your own root in precise language, and still put the earbuds in tomorrow morning at the front door. [Understanding a pattern and running it anyway is its own well-worn problem](/patterns/why-insight-doesnt-change-anything/).
 
+One more thing, because the question underneath this whole section is usually how to keep the music. The research named earlier on this page already holds the least dramatic answer to it. Participants who were given something specific to think about before a stretch of undirected time reported enjoying that stretch more, and participants told beforehand that the period could be pleasant found it more pleasant than participants who were told nothing at all. Carry the limit with it. Both of those were single short sessions run under instruction, so what they show is that the expectation you take into an unassigned stretch can be moved, and not that a habit built over years of permanent audio dissolves in two weeks. Applied to your shower it is small and unglamorous: keep the music, keep the podcasts, and step into the one window you reclaimed expecting something ordinary rather than something to be endured.
+
 ## How Long Does This Take, Honestly?
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of deliberate attention, most people can replay the moment: the door, the thumb, the app, all of it visible in retrospect the same evening. That stage is frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless.
+Noticing arrives fast. Within two weeks of deliberate attention, most people can replay the moment: the door, the thumb, the app, all of it visible in retrospect the same evening. That stage is frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless.
 
 The reflex takes months, because it fades at the pace of accumulated evidence rather than insight. Every shower you take in silence is one data point against a rule that had years to install itself. Twenty of those, almost all of them unremarkable, change a great deal. Understanding this page thoroughly changes remarkably little on its own.
 

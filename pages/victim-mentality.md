@@ -198,7 +198,7 @@ faqs:
   q: Can therapy make a victim mentality worse instead of better?
 - a: 'Because it usually is losing something real. The story has been supplying significance,
     certainty, and sympathy, and dropping it removes all three at once with nothing
-    arriving in their place. That gap is why so many people improve for a fortnight
+    arriving in their place. That gap is why so many people improve for two weeks
     and then quietly return. Build the replacement first: one thing that supplies
     standing on its own terms, chosen deliberately, before the old vehicle gets retired.'
   q: Why does getting better sometimes feel like losing something?
@@ -447,7 +447,7 @@ Two things, in a fixed sequence, and skipping the sequence is why most attempts 
 2. **Move the question into the present tense.** The useful question stops being who caused this and becomes who is running this account today. That version is the only one anybody can act on, and it contains no blame anywhere. Ask it about a specific ordinary hour rather than about your life.
 3. **Find one conclusion you have already revised.** Somewhere in your history is something you understood one way at the time and understand differently now, without any of the facts having changed. Write down both versions. That is a precedent from your own life that a conclusion can move, and it does more than any argument from outside ever will.
 4. **Write both columns of the ledger.** What the account costs you, specifically, and what it pays you, specifically. Most people have never written the second column and find it uncomfortable and clarifying in roughly equal measure. Naming a payoff is the first thing that has ever weakened one.
-5. **Give the needs a cheaper vehicle before retiring the old one.** If significance has been arriving from the size of the problem, something else has to supply it, chosen deliberately: a skill being built, a person you help, a piece of work that is yours. Removing a delivery system with no replacement installed is why so many people improve for a fortnight and then quietly return.
+5. **Give the needs a cheaper vehicle before retiring the old one.** If significance has been arriving from the size of the problem, something else has to supply it, chosen deliberately: a skill being built, a person you help, a piece of work that is yours. Removing a delivery system with no replacement installed is why so many people improve for two weeks and then quietly return.
 6. **Run one narrow disconfirming test.** Not a resolution to trust people, which is far too broad to survive contact with a Tuesday. One specific person, one specific small exposure, chosen on evidence you can name out loud. Then count the result honestly in both directions.
 7. **Say one small true thing about now, instead of the whole account of then.** To one person. This week. The full story told to five people delivers a great deal and changes nothing. One current sentence, told once, tends to do the opposite.
 

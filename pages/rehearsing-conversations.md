@@ -74,7 +74,7 @@ faqs:
 - q: "How long does it take for this to quiet down?"
   a: "Recognition takes days, because the loop is easy to catch once you know its shape. The volume drops over weeks as you start converting loops into decisions. The reflex itself takes months, and it fades at the speed of accumulated evidence rather than insight. Twenty ordinary conversations you walked into without a script will do more than a year of understanding where it came from."
 - q: "When does this belong with a professional rather than a practice I run myself?"
-  a: "When the rehearsal is running your logistics: cancelled plans, avoided phone calls, hours of preparation before ordinary contact. When scenes arrive unbidden with a physical reaction you cannot bring down. When the replay attaches to an event that involved your safety. When a flat hopelessness has held for months. Any thought of ending your life belongs with a licensed professional now rather than later."
+  a: "When the rehearsal is running your logistics: canceled plans, avoided phone calls, hours of preparation before ordinary contact. When scenes arrive unbidden with a physical reaction you cannot bring down. When the replay attaches to an event that involved your safety. When a flat hopelessness has held for months. Any thought of ending your life belongs with a licensed professional now rather than later."
 related:
 - /patterns/why-cant-i-stop-thinking-about-the-past/
 - /insights/what-is-overthinking/
@@ -103,7 +103,7 @@ You will know within four lines whether this page is about you, so start here.
 [How the seminar finds the specific job your rehearsing is doing](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
-There is a scene almost everybody searching this can produce on demand. You are somewhere with your hands busy and your attention free. The shower, the motorway, the ten minutes of dark before sleep. And you are talking. Under your breath sometimes, or close to it, with your jaw set and your shoulders somewhere up around your ears, delivering a sentence you have now delivered nine times to a person who is asleep in another city.
+There is a scene almost everybody searching this can produce on demand. You are somewhere with your hands busy and your attention free. The shower, the highway, the ten minutes of dark before sleep. And you are talking. Under your breath sometimes, or close to it, with your jaw set and your shoulders somewhere up around your ears, delivering a sentence you have now delivered nine times to a person who is asleep in another city.
 
 Or the other direction. A message came in on Friday and it is Monday. You have opened the draft six times, you have written four hundred words and deleted three hundred and eighty of them, and the thing you eventually send is nearly identical to the reply that occurred to you in the first thirty seconds.
 
@@ -279,7 +279,7 @@ There is a second failure that looks like success for longer. Changing a behavio
 
 Environment is unusually concrete for this pattern, because a rehearsal needs specific conditions to run. It needs unstructured attention, which is why it lives in showers, drives, and the hour before sleep. It needs unfinished business, meaning at least one exchange that has not been closed with a decision. It needs distance from the person, because the loop cannot survive contact for long. And it needs a delay, since a conversation you can have this afternoon does not get rehearsed for three weeks.
 
-Every one of those is adjustable in a way the reflex is not. Put something in the drive that occupies language, since a loop and a podcast cannot both have the channel. Close one open item with an actual decision. Shorten the delay between deciding to say something and saying it, which is the change that does the most work of anything here. And check the person against the character, which usually takes one ordinary conversation and dissolves a fortnight of scripting.
+Every one of those is adjustable in a way the reflex is not. Put something in the drive that occupies language, since a loop and a podcast cannot both have the channel. Close one open item with an actual decision. Shorten the delay between deciding to say something and saying it, which is the change that does the most work of anything here. And check the person against the character, which usually takes one ordinary conversation and dissolves two weeks of scripting.
 
 This is not to come from a victim type of frame, as though the environment were doing this to you. You have put yourself in the environment, and the environment is reinforcing it. That distinction matters practically rather than morally, because an environment you built is an environment you can rebuild, and it responds much faster than resolve does. [The mechanics of changing a habit at the level of its conditions rather than its symptoms are worth reading separately.](/patterns/how-to-break-a-habit/)
 
@@ -311,7 +311,7 @@ There is also a much better instrument available than the one you are using. Reh
 
 Before any of the practice below, because this boundary matters more than every technique on this page put together.
 
-Some of what looks like rehearsing needs proper assessment rather than a routine. If the preparation is running your logistics, so that plans get cancelled, calls get avoided for weeks, and ordinary contact requires hours of build up. If scenes arrive unbidden and bring a physical reaction you cannot bring down. If the replay attaches to an event that involved your safety, or your body, or somebody else's violence, and the loop is the thing standing between you and it. If the intrusive material has begun to include images you find distressing and cannot dismiss. If a flat hopelessness has held for months without lifting. Or if you have had any thought of ending your life, however briefly it passed through. All of that belongs with a licensed professional starting now.
+Some of what looks like rehearsing needs proper assessment rather than a routine. If the preparation is running your logistics, so that plans get canceled, calls get avoided for weeks, and ordinary contact requires hours of build up. If scenes arrive unbidden and bring a physical reaction you cannot bring down. If the replay attaches to an event that involved your safety, or your body, or somebody else's violence, and the loop is the thing standing between you and it. If the intrusive material has begun to include images you find distressing and cannot dismiss. If a flat hopelessness has held for months without lifting. Or if you have had any thought of ending your life, however briefly it passed through. All of that belongs with a licensed professional starting now.
 
 There is a specific version worth naming as well. If the conversation you keep running is with somebody who hurt you badly, and the loop is functioning as the only place that event ever gets acknowledged, then a technique for closing mental loops is the wrong tool entirely. Get the right one.
 
@@ -328,7 +328,7 @@ Every pattern like this is a polarity with two ends, and describing only the cos
 | Four hours of preparation for nine minutes | Ten minutes of preparation with an output | Three lines in a note, then you close the note |
 | The scene runs on its own in the shower | You notice it starting and name it | Twenty seconds in, you say the word rehearsing and the shower gets quiet |
 | The reply drafted eleven times | The reply sent in the first version | You write it once, read it once, send it |
-| The version of them you argue with | The person, checked against reality | One ordinary conversation dissolves a fortnight of scripting |
+| The version of them you argue with | The person, checked against reality | One ordinary conversation dissolves two weeks of scripting |
 | The conversation postponed for eleven months | The conversation had on Thursday | You say the sentence badly and the world continues |
 | The replay of a four second stumble | One decision, then the file closes | You write what you will do differently and stop thinking about it |
 | Anger arriving before they do | The feeling felt where it belongs | You are angry on Tuesday, about Tuesday, and it finishes |

@@ -105,7 +105,7 @@ faqs:
     was the price of belonging, wanting something separate registers internally as
     a threat to the bond rather than as ordinary difference. The alarm fires at full
     volume regardless of how small the difference is, which is why booking a solo
-    holiday can generate more of it than a major decision.
+    vacation can generate more of it than a major decision.
   q: Why do I feel guilty when I want something different from what my family wants?
 - a: Expect it to feel worse than a busy day for a while, and let it stay empty anyway.
     Where worth and identity were installed together as inseparable from usefulness,
@@ -153,7 +153,7 @@ faqs:
     gap once the conditions that required it end.'
   q: Why have I lost my sense of identity?
 - a: Shifting rather than blank. Values, tastes and stated positions move with the
-    company, and afterwards you cannot say which set was actually yours. People describe
+    company, and afterward you cannot say which set was actually yours. People describe
     rehearsing a version of themselves before walking into a room, then losing track
     of which version they are meant to be. Ask someone in this state what they want
     and several answers arrive with no way to rank them. Ask someone in the loss version

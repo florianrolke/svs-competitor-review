@@ -29,7 +29,7 @@ faqs:
     again. Two weeks of anticipation get spent half-convinced something will ruin
     it. The planning is doing a job: it converts an unfamiliar state with no protocol
     into a familiar one with a task attached.'
-  q: Why can't I relax on holiday without planning for what could go wrong?
+  q: Why can't I relax on vacation without planning for what could go wrong?
 - a: Pessimism is a steady belief about how things generally turn out, and it applies
     on ordinary days as much as good ones. This fires selectively, on the good days,
     and gets louder as circumstances improve. Plenty of people carrying it are genuinely
@@ -57,7 +57,7 @@ faqs:
 - a: 'Ending the good feeling on your own terms restores control over when the drop
     happens, instead of waiting for it to be taken. It also returns the room to a
     temperature you know how to operate in. Most people doing this have no sense of
-    choosing it, and only notice the timing afterwards: the argument tends to follow
+    choosing it, and only notice the timing afterward: the argument tends to follow
     the good week rather than a bad one.'
   q: Why do I pick a fight right after a good stretch?
 - a: It can. A relationship that has stopped requiring vigilance can start to feel
@@ -248,7 +248,7 @@ The cost is a good week spent braced for its ending, and good news that never qu
 
 The message lands at eleven on a Tuesday morning and it is genuinely good news. By two minutes past eleven you have located the part of it that could still fall through, and the feeling that had begun to arrive has been quietly filed as premature.
 
-Those two minutes are the whole pattern, played at speed. The same thing runs at a dinner where everybody is laughing and you catch yourself mid-laugh already aware it will end, on the second morning of a holiday you spent three weeks half-convinced something would ruin, and in the middle of a stretch of weeks where nothing at all is wrong and instead of relief there is a low hum of waiting.
+Those two minutes are the whole pattern, played at speed. The same thing runs at a dinner where everybody is laughing and you catch yourself mid-laugh already aware it will end, on the second morning of a vacation you spent three weeks half-convinced something would ruin, and in the middle of a stretch of weeks where nothing at all is wrong and instead of relief there is a low hum of waiting.
 
 Most pages about this treat it as negativity, or as a failure of gratitude, and hand you an exercise for noticing the good. That misreads the machinery. The noticing works fine here. What fails is the permission that would let the good feeling stay. This page covers where that permission got withdrawn, what the withdrawing is protecting, how to tell this apart from the four things it gets confused with, and what the other end of it actually looks like on an ordinary Saturday, because a page that names a painful thing precisely and then stops has left you worse off than it found you.
 
@@ -294,15 +294,55 @@ If joy has gone out of everything for months, if the hobbies and the people and 
 
 The same holds where the pattern traces back to violence, to abuse, or to anything you have never said out loud to another person. Working alone on material that was originally survived alone tends to reproduce the isolation that made it hard in the first place. Bring somebody qualified in. The material here is built for the everyday version: the good news discounted on Tuesday, the compliment deflected on Wednesday, the calm week that felt like a countdown.
 
+## What Does Fear of Happiness Actually Mean?
+
+It means the belief that happiness is unsafe: that having it, or showing it, invites something bad afterward.
+
+That is the whole of the definition, and it is narrower than people expect. Not a dislike of good things. Not an inability to feel them. Not a general gloom about how life tends to go. The belief is specific, and what it is about is payment: good feeling arrives with a toll attached, so it should be kept small, kept quiet, qualified, or earned in advance. The whole page below works out from that one sentence.
+
+Researchers reached the same definition from the opposite side, by noticing that a great deal of the world has never agreed that more happiness is always better. The first published overview of it was "Aversion to Happiness Across Cultures: A Review of Where and Why People are Averse to Happiness", in the Journal of Happiness Studies in 2014. It is named here by title, year and journal rather than by its lead author, because that author's name carries a different finding on a different page here, and stacking two findings on one surname makes both of them harder to check.
+
+Two things about it belong in the open before anybody leans on it. It gathers and organizes what other researchers found rather than testing anything itself, which makes it a good map and not evidence. And the journal published a correction to it in 2021, ordinary academic bookkeeping rather than a scandal, though you should know it exists if you go looking for the paper.
+
+What the overview is genuinely useful for is scale. Aversion to happiness appears across many cultures rather than in one anxious corner of one country, and it appears for openly different stated reasons: that joy attracts misfortune, that too much of it makes a person shallow or careless, that it is unfair to be happy while people around you are not. Those reasons disagree with each other. The move underneath them, keeping good feeling at a slight distance, does not vary at all.
+
+Which is why the productive move is to ask what this once protected, rather than what it proves about you.
+
+## Is There a Validated Questionnaire That Measures Fear of Happiness?
+
+Yes, one, and what it cannot tell you matters more than what it can.
+
+It is called the Fear of Happiness Scale. Joshanloo introduced it in 2013 in Personality and Individual Differences, in a paper titled "The influence of fear of happiness beliefs on responses to the satisfaction with life scale". He is named once here, and only here, because he originated the measure this whole page is built around; where the same work comes up on a different page here, it is referenced without him.
+
+The scale then went through the check that decides whether a measure of an attitude is worth anything outside the country it was built in. "Cross-Cultural Validation of Fear of Happiness Scale Across 14 National Groups" appeared in the Journal of Cross-Cultural Psychology in 2014, and it asked whether the items behave the same way in different places rather than quietly measuring something else in each one. Across those fourteen groups the scale came out sound at both the individual and the cultural level. That is a real result and a modest one. It says the measure works. It says nothing whatsoever about a person who scores high on it.
+
+Now the limits, which are the part people skip. It was built to compare groups in research, which is a different piece of work from telling one person something true about themselves. The items ask you to rate statements about your own relationship with good feeling, so what gets measured is what you were willing to say about yourself that morning. There is no line above which you have this and below which you do not, because nothing on this page works that way. And a high result names the attitude while saying nothing at all about how it got installed, which is exactly the part that decides what helps.
+
+So if you find a version of it online and take it, read the result the way you would read a bathroom scale: one measurement, one morning, worth something only alongside everything else you already know about yourself.
+
 ## Why Does the Alarm Get Louder as Things Get Better?
 
 Because the alarm got calibrated to the conditions that historically came just before danger, rather than to danger itself, and in a lot of homes those conditions were peace.
 
-This is the detail that separates the pattern from everything else in the neighbourhood, and it is worth sitting with. General threat-scanning runs continuously, in good conditions and bad, tuned to anything that might go wrong. This runs in the opposite direction. It is quiet during a hard week, when there is a problem to work on and a role to occupy, and it gets loud during a good one. The better things get, the higher the reading goes.
+This is the detail that separates the pattern from everything else in the neighborhood, and it is worth sitting with. General threat-scanning runs continuously, in good conditions and bad, tuned to anything that might go wrong. This runs in the opposite direction. It is quiet during a hard week, when there is a problem to work on and a role to occupy, and it gets loud during a good one. The better things get, the higher the reading goes.
 
-Once you see the direction of travel, a great deal that looked like personal failure starts making sense. The flat feeling at your own celebration. The anxiety on day two of a holiday. The argument that lands three days after the best weekend you have had in a year. None of those are you spoiling things for no reason. They are an alarm doing exactly the job it was built for, on a threshold set a long time ago by conditions that no longer apply.
+Once you see the direction of travel, a great deal that looked like personal failure starts making sense. The flat feeling at your own celebration. The anxiety on day two of a vacation. The argument that lands three days after the best weekend you have had in a year. None of those are you spoiling things for no reason. They are an alarm doing exactly the job it was built for, on a threshold set a long time ago by conditions that no longer apply.
 
 The lesson that landed in the original environment was about reliability. Happiness got coded as a state that has to be qualified, watched, rationed, or paid for, because in that house it always was. That belief is doing its job faithfully. It has simply outlived the world that made it accurate.
+
+## Why Do I Start an Argument With My Partner Right After We've Had a Really Good Week?
+
+Because closeness pushes the alarm up in exactly the way a promotion or a quiet vacation does, and conflict is the quickest route back down.
+
+The sequence is consistent enough that people describe it in almost the same words. A week goes unusually well. Something soft happens inside it: a conversation that went further than usual, a run of days with nothing rubbing anywhere. Then, a couple of days on, you find yourself pushing hard at something small, with a heat that surprises you as much as anyone.
+
+The trigger was the good week rather than the person across from you. The argument is what the bracing looked like once it found an outlet. Conflict restores everything the alarm was built for: a problem, a role, something to do, and no open question about whether you are allowed to be enjoying this. An easy week supplies none of them.
+
+Two things make this hard to catch in yourself. The first is the lag. If it landed during the good evening you would see the connection instantly, but it usually surfaces later in the week, attached to a plan or a tone or an unwashed pan, and by then the good week reads as unrelated history. The second is that the thing you push at is often genuinely fair. Nothing is being invented. You are reaching for something real that would have gone unmentioned in any ordinary week.
+
+What changes this has little to do with arguing better. The move is to catch yourself saying "that was a good week" and then treat the days after it as the exposed stretch. A pattern you can see approaching has already lost most of what made it work.
+
+The behavior itself, the fight-starting, is wide enough to have earned separate treatment, including the versions where this alarm has nothing to do with it. [It is written up on its own.](/patterns/picking-fights/)
 
 ## Is This Self-Sabotage, Hypervigilance, or Something Else?
 
@@ -321,6 +361,18 @@ Probably worth checking, because five fairly different mechanisms produce simila
 Two of those rows have pages of their own, because they are separate problems that frequently travel with this one. [The behavior of wrecking things on purpose is worth reading separately](/patterns/self-sabotage/), as is [the version where the scanning never switches off at all](/patterns/hypervigilance/). If what you recognized most is the bar moving, [the pattern where nothing you achieve is ever enough](/patterns/why-is-nothing-ever-enough/) will fit you better than this page does.
 
 The distinction that matters most is the first one. Fear of happiness sometimes produces sabotage and often produces nothing at all: a person who has never blown up a relationship, never missed a deadline, never done anything anybody could point at, and who has also never once let a good feeling run its full length. That version is invisible from the outside, which is why it goes unexamined for decades.
+
+## How Is Fear of Happiness Different From Ordinary Pessimism?
+
+Pessimism is a belief about what has yet to happen. This is a reaction to what already has.
+
+A pessimist expects the result to be bad and stands braced before anything occurs. That expectation runs during quiet weeks and busy ones alike, applies to small things and large ones without discriminating, and sits perfectly well alongside enjoying a good result once it turns up, because predicting was never the point. Plenty of pessimists are pleased when something works.
+
+What this page describes runs in the opposite order. The good thing lands first. The feeling starts. Then the interception happens, and the search for what could still go wrong gets built afterward to account for it. Arguing it down never helps, because the case against the good thing got assembled after the discomfort rather than causing it. Ask yourself what a genuinely safe result does to you. A pessimist relaxes. This does not.
+
+There is also a version of expecting the worst that works, which needs saying, otherwise this page reads as a blanket instruction to stop bracing. Researchers have described a deliberate strategy in which somebody sets low expectations before something important and mentally rehearses what could go wrong, and it measurably improves performance for some people while making things worse for others, particularly people who normally run optimistic. The model is described here rather than credited, because the page covering the cost of low expectations names the researchers, the year and the journal. [The version that shows up as under-promising is set out there.](/patterns/promising-too-much/)
+
+What separates the two in practice is what changes them. Pessimism moves when the evidence about results moves. It moves slowly and grudgingly, but it moves. This does not, because results were never really the subject. Somebody can hold an entirely sunny view of their own prospects and still stiffen every time something good actually lands, and that combination confuses everybody, including the person it is happening to.
 
 ## Where Did the Distrust of Good Feelings Get Installed?
 
@@ -346,7 +398,7 @@ The first is straightforward. If ease has historically been the moment right bef
 
 The second is a specific humiliation. Investing fully in a good feeling, showing it openly, and then having it taken away or laughed at is a distinct kind of loss, and it is more survivable to never quite arrive at the joy than to lose it in public. Plenty of people can date this to a single scene: a piece of good news announced at a table, and the reaction that taught them not to do that again.
 
-The third protects an entire system. Where happiness was conditional on performance, staying guarded against unearned happiness defends the worth-through-output arrangement that organises the whole life. If good feeling could simply happen on its own, without being paid for, then the years spent earning it were unnecessary, and that is an unbearable thing to conclude at forty. So the belief keeps defending itself, and the defense looks like discipline. [The worth arrangement underneath it is worth reading about separately.](/patterns/conditional-self-worth/)
+The third protects an entire system. Where happiness was conditional on performance, staying guarded against unearned happiness defends the worth-through-output arrangement that organizes the whole life. If good feeling could simply happen on its own, without being paid for, then the years spent earning it were unnecessary, and that is an unbearable thing to conclude at forty. So the belief keeps defending itself, and the defense looks like discipline. [The worth arrangement underneath it is worth reading about separately.](/patterns/conditional-self-worth/)
 
 The fourth protects a role. Where a child's happiness once competed with caregiving duties, feeling good and stopping were functionally the same event, and stopping was the thing the household could not survive. Guardedness against joy protects the role that made the person indispensable. The brake on happiness turns out, underneath, to be a brake on ever being allowed to stop, which is why it holds so much harder than any amount of reasoning about deserving would predict. [The guilt that fires the moment you actually rest is the same machinery seen from another angle.](/patterns/why-do-i-feel-guilty-when-i-rest/)
 
@@ -359,7 +411,7 @@ In eight arenas, and most people recognize themselves in two or three at first r
 | At work | Good news absorbed in a second and converted straight into the next task, with no pause anywhere in between | "I can't enjoy accomplishments because there's always something more to do." |
 | With a partner | Suspicion when affection arrives unprompted, a flat or distant week following a close one | "Showing vulnerability is an invitation for others to hurt me." |
 | With rest | Guilt inside an unproductive afternoon, the vague sense of having stolen the time from something | "Enjoying myself is a waste of time when I could be working." |
-| On holiday | Two weeks half spent managing what might go wrong, contingency plans made for a trip nobody is threatening | "I'm afraid of what will happen if I stop pushing myself so hard." |
+| On vacation | Two weeks half spent managing what might go wrong, contingency plans made for a trip nobody is threatening | "I'm afraid of what will happen if I stop pushing myself so hard." |
 | With praise | A joke, a correction, or a redirection to somebody else within about two seconds | "I'm only loved or valued for what I achieve." |
 | With your own family | Editing how well things are going before you call, so nobody has to hear about it | "My life is just about meeting others' expectations, not my happiness." |
 | With plans and hobbies | The stable option chosen over the one you actually wanted, repeatedly, described as being sensible | "Enjoying life is something I'll do when I'm successful enough." |
@@ -379,6 +431,8 @@ There is a second version aimed at other people rather than at yourself. Sharing
 
 The cost is easy to miss because nothing visibly goes wrong. What actually happens is that the good thing never gets fully registered anywhere, by you or by anybody who cares about you, and a life full of unmarked wins starts to feel, from the inside, like a life where not much has happened. [That flattening has a page of its own worth reading.](/patterns/why-am-i-so-miserable/)
 
+The other half of this has a page to itself: not the getting-there-first, but what becomes of a win that never gets marked anywhere at all, and the research on what people do in the seconds after something good that cuts the feeling short rather than extending it. [The unmarked win is worked through there.](/patterns/not-celebrating-wins/)
+
 ## Why Does an Ordinary Calm Evening Feel Worse Than a Crisis?
 
 Because a crisis matches what the body expects and comes with instructions, and a calm evening has neither.
@@ -397,13 +451,13 @@ Nobody has to say this out loud for it to operate. A sibling still struggling, a
 
 This one is quiet and it is common and it shapes real decisions. People turn down opportunities they wanted. People edit their news downward on family calls, sometimes for years, until their parents have no accurate idea of how their life is going. People find that a genuinely good stretch produces a heavy, guilty flatness they cannot explain to their partner, because from the outside there is nothing to explain.
 
-The version that runs after loss or serious harm is close to this and slightly different: joy feels like a betrayal of the seriousness of what happened, as though enjoying an afternoon dishonours it. That belief tends to loosen when it gets stated plainly, out loud, to one person, rather than left running underneath. Said out loud, most people can hear that nobody they lost would have wanted their afternoon spent this way.
+The version that runs after loss or serious harm is close to this and slightly different: joy feels like a betrayal of the seriousness of what happened, as though enjoying an afternoon dishonors it. That belief tends to loosen when it gets stated plainly, out loud, to one person, rather than left running underneath. Said out loud, most people can hear that nobody they lost would have wanted their afternoon spent this way.
 
 ## Why Does a Good Moment Sometimes Arrive as Grief?
 
 Because unfamiliar safety surfaces the absence of it, and the absence has been waiting a long time.
 
-People are often bewildered by this. A partner does something unremarkably kind and the reaction is tears out of all proportion to the event. A friend says something warm and accurate and the throat closes. A first genuinely easy week produces a heavy, disorganised sadness in place of relief, arriving from nowhere anybody can point at.
+People are often bewildered by this. A partner does something unremarkably kind and the reaction is tears out of all proportion to the event. A friend says something warm and accurate and the throat closes. A first genuinely easy week produces a heavy, disorganized sadness in place of relief, arriving from nowhere anybody can point at.
 
 The tears are rarely about the good thing. They are about its absence back then, and the good thing simply provided the contrast that made the absence visible. A child who never got this has no way to grieve what they never had, because nothing has shown them what was missing. An adult receiving it for the first time gets shown, and the grief arrives on the same wave as the joy.
 
@@ -425,12 +479,12 @@ Every one of these patterns has two ends, and describing only the guarded end le
 | Denying personal desires | Pursuing what you like | An afternoon goes to something with no purpose beyond the fact that you like it |
 | Discomfort expressing joy | Comfort expressing it | Laughing loudly in a public place without checking who noticed |
 | Loss of joy in old activities | Rediscovery of joy | An old hobby gets picked up again and is allowed to be mediocre |
-| A tax paid after every good feeling | No tax | An easy evening ends and nothing gets paid for it afterwards |
+| A tax paid after every good feeling | No tax | An easy evening ends and nothing gets paid for it afterward |
 | Bracing when affection arrives | Letting it land | "I love you" arrives as information rather than as a question about motive |
 
 Read the right-hand column carefully, because it is deliberately unimpressive. Nobody in that column is euphoric. Nobody has achieved anything. The allowed end of this pattern consists almost entirely of a person taking in things that were already happening.
 
-Practically, it means affection lands rather than triggering a search for the motive, holidays get enjoyed rather than managed, and you can say "this is going well" without an automatic mental asterisk attached to it. Good moments still end, the way all moments do. The difference is that they are allowed to run their full length first.
+Practically, it means affection lands rather than triggering a search for the motive, vacations get enjoyed rather than managed, and you can say "this is going well" without an automatic mental asterisk attached to it. Good moments still end, the way all moments do. The difference is that they are allowed to run their full length first.
 
 Don't judge yourself if that column reads as slightly out of reach right now. The distance between the two columns took decades to build, and nobody crosses it in an afternoon.
 
@@ -444,11 +498,13 @@ What does not move it is trying to relax harder, or deciding to be more positive
 2. **Stay three seconds longer than the reflex wants.** When the good feeling arrives, deliberately remain inside it a few seconds past the point where instinct pulls you out. Three seconds sounds trivial and is genuinely difficult. It is also the entire experiment: staying, and finding out that nothing arrives to punish it.
 3. **Say the alarm out loud, as old information.** "That's the old thing. Nothing is happening." Naming the signal as a prediction from a previous environment, rather than as a live report about this one, changes what your attention does with it. Silent noticing works far less well than saying it.
 4. **Tell one person the good thing on the day.** Not a speech, a sentence. Sharing a win out loud, without a qualifier, contradicts a rule that was installed a long time ago, and it does more than any amount of private acknowledgment.
-5. **Collect boring evidence.** The belief loosens through accumulation, not insight. Good weeks that were followed by ordinary weeks. Compliments that were not withdrawn. Holidays that were simply nice. A note where you record these is worth keeping, because the pattern is very good at forgetting them.
+5. **Collect boring evidence.** The belief loosens through accumulation, not insight. Good weeks that were followed by ordinary weeks. Compliments that were not withdrawn. Vacations that were simply nice. A note where you record these is worth keeping, because the pattern is very good at forgetting them.
 6. **Let one good thing be small.** Much of this pattern insists that pleasure be justified by scale. An afternoon that was just pleasant, defended against nothing and reported to nobody, tests the rule more directly than a large achievement does.
 7. **Watch the predictable relapse points.** It comes back around milestones, anniversaries, promotions, weddings, and any stretch where things go unusually well for unusually long. Knowing that in advance turns a relapse into a scheduled event rather than proof that nothing has changed.
 
 Is any of this comfortable? No. It is slow, freaking unglamorous, and repetitive, and it is the kind of thing that holds when a single powerful insight does not.
+
+A caution about that list before you start on it. None of those seven has been tested together as a package, and the research that comes closest is asking a different question: how quickly the good feeling from an event drains away once you have actually had it. That is a feeling weakening after it landed, which is a separate problem from a feeling being intercepted before it lands. [What that research does and does not support is set out on the page about the life that starts later.](/patterns/the-life-i-will-start-later/)
 
 ## How Long Does This Take, Honestly?
 
@@ -464,8 +520,8 @@ There is no fast route here, and claiming one would be dishonest about how this 
 
 ## What Is One Thing to Do Today, Before You Try to Change Anything?
 
-Run a good-news log for seven days. Every time something goes well, however small, write three things in a note on your phone: the time, what happened, and the exact first sentence your mind produced afterwards. Write the sentence in your own words, unedited, including the ones that sound ridiculous written down.
+Run a good-news log for seven days. Every time something goes well, however small, write three things in a note on your phone: the time, what happened, and the exact first sentence your mind produced afterward. Write the sentence in your own words, unedited, including the ones that sound ridiculous written down.
 
 Then read only the middle column on the seventh night. Almost everybody finds the same three or four sentences repeating, in their own handwriting, attached to completely unrelated events. That repetition is the pattern made visible, and seeing it in your own words does more than reading anybody's description of it, because from that point on you can hear the sentence coming a second before it arrives. The log costs you nothing and works whether or not you ever go anywhere.
 
-If what pulls at you is the reflex itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anybody arrives, a group small enough that the person who quietly downplays everything cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to let a good feeling finish is rarely wasted, whatever you decide afterward.
+If what pulls at you is the reflex itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anybody arrives, a group small enough that the person who quietly downplays everything cannot disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to let a good feeling finish is rarely wasted, whatever you decide afterward.

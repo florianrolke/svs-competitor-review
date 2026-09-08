@@ -245,7 +245,7 @@ That the need underneath is still unmet, which is a piece of information rather 
 
 The urge gets read as evidence: evidence the quit did not take, evidence you never really wanted it, evidence about your character. That reading is where most of the damage happens, and it has been documented for decades. Relapse prevention research, particularly the work Marlatt and Gordon published in 1985, named this the abstinence violation effect: a lapse or even just a bad stretch gets interpreted as proof the whole effort has collapsed, and that interpretation raises the odds of a full return more reliably than the original craving does. The thing that hurts you is the meaning assigned to the wobble.
 
-Treated as information instead, an urge is unusually useful. It arrives at specific times, in specific company, after specific events. Track it for a fortnight and you will have a fairly precise map of what the behavior was for: four in the afternoon on days with a particular meeting in them, Sunday evenings, the hour after any conversation with one specific family member, every time somebody praises you.
+Treated as information instead, an urge is unusually useful. It arrives at specific times, in specific company, after specific events. Track it for two weeks and you will have a fairly precise map of what the behavior was for: four in the afternoon on days with a particular meeting in them, Sunday evenings, the hour after any conversation with one specific family member, every time somebody praises you.
 
 That map is the real prize, and you can only get it after you stop. While the behavior was running, the need was being met invisibly, so it never had to be named. The urge is the need speaking up for the first time in years.
 

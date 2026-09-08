@@ -211,6 +211,26 @@ The last row is the one worth sitting with. In the right-hand column the behavio
 
 One honest note about the middle of that table. Almost nobody sits cleanly in one column. The usual arrangement is genuine affection running alongside a function, and the affection is what makes the function so easy to deny. Real fondness for somebody and keeping them in place are perfectly capable of happening at once.
 
+The 2020 survey named earlier established breadcrumbing by asking people whether it had happened to them, and nothing published since separates a warm message from a crumb by anything visible in the message itself, so the line in the research is drawn by the person answering rather than by an outside criterion. That leaves the comparison above describing a function rather than scoring a behavior, and it leaves the judgment about one specific thread with you.
+
+## How Can I Tell if Someone Is Breadcrumbing Me Rather Than Genuinely Undecided?
+
+By what a month of it adds up to, because inside any single week the two look identical from where you are standing.
+
+This is the one question on this page asked by the person it is being done to, and it gets answered here rather than handed off, because it is how most people find the word at all. Everything else here is written to the person sending. This section is written to the person receiving, and then it hands you back.
+
+Start with why your own reading of it cannot be trusted, which is the part that gets left out. Not knowing where you stand raises attraction by itself, and it works through how much of your attention somebody takes up, so the intensity of what you feel is poor evidence about what they intend. The experiment behind that, and the good reasons to hold it lightly, sit on [the page about not being able to stop thinking about someone](/patterns/cant-stop-thinking-about-someone/), which works the mechanism through properly and carries its limits with it. What that does to this question is simple: your own preoccupation cannot serve as the reading.
+
+So the reading has to come from what accumulates, and from your side only, since their intent is not available to you and no page can hand it over. Scroll back a month and count three things. Who opened each exchange. How many plans acquired a day and a time and then happened. Whether their contact arrives mostly after a stretch of silence on your side, which is the clustering described higher up, seen from your side of it.
+
+Genuine uncertainty about somebody tends to get spoken, and it survives being asked about directly. It also costs the uncertain person something. They show up, they answer the question when it is put to them, they let a plan exist while they work out what they want. Where something else is running, those three stay scarce while the warmth continues at the same rate.
+
+There is one move here, and it is not a confrontation. Ask once, plainly, for a specific thing with a day and a time on it, and then watch what happens to the pattern in the month after, rather than what happens to the reply that evening. A reply is cheap and instant. A month of behavior is neither.
+
+None of which tells you what they intend, and none of it is built to. What it tells you is what the pattern has been doing, which is the only part available to you and the only part you can act on. [Where this settles into something that never quite becomes a relationship, that has a page of its own.](/patterns/relationships-that-never-become-relationships/)
+
+Then read the rest of this page the way it was written, from the sending side. It is the least flattering account available of what somebody running this is likely getting out of it, and it is more useful than anything they are going to tell you.
+
 ## Why Do Two People Breadcrumb the Same Way for Completely Different Reasons?
 
 Because the visible behavior under-determines its cause, every time.
@@ -240,6 +260,20 @@ The fifth is the least dramatic and it is genuinely common. Some of this is plai
 All of which is why the same advice produces such wildly different results. It comes down to the match of the tool with what the tool needs to work on. You can have a screwdriver, and if it is the wrong one it will not work for you, regardless of how good a screwdriver it is. [The same technique landing for someone else and doing nothing for you has a mechanism behind it.](/patterns/why-did-the-advice-that-worked-for-them-do-nothing-for-me/)
 
 A label can be looked up in ninety seconds. A root has to be found, and it has to be found in you specifically, which is slower and considerably more useful.
+
+## Why Would I Keep Back Burners While I Am Committed to a Partner?
+
+Because commitment was never the thing regulating this, and the contact is answering a question your relationship has quietly stopped answering.
+
+This is the version people find hardest to square with their own account of themselves, and it is also the least unusual one here. The 2014 work described earlier is the reason to take it seriously rather than as an accusation. The number of people kept warm did not drop among those in exclusive relationships, and it did not move with how committed they said they felt to the person they were already with. Whatever that figure is responding to, having a partner does not switch it off.
+
+That reads differently once you notice what the third of those roots above is doing. Somebody kept warm holds an alternative in view, and how good the alternatives look is one of the three things that decides how committed anybody feels. So the contact is doing something to the inputs of your own commitment, quietly, from inside a relationship that may be perfectly good.
+
+The nouns are usually two. The first is proof of being wanted, which a partner who has already chosen you cannot keep supplying, because the question was settled years ago and a settled question stops answering. The second is a door you have never had to open, held for a version of your life you have no plan to live in.
+
+Carry the limit alongside that 2014 figure. It came from a survey at a single moment, counting people the respondents named themselves, so it shows the number holding steady across single and committed and cannot show what holds it there. The definition is also narrower than the worry around it: a back burner requires ongoing communication with somebody. A person you merely think about does not qualify, however often you think about them.
+
+The first two steps further down apply here without changes, and the second one is the one that matters. Write the list, name in nouns what each person supplies, then look at which noun repeats. That noun describes what your own week is failing to supply, and it belongs to you rather than to your relationship. Reading it as a fault in your partner is the most common wrong turn taken from this point. [The smaller version of the same move, the things that feel individually too minor to count, sits on its own page.](/patterns/micro-cheating/)
 
 ## Why Does Forcing Yourself to Just Stop Move the Problem Somewhere Else?
 
@@ -318,9 +352,17 @@ Nobody at the resolved end has become cold. The warmth stays, and in most cases 
 
 Don't judge yourself if that middle column reads as slightly unreachable right now. The distance between the two columns took years to build and nobody crosses it in a weekend.
 
-## How Do You Stop Without Sending a Cruel Message or Vanishing?
+## How Do I Stop Breadcrumbing Someone Without Ghosting Them?
+
+Without sending a cruel message either, which is the half of the question people usually skip.
 
 By doing one honest thing quickly and one slow thing for months, and by refusing to confuse the two.
+
+The two endings in that question are not the only two available, and one piece of research makes the point better than an argument can. A 2010 paper in Social Psychology, titled Choosing Compassionate Strategies to End a Relationship, began by collecting 47 different ways people end things and having each one rated for how much compassion it showed the other person. Forty-seven, on a spectrum, rather than a choice between two. What predicted which ones people picked was how much compassionate love they reported feeling for the person, along with the reason the thing was ending, and the kinder options were chosen far less often where the reason given was something the other person had done. A follow-up in the Journal of Social and Personal Relationships in 2014 asked 343 US university students who had themselves ended a relationship which strategies they had used, and the same association turned up outside the scenario.
+
+Hold both at their real size. Each one measured the person doing the ending and nobody else, one of them on a breakup that had not happened, the other on a remembered one, with students in both. What survives that is narrower than it sounds and still useful: how somebody finishes a thing runs across dozens of options rather than two, people broadly agree about which of those options treat the other person better, and the option somebody picks tracks their own state at the time rather than anything about the person they are ending it with.
+
+The fit is imperfect in one way. Those studies watched relationships that existed and then ended. What you are ending mostly never became one, which makes your sentence shorter and the pull toward saying nothing at all much stronger, since nothing formal is being dissolved and nobody is expecting a sentence from you. Which is why silence looks so available here, and so much less available at the end of something that had a name. [Where the silence becomes the whole method, that has a page of its own.](/patterns/ghosting/)
 
 1. **Write the number down.** In a private note, list every person currently on a string. Most people say two, sit with it, and write four. Seeing the list is more disorienting than any advice on this page, and the disorientation is the useful part.
 2. **Name what each one supplies, in nouns.** Next to each name write what their interest gives you. Proof. Insurance. Company. Distraction. Evidence you are still wanted. Somewhere to put an evening. Do it for all of them and the same noun will repeat. That repeated noun is your root.

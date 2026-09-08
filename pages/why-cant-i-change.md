@@ -84,7 +84,7 @@ faqs:
     shifted, so a pause reads as a reset. The arithmetic is wrong in a specific way.
     Change survives on repetition spread across months, and a rested week produces
     more usable repetitions than a driven one followed by a collapse. Judge a break
-    by what the pattern does in the fortnight after it rather than by how the week
+    by what the pattern does in the two weeks after it rather than by how the week
     itself felt.
   q: Why does taking a break feel like losing the progress I just made?
 - a: Pick the one with the best ratio of change to resistance rather than the most
@@ -130,7 +130,7 @@ faqs:
     itself carries on unchanged. The routine, the role, the office, the person who
     always answered: each was a delivery mechanism for something like certainty or
     connection, and losing the mechanism registers as losing the thing itself. That
-    is why an adjustment other people describe as minor can flatten you for a fortnight.'
+    is why an adjustment other people describe as minor can flatten you for two weeks.'
   q: Why do I have a hard time adjusting to change?
 - a: Most difficulty here comes down to one of four things. You picked the hardest
     pattern in your life as a starting project, you are depleted rather than stuck,
@@ -201,7 +201,7 @@ faqs:
     rooms, the same voices, the same hours. A week away can genuinely shift what something
     means to you. Keeping the shift takes small rehearsals in the places the pattern
     actually fires, across months. Any program worth its price designs for the weeks
-    afterwards, ours included.'
+    afterward, ours included.'
   q: Why did the retreat or intensive change nothing by the following week?
 - a: Because it was stored somewhere calm and can be retrieved by a calm version of
     you. The pattern fires under pressure, in a particular room, often with a particular
@@ -295,7 +295,7 @@ Because understanding is content delivered into a state that has not moved, and 
 
 State means three things working together: what your body is doing, what you are focused on, and the language you are standing in. Change one and the meaning attached to the same fact changes with it. The paragraph that lands like a revelation when you are rested, walking, and away from home reads as a mildly interesting idea at eleven at night in the same chair, in the same posture, with the same breath, in the same room where the pattern has always run.
 
-So the sequence most people use is backwards. You read the accurate description of your own behavior, something lights up, and twenty minutes later the lighting-up has been filed alongside every other time something lit up. Nothing in your nervous system was different while the information arrived, so the information was sorted using the meanings that were already there.
+So the sequence most people use is backward. You read the accurate description of your own behavior, something lights up, and twenty minutes later the lighting-up has been filed alongside every other time something lit up. Nothing in your nervous system was different while the information arrived, so the information was handled using the meanings that were already there.
 
 This has an uncomfortable second-order effect. Understanding can quietly become the thing you do instead of changing. Somebody who can name their attachment style, their childhood wound, their coping strategy and their trigger has an impressive amount of accurate material, and each new framework produces a real felt sense of progress. That sense discharges just enough pressure that nothing has to happen this week. Knowing the mechanism becomes the way of avoiding the mechanism, which is the most respectable stall available and by far the hardest to spot in yourself.
 
@@ -407,7 +407,7 @@ Every one of these patterns has two ends, and describing only the stuck end leav
 
 | The stuck end | The moved end | What it looks like on an ordinary Thursday |
 |---|---|---|
-| Narrating the pattern afterwards | Catching it while it runs | You feel the familiar move arriving and stay put once out of five times |
+| Narrating the pattern afterward | Catching it while it runs | You feel the familiar move arriving and stay put once out of five times |
 | Motivation that runs on pain | Motion attached to something being built | You keep going on a day when nothing hurts and nobody is watching |
 | Postponement until a condition changes | A date in the calendar with the condition unchanged | The conversation happens on Thursday, with the business still not at the number |
 | Inherited rules running unexamined | Rules you have looked at and chosen or dropped | You rest at four in the afternoon without an internal audit starting |
@@ -460,4 +460,4 @@ Write a payment ledger for one pattern. Open a note, put the behavior at the top
 
 Then leave it for a day and read it again. Most people find the fifth line is either blank or vague, and that blank is the most useful diagnostic on the page. A pattern with no better offer waiting on the other side will not move, however clearly you understand it, and a blank fifth line tells you where the actual work sits. It costs you ten minutes and it is yours whatever you decide to do next.
 
-If what pulls at you is the mechanism itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this exact material: real screening before anyone arrives, a group small enough that the person who explains their pattern beautifully cannot hide inside the explanation, and structured integration afterwards, because the fading is the predictable part and designing for it is the only honest response. The limitation worth stating is that exact dates, price and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what your pattern has been paying you is rarely wasted, whatever you decide afterwards.
+If what pulls at you is the mechanism itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this exact material: real screening before anyone arrives, a group small enough that the person who explains their pattern beautifully cannot hide inside the explanation, and structured integration afterward, because the fading is the predictable part and designing for it is the only honest response. The limitation worth stating is that exact dates, price and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what your pattern has been paying you is rarely wasted, whatever you decide afterward.

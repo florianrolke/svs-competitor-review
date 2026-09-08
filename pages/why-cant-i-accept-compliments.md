@@ -17,7 +17,7 @@ faqs:
 - a: 'Discomfort with praise is extremely common, and common does not make it neutral.
     A brief flush of awkwardness that passes in seconds is ordinary. What is described
     here is different in shape: the praise gets actively pushed back on, corrected,
-    or joked away, and afterwards almost nothing of it stays with you. The discomfort
+    or joked away, and afterward almost nothing of it stays with you. The discomfort
     is a signal about the receiving mechanism rather than about the person complimenting
     you.'
   q: Is it normal to feel uncomfortable when someone compliments me?
@@ -161,7 +161,7 @@ faqs:
   q: Why do I over-explain or minimize when someone compliments my work?
 - a: Very likely, and the two sit together more often than people expect. Appetite
     and intake are separate mechanisms. Someone can arrange situations where recognition
-    might arrive, check for it afterwards, and then be unable to metabolize any of
+    might arrive, check for it afterward, and then be unable to metabolize any of
     what turns up. That is how someone ends up with plenty of appreciation on the
     record and none of it in the account. The shortage was never in what people offered.
   q: Do I secretly want compliments but also reject them when I get them?
@@ -280,7 +280,7 @@ Notice how reasonable they sound from inside. None of them present as a wound. T
 
 Right here, before anything practical, because this line matters more than every suggestion below it.
 
-If the difficulty with receiving sits alongside a hopelessness that has not lifted for months, an addiction, a diagnosed condition you are currently managing, or any thought of harming yourself, however briefly it passes, that belongs with a licensed professional rather than with a self-directed practice. The same holds if praise from a specific person reliably brings back memories of being hurt by them, or if warmth in a current relationship arrives only when you comply and disappears when you assert something, which is a control dynamic and needs proper support to sort out.
+If the difficulty with receiving sits alongside a hopelessness that has not lifted for months, an addiction, a diagnosed condition you are currently managing, or any thought of harming yourself, however briefly it passes, that belongs with a licensed professional rather than with a self-directed practice. The same holds if praise from a specific person reliably brings back memories of being hurt by them, or if warmth in a current relationship arrives only when you comply and disappears when you assert something, which is a control dynamic and needs proper support to work out.
 
 What follows is built for the everyday version: the compliment corrected on Monday, the offer of help refused on Tuesday, the toast you spent looking at your plate. Asking for help in month one costs far less than asking in month twelve.
 

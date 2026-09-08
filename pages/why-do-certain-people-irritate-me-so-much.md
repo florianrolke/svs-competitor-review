@@ -175,7 +175,7 @@ Because every piece of that advice treats the irritation as something to survive
 
 There is a quieter assumption underneath all of it. Every one of those moves takes for granted that the reaction was produced by the other person's conduct, so the only lever available sits on their side of the room. Once the charge is out of proportion to what actually happened, no amount of managing the outside encounter can resolve it, because the extra size was never out there to begin with.
 
-This is worth saying plainly, because the failure of tolerance advice usually gets read as a personal shortcoming. You tried being the bigger person. It held for a fortnight. Then the new colleague arrived with the same laugh and the same certainty and you were back where you started, now with the added conviction that you lack discipline. The repeated failure was information the whole time. It was telling you the lever was on the wrong side.
+This is worth saying plainly, because the failure of tolerance advice usually gets read as a personal shortcoming. You tried being the bigger person. It held for two weeks. Then the new colleague arrived with the same laugh and the same certainty and you were back where you started, now with the added conviction that you lack discipline. The repeated failure was information the whole time. It was telling you the lever was on the wrong side.
 
 ## Why Does Asking Yourself Directly Turn Up Nothing?
 

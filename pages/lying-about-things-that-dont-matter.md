@@ -221,11 +221,27 @@ Almost certainly not, and this deserves saying early rather than at the bottom w
 
 The behavior on this page is one of the most widely distributed things human beings do. It appears in every culture anybody has studied it in, at every age past about four, in people with excellent reputations and clean consciences and nothing to hide. It appears in people who would describe honesty as their defining value, and it appears in them several times a week without registering.
 
+The best-known measurement behind that is the diary work DePaulo and colleagues published in 1996 in the Journal of Personality and Social Psychology. People carried a record for a week and logged their own untruths as they told them. Students in that work reported lying in roughly a third of their social interactions and community volunteers in around a fifth, and the great majority of what got logged was small, unplanned, and untroubling to the person telling it. The limit sits in plain view: the record was kept by the same person doing the thing being recorded, which is the problem this whole area has never solved. Even so, nothing in that data supports the idea that somebody who does this has something wrong with them.
+
 What has changed is the vocabulary available for it. You can now read, on pages ranking above this one, that small lies indicate a deeper dishonesty, that they escalate on a predictable path, and that a person who tells them has a character problem requiring correction. Very little of that survives contact with the actual research. What it reliably produces is a person lying awake converting an ordinary social reflex into evidence about who they are.
 
 So the honest position is this. You probably came here to find out what is wrong with you. There is a real chance the most costly thing in this whole situation is that question, which has kept you from ever mentioning it to anyone, which has in turn made a common thing feel like a private deformity.
 
 That is not the same as saying it never costs anything. One of the five roots below does cost something and is worth being able to recognize. But it announces itself in a particular way, and it is not what most people arriving here are looking at.
+
+## Why Do You Lie About Tiny Things When There Is Nothing to Gain?
+
+Because gain was never what the sentence was for, and the question is the wrong shape for the thing it is being asked about.
+
+Going back over one of these, what you are running is a transaction audit. What did I want. What did I get. What was I protecting. The audit assumes an exchange, and an exchange has two sides, so an empty first side seems to imply a hidden second one. A great many sentences in ordinary conversation are not exchanges at all. They are responses to the pressure of a turn arriving, and the only thing they buy is that the turn goes back to somebody else on time.
+
+Hold onto the difference between the two kinds, because they look identical from the outside and behave nothing alike. An untruth told for gain has a shape you can describe afterward. It has a target. It usually has some preparation behind it. It gets checked against the version you have already given people, and if it works you feel something about it at the time. Whatever else it is, it is a thing you did.
+
+The one this page is about has none of that. No preparation, no target, no reward, and no feeling attached to it in the moment beyond a faint sense of having said something slightly off. You do not need a study for that part. You know it because you cannot remember choosing. You remember hearing.
+
+Which is why the scale is worth taking seriously as evidence rather than as an embarrassment. Nobody puts effort into a claim that purchases nothing. If your untruths were doing work for you, they would be larger, they would be about things somebody might reasonably check, and you would be able to say what you were after. Yours are about a documentary. The size is telling you what the sentence was, which was filler, cut to fit the hole.
+
+There is a supporting account of the timing further up this page, the time-pressure work, and it arrives with the caveat that the wider literature disagrees with itself. Take it as one account rather than as the mechanism. The real answer is duller than a motive, and it is also the reason the hunt for one keeps coming back empty.
 
 ## Why Can You Never Find the Motive Afterward?
 
@@ -233,7 +249,7 @@ Because in most cases there was not one, and the search itself is what turns an 
 
 Think about what you actually do in the replay. You go back to the moment, you look for the advantage, and you find nothing. No status was gained. Nobody was impressed. Nothing was avoided that would have been unpleasant. And because the search comes back empty, you conclude that the motive must be buried, and that something buried is worse than something visible.
 
-That inference is backwards. An empty search is much more likely to mean an empty box.
+That inference is backward. An empty search is much more likely to mean an empty box.
 
 Here is what tends to have actually happened. Conversations run at a speed that does not permit deliberation. A turn lasts a fraction of a second. Whatever is available in that fraction is what comes out, and what is available is whatever keeps the exchange moving with the least friction. Saying yes to the documentary keeps it moving. Saying no opens a small hole that somebody has to fill, and the hole is not painful, it is just a hole, and something in you reached for the version without one.
 
@@ -244,6 +260,8 @@ Once you can see that, the whole replay changes shape. You stop looking for the 
 ## Which of Your Untruths Are for You, and Which Are for Them?
 
 Take the sorting rule seriously for one minute, because it does more work than any amount of reflection.
+
+The two columns come out of the same 1996 diary week described above, where every logged untruth was coded by whom it actually served, and the self-serving ones outnumbered the ones told for somebody else. Carry the weakness along with the finding: the coding rested on the teller's own account of who each untruth was for, and a teller has obvious reasons to file things in the kinder column. It still sorts your own examples faster than reflecting on them does.
 
 Write down five of your own from memory. Then put each one in a column. Column one: this protected or advantaged me. Column two: this protected or pleased somebody else.
 
@@ -261,7 +279,9 @@ Others find that column one is fuller than they wanted and that everything in it
 
 And a third group finds the columns useless because their examples do not fit either. Those are the pure gap-fillers, and the sorting failing on them is itself the diagnosis.
 
-## Which Part of This Is Produced, and Which Part Is Chosen?
+## What Can You Do Right After a Pointless Lie Slips Out?
+
+Something small, within about ten seconds, and it is the only part of the whole sequence you have any purchase on. Which part of this is produced, and which part is chosen?
 
 This distinction is the entire workable surface, so it is worth being precise about.
 
@@ -333,6 +353,10 @@ Some people learned this somewhere it was needed.
 
 If you grew up in a house where the true answer reliably produced something, a lecture, a change in the temperature, a long silence, three follow-up questions, then editing worked as an efficient response to a real environment rather than as a character weakness. It was learned early, refined through repetition, and effective. It worked. That is why it is still running.
 
+One piece of evidence speaks to that more directly than the rest of this literature does, and it was collected on children. A 2011 paper in Child Development, titled *A punitive environment fosters children's dishonesty: A natural experiment*, compared two West African schools that resembled each other in most respects and differed in how they handled discipline, one of them harshly and one of them not. Three and four year olds at the harsher school were more likely to lie in a simple peeking game, and better at holding the lie once they had told it. It is named here by its title rather than by its authors, because one of the two surnames belongs to a different and unrelated researcher and the mix-up would be an easy one to make.
+
+The limits on it are large and belong in the same breath. Nobody assigned the schools, so the two groups could differ in ways nobody measured. It is one pair of schools in one place. And the children were four, while what you are asking about is an adult account of an ordinary afternoon. What it supports is the narrow claim: a punishing environment can teach the edit early and can teach it well. What it cannot tell you is whether yours came from yours.
+
 The specific shape it takes is worth recognizing. In this root the untruths cluster around the categories that used to be inspected. Time, money, whereabouts, who you were with, whether you had done the thing. The content of your childhood inspections shows up in the content of your adult edits with an accuracy that surprises people when they check.
 
 And the reflex has outlived the danger, which is the ordinary way reflexes work. You now produce a small edit about your afternoon in a room where the true version would produce nothing at all, because the system that generates it was tuned to a house you have not lived in for twenty years.
@@ -370,6 +394,20 @@ You do not need to introspect. You need to sort evidence you already have.
 Two or three of those will point the same way, and where they disagree the useful information is in the disagreement. A person whose examples run in one direction *and* cluster by person is usually managing a picture with certain people specifically, which is a narrower and more workable problem than either reading alone.
 
 If nothing points anywhere, the most likely answer is the first row, and the most likely reason you are reading this at all is that you have been treating an ordinary thing as evidence about your character.
+
+## Why Do You Exaggerate Your Competence More Around a Boss or an Impressive Colleague?
+
+Not because a sixth root appeared. Because certain rooms turn the volume up on whichever of the five is already yours, and a room with your manager in it turns it up further than most.
+
+The work of managing how you come across has two separable parts, and the research literature treats them separately for a reason. There is how much you want to manage it, and there is what you actually do about it. The first is a dial. It moves with three things: how relevant the impression is to something you want, how much you want that thing, and how far the version you think the room currently holds sits from the version you would like it to hold. The second is the construction, the specific claim you reach for, and that is where the five roots above live.
+
+A room with your manager in it pushes all three settings on the dial at once. What they think of you is attached to real outcomes. Those outcomes matter to you. And the distance between how competent you feel in that specific moment and how competent you would like to appear is at its widest exactly where you are being appraised. So the dial goes up, the reflex has more pressure behind it, and the sentence about the document you skimmed rather than read arrives faster and with less friction than it would anywhere nothing is riding on it.
+
+The same reading covers the colleague who has read more than you, the friend of a friend who does the thing you once wanted to do, and the group you joined last. None of them has any authority over you. All of them are rooms where you feel behind, and feeling behind is what moves the dial, not rank.
+
+This is a described model rather than one researcher's finding, and that is worth saying plainly rather than dressing a name onto it. It is an organizing account assembled from a large body of self-presentation work, most of it short laboratory encounters and questionnaires rather than recordings of anybody talking to their actual manager. It predicts when the effort goes up. It says nothing about what a particular person will produce when it does, and it will not tell you which of the five is yours.
+
+There is one practical difference about this particular room, and it is not detection. Your manager almost certainly will not catch it, and would care less than you imagine if they did. The difference is that a claim made here keeps working after the conversation ends. A claim about a documentary dies in the room it was made in. A claim about a piece of work sits next to future work, and it quietly raises the floor you are then expected to stand on. That is the version worth interrupting, and interrupting it is cheap. I have only skimmed it, give me until Thursday. Said at ordinary speed in an ordinary voice, it costs four seconds and buys the floor back.
 
 ## Why Does the Cringe Arrive at 3am About the Ones Nobody Checked?
 
@@ -471,7 +509,7 @@ It depends entirely on which of the five you are in, and mixing them up is why p
 
 If this is ordinary social smoothing, there is nothing to take any time, and the shift is the length of time it takes to read a paragraph and stop treating a normal thing as a defect.
 
-If this is the gap-filler, the useful change is fast and the residue is slow. Learning three or four accurate answers that fit the same slot takes about a fortnight of noticing. The old replays fade over months, and they fade because they stop being interrogated rather than because they are resolved.
+If this is the gap-filler, the useful change is fast and the residue is slow. Learning three or four accurate answers that fit the same slot takes about two weeks of noticing. The old replays fade over months, and they fade because they stop being interrogated rather than because they are resolved.
 
 If this is the picture, it is slower and it does not move by working on the sentences. It moves as the gap between the presented version and the actual one becomes less frightening, which happens through evidence rather than insight, and evidence arrives one low-stakes room at a time. Months rather than weeks, and most people notice it in retrospect.
 

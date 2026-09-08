@@ -50,7 +50,7 @@ faqs:
 - q: "How do I repair a promise I already broke?"
   a: "Name it before they raise it, say what happened in one sentence without building a story around it, and resist attaching a new promise you have not actually checked. Schweitzer, Hershey and Bradlow found that a promise to change accelerates trust recovery, which is precisely why an unchecked one is expensive here. Offer the smallest thing you are certain of instead."
 - q: "Is a promise kept three weeks late still broken?"
-  a: "It depends what the promise was for. If the content was the point, a document or a lift to the airport, late delivery is partly kept and mostly repairable. If the timing was the point, a call during the week somebody's father was in hospital, late is a different object, and delivering it late can land worse than not at all because it arrives as proof that you knew."
+  a: "It depends what the promise was for. If the content was the point, a document or a lift to the airport, late delivery is partly kept and mostly repairable. If the timing was the point, a call during the week somebody's father was in the hospital, late is a different object, and delivering it late can land worse than not at all because it arrives as proof that you knew."
 - q: "Why does deciding to be more careful never last?"
   a: "Because the decision is made in one state and the promise gets made in another, and the first has no access to the second. There is also a structural problem. Resolving to be careful is itself a promise, produced by exactly the same machinery, in exactly the same conditions. Repairs that hold tend to change the shape of the sentence you say rather than the strength of your resolve."
 - q: "Should I just stop making promises?"
@@ -98,7 +98,7 @@ Five sentences people say about themselves privately, usually on a Sunday night,
 
 </div>
 
-You are on the phone on a Tuesday. Somebody you care about is describing a bad month, a father in hospital, a job that has gone wrong, and near the end of it you say you will call them this week. You mean it. You can feel yourself meaning it, which is a specific physical sensation and not a figure of speech. There is a small warmth in it, and a small relief, and a sense of the thing already being half done.
+You are on the phone on a Tuesday. Somebody you care about is describing a bad month, a father in the hospital, a job that has gone wrong, and near the end of it you say you will call them this week. You mean it. You can feel yourself meaning it, which is a specific physical sensation and not a figure of speech. There is a small warmth in it, and a small relief, and a sense of the thing already being half done.
 
 Then the week happens. Wednesday has a deadline in it. Thursday you think about the call twice, once in the car and once at about eleven at night when calling would be strange. Friday you are tired. Saturday belongs to other people. On Sunday evening you are loading the dishwasher and it arrives, whole and cold, and you stand there holding a plate.
 
@@ -202,6 +202,18 @@ Most people who read a page like this have already privately settled on the hars
 
 The distinction also matters to the other person, considerably more than most people realize. Schweitzer, Hershey and Bradlow reported in 2006 that trust damaged by an unreliable act recovered when the person apologized and then behaved consistently, while trust damaged by deception did not fully recover even with the same apology and the same consistency. Deception and unreliability are repaired at different rates, and only one of them is repairable at all in the ordinary way. If the person waiting on you has quietly filed you under the wrong one, that is worth knowing, because it is the kind of thing that gets corrected by evidence rather than by protest.
 
+## Why Do I Sincerely Mean Promises and Still Fail to Keep Them?
+
+Because how much you meant it is one input among several, and several of the others carry more weight than it does.
+
+That is the part almost nobody gets told. The private theory most people run says the meaning is the whole of it: if I had meant it enough, it would have happened, so the fact that it did not happen tells me what my meaning was worth. The chain holds together from the inside, which is how it survives for decades without once being checked against anything. The reason that arrives on its own afterward, before you have asked for one, is worked through on [the explanation I give myself](/patterns/the-explanation-i-give-myself/).
+
+Armitage and Conner pooled 185 independent studies published up to the end of 1997 and reported that intention, together with how much control people believed they had, accounted for about 27 percent of the variation in what people then did. Roughly three quarters of it sat elsewhere: in whether the thing had a time attached to it, in what the week did, in which version of you was standing there when the moment arrived. Intention is real, it does measurable work, and most of what decides the outcome sits outside it.
+
+Two limits belong with that figure. Most of the studies behind it measured health behavior rather than promises made to a person, which the evidence section further down goes into properly. The limit that matters here is a different one: 27 percent is a population number. It describes how much intention explains across many thousands of people, and it cannot tell you which of your promises will be the one that fails, or what happened to yours on that particular Thursday.
+
+What the figure does settle is the question in the heading. Sincerity was present in the promises you kept and in the promises you did not, which is why it cannot be the thing that separates them, and why asking yourself whether you really meant it returns nothing you can use. The five roots below ask a different question instead: not how much you meant it, but what the yes was doing at the moment it left your mouth.
+
 ## Why Is the Person Who Promised Unreachable by Thursday?
 
 Because your own decision-making treats a future version of you with something closer to the distance it uses for other people than the closeness it uses for now.
@@ -264,11 +276,13 @@ If this is your root, the most expensive thing in the whole pattern is probably 
 
 Some promises are not given. They are extracted, and the difference changes what the promise even was.
 
-There are rooms in which a refusal is not a real option. A manager who does not receive no. A parent whose disappointment reorganizes an entire family for a fortnight. A friend in a bad enough state that any answer other than yes feels like abandonment. In those rooms the yes is a report on the power arrangement rather than a statement of intent, and treating it as a broken promise afterward misidentifies what happened.
+There are rooms in which a refusal is not a real option. A manager who does not receive no. A parent whose disappointment reorganizes an entire family for two weeks. A friend in a bad enough state that any answer other than yes feels like abandonment. In those rooms the yes is a report on the power arrangement rather than a statement of intent, and treating it as a broken promise afterward misidentifies what happened.
 
 The tell here is immediate and unmistakable. Ask yourself what would have happened if you had said no, and see how quickly a detailed answer arrives. People with a forecasting problem have to think about it and usually shrug. People with this root have the answer instantly, in full, including the tone of voice and the two weeks afterward.
 
 The second tell is clustering. Misses concentrated around specific people, while your promises to everybody else hold, points here rather than at your calendar.
+
+The version most often mistaken for a scheduling problem is the one at work: when the person asking writes your review, or decides what you are given to do next, the yes is priced by what refusing would cost rather than by what the week can hold, and that price stays invisible to them, because from where they sit they asked politely and were told yes. Measured work on how badly both sides misjudge what a refusal actually costs sits on [saying yes when you mean no](/patterns/saying-yes-when-you-mean-no/), which owns that moment; what this root does not have is a number of its own, and any advice aimed at making you more reliable will have been built on the roots that do.
 
 Say the consequence plainly: a promise that could not have been refused does not become keepable by trying harder, and every strategy aimed at improving your reliability will fail against it while quietly reinforcing the idea that the failure is yours. The work sits with that relationship. Where the yes was pulled out of you, the material on [agreeing when you disagree](/patterns/agreeing-when-you-disagree/) is closer to the actual problem than anything on this page.
 
@@ -365,7 +379,7 @@ It depends entirely on what the promise was for, and no research decides this on
 
 Where the content was the point, late delivery is mostly repair. A document, a lift to the airport that got rearranged, a piece of information somebody needed: these have a use that survives delay, and turning up with them three weeks late costs you something in reputation and returns most of the value. Apologize once, deliver, move on.
 
-Where the timing was the point, late is a different object entirely. A call promised during the week somebody's father was in hospital had a job, and the job was that week. Making it a month later does not deliver the thing late. It delivers proof that you remembered, which can land worse than silence, because it establishes that the omission was not forgetting.
+Where the timing was the point, late is a different object entirely. A call promised during the week somebody's father was in the hospital had a job, and the job was that week. Making it a month later does not deliver the thing late. It delivers proof that you remembered, which can land worse than silence, because it establishes that the omission was not forgetting.
 
 Most people apply the first logic to promises of the second kind, which is why the very late call so often goes worse than expected. If what you are about to deliver has expired, the honest move is to say what you noticed rather than to perform the original promise after the fact. That the week happened and you were not in it, and that you have thought about it since, is a truer sentence than a phone call arriving as if nothing has passed.
 
@@ -406,6 +420,8 @@ It has three properties, and none of them involve promising less.
 **It is checkable without asking you.** The best commitments produce evidence on their own. A calendar invitation sent while you are still on the phone. A message with the date in it. A shared document. Anything that means the other person does not have to decide whether it would be rude to follow up, which is a cost they are currently paying that you cannot see.
 
 And an honest limit, because the section would otherwise be dishonest. None of this improves your forecasting. The person who has to make the call on Thursday is exactly as unreachable as before. What changes is that the failure now has a date attached to it, which means you find out on Tuesday instead of on Sunday, and Tuesday is where the useful hour lives.
+
+Those three properties are not an invention of this page: Gollwitzer set the general form out as implementation intentions in a 1999 paper in American Psychologist, describing what changes when an intention is specified in advance as a when, a where and a how instead of as an aim, which is what a named Thursday evening does to a promise made about this week. The limit is the familiar one, that the work was built on goals people set for themselves rather than on promises made to somebody else, and a promise whose only function was to end a difficult moment does not produce a plan of any kind, which is why this section comes after the five roots rather than instead of them.
 
 ## How Do You Repair One You Already Missed?
 

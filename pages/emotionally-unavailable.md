@@ -136,7 +136,7 @@ faqs:
 - a: Because the distance does its job. A few weeks alone lowers the alarm, the good
     parts of you come back into focus without the pressure of being known attached
     to them, and getting in touch feels safe again. The return is usually sincere
-    and also unchanged, which is why the same fade tends to follow the same warm fortnight.
+    and also unchanged, which is why the same fade tends to follow the same warm two weeks.
     Ask what is different this time and listen for a specific answer.
   q: Why do emotionally unavailable people come back after they disappear?
 - a: Often, usually late, and rarely in a form that helps you. The regret tends to
@@ -203,7 +203,7 @@ faqs:
     in what happens as you get specific. Somebody who does not want this relationship
     thins out as your questions get clearer, and will tell you plainly if you ask
     plainly. Somebody protective wants it and flinches at the closeness, which produces
-    warmth and retreat inside the same fortnight. Ask one direct question and follow
+    warmth and retreat inside the same two weeks. Ask one direct question and follow
     where the answer travels.
   q: Does emotionally unavailable mean he is just not interested?
 - a: Because the wanting is real and dating is the part that works. Early attraction
@@ -230,7 +230,7 @@ faqs:
     the swerve while it is happening tends to arrive within a month of deliberate
     attention, and catching it counts. Doing something different in that moment takes
     repetition measured in months, since the reflex was rehearsed daily for years.
-    Anybody offering you a fortnight is selling something.
+    Anybody offering you two weeks is selling something.
   q: How long does it take to become emotionally available?
 intent: research
 metaDescription: Emotional unavailability is a learned distance from feeling that
@@ -322,7 +322,9 @@ Two opposite adaptations grow from the same soil, and they are two halves of one
 
 Not every case traces back to a parent. A household where one adult's mood set the weather, a stretch of family illness where everybody quietly agreed to need less, a school where showing feeling was expensive, a first relationship that ended in a way you have never really described to anyone. The mechanism holds across all of them: feeling turned out to be costly, and a person intelligent enough to notice adjusted accordingly.
 
-## What Is the Distance Protecting?
+## Why Do I Pull Away Right After I Feel Close to Someone?
+
+What is the distance protecting?
 
 From finding out what somebody does with the version of you that is not managed.
 
@@ -347,7 +349,9 @@ Probably worth checking, because six fairly different situations produce similar
 
 Most people reading a page like this have already run the argument in their head forty times. Sitting down with this table and picking the row that actually matches the last three months, rather than the row that matches the worst evening, is worth more than another forty rounds.
 
-## Could You Be the Unavailable One Without Knowing It?
+## How Can I Tell If I Am the Emotionally Unavailable One?
+
+Could you be the unavailable one without knowing it?
 
 Possibly, and the honest answer arrives faster than expected once you check the right three things.
 
@@ -378,11 +382,25 @@ The friends row lands hardest for people who consider themselves sociable. A lar
 
 The work row deserves attention on its own. Humor is the most socially rewarded exit in the whole list. Nobody at a dinner table ever objects to the person who makes something serious funny, which is exactly why the habit survives for decades without anyone naming it as a departure from the room.
 
+## How Can I Tell Whether My Emotionally Distant Boss Is Guarded or Simply Professional?
+
+Mostly you cannot, and the reason you cannot is the part that helps.
+
+Distance is the normal setting of a working relationship. A manager who keeps their own year to themselves is doing what the role asks, and nearly every signal that carries meaning between friends carries none across a desk: brief replies, no personal detail, a conversation that ends when the work ends. Taken as evidence, all of that is noise.
+
+One test does separate the two, and it is the same test the rest of this page runs on. Professional distance is flat. It sits at one depth on a good quarter and a bad one, with you and with everybody else. Protective distance moves. It closes a little after the project that went well, after the meeting that ended with somebody saying something true, and then it opens again inside a week. Distance that shifts right after things went well between two people is a pattern. Distance that never changes at all is a role, performed correctly.
+
+Two cautions come with that test. It needs months of watching, and you will be watching while hoping for a particular answer, which is the condition under which people reliably find what they came for. And a confident reading leaves you nothing to act on, since nobody else's capacity answers to an observer.
+
+The question with an answer in it is the other one. Work is the arena with the best cover in the table above, because a person who says nothing personal at work looks the same as a person who is simply good at their job. If humor arrives whenever a conversation turns personal, if the people you have worked with longest know nothing about your year, then the distance you are reading in somebody else may also be the distance you are supplying. That one is testable tonight, in a single ordinary sentence said to somebody you work with.
+
 ## Why Do the Pursuer and the Distancer Keep Finding Each Other?
 
 Because both roles grow from the same wound, and each one makes the other worse in a way that feels, to both people, entirely like the other person's fault.
 
 The mechanism is worth naming directly. Repeated attraction to emotionally unavailable partners paradoxically feels safer than a fully reciprocal relationship, which is why it survives every resolution to stop doing it. People living inside it describe the result in almost identical language: "I always fall for people who can't give me what I need." A relationship where love has to be earned is familiar territory. A relationship where it simply arrives, without conditions, asks you to receive, and receiving is the harder skill for anyone whose place has always felt earned.
+
+The attachment research behind that pull is named on [avoidant attachment](/patterns/avoidant-attachment/), where the distancer half of this loop is set out with the studies and their limits attached, rather than being restated here.
 
 Watch the loop run. The distancer withdraws slightly. The pursuer, whose alarm is tuned to exactly this, moves closer and asks for reassurance. The extra closeness raises the distancer's alarm, so they withdraw a little further, which raises the pursuer's alarm further still. Nobody in this loop is behaving badly. Two protective systems built in two different houses are running at full volume in one kitchen. [Why the same dynamic keeps reappearing across different partners is worth settling separately.](/insights/why-do-i-attract-the-same-people/)
 
@@ -411,6 +429,22 @@ Every one of these patterns is a polarity with two ends, and the distanced end i
 Read the right-hand column carefully, because it is deliberately unimpressive. Nobody in that column is confessing anything. There are no long overdue conversations and no speeches. The available end of this pattern is quiet, and it mostly consists of a person who can answer a question about their own week honestly on the first attempt.
 
 Don't judge yourself if that column reads as slightly out of reach right now. The distance between the two columns took decades to build, and nobody crosses it in an afternoon.
+
+## How Is Emotional Availability Measured in Research?
+
+By watching two people interact and having a trained observer judge what happened, which is a harder test than any question on this page.
+
+The phrase has a technical life that has little to do with the way it travels in ordinary use. Biringen's Emotional Availability Scales judge a pair from observed interaction rather than from what either person reports about themselves: four scales for the adult side and two for the person on the other side of it. The qualities looked for on the adult side are sensitivity, appropriate structuring, nonintrusiveness and nonhostility, which is a shorter and stranger list than the everyday sense of the term suggests, and none of the four is warmth. The background and the empirical record sit in "Emotional availability (EA): Theoretical background, empirical research using the EA Scales, and clinical applications", Developmental Review, 2014.
+
+Three limits belong with that, and they matter more to you than the scales do.
+
+The evidence grew up in developmental research, from adults and young children watched at free play, not from adults describing partners. So the research sense of the term and the sense that brought you to this page are two different measurements wearing one name.
+
+Nobody judges themselves. The judging is done by trained observers rather than by the people being watched, which means the scales cannot be turned into the self-test you would actually want.
+
+And the scales are contested. A 2024 preprint reporting a psychometric analysis of preschool-aged pairs, judged at free play by two trained raters, did not reproduce the structure the scales assume. That work is a preprint rather than a peer-reviewed paper, which is a limit on the limit, and both halves belong here.
+
+What survives all three is the shape of the test rather than the tool. Availability, wherever anybody has tried to measure it seriously, is read from what happened during an actual interaction: not from intention, not from how much a person cares, not from what they say about themselves afterward. That is the uncomfortable part for anybody living inside this pattern, because the experience of it is consideration and calm, while a trained stranger judging the same hour would have only what was said and what was done to go on. It is also why the two-day exercise this page closes with asks for what happened rather than what you concluded about yourself.
 
 ## How Do You Become More Available Without Blowing Anything Up?
 

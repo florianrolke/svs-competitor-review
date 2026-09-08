@@ -363,7 +363,7 @@ Two very different clocks, and confusing them is what makes people quit at week 
 
 Naming the mechanism is fast. Once somebody is genuinely willing to look at the conditions plainly, most of it arrives in a single sitting, sometimes in twenty minutes with a pen. What makes it hard is the willingness rather than the difficulty, since the first honest version of the answer never feels like an adequate account of something that was harmful. Feeling inadequate is not the same as being inaccurate.
 
-Building something that actually holds is slow. Weeks to months, and it should not be trusted until it has been tested against a real low moment. The reason for the delay is structural: a driver that has been under-supplied for a year does not get topped up in a fortnight, and a vehicle that has only ever been used on good days has been tested against nothing at all.
+Building something that actually holds is slow. Weeks to months, and it should not be trusted until it has been tested against a real low moment. The reason for the delay is structural: a driver that has been under-supplied for a year does not get topped up in two weeks, and a vehicle that has only ever been used on good days has been tested against nothing at all.
 
 The guilt runs on a third clock and follows neither of the other two. It usually gets less loud rather than shorter, and it tends to reappear on anniversaries, in specific rooms, and at the exact times of day the original thing happened. Expect that rather than reading it as evidence that nothing has changed. [Learning to rely on your own judgment again after it has been proven wrong once is its own separate project](/patterns/how-to-trust-yourself/), and it moves at roughly the speed of accumulated ordinary evidence.
 

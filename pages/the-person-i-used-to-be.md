@@ -164,7 +164,7 @@ There is also no accepted measure of it in adults. No number of missing adjectiv
 
 Four situations, and none of them describes the ordinary version everything below is written for.
 
-If the flatness has run for months. Not a bad fortnight and not a heavy season, but a long stretch in which nothing anywhere registers as pleasurable, energy does not return after rest, and hopelessness sits there without lifting. That needs assessing by somebody licensed rather than reframing by anybody, and asking in month one costs a great deal less than asking in month twelve. The same applies to any thought of harming yourself, however briefly it passes through, and everything else here can wait indefinitely.
+If the flatness has run for months. Not a bad two weeks and not a heavy season, but a long stretch in which nothing anywhere registers as pleasurable, energy does not return after rest, and hopelessness sits there without lifting. That needs assessing by somebody licensed rather than reframing by anybody, and asking in month one costs a great deal less than asking in month twelve. The same applies to any thought of harming yourself, however briefly it passes through, and everything else here can wait indefinitely.
 
 If the change followed violence, abuse, or a betrayal you have never fully described to anybody. If memories arrive uninvited, if there are stretches of time you cannot account for, or if somebody told you repeatedly who you were until you believed them, bring in people trained for that. A page cannot do it and should not try.
 

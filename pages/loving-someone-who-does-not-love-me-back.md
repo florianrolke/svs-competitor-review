@@ -119,6 +119,10 @@ The phrase is **unrequited love**, and unlike most of the vocabulary in this are
 
 What the phrase covers is broader than most people assume. It stretches from a two-week crush on somebody unreachable, through wanting a friendship to become something else, through pursuing somebody who has said no, through still wanting an ex who has moved on, all the way to loving a current partner considerably more than they love you. Those are quite different situations wearing one label.
 
+That five-way range comes from research rather than from literature. A 2013 survey study published in *SAGE Open* under the title *The Prevalence and Nature of Unrequited Love* asked people to count their own romantic experiences across a recent fixed window, sorted the unreturned ones into exactly those five types, and had participants rate how intense each type had been. The researchers behind it are named further down this page, where the question of how common this is gets answered properly.
+
+The limits travel with the finding. The people surveyed were undergraduates, the counts came from memory rather than from anything recorded at the time, and a five-way split proposed by one group is a starting point for locating your own situation rather than a finished structure.
+
 **What the term genuinely captures.** It names the asymmetry precisely, which is the thing people cannot otherwise get into a sentence. It carries no implication of pathology. And it is old enough and common enough that using it puts you in extremely large company rather than in a category.
 
 **What it does not capture, and this is the part the ranking pages skip.** It names a situation and says nothing whatsoever about a cause. Two people can be in the identical position by every visible measure and be in completely different circumstances, needing completely different things. The phrase also flattens the range described above, so advice written for the two-week crush arrives at the person carrying something that has run for two years, and vice versa, and neither of them is helped.
@@ -143,7 +147,9 @@ And if there is any thought of harming yourself, that belongs with a licensed pr
 
 For everybody else, and that is nearly everybody reading this, the rest applies.
 
-## Is Anything Actually Wrong With You for Still Feeling This?
+## How Common Is It to Love Someone Who Does Not Love You Back?
+
+Far more common than the returned kind, and the question sitting underneath it is usually a different one: whether anything is actually wrong with you for still feeling this.
 
 Almost certainly not, and this deserves saying early rather than at the end where nobody reaches it.
 
@@ -155,7 +161,9 @@ What has changed recently is that the internet has attached a diagnostic tone to
 
 There is a real cost hiding in here, and most people misidentify it. The verdict does the damage, and the feeling mostly does not.
 
-## What Happens on the Other Side of This, and Why Does It Matter So Much?
+## Why Are They Awkward With Me After Turning Me Down, and What Does the Rejecting Person Experience on Their Side?
+
+What you are reading as coldness is usually somebody improvising without a script. Every option in front of them can be read the wrong way, they know it, and knowing it is tiring. That description comes from the 1993 paper in the *Journal of Personality and Social Psychology* titled *Unrequited Love: On Heartbreak, Anger, Guilt, Scriptlessness, and Humiliation*, which collected written accounts from both sides of these episodes and found the declining side reporting guilt, a sense of entrapment, and no idea what correct behavior even looked like. I name the study by its title rather than by its authors, for the reason set out further down under the evidence heading. Its limits are stated there as well: the accounts were written after the episodes had ended, the samples were young and Western, and nothing at that scale has replicated it.
 
 This is the section that changes the picture most, so it goes before everything else that follows.
 
@@ -191,6 +199,10 @@ Here is the model most people carry without ever stating it. The feeling exists 
 
 What actually happens is that a refusal closes an informational question and leaves a motivational state entirely untouched. Wanting something behaves like an unfinished pursuit rather than like a mood. It reasserts as soon as attention is free, it survives being contradicted, and it does not accept arguments, which is why you can hold a completely accurate account of your situation while being no less occupied by it.
 
+There is a brain-imaging result that lines up with this, and it is worth holding loosely rather than treating as an explanation. A 2010 study in the *Journal of Neurophysiology*, titled *Reward, Addiction, and Emotion Regulation Systems Associated With Rejection in Love*, scanned people who had recently been rejected and who still described themselves as in love. Looking at a picture of the person who had ended it still engaged reward and motivation regions, along with areas involved in craving and in weighing gains against losses. The wanting system was running on somebody whose answer was already known.
+
+The limits matter more here than the picture does. Fifteen people were scanned, every one of them recruited because they were still in love with somebody who had left, which is a real difference from being turned down before anything began. A region becoming active tells you where something is happening and says nothing at all about how to stop it. What the result is good for is retiring the assumption that clear information ought to have been enough.
+
 Notice how much this differs from the situation where nobody has said anything yet. In that version, ambiguity is the engine, and information is what ends it. That is a real and separate pattern, and the page on [not being able to stop thinking about someone you barely know](/patterns/cant-stop-thinking-about-someone/) handles it properly. Your version has had the information delivered. Whatever is still running was never fueled by not knowing, and any advice built on the assumption that it was will miss.
 
 There is a second thing the answer did not do, which nobody warns you about. It did not remove the person. In most versions of this you still see them, which means the thing you want is in the room several times a week, being pleasant, at conversational distance, entirely unavailable. That is a strange and specific position to be in and it has almost nothing written about it, because the whole literature of heartbreak assumes departure.
@@ -201,7 +213,7 @@ Because the feeling is the outcome, and what maintains it sits underneath, out o
 
 Two people describe the identical thing in identical words. Both told somebody. Both got a clear answer. Both still see the person. Both feel exactly as they did before the conversation.
 
-For the first, this is an ordinary episode that has been running for eight weeks and will be substantially milder by autumn whether or not anything is done about it.
+For the first, this is an ordinary episode that has been running for eight weeks and will be substantially milder by fall whether or not anything is done about it.
 
 For the second, it has run for twenty-two months, it survived a period of no contact, and it is the only thing in the week that reliably produces anticipation.
 
@@ -321,7 +333,7 @@ This distinction is the whole workable surface, and almost everything written on
 
 None of these is dramatic and each takes seconds. Every one of them deposits fresh material into a system that will process it for hours. This is the layer where anything can move, and it moves one item at a time, which is slower and considerably more effective than any attempt to stop feeling something.
 
-## Do You Actually Have to Stop Seeing Them?
+## Do I Have to Stop Seeing Them if They Are a Colleague or Friend?
 
 This is the question the standard advice answers fastest and worst, so it gets its own section.
 
@@ -415,7 +427,7 @@ The sentence stops being reread. Whatever they said settles into one meaning, an
 
 And there is generally something else in the week that has anticipation attached to it, which is the quiet condition for all of the above. For as long as they are the only source of anticipation you have, no amount of technique will make much difference.
 
-## How Long Does This Take, Honestly?
+## How Long Does Unrequited Love Usually Last?
 
 It depends entirely on which of the five you are in, and confusing them is exactly why people conclude that nothing works.
 

@@ -64,7 +64,7 @@ faqs:
 - q: "Where does this hide when it does not look like indecision?"
   a: "In thoroughness, in fairness, and in patience. Reading a fourth review counts as diligence. Wanting to hear everyone out counts as consideration. Waiting for the right moment counts as maturity. Each of those is a real virtue and each of them can carry an unclosed decision for years without anybody, including you, filing it under difficulty deciding."
 - q: "Does this get worse with age?"
-  a: "It tends to get quieter and more expensive rather than worse. The visible agonizing softens because you build workarounds, the repeat order, the same holiday, the supplier you already use. Underneath, the number of choices that never got closed keeps growing, and the cost shows up as a life with fewer live options in it rather than as a person visibly struggling in a shop."
+  a: "It tends to get quieter and more expensive rather than worse. The visible agonizing softens because you build workarounds, the repeat order, the same vacation, the supplier you already use. Underneath, the number of choices that never got closed keeps growing, and the cost shows up as a life with fewer live options in it rather than as a person visibly struggling in a shop."
 - q: "How long does this take to change, honestly?"
   a: "The noticing shifts in a few weeks and it shifts at the wrong end first, where you catch it after the fourth person has already been asked. Catching it during takes a couple of months. The root underneath moves on a different schedule entirely and does not respond to effort applied at the deciding, which is why resolutions about being decisive fail so predictably."
 - q: "When does this belong with a licensed professional rather than a page like this?"
@@ -113,13 +113,13 @@ Eventually something gets picked, and here is what does not happen. The relief d
 
 The furniture changes and the shape does not.
 
-There is the version with people in it. You ask your sister. She says the first one, with reasons. You ask a colleague, who says the second one, also with reasons. You ask a friend at the weekend and somebody at the gym on Tuesday, and by Tuesday evening you notice something that you will not enjoy noticing, which is that you currently agree with the person from the gym, and that the only property distinguishing his answer from the other three is that it arrived most recently.
+There is the version with people in it. You ask your sister. She says the first one, with reasons. You ask a colleague, who says the second one, also with reasons. You ask a friend on the weekend and somebody at the gym on Tuesday, and by Tuesday evening you notice something that you will not enjoy noticing, which is that you currently agree with the person from the gym, and that the only property distinguishing his answer from the other three is that it arrived most recently.
 
 There is the version that has been running for so long nobody counts it any more. You order the same thing. Every time, at that place, for eleven years. Not because you prefer it, and if anybody asked you would say it is easier, and the true version is that choosing again would cost something and choosing this costs nothing.
 
 And there is the tiredness, which is the part that makes the least sense from outside. Nothing difficult happened today. Nobody was rude to you, nothing broke, nothing was demanded. You got home and you were wrung out anyway, and you could not have named a single hard moment in it. Four open comparisons ran all day in the background, reopening every time your attention went anywhere quiet, and none of them produced anything you could point at as work.
 
-## What Does an Undecided Fortnight Actually Look Like?
+## What Does an Undecided Two Weeks Actually Look Like?
 
 Smaller and more distributed than the phrase suggests, which is exactly why it goes uncounted.
 
@@ -137,7 +137,7 @@ It looks like the same conversation with the same friend for the third month run
 
 It looks like a decision that got made for you by a deadline passing, and the specific, slightly shameful relief that came with it.
 
-Six of those in a fortnight produces a fortnight in which you were reasonable at every individual point and closed nothing.
+Six of those in two weeks produces two weeks in which you were reasonable at every individual point and closed nothing.
 
 ## Why Are You Exhausted on a Day When Nothing Happened?
 
@@ -149,7 +149,9 @@ Four of those running at once is a full working load with no output attached. Th
 
 There is a second cost that lands on everything else. A person holding several open comparisons has less available for the next choice that arrives, which makes that one harder, which leaves it open too. The pattern feeds itself without needing any help from your character.
 
-## What Is the Name for This, and Which Half of the Popular Version Is Wrong?
+## What Is the Difference Between Maximizing and Satisficing, and Do Maximizers Really End Up Less Happy?
+
+The difference is where the search ends. A maximizer has no built-in stopping point, because there is always the chance of something better one search further on. A satisficer holds a standard in advance and stops at the first option that clears it. On the second half of the question, the honest answer is that the evidence for maximizers ending up less happy comes apart once the measure behind it is taken to pieces, and the piece carrying the unhappiness turns out not to be the wanting.
 
 The everyday names are **chronic indecisiveness** and **decision paralysis**. The researched vocabulary nearest to it is the distinction between **maximizing** and **satisficing**, and the popular retelling of that distinction gets the interesting half wrong.
 
@@ -284,6 +286,36 @@ Judge it by what you can check rather than by which description reads best.
 
 Two notes on the table. Most people are a blend, usually the third row plus one other, and the blend matters less than the dominant one. And the third row is the one people skim past because it sounds too fundamental to be true of them, so if you skimmed it, that is worth a second look.
 
+## Why Won't I Go Ahead When the Plan Checks Out on Paper?
+
+Because the working out finished a while ago, and whatever is holding this shut was never made of argument.
+
+This is a further root and it does not resemble the five above, because here nothing is still being compared. There is one plan, the numbers work, the references came back fine, and you have answered every question you knew how to ask. What comes back is a quiet no, from a place that will not show its working. The old phrase for it is that the stars are not lined up yet, and it is accurate: a refusal with no date on it, carrying nothing that could ever be met.
+
+Two different things wear that refusal and they need opposite responses.
+
+The first is a reading of something real in the deal. You have picked up a clause nobody mentioned, or the way someone involved behaved when something minor went wrong, or a number that keeps getting talked around instead of answered. That one is worth listening to, and it identifies itself: you can turn it into a question with an answer. Who pays if it runs over. Ask, and the answer comes or the silence answers instead, and the hesitation moves.
+
+The second cannot be turned into a question at all, which is how you recognize it. Nothing in it can be checked, nothing you could learn would end it, and no evidence could count against it, because it never made a claim. The test is one question: what would have to change for you to go ahead before the month ends. If nothing can be named, or what gets named is another way of saying when it feels right, there is nothing to be given and waiting will not produce it.
+
+The tell is what happens to the case for going ahead. Every answer that says go gets a fair hearing and none of them lands. The people you asked agree, you can find nothing wrong with what they said, and you still will not go. When every reason for going has been examined and accepted and the no is still there, it was never resting on reasons, and reasons cannot take it apart.
+
+Whether a feeling like that is worth trusting is a serious question that two other pages own, so this one hands it over instead of arguing it again. [The page on trusting yourself](/patterns/how-to-trust-yourself/) works on judgment that stopped being usable, and [the page on trusting your intuition](/insights/how-to-trust-your-intuition/) covers when a fast read is reliable. And if what will not begin was never chosen at all, so that permission rather than a decision is missing, [the page on waiting for permission](/patterns/waiting-for-permission/) owns that.
+
+## How Can I Tell Whether Two Options Are Genuinely Tied or I Am Missing a Criterion?
+
+By writing the criterion down first, in one sentence, before you look at either option again. A missing criterion collapses the moment it is written. A genuine tie survives the writing and is still sitting there afterward.
+
+That is the whole check and it takes about four minutes, which is worth setting against the four evenings. Finish this sentence on paper: I am choosing this in order to ___. Not what it should have. Not what would be nice to have. What the thing is for. Then score both options against that sentence and against nothing else.
+
+Three signs the criterion was the problem rather than the tie. The sentence is hard to finish, and what comes out is a list where a sentence was asked for. When you do finish it, there is a small resistance, because the honest version of what the thing is for is slightly embarrassing to write down. And once it exists, a comparison that had not resolved in three weeks resolves in eleven minutes. The [page on researching instead of starting](/patterns/researching-instead-of-starting/) owns that half of the problem and sets out how to write the sentence properly.
+
+Three different signs it is a real tie. The sentence comes out easily and you believe it when you read it back. Both options clear it, you can say by roughly how much, and the gap between them sits inside the noise. And when you picture somebody else flipping a coin on your behalf, what arrives is relief rather than protest, which is the fastest of the three signs, because a hidden criterion always announces itself as protest at the wrong side of the coin.
+
+Then the part worth knowing about genuine ties, because it runs against what almost everybody assumes. A 1992 paper in *Psychological Science*, "Choice under Conflict: The Dynamics of Deferred Decision," found that adding a second attractive option to a set made people more likely to put the whole decision off or to go looking for further alternatives, rather than more likely to take one of the two. One good option got chosen. Two good options, closely matched, produced delay and more searching. I am naming that paper by its title rather than by its authors, because both of them already carry other findings on other pages here and a repeated surname would make this page look better sourced than it actually is.
+
+The limits are the ordinary ones for this literature. The choices were small and largely hypothetical, put to students in short sessions, and the result describes what a set of options does to a group average rather than what your Tuesday evening does to you. What it is good for is the reassurance. A tie producing delay is a documented behavior of ordinary people looking at closely matched options, and reading it as a report on your character is a misreading of it.
+
 ## Why Does Asking a Fourth Person Never Settle It?
 
 Because each of them is answering against their own criterion, and criteria do not average.
@@ -291,6 +323,8 @@ Because each of them is answering against their own criterion, and criteria do n
 Watch what actually happens across four opinions. Your sister answers on cost, because that is what she weighs. The colleague answers on quality, because that is what he weighs. The friend answers on what she thinks you want, and the person at the gym answers on what he would do. Four coherent answers to four different questions, none of them the question you are stuck on, and the set does not converge because there is nothing in it that could converge.
 
 Then the recency effect finishes the job. You end up holding whichever answer arrived last, because it is the most recent thing that felt like resolution, and the feeling of resolution is what you were actually shopping for.
+
+That last part has been measured, though not on anything resembling your two mattresses. Hogarth and Einhorn set out a model of belief updating in *Cognitive Psychology* in 1992 and reported that when people take in a short run of mixed evidence one piece at a time, the most recent piece carries more weight than its content earns, so the same evidence delivered in a different order lands on a different final judgment. The material behind that was short written sequences on tidy problems rather than four people with opinions about your life, so take it as a description of how sequential input behaves and not as a measurement of your family.
 
 Two things separate this from ordinary sensible consultation, and both are checkable. The first is whether you could predict what each person would say before you asked. If you could, and you asked anyway, the asking was doing something other than gathering information. The second is what happened when somebody gave you an answer you did not expect. Genuine consultation updates on that. What this page describes goes and asks somebody else.
 
@@ -322,7 +356,7 @@ In several places where it reads as a virtue, which is why it survives so long u
 
 **In generosity.** Letting the other person choose the restaurant, the film, the weekend. Sometimes that is kindness. Sometimes it is outsourcing, and the tell is whether you are relieved rather than pleased.
 
-**In the standing order.** The same lunch, the same supplier, the same holiday. A repeat is a stopping rule you built without noticing, and it works, which is why nobody ever files it under difficulty deciding.
+**In the standing order.** The same lunch, the same supplier, the same vacation. A repeat is a stopping rule you built without noticing, and it works, which is why nobody ever files it under difficulty deciding.
 
 ## What Does This Cost, and When Does the Bill Arrive?
 
@@ -337,6 +371,20 @@ Later than the behavior, in a different currency, which is why the two are rarel
 **The relationship with what you chose gets worse.** Because you kept the door open, you never fully arrived, and the thing you chose has been on probation since the day you got it. This is the cost the reversibility research points at and it is the one nobody expects.
 
 **And the case against yourself grows.** Every unclosed decision adds a small piece of evidence to a story about your own inadequacy, and after enough of them the story starts making the next decision harder in its own right, which is the point at which the pattern no longer needs any of its original causes to keep running.
+
+## Why Do I Check the Cancellation Policy Immediately After I Finally Book Something?
+
+Because the booking closed the decision and the policy reopens it, and what you are reaching for in those nineteen minutes is the option you just buried.
+
+This is the behavior described further up under the root about choosing one thing meaning burying the other, and it earns its own answer because it is usually the first thing people notice about themselves and the last thing they would say to anybody. Nothing in it is a plan to cancel. Almost nobody who does this cancels. The reading is a check that the other future is still reachable, and once that is confirmed the pressure drops far enough to let the evening carry on.
+
+Three cousins of the same move, all of them paid for. The flexible fare bought over the cheaper fixed one. The purchase left in the bag with the receipt in it until the return window shuts on its own. The appointment made provisionally so that it can be moved later. Each of them buys the continued existence of the option you did not take, and each of them has a price printed on it, which makes this the only version of the stall you can add up at the end of the year.
+
+The uncomfortable part is what that purchase does to the thing you bought. Bullens and colleagues reported in 2011 that people who kept the ability to reverse a choice thought less of what they had chosen as time went on than people whose choice was closed behind them, and the best-known earlier version of that result found the same thing in students who had picked a photographic print and could still swap it afterward. The open door cost them something in how they came to feel about what was already theirs.
+
+Hold the limits with it. Posters and prints, chosen by students, with modest effects, and nobody has run this paradigm on a house or a job or a person, for reasons anybody can see. Take it as a mechanism to check against your own last three purchases rather than as a fact about your life.
+
+What follows from it is smaller than it sounds, and it is not a rule against ever buying the flexible fare. Sometimes the flexibility is worth the money and you can say exactly why. The question worth asking at the checkout is whether you can name a specific circumstance in which you would use it. If you can, pay for it. If you cannot, what the extra is buying is nineteen minutes of relief and a slightly worse relationship with whatever you have just chosen.
 
 ## Which Part of This Did You Actually Choose?
 
@@ -367,6 +415,20 @@ Weaker than the confidence of almost everything else written on the subject, and
 **The status quo work is in better shape than the rest.** It has been demonstrated in laboratory choices and in large real-world datasets on things like retirement plans and insurance elections, and the basic finding, that an option gets chosen more often when it is already the current state, has held up well.
 
 **What survives all of that.** That searches without a stopping rule do not end. That a tie between close options is a result rather than a failure. That the default gets chosen when nobody chooses. That keeping the door open changes how you feel about what is behind it. That the same stall grows from several unrelated roots. Those five are modest, they are checkable against your own last month, and they are considerably more than the vocabulary delivers on its own.
+
+## Does Having More Options Really Make People Less Likely to Choose?
+
+Sometimes, under conditions narrower than the famous version of the claim suggests, and probably not on the day you are describing.
+
+The version everybody has heard runs like this. Offer shoppers a wide array and they browse and leave. Offer them a small one and they buy. It became the standard explanation for supermarket aisles, streaming menus and dating apps alike, and it is why so much advice about deciding opens by telling you to cut your options down.
+
+Then the studies were pooled. Scheibehenne, Greifeneder and Todd gathered the accumulated experiments in a 2010 meta-analysis and found the average effect across them sitting close to zero, with the individual results pointing in both directions. Some showed a wide set suppressing choice. Some showed the opposite. The mean of the pile came to almost nothing. That does not mean the effect never occurs. What it means is that the effect does not belong to the number of options, so the size of the set predicts nothing on its own.
+
+What came afterward is more useful than either extreme, and the [page on researching instead of starting](/patterns/researching-instead-of-starting/) sets it out with its attribution attached. The effect does appear reliably, under three conditions: complexity in the options, unfamiliarity with the task, and no settled sense of what you are optimizing for. Read that list back. The number of options is absent from it. The third item is the one that matters here, and it is the same missing piece the rest of this page keeps arriving at.
+
+The limits belong with it. That meta-analysis pooled laboratory and field studies of shopping decisions, most of them small, and it carries the usual difficulty that studies finding nothing are harder to publish than studies finding something. A pooled average can also conceal two real effects running in opposite directions in different groups of people, which the authors themselves allowed for.
+
+So the practical answer is unhelpful in a useful way. Cutting your options from nine to three will not reliably close a stall, and if you have tried it you already know, because the two mattresses that took four evenings were two. What predicts the stall is not the size of the set but whether you can say in one sentence what the thing is for.
 
 ## Where Does This Stop and Something Else Begin?
 
@@ -418,6 +480,8 @@ From a modest amount of published research and a much larger amount of watching 
 
 On the structure of the maximizing measure, Nenkov and colleagues published the factor analysis and short form in 2008 in *Judgment and Decision Making*, and Diab, Gillespie and Highhouse published the argument for separating the goal of maximizing from the difficulty of deciding in the same journal and the same year. On the default, Samuelson and Zeckhauser set out status quo bias in 1988 in the *Journal of Risk and Uncertainty*. On reversibility, Bullens and colleagues published the finding that keeping the option to reverse a choice reduced later evaluation of it in the *Journal of Experimental Social Psychology* in 2011. On choice overload, Scheibehenne, Greifeneder and Todd published the meta-analytic review in the *Journal of Consumer Research* in 2010, finding a mean effect close to zero. On how preferences behave, Slovic published the construction of preference argument in *American Psychologist* in 1995, and the preference reversal work with Lichtenstein dates from the early 1970s.
 
+Two further sources sit behind sections above. On why a fourth opinion lands harder than the three before it, Hogarth and Einhorn published the belief-adjustment model in *Cognitive Psychology* in 1992, reporting recency effects when a short sequence of evidence is processed one piece at a time. On what a close tie does to a decision, the 1992 paper "Choice under Conflict: The Dynamics of Deferred Decision" appeared in *Psychological Science*, and it is named here by title rather than by author because both of its authors already carry other findings elsewhere on this site.
+
 The maximizing and satisficing distinction itself I have described without attaching a name to it, for two reasons. The stopping-rule half of it is already set out with its attribution on another page here, and the empirical study most often used to carry the popular version is likewise attributed elsewhere on this site. Repeating either would have made this page look better sourced without making the argument any stronger.
 
 I have also left a good deal unused. There is a substantial literature on regret and on the way people forecast how they will feel about choices, and a well-developed line of work on how the brain accumulates evidence toward a decision and why the accumulation takes longest when the options are closest in value. Both are interesting and neither would have changed anything above.
@@ -432,10 +496,10 @@ Change nothing. Do not resolve to be more decisive, do not set yourself a deadli
 
 Every time a choice stays open for more than a day, write down four things. What the choice was. What you were waiting to find out. Who you asked, if anybody. And whether anything you learned after the first day changed your position.
 
-By the end of the fortnight you will have somewhere between four and fifteen of them, and three things will be visible that no amount of thinking would have produced. One domain will appear far more often than the rest. The fourth column will be close to empty, which is the whole finding. And the second column will start repeating a phrase, which is usually the root.
+By the end of the two weeks you will have somewhere between four and fifteen of them, and three things will be visible that no amount of thinking would have produced. One domain will appear far more often than the rest. The fourth column will be close to empty, which is the whole finding. And the second column will start repeating a phrase, which is usually the root.
 
 If what landed hardest here was the tie, the counting may be enough on its own and you can stop there. If what landed hardest was something else, the year you can name in five seconds, the fact that lunch is also hard, the relief when a deadline decides for you, or the realization that the choice gets easy the moment nobody would ever know what you picked, then the thing worth working on sits underneath the deciding rather than inside it. [Our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works at that layer. First we find what the stall is actually doing for you, because a pattern that reliable is never doing nothing, then what stands in the way of the version where a choice closes and stays closed, then a plan you are held accountable to afterward, back in your own week with the same wardrobe and the same shortlist of two.
 
 One thing I will not claim, and it matters more on this page than on most. In Florian's own words: *"I cannot control that within five days you are going to ultimately find your life purpose and realize exactly what you want to do in your life, and everything is perfectly clear. It takes time to find your life purpose."* If the root underneath your stall is that you have never been able to feel what you want, five days will not install that. What five days can do is show you which of the five you are actually dealing with, which nobody has been able to tell you from outside, and give you the first honest attempt at building the signal rather than computing it. Everybody is screened before arriving, which keeps the group small enough that a person who has spent eleven years ordering the same thing gets worked with properly rather than handed a framework. One limitation worth stating plainly: exact dates, the price and the final cap on group size are still being settled, so anybody comparing programs on those numbers this week cannot yet compare ours. Ask every program you are weighing the same questions, this one included, and decide from what comes back.
 
-The fortnight of counting costs nothing and is worth having whichever way it comes out.
+The two weeks of counting costs nothing and is worth having whichever way it comes out.

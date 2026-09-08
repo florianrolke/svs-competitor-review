@@ -22,7 +22,7 @@ faqs:
   q: Is there a name or a phobia for fear of abandonment?
 - a: 'Common, and unremarkable in the sense that nobody is broken for having it. Being
     left, or nearly left, is an ordinary human experience, and a mind that adjusts
-    afterwards is doing its job. The useful question is about cost rather than normality:
+    afterward is doing its job. The useful question is about cost rather than normality:
     how many evenings it takes, how much of your behavior it quietly decides, and
     whether the people close to you are meeting you or meeting your management of
     them.'
@@ -99,7 +99,7 @@ faqs:
     got closer, an ending you have not finished grieving, a move, a new job, or a
     stretch of being more alone than usual. It also flares when things are going well,
     because a good month raises what there is to lose. A pattern quiet for years can
-    restart inside a fortnight, and that counts as ordinary rather than as losing
+    restart inside two weeks, and that counts as ordinary rather than as losing
     ground.'
   q: Why is my fear of abandonment so strong right now?
 - a: Because leaving first is the only version of the ending you get to control. The
@@ -134,7 +134,7 @@ faqs:
     person holds the power to end everything. It can also work as a test, or as leaving
     first in a form that keeps the original relationship technically alive. None of
     that makes it harmless. It does explain why the person doing it often cannot account
-    for it afterwards.
+    for it afterward.
   q: Does fear of abandonment lead to cheating?
 - a: Living inside a constant low-grade forecast is exhausting, and worry, flat mood,
     and broken sleep commonly travel alongside it. Which one is causing which is a
@@ -299,7 +299,9 @@ If the fear of losing somebody is what keeps you inside a situation that carries
 
 The same holds if being left has ever put you near harming yourself, or if you are carrying an addiction, a diagnosed condition you are currently managing, a hopelessness that has not lifted for months, or any thought of ending your life, however fast it passes. Contact a doctor or a crisis line today rather than reading further. The material below is built for the everyday version of this: the four days away, the unanswered message, the audit that starts at eleven at night. Asking for help in month one costs far less than asking in month twelve.
 
-## Where Does the Fear Actually Come From?
+## Why Am I So Afraid People Will Leave Even When Nobody Has Actually Left?
+
+Because nothing in the present has to go wrong for the forecast to run, which makes this a question about the past rather than about the person you are currently worried about: where does the fear actually come from?
 
 From an early stretch where somebody's availability was unreliable enough that predicting it became the most useful skill in the house.
 
@@ -311,7 +313,9 @@ Instability also gets normalized on the way through. "Chaotic and unstable relat
 
 Not every case starts with a parent. A father who worked away for long stretches. A family illness where everybody quietly agreed to need less for a couple of years. A friendship group that dropped you at fourteen for reasons nobody explained. A first relationship that ended by simply stopping. A bereavement handled in silence by adults who were doing their best. The mechanism holds across all of them. Availability turned out to be unpredictable, and a person paying attention adjusted accordingly.
 
-## Why Does It Run in Two Opposite Directions at Once?
+## Why Do I Push My Partner Away When What I Really Want Is Reassurance That They Will Stay?
+
+Pushing away and holding on are not opposites here. They are two answers to one question, which is why it runs in two opposite directions at once. [The style built on the holding-on half is described separately.](/patterns/anxious-attachment-style/)
 
 Because there are two ways to make a departure impossible, and both of them work.
 
@@ -352,7 +356,9 @@ This is where testing comes from, and it is worth understanding rather than bein
 
 It also explains something that looks like a contradiction from the outside. Two sentences run alongside each other: "I'd rather be in a bad relationship than be alone" and "If I'm not constantly worried, then it's not real love." Together they produce people who stay for years in situations that are visibly costing them, and who feel oddly flat in the ones that are actually working. Difficulty registers as intimacy, because difficulty is what intimacy felt like the first time.
 
-## Where Does It Show Up Outside Romantic Relationships?
+## Can Fear of Abandonment Make Ordinary Feedback From My Boss Feel Like I Am About to Be Fired?
+
+It can, and it happens often enough to count as one of the ordinary cases rather than an odd one, because romance is only one of the places this runs: where does it show up outside romantic relationships?
 
 In at least six arenas, and almost everybody recognizes the first one long before they recognize the rest.
 
@@ -379,7 +385,9 @@ The supply line gets closed at the other end too. "When someone shows me affecti
 
 Worth saying plainly: this is a solvable problem rather than a verdict on the relationship. It responds to practice, and the practice is unglamorous. [The groundwork for it is learning to feel something at the time it happens rather than three weeks later.](/insights/how-to-feel-your-emotions/)
 
-## Are You Sure That Is What You Are Looking At?
+## How Can I Tell Whether My Fear Is Misfiring or Someone Really Is Pulling Away?
+
+By starting with the situation rather than with the feeling, which is the older question underneath: are you sure that is what you are looking at?
 
 Worth checking, because six fairly different situations produce a similar-looking month, and the right response to each one differs completely.
 
@@ -393,6 +401,24 @@ Worth checking, because six fairly different situations produce a similar-lookin
 | Grief after an ending everybody else shrugged off | The same pattern, running outside romance | The size of the reaction sits far outside the size of the loss |
 
 Most people reading a page like this have already run the argument in their head forty times. Sitting down with this table and picking the row that matches the last three months, rather than the row that matches the worst evening, is worth more than another forty rounds.
+
+There is a reason the wrong calls outnumber the right ones, and it says nothing about your character. Nesse set out what he named the smoke detector principle in a 2001 paper in the *Annals of the New York Academy of Sciences*: when a protective response is cheap to run and the harm it guards against is expensive, the setting that survives over a lifetime is one that produces many false alarms. On that account a warning system that gets it wrong most of the time can still be set correctly, because a setting cautious enough to avoid the false ones would also miss the real one.
+
+That principle carries two limits worth keeping in view. It was argued from the general economics of protective responses rather than measured inside relationships, so it accounts for why false alarms are common while saying nothing about which of yours is which. And a correctly set alarm is still expensive to live inside: knowing the thing is built to fire early does not quiet it, and [the constant scanning that comes with it is set out on another page](/patterns/hypervigilance/).
+
+## Is There a Validated Scale or Questionnaire for Fear of Abandonment?
+
+Nothing carries that name. No published questionnaire is titled for fear of abandonment, and searching for one turns up tools built to measure things next door to it instead.
+
+The nearest of those was built and tested by Spielmann and colleagues, who published seven studies in the *Journal of Personality and Social Psychology* in 2013 under the title "Settling for less out of fear of being single". Two of the seven developed and validated the Fear of Being Single Scale, and the rest put it to work. People scoring high on it showed greater dependence in relationships they themselves described as unsatisfying, were less likely, in a study that followed people across time, to be the one who ended a less satisfying relationship, expressed romantic interest in less responsive dating partners across two experiments, and were less selective at a speed-dating event. The effects held after accounting for anxious attachment, which matters here, because it means the two can be pulled apart.
+
+Three limits belong with that, and the third is the interesting one.
+
+First, it measures the dread of not having a partner, which overlaps with the dread of a specific person leaving without being the same thing. Somebody who dreads one particular person going can be perfectly relaxed about the abstract idea of being single. Second, the score comes from people rating themselves, so most of what it captures is what somebody says about their own state rather than what they do when something is on the line. The speed-dating study is the partial exception, since it watched choices instead of asking about them. Third, the paper carries a published correction from 2018. The study that followed people across time used a version of the questionnaire reworded for people already in a relationship, and the original write-up said the standard version had been used. The result was left in place. The description of how it had been measured was the part that changed.
+
+Two other families of measure turn up while searching, and neither is aimed at this either. Questionnaires for rejection sensitivity ask about expecting refusal and detecting it early, and [rejection has its own territory](/patterns/fear-of-rejection/). Attachment questionnaires carry a subscale for the anxious end of the range, which overlaps heavily with what this page describes without having been built for it.
+
+A careful hour with the first-person sentences at the top of this page will tell you more than any of them. A questionnaire earns its keep when it makes you notice behavior you had stopped seeing. It earns nothing once the total becomes the answer you were hoping somebody would hand you.
 
 ## Is the Fear Ever Telling You Something True?
 
@@ -436,7 +462,9 @@ Read the right-hand column carefully, because it contains no triumphs. Nobody in
 
 Don't judge yourself if that column currently reads as fiction. The distance between the two columns took decades to build, and nobody crosses it in an afternoon.
 
-## What Actually Moves It?
+## What Can I Do on My Own to Make Fear of Abandonment Less Controlling?
+
+More than you would guess from how much of this seems to depend on somebody else, and none of it needs their cooperation. That is the working version of a shorter question: what actually moves it?
 
 Small exposures, repeated past the point of interest, plus a slow rebuild of the one relationship that gets abandoned along with everyone else, which is your own company.
 
@@ -451,7 +479,9 @@ Small exposures, repeated past the point of interest, plus a slow rebuild of the
 
 Is any of this comfortable? No. It is small and freaking repetitive, and it is exactly the kind of thing that holds when a single long overdue conversation does not.
 
-## Can Somebody Else Reassure This Away?
+## Why Does Reassurance From My Partner Wear Off So Quickly?
+
+Because it lands on the relief and never reaches the expectation producing it, which is the compressed version of a larger question: can somebody else reassure this away? [Where that loop goes when the asking becomes the main move is set out elsewhere.](/patterns/seeking-constant-reassurance/)
 
 No, and asking them to tends to accelerate what you are afraid of.
 
@@ -467,7 +497,7 @@ Longer than a week, and it runs at two speeds.
 
 Recognition arrives fast. Most people can catch the audit starting within a few weeks of deliberate attention, and catching it counts even on the nights you run the whole thing anyway. Watching yourself construct a detailed theory about somebody's silence while knowing exactly what you are doing feels terrible and it is a genuine step forward.
 
-The body takes far longer. The alarm was rehearsed daily for years and it fades at the pace of accumulated experience rather than understanding. Progress usually looks like a step pattern with long flat stretches, and a bad fortnight after any real ending, rather than a smooth line. Reading this page changes very little on its own. Fifty silences allowed to run out, and fifty Saturdays that turned out to be survivable, change a great deal.
+The body takes far longer. The alarm was rehearsed daily for years and it fades at the pace of accumulated experience rather than understanding. Progress usually looks like a step pattern with long flat stretches, and a bad two weeks after any real ending, rather than a smooth line. Reading this page changes very little on its own. Fifty silences allowed to run out, and fifty Saturdays that turned out to be survivable, change a great deal.
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What took me longest to accept was that this fear does not get argued down and it does get outgrown, mostly by becoming decent company for yourself, at which point any single other person is carrying less. Where it sits for me today is worth saying plainly: the audit still starts occasionally, it runs for a much shorter time than it used to, and I would rather tell you that than sell a finished version of something nobody finishes.
 
@@ -479,4 +509,4 @@ The reason this is worth doing has nothing to do with positive thinking. A forec
 
 A low score does not silence the fear, and I would rather say that than promise otherwise. What it does is change the status of the forecast from information to weather, and that shift has to happen before any of the other practices have anything to hold onto.
 
-If what pulls at you is that capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly manages everybody cannot disappear into being useful, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent discovering that you are decent company for yourself is rarely wasted, whatever you decide about anybody else.
+If what pulls at you is that capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly manages everybody cannot disappear into being useful, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent discovering that you are decent company for yourself is rarely wasted, whatever you decide about anybody else.

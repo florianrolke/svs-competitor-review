@@ -41,13 +41,13 @@ faqs:
 - q: "What if I state a preference and somebody gets upset? Does that mean I was wrong to ask?"
   a: "Somebody's reaction tells you about their reaction. It carries no information about whether your preference was legitimate. Treating another person's discomfort as proof that you made a mistake is the original arrangement running at full volume, and it is the most common place this work stalls. Notice the upset, let it be real, and leave the preference standing while you decide what to do about both."
 - q: "My job, my city and my relationship were all chosen this way. Do I have to blow it up?"
-  a: "Almost certainly not, and a dramatic reversal made with an untrained signal tends to reproduce the same problem in a new postcode. Big decisions carry the heaviest inherited expectation, which is exactly what drowns out a weak preference. Build the signal for months on choices that cost nothing, then bring it to the large questions with something reliable to listen to."
+  a: "Almost certainly not, and a dramatic reversal made with an untrained signal tends to reproduce the same problem in a new zip code. Big decisions carry the heaviest inherited expectation, which is exactly what drowns out a weak preference. Build the signal for months on choices that cost nothing, then bring it to the large questions with something reliable to listen to."
 - q: "Why am I struggling to find myself?"
   a: "Usually because the equipment for registering what you want got outrun by a faster habit of reading other people first, so the search produces effort with no result. Struggling harder tends to make it worse, since the extra effort goes into the biggest questions, and those are where the performed answer lives. The route that works runs through choices small enough to carry no audience at all: lunch, a Saturday afternoon, one unscheduled hour."
 - q: "How do I figure out who I am again?"
   a: "By collecting evidence rather than searching for an answer. Who you are shows up in what you choose when nobody is watching, so the method is to make small private choices, notice which way you leaned beforehand, and write down what actually happened afterward. Thirty of those give you something no test can produce: a record of your own preferences, in your own handwriting, gathered with nobody in the room to perform for."
 - q: "How do I know if I have lost myself?"
-  a: "Run the asymmetry test. Ask what your partner, your mother or your closest friend would want for dinner on Friday, and notice how fast the answer arrives. Then ask the identical question about yourself. If the first comes back in half a second and the second returns static, that gap is what this page describes. Duration matters too. A blank that survives a good holiday intact has been running a long time."
+  a: "Run the asymmetry test. Ask what your partner, your mother or your closest friend would want for dinner on Friday, and notice how fast the answer arrives. Then ask the identical question about yourself. If the first comes back in half a second and the second returns static, that gap is what this page describes. Duration matters too. A blank that survives a good vacation intact has been running a long time."
 - q: "How do I start being myself again?"
   a: "Start where being yourself costs nothing. Say one small true preference out loud each week, ahead of whoever usually answers first, about something as unimportant as which cafe or which way to walk home. Expect it to feel disproportionately exposing for the size of the stake. The larger version, saying the true thing in front of people whose opinion weighs on you, gets easier after the small version has been rehearsed a few hundred times."
 - q: "How do I find myself again after a breakup?"
@@ -143,7 +143,9 @@ There is a second version worth naming plainly. If stating a preference at home 
 
 Everything below is built for the ordinary version: the menu on Friday, the empty Saturday, the hobbies line on a form that you cannot fill in.
 
-## Why Can You Answer for Everyone Else in Half a Second and Go Blank on Yourself?
+## How Do I Know Whether I Have Lost Myself?
+
+There is one test for this, and you can run it today. Ask what the people closest to you want and an answer arrives at once, detailed and usually right. Ask the identical question about yourself and nothing comes back. Not weighing, not hesitation. Nothing. That asymmetry is the whole of what people mean when they say they have lost themselves, and it is worth being precise about what it shows: a gap in speed rather than a gap in the person. So why does the speed run that way?
 
 Because two different circuits are running at two very different speeds, and the faster one finishes first.
 
@@ -154,6 +156,20 @@ That second circuit ran on real survival mathematics. Reading a mood correctly k
 The trouble is that it fires before conscious thought. So the felt experience lands as asking yourself a direct question and getting static back, rather than as any sense of having no preferences at all. The static is the scanning reflex completing its circuit milliseconds ahead of the raw preference, which never gets a turn.
 
 Both facts are true at once, and holding them together is the thing that makes this workable. The scanning circuit is overtrained. The preference circuit was never rehearsed enough, at low enough stakes, to fire first. The preference is present. It has simply always lost the race.
+
+## Why Do I Automatically Agree With My Partner Before I Know What I Want?
+
+Because agreement is not what is happening first. What happens first is that no answer of your own has formed yet, and agreement is the only thing available to say in the gap.
+
+This is worth separating carefully, because the habit usually gets described as being too accommodating, and that description sends people toward trying harder to disagree. The sequence runs in the other direction. Your partner says where they want to eat, or which evening works, or that the thermostat is fine where it is. In the interval before you answer, the scan has already run, an accurate read of what they want is already available, and your own preference has produced nothing yet. Saying yes there is not a concession; it is what anybody says when the only data in front of them belongs to somebody else.
+
+Two things follow, and both are more useful than resolving to push back more often.
+
+The first is that the practice belongs outside the conversation. A preference you have never rehearsed alone will not appear for the first time in front of the person whose opinion weighs most. Decide what you want for lunch on a day nobody asks. Pick the film when you are watching by yourself. The repetitions that make an answer available in a live exchange all get built when nobody is present.
+
+The second is that the agreement is often correct anyway. Plenty of the time you would have chosen the same thing. What is missing is any way for you to check, and no way for your partner to check either, which is what makes resentment turn up years later attached to nothing in particular.
+
+If the harder version for you is saying yes out loud when the answer inside is no, [that has its own page](/patterns/saying-yes-when-you-mean-no/). If a different view does form and never gets said, [agreeing when you disagree is the closer description](/patterns/agreeing-when-you-disagree/).
 
 ## Is There a Hidden Self in There Waiting to Be Found?
 
@@ -183,6 +199,30 @@ Sit down with a journal prompt asking what you really want, and the scan runs on
 A solo trip removes other people physically and leaves the habit entirely intact. The habit is orienting each choice around what would be impressive, safe, or explicable later if somebody asked. So the trip produces photogenic answers instead of true ones, and the strange flatness on the flight home is people discovering they still cannot say what they want, now in a nicer location.
 
 None of this advice is wrong on its face. It assumes the blockage is missing information, a not-knowing that would resolve if distractions were cleared away. The blockage is a trained reflex, a knowing that arrives too fast and points in the wrong direction. So the standard route keeps asking a larger and more dramatic version of the same question, and keeps receiving the same performed answer back, slightly better lit.
+
+## Why Did a Personality Test Fail to Tell Me Who I Really Am?
+
+Because a test can only report the answers you gave it, and the answers you gave it came out of the circuit this page is about.
+
+Look at what the items actually ask. Whether you would rather spend an evening in company or alone. Whether you decide quickly or keep the options open. Every one is a preference question, put in writing, to a person whose preference reporting is the exact equipment that stopped working. What comes back is then scored competently, on material that was performed. The best known four-letter type test, the one that returns a code and a paragraph about your strengths, works this way, and so does every free imitation of it circulating online.
+
+Then there is the second half, which is why the result felt so exact on the day you read it. A description written to fit anybody reads as though it were written about you, especially when you have been told it is yours and especially when you wanted it to be. That is a measured effect with a classroom demonstration behind it from 1949, and this site names that study in full on [a different page, where the same effect explains why a family's account of you feels so precise](/patterns/the-one-my-family-blames/). I am handing it off there rather than naming it twice.
+
+None of which makes the tests worthless. A four-letter code is a serviceable shorthand for telling colleagues how you prefer to work. It was never built to locate a preference that has not surfaced in years, and it cannot, because it has nothing to work from except your report.
+
+There is a check you can run tonight. Take whatever the test said you value and ask when you last chose it with nobody watching. If an example arrives, the description was reading something real. If nothing arrives, what you are holding is a well-made summary of the answers you were able to give.
+
+## How Do Psychologists Measure Whether Someone Has a Clear Sense of Self?
+
+Two families of measure exist, and the difference between them is more useful than any score either one produces.
+
+The older family asks you to generate the material yourself. A paper published in 1954 in the American Sociological Review under the title An Empirical Investigation of Self-Attitudes introduced the method: give a person a page of blank lines, ask them to answer the question of who they are as many times over as they can, then code what comes out. How much gets written, how quickly it dries up, and whether the answers are roles, memberships, or descriptions of what somebody is actually like all become data. It has been in use for seventy years and it is still the least leading way anybody has found to ask.
+
+The newer family asks you to rate statements instead. Rather than producing your self-description, you say how clear it is, how consistent, and how steady it stays. [The 1996 self-concept clarity scale works that way and is set out in full, with its own limit, on the page about becoming whoever you are with](/patterns/becoming-who-im-with/), so I am not restating it here.
+
+Now the part that matters if you are reading this page rather than studying the field. Both families rest on what a person is willing and able to say about themselves, which is the same equipment this page has been describing as unreliable in exactly this population. Somebody fluent at producing presentable answers can fill a page quickly and score as perfectly clear. Somebody slowly getting the signal back can write very little and be further along than the number suggests.
+
+So treat them the way a researcher does, as a group-level reading, and not as a report card on you. If you want something you can run yourself, the small-preference check further down this page tells you more in a week than a score will, because it records what you chose rather than what you said.
 
 ## Where Does the Override Come From, If Nobody Did Anything Obviously Wrong?
 
@@ -218,7 +258,7 @@ Worth checking, because five fairly different situations produce a similar-looki
 | What you are noticing | What it might actually be | What tells them apart |
 |---|---|---|
 | Cannot choose between options | Ordinary indecision | Indecision means two things are both pulling. Here nothing pulls until somebody else speaks, then an answer appears instantly |
-| No energy for anything you used to enjoy | Depletion after a long hard stretch | Depletion lifts with real rest. The blank survives a good holiday completely intact |
+| No energy for anything you used to enjoy | Depletion after a long hard stretch | Depletion lifts with real rest. The blank survives a good vacation completely intact |
 | Nothing registers as pleasurable anywhere, for months | Something that needs a clinician | Duration and breadth. See the section above on professional support, and do not work this one alone |
 | Feeling nothing much at all, including about people | A protective flatness of its own | That has its own mechanism and [its own page](/patterns/emotional-numbness/). Here the feelings work fine and the preference does not surface |
 | Genuinely happy either way about small things | Actual easygoingness | Easygoingness holds up on the big questions too. Ask about the career, the move, the relationship, and watch whether an answer exists |
@@ -261,13 +301,15 @@ Two questions separate the two:
 
 A borrowed goal generally cannot answer either question cleanly. This shows up most often as a low unexplained hum of resentment on ordinary workdays, years after a major, sensible, universally approved decision. The resentment arrives late because the refusal never got to arrive on time.
 
+Motivation research draws the same line, and its version is worth having because of when it says the trouble surfaces. It separates a goal you pursue because it expresses something you actually value from a goal you pursue because of pressure, guilt, or an approval attached to it, and while they are being pursued the two look the same from outside. The named work on that split sits on [the page about what a life is actually for](/patterns/what-is-my-life-actually-for/), so I am pointing you there rather than repeating it here. What is worth carrying back is that the second kind gets chased just as hard as the first, and the shortfall only turns up at the end, when the thing is achieved and delivers much less than it was supposed to. Which is why this arrives as a question in your thirties rather than at the age the sensible option was agreed to.
+
 ## Why Is Boredom the Condition This Needs?
 
 Because a preference has to compete with whatever task is in front of you, and it loses every time.
 
 If each idle moment gets filled automatically, tidying, errands, messages, a screen, the raw signal never gets a gap in which to register. Unstructured time is the only condition where something non-performed can surface, which puts the people who most need this practice in an awkward position: they experience empty time as unsafe or undeserved, so they get the least practice at the exact state the work requires.
 
-It looks backwards. Surely finding yourself involves doing things rather than sitting around. Activity is where the scanning reflex has the most practice, because activity comes with instructions, expectations, and people to read. Boredom is where it has the least. Nothing to scan, nothing to comply with, nothing to perform.
+It looks backward. Surely finding yourself involves doing things rather than sitting around. Activity is where the scanning reflex has the most practice, because activity comes with instructions, expectations, and people to read. Boredom is where it has the least. Nothing to scan, nothing to comply with, nothing to perform.
 
 The practical version is unglamorous: one hour, scheduled, with nothing permitted in it. No phone, no plan, no productive alternative. Most people last about twenty minutes before inventing a task. The discomfort that shows up in minute twenty-one is the thing to notice rather than the thing to fix. Somewhere in the second half of that hour, something small usually surfaces about what you would actually like to do, and it is almost always more ordinary than you hoped.
 
@@ -305,7 +347,21 @@ By running repetitions small enough that you will actually complete them, in sit
 7. **Run the disapproval test on anything that looks like ambition.** Would it survive the person whose opinion weighs most calling it a mistake? Ask before you commit to anything, not after.
 8. **Leave career, city and relationship alone for now.** Those carry the most inherited expectation and will drown a weak signal every time. Bring them back once the small version is boringly reliable.
 
-Is any of this comfortable? No. It is small and freaking repetitive, and it feels absurd to be practicing lunch at forty-three. It is also the only version I have watched hold, and it holds long after a dramatic decision has quietly reversed itself. Understanding why is worth its own detour: [insight on its own rarely changes a reflex](/patterns/why-insight-doesnt-change-anything/), which is the reason this page ends in repetitions rather than in realisations.
+Is any of this comfortable? No. It is small and freaking repetitive, and it feels absurd to be practicing lunch at forty-three. It is also the only version I have watched hold, and it holds long after a dramatic decision has quietly reversed itself. Understanding why is worth its own detour: [insight on its own rarely changes a reflex](/patterns/why-insight-doesnt-change-anything/), which is the reason this page ends in repetitions rather than in realizations.
+
+## How Do I Find Myself Again After a Breakup?
+
+At the smallest possible scale, and sooner than the advice about rediscovering your passions suggests, because what needs rebuilding is the daily choosing rather than a personality.
+
+Something specific happens to a self-description when a relationship ends, and it is worth knowing before you start. A 2006 paper in Personal Relationships, under the title Losing a self-expanding relationship: Implications for the self-concept, ran three studies testing whether the relationships that had most expanded who you were are also the ones whose ending contracts you most. Two of the three asked people to recall relationships that had recently ended and the third used a priming procedure, and all three supported it: the more a relationship had added to the self-description, the more of it went missing afterward, and that held once closeness was accounted for.
+
+The limits are built into the design. Two thirds of the evidence rests on recall, which is generous to whatever mood a person is in when asked, and what the third study moved was the working self-description in the moment rather than any fixed version of a person. Read plainly, it is reassuring rather than alarming. Feeling less like yourself after an ending is what that work predicts, and it is not evidence that there was nobody underneath.
+
+Then the practical half, which for this page is unusually literal. A long relationship runs on joint defaults: what is in the cupboard, when the day starts, which side of the bed, what a Sunday is for. None of those needed a preference from you for years, because a two-person system had already decided them. When it ends they all come back at once, and people mistake that flood of small undecided things for the large question of who they are.
+
+So take them as repetitions rather than as evidence. Cooking for one is a preference exercise. So is the supermarket, so is the shopping list, so is the first weekend with nothing in it. Each is a question with no witness and no consequence attached, which makes them the best conditions this practice ever gets, and they are arriving several a day at no cost.
+
+Two neighbors carry the rest of it. The grief, the counting of days, and the research on how self-description shifts through a separation are handled on [the page about what happens after it ended](/patterns/after-it-ended/), which names the 2010 work on that directly, so I am not restating it here. If what actually ended was a role you had built a life around rather than a relationship, [that is a different shape with its own page](/patterns/who-am-i-without-the-thing-that-defined-me/).
 
 ## Does Any of This Mean Caring Less About Other People?
 
@@ -335,4 +391,4 @@ Run a one-day gap experiment. Open a note on your phone and for the next twenty-
 
 Read it tonight. Most people find the two columns differ far more often than they expected, and finding the gap in writing is worth more than another month of asking yourself who you are. If the columns match every time, that is genuinely useful information too, and it points somewhere other than this page. Either result costs you one day of noticing.
 
-If what pulls at you is that gap itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anyone arrives, a group kept small enough that the person who defers to everybody else cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to answer a small question honestly, before anybody else in the room has spoken, is rarely wasted, whatever you decide afterward.
+If what pulls at you is that gap itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anyone arrives, a group kept small enough that the person who defers to everybody else cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to answer a small question honestly, before anybody else in the room has spoken, is rarely wasted, whatever you decide afterward.

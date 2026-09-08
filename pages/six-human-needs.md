@@ -13,7 +13,7 @@ faqs:
     missing one of the six, and nobody decided to have them.
   q: What are the six human needs?
 - a: 'A want names a vehicle: a relationship, a job title, a number on a page, a house
-    in a particular postcode. The need is the driver underneath it. Two people can
+    in a particular zip code. The need is the driver underneath it. Two people can
     want the identical thing for opposite reasons, and two people can want opposite
     things to feed the same driver. The need has to be inferred from the reason behind
     the want, which is usually the part nobody has said out loud.'
@@ -358,7 +358,7 @@ Certainty, variety, significance and connection get met one way or another, guar
 
 Growth and contribution work differently. A life can run for decades with neither of them and nothing visibly breaks. Nobody collapses from an absence of contribution the way they act out from an absence of significance. The consequence is quieter and considerably harder to name, and it produces the most specific complaint in this whole subject: the person whose life is objectively working and who feels flat inside it.
 
-That is what an empty successful life is, structurally. Four drivers met at a high level, two of them untouched. It explains why more of the first four does nothing for it. Another win, another holiday, another round of praise, another circle of friends, all of it feeds needs that are already full while the two that are starving stay starving. [Why a life that matches the plan can still feel wrong has its own treatment here.](/insights/feeling-lost-in-life/)
+That is what an empty successful life is, structurally. Four drivers met at a high level, two of them untouched. It explains why more of the first four does nothing for it. Another win, another vacation, another round of praise, another circle of friends, all of it feeds needs that are already full while the two that are starving stay starving. [Why a life that matches the plan can still feel wrong has its own treatment here.](/insights/feeling-lost-in-life/)
 
 Don't judge yourself if you read that paragraph and recognized it. Recognizing flatness in a life other people would happily swap for is one of the harder things to admit out loud, and admitting it is where anything useful starts.
 

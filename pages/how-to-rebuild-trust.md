@@ -122,7 +122,7 @@ faqs:
   q: Am I the problem if I cannot let this go after they have apologized and changed?
 - a: 'Usually not in the same shape. The unthinking version, where it never occurred
     to you to wonder, rarely comes back. What most people describe arriving at is
-    more deliberate and less automatic: trust extended in instalments, with reasons
+    more deliberate and less automatic: trust extended in installments, with reasons
     they could say out loud, and a much clearer sense of what would move it up or
     down. Plenty of people end up preferring that version, and they generally mean
     it.'
@@ -175,7 +175,7 @@ faqs:
     records, so transparency has an obvious shape: shared access for an agreed period,
     a monthly hour with both sets of numbers open, a date to review it. What slows
     these repairs is that hidden debt usually arrives attached to a story about worth,
-    so the person who hid it minimises the amount, and the minimizing costs more than
+    so the person who hid it minimizes the amount, and the minimizing costs more than
     the debt ever did.'
   q: How is rebuilding trust after financial infidelity different?
 - a: 'The trust work runs alongside the recovery work rather than waiting for it,
@@ -187,7 +187,7 @@ faqs:
   q: How do you rebuild trust after an addiction or a relapse?
 - a: 'With deliberate visibility, because distance removes the ordinary evidence that
     accumulates by itself when two people share a kitchen. Agree what gets shared
-    without being asked: plans before they happen, who was there afterwards, a call
+    without being asked: plans before they happen, who was there afterward, a call
     kept at the hour it was promised. Low-stakes material carries the weight here.
     A dull message about an unremarkable Tuesday, sent unprompted, moves more than
     a long emotional conversation on the weekend.'
@@ -344,7 +344,9 @@ That distinction resolves two very common stuck points. The first is a betrayed 
 
 The second is a relationship being written off as unfixable because the anger has not faded. Anger and trust are separate tracks moving at separate speeds, and one of them can be well along while the other has barely started. [What the whole protective stance looks like when it settles in for the long term is covered here.](/patterns/when-someone-close-betrays-you/)
 
-## What Is Getting Treated as One Thing Here?
+## Can I Forgive Somebody and Still Decide Not to Trust Them Again?
+
+Yes, and that combination is coherent rather than confused. It is the first of the pairs below that routinely get treated as one thing when they are in fact two.
 
 Seven pairs, and every one of them causes a specific argument that neither person can win, because the two people are discussing different objects.
 
@@ -360,7 +362,7 @@ Seven pairs, and every one of them causes a specific argument that neither perso
 
 Read the middle column of the verification row twice if you are currently arguing about a phone. Two households can be doing the physically identical thing, one of them rebuilding and one of them corroding, and the difference sits entirely in whether the access was offered and whether anybody has said when it ends.
 
-## What Does the Person Who Broke Trust Actually Have to Do?
+## What Should I Actually Do If I Am the One Who Broke Someone's Trust?
 
 Supply evidence of a specific kind, repeatedly, in situations where supplying it costs you something. Almost everything else is decoration.
 
@@ -376,7 +378,7 @@ An example of how that plays out, built from a pattern that repeats with small v
 
 What eventually moved it had nothing to do with reassurance. The partner who had hidden the debt shared the banking app unprompted, for an agreed period, with a date attached, instead of only answering when questioned. The checking did not stop on its own. It slowed, because there was finally something specific to check that kept turning up nothing.
 
-## What Does the Betrayed Person Have to Do, and Why Is It the Harder Half?
+## What Am I Responsible for Doing If I Am the Person Who Was Betrayed?
 
 Learn to tell, in the moment, whether you are reacting to the person actually in front of you or to the original betrayal running on autopilot. That is harder than anything on the previous list, and almost nobody tells you it is your job.
 
@@ -424,13 +426,15 @@ The first is the size and duration of what happened. A single incident owned qui
 
 The second is what was already there. Somebody experiencing this for the first time, after a life that was otherwise reasonably predictable, moves faster than somebody who arrived at this relationship already carrying a guard from earlier breaks. The second person is repairing two things simultaneously, and only one of them belongs to the person in front of them, which is unfair to both of them and worth naming out loud rather than fighting about.
 
+Part of what makes that stretch so long has nothing to do with your situation. Rothbart and Park reported in the *Journal of Personality and Social Psychology* in 1986 that a favorable trait takes a great deal of evidence to establish and very little to undo, while an unfavorable one behaves in the reverse, which puts trustworthy among the hardest things to build back once it has gone. Later work qualified rather than overturned that, with Tausch, Kenworthy and Hewstone reporting in 2007 that the effect is strong for warmth-type traits and reduced or absent for competence-type ones, so what you are up against here is real without being uniform across everything a person gets judged on.
+
 The answer also runs at two speeds. Recognition arrives quickly. Within a few weeks of paying deliberate attention, most people can catch themselves mid-check, and catching it counts even on the days you check anyway. Watching yourself reread a message for the fourth time while knowing exactly what you are doing feels terrible and is genuine progress.
 
-The reflex takes far longer, because it fires before you consent to it. Expect a step pattern with long flat stretches, occasional sudden jumps, and a bad fortnight around anniversaries or after any piece of news that resembles the original one. A setback of that kind is the system doing what it learned, rather than proof that none of the work took.
+The reflex takes far longer, because it fires before you consent to it. Expect a step pattern with long flat stretches, occasional sudden jumps, and a bad two weeks around anniversaries or after any piece of news that resembles the original one. A setback of that kind is the system doing what it learned, rather than proof that none of the work took.
 
 Is that frustrating to hear? Yes, and I would rather say it plainly than sell a faster route that does not exist. The work itself is small and freaking repetitive, which is exactly why it holds when a single dramatic conversation does not.
 
-## What Does It Look Like When It Is Actually Working?
+## How Can I Tell Whether Rebuilding Trust Is Working or Just Stuck?
 
 Undramatic, and visible in the direction things are moving rather than in how any single week felt.
 
@@ -444,7 +448,7 @@ Undramatic, and visible in the direction things are moving rather than in how an
 | Your own read | Occasionally trusted on a small call, and checked honestly afterward | Every decision still needing three second opinions before it can be made |
 | The memory | Available, and no longer consulted about people who were not there | Rehearsed daily, in detail, arriving at the same conclusions each time |
 
-What people arrive at, when this goes well, tends to surprise them. The unthinking version of trust, where it simply never occurred to you to wonder, rarely comes back in its original form. What replaces it is more deliberate: trust extended in instalments, with reasons you could say out loud, and a clear sense of what would move it up or down. Plenty of people report preferring that version once they have lived in it for a while, and they usually mean it, because a trust you can explain is a trust you can also defend when somebody tries to talk you out of it.
+What people arrive at, when this goes well, tends to surprise them. The unthinking version of trust, where it simply never occurred to you to wonder, rarely comes back in its original form. What replaces it is more deliberate: trust extended in installments, with reasons you could say out loud, and a clear sense of what would move it up or down. Plenty of people report preferring that version once they have lived in it for a while, and they usually mean it, because a trust you can explain is a trust you can also defend when somebody tries to talk you out of it.
 
 Don't judge yourself if that column on the right currently describes your house. A stalled repair often means one of the two tracks was never running, and finding out which one is a solvable problem, whereas trying harder at the track that was already working is not.
 
@@ -472,13 +476,29 @@ The family version is slower and messier. A parent makes and breaks the same kin
 
 What moved that one was a specific, low-stakes promise kept over and over across many months. A phone call at the agreed time. One piece of information kept private after being asked to keep it private. Enough repetitions that eventually the adult child risked a slightly bigger piece of trust, and it held. No apology preceded it, which is worth knowing if you are waiting for one, because the apology and the evidence are separate supplies and only one of them does the rebuilding.
 
+If it is always the same promise, that is worth reading rather than re-fighting. Somebody who keeps failing the same commitment is usually not choosing against you on each occasion, which is a bleaker comfort than it sounds and a more accurate one, and it also means the evidence you are waiting for is unlikely to arrive in the form of an apology. [What that looks like for the person making and breaking the promises is written up separately.](/patterns/promises-i-dont-keep/)
+
 At work the same mechanism applies with the emotional stakes lowered and the practical stakes sometimes raised. Rebuild in the smallest available currency first: a piece of work handed over with a real deadline, credit given accurately in a meeting where it would have been easy to leave it out. A large gesture after a small breach reads as strange, and a large gesture after a large breach reads as damage control. Small and repeated is what registers in either case.
+
+## How Can I Earn My Boss's Trust Again After I Hid a Mistake at Work?
+
+By shortening the distance between a problem appearing and your manager hearing about it, in small ordinary instances, for longer than feels necessary. What you say about the original episode carries less weight than most people assume.
+
+Covering something up gets read differently from getting something wrong, and which of the two you are in decides the whole repair. A missed number, a bad estimate, a piece of work that came back wrong: those get filed as capability, and capability has a remedy everybody involved can picture. Keeping it quiet gets filed as character instead, and character has no obvious remedy at all, which is why the meeting where you set out what happened so often changes nothing and leaves you unsure why.
+
+There is research pointing straight at that split, and it needs naming carefully. "Removing the Shadow of Suspicion", published in the *Journal of Applied Psychology* in 2004, ran two studies comparing an apology against a denial after a trust violation. The more effective response depended on how the violation had been read: apology did better where the failure was about competence, while for failures read as being about integrity it did not, and what the later evidence showed about guilt or innocence mattered as much as the response itself. The obvious misreading is the dangerous one, so take it slowly: none of that is a case for denying something you actually did. Those were short scenario studies, in which people judged somebody they had only read about on the strength of a single written episode, which is a long way from a manager working out across seven months whether your updates can be relied on. What survives the translation is narrow and useful. Where the doubt has attached to character, a better account of the original episode is not the lever. Evidence over time is.
+
+That paper is named here by its title rather than by its authors, because the same four researchers published a comparison of apology, denial and saying nothing three years later, and [the page on promises made and broken already carries that one.](/patterns/promises-i-dont-keep/)
+
+So what actually moves it is smaller than the conversation you keep drafting. Volunteer the bad part early and in its ugly version, while the problem is still small and cheap to fix, and especially on the occasions when nobody would have found out. Give credit accurately in a meeting where leaving it out would have been easy. Hit the small commitments nobody is tracking.
+
+And ask the question most people avoid, because it turns an open-ended sentence into something with edges: what specifically would need to be true, and by when, for the extra check-ins to come off. A manager who can answer that has told you what to aim at. One who cannot has told you something too, and it is better to learn that early than to spend a year guessing.
 
 ## How Do You Get Your Own Judgment Back?
 
 By building a fresh track record of your own calls, graded honestly, in situations small enough that being wrong costs you nothing.
 
-This is the repair people leave undone, because it looks like it should come free with the other one. It does not. A betrayal generalises inward as well as outward, and the internal version has its own vocabulary: my judgment about people is always wrong, I have lost my ability to read anybody, next time I will be the one who leaves first. A partner's improved behavior repairs their trustworthiness. It leaves your confidence in your own perception exactly where it fell.
+This is the repair people leave undone, because it looks like it should come free with the other one. It does not. A betrayal generalizes inward as well as outward, and the internal version has its own vocabulary: my judgment about people is always wrong, I have lost my ability to read anybody, next time I will be the one who leaves first. A partner's improved behavior repairs their trustworthiness. It leaves your confidence in your own perception exactly where it fell.
 
 Three things move it, and all of them are slow.
 
@@ -494,4 +514,4 @@ Write the evidence list, and give it fifteen minutes. Open a note and answer one
 
 Most people have never done this, and it explains a great deal about why so many repairs stall. "They need to prove themselves" describes a target nobody has drawn, which means the person trying to hit it is guessing and the person judging it has no way to register a hit. Fifteen minutes with a note fixes the drawing problem entirely, whatever anybody decides afterward. Show the list to the other person or keep it to yourself. Half its value arrives in the writing, because a target you cannot describe is worth knowing about too.
 
-If what pulls at you is the recalibrating half rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that nobody can spend a week describing their situation without ever being in it, and integration built into the design rather than handed over as a reading list on the last morning. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came for. Feel into it and find out for yourself. A week spent working out which of your reactions belong to the person in front of you is rarely wasted, whatever you decide about the relationship.
+If what pulls at you is the recalibrating half rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that nobody can spend a week describing their situation without ever being in it, and integration built into the design rather than handed over as a reading list on the last morning. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came for. Feel into it and find out for yourself. A week spent working out which of your reactions belong to the person in front of you is rarely wasted, whatever you decide about the relationship.

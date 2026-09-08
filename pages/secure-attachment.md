@@ -256,6 +256,21 @@ faqs:
     Ask the plain question instead, and let their ordinary behavior over the next
     months answer it.
   q: Is it ever okay to test whether somebody will stick around?
+- a: 'Four observable things. The argument stays about the topic instead of sliding
+    to whether the relationship survives. They stay reachable while angry. Repair attempts
+    get made and, more tellingly, get accepted, which is the finding from John Gottman''s
+    lab that separates couples who last. And the rupture gets named and closed within
+    hours rather than days. When arousal is too high to listen, the secure move is a
+    timeout with a return time attached.'
+  q: What does a securely attached person actually do differently after a fight?
+- a: 'The ones that cost something. Plans proposed with specifics and kept without
+    reminders, a steady rather than oscillating rate of contact, direct answers to direct
+    questions, a no without a manufactured excuse, a first disagreement treated as
+    information, and an account of past relationships that includes their own share.
+    Intensity, constant availability, never fighting, and confident presentation are not
+    signals. Early dating is low-threat, so most of it is uninformative until the first
+    small disappointment.'
+  q: What are the green flags of a secure partner in early dating?
 intent: research
 metaDescription: 'Secure attachment looks like small non-events: a slow reply that
   stays a slow reply, a compliment that lands. What earned security is, and how it
@@ -324,7 +339,7 @@ Here is the same territory laid out as a polarity, because every one of these pa
 | Deflecting praise, correcting it, returning a favor | Letting praise land | "Thank you", with nothing added and nothing corrected |
 | Asking for reassurance, then re-checking by evening | Asking once, directly | The answer you were given is still the answer you are working from three hours later |
 | Rehearsing the fallout before saying no | Naming a limit plainly | You say you cannot make Saturday without staging the argument in advance |
-| Reading calm as the pause before something bad | Staying present during calm | A quiet fortnight registers as a quiet fortnight |
+| Reading calm as the pause before something bad | Staying present during calm | A quiet two weeks registers as a quiet two weeks |
 | Opening a second front after a disagreement | Repairing the actual problem | The argument stays about the thing the argument was about |
 | Reading being single as a verdict on you | Reading it as a circumstance | A quiet year changes your plans without changing your estimate of yourself |
 | Managing a curated, low-maintenance version of yourself | Disclosing as you go | Somebody sees you tired, unimpressive, and mildly unreasonable, on a Tuesday |
@@ -374,7 +389,7 @@ One step, and it sits earlier in the sequence than most advice aims at.
 
 The pattern runs as a loop, and the loop has four beats.
 
-1. **A signal arrives, and it is ambiguous.** A reply takes nine hours. A plan gets canceled on Thursday. A tone goes flat over dinner. A fortnight passes with nothing at all going wrong.
+1. **A signal arrives, and it is ambiguous.** A reply takes nine hours. A plan gets canceled on Thursday. A tone goes flat over dinner. Two weeks passes with nothing at all going wrong.
 2. **An interpretation forms, in well under a second.** Something has changed. They are losing interest. This is the beginning of the end, and it started with whatever I said on Sunday. The interpretation arrives with the authority of a fact, because it arrives faster than thought does.
 3. **A protective behavior executes.** Either you move toward them hard, checking, over-giving, asking to be reassured, making yourself necessary. Or you move away first, going quiet, going busy, withdrawing the part of you that was showing.
 4. **Relief arrives, and it teaches the whole sequence.** Whatever you did produced relief within hours. That relief is what installs the loop and reinstalls it every time, which is why arguing with the pattern intellectually has never worked for anybody.
@@ -421,7 +436,17 @@ Most people find themselves split across two of those columns rather than sittin
 
 Read the secure column looking for the part that takes effort. There is nothing there to find, which is the whole finding.
 
-## Is Earned Security the Same Thing as Never Having Been Wounded?
+## Can You Become Securely Attached as an Adult?
+
+Yes. The research has a name for it, and the name comes from an accident of coding.
+
+While scoring Adult Attachment Interviews in the 1980s, Mary Main's group kept meeting adults who described genuinely hard childhoods, neglect, loss, a parent who was there and not there, and whose accounts were nonetheless coherent: detailed where detail was claimed, balanced about the good and the bad, able to stay in the story without being swept off by it. By the interview's own criteria those adults scored secure. Main called it earned security, and in some samples it accounted for a fifth to a quarter of everyone who scored secure at all. The classification did not ask what happened to you. It asked what you can now do with what happened.
+
+What moves someone into that group, as far as the evidence supports a mechanism, is repeated corrective experience inside a relationship that holds: a partner who stays through the test, a friendship that survives your worst month, a therapist who does not retaliate. Insight comes from thinking. Reclassification appears to come from being treated differently, often enough and for long enough that the prediction underneath updates. The fuller account of what that looks like in practice is further down this page, under what actually moves it.
+
+Set the clock honestly. Attachment patterns are moderately stable, which is the reason they are worth measuring. Change is counted in months to years, is not linear, and shows up first as faster recovery rather than as the absence of the alarm. The early win is not that the drop in the stomach stopped arriving, but that it arrived, got recognized in twenty minutes instead of two days, and got said out loud.
+
+Which raises the distinction this page most wants you to leave with. Is earned security the same thing as never having been wounded?
 
 No, and this is the most useful distinction on the page.
 
@@ -463,7 +488,13 @@ The evidence that supply alone falls short is sitting in the sentences people us
 
 Somebody once noticed that every compliment from their partner triggered an automatic internal rebuttal: they are just being nice, they want something, they have not seen the real me yet. From outside, the deflection reads as modesty. Its actual function is a rule that keeps supply from ever registering as sufficient, which keeps the underlying deficit intact regardless of how much affection arrives. What moved it was smaller than expected. A flat behavioral rule, adopted deliberately: when praised, say thank you out loud and add nothing. The rebuttal still arrived for months. It simply stopped being given a mouth, and belief caught up considerably slower than the behavior did, which turned out to be acceptable.
 
-## Are You Sure That Is What You Are Looking At?
+## Is Being Calm and Low-Maintenance the Same as Being Securely Attached?
+
+Not necessarily, and the research has a specific name for the version that is not.
+
+In the Adult Attachment Interview, the classification that most often passes for calm from the outside is called dismissing. Its signature is not distress but an account of childhood that is brief, faintly idealizing, and short on the detail that would support the claims being made: "it was fine," "they did their best," and then nothing underneath when the interviewer asks for an example. Mary Main's coding catches the gap between the summary and the supporting material, and it is that gap, rather than any visible upset, that separates a calm that has resolved something from a calm that has simply not gone near it. The person in the second group is often the least demanding partner anyone has ever had, and the one who goes quiet, rather than reaching, when something real goes wrong.
+
+So the calm itself tells you very little. What tells you something is what the calm does under load, which is what the table below is for.
 
 Worth checking, because two things get confused with this constantly and they sit at opposite ends of the visible spectrum.
 
@@ -488,6 +519,30 @@ Function separates them, and function only becomes visible under load. What happ
 
 The reason this hides so well is that nobody in the protective version experiences it as fear. It feels like competence. It usually gets praised, at work and by friends and sometimes by the very partner who cannot get near them, which is how somebody can spend two decades being admired for the exact behavior that is costing them their closest relationships.
 
+## What Are the Green Flags of a Secure Partner in Early Dating?
+
+The honest caveat first, because it changes what the list is worth. The attachment system is threat-activated. Early dating is, by design, a low-threat environment, so six weeks of easy dinners tells you close to nothing about anybody, including yourself. The flags that carry information are the ones that cost something, and most of them only become visible once the first small disappointment has happened.
+
+With that said, the following are observable within roughly two months, and each one is a small load test rather than a personality trait:
+
+- Plans get proposed with specifics and kept without reminders. Vagueness about when is often vagueness about whether.
+- The rate of contact is steady. Not high, not low, steady. Floods followed by silences are the loop running, not interest.
+- A direct question gets a direct answer, including the uncomfortable ones about what they want.
+- A no arrives without a manufactured excuse attached. "I don't want to" is a more secure sentence than a beautifully constructed reason.
+- The first disagreement gets treated as information about the two of you rather than as a crisis or a disqualification.
+- They ask about your other relationships, your friends, your family, your work, with curiosity rather than by measuring themselves against them.
+- Their account of past relationships holds their own share of what went wrong, and not every ex was impossible. This one is a pocket version of what the Adult Attachment Interview scores: coherence. Somebody narrating three previous relationships as pure victimhood is telling you about how they organize a story, not about their luck.
+- A compliment or a small kindness gets received rather than deflected, minimized, or repaid within the hour. The receiving problem described earlier on this page is visible across a table in week two, if you know to watch for it.
+
+And the signals people over-weight, which are not signals at all:
+
+- Intensity, speed, and the feeling of having known each other forever. Rapid merger is as consistent with the anxious loop as it is with compatibility.
+- Constant availability. It reads as interest and is just as often somebody with no needs of their own on display.
+- Never fighting. In the first three months this means nothing whatsoever.
+- Confident presentation. Self-assurance and attachment security are different variables that happen to look identical from across a restaurant.
+
+The most useful thing to do with this list is to run it on yourself for those same two months. Which of the eight can you do, on a Tuesday, with someone you actually like? That answer is worth more than any verdict about them, and it is the one you can act on.
+
 ## What Separates Testing From Trusting?
 
 Whether the uncertainty is being forced to an answer or allowed to stand.
@@ -510,13 +565,29 @@ Watch for the rehearsal, because the rehearsal is the pattern running before the
 
 Some limits will come back unhonored. That is information too, and it is the kind you cannot get any other way, which is why the experiment is worth running even when it goes badly.
 
+## What Does a Securely Attached Person Actually Do Differently After a Fight?
+
+Four things, and all four are visible from the outside within a day.
+
+A fight is the loop described on this page running in real time, with the other person's loop running alongside it. It is the highest-resolution test there is, because it activates the system on purpose, and the differences show in the hour and the day afterward rather than in the volume during.
+
+**The argument stays about the thing.** Secure conflict is about the dishwasher, the money, the in-laws, the tone of voice. Insecure conflict slides, usually within minutes, from the topic to the survival of the relationship: "this is who you are," "maybe we shouldn't be doing this at all." That slide is the tell. The interpretation step has fired and the argument is now about whether you will be left.
+
+**They stay reachable while angry.** Angry and reachable at the same time is a capacity, and it is the one most visibly absent when things go wrong. The person is still in the room, still looking at you, still answering questions. The opposite, where the body is present and the person has gone, is one of the four behaviors that John Gottman's lab found strongly predictive of a relationship ending, alongside criticism, defensiveness, and contempt.
+
+**Repair attempts get made, and get received.** A repair attempt is any move that lowers the temperature: a joke, a hand on an arm, "wait, I'm doing the thing again," a softened restatement of the point. The finding from the same lab that is worth carrying around is that unhappy couples make repair attempts too. What distinguishes the couples who last is that the attempts are accepted. That is this page's whole argument arriving in the middle of a fight: a repair attempt is an ambiguous signal, and the secure move is to take it at face value rather than audit it for sincerity while it is still in the air.
+
+**The loop closes in hours, and it closes out loud.** If a rupture on Tuesday night is still unaddressed on Thursday, that is a structural fact about the relationship regardless of what anyone says about it. Secure pairs name the injury rather than walking past it, and they do so the same day or the next morning. Time-to-repair is one of the few things on this page you can measure with a calendar.
+
+One caveat that saves a great deal of damage. Past a certain point of arousal, the same lab measured it at roughly a hundred beats per minute, the capacity to listen drops sharply and continuing the conversation makes it worse. The secure response there is not to push through, but to call a timeout with a return time attached: "I need twenty minutes, and then I want to finish this." A timeout without a return time is not regulation but a withdrawal with a procedural excuse, and the other person's loop will read it as exactly that.
+
 ## Where Does Security Show Up Outside a Romantic Relationship?
 
 Everywhere the same question gets asked, which is nearly everywhere.
 
 1. **With friends.** A friendship survives three unanswered weeks without either person building a theory about it. Nobody keeps a running tally of who reached out last.
 2. **With family.** A parent's disapproval registers as their disapproval rather than as a live recalculation of your worth. You can visit for four days and leave with your own opinions intact.
-3. **At work.** Critical feedback stays about the work. It does not spread outward into a verdict about whether you belong there, and it does not get either avoided or over-corrected for a fortnight.
+3. **At work.** Critical feedback stays about the work. It does not spread outward into a verdict about whether you belong there, and it does not get either avoided or over-corrected for two weeks.
 4. **With your own solitude.** An evening alone that is being enjoyed rather than endured, and a stretch of months without a relationship that changes your calendar without changing your self-assessment.
 5. **With yourself.** A decision made without polling six people first, and a preference held without needing anybody to agree it was reasonable.
 

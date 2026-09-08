@@ -2,7 +2,7 @@
 title: "Why Do I Start a Fight Right When Things Are Going Well? Picking Fights, Decoded"
 metaTitle: "Picking Fights: Why You Start One When Things Are Good"
 shortTitle: "Picking Fights"
-description: "The argument that arrives in a good week. The criticism the evening after real closeness. The flaw found the day after the holiday was booked. This page describes picking a fight from the inside, names the research that covers the act and says what it leaves untouched, maps five very different roots the identical opening line grows from, explains why conflict beats silence as a way out of closeness, and describes what a good Tuesday looks like once the sequence stops running."
+description: "The argument that arrives in a good week. The criticism the evening after real closeness. The flaw found the day after the vacation was booked. This page describes picking a fight from the inside, names the research that covers the act and says what it leaves untouched, maps five very different roots the identical opening line grows from, explains why conflict beats silence as a way out of closeness, and describes what a good Tuesday looks like once the sequence stops running."
 metaDescription: "Picking a fight in a good week has a shape and a timing. Why conflict beats silence as an exit from closeness, and the five roots underneath it."
 primaryQuestion: "Why do I start a fight right when things are going well?"
 intent: research
@@ -19,7 +19,7 @@ faqs:
   a: "Not by itself, and the timing tells you more than the frequency. A relationship in genuine trouble tends to produce arguments after bad weeks, over things that are actually happening. This pattern produces them after good weeks, over things that were fine on Monday. The second shape points at something one person is carrying rather than at the state of the relationship."
 - q: "Why do I criticize my partner the evening after we were close?"
   a: "Because closeness is the exposure and the criticism is the correction. An honest conversation, unusually good sex, an evening where you said something true all leave you more visible than you were that morning. A sharp remark restores the gap without either of you having to name the gap. Most people notice the timing years before they notice the mechanism."
-- q: "Why do I find something wrong right after we book a holiday?"
+- q: "Why do I find something wrong right after we book a vacation?"
   a: "Because the booking made the future concrete, and a concrete future is something that can be taken away. Finding the flaw in the hotel, the flights, or the dates converts a large formless dread into a small manageable complaint you can argue about tonight. The complaint is usually real enough to survive inspection, which is exactly what makes it a good hiding place."
 - q: "Why do I feel calmer once the argument has started?"
   a: "Because waiting is more expensive than a bad outcome for most nervous systems, and the fight ends the waiting. Your body also mobilizes: heart rate up, attention narrowed, a rush of something that feels like capability after a stretch of flatness. On top of that you are back in a register you know how to operate in. Steadiness under conflict is a skill you have practiced far more than ease."
@@ -97,7 +97,7 @@ Because the fight is doing a job the good week made necessary. It restores a dis
 You will know inside four lines whether this page is about you, so start here.
 
 - "We had the best week in a year and I ruined it on the Sunday."
-- "The holiday got booked on Tuesday and by Wednesday I had found the problem with it."
+- "The vacation got booked on Tuesday and by Wednesday I had found the problem with it."
 - "I kept poking at him until he snapped, and then I felt better."
 - "I can quote the sentence I said. I cannot remember what the argument was about."
 - "Things are good, so I am waiting to see what I do about it."
@@ -107,7 +107,7 @@ You will know inside four lines whether this page is about you, so start here.
 
 There is a particular evening most people searching this can replay without any effort. It had been a good week. Nothing was wrong. You were on the sofa, or in the car, or carrying plates to the sink, and you heard yourself say something with an edge on it about a thing that had not bothered you on Monday. You watched their face change. Somewhere in the half second before the next sentence you registered that a choice was available, and you said it anyway.
 
-Or the holiday got booked on the Tuesday, and by Wednesday evening you had found the problem with the flights and made it their problem too.
+Or the vacation got booked on the Tuesday, and by Wednesday evening you had found the problem with the flights and made it their problem too.
 
 The whole pattern lives in the ninety seconds around that first sentence, repeated a handful of times a year or a handful of times a month, and that is the only place it changes. Everything below is about what happens inside them.
 
@@ -377,14 +377,14 @@ The move that holds is switching from an accusation to a report. An accusation i
 | The opening line about to come out | What is actually happening | What does the same job |
 |---|---|---|
 | "You never think about anyone but yourself" | You feel far away and cannot say so | "I have felt distant from you since Sunday and I do not know why" |
-| Finding the flaw in the booked holiday | The booking made the future real and the future is frightening | "I got scared when we booked it. I would rather say that than pick the hotel apart" |
+| Finding the flaw in the booked vacation | The booking made the future real and the future is frightening | "I got scared when we booked it. I would rather say that than pick the hotel apart" |
 | A correction of something small, in company | You want a reaction and this is the cheapest one available | "Can we sit down later? There is something in me with nowhere to put it" |
 | The subject raised at eleven at night | The day is over and the pressure has nowhere left to go | "I want to talk about this tomorrow when we are both awake" |
 | Needling until they finally snap | You need to know they are still reachable | "I want your attention and I am going about it badly" |
 | "It is fine", said in a tone that means the opposite | You want them to open it so it is not yours | "I am not fine and I am not ready to talk about it yet. Ten minutes" |
 | The list of everything from the last six months | The original subject cannot carry the size of this | "I am about to bring up things from years ago. That is the signal that this is not about tonight" |
 
-The middle row is the hardest to say and the most useful. Telling somebody you got frightened when the holiday was booked will feel, the first several times, considerably more exposing than any argument you have ever had, and that is accurate rather than a reason to avoid it. The exposure is the thing the whole pattern was built to prevent, which is why walking into it deliberately does more than a year of biting your tongue.
+The middle row is the hardest to say and the most useful. Telling somebody you got frightened when the vacation was booked will feel, the first several times, considerably more exposing than any argument you have ever had, and that is accurate rather than a reason to avoid it. The exposure is the thing the whole pattern was built to prevent, which is why walking into it deliberately does more than a year of biting your tongue.
 
 Two notes on doing this well. First, do not deliver the report in the middle of an argument that is already running; it reads as a tactic and it will be treated as one. Say it before, or say it the next morning. Second, expect it to feel false for about a month. Saying I feel distant from you will sound to you like a line from a script somebody else wrote, which is what any unrehearsed sentence sounds like. The behavior arrives before the feeling does, every time.
 

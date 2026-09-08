@@ -16,7 +16,7 @@ faqs:
   a: "It is better described as a learned adaptation to an unpredictable environment than as any diagnosis. A child who could not compute which version of a parent would walk through the door adapted by refusing to bank on the good version, which was the accurate read at the time. If the unpredictability included violence, threat, or fear for your safety, that belongs with a licensed professional rather than a page like this one."
 - q: "Why don't I believe people when they compliment me?"
   a: "Skepticism toward praise is one of the most consistent features of this pattern. A compliment arrives and the immediate internal move is a scan for the motive behind it, or a brace for the criticism assumed to be following it. The doubt is less about the person speaking and more about the good moment itself, which historically was the moment right before something changed."
-- q: "Why do I keep the same rigid routine even at weekends?"
+- q: "Why do I keep the same rigid routine even on weekends?"
   a: "A fixed routine is one of the few variables you can actually control, and control was in short supply around a mood nobody could predict. Same bedtime, same coffee, same route, same order of tasks: sameness reduces the number of places a surprise can come from. It usually functions well until the day something small has to move and the size of your reaction surprises you."
 - q: "Why do I pick a fight right when a relationship starts going well?"
   a: "Creating friction at exactly the point things settle is a way of testing whether the stability is real, on your own terms and your own timing, rather than being blindsided by its ending later. It rarely feels deliberate. From inside it feels like irritation that arrived on its own, and the reason for it is often impossible to name out loud afterward."
@@ -60,7 +60,7 @@ faqs:
   a: "It is a popular label rather than a clinical diagnosis, and it usually points at a mother who minimizes or waves away a child's feelings: you are fine, it was nothing, stop making a fuss. Where it overlaps with this pattern is in the message it sends about your own read on things. If your sense of what happened was routinely overruled, you learn to distrust your own signal, including the one telling you a good period is real."
 - q: "Is it different if it was your mother rather than your father?"
   a: "The mechanism is the same either way, since what installs the forecast is the inconsistency rather than which parent supplied it. What tends to differ is how easy it is to name. Unpredictability from the parent who did most of the daily care usually gets woven into more of an ordinary week, so there are more small moments and fewer big scenes to point at. That can make it harder to recognize, and it does not make it smaller."
-- q: "Why did my mum always seem to start the arguments?"
+- q: "Why did my mom always seem to start the arguments?"
   a: "Two things usually sit underneath it. Some people carry a level of internal pressure that has to discharge somewhere, and a household is the nearest place. And a room where the tension is rising can feel more predictable once the argument actually starts, because at least the shape of it is known. Neither explanation makes the childhood easier. Both help explain why the arguments seemed to arrive without a cause anyone could point to."
 - q: "Does this happen if the parent was depressed rather than volatile?"
   a: "Yes, and it often goes unnamed for longer. A parent whose availability rose and fell with their own state produces the same missing link between what you did and what came back, without any of the shouting that would have made it obvious. Warmth on Tuesday and a closed door on Wednesday teaches the same lesson as anger on Tuesday and warmth on Wednesday: the response you get says more about the weather than about you."
@@ -149,6 +149,8 @@ Because a good week reads as a peak, and in the pattern you learned, a peak is t
 
 This is the center of the whole thing, and it is worth being precise about, because it looks from outside like pessimism and functions from inside like arithmetic. A run of things going right does not register as evidence that things are going right. It registers as an interval, and intervals have endings. So instead of relaxing into the good stretch, you start pricing the ending: rereading the warm message for a tone that might be hiding in it, waiting for the follow-up email, checking whether the person who was kind on Monday is slightly cooler on Wednesday.
 
+A laboratory result lines up with this more closely than it first looks. Working with volunteers who learned which images predicted an unpleasant electric stimulus, de Berker and colleagues reported in *Nature Communications* in 2016 that reported stress, pupil diameter and skin conductance all tracked one particular quantity: how much about the next outcome stayed genuinely unsettled, meaning the part of it that no further learning could resolve. The limit matters: that was a short session with a physical stressor and adults in a task, not years of childhood, so the step across to your quiet Tuesday is an inference rather than a result, and what it does establish is only that a stress response can follow how much remains unsettled.
+
 Several specific behaviors grow out of that single move. Guarded optimism, where you agree that things are going well while withholding any actual belief in it. Reluctance to celebrate, because a celebration is a public statement that you have banked something. Delayed emotional gratification, where you postpone your own enjoyment of a good outcome to a later date that keeps failing to arrive, with no stated reason for the delay and no obvious moment when it would be safe to stop delaying.
 
 There is a version of this that will be familiar even if none of the rest is. A promotion lands, or a diagnosis comes back clear, or someone says yes, and instead of relief you feel a flat, dropping sensation you would struggle to explain to the person congratulating you. That sensation is the forecast updating: something has changed, change is where the danger lives, and now there is more to lose than there was on Thursday.
@@ -167,7 +169,9 @@ Boundaries in that kind of house tend to be as inconsistent as everything else, 
 
 What carries into adulthood is a standing prediction rather than a memory of one bad day. That is why there is often no scene to point at, and why so many people in this pattern describe their childhood as basically fine and mean it. Nothing happened. What happened was the absence of a reliable if-then, repeated for years, which is [one of the harder formations to name precisely because it leaves no story behind it](/patterns/childhood-emotional-neglect/).
 
-## What Is the Disbelief Actually Protecting You From?
+## Why Do Compliments Make Me Suspicious Instead of Happy?
+
+Because a compliment is a good moment arriving with no warning attached, and good moments are exactly what this pattern refuses to bank. Ask what the disbelief is actually protecting you from and the answer is the same for praise as it is for a calm week.
 
 From the harder fall. Believing something is solid and then having it taken away hurts considerably more than never having believed it, and this whole pattern is an efficient answer to that problem.
 
@@ -200,7 +204,11 @@ Worth checking carefully, because five fairly different patterns produce similar
 
 Most people arriving at a page like this have already tried on two or three of those labels and found each one about seventy percent right. The seventy percent is real, since these patterns share a great deal of machinery and frequently travel together. The missing thirty percent is usually this: every one of the other five needs a person, a threat, or a future in order to run. This one needs nothing except a good stretch that has not been verified yet.
 
-## Why Does It Still Run When Nobody Else Is in the Room?
+One paper sharpens that last line more than any label does. A 2009 paper in *Human Nature*, "Fundamental Dimensions of Environmental Risk," argued that two features of an early environment need holding apart: harshness, meaning how severe conditions are, and unpredictability, meaning how much that severity varies from one stretch to the next. Ordinary trust issues run on harshness read off one person; this pattern runs on variance, which is why a partner with an unblemished record moves it so little. Carry the limits with it: that paper is a synthesis of theory rather than an experiment, and its authors state openly that converging evidence supports the core assumptions while many questions remain unanswered, so treat the split as a useful cut and not as a settled result.
+
+## Why Am I Calmer in a Crisis Than on a Peaceful Weekend?
+
+Because a crisis confirms the prediction you are already running, and a peaceful weekend leaves it hanging with nothing to check it against. The same answer covers the odder half of this, which is why the pattern keeps running with nobody else in the room at all.
 
 Because the prediction was about how long a state lasts rather than about any particular person, and a state requires no company at all.
 
@@ -210,7 +218,9 @@ That is the tell that separates this from its relational cousins. If somebody ha
 
 It also explains the thing that confuses people most about themselves: feeling more at ease in a crisis than during a calm stretch. A crisis, however unpleasant, matches the internal prediction. Nothing has to be disbelieved, nothing has to be defended against, and there is a clear task with a known shape. Plenty of people in this pattern are genuinely excellent in emergencies and quietly terrible at a peaceful Sunday, and they usually assume that makes them broken in some interesting way. It just means the peaceful Sunday has no confirmed shape yet, and an unconfirmed shape is the specific thing they were trained to watch. [The forward-facing version of that same discomfort, where the problem is not knowing what is coming, has its own page.](/patterns/need-for-certainty/)
 
-## Where Does It Show Up When You Would Not Call It Distrust?
+## What Does Growing Up With an Emotionally Unpredictable Parent Do to You as an Adult?
+
+Mostly it turns up in places nobody would file under distrust: your routines, your friendships, the work you do, and the quiet check you keep on your own mood.
 
 In seven arenas, and most people recognize themselves in two or three at first and then find another one a week later.
 
@@ -228,7 +238,9 @@ The care row lands hardest for people who consider themselves independent rather
 
 The work row deserves its own attention, and it gets it two sections down, because it is the one that shows up on a CV and costs real money.
 
-## Why Do You Test a Relationship Right When It Starts Going Well?
+## How Can an Unpredictable Parent Affect My Relationships With a Partner?
+
+Through one move above all others: the relationship gets tested right when it starts going well. What a childhood of shifting moods hands you is a habit about good stretches rather than an opinion about partners, and a partner is where that habit has the most room.
 
 Because a good period that has not been tested feels like an unpaid bill, and testing it converts an unbearable unknown into a known result on your own timing.
 
@@ -302,6 +314,20 @@ That is the whole mechanism, and it is worth being blunt about the implication: 
 
 Is any of this comfortable? No. It is small and freaking repetitive and none of it makes for a good story. It is also the kind of thing that holds, in a way that a single powerful realization about your childhood reliably does not. [The reason insight alone changes so little has its own page.](/patterns/why-insight-doesnt-change-anything/)
 
+## How Do I Stop Testing My Relationship Whenever It Starts to Feel Stable?
+
+Not by getting rid of the urge, which does not take instructions, but by putting time between the urge and whatever you were about to do with it, and by using timing to tell the two apart.
+
+Item two above says do not test the good period, which is easy to write and is the hardest line on this page. The difficulty is that a test comes with a case attached. You have suddenly noticed a flaw. An irritation has turned up with no traceable start. Something has apparently been off for weeks and you were too polite to raise it. That case feels exactly like clarity, and as it runs it is indistinguishable from an actual problem.
+
+So use the two things that do separate them. The first is timing. A real objection tends to show up when the thing it objects to happens. A test tends to show up in a quiet week, months into something working, with nothing wrong anywhere in view. If your objections cluster in the calm periods rather than the difficult ones, that tells you something about the pattern rather than about the person you are with.
+
+The second is origin. If you genuinely cannot say what started it, and what actually started it was a good Sunday plus a sense that this had been going too smoothly, then you know which of the two you are looking at.
+
+Then the practice, which is small and dull. Notice the urge. Say nothing about it for a fixed stretch whose length you set before the urge arrives, a week being usually enough, and see whether the objection survives the week. Most do not. The ones that do, you raise, and you raise them as the ordinary complaints they are. And rather than run the test on the person, hand them the forecast: "when things are good between us I get twitchy, and if I start picking at something it is usually that." A pattern you were running on your own becomes a shared thing that neither of you has to decode.
+
+Two complications, both honest. Sitting on every objection is a different problem rather than a solution, so the week is a filter and never a gag. And this comes back: a difficult stretch will bring the urge back hard after a year of not acting on it, which is the pattern doing what it has always done rather than evidence that nothing changed.
+
 ## How Long Does This Take, Honestly?
 
 Longer than you want, and the honest answer runs at two speeds.
@@ -319,6 +345,8 @@ Neither, in most cases, because the thing that needs to shift is a prediction in
 That is genuinely good news, since waiting for an unpredictable person to become predictable is a strategy with a poor record, and many people have spent a decade on it. Your own adult track record of stability can accumulate whether or not any family relationship improves, whether or not anybody apologizes, and whether or not the parent in question is even alive.
 
 Contact does change the arithmetic in one specific way. If the relationship is currently supplying fresh unpredictability, weekly calls that could go either direction, visits you spend reading the room, then you are trying to accumulate new evidence while old evidence keeps arriving. Distance in that case is less a verdict on anybody and more a way of buying quieter conditions to work in. Some people take a few months, some restructure the contact, some keep everything and simply stop expecting the calls to feel different. All three can work.
+
+One caution before any of that reads as settled. No study has tested this question directly: there is no trial in which one group cut contact, another kept it, and somebody measured whose prediction revised faster, and there is not likely to be one. Everything in this section is an argument from how the pattern works rather than a result, and anyone telling you the research answers the contact question is describing something the research has not said.
 
 One more thing, since it stops a lot of people before they start. Naming a pattern of unpredictability is not a verdict on anyone's intentions. A parent under real pressure, unwell, unsupported, or repeating what they grew up in themselves can produce exactly this environment while loving their child enormously. Describing the mechanism and its effect on a child's nervous system leaves the question of blame entirely open, and you are allowed to look at the first without settling the second.
 

@@ -69,7 +69,7 @@ faqs:
 - q: "Why can I be warm with my family or friends but not with a partner?"
   a: "Because those relationships already cleared the check your partner has not. Old friends and family carry history, low evaluation risk, and usually no possibility of the specific rejection you are guarding against. A partner carries all three at once. Your system is applying different risk scores to different relationships, which is precisely what it was built to do, using evidence gathered long before this partner existed."
 - q: "Why do I feel like there are two versions of me?"
-  a: "Because there are, in the sense that one version has been on duty for years while the other was set aside. The set-aside version usually surfaces under specific conditions: on holiday, with old friends, half asleep, or around someone who wants nothing from you. Those appearances are the useful data. They show the second version is available and waiting on conditions rather than gone for good."
+  a: "Because there are, in the sense that one version has been on duty for years while the other was set aside. The set-aside version usually surfaces under specific conditions: on vacation, with old friends, half asleep, or around someone who wants nothing from you. Those appearances are the useful data. They show the second version is available and waiting on conditions rather than gone for good."
 - q: "Why do I act so differently under stress than how I see myself?"
   a: "Because under pressure almost everyone defaults to their hardened mode, whatever their natural setting happens to be. That is a general fact about people rather than something particular to you. The practical consequence matters more than the explanation. One hard week of going cold, controlling everything and saying nothing true tells you the week was hard, rather than telling you the work has failed."
 - q: "Why do I keep staying with someone I know is not right for me?"
@@ -145,7 +145,7 @@ Two other things get confused with this constantly, and they sit at opposite end
 | Something in me broke and the soft part is gone | A capacity gated by relationship, working normally everywhere it feels safe | Whether warmth still arrives, unbidden, with anyone at all |
 | I feel nothing, about anything, with anybody | [Emotional numbness](/patterns/emotional-numbness/), which is global by definition | Numbness does not spare one relationship while flattening every other |
 | I have nothing left to give anyone | [Emotional exhaustion](/patterns/emotional-exhaustion/), a supply problem rather than a gate | Rest changes one of these considerably and leaves the other exactly where it was |
-| I don't recognize the person I have become | [A self that went out of use](/patterns/i-dont-know-who-i-am-anymore/) across a decade of one role | Whether the missing part reappears on holiday, or with old friends, or half asleep |
+| I don't recognize the person I have become | [A self that went out of use](/patterns/i-dont-know-who-i-am-anymore/) across a decade of one role | Whether the missing part reappears on vacation, or with old friends, or half asleep |
 | I am just a masculine person, that is my nature | A posture that generalized past the domain it was built for | Whether it drops instantly, without effort, in one specific low-stakes relationship |
 
 The selective quality is the whole diagnosis, and it is good news that reads as bad news. A gate can be re-examined. A trait that eroded cannot, which is exactly why so many people prefer the erosion story without noticing they have chosen it.
@@ -328,7 +328,7 @@ Two dynamics will surprise you along the way.
 
 The first is that removing the pressure moves things faster than applying it. Being told plainly that nothing has to change, that you may keep living exactly as you have been, tends to produce more movement than any amount of insisting, because resistance needs an external target to push against. Take the target away and the only remaining reason to act has to be generated internally, which is the only kind that ever holds.
 
-The second is that setbacks arrive on schedule and mean less than they appear to. Under stress almost everybody defaults to their hardened mode, whatever their natural setting. So a bad fortnight where you go cold, control everything and say nothing true is the pattern running, on time, in the conditions it was built for. Don't judge yourself for it. Judge the trend across a season instead.
+The second is that setbacks arrive on schedule and mean less than they appear to. Under stress almost everybody defaults to their hardened mode, whatever their natural setting. So a bad two weeks where you go cold, control everything and say nothing true is the pattern running, on time, in the conditions it was built for. Don't judge yourself for it. Judge the trend across a season instead.
 
 ## How Long Does This Take, Honestly?
 

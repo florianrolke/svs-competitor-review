@@ -364,7 +364,7 @@ In seven arenas, and most people recognize themselves in two or three at first a
 |---|---|---|
 | With a partner | Asking what the plan is three separate times, reading a short reply for tone, needing the weekend settled by Thursday | "I need to know exactly what will happen next." |
 | At work | Rewriting a colleague's work instead of sending it back, keeping a record of every decision, holding onto the part that matters | "If I don't handle this myself, it will all go wrong." |
-| With your own routines | A fixed sleep schedule kept on holidays, arriving twenty minutes early and waiting, a route to work unchanged in six years | "Unplanned situations are too risky." |
+| With your own routines | A fixed sleep schedule kept on vacations, arriving twenty minutes early and waiting, a route to work unchanged in six years | "Unplanned situations are too risky." |
 | With information | Nine tabs open on a decision that barely matters, a comparison spreadsheet for a purchase you will make anyway | "I must anticipate problems before they arise." |
 | With other people's time | A spike of anger at a ten-minute delay, plans confirmed twice, a dislike of surprises including the good ones | "I can't let anything slip out of my control." |
 | With conversations | Rehearsing an ordinary exchange in the shower, drafting a two-line reply four times before sending it | "I always need to prepare for the worst-case scenario." |
@@ -423,7 +423,7 @@ Don't judge yourself if that column reads as slightly out of reach today. The di
 
 ## How Do You Build Certainty That Does Not Depend on Control?
 
-By adding before you subtract, in that order, without exception. The sequencing decides whether this holds, and getting it backwards is the single most common way people fail at this and conclude they are broken.
+By adding before you subtract, in that order, without exception. The sequencing decides whether this holds, and getting it backward is the single most common way people fail at this and conclude they are broken.
 
 1. **Write the rule down in your own words.** Not the behavior, the condition. "I must know the schedule before I can relax." "Nothing can change without warning." "I have to check twice before I trust that it's fine." Most people find three or four, and are surprised by which one turns out to be doing most of the work.
 2. **Shrink the rule rather than deleting it.** "I can tolerate not knowing for two hours on a Saturday" is a rewrite. "I will stop needing to know things" is a wish, and your system will treat it as one. Narrow and survivable beats ambitious and abandoned.

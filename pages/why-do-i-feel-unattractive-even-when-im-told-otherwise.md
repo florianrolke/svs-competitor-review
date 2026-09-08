@@ -327,7 +327,7 @@ That order is the source of most of the frustration. People run the audit, feel 
 
 Nobody enjoys that phase and there is no shortcut through it. What tends to happen instead, somewhere between week three and month four, is that the objection gets quieter without ever being defeated, and one day you notice you got ready without having had the argument at all.
 
-Progress here also refuses to be linear. A bad photograph, a comment from a relative, an illness, or a change of season will reinstall the whole thing for a fortnight. Expect that rather than reading it as failure. The measure worth watching is how many days it takes before the fifteen minutes resume, and that number falls long before the feeling does.
+Progress here also refuses to be linear. A bad photograph, a comment from a relative, an illness, or a change of season will reinstall the whole thing for two weeks. Expect that rather than reading it as failure. The measure worth watching is how many days it takes before the fifteen minutes resume, and that number falls long before the feeling does.
 
 ## What If Nobody Has Told You Otherwise in Years?
 

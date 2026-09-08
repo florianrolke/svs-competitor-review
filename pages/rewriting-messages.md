@@ -128,7 +128,7 @@ From there it follows a small number of moves, in more or less this order. You c
 These are the sentences people actually run during those thirty-five minutes, in the phrasing they use when nobody is listening.
 
 - "That sounds passive aggressive. Does that sound passive aggressive?"
-- "If I put a full stop there it looks like I am annoyed."
+- "If I put a period there it looks like I am annoyed."
 - "This is the fourth time I have typed this exact sentence."
 - "I will just leave it and look at it again in a minute."
 - "Why is this so hard, it is a text message."
@@ -350,7 +350,7 @@ Because it aims at the part that is visible and the visible part is the least in
 
 It is not as easy as saying, well, why do you not just do it. There is usually more to it, it goes deeper, and there is more underneath that. The instruction assumes the only missing ingredient is willingness, when the missing ingredient is different in each of the five roots and is only something like willingness in one of them.
 
-There is a second problem. Sending an unread message does not remove the worry. It relocates it. People who force themselves through this typically spend the twenty minutes they saved thinking about what they sent, which is the same twenty minutes with the quality control removed. It is one thing to change a behavior with force or with discipline, and another thing entirely to make the change stick, and a change that costs you accuracy without buying peace tends not to survive a fortnight.
+There is a second problem. Sending an unread message does not remove the worry. It relocates it. People who force themselves through this typically spend the twenty minutes they saved thinking about what they sent, which is the same twenty minutes with the quality control removed. It is one thing to change a behavior with force or with discipline, and another thing entirely to make the change stick, and a change that costs you accuracy without buying peace tends not to survive two weeks.
 
 And there is a third, which is why the advice stings. Somebody who has just been told they take too long over messages now has evidence that the care they take has been noticed and read as a defect. For at least two of the roots, that is precisely the feared outcome arriving in the room. The predictable next move is more caution rather than less, and now with an additional thing to hide.
 
@@ -392,7 +392,7 @@ It runs at two speeds, and confusing them is what makes people give up in week t
 
 Noticing is fast. The behavior happens several times a week, and once you have the pass-three rule and the restoration signal, you will catch yourself inside a few days. Catching it live is uncomfortable, because you can feel yourself entering pass six and do it anyway. That discomfort is a step rather than a failure.
 
-Changing it is slower and runs on repetition rather than on insight. The first fortnight of sending at pass three feels careless, and it will feel careless whether or not the messages are actually worse. If you have not stretched in a long time and then go stretching, the first attempts are wonky, and being wonky is not evidence that the stretching is wrong. It rarely is the first video anybody posts that does anything, and it is rarely the first week of a new rule that feels natural. It takes time and repetition to build anything of significance, and this is a small enough change that the repetition is available several times a day.
+Changing it is slower and runs on repetition rather than on insight. The first two weeks of sending at pass three feels careless, and it will feel careless whether or not the messages are actually worse. If you have not stretched in a long time and then go stretching, the first attempts are wonky, and being wonky is not evidence that the stretching is wrong. It rarely is the first video anybody posts that does anything, and it is rarely the first week of a new rule that feels natural. It takes time and repetition to build anything of significance, and this is a small enough change that the repetition is available several times a day.
 
 Expect it to come back under pressure. A pattern that was doing a job returns whenever the conditions that made the job necessary return, which here means a new relationship, a new manager, or a stretch where you are unsure where you stand with somebody. That is a return of the conditions rather than a loss of the progress.
 

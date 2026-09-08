@@ -245,7 +245,7 @@ The first need was to get the sentence out. That one had been building for days,
 
 The second need was to be met. Not advised, not fixed, not reassured. Met, in the sense of somebody registering the actual weight and staying in the room with it for a minute. That need got nothing, and it cannot even complain, because you arranged the conditions that starved it. There is nobody to be annoyed with. The person did what you signaled. That is why the feeling has no shape and no name and tends to arrive twenty minutes later while you are doing something else.
 
-There is a harder version of the same thing worth stating directly. You cannot receive comfort you have made socially unavailable. Support arrives in response to a signal, and you cancelled the signal on the way past. People often describe this as feeling like nobody really cares, and the accurate version is closer to nobody was given the opportunity, which is worse to sit with and considerably more workable.
+There is a harder version of the same thing worth stating directly. You cannot receive comfort you have made socially unavailable. Support arrives in response to a signal, and you canceled the signal on the way past. People often describe this as feeling like nobody really cares, and the accurate version is closer to nobody was given the opportunity, which is worse to sit with and considerably more workable.
 
 Then it compounds. Each conversation like that adds to a private file marked no one comes, and the file is real, and it grows, and it eventually starts to feel like knowledge about human beings rather than a record of your own signaling. [Feeling alone in a room full of people who like you has its own mechanism](/patterns/why-do-i-feel-lonely-even-around-people/), and this is one of the more common routes into it.
 
@@ -371,7 +371,7 @@ The cost here is unusual and it takes years to show up. The polished version slo
 
 Because they are the ones who might actually come toward you, which makes them the dangerous audience rather than the safe one.
 
-Most people expect the opposite and are confused by their own behavior. You can tell a taxi driver something you have never told your sister. You were calm and factual with the specialist and turned it into a routine for your best friend that same evening. It looks backwards until you notice what each audience does with the information.
+Most people expect the opposite and are confused by their own behavior. You can tell a taxi driver something you have never told your sister. You were calm and factual with the specialist and turned it into a routine for your best friend that same evening. It looks backward until you notice what each audience does with the information.
 
 A stranger takes the flat sentence, says something decent, and gets out of the car. Nothing follows. Somebody who loves you asks a second question. Then a third. They look at you while you answer. They remember next week and ask again. That sequence is precisely what the laugh exists to prevent, so the closer the person, the harder the reflex works.
 
@@ -517,7 +517,7 @@ Humor is one of the better things you have. It is how you take the charge out of
 
 There is also a sentence that does most of the work on its own, and it can be deployed mid-conversation without any preparation at all. Tell the joke version, get the laugh, and then say: that is the joke version, the real version is that I have not slept properly since March. Two clauses. You keep the humor, the room keeps its ease, and the actual information gets delivered on the back of it. People consistently find this easier than trying to be serious from the start, because it does not ask them to abandon the move they trust.
 
-One more thing worth saying, because people get it backwards. The flat version does not have to be eloquent. It usually should not be. Anything articulate about your own difficulty has been worked on, and anything worked on has been shaped. A clumsy sentence with a long pause in the middle communicates more accurately than a well-made one. Aim for accurate rather than good. [Being seen without the presentation layer has its own page](/patterns/why-am-i-afraid-to-be-vulnerable/).
+One more thing worth saying, because people get it backward. The flat version does not have to be eloquent. It usually should not be. Anything articulate about your own difficulty has been worked on, and anything worked on has been shaped. A clumsy sentence with a long pause in the middle communicates more accurately than a well-made one. Aim for accurate rather than good. [Being seen without the presentation layer has its own page](/patterns/why-am-i-afraid-to-be-vulnerable/).
 
 ## What Do You Do When Somebody Else Laughs While Telling You Something Heavy?
 

@@ -226,7 +226,7 @@ No effective solution is ever just based on behavior itself. Two people say no, 
 | Not wanting to be a burden | A sense of having been considerate toward them | They have enough going on already |
 | No practice at receiving | An exit from a situation you have no moves for | It is easier if I just do it |
 
-Only one of those five involves anything you would recognize as fear. Only one is about the other person. Two of them are, in their own terms, entirely reasonable. This is the reason a resolution to be more open collapses within a fortnight: it treats the behavior as an isolated unit, when the same behavior in two people is connected to two completely different things.
+Only one of those five involves anything you would recognize as fear. Only one is about the other person. Two of them are, in their own terms, entirely reasonable. This is the reason a resolution to be more open collapses within two weeks: it treats the behavior as an isolated unit, when the same behavior in two people is connected to two completely different things.
 
 ## What If Accepting Opens an Account You Would Rather Not Open?
 
@@ -276,7 +276,7 @@ Some people decline because they do not know what to do. Not metaphorically. Phy
 
 An emotional response is very often just a habit, and a missing skill produces exactly the same discomfort as a wound while requiring none of the same work to fix. If nobody in your household ever accepted anything from anybody, you did not learn this the way you learned to shake hands. The absence is real and it is not a diagnosis of anything.
 
-The good news attached to this root is unusual. Skills install fast when they are actually used, and this one has a very small number of components: let the sentence finish, say a plain thank you once, do not supervise, and do not repay within the week. Most people who are only carrying this root find it substantially easier after five or six accepted offers, which is a fortnight of ordinary life.
+The good news attached to this root is unusual. Skills install fast when they are actually used, and this one has a very small number of components: let the sentence finish, say a plain thank you once, do not supervise, and do not repay within the week. Most people who are only carrying this root find it substantially easier after five or six accepted offers, which is two weeks of ordinary life.
 
 ## Does Letting People Help You Really Make Them Like You More?
 
@@ -294,7 +294,7 @@ The evidence points the other way, with real limits worth stating.
 
 Feeney reported in 2007 on what she called the dependency paradox in close relationships. Across her studies, people whose bids for support were met by a partner went on to function more independently afterward rather than less, took on more of their own goals, and were more willing to explore. The direction runs opposite to the intuition that leaning on somebody erodes your capacity to stand.
 
-The limits matter and I will state them rather than let the finding do more than it can. That is relationship research, conducted mostly in couples, over specific periods, in specific tasks. It says nothing about outsourcing your responsibilities, and nothing about a person who genuinely does hand off everything difficult. It is not a licence and should not be read as one.
+The limits matter and I will state them rather than let the finding do more than it can. That is relationship research, conducted mostly in couples, over specific periods, in specific tasks. It says nothing about outsourcing your responsibilities, and nothing about a person who genuinely does hand off everything difficult. It is not a license and should not be read as one.
 
 What it does undermine is the assumption, which almost nobody examines, that accepting weakens you. That assumption drives a very large number of your decisions and it has almost no support. It is worth noticing that the fear is usually about a version of yourself several steps down a slope, and that no step of that slope has ever been observed in your own life, because you have never taken the first one.
 
@@ -432,7 +432,7 @@ Faster than the guilt version suggests, and it runs at five different speeds dep
 
 Noticing takes about three weeks of ordinary life, because that is roughly how long it takes for five or six real offers to arrive. That stage is uncomfortable in a specific way: you can watch the entire mechanism operate, see the hand go back down, and still not be able to stop the sentence. Seeing it counts anyway. Everything after it depends on it.
 
-The practice root moves fastest, sometimes inside a fortnight, because a missing skill installs quickly once it is being used and there is nothing underneath it that needs to change. The habit root moves as soon as the three-second sentence exists and gets used four or five times, which is a matter of weeks rather than months.
+The practice root moves fastest, sometimes inside two weeks, because a missing skill installs quickly once it is being used and there is nothing underneath it that needs to change. The habit root moves as soon as the three-second sentence exists and gets used four or five times, which is a matter of weeks rather than months.
 
 The debt root takes longer, and it moves on instances rather than on effort. Three or four accepted offers, with nothing repaid within the month, and no invoice arriving. That is the dose. Each one produces a small piece of counter-evidence and the belief loosens gradually rather than all at once.
 

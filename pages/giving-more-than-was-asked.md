@@ -236,7 +236,7 @@ One more, different in kind. If the person you are giving to has been steadily e
 
 Reliable in direction and considerably shakier in magnitude, and saying so matters because the most quoted figure in this field is also the most disputed.
 
-The famous claim comes from Waldfogel, who argued in the *American Economic Review* in 1993 that recipients valued the gifts they were given at meaningfully less than the price paid for them, and estimated an annual loss to holiday gift giving running into billions. The phrase deadweight loss entered general conversation from that paper and has been repeated ever since as though it were settled.
+The famous claim comes from Waldfogel, who argued in the *American Economic Review* in 1993 that recipients valued the gifts they were given at meaningfully less than the price paid for them, and estimated an annual loss to vacation gift giving running into billions. The phrase deadweight loss entered general conversation from that paper and has been repeated ever since as though it were settled.
 
 It is not settled. Solnick and Hemenway published a direct challenge in the same journal in 1996, using a comparable survey design, and found that recipients valued gifts at or above what was paid for them once sentimental value was included, and still above cost by a smaller margin when it was excluded. Later comparisons using different methods for eliciting value landed in different places again. The disagreement turns almost entirely on how you ask somebody what a gift is worth to them, which is a genuinely hard measurement problem rather than a technicality.
 
@@ -245,6 +245,22 @@ So the honest position is this. The claim that gift giving is systematically was
 Two further cautions apply to everything cited above. Several of the individual findings come from single laboratories within consumer psychology, a field that has had its share of results that shrank on re-examination, and the effects frequently change size, and occasionally direction, between close relationships and distant ones. Use the research as a map of the mechanism, which is what it is good for, rather than as a set of measurements about your own Thursday.
 
 And there is one thing none of it measures at all, which happens to be the thing this page is about. No study locates the moment when a person notices a small drop after a polite thank you and cannot say what the drop was made of. That part is observation rather than measurement, and it should be labeled as such.
+
+## Is There a Validated Questionnaire That Measures Compulsive Over-Giving?
+
+No. Nothing published measures this behavior as such, and knowing that changes what to do instead of taking a test.
+
+There is no agreed set of items about the size of what you give, no cutoff, and no number that separates plain generosity from generosity with something else attached. Anything offering you one is measuring something near it and lending it this name.
+
+The nearest real measure was built for a different behavior. It comes out of health psychology and covers an extreme focus on other people at your own cost, with items about always putting other people's needs ahead of your own and becoming over-involved in their problems. [The page on volunteering for everything](/patterns/volunteering-for-everything/) carries it in full, including who developed it and what it predicts, and this page hands it over rather than repeating it.
+
+Look at what those items ask about and the gap is obvious. They ask about tasks, attention and other people's problems. None of them asks about size, which is the whole subject here. You can answer every one of them in the moderate direction and still be the person who quietly paid for everybody at dinner and thought about it for the rest of the weekend.
+
+There is a deeper reason a test could not do this job anyway. A well-built measure would tell you how much you do it rather than what it is for, and the five roots this page sets out differ by reason rather than by amount. Two people can give identical answers to every item and still belong in different rows once the five are told apart, which is where the vocabulary above ran out as well.
+
+One word in that question is worth handling directly. It is a fair description of how the pull feels from inside, arriving before any decision about it, and it is not the name of anything you can be tested for. Nothing on this page treats it as one.
+
+What is available instead is smaller and checkable. The sentence that arrives in the first seconds after a polite thank you, written down three times over a few months, tells you more about your own giving than any set of items could, because it is taken at the one moment where the gift and whatever else it was carrying stop being fused. That is an observation rather than a published procedure, and it is worth calling it what it is.
 
 ## Why Do Two People Overshoot in Exactly the Same Way for Different Reasons?
 
@@ -346,6 +362,8 @@ Second, combinations are common, and the most frequent pairing is rent with the 
 
 Third, if none of the five produces a jolt, take that seriously rather than forcing yourself into the nearest row. It is entirely possible that your giving is clean and the flatness you noticed was ordinary human disappointment, which is allowed and does not need a root.
 
+One limit sits under all three notes, and it decides how far this table can be pushed. Nothing in the vocabulary further up assigns a motive to a particular gift, so no published measure can tell you which row is yours, and the sentence you catch in the first seconds after a polite thank you is the only reading available to anybody, including the researchers.
+
 ## Where Does the Overshoot Hide When You Would Not Call It Generosity?
 
 In several places that do not look like gifts, which is how somebody can carry this for fifteen years without ever naming it.
@@ -390,6 +408,26 @@ The third move is the performance of the response, which happens in public and a
 The fourth move happens over the following days and is invisible to you entirely. They think about how to return it. Sometimes they do, at a slightly smaller size, quickly, which is a polite way of closing an account. Sometimes they cannot afford to, in money or in time, and the balance stays open and becomes a small ongoing weight. Weights of that kind make people slightly less available without either party being able to say why.
 
 Work on social exchange makes a related point that is worth carrying: exchanges where benefits flow without negotiation build trust more reliably than exchanges where terms are settled in advance, which is part of why an unnegotiated gift is powerful and also part of why an unnegotiated obligation is hard to discharge. Molm and colleagues developed this comparison across a program of experimental work in the early 2000s. The gift you gave without terms is exactly the kind that creates the most durable pull and offers the least guidance about how to answer it.
+
+## Why Does My Partner Get Distant After I Do Something Really Generous for Them?
+
+Because a gift above a certain size changes the standing between two people, and the coolness that follows is a response to that change rather than to you.
+
+The section above on holding the position of needing nothing carries the sentence that explains it: a benefit larger than what can be returned puts the giver in a position over the receiver, whether or not either of them wanted that. Nothing about the giving has to be controlling for this to happen. The position arrives with the size, and it arrives before anybody has had time to think about it.
+
+Inside a relationship you live in, three things sharpen the effect, and none of them is about how much you are loved.
+
+The first is that there is nowhere for it to go. A friend can even the account at the next occasion and be finished with it. Somebody who shares your life sees the thing every day, and the account stays open for weeks.
+
+The second is that what they can return is often not the same size. If you have more money, or more time, or you are simply better at organizing a surprise, both of you know the return will be smaller, and neither of you can say so without it sounding ungracious.
+
+The third is that a large gift asks a question about the relationship at a moment they did not pick. It has to be answered immediately, and with their face. Warm and slightly formal is the safest answer available, and it is the one that produces your drop.
+
+So the distance is usually about an open account rather than about you, which is worth knowing mainly because the natural response to it is to give again, larger, and that deepens what produced the distance.
+
+What you can change sits entirely on your side. Give at the size the occasion asked for and watch what your own first sentence is afterward. Let them give back, at their size, and take it without upgrading it and without returning something of your own within the week. [Why being given to is hard is written up separately](/patterns/refusing-help/), and for most people who recognize themselves here it is the more difficult half. And say the thing the gift was carrying as a sentence, since a sentence can be answered and an object cannot.
+
+One honest limit. None of this is a reading of the person you live with, and no page can supply one. You cannot see how they have you filed, what their year has been, or what an open account feels like when they are the one carrying it. What you can run is your half, which is the only half that was ever available to you anyway.
 
 ## Why Does the Same Gift Land Warmly With One Person and Awkwardly With Another?
 
@@ -490,6 +528,8 @@ And expect to miss some. You will overshoot spectacularly at some point after un
 One thing, and it is closer to a measurement than to a change.
 
 At the next occasion, give what the occasion asked for. Exactly that, once, without making it a rule you now live by and without any announcement to yourself about restraint. Then pay attention to the ten seconds after they respond, and write down the sentence that arrives in the words it actually used.
+
+One worry stops people at exactly this point, which is that a gift at the size the occasion asked for will be appreciated less than the larger version would have been. A 2009 paper in the *Journal of Experimental Social Psychology*, "Money can't buy love: Asymmetric beliefs about gift price and feelings of appreciation," set what givers expect a more expensive gift to buy in appreciation against what recipients themselves report, and found the two out of line; carry the limit with it, since that is one line of consumer research about beliefs rather than about reasons, and it can tell you that size is a weaker signal than it feels while telling you nothing about what your own giving was for.
 
 Do that three times and read the three sentences together. If they are all some version of they have no idea what that cost me, you have found the rent. If they are all about a request you cannot now make, you have found the pre-payment. If they are all indignation about your taste, you have found the perception gap, which is the most workable of the five. And if there is no sentence at all, only a mild flatness that is gone by dinner, the honest reading is that your giving was clean the whole time and the only thing that needed adjusting was your interpretation of a polite thank you.
 

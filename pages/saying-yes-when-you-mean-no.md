@@ -74,7 +74,7 @@ faqs:
 - q: "How do I help somebody who says yes to everything?"
   a: "Stop asking in real time. Send the request in writing, name a deadline for the answer, and say plainly that no is a normal reply you will not think about twice. Then accept the first refusal without renegotiating it. Repeated evidence that declining costs nothing with you does more than any conversation about their agreeableness."
 - q: "How long does it take to change this?"
-  a: "Noticing arrives inside a fortnight and the reflex takes months. Most people can replay a conversation the same evening and locate the exact moment within two weeks, and catching it that late still counts. Catching it in time comes unevenly, present on a Tuesday and gone on a Thursday, and it fades through accumulated repetitions rather than through understanding."
+  a: "Noticing arrives inside two weeks and the reflex takes months. Most people can replay a conversation the same evening and locate the exact moment within two weeks, and catching it that late still counts. Catching it in time comes unevenly, present on a Tuesday and gone on a Thursday, and it fades through accumulated repetitions rather than through understanding."
 - q: "When does this belong with a professional rather than a page like this?"
   a: "When the person you cannot refuse has ever frightened you physically, which makes it a safety question first. When the yes involves your body, your money, or anything you cannot undo. When agreeing sits alongside months of broken sleep or a flatness that has not lifted. Any thought of harming yourself belongs with a licensed professional now rather than later."
 related:
@@ -123,7 +123,7 @@ The sentences below are what people actually run in their own heads about this, 
 - "There was a no in my mouth and something else came out instead."
 - "I agreed to a Saturday I had already promised to myself."
 - "I heard myself say yes and I was already angry about it."
-- "I said yes so fast that I had to ask afterwards what I had agreed to."
+- "I said yes so fast that I had to ask afterward what I had agreed to."
 - "I have never once said what I actually wanted the first time somebody asked."
 - "I spend the whole week dreading a thing I agreed to in two seconds."
 
@@ -340,7 +340,7 @@ The retraction window is real and it is short. Inside about an hour, taking back
 5. **Offer an alternative only if you want to give it.** A replacement offered out of guilt is the same compliant yes wearing a different shape, and you will resent it identically.
 6. **Expect thirty bad seconds.** They are worse than anything that follows and they are shorter than the task would have been. That is the entire exchange rate on offer here.
 
-For the older ones, the calculation changes and it still favors going back. A commitment three weeks out, retracted today, costs the other person some inconvenience and gives them time to solve it. The same commitment honored resentfully costs them a worse version of your help and costs you the fortnight of dread beforehand. Most people would take the honest Tuesday withdrawal over the reluctant Saturday attendance, and they will tell you so if you ask them afterward.
+For the older ones, the calculation changes and it still favors going back. A commitment three weeks out, retracted today, costs the other person some inconvenience and gives them time to solve it. The same commitment honored resentfully costs them a worse version of your help and costs you the two weeks of dread beforehand. Most people would take the honest Tuesday withdrawal over the reluctant Saturday attendance, and they will tell you so if you ask them afterward.
 
 There is one case where you keep it. When somebody has genuinely built around your yes and the cost of retracting now lands on them rather than on you, you do the thing, you do it properly, and you log it. Then you use it, because a commitment you consciously chose to honor is a completely different experience from one you were dragged into, and it is worth noticing that the difference lives in the choosing rather than in the doing.
 
@@ -354,7 +354,7 @@ The bulges are consistent and they take about six weeks to appear. Messages stop
 
 There is a second failure that looks like success for longer. Changing a behavior with force or with discipline works, and that is not necessarily what makes it stick. You have to have a way to sustain it, and for that there also needs to be an element of environment that changes. Six weeks of clean refusals is a real achievement and a fragile one, because the reflex is exactly where you left it the moment the right person asks.
 
-Environment is unusually concrete for this pattern, and it is not abstract at all. Your calendar is the written record of your previous yeses. The people in your week were selected by your answers. A workplace where the person who absorbs everything is visibly the person who gets kept. A family with one member whose disappointment sets the temperature for everybody. A friendship group where you have been the organizer for nine years and where stepping back would be noticed inside a fortnight. Your environment affects you and impacts you more than you think, and it has already put you into the position you are in.
+Environment is unusually concrete for this pattern, and it is not abstract at all. Your calendar is the written record of your previous yeses. The people in your week were selected by your answers. A workplace where the person who absorbs everything is visibly the person who gets kept. A family with one member whose disappointment sets the temperature for everybody. A friendship group where you have been the organizer for nine years and where stepping back would be noticed inside two weeks. Your environment affects you and impacts you more than you think, and it has already put you into the position you are in.
 
 This is not to come from a victim type of frame, as though the environment were doing this to you. You have put yourself in the environment, and the environment is reinforcing it. That distinction matters practically rather than morally: an environment you built is an environment you can rebuild, and it responds considerably faster than resolve does. [Changing a habit at the level of its conditions rather than its symptoms is worth reading separately](/patterns/how-to-break-a-habit/). [And a change that holds everywhere except around your usual people has a specific mechanism](/patterns/why-does-my-change-collapse-around-my-usual-people/).
 
@@ -371,7 +371,7 @@ Every pattern like this has two ends, and describing only the costly one leaves 
 | An invitation you do not want | "Sounds great" | "I am going to pass on this one" | No dread, no late cancellation, no apology |
 | Somebody asks a favor mid-sentence | Agreeing before they finish | "How long is this, realistically?" | You agreed to a known quantity or not at all |
 | A request you might want | "Whatever works for you" | "Let me come back to you tonight" | The answer that arrives is the one you actually hold |
-| A yes you gave this morning | Carried for three weeks | "I said yes too fast. I cannot do it." | Thirty awkward seconds instead of a fortnight |
+| A yes you gave this morning | Carried for three weeks | "I said yes too fast. I cannot do it." | Thirty awkward seconds instead of two weeks |
 | A parent asks for something | Automatic agreement, resentment on the drive home | A plain answer, in the same voice you use at work | The call ends and does not follow you into the evening |
 | Being asked what you want | "I do not mind" | "I would rather the other one" | Somebody finally has real information about you |
 | An ask you decide to accept | Resented from the moment it is agreed | Agreed on purpose, with the price named | You do it well, and it costs what it costs |
@@ -404,7 +404,7 @@ The second is treating understanding as the finish line. Self-knowledge is usefu
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of deliberate attention, most people can replay a conversation the same evening and locate the exact second the word went out and what came immediately before it. That stage is frustrating, because you are watching a film of something you cannot yet interrupt, and it is a real step regardless.
+Noticing arrives fast. Within two weeks of deliberate attention, most people can replay a conversation the same evening and locate the exact second the word went out and what came immediately before it. That stage is frustrating, because you are watching a film of something you cannot yet interrupt, and it is a real step regardless.
 
 The reflex takes months, because it fades at the pace of accumulated evidence rather than insight. Every plain refusal that turns out to cost nothing is one data point against a rule that had decades to install itself. Twenty of those, most of them unremarkable, change a great deal. Reading this page thoroughly changes remarkably little on its own.
 

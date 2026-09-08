@@ -153,6 +153,8 @@ The first is that it names a *what* and says nothing about a *why*. Two people c
 
 The second is that the word has a second life. Alongside the everyday use, there is an older and narrower technical use in writing about defenses, where it names something more automatic and considerably more specific than a person deciding not to mention their choir at dinner. Those two senses share a word and very little else. Almost all of the alarm attached to this term in popular writing comes from the second sense being quietly borrowed to describe the first.
 
+So does the word always mean you are hiding something? No, and the measured version of it makes that unusually clear: Showers published a 1992 paper in the Journal of Personality and Social Psychology using compartmentalization to mean how a person sorts good and bad beliefs about themselves into separate or blended parts, which is an arrangement inside one head with no audience and no withheld fact anywhere in it. That work is discussed further down this page, along with the honest limits on it, and the point worth taking here is narrower: the word has three live senses, an everyday arrangement of domains, an older technical one about defenses, and a measured structure of self-beliefs, and only the first of the three has anything at all to do with what you have or have not told people.
+
 So the plain statement, before anything else: the everyday version is a normal and frequently skilled way of running a complicated life. A great many capable, honest, well-attached people run separated lives on purpose and are right to.
 
 | The claim you will meet | What is actually the case |
@@ -189,6 +191,8 @@ For a large number of readers, no, and saying so late in the page would be a way
 Here is the honest position. There is no research establishing that keeping the areas of your life apart harms you. There is no instrument that measures how walled a life is. There is no number of separations above which a person becomes a case. The confident claim that compartmentalizing is unhealthy, which you will find on almost every page ranking above this one, has essentially nothing behind it. It is an inference from a borrowed clinical word, repeated until it acquired the tone of a finding.
 
 What is true is narrower and considerably more useful. Some walls cost you things. Different walls cost different things. And the cost of a particular wall has almost nothing to do with how many walls you have, which is why counting them tells you so little.
+
+The one line of research that comes closest to a direct answer says the same thing in measured form. Rothbard, Phillips and Dumas reported in Organization Science in 2005 that when workplaces offered arrangements which blended work and home, the people who preferred keeping the two apart came out lower on commitment and satisfaction while the people who preferred blending came out higher, so the arrangement predicted very little on its own and the fit between the arrangement and the person predicted a great deal. The limit belongs in the same breath: that was one wall, employment against home, measured inside organizations rather than across a whole life, so it establishes that fit beats position and it says nothing about what your other four or five walls are doing.
 
 So the question you probably arrived with, which is some version of *am I hiding*, is close to unanswerable and does not lead anywhere even when answered. The question that does lead somewhere is asked one wall at a time: what does this specific separation buy me, and what does it cost me? Those answers differ enormously from wall to wall inside the same life. One of your walls is almost certainly free. One of them is almost certainly expensive. Treating them as a single trait is what has kept you from being able to tell which is which.
 
@@ -238,7 +242,21 @@ Three further pieces of honesty about the evidence on this whole subject.
 
 None of this makes the vocabulary useless. It makes it descriptive rather than diagnostic, which is a different and more honest thing for it to be.
 
-## Why Is a Wall Cheaper to Keep Than to Remove?
+## Is There a Validated Scale That Measures How Compartmentalized a Person's Social Life Is?
+
+No, and it is worth knowing that before you go looking for one, because several things that come up in a search look like one and are measuring something else.
+
+The instruments that exist in psychology measure adjacent objects. The 1992 sorting task measures how a person distributes good and bad beliefs about themselves across the parts of a self-description, which happens inside one head. The self-complexity index counts self-aspects and how much they overlap, and the 2002 review above showed those two components behave differently once they are pulled apart. The segmentation and integration measures from work and family research ask about a single boundary, the one between employment and home, and they ask about preference rather than about how much of a life is actually partitioned. None of the three counts the thing you arrived with, which is how many of your groups have never met each other.
+
+The closest anybody has come to measuring that sits outside psychology altogether, in sociology, where the structure has both a name and a number attached to it. Burt set out the network items used in the General Social Survey in a 1984 paper in Social Networks: a person is asked to name the people they discuss important matters with, and then asked, for each pair of those people, whether those two know each other. The proportion of pairs who know each other is the density of that person's network. Somebody whose named people nearly all know each other has a dense network. Somebody whose named people are strangers to one another has a sparse one, and the sparse pattern is the shape a seating plan makes visible in ten minutes.
+
+Three honest limits on borrowing that. The generator asks about important matters, so it maps a small core rather than the whole of a life, and your Wednesday thing is unlikely to appear in it at all. The wording moves the answers around a great deal: a 2006 paper in the American Sociological Review titled *Social Isolation in America* reported that the share of people naming nobody had risen sharply across two decades, and a 2009 paper in the same journal argued that a substantial part of that change came from the survey instrument rather than from anything happening in people's lives. And density describes a structure. It carries no threshold, no healthy value and no verdict, which is exactly why it is more useful than a scale claiming to have one.
+
+What you can take from it is a way of counting that costs nothing. Write down the people you would actually call about something that mattered. Then draw a line between every pair of them who already know each other. The number of lines you drew, against the number you could have drawn, is your own version of the same measurement. All it tells you is the shape of your network. What that shape costs you, if it costs you anything, is the subject of the sections below it, and no number decides that part.
+
+## Why Am I Exhausted When My Partner Meets My Colleagues or Two Friend Groups Overlap?
+
+That tiredness is a bill, and the question sitting underneath it is why a wall turns out to be so much cheaper to keep than to remove.
 
 Because the two operations are priced completely differently, and the price difference is real rather than a story you are telling yourself.
 
@@ -280,6 +298,10 @@ Then the last question, which is the one that sorts the list. **Can you date it?
 Most of your walls have no origin. They assembled themselves out of two hundred small omissions and nobody made a decision. Those are architecture. They are not concealment, they cannot be blamed on anything, and there is very little to do with them except know they are there.
 
 Usually one wall is different. You can name roughly when it went up, and roughly what it went up for. That one is a decision that is still running. It is the only part of the structure that is currently a choice, and it is the only part worth testing.
+
+There is a measured reason the dating question sorts the list better than the other three do. Thoits reported in the American Sociological Review in 1983 that people holding more distinct role identities reported less psychological distress, and her later work qualified that in the way that matters here, by finding the benefit concentrated in the identities somebody had taken on voluntarily rather than the ones that arrived with their position. Carrying that across to walls is an analogy rather than a finding about walls, and it says something usable anyway: a separation you chose behaves differently from a separation that came with the life, which is the exact split the dating question produces on your own sheet of paper.
+
+On the closeness half of it, what separates an ordinary wall from an expensive one is whether the wall removes somebody's chance to respond to something that actually mattered to you. A wall around a Wednesday evening removes nothing, because nobody was going to respond to a Wednesday evening. A wall around the thing you have been carrying since March removes the only response that would have helped, and the page on [keeping everyone at the same comfortable distance](/patterns/keeping-people-at-a-distance/) carries the research on that side of it properly.
 
 If the answer is that none of them can be dated, that is a real answer and it is the commonest one. It means the arrangement is a consequence of a complicated life rather than a strategy, and this page has probably given you a vocabulary and nothing to do with it, which is a fine outcome.
 
@@ -454,6 +476,10 @@ Whether that is a loss or exactly how you want it is a real question with no gen
 Considerably less than the prediction, almost every time, and the value of finding that out is information rather than comfort.
 
 The usual outcome of a deliberate small merge is an hour that is stiff, during which you are aware of it continuously and everybody else is mildly aware that something is being negotiated, followed by an evening in which people find two or three things in common and stop needing you to run it. Somebody occasionally makes a joke about the fact that these two have never met. The joke is not an accusation and is generally forgotten by the end of the night.
+
+There is one measured result worth putting next to the prediction. A 2018 paper in Psychological Science titled *The Liking Gap in Conversations: Do People Like Us More Than We Think?* had people rate, after talking with somebody new, both how much they liked the other person and how much they believed the other person liked them, and the second number came in consistently below the first. It held as strangers got acquainted in a laboratory, as first-year students got to know the people they were living with, and among members of the public meeting each other at a workshop, and in the student group it was still there months later.
+
+The limits point the same direction anyway. Those were one-to-one conversations, largely between people who had just met, and nobody has run the study on an evening where two of your groups are in the same room, so carrying it across to a merge is an analogy. What it does establish is that the estimate people form of how an unfamiliar social encounter went is biased in one specific direction, and that is the same direction your prediction about the merge has been running in for fifteen years. I am naming that study by its title rather than by its authors because the same finding is already attributed on the page about [changing the subject](/patterns/changing-the-subject/), and attributing it twice here would present one study as two.
 
 The parts worth paying attention to are specific.
 

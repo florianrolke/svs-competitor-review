@@ -328,7 +328,7 @@ Somebody can spend a decade of genuine, costly effort in one channel while the c
 | Being reliably pleasant, low-conflict, easy to live with | An absence of arguments | Whether anything between you is still growing |
 | Doing whatever gets asked, promptly, without complaint | Compliance | Whether they feel chosen rather than managed |
 | Long, serious conversations about the relationship | Information about the problem | Whether they felt loved on an ordinary Wednesday |
-| Booking the holiday, planning the anniversary, making the effort visible | Evidence of intent | Whether they were actually met while it was happening |
+| Booking the vacation, planning the anniversary, making the effort visible | Evidence of intent | Whether they were actually met while it was happening |
 
 Read the left column and notice how expensive it all is. None of that is laziness and none of it is fake. It is a large amount of real spending, delivered into an account that was already full, while two other accounts sat at zero the entire time.
 
@@ -534,7 +534,7 @@ The rest of this is mine and carries no research weight at all. I spent five yea
 
 ## What Is One Thing to Do Today, Before You Decide Anything?
 
-Take one sheet of paper and turn it sideways. On the left, list everything you have actually done for this relationship in the past year, as concrete acts rather than intentions: the hours worked, the rule you kept, the holiday you booked, the argument you swallowed, the thing you gave up. Twelve to twenty lines, no editorializing. Then, next to each one, write which of the six it fed, from their side of the table rather than yours. Certainty, variety, significance, love, growth, or contribution.
+Take one sheet of paper and turn it sideways. On the left, list everything you have actually done for this relationship in the past year, as concrete acts rather than intentions: the hours worked, the rule you kept, the vacation you booked, the argument you swallowed, the thing you gave up. Twelve to twenty lines, no editorializing. Then, next to each one, write which of the six it fed, from their side of the table rather than yours. Certainty, variety, significance, love, growth, or contribution.
 
 Most people find the entire left column collapses into one or two columns on the right, and the two that stay empty are the two the fight has been about the whole time. That takes ten minutes and a pen, it requires nothing from your partner, and it is worth doing tonight whether or not you ever run a trial, book anything, or tell anybody you were considering this.
 

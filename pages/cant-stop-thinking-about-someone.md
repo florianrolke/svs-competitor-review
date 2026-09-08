@@ -117,7 +117,9 @@ You know this is disproportionate. You have known it for weeks. You could descri
 
 That gap between knowing and being able to use the knowledge is the actual subject of this page.
 
-## What Is the Name for This, and What Is the Name Actually Worth?
+## Where Did the Word Limerence Come From?
+
+It came from one researcher, in the mid 1970s, and the answer runs straight into the second question worth asking about it: what is the name actually worth?
 
 The word is **limerence**, and it is worth having, with the story of where it came from attached, because the story changes how much weight the word can carry.
 
@@ -175,6 +177,8 @@ That does not mean nothing here ever costs anything. One of the five roots below
 
 Thin, older than it looks, and stated everywhere with a confidence that nothing supports. This is the section where honesty costs something, so it is worth being specific about what is missing.
 
+The whole of it rests on one body of work: Tennov's *Love and Limerence: The Experience of Being in Love*, published in 1979 and built from interviews and questionnaires with several hundred people who volunteered accounts of being in love. That is genuine descriptive research and it is also the ceiling, because volunteers who select themselves into a study about love are not a random sample, nothing was compared against a control group, and no substantial follow-up has ever been run under that name.
+
 **There is no accepted measurement instrument.** This matters more than it sounds. A term that cannot be measured cannot be studied comparatively, cannot be tracked over time, and cannot be tested against anything. A handful of measures have been proposed since the 1980s. None was validated at scale, none was adopted by other researchers, and you will not find limerence scores reported across a body of published work, because that body of work does not exist.
 
 **There is essentially no experimental literature.** The original material was interviews and questionnaires. Nobody has manipulated anything, compared groups under controlled conditions, or followed a sample through time in any substantial way under this name. What exists is description, plus a large amount of writing that describes the description.
@@ -186,6 +190,20 @@ Thin, older than it looks, and stated everywhere with a confidence that nothing 
 **And the brain imaging is being asked to carry far more than it can.** Popular writing about this regularly reaches for scans of people newly in love as though they settled the question. The best known of those studies ran on groups in the teens and low twenties. That is a very small sample for imaging work, the results tell you which regions were more active rather than why anything happens, and the reflex of describing a state as *lighting up the reward system* explains nothing while sounding as though it explains everything.
 
 None of this means the experience is imaginary. It means the word is a good description with very little machinery behind it, and that anyone telling you what stage you are in or how long you have left is making it up.
+
+## Is There a Reliable Test or Questionnaire for Limerence?
+
+No. Nothing validated exists, and the quizzes filling the first page of results are scoring a description rather than measuring anything.
+
+The gap is worth seeing plainly. Several questionnaires have been proposed since the 1980s, usually as an appendix to a book or as a conference presentation rather than as a paper. To count as a working instrument, a set of questions has to hold together statistically across a large sample, return the same answer from the same person twice, separate the thing it claims to capture from neighboring things, and then be picked up and used by researchers who did not write it. No limerence questionnaire has cleared that sequence. You will not find limerence scores compared across studies, because there are no studies to compare them across.
+
+It helps to see what a measure that did clear it looks like. The Passionate Love Scale, published in 1986 in the Journal of Adolescence, asks about the intensity of longing, preoccupation and physical response toward one particular person. It was developed on student samples, checked for internal consistency, and then used, translated and re-examined by other research groups for nearly forty years. That is the ordinary working life of an instrument that holds up.
+
+Now notice what it still cannot do for you. It measures passionate love, which overlaps with what this page describes without being the same thing. It reports intensity at one moment, which says nothing about where the intensity came from. A high score is completely ordinary in early attraction, and it carries no verdict about you. And it cannot separate the five versions set out below, because every one of them can produce a high score for entirely different reasons.
+
+So the honest answer is that no questionnaire can sort you, and that the sorting is done by a handful of specific questions you answer for yourself. The table further down this page carries them. Whether the imagined month where they say a clear yes is exciting or flat. Whether the fantasy is mostly scenes or mostly them. What arrives in an afternoon where the thinking does not. Those questions do the work an instrument would do, and they do it better here, because what separates the versions is what the preoccupation is doing rather than how strong it feels.
+
+And if a quiz has told you that you are in stage two of three, or that this occupies some percentage of your waking thought, you were handed a number with nothing behind it. Reading that number as a verdict on yourself is the one genuinely expensive move available at this point.
 
 ## If the Label Is Thin, What Is Better Evidenced?
 
@@ -212,6 +230,8 @@ Ambiguity supplies no closing information, so the loop stays open indefinitely, 
 There is an experiment on this that is worth knowing about and worth being careful with. In 2011, researchers showed young women profiles of men and told them the men had already rated them. One group was told the men had liked them most. One group was told the men had rated them average. A third group was told the ratings could be either. The women in the uncertain condition thought about the men more than either of the other groups, and reported being more attracted to them.
 
 I am naming that finding without naming the researchers, deliberately. All three authors are already cited elsewhere on this site for entirely unrelated work, and stacking a fourth finding onto the same three names would make a thin evidence base look like a broad one. The study is easy to find under its own terms, and the finding itself is well known.
+
+The paper itself is easy to name, and the title is more use to you than three surnames would be. It ran in Psychological Science in 2011 under the title "He Loves Me, He Loves Me Not...: Uncertainty Can Increase Romantic Attraction," which gives you the finding before you open it.
 
 One more thing about it matters a great deal. That experiment was small. The sample was around fifty female undergraduates in a single laboratory, the manipulation was artificial, and it has not been through the kind of large preregistered replication that the last decade has taught us to want before treating a surprising social result as established. Treat it as a good illustration of a mechanism you can check against your own experience, rather than as a proven law.
 
@@ -257,6 +277,8 @@ This distinction is the entire workable surface, and almost everything written a
 - Choosing the seat that faces the door.
 
 None of these is dramatic. Each takes seconds. And each one deposits fresh material into the system, which the thinking then processes for the next several hours. The green dot carries no information about how they feel. What it is, reliably, is a data point that will be examined for two hours as though it did.
+
+The involuntary half of this has a named body of work behind it, and the limit on that work is worth having alongside it. The white bear experiments, first reported in 1987, instructed people not to think about a white bear and found that they thought about it more, both while they were trying and for a stretch afterward; the first half of that result has held up well and gets worse under mental load, while the rebound afterward has come out small and inconsistent in later reviews. So the honest claim is narrower than the popular one, and the fuller account, including the researcher who set the theory out, sits on the page about [why working on yourself can make things worse](/patterns/why-does-working-on-myself-make-it-worse/).
 
 This is why the honest version of any advice here is narrow. The thinking cannot be addressed directly and should not be attacked. The acts can be looked at, counted, and changed one at a time, and changing even two of them measurably reduces the amount of material available to rebuild with.
 
@@ -328,7 +350,7 @@ Look at the timing rather than at the person. If the thinking started within a f
 
 Preoccupation of this intensity is genuinely absorbing. While it is running, it occupies the space that the unbearable thing would otherwise occupy. It supplies anticipation to weeks that had none. It gives an otherwise flat Tuesday a shape, because they might be in. That is a real service, delivered reliably, at a moment when very little else was working.
 
-Which is exactly why removing it without putting anything in its place is a poor plan, and why people who force themselves to stop usually find that something worse arrives within a fortnight. The preoccupation was the cover rather than the problem, and taking away a cover leaves you holding whatever was underneath, unchanged and now uncovered.
+Which is exactly why removing it without putting anything in its place is a poor plan, and why people who force themselves to stop usually find that something worse arrives within two weeks. The preoccupation was the cover rather than the problem, and taking away a cover leaves you holding whatever was underneath, unchanged and now uncovered.
 
 The tell for this root is what happens in the gaps. If you succeed in not thinking about them for a whole afternoon, and what arrives in the space is not relief but something heavier, then you have your answer. People in this root often report that the fixation feels less like a problem and more like the only good thing currently happening, and that description is accurate rather than dramatic.
 
@@ -366,7 +388,7 @@ Two notes on using this. People frequently sit in two rows at once, most commonl
 
 Because all three are aimed at the delivery, and none of them touches what the delivery was carrying.
 
-**Removing contact removes information.** This is the part nobody mentions. Thin information is what the preoccupation runs on, and cutting contact makes the information thinner. People routinely report that the first fortnight after going quiet is the most intensely occupied period of the whole episode, and then draw the conclusion that they have failed at it, when in fact the mechanism performed exactly as it should.
+**Removing contact removes information.** This is the part nobody mentions. Thin information is what the preoccupation runs on, and cutting contact makes the information thinner. People routinely report that the first two weeks after going quiet is the most intensely occupied period of the whole episode, and then draw the conclusion that they have failed at it, when in fact the mechanism performed exactly as it should.
 
 **Blocking works on access, and access was never the engine.** The thinking arrives with no access at all. It arrives while you are asleep, in a building they have never been in, months after the last exchange. Removing the ability to check does remove one of the chosen acts, which is worth something, and it does nothing about the thinking.
 

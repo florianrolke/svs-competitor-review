@@ -112,6 +112,8 @@ Break the second and a half down, because it is doing more work than any other s
 
 The forecast is the expensive part and it is not neutral. Agreement forecasts one outcome, which is nothing. Disagreement forecasts an unknown length of conversation, with a tone you cannot predict, in front of people, about a position you have not yet checked. One of those two branches has a known cost of zero. The other has an unknown cost and requires you to have already done work you have not done.
 
+The claim that a statement you have understood is believed first, and un-believed only afterward as a separate step that a busy moment can stop you completing, comes from a 1993 paper in the Journal of Personality and Social Psychology titled "You can't not believe everything you read", and if it holds, agreement gets a head start on judgment every time attention is loaded, which in a live conversation is always. It is contested rather than settled: a 2005 paper in Psychological Science reported two experiments casting doubt on the idea that belief cannot be suspended, and found that interrupting somebody while they took in whether a statement was true cost them their memory of its falsity only where the false version carried no information of its own.
+
 So the nod goes out. And here is the mechanism that keeps it going out for thirty years: it works immediately. The small tension in the room drops. The other person is pleased. The conversation moves. You are not exposed. Every one of those arrives inside a second, and every one of them is a reward, and a behavior rewarded within a second of being performed becomes automatic in a way that no amount of later regret can touch.
 
 The regret, meanwhile, arrives hours later, unattached to anything. By the time you feel it, the person is gone, the moment is closed, and there is nothing to connect the flat feeling in the car to the noise you made at the table. Two events that far apart never get linked, which is why people run this pattern for decades and describe it, accurately, as just how they are.
@@ -181,7 +183,9 @@ The two behaviors sound identical and cost you different things. Agreeing to a t
 
 There is one more asymmetry worth stating. A task agreement can be withdrawn with an apology and a rescheduling. An opinion agreement is harder to take back, because there is nothing concrete to cancel, and raising it later means reopening a conversation everybody else considers finished. That difficulty is the reason most people never do it, and it is also why the small retraction described further down is worth so much more than it costs.
 
-## Why Do You End Up Arguing Their Case Better Than They Did?
+## Can Saying Someone Else's View Out Loud Actually Change What You Remember or Believe?
+
+Yes, and the sign of it you will recognize fastest is an exchange you finish by arguing somebody else's case better than they did.
 
 Because saying something out loud does not just report a position. It edits one.
 
@@ -315,6 +319,8 @@ You can settle this in about twenty minutes, using nothing but observations you 
 
 This is the most useful section on the page and it asks for no introspection. Every question below is answered by recall or by looking at your own messages. Work through them honestly and the pattern usually resolves.
 
+The questions ask for a record rather than a reason, and that is deliberate: the accounts people give of their own motives are assembled afterward and sound convincing whether or not they are right, which is a general regularity rather than one study's finding. An observation you can point at is worth more here than an explanation that feels obvious while you are giving it.
+
 **1. Try to predict your side before you know the topic.** Think of three people you see regularly. For each one, ask whether you can say now, without knowing what they will raise, whether you will end up agreeing. If you can, the agreement is about the person, which points at safety or at rank. If it genuinely depends on the subject, look at the other roots.
 
 **2. Time your position.** Over the next week, note the clock when the real view arrives. In the room means the position was available and something blocked it. Forty minutes later, consistently, points at the timing root. Two days later, or never, points at the open-mindedness root.
@@ -332,6 +338,22 @@ This is the most useful section on the page and it asks for no introspection. Ev
 **8. Ask somebody who has known you fifteen years to state your opinion on something.** Pick a subject you actually care about. See whether they can do it. Their answer tells you how much of your position has ever been visible, and their hesitation is data you cannot get any other way.
 
 Two or three of those will point the same direction. That convergence is your answer, and it is built entirely out of evidence you owned before you opened this page.
+
+## Why Do You Agree With Your Boss but Disagree Freely With Friends?
+
+Because the nod answers to the room rather than to the subject, and the two rooms make different predictions about what a difference will cost.
+
+Start with what the split rules out. Somebody with no opinions would be agreeable everywhere, and you are not agreeable everywhere. You argue with your brother about films. You correct a friend on a wrong date without a second thought. Then somebody who signs off your work says something you know to be wrong, and you hear yourself say that makes sense. Same person, same seven days, opposite behavior. A response that changes with the room has its cause in the room, and treating it as a fact about your character puts the cause in the wrong place.
+
+Three things usually differ between the two rooms, and they have different fixes.
+
+**What it costs to hold the difference.** A friendship has a long record behind it of differences that were survived, and both of you know the record is there. A working relationship with somebody who decides your projects has no such record yet, so the same sentence has to be carried with nothing standing behind it.
+
+**Whether anybody is watching.** People who agree with a senior person often do it specifically in front of others, then say the same thing one-to-one afterward without any trouble at all. If your disagreement survives in private and dies in a meeting, the variable is who else was there rather than who you were talking to.
+
+**When the prediction was formed.** What you expect to happen if you contradict somebody above you was mostly settled long before this job existed, and it is being applied to a place that has never once produced the consequence you are predicting. That is the root described further up under reading the room, and it comes with the cleanest experiment on this page: one mild, well-timed difference with somebody senior, and then watching what the response actually is.
+
+One version of this is no pattern at all, and it deserves saying before you go looking for a root. Some rooms do punish disagreement. Some managers are exactly as unsafe as they look, and reading a genuinely risky room accurately is competence rather than avoidance. The question worth asking is whether the same quiet has spread into rooms where nothing whatever would follow, and whether you can still state your own position afterward, in private, to yourself. Selectivity that tracks real risk is a skill. Selectivity that stopped being checked years ago is the pattern, and a week of evidence separates the two.
 
 ## When Is Agreeing the Right Move?
 
@@ -412,7 +434,7 @@ That is a reason rather than an instruction. Nothing here says you should be the
 
 ## Is "I Just Did Not Think It Was Worth the Argument" an Explanation or an Excuse?
 
-Both versions use identical words, and the difference only becomes visible over the following fortnight.
+Both versions use identical words, and the difference only becomes visible over the following two weeks.
 
 This distinction matters more than almost anything else here. We want to make the distinction between giving something an explanation and turning it into a story, so we have an excuse. The same sentence, containing the same true facts, can do either job.
 
@@ -447,7 +469,7 @@ The sequencing matters, and getting it wrong is what cost you the previous attem
 2. **Week two: private positions.** Twenty minutes with paper. Four things you actually hold, written where nobody will see them. This is the floor, and the rest of it stands on this.
 3. **Week three: trivial disagreements with safe people.** A film, a route, a restaurant. Three of them, deliberately unimportant, with people who are not going to leave.
 4. **Week four: one that matters slightly.** A mild sentence, in a real conversation, delivered warmly and without a case attached. Then stop and watch what happens, which will almost always be nothing.
-5. **Never remove a supply.** If the private positions stop getting written, the nodding returns inside a fortnight, and the correct reading is that a support lapsed rather than that you failed.
+5. **Never remove a supply.** If the private positions stop getting written, the nodding returns inside two weeks, and the correct reading is that a support lapsed rather than that you failed.
 
 And expect the middle of it to feel wrong. You cut out the thing that feels good in the moment and is not good for you long term, you go through the withdrawal at the beginning, and then you find it is not that hard once you commit. It feels like there is something missing in the meantime, and that is always the case. You realize very quickly that it is not, and that you can live without it more easily than you expected. For this behavior the window is roughly two weeks, and it is worst around the fourth or fifth deliberate disagreement, which is exactly when people conclude the plan was wrong.
 
@@ -462,10 +484,12 @@ Most attempts fail at the first sentence because disagreement has become bundled
 Unbundle it. The rule is that you are allowed to state a position and stop. No case, no evidence, no follow-through, no conversion. Here is a ladder, from cheapest to most expensive, and the cheap end is where the work is.
 
 1. **The delay.** Something in this is not sitting right with me and I cannot say what yet. Accurate, buys a day, and concedes nothing.
-2. **The bare difference.** I think I land somewhere different on that. Full stop. No reason attached, because a reason invites a debate and you did not agree to a debate.
+2. **The bare difference.** I think I land somewhere different on that. Period. No reason attached, because a reason invites a debate and you did not agree to a debate.
 3. **The invitation.** Say more about that, because I am not sure I see it the same way. This puts the difference on the table while keeping the other person talking, which most people find much easier than a flat statement.
 4. **The one-line position.** I actually think the opposite, and I would not want to argue it well tonight. This one is worth practicing, because the second clause is what makes the first one sayable.
 5. **The next-day retraction.** I said yeah in the kitchen yesterday and I have been thinking about it, and I actually do not agree. This is the single highest-value sentence on the page. It costs almost nothing, it is nearly always received well, and it repairs an agreement you thought was permanent.
+
+That ladder is built on the shape a difference already has in ordinary talk. Work in conversation analysis describes agreement as arriving fast and unadorned, while a disagreement arrives with delay, softening, and something that partly grants the point before the difference lands, which is why the cheap rungs sound ordinary and a flat contradiction sounds like an event. That is a described regularity rather than one person's result, and it maps the shape of what gets said rather than measuring what anybody believed while saying it, and [people decline an invitation the same way](/patterns/saying-im-busy/).
 
 Two rules make the whole ladder work. The first is that you do not have to be right to say something. A position offered as a position is not a claim to authority, and most people receive it as information about you rather than as a challenge to them. The second is that warmth and disagreement are entirely compatible and are usually delivered in the same breath by people who are good at this. The disagreement is in the words and the warmth is in everything else, and the other person mostly hears the everything else.
 
@@ -504,6 +528,8 @@ On the workplace version, Morrison and Milliken described organizational silence
 
 On what saying does to believing, Higgins and Rholes published the saying-is-believing study in 1978 in the Journal of Experimental Social Psychology, and Echterhoff, Higgins and Levine developed the shared reality account in 2009 in Perspectives on Psychological Science, including the finding that the effect depends on the speaker trusting the listener. On what silence costs a group, Nemeth's body of work on minority influence, beginning with her 1986 paper in Psychological Review, established that dissent improves the quality of a group's thinking even when the dissenting position is wrong, and Janis had described the failure mode from the other end. Hornsey's research on how criticism is received explains why the same words land differently depending on whether the speaker is experienced as an insider.
 
+On what a live conversation does to a claim you have just heard, the argument that understanding a statement carries provisional belief with it, and that un-believing it is a separate step a loaded mind can fail to complete, was published in 1993 in the Journal of Personality and Social Psychology under the title "You can't not believe everything you read". A 2005 reply in Psychological Science reported two experiments against the strong form of that claim and is worth reading beside it, since the effect there held only where the false version of a statement carried no information of its own.
+
 The rest is mine and carries no research weight at all. I hold no clinical qualification of any kind, and I am not a therapist. None of the researchers named here has any connection to this page or to the seminar. Where their published work and my own reading disagree, theirs is the one to go and check.
 
 ## How Long Does This Take, Honestly?
@@ -530,7 +556,7 @@ Here is the method.
 4. **Write four positions on paper.** Twenty minutes, private, no audience. Things you actually hold. This is the floor everything else stands on.
 5. **Ask one long-standing person to state your opinion on something.** Listen to how long it takes them. That pause is worth more than an hour of reflection.
 6. **Say one small thing.** Cheap end of the ladder, safe person, something that does not matter. A film, a route, a restaurant.
-7. **Send one next-day correction.** If there is an agreement from the last fortnight still running in your head, write the single sentence about it and send it. Then watch what happens, which will be less than you think.
+7. **Send one next-day correction.** If there is an agreement from the last two weeks still running in your head, write the single sentence about it and send it. Then watch what happens, which will be less than you think.
 
 That sequence costs about an hour spread across a week and produces something no article can hand you, which is evidence about your own tables in your own handwriting.
 

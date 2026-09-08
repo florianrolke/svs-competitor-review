@@ -359,7 +359,7 @@ That deserves saying flatly rather than surveyed, because the hedged version hel
 | A frightening note or statement | Evidence of something clinical | A bid that grew after quieter versions failed | What the quieter versions looked like, and when they stopped |
 | A public scene | A child who cannot regulate anywhere | A child who de-masks with you and holds it together elsewhere | What the school actually reports |
 | Refusing to speak for hours | Manipulation | A copy of a withdrawal they have watched work | Whether anybody else in the house does exactly that |
-| An outburst that came from nowhere | Unpredictable behavior | A response to a change in the household nobody explained | What changed at home in the previous fortnight |
+| An outburst that came from nowhere | Unpredictable behavior | A response to a change in the household nobody explained | What changed at home in the previous two weeks |
 
 Both readings can also be true at once, which is the part that gets lost when a parent is asked to pick a side. A behavior can be an accurate copy of your stress response and a bid for your attention in the same act. Responding only to the copy leaves the hunger running. Responding only to the hunger leaves the demonstration running. The two motives are not competing theories to choose between, and treating them as a menu is one of the more reliable ways to stay stuck for a year.
 
@@ -373,9 +373,9 @@ These are the sentences that run underneath, in the exact phrasing they arrive i
 
 - "I can blame my mother for teaching me polarity and that there's strength in weakness."
 - "My mom doesn't accept growth."
-- "Actually, probably my mum wouldn't have been so weak if I hadn't stepped up."
+- "Actually, probably my mom wouldn't have been so weak if I hadn't stepped up."
 - "My dad left and I had to be a parent with my mom."
-- "That's what being a single mum is. There's nothing else."
+- "That's what being a single mom is. There's nothing else."
 
 Read them slowly and see whether one of them is yours word for word, with no translation required. That small physical jolt is the useful part, and it tends to arrive on the sentence you would least want to admit to.
 
@@ -401,7 +401,7 @@ What happened afterward is that the conditions changed and the strategy did not.
 
 Aimed at a genuine emergency, that hardness is competence. Aimed at a seven-year-old who spilled something, it lands as threat. The strategy did not become wrong. It is being pointed at people who were never the danger, by a system that has no way of telling the difference on its own.
 
-Which is why attacking it does not work. Parents who decide their toughness is the problem and set out to dismantle it usually find it back within a fortnight, harder than before, because a survival response that is under attack defends itself. What tends to lower the defensiveness is the opposite move: crediting the thing. Naming what it actually did for you, out loud, in specifics, and only then asking whether the conditions that required it still apply. A strategy that has been thanked goes considerably more quietly than one that has been condemned. [The mechanics of forgiving yourself for something you genuinely did are worth a separate look](/patterns/how-to-forgive-yourself/), because the guilt underneath this is usually the part keeping it running.
+Which is why attacking it does not work. Parents who decide their toughness is the problem and set out to dismantle it usually find it back within two weeks, harder than before, because a survival response that is under attack defends itself. What tends to lower the defensiveness is the opposite move: crediting the thing. Naming what it actually did for you, out loud, in specifics, and only then asking whether the conditions that required it still apply. A strategy that has been thanked goes considerably more quietly than one that has been condemned. [The mechanics of forgiving yourself for something you genuinely did are worth a separate look](/patterns/how-to-forgive-yourself/), because the guilt underneath this is usually the part keeping it running.
 
 ## Can Love Be Real and Still Fail to Arrive?
 

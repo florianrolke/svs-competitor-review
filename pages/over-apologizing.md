@@ -72,7 +72,7 @@ faqs:
 - q: "How do I help someone who apologizes constantly?"
   a: "Do not point it out every time, since that adds one more thing to apologize for. What helps is removing the need. Answer the question they apologized for asking as though it were an ordinary question, without commenting on the preamble. Say thank you where they expected friction. Over months, repeated evidence that no fee is being collected does more than any observation about their speech."
 - q: "How long does it take to change this?"
-  a: "Noticing arrives in a fortnight, and the reflex takes months. Most people can catch themselves after the fact within two weeks of paying attention, and catching it counts even on the days it still comes out. Catching it in time takes considerably longer and arrives unevenly, present on a Tuesday and gone on a Thursday. It fades through accumulated repetitions rather than through understanding it."
+  a: "Noticing arrives in two weeks, and the reflex takes months. Most people can catch themselves after the fact within two weeks of paying attention, and catching it counts even on the days it still comes out. Catching it in time takes considerably longer and arrives unevenly, present on a Tuesday and gone on a Thursday. It fades through accumulated repetitions rather than through understanding it."
 - q: "When does this belong with a professional rather than a practice I run myself?"
   a: "When the person whose reactions you are pre-empting has ever frightened you physically, which makes it a safety question first. When the apologizing sits alongside sleep that has been broken for months, memories that replay without being asked for, or a flatness that has not lifted. Any thought of harming yourself belongs with a licensed professional now rather than later, ahead of everything else on this page."
 related:
@@ -194,7 +194,7 @@ This is the section that usually reframes the whole thing, because most people c
 | Without the word | Three reasons attached to a one-line request | The same fee, paid in explanation instead |
 | Without the word | A self-deprecating joke immediately after speaking | The same fee, paid in status |
 | Without the word | A small wince, a shrug, a laugh at the end of a sentence | The same fee, paid physically |
-| Afterwards | An unrequested favor to restore the balance | Settling an account nobody opened |
+| Afterward | An unrequested favor to restore the balance | Settling an account nobody opened |
 
 The bottom four rows are the ones worth sitting with. If you have ever successfully cut the word out of an email and then noticed the message got longer, you have watched the payment move rather than stop. [Over-explaining a decision nobody questioned runs on exactly the same engine](/patterns/why-cant-i-ask-for-what-i-need/).
 
@@ -240,7 +240,7 @@ The versions I see most often run like this.
 
 1. **The house where the verdict was worse than the confession.** Something went wrong, an adult found out, and the response depended heavily on whether you had said it first. A child in that house learns to get to the fault before anyone else does, and learns it in the body rather than in the mind, which is why it fires before any decision is available to you now.
 2. **The house where one person's mood set the weather.** Nothing dramatic in a photograph. A caregiver whose reactions could not be predicted from what actually happened. A child there learns to apply small corrections continuously to keep the temperature down, and the apology is the cheapest correction available. [What growing up on that kind of forecast does to an adult is covered separately](/patterns/growing-up-with-an-unpredictable-parent/).
-3. **The house where you were praised for being no trouble.** This one is warm on the surface and it installs the deepest version. Where the compliment was that you never asked for anything, that you were easy, that you were the one they never had to worry about, a child concludes that being low-cost is the thing being valued. Every request afterwards arrives with an apology attached, because requests were exactly what the arrangement did not include. [Worth that depends on what you deliver has its own page](/patterns/conditional-self-worth/).
+3. **The house where you were praised for being no trouble.** This one is warm on the surface and it installs the deepest version. Where the compliment was that you never asked for anything, that you were easy, that you were the one they never had to worry about, a child concludes that being low-cost is the thing being valued. Every request afterward arrives with an apology attached, because requests were exactly what the arrangement did not include. [Worth that depends on what you deliver has its own page](/patterns/conditional-self-worth/).
 4. **The years where you were the only one of your kind in the room.** Being the youngest, the newest, the only woman, the only one without the qualification, the one whose accent marked them out. A permanent low-grade sense of being here on sufferance produces a permanent low-grade apology, and it can install in adulthood inside eighteen months.
 5. **The stretch under somebody who punished hesitation.** One manager, one partner, one coach who responded badly to uncertainty. For plenty of people this pattern has no childhood in it at all. It has one specific person and about three years, and it survived long after that person stopped being anywhere near you.
 
@@ -282,7 +282,7 @@ This is not to come from a victim type of frame, as though the environment were 
 
 Something that does the same social work without opening with an admission.
 
-The reason substitution beats deletion is that the sorry was doing a real job. It acknowledged a cost, it softened an imposition, it signaled that you are not careless with other people. Strip it out and leave nothing in its place and you get somebody who sounds abrupt, feels awful about sounding abrupt, and reinstalls the whole system within a fortnight with interest.
+The reason substitution beats deletion is that the sorry was doing a real job. It acknowledged a cost, it softened an imposition, it signaled that you are not careless with other people. Strip it out and leave nothing in its place and you get somebody who sounds abrupt, feels awful about sounding abrupt, and reinstalls the whole system within two weeks with interest.
 
 The move that holds is swapping the frame from what you owe to what they gave. Thank you does the identical social work as sorry, keeps every bit of the warmth, and costs you no ground.
 
@@ -352,7 +352,7 @@ By working on the cause and the conditions at the same time, in repetitions smal
 5. **Swap rather than delete.** Thanks for waiting. Do you have two minutes. Thank you for the time. Substitution holds where subtraction collapses, because the social job still gets done and you do not end up sounding like somebody you would not want to be.
 6. **Practice the silent version on strangers.** The doorway, the supermarket aisle, the person who reaches for the same thing you did. Low stakes, high frequency, and nobody in the encounter has any history with you. This is where you collect the evidence that not paying the fee costs nothing.
 7. **Change one condition, not only the behavior.** The manager who takes tasks off you at the first hesitation. The channel where everything happens in writing. The group where you have always been the one who smooths. Pick one and alter it. Force produces the change and environment is what sustains it.
-8. **Say the real one properly, once.** Find something you genuinely owe an apology for, give it in four sentences, and stop talking. Then sit in the silence afterwards without filling it. This is the repetition that repairs the currency, and it does more for your sense of yourself than a hundred deleted sorries.
+8. **Say the real one properly, once.** Find something you genuinely owe an apology for, give it in four sentences, and stop talking. Then sit in the silence afterward without filling it. This is the repetition that repairs the currency, and it does more for your sense of yourself than a hundred deleted sorries.
 
 Two warnings, because both failures are common.
 
@@ -364,7 +364,7 @@ The second is treating understanding as the finish line. The goal is not self-kn
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of deliberate attention, most people can replay a conversation the same evening and locate the exact moment the sorry went out and what came just before it. That stage feels frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless.
+Noticing arrives fast. Within two weeks of deliberate attention, most people can replay a conversation the same evening and locate the exact moment the sorry went out and what came just before it. That stage feels frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless.
 
 The reflex takes months, because it fades at the pace of accumulated evidence rather than insight. Every stranger you do not apologize to in a doorway is one data point against a rule that had decades to install itself. Twenty of those, most of them unremarkable, change a great deal. Understanding this page thoroughly changes remarkably little on its own.
 

@@ -190,6 +190,8 @@ Escape has a witness. You left the party early, somebody saw you go, and you tho
 
 Avoidance has no witness and no memory. Nothing happened. You simply took a different train and had a perfectly good morning. Because it costs nothing observable, there is no natural limit on how often it runs, and no point at which it triggers a review.
 
+There is a controlled version of that asymmetry. Vervliet and Indekeu reported in 2015, in Frontiers in Behavioral Neuroscience, that volunteers who had learned a cheap avoidance response, a single button press that canceled an upcoming unpleasant event, went back to making it the moment the button was available again, after a run of trials in which the warning cue appeared with nothing unpleasant behind it and the button had been removed. Two limits belong with that. It was one sitting, a mild shock and a screen, and the response was built to cost next to nothing, which is why it speaks to the version of this that redraws a week rather than to the version that walks out of a party.
+
 This is why the two behaviors have such different life cycles. People who escape a lot usually know they have a problem, because they have a folder of embarrassing exits. People who avoid a lot usually think they are fine, right up until somebody asks a specific question about a specific shop and the answer arrives faster than they wanted it to.
 
 The other consequence of this distinction is that the escape version gets talked about and the avoidance version does not. Almost everything written about being uncomfortable around somebody assumes you are in the room with them. Very little is written for the person who solved the whole thing years ago by not being in rooms.
@@ -201,6 +203,8 @@ Because the thing that would update it has been reliably prevented, by you, seve
 There is a prediction sitting underneath the route, and if you say it out loud it usually sounds smaller than the structure built on top of it. Something like: if I see them I will not know what to say and it will be excruciating and I will think about it for three days. That prediction has never been contradicted. It has also never been confirmed. It has simply been protected, which is a completely different state and a much more durable one.
 
 A prediction that gets tested and fails becomes weaker. A prediction that gets tested and holds becomes stronger. A prediction that never gets tested stays exactly where it was on the day it was formed, indefinitely, and this is the position yours has been in since the spring.
+
+That has been produced on purpose in an experiment. In the 2009 work by Lovibond and colleagues, the group holding a response that headed off an unpleasant event kept predicting the event, and the group without one let the prediction go, even though neither group had anything unpleasant happen to them: the protective move preserved the expectation by deleting the only evidence that could have argued with it. Hold the limits alongside it, a single sitting with volunteers and a mild unpleasant event, and no study anywhere has run the version with eight months and a station in it.
 
 This produces one of the more disorienting features of the pattern. The passage of time does nothing. Ordinarily, a decade takes the edge off almost anything. Here, ten years of successful avoidance leaves the expectation as sharp as it was in year one, because every one of those years was spent producing precisely the absence of evidence. People describe this with real bewilderment: the encounter feels no less impossible now than it did before, despite everything having moved on, despite the original matter being long dead, despite both of them having entirely different lives.
 
@@ -300,7 +304,7 @@ The test takes about thirty seconds and is unusually clean. Try to name what you
 
 What keeps an expired route alive is that it costs almost nothing to maintain and nothing ever forces the question. The earlier train is not unpleasant. The further supermarket is fine. A behavior with a very low running cost and no review date can outlive its purpose by a decade without anybody being at fault.
 
-The good news attached to this root is real. When the reason has genuinely expired, the route often comes apart in about a fortnight, with no courage required and no conversation involved. People try the old train once, nothing happens, and then find the whole apparatus was being held up by momentum rather than by anything current. This is the one root where a small experiment is genuinely all it takes, and where the biggest obstacle is usually embarrassment at how long it ran.
+The good news attached to this root is real. When the reason has genuinely expired, the route often comes apart in about two weeks, with no courage required and no conversation involved. People try the old train once, nothing happens, and then find the whole apparatus was being held up by momentum rather than by anything current. This is the one root where a small experiment is genuinely all it takes, and where the biggest obstacle is usually embarrassment at how long it ran.
 
 ## Which of the Five Is Yours, and How Would You Know?
 
@@ -315,6 +319,24 @@ Four questions, and you can answer all of them without contacting anybody.
 **Is it one person or a whole category?** If your route excludes a district, a crowd, or an entire period of your life, you are in the symbol root, whatever you were about to say about the individual.
 
 And a fifth, worth asking last because it catches the thing people most want to avoid noticing. **When did you last review this?** If the honest answer is never, and if you cannot date the most recent piece of evidence, the habit root is in play regardless of whichever other one is also true. Roots combine. Most people have one dominant and one quietly running underneath.
+
+## How Can I Tell Whether I Am Protecting Myself From Real Harm or Just Following an Expired Habit?
+
+The two verdicts run on different evidence, and only one of them can be dated.
+
+Protection has a source you can point at. Something happened, or is still happening, and you can name it, place it in time, and say what makes it current rather than historical. An expired habit cannot do any of that. Ask it for a date and it produces a decade, a mood, an account of how things were. The thirty-second question in the expired-reason root above is the first half of this, and what follows is what to do when the sentence you write comes out ambiguous, which for most people it does.
+
+Three discriminators, none of which requires contacting anybody.
+
+**Protection has edges.** It is specific to the person, to the places they are actually in, and to the hours they are actually there. A habit spreads, because a rule nothing has contradicted has no reason to hold a boundary. If what you are running now covers a district, a whole crowd, or a category of event, part of it has stopped being about them.
+
+**Protection tracks the facts.** If they moved away, changed jobs, or are verifiably a hundred miles away on a Tuesday, protection loosens accordingly and a habit carries on regardless. Watch what happens on a day when you know for certain they cannot be there. If the detour still runs, the detour has stopped reading the situation.
+
+**Protection updates.** When something changes, protection changes with it. A habit has no mechanism for noticing anything, which is why almost nobody in this pattern can name a review date.
+
+Then there is the part that decides how to use all three, and it is not symmetrical. Keeping an arrangement you no longer need costs you minutes, a shop you liked, and some evenings. Dropping one you do need can cost you something you cannot get back. The two errors do not cost the same, so a genuinely mixed answer resolves in one direction: keep what you have, and take the question to somebody qualified rather than settling it from a page.
+
+And a limit worth stating rather than hiding. Nothing written down anywhere can make this call for you, roots combine, and the most common honest result is that both are true at once. The useful question then stops being which one it is. It becomes what proportion of this week is still doing a job, which is a question a week of lines can answer and an argument with yourself cannot.
 
 ## What Does a Year of This Cost, Counted Properly?
 
@@ -335,7 +357,7 @@ The second cost is the places, and it does not convert into hours. A cafe you li
 
 The third cost is the invitations, and this one compounds. Declining four things a year for eight years is thirty two absences, and social life is a network rather than a series of events. People stop asking, not out of any resentment, but because asking is a habit that needs occasional reinforcement. Most people who notice this notice it as a mystery, several years late, and never connect it to the reason.
 
-The fourth cost is the one that has no unit at all. The background process. The low continuous calculation about where they might be, which runs during hours you are nowhere near them, on holidays, in other cities. That process has been running long enough that you experience it as your baseline rather than as an activity, which means you have no idea what it costs and no way to compare yourself to yourself without it.
+The fourth cost is the one that has no unit at all. The background process. The low continuous calculation about where they might be, which runs during hours you are nowhere near them, on vacations, in other cities. That process has been running long enough that you experience it as your baseline rather than as an activity, which means you have no idea what it costs and no way to compare yourself to yourself without it.
 
 And then there is what all of this does to your account of yourself. Eight months is a fact about a timetable. Eight years produces a quiet belief that you are somebody who cannot handle a chance meeting, and that belief goes on to make its own decisions about entirely unrelated things.
 
@@ -362,6 +384,8 @@ Two rules, and they matter more than they look.
 **Change nothing while you are counting.** Take the earlier train. Skip the aisle. Decline the thing. The week is a measurement and measurements get ruined by interference. Also, trying to change and count at once gives you a week of failed resolutions instead of a number, and the number is the whole point.
 
 **Do not draft any conversation.** No opening lines, no scripts, no imagining what you would say. That is the pattern's favorite decoy, it feels productive, and it produces nothing. You are counting, not preparing.
+
+One interference to expect while you count, because it will look like progress. Writing a behavior down tends to shift the behavior you are writing down, which the self-monitoring research treats as a known nuisance rather than a benefit, since it gets in the way of measuring anything cleanly. I am naming that as a described effect rather than crediting it to one researcher, because it is a result that comes out of a long run of small studies rather than out of a single one. The practical version is short: expect your week to come in a little below your real average, treat the total as a floor rather than a figure, and do not read a quieter week as the pattern loosening, because the effect fades once the recording stops.
 
 At the end of seven days you will have between eight and thirty lines and a total in minutes. Nearly everybody reports the same reaction, which is that no individual line surprises them and the column does. That gap between the parts and the total is the pattern's entire method of concealment, and one page of handwriting dismantles it.
 

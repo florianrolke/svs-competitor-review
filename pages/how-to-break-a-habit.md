@@ -113,7 +113,7 @@ faqs:
   q: Why do I feel flat or unmoored after finally breaking a long habit?
 - a: By deliberately going back into the real triggering situation and watching what
     happens. Avoidance has never been tested and interruption has. A change that only
-    holds in unusual conditions, on holiday, in someone else's house, during a calm
+    holds in unusual conditions, on vacation, in someone else's house, during a calm
     month, is still an assumption. Return to the same room, the same hour and the
     same stress level on purpose, once, and you will know within a single evening.
   q: How do I know whether I interrupted the pattern or just avoided the trigger?
@@ -168,7 +168,7 @@ faqs:
     where it failed to finish. A dramatic first week does very little on its own,
     though it makes a perfectly good start.
   q: Can you break a habit quickly?
-- a: 'The cue, routine, reward description popularised in habit writing is a decent
+- a: 'The cue, routine, reward description popularized in habit writing is a decent
     map of why a pattern repeats. It stays coarse about the routine itself, which
     is precisely where an interruption has to land. Splitting that middle section
     into three gives you somewhere to aim: the body position and motor sequence, what
@@ -318,6 +318,18 @@ The catch sits in that word interruptible. The sequence is only breakable if som
 
 There is a second reason to describe a habit this precisely, and it has to do with what you call yourself. "I am someone who scrolls too much" is a description of a person, and a person is something you have to defend or dismantle. "At six fifteen, on the sofa, after dinner, I reach left" is a description of a sequence, and a sequence has specific, breakable parts. Naming the pattern feels less satisfying than naming the identity. It is also the version that can actually be touched.
 
+## What Is the Habit Loop, and How Do Researchers Measure Habit Strength?
+
+Two different things, and only the second one has ever been measured.
+
+The loop is the popular account: a cue, then the routine, then a reward that makes the routine more likely next time. It reached general readers through business writing and has been repeated widely enough that it now sounds like a result rather than a summary. As a summary it earns the room it takes. The trouble is the third part. The cue and the routine are easy to point at in your own evening, while the reward is real and almost never the one you would guess, which is why the loop is far easier to draw than to use on yourself. The three components described further up this page are pointing at the same behavior from a different angle, and their advantage is that each one names something you can interrupt tonight. What the reward is actually delivering gets its own treatment further down.
+
+What researchers measure is narrower and much less dramatic. The standard instrument is the Self-Report Habit Index, set out in a 2003 paper in the Journal of Applied Social Psychology called Reflections on Past Behavior: A Self-Report Index of Habit Strength. It is twelve statements a person rates about one specific behavior, built around three features of habit: a history of repetition, running with little awareness or control and taking little effort, and expressing something the person takes themselves to be. Across four studies the index held together internally and produced similar scores when the same people were asked again later. Its practical point was that habit strength could be estimated without counting how often somebody did the thing, since counting frequency turns out to measure something slightly different.
+
+Two limits belong next to it. The first sits in the name. It asks people to report the awareness and the effort inside a behavior defined by having very little of either, which is a strange request, and it is also the only kind of request that works at any scale. The second is that the index grades strength and does not grade breakability. The four studies behind it were about building an instrument rather than about removing anything, so a high score tells you the sequence is well practiced and tells you nothing about which of the three components will give first.
+
+Where the measurement and this page agree is worth noticing. The index treats running without deciding as the feature worth grading, which is the same claim being made here in plainer words. [How much of that belongs to your surroundings rather than to you is worked through separately](/patterns/why-does-my-change-collapse-around-my-usual-people/).
+
 ## Why Does Adding a Good Habit Almost Never Remove a Bad One?
 
 Because the slot is already occupied, and the new arrival has none of the advantages the old one has.
@@ -327,6 +339,16 @@ Consider what the two are bringing to the same two second window. The old sequen
 This gets sharper under load. Fatigue, stress, illness, an argument, a bad week at work, all of them reduce the resources any deliberate behavior needs and leave the automatic one untouched. Default patterns take over on exactly the days you most wanted them not to, which is why the collapse of a new habit so often coincides with the week that made it necessary.
 
 A pattern worth recognizing: someone tries to build a consistent gym habit six separate times across five years, always starting in January and stopping by March. Every attempt was a new plan layered onto an unchanged week. Nothing about the actual obstacle, the six o'clock slump with the sofa and the show exactly where they had always been, was ever addressed. The new habit was competing for the same twenty minutes as an old one with years of practice behind it. The attempt that finally held started somewhere else entirely: the evening routine itself, the same show, the same spot, the same order of events after dinner, was deliberately broken for two weeks first, with nothing added to replace it, just a walk around the block at the hour the show usually started. The gym only entered in week three, once the evening no longer had a default groove waiting to reclaim it.
+
+## Why Does Willpower Work for a While and Then Fail When I Am Stressed?
+
+Because the two things competing do not run on the same supply, and a week with too much in it only drains one of them.
+
+Holding a pattern back is deliberate work. It needs attention that is actually available, a decision made in the moment, and enough spare capacity for that decision to stick. The sequence being held back needs none of it. That sequence was built to run when nothing is available, which is precisely what it does. So on a day with capacity in it the deliberate side wins, and it wins consistently enough over a run of weeks that the pattern itself starts to look changed. Then a week arrives with an argument in it, bad sleep and more to do than fits, the side that needed capacity has less, and the side that needed none sits exactly where it always sat. On that week the contest does not get smaller. It stops taking place.
+
+There is a second half to this that is easy to miss. When capacity is short, behavior shifts toward whatever is already practiced, useful or not, rather than simply getting sloppier. People in that state keep producing the trained move well after the trained move has stopped paying, and they are less able afterward to say what the connection between the action and the result was supposed to be. That is a described mechanism drawn from several lines of controlled studies rather than one person's finding, and those studies use short artificial stress and freshly learned actions rather than an evening you have been running since your twenties, so it is worth holding as a shape rather than as a finding about you.
+
+The practical half is the part worth keeping. If the three good weeks were holding force rather than a changed sequence, the week that ended them tells you nothing about you. What it tells you is that the sequence was intact the whole time. Which is a reason to spend the good weeks interrupting instead of holding, since interruption is the one of the two that keeps working on a day when there is nothing left to hold with. [Whether any of this is a discipline problem at all is worked through here](/patterns/is-this-a-discipline-problem-or-something-else/).
 
 ## What Does It Actually Mean to Interrupt a Pattern?
 
@@ -357,6 +379,20 @@ This is the most common failure inside genuine attempts. Someone catches themsel
 Shame does something worse than nothing here. It narrows attention and reliably produces the exact internal state most habits are used to relieve, which means self attack can feed the trigger it was meant to discourage. Plenty of people have watched an evening go badly, felt genuinely terrible about it, and used the pattern to handle feeling terrible.
 
 There is a plainer version of the same test. Ask whether anything about your body, your focus or your words was actually different in the ten seconds before the behavior. If the answer is that only your opinion of yourself was different, nothing was interrupted. [Why blaming yourself for a pattern keeps it running has its own page](/patterns/self-sabotage/), and it is worth reading if this section landed uncomfortably.
+
+## Why Does My Partner Nagging Me About a Habit Make Me Do It More?
+
+Because being pushed puts a second thing into the same moment, and the behavior quietly takes on that second job as well.
+
+Left alone, the sequence at six fifteen is only about the sequence. Once somebody has said something about it, those same seconds also contain a small piece of ground to hold. Doing the thing answers both at once, which makes it more likely rather than less, and it arrives faster than any thought about whether you wanted it. This has little to do with stubbornness and little to do with the person who spoke. What it responds to is an option starting to look as though it is being taken away: a fast reaction aimed at restoring the option, largely independent of how much the option was worth to you beforehand. That reaction is well described in the research and two other pages here already carry it, so it is handed over rather than repeated. [The version inside an offer of help is worked through here](/patterns/refusing-help/), and [the version that shows up as needing to speak last is here](/patterns/needing-the-last-word/).
+
+What this costs a breaking attempt is specific, and it is the half you actually run.
+
+A slip stops being one piece of information about one trigger and becomes an evening with a comment now attached to it. That change is expensive, because the entire value of a slip is what it tells you about the trigger, and that is difficult to read while you are also managing how it looked. Meanwhile the work that would help produces nothing anybody can see. Two weeks of standing up at the moment the sequence would fire looks, from any distance at all, like nothing happening, so the comments continue and the reaction continues alongside them.
+
+Your own half is the only half you have any say over, and this is where it becomes usable. The pull to do it anyway belongs to the option. The behavior belongs to the trigger. They arrived in the same two seconds and they are two different things, and once you can hear which of them is talking, the second one goes back to being a sequence with breakable parts.
+
+Two honest limits. Hearing which is which is much easier to describe than to do, since the reaction is fast and it presents itself as a reason rather than as a reaction. And if being pushed is the only thing keeping the attempt alive, it has an end date already built in, because the pushing will stop or you will stop hearing it, and there was never anything underneath it.
 
 ## What Is the Habit Paying You?
 
@@ -409,7 +445,21 @@ Most people cannot say where their habit actually begins. They can say what it i
 
 The answer is often earlier than expected, and that changes everything about where the interruption goes. Somebody has told herself for two years she will stop snapping at her kids when she is tired, and she can describe the pattern exactly: the same tone of voice, the same three phrases, the same trigger, the ten minutes after walking in the door from work. Excellent insight, no interruption. What eventually shifted it was moving the intervention earlier, out of the doorway where the state was already fully assembled by the time she noticed it. Five minutes in the car before going in, radio off, three slow breaths, hands on the wheel, saying out loud what she wanted the next ten minutes to look like. The trigger moment itself was left completely alone. What changed was the state she arrived in.
 
-That is worth generalising. If the pattern is already fully built by the time you notice it, you are looking too late. Move upstream until you find a point where the sequence had not yet committed, and put the interruption there instead of trying to win a fight at the doorway.
+That is worth generalizing. If the pattern is already fully built by the time you notice it, you are looking too late. Move upstream until you find a point where the sequence had not yet committed, and put the interruption there instead of trying to win a fight at the doorway.
+
+## How Can I Stop Automatically Checking My Phone Every Time Work Gets Difficult?
+
+By moving the interruption to the moment the work gets hard, which sits several seconds earlier than the moment you notice the screen.
+
+The trigger here is almost always misidentified, which is why the usual fixes do so little. People describe it as a concentration problem, or as the pull of whatever is waiting in the app, and then aim everything at the device: notifications off, a blocker, a morning rule. All of that is aimed at where the sequence ends. The start of it sits upstream, and it has nothing to do with boredom. It is the moment the task stops making sense. A sentence will not come out in the right order. A file opens to something you did not expect. A number does not reconcile and you cannot see why. There is a short unpleasant beat in there, and the hand is already moving before the beat has been named. The thing being removed is the specific discomfort of not knowing what to do next. Tedium never came into it.
+
+So aim the three doors at that beat rather than at the device.
+
+Put the thing somewhere that takes standing up to reach, since a distance you can cross with your arm is not a distance. Then, at the moment the work goes opaque, say the difficulty in one short spoken sentence: what is actually stuck, in the plainest words available. That does two things at once. It puts the internal language somewhere the pattern has no use for, and it turns a vague bad feeling into a specific problem, which is something you can work on and the feeling was not. Most people find the sentence that had been running was closer to just checking, which was doing no work at all.
+
+Expect to catch it late in the early weeks. Noticing with the screen already lit still counts. It is the same skill arriving slightly behind, it moves earlier with repetition, and the point at which it lands before the hand moves is the point at which the sequence starts failing to complete.
+
+One honest limit sits under all of it. If every task produces the reach, the pattern is reporting on the work rather than on your attention, and no interruption will hold against that for long. That is a different problem and it deserves to be treated as one. [Where the scrolling goes once it has started is a separate subject](/patterns/doomscrolling/).
 
 ## What Does the Right Order Look Like?
 
@@ -423,6 +473,8 @@ Interruption first, environment second, replacement third, conditioning fourth. 
 6. **Condition it in the real room.** Same hour, same context, including a difficult week, on purpose. A pattern rehearsed only in calm conditions has never met the conditions it was built for.
 
 Is it satisfying to spend two weeks interrupting something with nothing to show for it? Honestly, no. It produces no streak, no visible progress, and nothing to report to anyone. It is also the difference between the seventh attempt and the one that holds.
+
+Two things are worth saying about the order itself, since a numbered list makes a claim look firmer than the evidence for it. Nothing published has compared this sequence against the opposite order. The measured habit work named on this page followed people adding one daily behavior, none of it followed anybody removing one, and nobody has tested whether clearing a slot first produces a better result than starting with the replacement. What sits behind the order is a model built from watching attempts hold and fail, not a measured result, and it is worth holding that way. The narrower part can be said with more confidence: a sequence keeps its trigger until something disrupts it repeatedly, which is why an untouched sequence keeps winning the same window no matter what gets built next to it.
 
 ## What Does It Look Like When It Actually Holds?
 
@@ -444,9 +496,11 @@ Every pattern like this has two ends, and describing only the stuck end leaves y
 
 Read the right hand column carefully, because it is deliberately unimpressive. Nobody in it is having a breakthrough. There are no declarations, no dramatic evenings, and nothing anybody else would notice. The broken end of a habit is mostly an absence, which is a strange thing to work toward and worth knowing about in advance, because absences make poor trophies.
 
-Do not be hard on yourself if that column reads as out of reach right now. The sequence took years of daily repetition to build, and nobody crosses that in a fortnight.
+Do not be hard on yourself if that column reads as out of reach right now. The sequence took years of daily repetition to build, and nobody crosses that in two weeks.
 
-## Why Does One Bad Day Undo Three Good Weeks?
+## What Is the Difference Between One Slip and a Full Relapse?
+
+One is an event and the other is what you conclude from the event, and only the second one costs you the month after. Before the difference itself, though, the version most people arrive with: why does one bad day undo three good weeks?
 
 Because the three good weeks were usually willpower holding an intact pattern back, rather than the pattern failing to complete.
 
@@ -456,7 +510,11 @@ The second half of the damage is the conclusion. A slip is the pattern firing on
 
 There is a more useful way to read a slip. It tells you which trigger still has full force, which is information you could not have got any other way. Somebody who slips three times in a month at the same hour, in the same room, has been handed the exact address the interruption was missing. Nothing about it is a verdict on your character, and treating it as one is the single most expensive move available at that moment.
 
-## How Long Does This Take, Honestly?
+[The Monday version of the same collapse, where one slip partway through the week ends the whole week rather than the evening, is worked through separately](/patterns/starting-again-on-monday/).
+
+## Is the 21-Day Rule for Breaking a Habit Actually True?
+
+No, and where the number came from is dealt with at the end of this section. The question sitting underneath it is the better one, so take that first: how long does this take, honestly?
 
 Weeks to a few months of repeated interruption at the actual trigger point, and it runs at two different speeds.
 
@@ -464,10 +522,12 @@ Recognition arrives quickly. Within a couple of weeks of deliberate attention mo
 
 The automatic completion takes far longer. It was rehearsed daily for years and it fades at the pace of accumulated repetitions rather than at the pace of understanding. The best comparison anybody has for the timeline is orthodontic braces. The result comes from consistent, boring application across months, not from intensity in any single sitting, and there is no version where a very determined week substitutes for it. The twenty one day figure that follows this subject everywhere came from a plastic surgeon in the nineteen sixties observing how long his patients took to get used to a new face in the mirror, and it never had anything to do with habits at all. [The research on how long installing one actually takes is covered on the building page.](/insights/how-to-build-a-habit/)
 
+There is a measured version and it is less tidy than either number. A 2010 study in the European Journal of Social Psychology, named here by year and journal rather than by its title, which uses British spellings, had ninety-six people each pick one daily eating, drinking or activity behavior, carry it out in the same context for twelve weeks, and rate it every day on the habit-strength index described earlier on this page. The time taken to reach ninety-five percent of a person's own plateau of automaticity ranged from eighteen days to two hundred fifty-four. Two limits sit inside that spread and both of them matter here. The curve the researchers fitted described sixty-two of the ninety-six and described thirty-nine of those well, so the range comes from a subset rather than from everybody who started. And every one of them was adding a behavior rather than removing one. Nobody has run the equivalent study on interruption, which means the honest answer to how long breaking takes is that it has not been measured, and any number offered for it has been borrowed from the building side. One further result from those twelve weeks is worth carrying to the other end of this page: missing a single opportunity did not measurably set the process back.
+
 Is that frustrating? Yes, and saying so is better than selling a faster route that does not exist. The people who genuinely break something are the ones still running unremarkable interruptions weeks after the insight stopped being interesting to them. [What happens in the weeks after any intensive experience is what decides whether it survives at all.](/insights/what-is-integration/)
 
 ## What Is One Thing to Do Today, Before You Try to Quit Anything?
 
 Run a two second log for three days, and change nothing while you do it. Every time the habit fires, write four things down immediately afterward, one line each: the clock time, what your body was doing in the ten seconds before, what your eyes were on, and the sentence that was running, however stupid it looks written down. Do not attempt to stop anything during those three days. Then read the list. Most people find the same hour, the same posture and the same six words on nearly every line, and that repetition is the address they have been missing for years. An interruption placed at that exact point does more than a month of resolve spread across everything.
 
-If what pulls at you is the mechanism itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of work: real screening before anyone arrives, a group small enough that the person who can describe their pattern beautifully cannot quietly hide inside the description, and structured integration afterwards, because the weeks after are exactly where an interruption either keeps getting repeated or stops. The honest limitation is that exact dates, price and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. Three days spent watching your own hand move is rarely wasted, whatever you decide afterwards.
+If what pulls at you is the mechanism itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of work: real screening before anyone arrives, a group small enough that the person who can describe their pattern beautifully cannot quietly hide inside the description, and structured integration afterward, because the weeks after are exactly where an interruption either keeps getting repeated or stops. The honest limitation is that exact dates, price and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. Three days spent watching your own hand move is rarely wasted, whatever you decide afterward.

@@ -187,6 +187,22 @@ What has changed recently is the volume of writing that treats it as one. You ca
 
 There is a cost in some versions of this, and one of the five below carries a real one. It announces itself in a specific way and it is worth being able to recognize. It is not, however, what most people arriving at this page are looking at.
 
+## Why Do I Fall for an Idea of Someone Before I Really Know Them?
+
+Because the idea does not wait for the information. It assembles itself from whatever material is available, and early on the available material is mostly you.
+
+Two things happen at the same moment and they register as one event. A small amount of real material arrives: how somebody talks about their job, what they did when the bill came, the fact that they stayed for the whole afternoon after saying they had an hour. Alongside that, the missing parts get supplied immediately, without being requested, and they arrive already believed. Nothing about the experience marks which parts are which.
+
+Where the supplied parts come from has been measured. Kenny and Acitelli reported in 2001, working with dating and married couples, that much of what looks like reading a partner accurately is better accounted for by assuming that partner resembles you. Those were people in actual relationships, with a steady supply of information about each other available to correct the assumption with. Somebody you have met three times gives that mechanism almost nothing to correct against, which is why the picture that forms manages to be quick and unusually complete at the same time.
+
+The limit belongs next to the finding. That work sat inside established relationships and it was correlational, so carrying it across to a fourth week with somebody new goes further than the study itself ever went. Treat it as a mechanism to check your own two columns against rather than as a measurement of what happened to you in November.
+
+That also settles the word *before* in the question. There is no later point at which you would have known them first and formed an idea second. The forming happens on the way to knowing, continuously, and every new fact arrives into a picture that is already standing.
+
+The content of what gets supplied tends to be oddly practical, and closer to arrangements than to qualities. Who handles the difficult phone call. What the first hour after work looks like. Whether anybody would ask how the interview went. Those answers arrive attached to a face, and the face makes them read as observations about a person rather than as answers to questions you had been carrying by yourself.
+
+There is a consequence and it is smaller than people want it to be. If most of the content came from your side, then studying them harder corrects nothing, and neither does waiting longer before deciding anything. The one operation that separates supplied from observed is writing the two columns further down, once, while the thing is still running.
+
 ## Why Is the Picture Stronger When You Know Less?
 
 Because you are supplying the missing parts, and you supply them from your own preferences rather than at random.
@@ -294,7 +310,7 @@ In this root, the construction is doing nothing except what early attraction doe
 
 The signs of this version are specific and reassuringly dull.
 
-The picture bends when real information arrives. They turn out to be worse at plans than you assumed, and instead of reinterpreting it, you simply update, and the update costs you nothing. The intensity is highest in the first fortnight and measurably lower by the sixth week without any effort on your part. Nothing in your life has narrowed. Your friends see you and you are actually present. And crucially, you can imagine the whole thing ending without dread, because a version of your week exists that does not have them in it.
+The picture bends when real information arrives. They turn out to be worse at plans than you assumed, and instead of reinterpreting it, you simply update, and the update costs you nothing. The intensity is highest in the first two weeks and measurably lower by the sixth week without any effort on your part. Nothing in your life has narrowed. Your friends see you and you are actually present. And crucially, you can imagine the whole thing ending without dread, because a version of your week exists that does not have them in it.
 
 If that is you, there is nothing here to work on, and the most useful thing this page can do is take away a verdict you were handed by other people's writing. The willingness to be moved quickly by somebody counts as one of the more generous things a person can do, and the internet has spent about eight years telling anybody who does it that they have an attachment problem.
 
@@ -328,7 +344,7 @@ An imagined person makes no demands. They have no mood on a Tuesday. They do not
 
 The tells here are behavioral and they are quiet.
 
-The intensity is highest when contact is lowest. A gap of two weeks does not weaken it and often strengthens it, which is the reverse of what happens in the first root. Real meetings produce something like mild anxiety rather than anticipation, and there is often a small relief when one gets cancelled. You find reasons not to close the distance that sound practical and are always available. And when somebody does become properly available, warm, clear, and interested, the whole thing deflates in a way you cannot explain to yourself.
+The intensity is highest when contact is lowest. A gap of two weeks does not weaken it and often strengthens it, which is the reverse of what happens in the first root. Real meetings produce something like mild anxiety rather than anticipation, and there is often a small relief when one gets canceled. You find reasons not to close the distance that sound practical and are always available. And when somebody does become properly available, warm, clear, and interested, the whole thing deflates in a way you cannot explain to yourself.
 
 That deflation is the diagnostic moment, and it is worth sitting with rather than explaining away. If certainty and availability reduce the feeling rather than increasing it, then what was being pursued was never the person.
 
@@ -388,6 +404,8 @@ This is the standard advice, it is given constantly, and watching it fail repeat
 
 By the time you could decide to slow down, the construction has already happened. It happens in the gaps between the conversations, at night, in transit, while doing something else. It uses material you did not consciously select and it presents its results as observations rather than as inventions. There is no moment where you are offered the choice to build less.
 
+There is a measured version of this. Winter and Uleman published *When Are Social Judgments Made? Evidence for the Spontaneousness of Trait Inferences* in the Journal of Personality and Social Psychology in 1984, and what it established is that a judgment about what a person is like forms at the moment their behavior lands, with no intention to judge anybody and no sense afterward of having judged. The limits are plain. That was laboratory work built on written material rather than on anybody meeting a person over three conversations, and one inference about one trait sits a long way below a whole assembled life. What it settles is the timing, and the timing is earlier than any resolution to be careful can reach.
+
 What you can do, having decided to slow down, is add a second track: a running commentary on how you are getting ahead of yourself. That does not brake anything. What it adds is company. The construction continues at full speed with a critic attached, and the critic makes the whole experience slightly worse without altering the output.
 
 The same applies, with more force, to the checklist approach. Learning a list of warning signs about other people does nothing here, because the problem is not that you failed to detect something about them. You detected an ordinary amount. You then supplied the rest, and no checklist about their behavior has any purchase on material generated on your side.
@@ -424,7 +442,7 @@ This is the part people find most disorienting about themselves, and it is worth
 
 Nothing has gone wrong when this happens. Insight is not a control mechanism. Knowing why you are doing something and being able to not do it are separate capacities, and they are located in different places. This is the same reason people can describe their own procrastination with complete accuracy at eleven at night while continuing to do it.
 
-There is a specific trap that arrives at this stage, and it is the reason the phrase at the top of this page is worth taking seriously. When you catch yourself doing it again, an explanation is immediately available and it is charming: *this is just how I am, I am a hopeless romantic*. That sentence closes the question. It sounds like self-knowledge and it functions as a full stop, because a personality trait is not something you look underneath.
+There is a specific trap that arrives at this stage, and it is the reason the phrase at the top of this page is worth taking seriously. When you catch yourself doing it again, an explanation is immediately available and it is charming: *this is just how I am, I am a hopeless romantic*. That sentence closes the question. It sounds like self-knowledge and it functions as a period, because a personality trait is not something you look underneath.
 
 The distinction worth holding onto is between an explanation and a story you can tell yourself so that nothing has to be examined. The first opens something. The second closes it while feeling like the first.
 
@@ -478,7 +496,7 @@ Real information stops being a threat. A remark that does not fit gets filed rat
 
 The disappointment gets smaller and arrives earlier. Instead of a collapse in week six, there is a small adjustment in week two, and it costs almost nothing because less had been built on top of it.
 
-And the second layer goes. You think about somebody far too much for a fortnight and there is no follow-up thought about what kind of person that makes you. That layer was doing most of the damage, and it is usually the first thing to become available.
+And the second layer goes. You think about somebody far too much for two weeks and there is no follow-up thought about what kind of person that makes you. That layer was doing most of the damage, and it is usually the first thing to become available.
 
 ## How Long Does This Take, Honestly?
 

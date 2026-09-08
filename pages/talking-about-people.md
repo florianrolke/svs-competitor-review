@@ -30,7 +30,7 @@ faqs:
 - q: "Why do I only do it in one particular group?"
   a: "Because that group may have no other shared subject. A group formed around a workplace, a school gate or an old friendship sometimes has no live project between the people in it, and other people become the only available topic. Opting out then means having nothing to say, which is socially expensive. The test is whether you do it alone with any single member of that group. Most people find they do not."
 - q: "Is venting about my boss the same thing?"
-  a: "It can be either, and the content will not tell you which. Anger that has no direct route travels sideways to whoever is safe, which is a real mechanism rather than a weakness. The useful question is whether the venting is a step toward saying something to the person, or a substitute that makes saying it unnecessary. Watch what happens in the fortnight afterward and you will have your answer."
+  a: "It can be either, and the content will not tell you which. Anger that has no direct route travels sideways to whoever is safe, which is a real mechanism rather than a weakness. The useful question is whether the venting is a step toward saying something to the person, or a substitute that makes saying it unnecessary. Watch what happens in the two weeks afterward and you will have your answer."
 - q: "How do I tell venting from something worse?"
   a: "Three tests do most of the work. Would you finish the sentence if they walked in mid-way. Will you say a version of it to them within seven days. Did the listener leave the conversation safer or less safe. Ordinary venting usually passes the first, sometimes fails the second harmlessly, and reliably passes the third. The costly version fails all three at once and feels warm while doing it."
 - q: "Why do I say things I would never say to their face?"
@@ -66,7 +66,7 @@ faqs:
 - q: "Is talking about family members the same pattern?"
   a: "The roots are the same and the stakes are higher, because families do not have an exit and the same sentences circulate for decades. The distinctive risk is that a family sorts itself into pairs who discuss the third party, and those alliances harden into fixed positions. If you can name which two people in your family talk about which third, you already know the shape of it."
 - q: "Why do I do it more when I am tired?"
-  a: "Because the second thought is what arrives late, and a tired person runs on the first one. The sentence that gets the laugh is available instantly. The version that keeps the information and drops the verdict takes a moment of assembly you do not have at the end of a long day. This is also why it happens most in the last ten minutes of a call, in car parks, and after the useful part has finished."
+  a: "Because the second thought is what arrives late, and a tired person runs on the first one. The sentence that gets the laugh is available instantly. The version that keeps the information and drops the verdict takes a moment of assembly you do not have at the end of a long day. This is also why it happens most in the last ten minutes of a call, in parking lots, and after the useful part has finished."
 - q: "How do I know which root is mine?"
   a: "Run the seven-day log before changing anything. Each time you talk about somebody absent, write who you were with, one word for what you wanted from it, and how you felt ten minutes later. On day eight read only the middle column. Most people find two or three words repeating: close, safe, better, angry, checking. Those words point at the root far more reliably than picking one from a list."
 - q: "What should I do this week?"
@@ -103,7 +103,7 @@ These are the sentences people run in the car afterward, in the words they use w
 [How the seminar works with the conversations you have about people who are not there](https://florianrolke.com/the-soulsearching-experience/)
 </div>
 
-It is a quarter past nine and you are in a car park, or a hallway, or the last ten minutes of a call after the useful part finished. Somebody said a name. You said the thing back, the sharper version, the one with the observation in it, and the laugh you got was the best thing that happened all evening. Forty minutes later you are still turning it over, and the feeling attached to it has changed into something you would rather not look at directly.
+It is a quarter past nine and you are in a parking lot, or a hallway, or the last ten minutes of a call after the useful part finished. Somebody said a name. You said the thing back, the sharper version, the one with the observation in it, and the laugh you got was the best thing that happened all evening. Forty minutes later you are still turning it over, and the feeling attached to it has changed into something you would rather not look at directly.
 
 This page is about that specific sentence. Not about the people who talk about you, which is a separate subject with a separate remedy and its own long history of bad advice. About the sentence you said, the warmth that arrived with it, and the reason it keeps arriving in weeks when you have privately decided to be somebody who does not do this.
 
@@ -178,7 +178,7 @@ Three more belong elsewhere. If you are the one being systematically talked abou
 
 One more boundary is worth naming carefully. If something you said has already done real damage to somebody's job, marriage or standing, the repair is a practical question with specifics in it, and specifics need a person rather than an article.
 
-Everything below is written for the ordinary and quietly expensive version: the sentence you say in a car park, on a Tuesday, in a life that is otherwise working.
+Everything below is written for the ordinary and quietly expensive version: the sentence you say in a parking lot, on a Tuesday, in a life that is otherwise working.
 
 ## Which Version of This Actually Costs You Anything?
 
@@ -213,7 +213,7 @@ By the fruit it will be known, which holds in an orchard and fails on a person. 
 
 The behavior is a code. The visible act stands in for a reason underneath it rather than being the reason itself, and decoding is a different activity from describing. You can describe your own behavior here exhaustively, catalogue every conversation for a month, count the sentences and rank them by unkindness, and still be standing on the surface of it.
 
-Here are the roots I see most often producing the identical sentence, in the identical car park, in people whose behavior looks interchangeable from outside.
+Here are the roots I see most often producing the identical sentence, in the identical parking lot, in people whose behavior looks interchangeable from outside.
 
 | The root | What the sentence is buying | How you would know it is this one |
 |---|---|---|
@@ -281,7 +281,7 @@ This root has a distinctive shape.
 
 That last tell separates this root from the closeness one more reliably than anything else. If what you wanted was alliance, agreement completes the transaction. If what you are carrying is an unaddressed grievance, agreement takes away the last reason to address it, and some part of you registers that as a loss.
 
-The practical move here is unglamorous and it works. Write the sentence you would have to say to the actual person for the charge to drop. One sentence, not a case. Most people find it is short, specific, and has been waiting several months. Whether you then say it is a separate decision, and a real one. But a sentence that exists on paper stops needing to be rehearsed in car parks. [Anger with nowhere legitimate to go has a page of its own](/insights/how-to-deal-with-anger/), and [so does the slow accumulation of grievances that were never said out loud](/patterns/resentment/).
+The practical move here is unglamorous and it works. Write the sentence you would have to say to the actual person for the charge to drop. One sentence, not a case. Most people find it is short, specific, and has been waiting several months. Whether you then say it is a separate decision, and a real one. But a sentence that exists on paper stops needing to be rehearsed in parking lots. [Anger with nowhere legitimate to go has a page of its own](/insights/how-to-deal-with-anger/), and [so does the slow accumulation of grievances that were never said out loud](/patterns/resentment/).
 
 ## What Do You Talk About in a Group Whose Only Shared Language Is Other People?
 
@@ -360,11 +360,11 @@ So the flatness is your own instrument, and it is more accurate than your reason
 
 ## Is "I Was Just Venting" an Explanation or an Excuse?
 
-Both sentences sound identical, and the difference only shows up in what happens over the following fortnight.
+Both sentences sound identical, and the difference only shows up in what happens over the following two weeks.
 
 This distinction matters more than almost anything else here, so I want to make it carefully. We want to make the distinction between giving something an explanation and turning it into a story, so we have an excuse. The same words, containing exactly the same true facts, can do either job.
 
-An explanation gets used. You work out that the sentence in the car park was buying fast closeness with somebody whose opinion of you was unsettled, and that understanding changes something on Thursday. You say a true thing about yourself early instead, in a room where you would normally have supplied a verdict about somebody else, and you watch what the conversation does. The explanation earned its place by pointing at an action.
+An explanation gets used. You work out that the sentence in the parking lot was buying fast closeness with somebody whose opinion of you was unsettled, and that understanding changes something on Thursday. You say a true thing about yourself early instead, in a room where you would normally have supplied a verdict about somebody else, and you watch what the conversation does. The explanation earned its place by pointing at an action.
 
 A story gets told. You work out exactly the same thing, and it becomes a line. To your partner, when they ask why you were like that at dinner. To yourself, at the moment the name comes up, as the thing that makes the next sentence permissible. It is accurate, it is well put, it may be genuinely insightful, and its function is that nothing has to change. It sounds precisely like self-awareness while doing the opposite work.
 
@@ -406,7 +406,7 @@ More than the occasional bad evening, and in four places most people have never 
 
 **It freezes the relationship with the person you were talking about.** Every sentence said elsewhere is a sentence that no longer has to be said to them. The pressure that would eventually have forced a difficult and useful conversation gets released somewhere harmless, and the relationship stays exactly where it is for years. Most long-running resentments in workplaces and families are being maintained, not resolved, by exactly this route. [The slow accumulation of things never said to the person they belong to has its own page.](/patterns/resentment/)
 
-There is a fifth, and it lands last because it is the one that stings. What you have been buying is the cheapest imaginable version of the thing you actually want. Ten minutes of alliance, funded by somebody who is not in the room, paid for with a small deposit against your own reputation and a piece of evidence you keep about your own character. If somebody described that exchange rate to you in any other currency you would decline it flatly. You accept it in the car park because in the car park it is the only offer on the table.
+There is a fifth, and it lands last because it is the one that stings. What you have been buying is the cheapest imaginable version of the thing you actually want. Ten minutes of alliance, funded by somebody who is not in the room, paid for with a small deposit against your own reputation and a piece of evidence you keep about your own character. If somebody described that exchange rate to you in any other currency you would decline it flatly. You accept it in the parking lot because in the parking lot it is the only offer on the table.
 
 ## Why Does Deciding to Stop Move the Problem Somewhere Else?
 
@@ -478,7 +478,7 @@ Describing only the costly end of a pattern leaves somebody with an accurate acc
 |---|---|---|
 | The room warms up when you sharpen a sentence | The room warms up when you say something true about yourself | Four minutes into a coffee, you mention the thing that actually went wrong for you |
 | You find out where you stand by comparison | You have one measure that is yours | A number written down on Sunday that nobody has to be below |
-| Anger arrives in a car park with the wrong person | Anger arrives in one sentence, addressed correctly | Written at nine, said on Thursday, or deliberately not said and closed |
+| Anger arrives in a parking lot with the wrong person | Anger arrives in one sentence, addressed correctly | Written at nine, said on Thursday, or deliberately not said and closed |
 | A group with no subject but people | A group with one question in it | "What are you working on" asked twice, which changes an evening more than it should |
 | You ask five people whether you overreacted | You ask one, and stop | One friend, one conversation, and the subject closes either way |
 | The second telling drifts sharper | There is no second telling | Said once, and the seven-day rule handles the rest |
@@ -515,7 +515,7 @@ Shifting it takes months, because it moves at the pace of your actual rooms rath
 
 Expect the middle part to feel wrong. You cut out the things that feel good for the moment and are not good for you longer term, you go through the withdrawal in the beginning, and then you find out it is actually not that hard once you commit. It feels like there is something missing in the meantime, and that is always the case. What most people report is that the missing thing turns out to be much smaller than it felt, and that the conversations which replaced it were better than the ones they gave up.
 
-It also comes back in patches, and it comes back first in the weeks you are already struggling, when your standing feels least settled and the fast route to closeness is most attractive. That is not proof that nothing took. A pattern that was built as a solution returns whenever the conditions it solved for return, and a difficult fortnight reproduces those conditions faithfully.
+It also comes back in patches, and it comes back first in the weeks you are already struggling, when your standing feels least settled and the fast route to closeness is most attractive. That is not proof that nothing took. A pattern that was built as a solution returns whenever the conditions it solved for return, and a difficult two weeks reproduces those conditions faithfully.
 
 That is a slow answer, and I would rather hand you a slow true one than a fast route that does not exist. Life becomes incredibly simple if you simplify it, though simple and easy are different things, because we get caught up with all of the strangest things that can be in a life. The basics are short enough to count on one hand: what you eat, moving your body, sleeping, and time with the people closest to you. This particular behavior sits directly on top of the last of those four, which is why something that looks like a minor social habit turns out to be worth more attention than its size suggests.
 

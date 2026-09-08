@@ -215,7 +215,7 @@ The test takes seven days and it is genuinely diagnostic. Four columns: the hour
 
 The repair for this root is unglamorous and specific. A defended interval between the last performance and the first family sentence, which can be twelve minutes and has to be actual rather than intended. A rule that the first ten minutes contain no logistics questions, agreed out loud rather than assumed. And an honest look at whether your day contains any point at all where the display comes off, because a day with no such point will keep producing this outcome no matter what you understand about yourself.
 
-One thing worth saying, because it is the difference between a repair that holds and one that collapses in a fortnight. This is not a recommendation to look after yourself better, which you have heard and which converts into nothing. It is a claim that a specific interval is missing from a specific hour, and that inserting it is a logistics job.
+One thing worth saying, because it is the difference between a repair that holds and one that collapses in two weeks. This is not a recommendation to look after yourself better, which you have heard and which converts into nothing. It is a claim that a specific interval is missing from a specific hour, and that inserting it is a logistics job.
 
 ## What If Home Is the Only Room Where You Are Allowed to Be Honest?
 
@@ -395,7 +395,7 @@ Two speeds, and confusing them is the most common reason people quit in the four
 
 The repair is trainable in weeks. It is a concrete behavior with an obvious trigger, several opportunities every week, and no requirement to feel any particular way while doing it. Most people who commit to repairing every occurrence, without exception and without waiting to feel ready, see the gap shorten substantially inside a month, and the improvement shows up in what they did rather than in what they felt.
 
-The tone moves on the schedule of whatever installed it. If it is a load problem, it can move in a fortnight, which is why the load root is worth testing first. If it is inherited procedure, expect years, and expect it to fade unevenly, so that somebody can go four months without an incident and then produce the exact phrasing of a parent in a kitchen on a Sunday because the setting matched too closely.
+The tone moves on the schedule of whatever installed it. If it is a load problem, it can move in two weeks, which is why the load root is worth testing first. If it is inherited procedure, expect years, and expect it to fade unevenly, so that somebody can go four months without an incident and then produce the exact phrasing of a parent in a kitchen on a Sunday because the setting matched too closely.
 
 Expect it back under particular conditions, and expect that to feel like losing everything. Illness. A stretch where nothing else is certain. Any period with no interval in it anywhere. The return of the tone under those conditions is the return of the conditions, and the thing to check is whether the repair still happens, because that is the part you built.
 

@@ -53,7 +53,7 @@ faqs:
     your own footing goes with it. Wanting connection as one good thing among several
     looks very different from needing it continuously in order to feel like yourself.'
   q: Is it codependent to want your partner to check in with you?
-- a: Because the emptiness you anticipate afterwards reads as more dangerous than
+- a: Because the emptiness you anticipate afterward reads as more dangerous than
     the ongoing cost of staying, and anticipation is what a nervous system actually
     responds to. Where aloneness was never practiced as an ordinary survivable state,
     the quiet apartment is a genuine unknown, and an unknown outranks a known cost
@@ -176,11 +176,11 @@ faqs:
   q: Is codependency an addiction?
 - a: Because the word was coined in that setting. It came out of the alcohol treatment
     world of the late 1970s and early 1980s, where attention widened from the drinker
-    to the family reorganising itself around the drinking. The idea then traveled
+    to the family reorganizing itself around the drinking. The idea then traveled
     far beyond alcohol, which is where the confusion starts, since plenty of people
     carrying this pattern have never lived anywhere near a substance problem.
   q: Why is codependency so often discussed alongside addiction?
-- a: One person can carry it alone. The pattern lives in how one person organises
+- a: One person can carry it alone. The pattern lives in how one person organizes
     their own stability around another, and the other party may be entirely ordinary,
     unaware of the arrangement, and doing nothing to invite it. Two-sided versions
     exist and are common, where each person manages the other and both call it closeness.
@@ -224,7 +224,7 @@ faqs:
   q: What does detaching mean, and is it the same as giving up on someone?
 - a: Skip the label. Telling somebody they are codependent hands them a word to argue
     with and usually costs you the conversation. What helps more is staying available
-    on a rhythm they cannot destabilise, asking what they want rather than what they
+    on a rhythm they cannot destabilize, asking what they want rather than what they
     think their person wants, and noticing out loud when they decide something alone.
     Keep inviting them after they cancel. The relationship they are in holds partly
     because nothing else stayed.
@@ -233,7 +233,7 @@ faqs:
     aloneness and other people's moods, and reflexes travel. People often leave, spend
     a period genuinely convinced the problem was the other person, then find the same
     arrangement rebuilding itself with somebody new inside a year. Leaving can create
-    the room for change, and the repetitions afterwards are what actually change anything.
+    the room for change, and the repetitions afterward are what actually change anything.
   q: Does codependency go away if the relationship ends?
 intent: research
 metaTitle: What Is Codependency?
@@ -294,7 +294,7 @@ The second cluster sounds like it belongs to a completely different person:
 - "Showing dependency is a sign of weakness."
 - "I can't let others dominate me in decisions."
 
-Read both lists slowly, then read them again as the property of one person inside a single week, because that is usually where they live. The same person who cannot finalise a restaurant booking without a second opinion will also refuse help carrying something heavy up three flights of stairs, and will experience both moves as entirely reasonable at the time.
+Read both lists slowly, then read them again as the property of one person inside a single week, because that is usually where they live. The same person who cannot finalize a restaurant booking without a second opinion will also refuse help carrying something heavy up three flights of stairs, and will experience both moves as entirely reasonable at the time.
 
 Notice how few of these sound needy. From the inside this pattern registers as consultation, consideration, being a good partner, being the one who thinks things through. Almost nobody experiences it as dependency while it is happening, which is a large part of why it can run for twenty years without ever being examined. Nobody goes looking for help with being thoughtful about other people.
 
@@ -308,7 +308,21 @@ Dependency creates a power imbalance, and a power imbalance is precisely what so
 
 There is a quieter version worth naming because people in it rarely think it applies to them. Loneliness can be used as a lever. Somebody who offers the illusion of belonging to a person who has been short of it for years can create dependency deliberately, then trade on it, and the target of that will usually defend the arrangement long after friends have stopped raising it. [The specific moves involved have their own page](/patterns/emotional-manipulation/), and reading them described plainly is often the moment something clicks.
 
-The third line is about what the years may already have cost. A flatness that has not lifted for months, sleep that has been broken since spring, an addiction you are managing quietly, a diagnosed condition you are currently living with, or any thought of harming yourself belongs with a clinician rather than with a self-directed practice. Everything below is built for the everyday version of this pattern: the decision that stayed open until somebody weighed in, the evening reorganised around a tone of voice. Asking for help in month one costs far less than asking in month twelve.
+The third line is about what the years may already have cost. A flatness that has not lifted for months, sleep that has been broken since spring, an addiction you are managing quietly, a diagnosed condition you are currently living with, or any thought of harming yourself belongs with a clinician rather than with a self-directed practice. Everything below is built for the everyday version of this pattern: the decision that stayed open until somebody weighed in, the evening reorganized around a tone of voice. Asking for help in month one costs far less than asking in month twelve.
+
+## What Is Codependency in Plain Language?
+
+One relationship is holding up your stability, and you are the one holding up the relationship.
+
+That is the whole of it in a sentence. The longer version has three parts. Your sense of being okay lives in one particular person rather than in you. Your decisions stay provisional until that person has weighed in. And a large share of your effort goes into managing how they are doing, because how they are doing sets how you are doing.
+
+The word itself has a history, and knowing it explains why it fits some people awkwardly. It came out of the twelve-step and chemical-dependency world of the early 1980s, where it started as a name for the people arranged around somebody who drank: the partner who smoothed things over, the child who covered for a missed shift. From there it widened to cover almost any relationship organized around managing another person, and it widened fast, which is how a working term for one specific arrangement ended up describing half the reading public.
+
+That speed left the word loose, and the research literature says so plainly. A 2005 thematic analysis by Dear and colleagues took 11 published definitions of codependency and looked for what they actually shared, and found four elements running through all of them: focusing outward onto other people, self-sacrifice, attempting to control other people, and suppressing your own emotions. Their conclusion carried a limit that popular writing on the term almost always drops. Arriving at a clear definition, they wrote, shows that the people describing it had converged on a picture, and shows nothing about whether the thing described exists as a clinical category.
+
+So the honest use of the word is descriptive. It names a shape, accurately and usefully, and it explains nothing about why you have that shape. The four elements above will feel familiar or they will not, and either answer is information you can use. What the word cannot do is tell you which of the roads further down you came in on, and the roads are where anything actually changes.
+
+The word does not name generosity, and it does not name loving somebody more than is currently fashionable. [Whether what you have is the pattern or ordinary deep care](/patterns/why-am-i-always-the-one-who-cares-more/) turns out to have a cleaner answer than most people expect.
 
 ## Is This Codependency, or Do You Simply Care About Somebody a Lot?
 
@@ -321,6 +335,8 @@ Here is the cleanest test available, and it takes about ten seconds. Ask what wo
 Dread on that question convicts nobody of anything. Plenty of people feel it about one relationship and nothing like it about the other four, which is useful information rather than a verdict. What it tells you is where the load is sitting.
 
 The confusion between the two is honest, because codependent behavior and generous behavior look identical from the outside and often are identical in content. The meals get cooked. The lifts to the airport happen. The 2am phone call gets answered. None of that is fake, and the generosity is real generosity. What separates them is whether any of it could be declined. Support that can be declined without either person's world tilting is one thing. Support that has become the load-bearing wall of somebody's stability is another, and from the inside they feel almost exactly the same until something asks you to stop.
+
+There is a measurement answer to this as well. Marks and colleagues built and validated the Composite Codependency Scale in 2011, and its 19 items sorted, across 301 adults drawn from the general population, into three factors: self-sacrifice, interpersonal control, and emotional suppression. Caring for somebody appears nowhere among the three. The honest limit is that a scale scoring degrees of a contested construct marks no point along it where ordinary care ends, so nothing in that work draws your line for you.
 
 One necessary caveat. Some people are genuinely dependent: a disabled child, a parent with dementia, a partner recovering from surgery. Caring for them intensively is caregiving rather than codependency, and describing it as a pattern to be corrected would be both wrong and cruel. The question in those situations is narrower and still worth asking, which is what happens to you in the hours when the care is not needed, and whether anything of yours has survived in there at all.
 
@@ -337,7 +353,9 @@ From at least six different childhood roads, all of which arrive at the same adu
 
 Most people recognize two or three of these rather than one, and the roads compound rather than compete. None of them require a villain. Several of the homes described above would have been rated as loving by everybody inside them, including by the child, including now.
 
-## What Is the Dependency Actually Protecting You From?
+## Why Do I Feel Responsible for Managing Another Person's Mood?
+
+Because managing it was once what kept an evening from going wrong, and the reflex outlasted the house it was learned in. A second question sits directly underneath that one, which is what the dependency is actually protecting you from.
 
 From standing behind a decision, or an evening, with nobody else's fingerprints on it.
 
@@ -354,9 +372,9 @@ In a set of moves that mostly get praised.
 | What it looks like from outside | What is actually happening | The sentence underneath |
 |---|---|---|
 | Talking a decision through with your partner | The decision stays open until their reaction has been read, even when it only affects you | "I hope I'm making the right decision; I really need someone to tell me it's okay." |
-| Being attentive during their difficult week | An afternoon reorganised around a mood, from the sound of a voice on the phone, before anybody has asked for anything | "If I can keep them level, the day stays safe." |
+| Being attentive during their difficult week | An afternoon reorganized around a mood, from the sound of a voice on the phone, before anybody has asked for anything | "If I can keep them level, the day stays safe." |
 | Being unusually easy to get along with | Disagreement removed pre-emptively, so your own preference never enters the room | "Avoiding the argument matters more than the thing I wanted." |
-| Loyalty through a hard stretch | Staying somewhere you can privately admit stopped working, because the quiet apartment afterwards outweighs the daily cost | "I would rather have this than nothing." |
+| Loyalty through a hard stretch | Staying somewhere you can privately admit stopped working, because the quiet apartment afterward outweighs the daily cost | "I would rather have this than nothing." |
 | A slightly anxious texter | A physical alarm at three hours of silence, arriving before any thought does | "Something has changed and nobody has told me." |
 | Fierce independence, handling everything alone | The identical fear wearing the opposite strategy | "Dependency is a weakness I cannot afford." |
 
@@ -376,7 +394,7 @@ Anyone reading their own relationships through the attachment vocabulary will re
 
 ## Is It Codependency, Enmeshment, Parentification, or Something Else Entirely?
 
-Four neighbouring patterns get confused with this one constantly, and each has a real line.
+Four neighboring patterns get confused with this one constantly, and each has a real line.
 
 | Pattern | What it describes | Where the line actually sits |
 |---|---|---|
@@ -460,7 +478,9 @@ The tell is genuinely subtle from outside, and this is the part most description
 
 Don't judge yourself if the right-hand column reads as slightly out of reach today. The distance between the two columns took decades to build, and nobody crosses it in an afternoon.
 
-## What Actually Moves It?
+## How Do I Become Less Codependent Without Becoming Cold?
+
+Warmth stays exactly where it is. What changes is the number of decisions you finish on your own before anybody hears about them, and what actually moves it is this.
 
 A track record of your own judgment holding up without a second signature, accumulated slowly, in circumstances small enough that you will actually complete them.
 
@@ -507,4 +527,4 @@ Run a sign-off log for forty-eight hours. Open a note on your phone and write do
 
 Then read it on the second night. Most people find that the great majority say no, which is the useful part, because it means the checking was doing something other than gathering information. Pick the smallest item on that list, the one that genuinely does not matter, and do that one alone tomorrow, unmentioned for a day. Notice what shows up in your body around the six-hour mark. That is the whole practice in miniature, it costs nothing, and it works whether or not you ever go anywhere or pay anybody.
 
-If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly organises themselves around everybody else cannot disappear inside it, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning that your own judgment holds up without a second signature is rarely wasted, whatever you decide about anybody else.
+If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly organizes themselves around everybody else cannot disappear inside it, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning that your own judgment holds up without a second signature is rarely wasted, whatever you decide about anybody else.

@@ -350,13 +350,13 @@ The first is the shame of being seen as needy. In the original environment, havi
 
 The second is the role. If your place was secured by being useful, capable, or undemanding, then attending to yourself feels like risking the thing that bought you your place. That fear rarely arrives as a thought. It arrives as a reflexive no, half a second before any consideration happens, when someone offers to help.
 
-The third is the stillness itself, and this one is the least obvious. Redirecting all attention outward means never creating the quiet in which something might surface: the tiredness, the resentment, the years of unmet needs that were suppressed for a reason. A permanently full calendar is an excellent way of never finding out what is underneath it. This is why the busiest people in this pattern often become strangely agitated on the second day of a holiday.
+The third is the stillness itself, and this one is the least obvious. Redirecting all attention outward means never creating the quiet in which something might surface: the tiredness, the resentment, the years of unmet needs that were suppressed for a reason. A permanently full calendar is an excellent way of never finding out what is underneath it. This is why the busiest people in this pattern often become strangely agitated on the second day of a vacation.
 
 Seen that way, self-neglect is doing something protective and doing it efficiently, which is why arguing with it has never worked for anybody. What you are up against is a solution that worked, still running long after the conditions that required it went away.
 
 ## Where Does It Hide When You Would Not Call It Neglect?
 
-In seven arenas, and most people recognize themselves in two or three at first before the rest arrive uncomfortably later.
+In eight arenas, and most people recognize themselves in two or three at first before the rest arrive uncomfortably later.
 
 | Arena | What it looks like from outside | What is actually happening |
 |---|---|---|
@@ -367,8 +367,11 @@ In seven arenas, and most people recognize themselves in two or three at first b
 | Rest | Never stops, incredibly reliable | Rest requires an excuse: illness, or exhaustion undeniable enough that nobody could accuse you of dropping something |
 | Emotional needs | Steady, unbothered, easy company | Connection, enjoyment and anything with no productive justification get deferred until the work is done, and the work is never done |
 | Receiving | Modest, self-sufficient | Compliments and offers of help get deflected on reflex, before any thought about whether you wanted them |
+| Your own field | Highly capable, the person everyone brings it to | The method you run for other people, and run well, has never once been pointed at anything of your own, and nobody has ever thought to ask why |
 
-There is an eighth tell that lives in conversation rather than in a domain. Somebody asks how you are doing, and the answer that comes out is a report on somebody else: how your partner's week went, how your mother is recovering, how the team is holding up. Almost nobody notices themselves doing this, because it is socially perfect. It sounds like caring about other people, which is precisely what makes it invisible.
+There is a ninth tell that lives in conversation rather than in a domain. Somebody asks how you are doing, and the answer that comes out is a report on somebody else: how your partner's week went, how your mother is recovering, how the team is holding up. Almost nobody notices themselves doing this, because it is socially perfect. It sounds like caring about other people, which is precisely what makes it invisible.
+
+Your own field is the arena where an ordinary suggestion has nothing to land on, because the person it would be addressed to is the person who normally makes it. Nobody in this arena is short of knowing what to do. You can lay out a sensible order of operations for somebody else while they are still describing the situation, and you have done it, for people who went home and used it. Two questions follow from that, and both are answered elsewhere. [Why what you see so easily in someone else's version does not carry across to your own](/patterns/why-insight-doesnt-change-anything/) is one, and [why anything of yours arrives with no receiver, no deadline and nothing that would count as finished](/patterns/abandoning-things-at-ninety-percent/) is the other. Neither gets argued again here. The harder point is this: the instruction and its audience are one person, and you do not get to be only the one advising.
 
 The rest row deserves its own note, because rest in this pattern needs a permission slip signed by circumstance. Being genuinely unwell counts. A canceled flight counts. Simply wanting an afternoon does not, and if you have ever caught yourself half hoping for a mild illness so that stopping would be allowed, that is this exact mechanism showing itself.
 
@@ -396,11 +399,11 @@ There is a version of this that is worth saying gently. If you have gone years w
 
 Because a body running on vigilance holds a great deal at bay until the demand passes, and then stops holding.
 
-The pattern is familiar to almost everyone who has lived through an intense period: the project finishes, the exams end, the family crisis resolves, the holiday finally starts, and within forty-eight hours you have a fever, a migraine, or a back that has decided it is done. It is easy to read that as bad luck, or as evidence that your body is unreliable, or as proof that rest itself makes you fragile.
+The pattern is familiar to almost everyone who has lived through an intense period: the project finishes, the exams end, the family crisis resolves, the vacation finally starts, and within forty-eight hours you have a fever, a migraine, or a back that has decided it is done. It is easy to read that as bad luck, or as evidence that your body is unreliable, or as proof that rest itself makes you fragile.
 
 What is more likely happening is that the symptoms were being deferred along with everything else. Attention and physical resources were allocated to getting through, and getting through was, in the original household, the only condition under which a body was allowed to be a problem at all. Once the pressure lifts, the deferral ends.
 
-This has an unfortunate side effect. Getting sick on the first day of every holiday teaches the wrong lesson, which is that stopping is dangerous, and quietly makes the next stretch of overextension easier to justify. The more useful reading is that the crash is a bill arriving, and bills arrive whether or not you were watching the account. [If the tiredness underneath all of this has stopped responding to sleep at all, that is its own distinct thing.](/patterns/emotional-exhaustion/)
+This has an unfortunate side effect. Getting sick on the first day of every vacation teaches the wrong lesson, which is that stopping is dangerous, and quietly makes the next stretch of overextension easier to justify. The more useful reading is that the crash is a bill arriving, and bills arrive whether or not you were watching the account. [If the tiredness underneath all of this has stopped responding to sleep at all, that is its own distinct thing.](/patterns/emotional-exhaustion/)
 
 ## Why Does Being Called Low Maintenance Make It Worse?
 

@@ -32,7 +32,7 @@ faqs:
 - q: "Can you be confident and still wait for permission?"
   a: "Yes, and that combination is the most commonly missed version of this. Somebody can be the best-prepared person in the room, know it without arrogance, describe exactly how they would do the thing, and still be waiting for a signal that never comes. The competence question was settled years ago. The authorization question was never opened."
 - q: "What is learned helplessness, and did the theory change?"
-  a: "It began with experiments in 1967 describing animals that stopped attempting escape after uncontrollable shocks. Its own authors revised it twice. In 1978 they added the way a person explains events, and in 2016 Maier and Seligman published a correction saying the original mechanism ran backwards: passivity under prolonged uncontrollable conditions is the unlearned default, and what actually gets learned is the detection of control."
+  a: "It began with experiments in 1967 describing animals that stopped attempting escape after uncontrollable shocks. Its own authors revised it twice. In 1978 they added the way a person explains events, and in 2016 Maier and Seligman published a correction saying the original mechanism ran backward: passivity under prolonged uncontrollable conditions is the unlearned default, and what actually gets learned is the detection of control."
 - q: "Is it true that women only apply for jobs when they meet every requirement?"
   a: "The famous figure has no traceable study behind it. It comes from an internal company report described in a book, repeated ever since as though it were research. Mohr surveyed readers in 2014 and found something more useful: the most common reason people gave for not applying was a belief about the rules of applying rather than a belief about their ability."
 - q: "Why do I ask people who cannot actually authorize me?"
@@ -247,7 +247,7 @@ And a chaotic household can produce it too, in a specific way: when adult attent
 
 The useful news about this root is that it is the most trainable of the five. It is a missing repetition rather than a belief, and repetitions can be added, starting deliberately small, in areas where the cost of a bad first move is trivial.
 
-## What If the Person Whose Blessing You Want Cannot Give It?
+## Why Am I Still Waiting for Approval From a Parent Who Cannot Give It?
 
 Some waits cannot end on their own terms, and this needs saying plainly rather than gently, because the gentle version leaves people waiting.
 
@@ -256,6 +256,8 @@ There is a particular version of this behavior where the permission is addressed
 And the permission cannot arrive, for one of a few reasons.
 
 They have died. This is the hardest version and the most common one people carry silently. Everything you build is, at some level, being built toward a verdict that no longer has anywhere to arrive. You may notice yourself imagining what they would say. You may notice that you never quite get to a version of the imagined conversation that satisfies.
+
+Bereavement research has a described finding worth putting here plainly, because it changes what that imagined conversation means. Keeping an ongoing inner relationship with somebody who has died, including still running their voice over your own decisions years afterward, is the ordinary case rather than a sign that grieving has gone wrong. It sits on this page as a description assembled from interviews rather than as one researcher's measured result, and it settles nothing about whether your particular version is comforting you or holding the wait open.
 
 Or they are alive and were never capable of it. Some people simply do not give that kind of recognition, to anybody, ever. Waiting for it from somebody constitutionally unable to produce it can absorb decades, and each disappointment gets read as evidence that you have not done enough yet, rather than as evidence about them.
 
@@ -271,11 +273,11 @@ This is the root that costs the most, and it is the one that has to be named wit
 
 An unstarted thing has a property that a started thing can never get back. It is still possible. The plan is excellent, in a way that no executed version will ever be, because execution introduces reality and reality is where things get worse. As long as it has not begun, you are a person with a good plan and a legitimate reason for delay. The day after it begins, you are a person with results.
 
-Nobody chooses this, and nobody makes the decision and then hides it. The arrangement assembles itself out of a series of individually sensible-looking judgments, each of which produces a delay with a respectable reason attached. And permission is the best available reason, because it locates the cause outside you entirely. Not starting because you are frightened is a thing you would have to look at. Not starting because you have not been given the go-ahead is a queue you are politely standing in.
+Nobody chooses this, and nobody makes the decision and then hides it. The arrangement assembles itself out of a series of individually sensible-looking judgments, each of which produces a delay with a respectable reason attached. And permission is the best available reason, because it locates the cause outside you entirely. Not starting because you are frightened is a thing you would have to look at. Not starting because you have not been given the go-ahead is a line you are politely standing in.
 
 The recognition test for this root is a question worth reading slowly. If somebody you unambiguously respected turned to you tomorrow and said, clearly and without qualification, that you should go ahead, would you go ahead?
 
-Most people know their answer within a second, and for a significant number of them the honest answer is no, followed immediately by a new condition. It would need to be the right time of year. There would be one more thing to sort out first. That new condition is the mechanism showing itself, because permission was never the constraint. If it had been, the permission would have worked.
+Most people know their answer within a second, and for a significant number of them the honest answer is no, followed immediately by a new condition. It would need to be the right time of year. There would be one more thing to work out first. That new condition is the mechanism showing itself, because permission was never the constraint. If it had been, the permission would have worked.
 
 The relief you feel when something delays you is the other reliable signal. When a client pushes a meeting, when a course you were waiting on gets rescheduled, when a family event eats the month you had earmarked, watch what happens in your body. Genuine impatience produces frustration. This produces a small, quiet, unmistakable relief, and that relief is the most honest piece of information you have about the whole situation.
 
@@ -296,9 +298,11 @@ By what happens in specific situations rather than by which description sounded 
 
 The bottom two rows do most of the work. If encouragement changes nothing and delay produces relief, the last column is in play regardless of what else is true, and it will keep producing new conditions no matter how many of the other four you resolve.
 
-## What Actually Separates a Required Permission From an Imagined One?
+## How Can I Tell Whether My Manager's Permission Is Truly Required?
 
 One question, asked about a named person: if they refused, what would actually happen?
+
+That works on a manager and it works on everything else built to the same shape, which is why the answer here also settles a landlord, a licensing body, a co-owner, a client or a parent. What actually separates a required permission from an imagined one is one property, and it is the same property every time.
 
 This is the whole discrimination, and it is more useful than any amount of encouragement because it produces a different answer in different situations rather than the same answer everywhere.
 
@@ -317,13 +321,15 @@ An imagined authority has no lever. If they said no, nothing would change except
 
 Run that on your own situation and the outcome tends to be one of three. Sometimes there is a real authority who has never been asked, and the work is a specific, dated, unambiguous question put to them. Sometimes there is no authority at all, and the work is the harder recognition below. And sometimes both are true in different areas at once, which is the most common result and the reason blanket advice on this subject fails so reliably.
 
-## Why Does Watching Someone Less Prepared Get It Sting in That Particular Way?
+## Why Does It Sting When Someone Less Prepared Starts Before Me?
 
 Because their result carries a piece of information about the rules you have been following, and the information arrives before any of your explanations do.
 
 The sting is quite specific and worth taking apart, because most people misread it as envy and then feel ashamed of being envious, which buries the actual signal.
 
 You were not out-prepared. You know your material was better and you are almost certainly right. You were not beaten on merit, which is why the ordinary consolations do not touch it. What happened is that they treated the thing as available and you treated it as pending, and the world did not correct either of you.
+
+There is a described distinction here that explains why the word envy fits so badly. Two different experiences travel under it. One pulls you toward the thing the other person has and raises your own effort. The other pulls you away from the person. English collapses both into a single word, which is part of why the feeling is so hard to name accurately from inside it. That split, and the studies behind it, sit on the page about [going quiet when other people succeed](/patterns/going-quiet-when-others-succeed/). Its main limit is worth carrying with it: a fair amount of the evidence rests on languages that happen to have two separate words where English has one.
 
 Notice what your mind does in the following seconds, because it is fast and it is automatic. The reasons arrive. They knew somebody. The timing happened to suit them. It is going to be a mess and somebody will have to fix it. Their version is much cruder than yours would have been. Any of those may be perfectly true, and true is beside the point, because the function of the thought is to explain away the one fact you cannot afford: that nobody authorized them either.
 
@@ -346,6 +352,26 @@ And it fails hardest on the fifth root, where the person is using permission as 
 What replaces it is less satisfying and more usable. Find out whether there is a lever and who holds it. Where there is one, ask, in a form that can return a no, by a date. Where there is not one, the honest move is to stop looking for a signal that has no sender, which is not liberating and does not feel good and works anyway.
 
 There is one more thing worth putting plainly, because encouraging pages tend to skip it. No behavior happens for no reason, and the lack of behavior that would take you there does not happen for no reason either. There is something the wait is doing for you. Working out what it does is more valuable than any amount of reassurance about your abilities, which you probably were not doubting in the first place.
+
+## Why Do I Keep Waiting for Someone to Tell Me I Can Start?
+
+Because each conversation resets the clock instead of ending the wait, and a reset feels almost exactly like progress.
+
+This is the part that is hardest to explain to anybody watching. Being stuck once would be one thing. What actually runs is a loop with a very short cycle. You speak to somebody. It goes well. You come away lifted, clearer, briefly certain that the thing is going to happen. And within about a day, sometimes within an afternoon, you are back at the beginning with a new name in mind for the next conversation.
+
+The loop runs on a substitution. What you needed was authorization and what you received was encouragement, and the two feel adjacent for roughly the length of the walk back to the car. Encouragement is somebody's opinion about you. Authorization is somebody taking on part of the consequence. Nobody in any of those conversations took on part of the consequence, because you never put a question in front of them that would have required it, which is why the lift had nothing holding it up.
+
+There is a second reason the cycle repeats and it is less comfortable. The loop is doing useful work. Each conversation buys a week, and it buys it honestly, with a reason anybody would accept. You are being thorough. You are gathering perspective. Nothing about that week has to be defended to anybody, including you, and that is the difference between this and an ordinary stall you would have noticed and felt bad about.
+
+Three questions tend to break the loop open, and they are worth answering on paper rather than in your head.
+
+**What answer could this person give that would change what I do on Monday?** If there is none, you were not going to an information meeting.
+
+**Does this person carry any part of the consequence if it goes badly?** If not, whatever they say is a comment, and comments do not authorize.
+
+**How many of these conversations have I already had about this specific thing?** Write the number down. People who count are usually surprised by it, and that number is the most honest available description of the last stretch of your life.
+
+The loop does not close because you finally had a better conversation. It closes when a real question gets put to somebody who can answer it, or when you accept that no such person exists for this particular thing and go anyway. Both endings are uncomfortable. Neither of them requires one more meeting first.
 
 ## Is This Waiting for Permission, or One of the Things It Gets Confused With?
 
@@ -377,7 +403,7 @@ In several places that look like virtues, which is why the pattern can run for a
 
 **In the future tense.** You talk about the thing warmly and often, always in a tense that places it ahead of you. People who know you would say you are working on it. You are talking about it, which is a different activity and produces almost identical social results.
 
-**In tidy conditions.** After the winter. Once the youngest starts school. When the current contract ends. Each one is reasonable. What makes them a pattern is that the previous condition was met and a new one appeared within about a fortnight.
+**In tidy conditions.** After the winter. Once the youngest starts school. When the current contract ends. Each one is reasonable. What makes them a pattern is that the previous condition was met and a new one appeared within about two weeks.
 
 ## What Does the Moment Feel Like When You Learn No One Is Coming?
 
@@ -405,6 +431,40 @@ The third is the account you keep of yourself, and it is the heavy one. At some 
 
 There is a fourth cost that belongs to the people around you, and it is worth naming because nobody in this pattern expects it. A parent who never initiated anything transmits the posture without a single deliberate lesson. It goes across in a thousand small asides about what is realistic and when a person is ready, absorbed long before anybody involved could evaluate them.
 
+## What Is an External Locus of Control?
+
+It is a measured expectancy about where results come from: the belief, held in general rather than about one situation, that outcomes are decided mainly by luck, circumstance or people with power rather than by what you do.
+
+Rotter set it out in 1966 as a series of forced-choice pairs, each one asking you to pick between an internal and an external explanation for the same kind of outcome. What came back was a position on a range. It was never built to sort people into two groups, and the version circulating online as a quiz with a verdict at the end has added something the instrument does not contain. Correlations between the score and what people actually do are real and modest, which is ordinary for a measure of this kind and worth knowing before anybody quotes a number at you.
+
+Four things the term does not mean, all of which get attached to it anyway.
+
+**It is not a shortage of confidence.** Control beliefs answer where outcomes originate. Confidence answers whether you could do the thing well. Somebody can be entirely settled on the second and external on the first, which is exactly the combination this page exists for.
+
+**It is not pessimism.** A person can expect good things to happen and still expect them to be handed down rather than produced.
+
+**It is not a verdict on you.** There is no cut-off score and no category you get placed in. The scale describes an expectancy, and expectancies revise.
+
+**It is not fixed.** A stretch of life in which your actions genuinely did not change much will move the score, and so will a stretch in which they did. That is the thing working as described rather than the measure failing.
+
+Where the term earns its place for this behavior is narrow and worth keeping. It turns a private sense that starting has to be granted from somewhere into something described, ordinary and countable, with a research history behind it. Where it stops is the part that matters on a Tuesday afternoon. A score cannot tell you whether the specific person you have in mind holds an actual lever over the specific thing you have not started, and that gets answered by examining the situation rather than by examining yourself.
+
+## How Is Waiting for Permission Measured in Research?
+
+Not directly, and saying so is the honest starting point for everything else here.
+
+No instrument measures how long somebody has been waiting to be told they may begin. What exists instead are measures of things sitting next to it. Control-belief scales measure an expectancy about where outcomes come from. Developmental interviews describe a movement from external formulas toward an internal reference point, in a small number of people followed over a long time. Experiments on uncontrollable events measure what happens to attempting when nothing a subject does makes any difference. None of those is the behavior itself. Each one is a neighbor of it.
+
+That gap has three consequences worth holding on to while you read anything confident on this subject.
+
+The first is that almost everything measured here rests on self-report at a single moment. Somebody answers questions about how they see the world, and the answers get treated as a description of how they act. Self-report is at its weakest exactly where this behavior lives, because the wait describes itself internally as sequencing and good judgment. A person deep inside it can answer every question honestly and still not report a stall.
+
+The second is that the strongest experimental evidence in this area comes from settings nothing like a life. A controlled study can remove control from a situation and observe what follows. It cannot hand somebody a plan they care about, nineteen months of preparation, a mortgage, and a colleague who went first.
+
+The third is the direction of the arrow. Work that measures people once can show that a control belief and a stalled project turn up in the same person. Which one produced the other, or whether something else produced both, is not settled by a finding of that shape, and the popular retellings tend to report it as though it were.
+
+None of that is a reason to discard the vocabulary. Use it for the part it does well, which is naming and describing something that had felt private and unnameable, and stop where it stops. The most useful measurement still available to you is the one in the last section of this page, and it takes about four minutes: one name, and what would materially change if that name said no.
+
 ## How Much of This Research Should You Actually Trust?
 
 Less than a confident page would imply, and enough to use, and the most interesting thing on this list is a famous theory that its own authors corrected in public.
@@ -415,7 +475,7 @@ Then its own authors revised it. Twice.
 
 The first revision came in 1978, when Abramson, Seligman and Teasdale published a reformulation adding the way a person explains what happens to them, because the original account could not handle why some people generalized from a setback and others did not.
 
-The second revision is the one worth knowing about. In 2016, Maier and Seligman published a paper in *Psychological Review* stating that the original explanation had the mechanism backwards. Passivity and heightened anxiety under prolonged uncontrollable events, on the corrected account, are the unlearned default response. What actually gets learned is the *detection of control*, and the presence of control is what inhibits the default. The animals in 1967 did not learn to be helpless. They failed to learn that they had a lever.
+The second revision is the one worth knowing about. In 2016, Maier and Seligman published a paper in *Psychological Review* stating that the original explanation had the mechanism backward. Passivity and heightened anxiety under prolonged uncontrollable events, on the corrected account, are the unlearned default response. What actually gets learned is the *detection of control*, and the presence of control is what inhibits the default. The animals in 1967 did not learn to be helpless. They failed to learn that they had a lever.
 
 Sit with what that means for the name. A theory called learned helplessness turned out, according to the people whose names are on it, to describe something closer to unlearned helplessness plus learnable control. The name survived because the name had traveled, which is how most famous psychological terms end up describing something slightly different from what they are called.
 
@@ -431,7 +491,7 @@ The honest limits: this began in animal experiments, and the distance between a 
 
 The honest summary: the vocabulary here is good enough to tell you that awaiting authorization is a described, measured, ordinary phenomenon with a research history, and that at least one famous account of it was substantially wrong in its original form. It is not good enough to tell you which of your own five roots is running, and no instrument is.
 
-## What Does the Repaired Version Look Like on an Ordinary Week?
+## What Does Changing This Pattern Look Like in an Ordinary Workweek?
 
 Considerably less dramatic than the phrase "no longer waiting" suggests, and mostly visible in small procedural changes.
 
@@ -457,7 +517,7 @@ The roots move on their own schedules. A real requirement resolves as soon as th
 
 Expect it back under particular conditions. Fatigue, because everything expensive gets deferred when you are depleted. Any environment with real hierarchy in it, which reactivates a correct read and then over-applies it. Any public failure, because the insurance argument becomes very persuasive immediately afterward. And any encounter with somebody who does have standing over you, which can reinstate the whole posture in an afternoon. The return of the pattern under those conditions is the return of the conditions rather than the loss of everything you built.
 
-## What Is One Thing to Do This Week, Before Any Bigger Decision?
+## What Is One Concrete Thing I Can Do Before Making a Bigger Decision?
 
 Write one name and one sentence, and nothing else.
 
@@ -471,4 +531,4 @@ If the answer is that nothing would change except how you felt, you have been wa
 
 That is the whole exercise and it takes about four minutes. It resolves nothing on its own and it locates the problem accurately, which is more than nineteen months of preparation has managed.
 
-If what landed hardest here was not the practical business of naming a person, but the recognition that this has been running since long before this particular plan, or the sting of watching somebody less prepared simply go, or the sentence about the permission that cannot arrive because the person is gone, then the thing worth working on sits underneath the behavior rather than in it. [Our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works at that layer. What does it do for you? That is the question we start with, because the wait is doing something, and until you know what, no amount of encouragement will touch it. We work out what the actual root is first, then what is standing in the way, then build a plan you are held accountable to afterward. There is no retreat, no practice that is going to get you around actually confronting the real world, which is why the work is built to survive the return home rather than to feel good on the day. Everybody is screened before arriving, which keeps the group small enough that somebody who has been ready for nineteen months gets worked with rather than handed a worksheet. One limitation worth stating plainly: exact dates, the price and the final cap on group size are still being settled, so anybody comparing programs on those numbers this week cannot yet compare ours. Ask every program you are weighing the same questions, this one included, and decide from what comes back. What else are you going to put the years of your life towards, if it is not about making your life the way that you would like your life to be? The name and the sentence cost you nothing and are worth having either way.
+If what landed hardest here was not the practical business of naming a person, but the recognition that this has been running since long before this particular plan, or the sting of watching somebody less prepared simply go, or the sentence about the permission that cannot arrive because the person is gone, then the thing worth working on sits underneath the behavior rather than in it. [Our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works at that layer. What does it do for you? That is the question we start with, because the wait is doing something, and until you know what, no amount of encouragement will touch it. We work out what the actual root is first, then what is standing in the way, then build a plan you are held accountable to afterward. There is no retreat, no practice that is going to get you around actually confronting the real world, which is why the work is built to survive the return home rather than to feel good on the day. Everybody is screened before arriving, which keeps the group small enough that somebody who has been ready for nineteen months gets worked with rather than handed a worksheet. One limitation worth stating plainly: exact dates, the price and the final cap on group size are still being settled, so anybody comparing programs on those numbers this week cannot yet compare ours. Ask every program you are weighing the same questions, this one included, and decide from what comes back. What else are you going to put the years of your life toward, if it is not about making your life the way that you would like your life to be? The name and the sentence cost you nothing and are worth having either way.

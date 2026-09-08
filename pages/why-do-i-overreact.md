@@ -424,7 +424,7 @@ Professional distance supplies a filter that closeness removes. At work there ar
 | With a parent | Fifteen minutes in that kitchen and you are seventeen again | Visits planned entirely around damage limitation, and the sense of failing a test you never agreed to sit |
 | At work | One critical line in a strong review replayed for a week | Attention taken from the actual work, and occasionally a resignation drafted at eleven at night |
 | With friends | A canceled plan landing as proof they were never invested | Friendships quietly downgraded on evidence that would collapse if you said it out loud |
-| With strangers and screens | A driver, a queue, a comment thread, an afternoon gone | Hours rearranged by people whose names you will never learn |
+| With strangers and screens | A driver, a line, a comment thread, an afternoon gone | Hours rearranged by people whose names you will never learn |
 | With yourself | The verdict arriving instantly, before anybody else has said anything | The most reliable version of all, running all day, with nobody in the room to argue with it |
 
 The last row is the one people skip, and it may be the most important. Striking first with self-criticism was a real strategy in an evaluation-heavy household, and it never needed a second person to work. Somebody who never raises their voice at anyone can still be running twenty disproportionate reactions a day, all of them aimed inward, all of them invisible. If your reactions run mostly in that direction, [the mechanics of not trusting your own judgment](/patterns/why-dont-i-trust-myself/) will cover more ground than a page about temper.

@@ -98,7 +98,7 @@ faqs:
     about a version of the past you cannot locate, and an honest answer would break
     the evening. Going flat, or getting busy with the plates, is the reliable way
     through. The feeling often surfaces later, on the drive home.
-  q: Why do holidays and family events feel numb rather than sad?
+  q: Why do vacations and family events feel numb rather than sad?
 - a: Largely the same way, with one extra step at the front. You have to name specifically
     what was missing, in small concrete terms rather than large abstract ones, because
     an absence gives you nothing to point at. Not love in general, but somebody asking
@@ -320,7 +320,7 @@ Worth checking, because seven fairly different situations produce a similar-look
 | A flat mood with no cause you can name | An ungrieved loss with specific content underneath it | Ask what was actually missing and something surfaces within a minute, even if saying it takes far longer |
 | Heaviness that flattens everything, including areas with no link to your history | A weight that needs a doctor rather than a page | No object under it, no lift when circumstances improve, and it has run for months |
 | Bitterness toward family, or an argument that never quite ends | Grief with a target attached to make it bearable | The bitterness wants an admission. Grief wants nothing from anybody |
-| Tiredness that sleep does not touch | The running cost of carrying a loss that was never set down | It gets heavier around anniversaries, holidays, and any conversation near childhood |
+| Tiredness that sleep does not touch | The running cost of carrying a loss that was never set down | It gets heavier around anniversaries, vacations, and any conversation near childhood |
 | Nothing at all, at exactly the moments designed to produce feeling | Feeling with no safe route to the surface | Something arrives later, alone, attached to something small and unrelated |
 | Dread at the start of something good | A forecasting habit rather than information | It fires hardest when things are going well, which is when real risk is lowest |
 | Grief for somebody who died, running long and hard | Bereavement, doing what bereavement does | There is a death to point at, a date, and people around you who agree it counts |
@@ -431,7 +431,7 @@ Every pattern like this has two ends, and describing only the painful one leaves
 | Numbness at family events | A specific pang at a specific moment | The photograph on the mantelpiece stings for two seconds, and you let it |
 | Grief leaking out sideways | Grief attached to what it is about | You are sad about the thing you are actually sad about, on the day |
 
-The single most important row is the ninth. In the grieved version, "I lost something, and nobody else has to agree that it counts" is a complete sentence with a full stop on it, rather than an argument you keep having with yourself, your siblings, or a parent who will never concede the point. That shift, from open case to closed statement, is most of what changes.
+The single most important row is the ninth. In the grieved version, "I lost something, and nobody else has to agree that it counts" is a complete sentence with a period on it, rather than an argument you keep having with yourself, your siblings, or a parent who will never concede the point. That shift, from open case to closed statement, is most of what changes.
 
 The second most important is the last. The realistic target is sadness that arrives cleanly and attached to what it is actually about, rather than a smaller total quantity of sadness. What stops is the leaking: the exhaustion on a Wednesday, the irritability at your partner, the flat response to your own good news.
 

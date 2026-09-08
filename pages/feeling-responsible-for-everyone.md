@@ -46,7 +46,7 @@ faqs:
   a: "Because the role arrived with the affection attached to it. If being capable was what made you welcome, then visible difficulty feels like withdrawing the one thing that keeps you in the room. So the competent version goes out and the struggling version stays private, sometimes for decades. People close to you usually have no idea, which is what makes the loneliness inside this pattern so particular."
 - q: "Why do I keep ending up with people who need rescuing?"
   a: "Because being needed is the version of connection you know how to do. People tend to recreate the emotional arrangement they grew up inside, and if your place in a family was earned by managing somebody, a partner or friend who needs managing feels immediately familiar. Familiar and good are different things, and telling them apart usually takes noticing the pattern across several relationships rather than one."
-- q: "Why can I not let people sort out their own problems?"
+- q: "Why can I not let people work out their own problems?"
   a: "Because watching somebody struggle without stepping in feels like negligence rather than like respect. The reflex to fix arrives before any assessment of whether help was wanted. What makes it hard to drop is that stepping in works: the problem gets solved and you get thanked. The cost lands on them and stays invisible, because every problem you take over is a repetition in their own competence they did not get."
 - q: "Why do I feel resentful and keep helping anyway?"
   a: "The two go together rather than contradicting each other. Consistently sacrificing what you need produces bitterness about how much you carry, and the bitterness gets judged as unfair the moment it appears, so it goes back down and the helping continues. Resentment in this pattern is useful information about where you overgave. It tends to point at a specific commitment nobody actually asked you to take on."
@@ -128,6 +128,8 @@ Read them slowly and notice how reasonable they all sound. Not one of them reads
 
 There is a second layer, quieter than the rules and harder to catch. Alongside the doing, there is a constant background scan of how everyone in the room is holding up. Who seems off. Who has gone quiet. Whether the mood has shifted. That scan runs whether or not you can do anything about what it finds, which is what makes it so tiring: it produces information about other people's states all day long, and it almost never produces information about yours.
 
+There is a name for the version that fires when nobody has asked for anything. An inflated sense of responsibility describes a private belief that you hold pivotal influence over whether bad things happen to the people near you, and therefore a standing duty to head them off, which is why noticing a problem is enough to make it feel assigned to you. That is offered as a description rather than as one person's finding, because the idea was built inside a narrow clinical research line, on people who had already gone looking for help, so the everyday version you are living has never been measured to the same standard. [Offering before anybody asks](/patterns/volunteering-for-everything/) carries the cost side of this, and the classic experiments on who steps forward while a group watches sit with [the pattern of always being the host](/patterns/always-the-host-never-the-guest/).
+
 ## When Does This Belong With a Professional Rather Than a Page Like This?
 
 Right here, before anything practical, because this boundary matters more than every technique below it.
@@ -155,7 +157,7 @@ The amount of output is a red herring. Plenty of people carry a great deal and a
 
 Two tests sort this quickly. The first is delegation: hand something genuinely low-stakes to somebody competent, then watch the size of the anxiety that follows. If it is wildly out of proportion to what would actually happen if the task went slightly wrong, you are looking at something older than a preference for good work. The second is rest: take an afternoon when every real obligation has been met, and see whether guilt turns up anyway. Guilt with nothing to attach to is one of the clearest signals there is.
 
-The burnout row deserves its own sentence, because it is the most common misreading. Exhaustion is real and it is a symptom here rather than the condition. A holiday fixes tiredness. It does nothing to the reason rest felt like something you had to earn in the first place, which is why so many people come back from two weeks away and are flattened again within a month.
+The burnout row deserves its own sentence, because it is the most common misreading. Exhaustion is real and it is a symptom here rather than the condition. A vacation fixes tiredness. It does nothing to the reason rest felt like something you had to earn in the first place, which is why so many people come back from two weeks away and are flattened again within a month.
 
 ## Where Does Your Responsibility Actually End?
 
@@ -179,6 +181,44 @@ Read the right-hand column and notice how much of it you have been carrying. Not
 
 There is one honest complication. This split gets murky where dependents are genuinely involved, and it gets murky in enmeshed families where nobody can quite say where one person ends and the next begins. [Where that particular blurring comes from has its own page.](/patterns/enmeshed-family/) For most of the situations that keep people awake, though, the line is clearer than it feels at midnight, and the test is simple: if the outcome depends on a decision only another adult can make, the outcome is theirs.
 
+One measured bias is worth knowing before you use that table. Your own contributions to any shared load come to mind faster than anybody else's do, so your share of the work, and of the blame when something slips, reliably feels larger from the inside than an outside count would make it. That is set down here as a described bias rather than as a named result, and its honest limit is that it runs in everybody at once: the people around you are inflating their own share by the same mechanism, so it tells you your estimate is unreliable without telling you who is right.
+
+## Why Do I Feel Responsible for My Parent's Mood Every Time We Talk?
+
+Because reading that one person's weather was assigned to you early, and nobody ever formally ended the arrangement.
+
+Watch the shape of an ordinary call. You ask how they are. The answer comes back half a tone below where it should sit, or bright in a way that does not convince, and inside a minute you are running a private inventory: what has happened, what you might have said last time, what you could offer now that would lift it before the call ends. You come away carrying a small task list about a person who asked you for nothing at all.
+
+There is a term for the duty running underneath that, and it earns its place because it draws a line the feeling refuses to draw. A 1998 study in the Journal of Marriage and the Family, "Because They're My Parents: An Intergenerational Study of Felt Obligation and Parental Caregiving", by Stein and colleagues, uses felt obligation for what an adult child privately holds themselves to inside a parent relationship, as distinct from anything the parent has requested. The honest limit is that the paper's abstract is not publicly readable, so no figure from it is quoted here, and the term is used for the distinction it names rather than as evidence about how widespread that distinction is.
+
+The distinction does the work. Write out what your parent has actually asked you for over the last year and the list comes out short and concrete: a lift somewhere, help with a form, a visit in the spring. Write out what you feel responsible for and it takes in their loneliness, their opinion of their own life, whether they sounded content when you last spoke, and whether this year is going better for them than the last one. Only the first list is made of tasks. The second is a weather report you have quietly agreed to be graded on.
+
+A conversation with your parent about this tends to go nowhere, because the arrangement was never spoken aloud and there is nothing on the table to renegotiate. What moves is what you do with the flat note when you hear it. Let it be information about their day rather than an instruction addressed to you. Stay on the call, ask one real question, and then let the call end without having repaired the tone it started in. Nothing collapses. That is the whole experiment, and it takes something like thirty repetitions before a flat note stops arriving as a summons. Where a whole family runs with no clear line between one person and the next, [the blurring has its own account](/patterns/enmeshed-family/).
+
+## What Should I Do When My Boss Keeps Letting Other People's Missed Deadlines Become My Problem?
+
+Start by naming it accurately, because the mislabel is doing half the damage.
+
+There is a research term for a task that does not belong to the person doing it. An illegitimate task is one that violates what can reasonably be expected of somebody in a given role, and Semmer and colleagues set the idea out in "Illegitimate Tasks and Counterproductive Work Behavior", published in Applied Psychology in 2010. The framing is the useful part: a task like that is treated as offending your professional identity rather than as ordinary extra work, and earlier studies in that line had already tied illegitimate tasks to strain with other sources of strain controlled for. The paper itself reports two studies relating them to counterproductive behavior at work, controlling for effort and reward balance in the first, and for conscientiousness, agreeableness and fairness at work in the second. Two limits are worth stating plainly: that research measured what people do at work rather than the private sense of duty this page is about, and nothing in it settles who ought to absorb a date that has slipped.
+
+What the term gives you is a vocabulary for something that has been hard to say out loud. A heavy workload is legible and everybody understands it. What lands on you here is quieter than that, because nobody announced that the slipped work was now yours. It arrived as a question in a thread, or as a silence where a reassignment should have been, and you picked it up because you saw it first and because seeing things first has always been your job.
+
+Three things are available and none of them needs a confrontation. The first is to make the transfer visible at the moment it happens instead of a month later, in one flat sentence: this started with the other team, I can take it this week, and I want it on record that it started there. Nothing in that is a complaint, and it converts a silent reassignment into a recorded one. The second is to stop closing the gap invisibly. Work absorbed without a trace teaches everyone above you that no gap exists, and a system that cannot see a gap keeps routing around it, which in practice means it keeps routing to you. The third belongs to this page rather than to your workplace, and it is the speed of your yes. The reflex to reach for a slipping piece of work before anybody has asked is what makes you the default, and putting an hour in front of your answer is the only interruption that reliably works on it.
+
+One thing is worth separating out. Feeling personally at fault for a date you had no part in is a different mechanism from picking the work up afterward, and [it is taken apart in full here](/patterns/why-do-i-blame-myself-for-everything/).
+
+## How Do I Care About My Partner's Feelings Without Treating Every Bad Mood as Mine to Solve?
+
+By separating the noticing from the assignment, which are two moves that have been fused together since long before you met this person.
+
+The sequence runs like this. Your partner comes in and something is off in the first four words. You register it before you have consciously looked at them. Then, with no decision taken anywhere, the mood becomes a job with your name on it: you start working out what caused it, whether you are in it, and what could be done in the next twenty minutes to move it. The evening reorganizes itself around a state that belongs to somebody else.
+
+The noticing is worth keeping. It is one of the better things about you, and dismantling it would cost your partner something real. What is available is the second move. Between registering that they are off and taking ownership of it there is a gap, and in an ordinary relationship that gap holds a question rather than a plan. Ask once, plainly. Then do the part that will feel wrong: carry on with your evening, not coldly and not as a point being made, but available and unbothered, while another adult has a bad evening in your presence.
+
+Three things usually surface the first few times somebody tries this. The pull is louder than expected, and it does not read as a preference; it reads as watching something go wrong and refusing to act. Being asked once and then left alone turns out to be what most people wanted, and the mood often lifts sooner without an intervention than with one. And there is a bill you probably did not see coming: if it lifts on its own, something in you registers as surplus to requirements. That reaction deserves to be sat with rather than argued away, because it measures how much of your worth in this relationship has been resting on being needed.
+
+None of this is a request you make of your partner, and none of it is about their conduct. It is a change in what you do with information you were always going to receive anyway. Where the entire shape of a relationship has organized itself around managing one person's state, [that shape is described in full here](/patterns/codependency/).
+
 ## Why Does Delegating Feel Like Abandonment?
 
 Because handing something over requires trusting that somebody else will actually hold it, and trusting that is the exact thing your history failed to teach.
@@ -191,6 +231,8 @@ What makes it feel specifically like abandonment rather than like risk is the em
 
 The way through is smaller than it sounds and worse than it sounds. You hand over something genuinely low-stakes, and you do not check it. The anxiety that arrives is the whole exercise. Sitting inside it without intervening is what slowly teaches a nervous system that other people's competence exists and that the world tolerates you letting go for a few hours. Nothing about that is satisfying to read, and it is the only version that holds.
 
+The honest position on the version that shows up at work is that the guilt itself has not been measured directly. What has been measured is a neighboring thing: the strain carried by jobs where the demands are heavy and the authority over them is complete, a combination that tends to get read as good fortune rather than as weight, and that research sits with [the work you never hand over](/patterns/the-work-i-never-hand-over/). If the move you actually make is to hand something over and then quietly take it back, [that one is followed in detail here](/patterns/doing-it-myself-because-its-faster/).
+
 ## Why Does an Empty Sunday Feel Like Something Is Being Neglected?
 
 Because stopping was once precisely when things fell over, so stillness registers as the gap before the next emergency.
@@ -199,11 +241,11 @@ Watch the specific texture of it. A Sunday with nothing scheduled arrives, and i
 
 Two separate mechanisms produce this and they are worth pulling apart, because they respond to different things.
 
-The first is vigilance. A childhood spent watching for the next crisis builds a scanning habit that does not switch off when the crises stop. Unstructured time removes the tasks that were keeping the scan occupied, so the scan turns to whatever is available, which is usually your own life and everybody else's. Holidays are often worse than working weeks for exactly this reason, and plenty of people in this pattern spend the first three days of any break unwell, which is the body finally getting a window.
+The first is vigilance. A childhood spent watching for the next crisis builds a scanning habit that does not switch off when the crises stop. Unstructured time removes the tasks that were keeping the scan occupied, so the scan turns to whatever is available, which is usually your own life and everybody else's. Vacations are often worse than working weeks for exactly this reason, and plenty of people in this pattern spend the first three days of any break unwell, which is the body finally getting a window.
 
-The second is the ledger. If worth got attached to output and to looking after people, a day that produces neither reads as a day where you were worth less. Rest then carries an actual cost in self-regard, which is why the guilt has a moral flavour to it. Resting feels less like laziness and more like taking something you had not paid for.
+The second is the ledger. If worth got attached to output and to looking after people, a day that produces neither reads as a day where you were worth less. Rest then carries an actual cost in self-regard, which is why the guilt has a moral flavor to it. Resting feels less like laziness and more like taking something you had not paid for.
 
-That is why generic advice about self-care bounces off this pattern so completely. Being told that rest is important addresses the first mechanism and does nothing to the second. What shifts the second is a slowly accumulated pile of evidence: unstructured hours passed, nothing collapsed, and your opinion of yourself came out the other side intact. Twenty deliberate minutes, sat through, with the urge to get up at minute four noticed and disobeyed, does more than a fortnight in a hotel. [Whether prioritizing yourself is actually selfish is worth settling on its own](/insights/is-it-selfish-to-put-yourself-first/), because that question is usually the real blocker rather than any lack of technique.
+That is why generic advice about self-care bounces off this pattern so completely. Being told that rest is important addresses the first mechanism and does nothing to the second. What shifts the second is a slowly accumulated pile of evidence: unstructured hours passed, nothing collapsed, and your opinion of yourself came out the other side intact. Twenty deliberate minutes, sat through, with the urge to get up at minute four noticed and disobeyed, does more than two weeks in a hotel. [Whether prioritizing yourself is actually selfish is worth settling on its own](/insights/is-it-selfish-to-put-yourself-first/), because that question is usually the real blocker rather than any lack of technique.
 
 ## Why Do You Resent the People You Keep Helping?
 
@@ -290,6 +332,8 @@ By running repetitions small enough that you will actually finish them, in place
 
 Is any of this comfortable? No. It is small, freaking repetitive, and completely unimpressive to describe to anybody, and the discomfort is the whole mechanism rather than a sign you are doing it wrong. Nine items is also too many to start with. Pick two, run them for a month, and add a third only when the first two have stopped feeling like a project.
 
+Two honest notes on that list. None of these nine has been tested as a package, so what you have is a set of small experiments assembled from the parts of the pattern rather than a program with a measured outcome behind it. And the specific reflex of producing a solution before anybody has requested one is a distinct enough thing to have [its own full account](/patterns/why-do-i-always-try-to-fix-everyone/), so if that is the piece you recognize most sharply, start there and come back to the list afterward.
+
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The thing that took me longest to accept was that nobody was going to notice. Putting something down is invisible from outside, so there is no praise attached to it anywhere, and for a person who has been paid in appreciation for thirty years that turns out to be the genuinely hard part rather than the mechanics of doing it.
 
 ## What About the People Who Genuinely Do Depend on You?
@@ -310,7 +354,7 @@ If you are in a genuinely heavy caring role right now, this page is not the main
 
 Longer than a week, and the honest answer runs at two very different speeds.
 
-Recognition is quick. Most people catch the reflex within a fortnight of paying deliberate attention, and catching it counts even on the days you do the thing anyway. Watching yourself take on somebody else's problem while knowing exactly what you are doing feels terrible and is a real step forward.
+Recognition is quick. Most people catch the reflex within two weeks of paying deliberate attention, and catching it counts even on the days you do the thing anyway. Watching yourself take on somebody else's problem while knowing exactly what you are doing feels terrible and is a real step forward.
 
 The reflex itself takes much longer, because it was rehearsed daily for years and it fades at the pace of accumulated new experience rather than the pace of understanding. Reading this page changes very little on its own. Fifty tasks handed over and not checked, fifty problems returned to their owners, fifty Sundays that were allowed to be empty, change a great deal.
 

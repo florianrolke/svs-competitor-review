@@ -64,7 +64,7 @@ faqs:
 - q: "Is there a test for this?"
   a: "No validated one, and any quiz you find is written by somebody with no access to anything better. What is available is a set of questions about your own recent behavior that you can answer honestly in about ten minutes. Who you told, what you asked for, what happened when somebody disagreed, and whether the two-person conversation still needed to happen."
 - q: "Does stopping mean I have to confront everybody?"
-  a: "No, and any version of this that ends with a list of confrontations will fail within a fortnight. Most of what changes here is upstream of any conversation. Noticing who you reach for, noticing what you asked them for, and noticing what the agreement did to the urgency. Some of those two-person conversations then happen and most of them do not need to."
+  a: "No, and any version of this that ends with a list of confrontations will fail within two weeks. Most of what changes here is upstream of any conversation. Noticing who you reach for, noticing what you asked them for, and noticing what the agreement did to the urgency. Some of those two-person conversations then happen and most of them do not need to."
 - q: "What if the other person is the one doing this to me?"
   a: "That is a real situation and it is deliberately not what this page is about. Writing it that way would hand you a word to use as an accusation, which is exactly what has happened to this term everywhere else. The version you can actually do something about is your own, and it is the only one any page can reach."
 - q: "How long does this take to change?"
@@ -142,13 +142,15 @@ It looks like a phone call that opens with *am I being unreasonable here*, which
 
 It looks like forwarding something with no comment on it, because no comment is required. The forwarding is the comment.
 
-It looks like mentioning a version of an event to somebody who is going to hear the other version at the weekend, in enough detail that the other version will arrive sounding like a defense.
+It looks like mentioning a version of an event to somebody who is going to hear the other version on the weekend, in enough detail that the other version will arrive sounding like a defense.
 
 It looks like a colleague you have never worked with closely knowing, by November, a surprising amount about somebody in another team, all of it from you, none of it untrue.
 
 Six of those in a month produces a month in which you have behaved reasonably at every individual point and have not once said a difficult thing to the person it concerned.
 
-## What Is the Name for This, and What Is the Name Worth?
+## What Is Triangulation in a Conflict?
+
+It is the move where two people in a difficulty pull in a third, so the strain between them gets carried by an arrangement rather than settled by the two people it belongs to. What the name is worth is the second half of the question, and it is the half almost nobody answers.
 
 The word is **triangulation**, and it is genuinely useful, with two large caveats attached that almost nobody supplies.
 
@@ -195,7 +197,7 @@ This root goes first, at length, because a page that skips it will make careful 
 
 You cannot see your own reaction from outside. That is a permanent condition rather than a weakness, and it means that when somebody says something to you and you feel a lurch, you have no way of telling from the inside whether the lurch is proportionate. The only instrument available is another person. You describe what happened, you watch their face, and their face gives you information you had no other route to.
 
-This is one of the most useful things friendship does, and it is the reason people who have nobody to check with drift so badly. Somebody with one honest friend will find out within a day that they overreacted. Somebody with none can spend a fortnight building a case out of a remark that was about the parking.
+This is one of the most useful things friendship does, and it is the reason people who have nobody to check with drift so badly. Somebody with one honest friend will find out within a day that they overreacted. Somebody with none can spend two weeks building a case out of a remark that was about the parking.
 
 The checking version has a particular feel to it and most people can recognize it in memory. There is a question in it that you do not know the answer to. You describe the other person's side, badly, but you describe it. You are slightly hoping they will tell you it is nothing, because that would be the cheaper outcome. And when they say something you were not expecting, it lands, and it changes what you do next.
 
@@ -216,6 +218,8 @@ Most people can answer this instantly about a specific recent situation, and the
 **The audience question. Could the person you told have gone either way?**
 
 Choosing the audience is the most invisible part of the whole move, and it happens in under a second. Almost everybody, asked which friend they would never take a particular complaint to, can name them immediately and can say exactly why. That knowledge is doing work all the time and it almost never rises to the level of a decision. A person whose loyalty in this matter was already committed cannot function as a check, whatever they say, because their answer was available before you started talking.
+
+There is measured work sitting behind the audience question. Hart and colleagues gathered the selective-exposure experiments into a 2009 meta-analysis in Psychological Bulletin and found that people choose information agreeing with what they already think roughly twice as often as information that challenges it, and that the preference runs strongest in the people most committed to their position and weakest in the people trying to be accurate rather than right. The limit is the setting: those studies handed people lists of articles to pick from in a laboratory rather than a phone with four names in it, so it describes the preference and does not measure which friend you rang on Sunday.
 
 **The recognition question. Would the other person recognize the account you gave?**
 
@@ -239,7 +243,9 @@ This is the one that matters most and the one nobody runs, because it can only b
 
 Two notes on using this. Most real situations are a mixture, and the mixture is normal rather than damning. And the fifth row is worth more than the other four combined, because it is the only one that measures the actual consequence rather than the intention.
 
-## Why Does Being Agreed With Feel Like the Matter Has Been Handled?
+## Does Telling Sympathetic Friends Your Side Make Your Position More Extreme?
+
+On the evidence available, yes, and the reason starts one step earlier than the hardening does, in why being agreed with feels like the matter has been handled.
 
 Because agreement closes an open question, and an open question is the uncomfortable part.
 
@@ -301,6 +307,8 @@ Weaker than the confidence of everything else you will read on this word, and th
 
 **The word has drifted so far that studies and articles using it are frequently describing different things.** In the clinical tradition it names a structural arrangement that lowers tension between two people. In most of what circulates online it names a deliberate manipulation strategy performed by one person on others. In some research on adolescents it means something narrower again, specifically a child being drawn into parental conflict, and that version does have measures attached to it. Three different referents, one word. Any confident claim that connects the online version to a research finding is almost certainly connecting two different things.
 
+**One version of the word has been measured properly, and it is the narrow one.** A 2009 paper in the Journal of Family Psychology, titled *A process model of adolescents' triangulation into parents' marital conflict: The role of emotional reactivity*, treated triangulation as a rated variable in adolescents and followed it over time, which is about as far from consulting-room description as this term has traveled. The catch is that the narrow version is a different subject from this page, which is an adult recruiting another adult, so a good measure over there does nothing at all for the claim being made here.
+
 **The neighbors I have used are in better shape and they are not the same claim.** Group polarization is well replicated, and it was measured on group discussions of attitudes rather than on personal accounts of conflicts. The conversational memory work is careful and its effects are modest and laboratory-bound. The sociology of triads is a framework rather than a finding, and its experimental portion used artificial games. In every case I am borrowing a mechanism from a nearby field and applying it here, and you should treat the application as an argument rather than as evidence.
 
 **What survives all of that.** That two people under strain frequently pull in a third. That being agreed with is relieving. That relief tends to reduce urgency. That positions discussed with allies tend to harden. That the arrangement, once it forms, is stable. Those five claims are modest, they are checkable against your own last month, and they are considerably more than the word delivers on its own.
@@ -320,6 +328,8 @@ Five reasons produce this often enough to be worth separating. The first has alr
 Then recruiting support is competent rather than avoidant, and nothing here is asking you to stop.
 
 There are people with whom a direct conversation carries an asymmetric price. A manager who can end your income and has shown you what happens to people who push back. A family member whose reaction to being contradicted has been frightening before. A landlord. A person who controls something you need. In each of those, going direct hands somebody a stick, and going around them costs almost nothing.
+
+The price is measurable, and one study is worth knowing about before you decide. Burris reported in the Academy of Management Journal in 2012 that when an employee raised a challenge, the manager who received it afterward rated that person lower on performance and lower on loyalty than employees who had raised nothing, while supportive suggestions were rated no worse than silence. [The page on letting people take credit](/patterns/letting-people-take-credit/) sets it out in full, and the limit is plain: it was measured in workplaces where somebody writes your review, so it tells you a great deal about the manager and nothing at all about the aunt.
 
 Choosing the cheaper route there is an accurate reading of your situation. Any article telling you to speak openly regardless of consequence was written by somebody who did not think about who might be reading it.
 
@@ -364,6 +374,8 @@ Then this is procedure rather than choice, and it has never once presented itsel
 Some households run entirely on relay. Your father's view of something reaches you through your mother. Your mother finds out what you think from your brother. Nobody says a difficult thing to the person it concerns, ever, and the system works well enough that nobody in it has noticed it is a system.
 
 A child in that house learns the procedure long before they learn there is another one. What gets installed is a default about routing rather than a belief about conflict, and defaults do not announce themselves. Twenty-two years later you are on a driveway with a voice memo and it feels like the obvious thing to do, because in the only model of family communication you ever had, it was.
+
+Households have been sorted along this line and measured. Ritchie and Fitzpatrick set out the two dimensions in Communication Research in 1990: how much open discussion of disagreement a family encourages, and how much agreement with the family's settled position it expects, with the low-discussion, high-agreement households being the ones where difficult things get routed rather than said. The limit is the instrument, which is a questionnaire one family member fills in about their own home, usually at a single point in time, so what it shows is that homes and habits go together rather than that the home installed the habit.
 
 The tells for this root are structural rather than emotional. There is no particular charge attached to the move. You do it with people you are not upset with, about things that are not serious, in situations where a direct word would have cost nothing. Somebody outside the family, hearing how a piece of news traveled, finds it genuinely strange, and you find their reaction genuinely strange.
 
@@ -477,7 +489,7 @@ The family systems triangle I have deliberately described without attaching a na
 
 The rest is mine and carries no research weight at all. Five years and more than five thousand hours of doing this work on myself before I built anything around it, and several hundred conversations since in which somebody has described the voice memo on the driveway, the stairwell at twenty to ten, and the specific quiet that arrives when a person who was always going to agree with you agrees with you. I hold no clinical qualification of any kind. None of the researchers named has any connection to this page or to the seminar, and where their published work and my own experience disagree, theirs is the one to go and check.
 
-## What Is Worth Doing This Week, Before You Say Anything to Anybody?
+## What Can You Do This Week to Notice When You Pull a Third Person In?
 
 Two weeks of counting, and no conversations at all.
 
@@ -485,10 +497,10 @@ Change nothing. Do not resolve to go direct, do not announce that you are workin
 
 Every time you tell somebody about a difficulty with somebody else, write down four things. Who you told. How long after the event. What you were asking them for, in your own words, honestly. And what you would have done if they had disagreed.
 
-By the end of the fortnight you will have somewhere between five and twenty of them, and three things will be visible that were not available any other way. One name will appear far more often than the rest. The gap between the event and the first telling will be far more consistent than you expected. And the fourth column will be close to empty, which is the entire finding.
+By the end of the two weeks you will have somewhere between five and twenty of them, and three things will be visible that were not available any other way. One name will appear far more often than the rest. The gap between the event and the first telling will be far more consistent than you expected. And the fourth column will be close to empty, which is the entire finding.
 
 Then take the two most recent entries and ask the fifth question from earlier: did the two-person conversation still need to happen afterward, or did the urgency simply go?
 
 If what landed hardest here was the timing, the counting will probably be enough on its own and you can stop there. If what landed hardest was something else, the recognition that a private apology would feel unsatisfying, or that you can draw your family's map in thirty seconds, or that you already know which friend you would never take this to and why, then the thing worth working on sits underneath the route rather than in it. [Our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works at that layer. First we find what the move is actually doing for you, because a behavior that reliable is never doing nothing, and then what stands in the way of the version where the thing gets said, and then a plan you are held accountable to afterward, back in your own week with the same aunt and the same seating plan. The reason it works on this particular pattern is the one thing you have never had access to: a room where we can be helpful to each other as well as honest with each other, which is a rarer combination than it sounds, and the exact opposite of a room full of people who were always going to agree with you. Everybody is screened before arriving, which keeps the group small enough that somebody who has been routing around one person for twenty-two years gets worked with properly rather than handed a worksheet. One limitation worth stating plainly: exact dates, the price, and the final cap on group size are still being settled, so anybody comparing programs on those numbers this week cannot yet compare ours. Ask every program you are weighing the same questions, this one included, and decide from what comes back.
 
-The fortnight of counting costs nothing and is worth having whichever way it comes out.
+The two weeks of counting costs nothing and is worth having whichever way it comes out.

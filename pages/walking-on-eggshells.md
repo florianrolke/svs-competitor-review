@@ -393,7 +393,7 @@ Two things reduce it. The first is naming it as a job the mind is doing rather t
 
 Because calm was, historically, the part before something.
 
-Where good stretches were reliably followed by a drop, the mind stops reading calm as safety and starts reading it as missing information. That produces a set of experiences people rarely connect to each other: a reluctance to celebrate anything in case it jinxes it, a flicker of dread on a genuinely good day, an inability to settle into the first day of a holiday, and an optimism that keeps one hand on the door at all times.
+Where good stretches were reliably followed by a drop, the mind stops reading calm as safety and starts reading it as missing information. That produces a set of experiences people rarely connect to each other: a reluctance to celebrate anything in case it jinxes it, a flicker of dread on a genuinely good day, an inability to settle into the first day of a vacation, and an optimism that keeps one hand on the door at all times.
 
 Silence works the same way and is often harder than an argument. During a conflict, at least the data is arriving. In silence, the scanner has nothing to work with, and a system built to predict fills the gap with the worst plausible guess. From inside this pattern, a partner who has gone quiet to think is completely indistinguishable from a partner who has gone quiet because something is wrong.
 
@@ -446,7 +446,7 @@ Because a mind that has been tracking a threat for years registers the absence o
 
 This catches people off guard and gets read as a relapse when it is a fairly reliable stage. The first real stretch of safety, a calm relationship, a house where nobody's mood decides anything, an unstructured week, can produce restlessness, boredom, a strange untethered feeling, and sometimes a quiet suspicion that this is the setup for something. Some people find themselves generating small crises without meaning to, simply because managing one is a familiar activity and an empty evening is not.
 
-The other thing that shows up in this stage is the exhaustion. People routinely report that they only felt how tired they were once the scanning dropped, in the way you only feel a heavy bag after you set it down. That tiredness is the bill arriving for work already done, and it gets misread as going backwards more often than almost anything else in this process.
+The other thing that shows up in this stage is the exhaustion. People routinely report that they only felt how tired they were once the scanning dropped, in the way you only feel a heavy bag after you set it down. That tiredness is the bill arriving for work already done, and it gets misread as going backward more often than almost anything else in this process.
 
 Both of these settle. Being overwhelmed by freedom usually comes before being able to use it, and the gap between the two tends to be measured in months.
 
@@ -477,7 +477,7 @@ Then the first question is whether the scanning is accurate, before any question
 
 That order matters. Most advice about hypervigilance quietly assumes the danger has passed, and applying it to a live situation asks somebody to disarm a system that is currently right. So separate the two before anything else. For the next three weeks, record what actually happens: not how you felt, but what the person did, in facts a stranger could check. Then read it back. If the record shows genuinely variable reactions to the same behavior, you are looking at a relationship problem and the scanning is doing its job accurately. If the record shows a consistent person and a nervous system predicting otherwise, that is carried over from somewhere else and it can be worked with directly.
 
-If it is the first one, three things are within reach. Describe the specific behavior with no label attached, because "you got sharp with me twice this week and I could not tell why" opens a conversation while a diagnosis closes one. Say what you need in plain words, once, without a supporting case. Then watch across several months rather than several days, since anybody can hold a change for a fortnight.
+If it is the first one, three things are within reach. Describe the specific behavior with no label attached, because "you got sharp with me twice this week and I could not tell why" opens a conversation while a diagnosis closes one. Say what you need in plain words, once, without a supporting case. Then watch across several months rather than several days, since anybody can hold a change for two weeks.
 
 Set your own limit privately, put a date on it, and tell nobody. A limit announced as an ultimatum produces compliance, and compliance in this pattern is indistinguishable from change for roughly six weeks. A limit you hold quietly produces information, which is the thing you actually need. And if any part of this touches your physical safety, that goes to trained people first and everything else second.
 

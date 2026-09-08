@@ -161,7 +161,9 @@ It also matters because the reaction contains information, and information is wo
 
 There is a second thing worth saying here, which is that the silence itself is not empty. No behavior happens for no reason. Also, the lack of behavior that brings you there also doesn't happen for no reason. The unpressed like carries as much information as a sent message would have, and the reason underneath it can be found.
 
-## Is Going Quiet Proof That You Are a Bad Friend?
+## Does Struggling to Celebrate Other People's Success Make Me a Bad Friend?
+
+The blunter version of the question is the one to answer first: is going quiet proof that you are a bad friend?
 
 No, and the reasoning behind that answer is worth having in full rather than as reassurance.
 
@@ -170,6 +172,8 @@ Start with how common it is. Ask any group of honest people whether they have ev
 Then look at what a reaction is. Sometimes the emotional response is wrong, but oftentimes the emotional response is also just a habit. A groove worn in over years by circumstances that had nothing to do with this friend or this Tuesday. Habits produce output automatically, which is the entire point of a habit, and the output arriving does not mean you endorse it.
 
 Then look at what you actually did. In most cases: nothing hostile. You did not undermine them. You did not tell anybody the news was less impressive than it looked. You did not compete. You were slow and you were flat, which is a failure of delivery rather than of loyalty, and the two get conflated constantly by people who would forgive it instantly in anybody else.
+
+There is a limit in the evidence that matters before you pass sentence on yourself. The research on responding to somebody else's good news, including the two studies this page names later, measures the response and only the response: what got said, how fast it arrived, how engaged it was. None of it measures what the responder felt before answering. So it can establish that a thin reply reads as thin, and it has never been in any position to say what kind of person sent one.
 
 There is one honest qualification. If the quiet has hardened into avoidance, if you have stopped seeing people whose lives are going well, if the caveat has become a habit you say out loud to others, then something has moved from a reaction into a set of actions and the actions are fair to look at. That is a different situation from a slow reply, and most people reading this are not in it.
 
@@ -209,6 +213,18 @@ Here is where every one of them stops, said plainly. All of it describes a what.
 <div class="disclaimer-box" markdown="1">
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
+
+## How Is Going Quiet at Someone's Success Measured in Research?
+
+Not directly. What has been measured is the tendency sitting behind it and the reply people produce afterward, and nobody has yet put a number on an unpressed like or a four-day gap.
+
+The first serious attempt at the tendency arrived in 1999, in a paper called "Dispositional Envy" in *Personality and Social Psychology Bulletin*. It built a single-dimension self-rating for how prone a person is to envy in general and checked it across four studies: whether it held steady over time, whether it lined up with other self-ratings in the ways theory predicted, and whether it forecast how somebody reacted when confronted with another person doing better than them.
+
+The second attempt split that single dimension in two. "Dispositional Envy Revisited: Unraveling the Motivational Dynamics of Benign and Malicious Envy", published in the same journal in 2015 by the same two researchers named earlier here for the 2014 attention result, ran four studies with 1,094 participants and reported that the pull-toward form and the pull-away form are independent of each other rather than opposite ends of one dimension. A person can rate high on both, low on both, or high on one alone. The most concrete result came from marathon runners: the pull-toward form predicted a faster race, by way of the runner having set a more ambitious target, while the pull-away form predicted giving up on the race target instead.
+
+That independence is the part worth carrying away, because it dissolves the private ranking most people run on themselves during a silent week. You are not being placed somewhere along a line from generous to spiteful. Two separate things are being rated, and rating high on one says nothing about the other.
+
+Now the limits, which are considerable. Both of these ask you to rate sentences about yourself, which makes them a measure of what a person is willing to say about their own envy rather than of the envy. That is a hard problem for any self-rating and an unusually hard one here, because this pattern turns on people not admitting the feeling even privately. Neither one watches anybody answer a message. Neither one tells the five apart: somebody whose warmth simply runs late, and somebody absorbing a real loss, would rate low on envy and still let four days pass. And a race time is a long way from a friendship. So the honest and unsatisfying answer is that the tendency has been measured and the behavior described on this page has not.
 
 ## When Does This Belong With a Licensed Professional Rather Than a Page?
 
@@ -303,6 +319,22 @@ By what varies, rather than by what the reaction feels like, because all five fe
 | A real and concrete loss | What specifically left your life on the day theirs arrived? | It attaches to one event only. You are warm about everything else that week |
 
 Two notes on using this. First, it is common to have a primary and a secondary, most often the domain root with the shame root stacked on top of it, and in that combination the shame is doing the visible damage while the domain is doing the feeling. Second, if none of the five produces a jolt, the honest reading is that the one that applies to you has not been described here, which happens, and is worth taking seriously rather than forcing yourself into the nearest available box.
+
+## Why Can I Celebrate My Partner's Wins in Some Areas but Feel Flat About Others?
+
+Because the switch is neither the person nor the size of the win. What decides it is whether the win landed in a domain you privately grade yourself in, and a partner sits closer to you than anybody, which sharpens both directions at once.
+
+Run it against your own last year. Their promotion, if work of that kind is not how you measure yourself, probably felt straightforwardly good, and you may have told other people about it before they did. Their fitness, their new friendships, their sudden ease with money, the way their family took to them: one of those may have produced a small flatness you could not explain and did not enjoy noticing. Same partner, same afternoon, opposite reaction, and nothing about how much you love them changed in between.
+
+The model described earlier on this page, in the section on what researchers call this, predicts that split exactly. Closeness makes a success feel better when the domain is not one you define yourself by, and worse when it is, and a partner is the closest available case. You know what they earn. You know what they were doing at seven on a February morning, what they gave up, and what they never had to give up. Nobody else's achievement comes to you documented in that much detail from the inside, which makes a partner's win the most precisely specified comparison you will ever be handed.
+
+Two things follow, and both are about you rather than about your partner.
+
+The first is a reading you can take. The domains where you go flat are the domains you are still grading yourself in, and a partner's wins give you a cleaner reading than a friend's, because closeness stays constant and only the domain moves. List the last three of their wins that landed easily and the last three that did not. The second list is a list of open questions about yourself, and it was assembled without your consent, which is part of why it is worth trusting.
+
+The second is that flatness carries no information about whether you want their life to go well. Wanting good things for somebody and producing visible warmth at the moment it is called for are separate operations running at separate speeds. That is the subject of this whole page and it does not become a different subject because the person is your partner.
+
+What this section is deliberately not doing is turning into instructions for handling a partner. How a thin response to good news actually lands on the other person [is covered on its own page](/patterns/why-doesnt-my-partner-feel-loved-even-though-i-try/), response styles and all. The question here is narrower and entirely yours: why the same person's wins arrive so differently depending on which one it is.
 
 ## Where Does This Hide When You Would Not Call It Going Quiet?
 
@@ -399,7 +431,9 @@ Three components, and the third one is the one that is usually missing.
 
 Here is the useful thing about this list: all three are achievable while feeling nothing at all. Speed is a timer. Specificity is memory. A question is a sentence with a question mark. None of them requires you to have produced an emotion on demand, which is why this is the part of the problem that actually yields.
 
-## What Do You Say If You Are Already Days Late?
+## What Should I Text Someone When I Am Already Days Late Congratulating Them?
+
+The version of the question people actually ask themselves is shorter: what do you say if you are already days late?
 
 Something short, in three parts, and then you stop.
 

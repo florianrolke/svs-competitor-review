@@ -331,7 +331,7 @@ These are the sentences that run underneath a fight of this kind, in the phrasin
 - "I want to be with my wife. I love my wife. But we don't have that many things in common. We've got a lot of different things that we value and that we're interested in."
 - "I tend to overthink every little thing in relationships, looking for signs they're pulling away."
 - "I don't want to stop being angry, because if I don't get angry then I keep getting taken advantage of, and then no one will pay attention to me and I will make no progress at all."
-- "I was just treating him like he was this person in a war and I had to do everything myself, but no, he's a strong bloke."
+- "I was just treating him like he was this person in a war and I had to do everything myself, but no, he's a strong guy."
 - "I know that focusing on me, me, me, me, me is not the answer."
 - "One wasn't right and one wasn't wrong, it was just different."
 - "It's not that the marriage isn't gonna work, and it won't if she changes. It will work, but it's not anything she can do. It's something I have to do."

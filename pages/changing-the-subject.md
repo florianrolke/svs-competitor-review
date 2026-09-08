@@ -112,7 +112,7 @@ You say it has been fine, busy, a lot of work stuff. Then you say that you have 
 
 She talks for twenty minutes. You ask two follow-up questions that are genuinely good, because you were listening properly and you remembered the detail from March. She gets to the part she has not said out loud to anybody yet, and she says it, and you are the right person to hear it. That part is completely real.
 
-At half past ten you split the bill and hug on the pavement and she says that was exactly what she needed. She means it. You did give her something valuable.
+At half past ten you split the bill and hug on the sidewalk and she says that was exactly what she needed. She means it. You did give her something valuable.
 
 In the taxi you realize you could write two pages about her year and she could name your job title. She organized an evening for the specific purpose of hearing about you, and you got out of it in under four seconds, using a question about her mother that you asked because you actually wanted to know.
 
@@ -156,6 +156,8 @@ Count the repetitions. If you are forty, you have been asked how you are somewhe
 That framing matters more than it sounds, because it changes what you would sensibly try. A reaction can sometimes be soothed. A procedure that works cannot be argued with while it is running, and the standard advice asks you to do exactly that.
 
 There is a second reason the reflex is so stable, and it is the harder one. Every single time it fires, it is rewarded. The other person relaxes. The conversation gets easier. You are told you are a good listener. Nothing about the immediate result gives you any reason to stop, and the cost, when it eventually shows up, arrives hours or years later with no obvious connection to the thing that caused it.
+
+There is a timing fact underneath this that belongs to conversation rather than to you. The gap between one person finishing and the next starting is shorter than the time it takes to plan what to say, which is why the opening move of any answer tends to be whichever one you already own. [The page on interrupting](/patterns/interrupting-people/) carries that measurement with its researchers named, so it is described here rather than cited again. That measurement comes with a limit worth holding onto. It accounts for the speed of the handover and for nothing else. It says why a well-drilled move gets there first, and it has nothing at all to say about why yours is a question about her mother instead of a straight answer.
 
 So the honest description is a move that is fast because it is practiced, practiced because it works, and invisible because it succeeds. None of that tells you why you started, and the why is what actually varies between people.
 
@@ -206,7 +208,7 @@ This is the distinction that changes what a reader should do next, and it is alm
 
 Topic avoidance has a perimeter. One subject, or two, is off limits, and everything outside the perimeter runs completely normally. You will talk about your work, your opinions, the film, your sister, and the state of the country. The conversation only pivots when it comes near the specific thing. From outside, over one dinner, that looks like general reticence. Over a year it looks like a person who is open about everything except one item, and who has been steering around that item so smoothly that nobody has ever named it, including them.
 
-Person avoidance has no perimeter and no subject. The channel itself is narrower with one particular individual, on everything. With that person you redirect about the weather, about your weekend, about your holiday plans. Nothing is being guarded because there is no specific thing to guard. What is being managed is the relationship.
+Person avoidance has no perimeter and no subject. The channel itself is narrower with one particular individual, on everything. With that person you redirect about the weather, about your weekend, about your vacation plans. Nothing is being guarded because there is no specific thing to guard. What is being managed is the relationship.
 
 | Over a year, what you would actually see | Topic avoidance | Person avoidance |
 |---|---|---|
@@ -218,7 +220,29 @@ Person avoidance has no perimeter and no subject. The channel itself is narrower
 
 The practical test takes about two minutes. Write down the last five people who genuinely asked how you were. Beside each one, note which subjects moved normally and which stopped. If the same subject stopped with all five, you have a perimeter. If one person got a wall on everything, you have a relationship rather than a pattern, and reading further about conversational habits will not help you with it.
 
+The distinction is built into the researched term rather than bolted onto it afterward. Dailey and Palomares, in the 2004 Communication Monographs study named further up this page, defined topic avoidance as steering around a particular subject with a particular partner, and measured it along exactly those two axes: how often it happens, which strategies do the steering, and what it correlates with in the relationship. That scoping is why the question in this heading can be answered at all. The limit is that the measure runs on what people report about themselves, so it establishes that the two axes exist and vary; which of them is carrying your own case is what the five-name comparison below is for.
+
 There is a third result that comes up often and is worth naming, which is all five people and all subjects. That is the version this page treats as the general case, and it usually points at the roots below rather than at any particular topic or person.
+
+## Why Do I Dodge Personal Questions From My Boss but Answer My Friends?
+
+Because those are two different acts wearing the same face, and the divide between them is the most useful piece of evidence on this page.
+
+With a manager, the redirect is usually a decision. What you say at work travels, gets remembered, and comes back later attached to a judgment about how much weight you can carry. Saying that the year has been hard in a one-on-one is a different transaction from saying it across a restaurant table, and treating the two as the same thing would be a misreading. The redirect there reads the room correctly: real consequence, small return. Nothing on this page asks you to change it, and a version of you who answered fully at work would be worse off rather than more honest.
+
+So if the pivot fires with your manager and stays quiet with the friend who has known you longest, most of what this page describes is already under your control, and there is not much here for you.
+
+The divide gets interesting when it runs the other way, or when it stops being a divide at all.
+
+| What you actually notice | What the divide is telling you |
+|---|---|
+| It fires with your manager and almost nobody else | A judgment about consequence, made on purpose. Working as intended |
+| It fires with your manager and also with the friend who knows you best | Closeness is the variable rather than consequence, and the friend is where the work sits |
+| It fires with everybody, including people with nothing at stake either way | The general case this page is about, and the roots below are where to look |
+
+The middle case is the one worth slowing down over, because it is easy to account for and the account covers only half of it. Somebody who redirects at work and redirects with their oldest friend will usually reach for the same word twice, and the word is privacy. Ask what it would actually cost to answer, in each of the two, and the difference shows up immediately. With the manager there is a specific consequence you can name in a sentence. With the friend most people go looking and come back with something that turns out to be a prediction about being a burden rather than anything that has ever happened.
+
+There is a quieter version of the same question, where the manager is standing in for anybody with a role attached: a recruiter, somebody interviewing you, a person whose good opinion carries an outcome. If the redirect fires whenever there is a role in the room and never with people who arrived as people, that is worth knowing, because what is being managed is the sense of being sized up rather than the subject on the table.
 
 ## Why Does an Uneven Conversation Feel Wrong to Both of You?
 
@@ -276,7 +300,7 @@ Then the reflex may be courtesy rather than defense, and confusing the two leads
 
 Some houses allocate the airtime elsewhere, and everybody in them learns the allocation. A parent who was ill. A sibling whose crises were genuinely larger and genuinely urgent. A parent whose day was always the day that got discussed at dinner, not out of cruelty, just out of habit and volume. A family where the question about your day was asked in the tone of a form being completed and answered accordingly.
 
-A child in that house is not damaged by learning this. They are reading the room correctly. Giving the floor to the person whose material is bigger is accurate social judgment, and it is rewarded, and it becomes competence. The child who learns it well becomes an adult who is unusually good at conversation and completely unpractised at being its subject.
+A child in that house is not damaged by learning this. They are reading the room correctly. Giving the floor to the person whose material is bigger is accurate social judgment, and it is rewarded, and it becomes competence. The child who learns it well becomes an adult who is unusually good at conversation and completely unpracticed at being its subject.
 
 The diagnostic here is the absence of fear. Ask this reader how they feel when somebody wants to hear about them, and what comes back is a genuine blank rather than any form of dread. A puzzled sense that there is nothing there worth the time, combined with a real willingness to answer if somebody insists. That combination rules out the first two roots almost immediately.
 
@@ -355,6 +379,8 @@ There is a fourth, quieter cost that is worth naming because it operates without
 | The other person from a burden | They never get to give, and later feel shut out | Them, years later, usually when they find out |
 | An accurate current picture of you | People make decisions about you from an old one | Nobody. This one runs indefinitely |
 
+What it costs a friendship turns out to depend less on the redirect than on what your friend eventually decides it meant. "Topic Avoidance, Goal Understanding, and Relational Perceptions: Experimental Evidence", an experimental study of friendships in Communication Research, published online in 2016 and in print in 2019, is named here by title because one of the two researchers named further up this page wrote it and it reports a different finding: people who read a friend's avoidance as the friend protecting themselves reported lower satisfaction and more hurt and distance than people who read the same avoidance as protecting the friendship. Participants were judging a described situation rather than a friendship they were living inside, so it shows what an inference does to a judgment and not what years of handovers do to a friendship. The handover on this page delays that inference rather than preventing it, because for as long as it is happening it looks like interest, and the inference gets made later, in one piece, usually on the day they find out what you had been carrying.
+
 ## When Is Changing the Subject Exactly the Right Move?
 
 Frequently, and any page that skips this is not being straight with you.
@@ -363,9 +389,13 @@ A work meeting is not a place to answer honestly about your month. Somebody in a
 
 Privacy is a legitimate decision, and the difference between privacy and this pattern sits in whether you chose, rather than in the amount you say. Somebody genuinely private can tell you within seconds what they have decided not to discuss and roughly why. The pattern on this page does the sizing on its own, before you arrive.
 
+There is a framework in communication research for exactly this, and its opening move is to treat privacy as legitimate by default. It describes private information as something a person owns and draws boundaries around, governed by rules about who may have access, so that telling somebody makes them a co-owner holding rules of their own. [The page on hiding small things](/patterns/hiding-small-things/) carries it with its author named, so what appears here is the model itself rather than a fresh citation of it. The framework stops at a clear edge, and the edge is the useful part here. It explains how privacy rules work and what happens when two people hold different ones, and it has nothing to say about whether a rule you never chose counts as a rule.
+
 That gives a clean line, and it is the only line this page really asks you to hold. A pivot you chose costs nothing and needs no attention. A pivot that happened to you is the one worth looking at, and even then only in the two or three relationships where it is actually costing something.
 
-## Where Is the Line Between the Reflex and the Following Minute?
+## What Can I Do After I Have Already Redirected the Conversation?
+
+Quite a lot, and all of it turns on where the line falls between the reflex itself and the minute that comes after it.
 
 This is the part that separates this page from every version of this advice you have already tried, and it comes down to picking a different moment.
 

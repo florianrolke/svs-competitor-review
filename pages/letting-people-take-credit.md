@@ -346,7 +346,7 @@ The meeting version is the obvious one. The rest are quieter and add up faster.
 
 **The fix nobody saw.** The problem you caught before it happened, which therefore never happened, and which therefore never appeared. This is the largest category by volume and the hardest to claim, because there is no event to attach the claim to.
 
-**The unpaid domestic version.** Eleven years of organizing every birthday, holiday and hospital appointment, in a family where the arrangements are described as though they occur naturally. Nothing about this is a workplace problem and the shape is identical.
+**The unpaid domestic version.** Eleven years of organizing every birthday, vacation and hospital appointment, in a family where the arrangements are described as though they occur naturally. Nothing about this is a workplace problem and the shape is identical.
 
 **The retelling.** A friend tells your story back to you as something that happened to them, or repeats your line at the table as their own. Small, common, and it produces the same four seconds and the same silence.
 

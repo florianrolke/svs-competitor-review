@@ -189,7 +189,7 @@ The consequence follows directly and it is uncomfortable. If the anticipation of
 
 There is a shape in the research on time away from work that lines up with this closely, and it is worth knowing both for what it establishes and for how modest it is.
 
-Nawijn and colleagues reported in 2010 on a large sample of Dutch adults, comparing people who took a holiday with people who did not. The finding people quote is the striking one: vacationers reported higher happiness than non-vacationers **before** the trip, which the researchers attributed to anticipation. The half that gets quoted less often is what happened afterward. After the holiday, most vacationers were no happier than the people who had not gone anywhere. The exception was a subgroup who described their trip as very relaxed, and their elevation lasted a couple of weeks.
+Nawijn and colleagues reported in 2010 on a large sample of Dutch adults, comparing people who took a vacation with people who did not. The finding people quote is the striking one: vacationers reported higher happiness than non-vacationers **before** the trip, which the researchers attributed to anticipation. The half that gets quoted less often is what happened afterward. After the vacation, most vacationers were no happier than the people who had not gone anywhere. The exception was a subgroup who described their trip as very relaxed, and their elevation lasted a couple of weeks.
 
 Set beside that, the work on what happens to a vacation effect over time. de Bloom and colleagues reviewed this literature and ran their own studies on it, and the shape is consistent: health and wellbeing improve during a break and fade out afterward, often substantially within the first week back, sometimes within days.
 
@@ -201,7 +201,7 @@ None of this was measured on weekends. It was measured on vacations, and a vacat
 
 It is nearly all self-report, which is what you would expect and is still a limitation. People rate their own happiness on scales, before and after, and the ratings carry every bias that self-report carries, including a strong pull toward reporting that an expensive trip was worth it.
 
-The Nawijn comparison is between people who took holidays and people who did not, which cannot separate the trip from the person. People who take holidays differ from people who do not in income, in job type, and in a hundred other ways.
+The Nawijn comparison is between people who took vacations and people who did not, which cannot separate the trip from the person. People who take vacations differ from people who do not in income, in job type, and in a hundred other ways.
 
 And effect sizes across this literature are modest. This body of work reports a consistent direction with a good deal of noise around it, rather than large, robust, repeatedly replicated effects.
 
@@ -283,7 +283,7 @@ Three questions separate the season from the pattern.
 
 **Does it have an end date behind it?** A season points at something specific that finished or is finishing. A pattern has been running for two years and cannot name the thing it is recovering from.
 
-**Does a genuinely light week change it?** Take a week where the load is unusually low, through a holiday period or a cancellation or luck. If Saturday looks different that weekend, you are looking at load. If Saturday looks exactly the same, something else is running, and the load explanation is incomplete.
+**Does a genuinely light week change it?** Take a week where the load is unusually low, through a vacation period or a cancellation or luck. If Saturday looks different that weekend, you are looking at load. If Saturday looks exactly the same, something else is running, and the load explanation is incomplete.
 
 **Was there a version of you who did not do this?** Most people can date the change to within a year if they think about it. What else changed in that year is usually the more informative question, and it is rarely the weekend.
 

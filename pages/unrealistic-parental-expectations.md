@@ -221,10 +221,10 @@ faqs:
 - a: Because the rule being obeyed is about earning rather than about permission.
     A booked week away is still time borrowed against output, so something keeps checking
     whether enough was banked beforehand to justify it. The usual signs are working
-    at double speed for the fortnight before, opening email on day three, and needing
-    the holiday itself to be productive in some measurable way. The guilt follows
+    at double speed for the two weeks before, opening email on day three, and needing
+    the vacation itself to be productive in some measurable way. The guilt follows
     the internal rule and ignores how tired you are.
-  q: Why can't I relax on holiday even when nothing is expected of me?
+  q: Why can't I relax on vacation even when nothing is expected of me?
 - a: The phrase describes a parent with little room for a child's feeling, who met
     an interior with a subject change or a flash of irritation and whose own state
     had to be handled first by everybody else. It reached the general public through
@@ -339,7 +339,7 @@ People describe this in almost identical words: "I feel like I'm living my paren
 
 The mechanism is ordinary and quite sad. A parent's unfinished ambition, the degree they did not get, the business that folded, the country they left, the sport they were talented at until an injury, gets passed to the child as a job. That is a heavy thing to be given and a nearly impossible thing to refuse, because refusing it looks like ingratitude in the exact place where gratitude is most owed. So the child takes it, usually without any conversation about it ever happening.
 
-The tell shows up in decisions rather than in feelings. Choosing a subject to study, taking one job offer over another, choosing a city, deciding whether to stay in a relationship: the decision gets run through "would this make them proud" before "do I actually want this", and most people notice the order only afterwards, sometimes many years afterwards. At the time the whole thing feels like weighing options up sensibly, which is the only way it could feel from inside.
+The tell shows up in decisions rather than in feelings. Choosing a subject to study, taking one job offer over another, choosing a city, deciding whether to stay in a relationship: the decision gets run through "would this make them proud" before "do I actually want this", and most people notice the order only afterward, sometimes many years afterward. At the time the whole thing feels like weighing options up sensibly, which is the only way it could feel from inside.
 
 Then comes the part that keeps people stuck in a career they no longer want. Ask someone in this pattern what they would do if achievement stopped counting, and the honest answer is often nothing at all: "I don't know who I am outside of striving for success", "If I step off this path of constant achievement, I don't know who I'd be." Stepping off would cost the salary and, past that, the only identity that has ever been on offer, which makes walking away from an authored life much more frightening than it looks from outside. [The question of who you are underneath the roles is worth sitting with separately](/insights/who-am-i/), as is [what purpose looks like once achievement stops carrying all of it](/insights/how-to-find-your-purpose/).
 
@@ -390,13 +390,13 @@ The rest row catches more people than any of the others, and it catches them lat
 
 One physical detail belongs here because so many people carry it without connecting it to anything. Headaches, or a stomach that goes wrong, in the day or two after time with parents, with nothing else obvious to explain it. The body keeps its own ledger and is frequently more honest than the one you keep consciously.
 
-The relationship row runs quietly and does real damage over years. If your place has always felt earned, being cared for while producing nothing feels less like being loved and more like being demoted, so you find a way to balance the exchange quickly. That habit sits right next to two neighbouring patterns worth knowing about: [the compulsion to keep everybody else comfortable](/patterns/what-is-people-pleasing/), and [the childhood role where managing the adults was your actual job](/patterns/parentification/). The last row, the analyzing in place of feeling, has [its own practical page on how to feel a feeling rather than think about it](/insights/how-to-feel-your-emotions/).
+The relationship row runs quietly and does real damage over years. If your place has always felt earned, being cared for while producing nothing feels less like being loved and more like being demoted, so you find a way to balance the exchange quickly. That habit sits right next to two neighboring patterns worth knowing about: [the compulsion to keep everybody else comfortable](/patterns/what-is-people-pleasing/), and [the childhood role where managing the adults was your actual job](/patterns/parentification/). The last row, the analyzing in place of feeling, has [its own practical page on how to feel a feeling rather than think about it](/insights/how-to-feel-your-emotions/).
 
 ## Why Do You Edit Yourself Before You Call Home?
 
 Because being known and being approved of came apart early, and you learned to protect the second one.
 
-The editing is usually detailed and mostly unconscious. Rehearsing the call before dialling. Quietly cutting whatever is not going well. Leading with the win. Sometimes downplaying the win too, because a large one invites scrutiny or sounds boastful, so it gets presented at about seventy percent of its actual size. Justifying a lifestyle choice at length when nobody has asked. Becoming, within ten minutes of arrival at their house, a noticeably different person than the one your friends know.
+The editing is usually detailed and mostly unconscious. Rehearsing the call before dialing. Quietly cutting whatever is not going well. Leading with the win. Sometimes downplaying the win too, because a large one invites scrutiny or sounds boastful, so it gets presented at about seventy percent of its actual size. Justifying a lifestyle choice at length when nobody has asked. Becoming, within ten minutes of arrival at their house, a noticeably different person than the one your friends know.
 
 There is a second thing running underneath this that people rarely name. The editing protects your parents at least as much as it protects your image. Easing their worry somewhere along the line became your job, so a struggle reported honestly would cost them a difficult week and cost you the knowledge that you caused it. That is a heavy piece of luggage for an adult child to be carrying, and it is almost always carried silently.
 
@@ -466,7 +466,7 @@ Every one of these patterns is a polarity with two ends, and describing only the
 |---|---|---|
 | Conditional self-worth | Unconditional self-worth | A bad week passes and your sense of your own value does not move with it |
 | Dependency on validation | Self-validation | You finish something, judge it good, and the judgment holds without a second opinion |
-| Attachment to parental approval | Approval sought from inside | You make the decision first and mention it afterwards, with no rehearsal beforehand |
+| Attachment to parental approval | Approval sought from inside | You make the decision first and mention it afterward, with no rehearsal beforehand |
 | Chronic dissatisfaction | Contentment | A win gets enjoyed on the day it happens, for considerably longer than eleven seconds |
 | Attachment to outcome | Process orientation | You notice you liked the work itself, separately from how it landed with anybody |
 | Denial of personal passion | Pursuit of what you actually want | A Saturday spent on something with no outcome attached and no guilt attached either |
@@ -532,4 +532,4 @@ Is that frustrating? Yes, and I would rather say so plainly than sell you a fast
 
 Write down the last three significant decisions you made, one line each: a job, a move, a relationship, a purchase big enough that you thought about it. Beside each one, write which question you actually answered first, "do I want this" or "would this make them proud", and be honest, including about the ones where the truthful answer is both. Then take whichever of the three matters most to you now and write the answer you would have given if only the first question had existed. Fifteen minutes, nobody ever sees it, and most people find it uncomfortable inside the first two lines, which is precisely what makes it worth doing.
 
-If what pulls at you is the worth question itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anyone arrives, a group kept small enough that the competent, helpful high performer cannot quietly run the same act inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included. Feel into it and find out for yourself. A week spent finding out who you are when nobody is scoring you is rarely wasted, whatever you decide afterward.
+If what pulls at you is the worth question itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this kind of material: real screening before anyone arrives, a group kept small enough that the competent, helpful high performer cannot quietly run the same act inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included. Feel into it and find out for yourself. A week spent finding out who you are when nobody is scoring you is rarely wasted, whatever you decide afterward.

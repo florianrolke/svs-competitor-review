@@ -78,7 +78,7 @@ faqs:
 - q: "When does this belong with a professional rather than a page like this?"
   a: "If any thought about harming yourself is in this, that comes first and belongs with a licensed professional or a crisis line today. Also if avoidance has narrowed to work, shops, or medical appointments, if this began sharply after a loss or a frightening event in the last few months, or if sleep has been broken for months and a flatness has not lifted."
 - q: "How long does this take to change?"
-  a: "Noticing arrives inside a fortnight and the reflex takes months. Most people can catch the moment the dread starts within two weeks of paying attention, and catching it counts even on the days you still cancel. It also arrives in patches. You may hold every morning plan for a season while every evening one still goes. That is the normal shape rather than proof that nothing took."
+  a: "Noticing arrives inside two weeks and the reflex takes months. Most people can catch the moment the dread starts within two weeks of paying attention, and catching it counts even on the days you still cancel. It also arrives in patches. You may hold every morning plan for a season while every evening one still goes. That is the normal shape rather than proof that nothing took."
 - q: "Does understanding why I cancel make me stop?"
   a: "On its own, rarely. Understanding is useful once, so you stop treating the behavior as a character verdict, and it also puts a lot of pressure on you if you do not act on it. Life changes through action. You can describe your own root in precise language on Tuesday and still send the two-hour text on Thursday, which is ordinary rather than a personal failure."
 related:
@@ -203,6 +203,8 @@ Because you did. The yes was sincere, and the first thing to stop doing is treat
 Look at the conditions the yes was made under. It was probably a Sunday, or the end of a good conversation, or a moment when someone's warmth was in front of you. The date was far enough away to be abstract. You had energy at that moment, or at least the memory of energy. You pictured the evening in the way everybody pictures a future evening, which is to say as a highlight reel with the travel removed, the awkward first twenty minutes removed, and the version of yourself who shows up already relaxed and interesting.
 
 None of that was dishonest. It was a forecast made by a rested person, about a rested person, in conditions of low demand.
+
+Liberman and Trope, in a 1998 paper in the Journal of Personality and Social Psychology titled The role of feasibility and desirability considerations in near and distant future decisions, found across five studies that decisions about distant activities were weighted toward how desirable the end state looked, while decisions about near ones were weighted toward how feasible it would be to get there, with students choosing an assignment weeks away going on how interesting it was and students choosing one due imminently going on how hard it would be. That names the handover and goes no further than naming it: it measures which consideration wins at which distance, and it has nothing to say about what your own feasibility judgment is made of by six o'clock on the day, which is the part that settles whether you go.
 
 The going gets done by somebody else entirely. That person has had a specific Thursday, with whatever it contained. Their body knows exactly what four hours of being pleasant costs, because it has paid the bill before. They are not imagining the evening any more; they are pricing it. And crucially, they had no vote in the original decision.
 
@@ -332,6 +334,20 @@ Attending without being present. The version where your body is in the room and 
 
 Naming all seven has a purpose beyond adding to the count against you. These versions are where the pattern hides from measurement, and you cannot change something whose real frequency you have never seen.
 
+## How Is Chronic Canceling Measured?
+
+By counting, over a fixed window, from the record rather than from memory. Nothing scores this from outside and there is no number at which it becomes official, so the only measurement available is the one you run on your own calendar, and it is worth running properly because almost everybody guesses it wrong in the same direction.
+
+Take twelve weeks, which is the shortest window that shows a shape and the longest one you can still reconstruct accurately. Then pull three numbers out of it. How many plans you agreed to. How many of those you did not attend. How many of the ones you did not attend were given a new date within a week. The first two set against each other give you the headline number. The third is the one that separates the two kinds of cancellation described earlier on this page, because a broken plan that gets rebooked costs a fraction of what a broken plan that quietly expires costs.
+
+Two corrections have to be applied or the count will read low. The exits in the section above leave no trace in a calendar: a maybe that was never firmed up, a message left for six days, a yes with no day attached. None of those produce anything to count, and all of them produce the same evening back, so keep a separate tally of them and mark it as such. The second correction is that memory over-samples the ones that stung. The evening you canceled on your closest friend is retrievable; the four you canceled the same month without thinking about them are not, which is why the numbers have to come off the calendar and the sent folder rather than out of what you can call to mind.
+
+Then attach four attributes to each broken plan, because the clustering is where the useful information sits: how long it was going to run, what hour it started, how far away it was, and how many people were going to be there. Most people who do this find the broken ones stack up on one or two of the four rather than spreading evenly, and a single attribute carrying most of the weight is a far more workable result than a high headline number.
+
+What research measures here is something adjacent rather than the behavior itself: the distance between an intention somebody genuinely formed and the act that was supposed to follow it, which is named earlier on this page. That work establishes the gap is large and ordinary across populations. It does not hand you a threshold, because no threshold exists.
+
+Which is the limit worth ending on. A count gives you frequency, shape, and which way it is moving. It cannot tell you which root you are in, and two people can arrive at identical numbers running entirely different systems underneath. The only threshold that has ever mattered in this pattern has nothing to do with a number: whether the people you want in your life are still asking.
+
 ## Why Is the Text Always Sent About Two Hours Before?
 
 Because two hours is a very specific window, and almost everybody lands in it independently.
@@ -351,6 +367,8 @@ Which gives you a practical handle. The decision to cancel is usually made in th
 More than any individual evening, and it accumulates somewhere you cannot see it.
 
 The visible cost is the friendships. They rarely end. There is almost never a confrontation, a falling out, or a conversation where somebody tells you they have had enough. What happens instead is that the suggestions get less frequent. Somebody who used to propose something every month proposes something every three months, then twice a year, then stops, and none of it is announced. By the time you notice, the last invitation was fourteen months ago and you cannot remember it.
+
+The thinning has been followed over time rather than only described: Gable's 2006 paper in the Journal of Personality on approach and avoidance social motives and goals ran three studies, two of them tracking people across months, and found that social goals framed around avoiding something going wrong were reliably associated with more loneliness and more insecurity about relationships, while goals framed around moving toward something were associated with less loneliness and more satisfaction with social bonds. It reports an association across a sample rather than a forecast for any one friendship, so it can tell you which way this tends to run and not which of the invitations that stopped would still be arriving if you had gone.
 
 The second cost is that you are gradually filtered into the kind of contact that requires no commitment. Messages instead of meetings. Being in the group thread but not at the thing. Hearing about it afterward. This is a slow migration and nobody arranges it deliberately. People simply route around unreliability the way water routes around a stone.
 
@@ -426,6 +444,8 @@ Something reliably unremarkable, which is the most useful information available 
 
 The reports are consistent enough to be predictable. The first eight to eleven minutes are approximately as bad as forecast: the arrival, the doorway, the working out where to stand. Then something settles. By twenty minutes in, most people are simply in the evening rather than observing themselves in it. Somewhere later there is often a genuinely good stretch, a conversation that goes somewhere, a moment you would not have had otherwise. And afterward there is a small, slightly annoying surprise at how fine it was.
 
+That gap has been measured directly rather than imagined: Epley and Schroeder's Mistakenly Seeking Solitude, published in 2014 in the Journal of Experimental Psychology: General, instructed commuters on trains and buses either to connect with a stranger near them or to stay disconnected, and the ones who connected reported a more positive and no less productive journey, while separate participants asked to predict how each of those would feel expected precisely the opposite. What that gives you on the day is grounds for distrusting the forecast rather than obeying it, and what it cannot give you is the size of your own gap or what the dread is pricing, which are the two things that settle whether you actually go.
+
 Then the strange part. That evening almost never improves the next forecast. Two weeks later, facing a different Thursday, the dread arrives at full strength as though the good evening had never happened. This confuses people badly and it makes complete sense, because your memory of last time has almost no input into the forecast. Your current state generates it, and your current state on the second Thursday is the same tired body it was on the first one.
 
 Which means the change does not come from accumulating good evenings and hoping they eventually persuade you. It comes from noticing, in the moment, that the forecast is being produced by a body rather than by evidence, and then deciding what to do about that with your eyes open.
@@ -442,7 +462,7 @@ So the sequence that works looks like this. Start with short, early, near, and f
 
 Then extend one variable at a time. Same short coffee, but in the evening. Or same time, but two people instead of one. Changing one thing at a time also tells you which variable is actually carrying the weight for you, which is worth more than any general improvement, because most people discover their pattern is driven by one variable rather than four.
 
-There is one thing worth doing out of order. If there is a specific person you have canceled on repeatedly and whose invitations have stopped, put a small, easy, early plan with them near the front of the queue, even though the emotional cost is high. The relationships that are actively thinning are the ones where a single kept commitment does the most work.
+There is one thing worth doing out of order. If there is a specific person you have canceled on repeatedly and whose invitations have stopped, put a small, easy, early plan with them near the front of the line, even though the emotional cost is high. The relationships that are actively thinning are the ones where a single kept commitment does the most work.
 
 ## How Do You Say No at the Invitation Instead of at the Door?
 
@@ -455,6 +475,8 @@ Smaller means agreeing to the version you can keep. I can do an hour. I can come
 Specific means naming the shape at the start rather than inventing it later. If you say when you agree that you will need to leave at nine, then leaving at nine is a kept commitment. If you say nothing and leave at nine anyway, it is an early exit that both of you notice. Same evening, same departure, completely different meaning, and the only difference is whether the end was named at the beginning.
 
 There is a fourth move, and it is the one people resist hardest: the honest no. Not tonight, I have nothing left, and I would be poor company. Ask me again. Said once, cleanly, to somebody who matters. Most people expect this to end friendships. What it actually does, in almost every reported case, is produce relief on the other side, because your unreliability had been getting read as something much worse than tiredness.
+
+If the yes is being given because refusing feels impossible rather than because the plan appealed, the problem sits upstream of the cancellation and it has its own page. [What makes a no feel unavailable, and the work on how badly people overestimate what a refusal costs them, is covered there](/patterns/how-to-stop-people-pleasing/).
 
 And for the person you have canceled on four times, the script is short. Say that you have canceled repeatedly, that you know how it has read, and that you would like to fix it. Then propose one small specific thing and keep it. Do not promise a pattern. One kept coffee outperforms any paragraph of explanation, and explanations offered without a kept plan behind them tend to make the situation worse rather than better.
 
@@ -476,7 +498,7 @@ And the last part happens without any conversation about it. People start sugges
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of paying deliberate attention, most people can catch the exact moment the dread starts, and can watch the whole sequence unfold in real time: the reminder, the drop, the bargaining, the search for a reason. That stage is frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless of whether the message still gets sent.
+Noticing arrives fast. Within two weeks of paying deliberate attention, most people can catch the exact moment the dread starts, and can watch the whole sequence unfold in real time: the reminder, the drop, the bargaining, the search for a reason. That stage is frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless of whether the message still gets sent.
 
 The reflex takes months, because it fades at the pace of accumulated evidence rather than insight. Every kept plan is one data point against a rule that had years to install itself, and twenty unremarkable ones change a great deal.
 

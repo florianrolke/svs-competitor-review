@@ -74,7 +74,7 @@ faqs:
 - q: "What does the resolved version look like?"
   a: "Not the absence of the standard. The standard stays and stops being the only mechanism keeping the work up. You notice the pull to rewrite, spend the same energy on three exact sentences instead, and let a version go out that you would have written differently. Some of it comes back better than yours, which is genuinely disorienting the first few times."
 - q: "When does this belong with a licensed professional?"
-  a: "If you cannot stop working even when there is nothing urgent, if your body has started sending signals you are overriding, if the exhaustion has flattened into something that no longer lifts on holiday, or if a mistake by somebody else produces a reaction that frightens you or the people near you, that belongs with a licensed professional now rather than later."
+  a: "If you cannot stop working even when there is nothing urgent, if your body has started sending signals you are overriding, if the exhaustion has flattened into something that no longer lifts on vacation, or if a mistake by somebody else produces a reaction that frightens you or the people near you, that belongs with a licensed professional now rather than later."
 - q: "What is worth doing the next time something comes back wrong?"
   a: "Set a timer for ten minutes and do not open the file. Write three sentences instead: what is wrong, why it is wrong, and what finished would look like. Send those and nothing else. Then note how long the three sentences took compared with your estimate. Most people badly overestimate that number, and seeing the real figure once is worth more than any resolution."
 related:
@@ -121,7 +121,9 @@ The thing worth saying first is the thing almost nobody writing about this will 
 
 You were probably right.
 
-## Was Taking It Back Actually the Wrong Call?
+## Why Do I Take Work Back When Doing It Myself Really Is Faster?
+
+Was taking it back actually the wrong call?
 
 Almost certainly not, on Wednesday, for that piece of work.
 
@@ -189,7 +191,7 @@ Here is where all three stop, said plainly. Every one of them describes a **what
 
 Before anything practical, since it decides whether the rest of this applies to you at all.
 
-If you cannot stop working when there is genuinely nothing urgent, and an empty evening produces something closer to dread than to relief, that is worth taking to somebody qualified rather than reading about. If your body has begun sending signals you are routinely overriding, including sleep that has stopped working, that belongs with a doctor first and everything else second. If the exhaustion has flattened into something that no longer lifts on a holiday or a long weekend, the distinction between tiredness and something needing treatment is not one to make on your own.
+If you cannot stop working when there is genuinely nothing urgent, and an empty evening produces something closer to dread than to relief, that is worth taking to somebody qualified rather than reading about. If your body has begun sending signals you are routinely overriding, including sleep that has stopped working, that belongs with a doctor first and everything else second. If the exhaustion has flattened into something that no longer lifts on a vacation or a long weekend, the distinction between tiredness and something needing treatment is not one to make on your own.
 
 And if a mistake by somebody else produces a reaction in you that frightens you, or frightens the people near you, that is the clearest signal on this list. None of that means the rest of the page is wrong about you. It means the order matters, and that comes first.
 
@@ -326,7 +328,9 @@ The person has noticed. They noticed around take-back two. They have not said an
 
 This is where the actual choice sits, and it is a much smaller and more specific choice than *learn to delegate*. It is the choice to spend the third occasion differently: same forty minutes, spent on three exact sentences instead of a whole document. Not because your version would have been worse. Because the third occasion is the last one where the situation is still about a task.
 
-## What Does the Other Person Actually Experience?
+## What Happens to an Employee When Their Boss Silently Rewrites All Their Work?
+
+What does the other person actually experience?
 
 Something quieter and more corrosive than you would expect, and almost never a grievance.
 
@@ -352,11 +356,13 @@ Yes, though probably not what the popular explanation says.
 
 Maslach and Jackson described sustained work exhaustion in 1981 as having three components rather than one: the depletion itself, a growing cynicism toward the work and the people in it, and a falling sense of accomplishment even where accomplishment is objectively high. That combination fits this pattern precisely. You are tired, you have developed a private low opinion of what everybody around you would do without you, and you feel less impressive to yourself every year despite doing more than anyone.
 
-The rest matters here. A weekend replaces hours. It leaves the position untouched, which is why Monday reads exactly like the Friday before it, and why people running this pattern report that holidays help for about four days.
+The rest matters here. A weekend replaces hours. It leaves the position untouched, which is why Monday reads exactly like the Friday before it, and why people running this pattern report that vacations help for about four days.
 
 One popular explanation deserves to be retired. The idea that self-control drains like fuel from a tank was repeated for twenty years and taught to a generation of managers. A large preregistered replication run across many laboratories and reported by Vohs and colleagues in 2021 found effects close to zero. Whatever is happening to you on Thursday evening is better explained by the number of separate decisions routed through one person than by a reservoir running low, and the difference is practical. A reservoir suggests resting more. A routing problem suggests changing what gets routed.
 
-## Why Would You Not Give This Up Even If You Could?
+## Why Is Being the Reliable One So Hard to Give Up?
+
+And would you give it up even if you could?
 
 Because it is a position and not only a burden, and positions are not surrendered for being tiring.
 
@@ -395,6 +401,22 @@ Your output stops at what one person can personally touch. That is a hard number
 Nothing visibly breaks. That is what makes it hard to see and hard to argue with. The work is good. Clients are satisfied. Your reputation is excellent and entirely deserved. You simply arrive at a career where every good thing that happens has to pass through your hands first, and where a two-week absence produces a backlog rather than a functioning system continuing without you.
 
 The domestic version follows the same curve and is usually further along. The person you live with stopped offering some time ago, on the reasonable grounds that offers were being converted into supervision. What you experience as carrying everything, they experience as having been quietly retired from a job they were willing to do.
+
+## How Does Taking Over Chores Affect My Partner at Home?
+
+The offers stop, and they stop quietly enough that you will read it as them not minding.
+
+It runs on the same mechanism as the work version with one part removed. At work a deadline stands behind every take-back and supplies a reason anybody would accept. At home nothing is due, so the take-back has to be explained some other way, and what arrives instead is that this is simply how you like it. You like the laundry done your way. You are exacting about where the shopping goes. Nobody can argue with how somebody likes things, and nobody has to, which makes it a better cover than urgency ever was.
+
+What the other person goes through is what the person at work goes through, with one difference that matters. Somebody at work cannot say the honest sentence without damaging their standing there. Somebody you live with can say it, and often has, in a form you heard as something else. *You are going to redo it anyway* lands as a complaint about your tone, and it is closer to a report on a loop from the only person watching the whole of it.
+
+There is a documented reason the argument that follows never lands anywhere. Your own contributions are easier to recall than anybody else's, since you were present for all of yours and for only some of theirs, so your estimate of how much you carry at home runs high. Two honest people can both believe they carry most of it and both be reporting their memory accurately. The 1979 study behind that effect is named in full on [the page about carrying the family's blame](/patterns/the-one-my-family-blames/).
+
+The effect has a clear limit. It concerns what is easy to recall, so it cannot establish who actually did more, and it runs in the person across from you exactly as it runs in you. Trading longer lists cannot settle it, because both lists are true as far as they go.
+
+At home the move is the work version transplanted. Pick something where a miss is recoverable, say once what finished looks like, and let their version stand, including the version you would have done differently, including the part where you notice it later and leave it alone. The quiet correction performed after everybody else has gone to sleep is the domestic form of fixing it downstream, and it produces the same two outcomes: somebody who believes their work was fine, and the same work arriving back in your hands.
+
+One case this page does not own. If what you recognized is something at home you have never once handed to anybody, that has its own page: [the work you never hand over](/patterns/the-work-i-never-hand-over/).
 
 ## What Actually Changes This?
 

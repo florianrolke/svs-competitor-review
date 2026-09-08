@@ -381,7 +381,7 @@ In about seven places, and most people recognize themselves in two of them at fi
 | Where it shows up | What it looks like from outside | The sentence underneath |
 |---|---|---|
 | At work, given an open mandate | Excellent on a brief, stalls when asked what the team should do next | "Tell me what you want and I'll deliver it." |
-| With money | No plan beyond what happens automatically, decisions deferred until a deadline forces them | "I'll sort it out properly when there's more of it." |
+| With money | No plan beyond what happens automatically, decisions deferred until a deadline forces them | "I'll work it out properly when there's more of it." |
 | In a relationship | Preferences deferred to the other person, from the restaurant up to which city you live in | "I honestly don't mind, whatever you'd prefer." |
 | With your own time | Evenings and weekends filled by whatever presents itself | "I'll decide what to do with Saturday when Saturday gets here." |
 | With health | Handled in bursts, usually after a scare, following whichever program somebody recommended | "I'll just do what the plan says." |

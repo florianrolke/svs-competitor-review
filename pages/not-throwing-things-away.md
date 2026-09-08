@@ -123,7 +123,7 @@ Packaging for electronics, kept because the box is what you need if you ever ret
 
 These are the lines people run in their heads about it, in the wording they use when nobody is listening.
 
-- "I will decide about it properly at the weekend."
+- "I will decide about it properly on the weekend."
 - "It is perfectly good. Somebody would want that."
 - "The minute I get rid of it, I will need it."
 - "I do not even like it. I still cannot put it in the trash."
@@ -361,7 +361,7 @@ A value feels like yours. You can explain it, you would defend it in an argument
 
 A bind feels like something happening to you. You cannot explain it, you feel worse rather than better, the exceptions are impossible, and the number of jars has long since passed anything you will ever fill. Nobody needs ninety jars, including people who love jars.
 
-There is a further test that separates them cleanly. Ask what happens to the thing you keep. A value routes things somewhere: to a repair, to a neighbor, to a use. A bind routes things nowhere, and storage becomes the destination rather than a stage on the way to one. Two people can both refuse to throw away a working toaster. One passes it on within a fortnight. The other has four in the garage. Same principle, completely different outcome, and the difference is whether anything ever leaves.
+There is a further test that separates them cleanly. Ask what happens to the thing you keep. A value routes things somewhere: to a repair, to a neighbor, to a use. A bind routes things nowhere, and storage becomes the destination rather than a stage on the way to one. Two people can both refuse to throw away a working toaster. One passes it on within two weeks. The other has four in the garage. Same principle, completely different outcome, and the difference is whether anything ever leaves.
 
 If you read this section and recognize the value rather than the bind, then the honest conclusion is that this page has nothing to fix in you, and you should treat any pressure to strip the house as somebody else's aesthetic preference dressed up as health. The only thing worth checking is whether the value has quietly annexed a room it never asked for.
 
@@ -393,7 +393,7 @@ I might need it one day is the purest example in this whole subject, because it 
 
 It becomes checkable the moment you attach a number. How many times in the last five years have I gone looking for this exact item? For almost everything in the drawer the answer is zero, and zero over five years is a genuinely informative number rather than a rhetorical trick. Ask it about the cables, the paint cans, the manuals and the spare parts, and the drawer stops being a philosophical problem and becomes an ordinary one.
 
-Two other sentences do the same job and deserve the same treatment. It is worth money is checkable: list one item and see what actually happens over a fortnight. Somebody would want that is checkable too, and the check is whether you have ever taken any of it to them.
+Two other sentences do the same job and deserve the same treatment. It is worth money is checkable: list one item and see what actually happens over two weeks. Somebody would want that is checkable too, and the check is whether you have ever taken any of it to them.
 
 Self-knowledge is not the goal here, and this is worth saying plainly on a page that has just spent several thousand words on causes. Self-knowledge is useful, and it also puts a good deal of pressure on you if you do not act on it. Life changes through action after all. Understanding precisely why you keep things, described elegantly, with the right vocabulary, will leave the room exactly as full as it was this morning.
 
@@ -409,7 +409,7 @@ The third is the hosting cost. People stop inviting anybody over. It happens gra
 
 The fourth is the daily tax. A room full of unmade decisions makes a small demand every time you pass it. Not a thought, quite. A drag. Multiply a small drag by every day for six years and you get something that shows up as tiredness with no obvious source. [Feeling worn down without being able to point at why has its own page](/patterns/why-do-i-feel-overwhelmed-all-the-time/).
 
-The fifth belongs to somebody else, and it is worth stating directly because nobody enjoys hearing it and everybody who has done it will recognize it. If nothing is decided while you are alive, the decisions do not disappear. They get made by whoever is left, usually in a fortnight, usually under pressure, and usually with a dumpster. The person who could have told them which box mattered will not be there. That fact is not a reason to panic and it is a reason to name three or four things now, so the ones that mattered are not the ones that go first.
+The fifth belongs to somebody else, and it is worth stating directly because nobody enjoys hearing it and everybody who has done it will recognize it. If nothing is decided while you are alive, the decisions do not disappear. They get made by whoever is left, usually in two weeks, usually under pressure, and usually with a dumpster. The person who could have told them which box mattered will not be there. That fact is not a reason to panic and it is a reason to name three or four things now, so the ones that mattered are not the ones that go first.
 
 ## Why Does the Weekend Clear-Out Never Hold?
 
@@ -423,7 +423,7 @@ In practice the displacement goes to one of three places.
 
 The first is the inflow. You cleared the outflow end without touching what comes in, so the same volume arrives over the following months and the room refills on schedule. Nothing about the clear-out addressed acquisition.
 
-The second is another room. The garage got cleared and the attic got fuller, or the visible rooms got sorted and everything difficult moved into bags in the spare room, where it is technically tidy and no decision has been made about any of it.
+The second is another room. The garage got cleared and the attic got fuller, or the visible rooms got handled and everything difficult moved into bags in the spare room, where it is technically tidy and no decision has been made about any of it.
 
 The third is a rebound in the opposite direction. Some people, having been ruthless under pressure, discover that they threw out three things that genuinely mattered, and the resulting distress makes them noticeably more reluctant to let go of anything for the next several years. A forced clear-out can leave a person worse at this than before, and it happens often enough to be worth naming.
 

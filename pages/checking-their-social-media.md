@@ -50,7 +50,7 @@ faqs:
 - q: "Why did I make a second account just to look?"
   a: "Because you removed the easy route and the underlying question was still open, so the question found a harder route. A second account is a strong signal about which root is running, since nobody builds infrastructure for a habit. It also means you now have to manage the concealment, which adds a whole second layer of low-grade stress to something that was already costing you."
 - q: "Should I block them, mute them, or unfollow?"
-  a: "Depends on the root. If plain habit is what is running, muting or removing the app from your home screen will usually be enough, because the loop is cue-driven. If you are searching for a reason, comparing, or keeping hope open, muting fails within a fortnight, because the question comes with you. Blocking works and is genuinely harder, and the difficulty is the point rather than a sign you should not."
+  a: "Depends on the root. If plain habit is what is running, muting or removing the app from your home screen will usually be enough, because the loop is cue-driven. If you are searching for a reason, comparing, or keeping hope open, muting fails within two weeks, because the question comes with you. Blocking works and is genuinely harder, and the difficulty is the point rather than a sign you should not."
 - q: "Why does blocking them feel so dramatic?"
   a: "Because it closes something, and closure is what the checking has been preventing. For a lot of people the block is the moment mourning has to begin, which is precisely why it gets postponed for years. If blocking feels like a death, that is useful information about your root, not evidence that you are overreacting."
 - q: "Why does deleting the app work for two weeks and then stop?"
@@ -137,7 +137,9 @@ The third is that it survives the feeling. A significant number of people in thi
 
 There is one more thing worth naming, because it is the piece that produces recognition. You already know the exact number of times you looked yesterday. You did not have to count. You have been keeping a private tally for months and you have never once said the number to another human being.
 
-## What Do Researchers Call This, and What Does the Name Cover?
+## Does Watching an Ex Online Make It Harder to Move On?
+
+On the available evidence, yes, with the caution that these are studies of association rather than of cause. The work that shows it is also the work that answers the question sitting underneath yours, which is what the people who study this call it and how much their name for it actually covers.
 
 There are joking lay terms for it and there is a serious body of research, and the gap between the two is part of why nobody admits how much of their day this takes.
 
@@ -212,6 +214,8 @@ Put those together and you get the thing that makes people despair. You know it 
 
 Because the good part of the sequence is over before the page finishes loading, and the bad part arrives too late and too quietly to be attached to its cause.
 
+There is a measured version of the loop underneath that. Muise, Christofides and Desmarais surveyed 308 university students for CyberPsychology and Behavior in 2009, in a paper titled More Information than You Ever Wanted, and found that heavier use of the platform predicted jealousy about a partner even once personal, personality and relationship factors were accounted for, which they read as a feedback loop in which the page supplies ambiguous material you would never otherwise have seen and that material sends you back for more of it. Two limits belong with it: the loop is their reading of one survey rather than something anybody watched unfold over time, and every person in that sample was still in the relationship, so it reaches the version described here by resemblance rather than by measurement.
+
 Look closely at what actually happens in those eleven seconds, because most people have never broken it down.
 
 There is a rise before the look. Something is about to be resolved, or found, or confirmed. That anticipation is where the whole charge of the behavior lives, and it peaks before you have seen anything.
@@ -277,7 +281,7 @@ Origin stories get used as excuses, and that wastes a good piece of information.
 
 The versions I see most often run like this.
 
-1. **The first fortnight, when checking was rational.** In the days after an ending, the page genuinely was the only source of information about a situation you were still inside. Checking was appropriate, and it worked, and it did something for the panic. Nobody notices the moment that stops being true, because there is no moment. There is a gradual fade from useful to expensive that takes about six weeks and has no marker on it.
+1. **The first two weeks, when checking was rational.** In the days after an ending, the page genuinely was the only source of information about a situation you were still inside. Checking was appropriate, and it worked, and it did something for the panic. Nobody notices the moment that stops being true, because there is no moment. There is a gradual fade from useful to expensive that takes about six weeks and has no marker on it.
 
 2. **The period when there was new information daily.** If something was actually unfolding, a new relationship forming, a move, a decision, then for a while every check paid. That is the training period. By the time the flow of new information dries up, the behavior is established on a schedule that no longer matches reality.
 
@@ -290,6 +294,20 @@ The versions I see most often run like this.
 6. **A childhood spent reading somebody's state.** If you grew up monitoring a parent, the mood in a doorway, the sound of a car, whether tonight was going to be a bad one, then surveillance is your oldest and most practiced skill. It was not optional then and it worked. In adulthood it points itself at whoever is currently unpredictable, and a profile is the most convenient surface it has ever been offered. [Growing up braced for what arrives next leaves a specific residue](/patterns/growing-up-with-an-unpredictable-parent/).
 
 There is nothing weak or foolish in any of those. Every one was a working solution applied by somebody with limited options, and it did the job it was built for. That is the entire reason it is still running.
+
+## Why Do I Keep Checking a Friend Who Quietly Stopped Talking to Me?
+
+Because a friendship that ends without a sentence leaves you the same missing account a breakup does, and none of the standing you would need to call it an ending.
+
+Almost everything written about this behavior assumes a former partner, and a large number of the people running it are not looking at one. They are looking at a friend of seven years who answered slower, then in single lines, then not at all. There was no conversation. Nothing was said that could be quoted back. At some point the messages became one-directional and then they stopped, and the only remaining evidence that the person is alive and busy and fine is a page you can open whenever you want.
+
+The difficulty specific to this version is that the ending comes with nothing around it. A breakup has a date, a word for what happened, and a set of things people say to you afterward. A friendship that fades has none of those. There is no term for what that person now is to you. There is nothing to announce. And when you try to say it to somebody, the sentence you produce sounds like nothing has happened, which is exactly why it goes underground and comes out as looking. The origins list above calls this the loss nobody treated as one, and the checking that follows it is the version most people never mention to anyone.
+
+What the checking is reaching for here is usually one of two things. Either an explanation, because nothing was ever given as a reason and you have spent the last nine months combing your own behavior for the moment you got it wrong, or a reading on whether they are fine without you, which a profile will answer yes to every time, because a page is where people are fine. The first of those is the ending-with-no-information root described above, arriving through friendship rather than through romance, and it is just as cruel here: the account you are searching for was never posted, and it may never have existed in a form anybody could have handed you, because a great many friendships end without a reason either person could name.
+
+The honest limit is that the research is thin. Nearly all of the monitoring work was run on romantic relationships and recent breakups, so the frequencies, the costs and the timelines on this page were measured on a different situation from yours and transfer by resemblance rather than by evidence. Nobody has published what it costs to check a friend for a year. [The circling that fills the gaps between checks is treated on its own page](/patterns/cant-stop-thinking-about-someone/).
+
+What does transfer is the cost question, and it is answered here the same way: whether the looking stops on its own, whether it sets the day, whether it has grown, and whether you are hiding it. Those four apply to a faded friendship exactly as they apply to a former partner. And the exit that tends to hold for this root is the least satisfying one available, which is writing the explanation yourself, in a few lines, deciding it is good enough, and living on it without confirmation from anybody.
 
 ## How Much Is This Actually Costing You, Look by Look?
 
@@ -311,6 +329,8 @@ And then there is the version this page is for, which has a shape you can recogn
 | A second account built for the purpose | The looking plus the concealing | Your own sense of yourself |
 | Conversations rehearsed against what you saw | An hour you did not notice spending | A version of them in your head that is not the person |
 | Checking before you can start work | Fifteen minutes and a false start | Work that has been slow for a year and you blamed yourself |
+
+Research has drawn the same line, and it drew it at how far the looking pushes into the day rather than at how often it happens. Elphinston and Noller built an eight-item measure of exactly that, published in 2011 in Cyberpsychology, Behavior, and Social Networking under the title Time to Face It, which reports on Facebook intrusion, romantic jealousy and relationship satisfaction, and a person's score on it tracked with jealous thinking, with monitoring behavior, and with dissatisfaction in the relationship. The design sets the limit: university students in current relationships, everything self-reported at a single point in time, so which of those arrived first cannot be read off it, and the number of visits stays a poor guide either way.
 
 Four tests separate the cheap version from the expensive one, and they are more reliable than counting.
 
@@ -342,7 +362,7 @@ So the difficulty is real and it is not a character flaw. And this is the point 
 
 Your environment affects you and impacts you more than you think. It has already put you into this position that you are in. That is not to come from a victim type of frame, as though the environment were doing this to you. You have put yourself in the environment, and the environment is reinforcing it.
 
-That distinction is practical rather than moral. An environment you built is an environment you can rebuild, and it responds considerably faster than resolve does. Logging out, taking the app off the home screen, clearing the search suggestions and using a browser with no saved password will do more in a fortnight than any amount of deciding to be better at this.
+That distinction is practical rather than moral. An environment you built is an environment you can rebuild, and it responds considerably faster than resolve does. Logging out, taking the app off the home screen, clearing the search suggestions and using a browser with no saved password will do more in two weeks than any amount of deciding to be better at this.
 
 ## Why Does Deleting the App Work for Eleven Days and Then Stop?
 
@@ -384,11 +404,13 @@ Two honest notes about this stretch.
 
 The first is that a relapse does not reset anything. There is no counter. If you look on day nine, the useful response is to write down four facts and continue, because the trend across a month is the only measure that means anything and a single look barely moves it.
 
-The second is that you cut out everything that is kind of nice and feels good for the moment and is not good for you in the long term, you go through the withdrawal in the beginning, and then you find out it is actually not that hard once you actually commit to that. The first fortnight is the price, in full, paid up front.
+The second is that you cut out everything that is kind of nice and feels good for the moment and is not good for you in the long term, you go through the withdrawal in the beginning, and then you find out it is actually not that hard once you actually commit to that. The first two weeks is the price, in full, paid up front.
 
 ## How Do You Stop Without Making It the Only Thing You Think About?
 
 By working on the root and the conditions at the same time, in moves small enough that you do not have to become a different person by Friday.
+
+That order has support. Duckworth and colleagues set out the case in 2016 in Perspectives on Psychological Science, in a review titled Situational Strategies for Self-Control, arguing that strategies which change the situation act early, before a pull has grown to full size, and that people underrate those strategies for the very reason they work, which is that they remove the felt struggle we treat as the mark of effort. The limit is what the paper is: a review organizing existing work rather than a trial, so it tells you where to aim first without measuring how much you gain by aiming there.
 
 1. **Name the root before anything else.** One sentence, written down: what am I hoping the page will tell me? Do not accept "nothing" as an answer, and do not accept a paragraph. The honest sentence is usually short and slightly humiliating, and it points at which of the five roots is running, which determines everything that follows.
 
@@ -402,7 +424,7 @@ By working on the root and the conditions at the same time, in moves small enoug
 
 6. **Choose the exit that matches the root.** Muting is enough for a habit and useless for the other four. Blocking works and is genuinely harder, and if it feels like a death then it is doing exactly what needs to be done. Be honest about which one your root requires rather than picking the one that costs you least this evening.
 
-7. **Tell one person the real number.** The inside is only going to stay on the inside unless you make it known and public on the outside and back up the idea with action. One person who knows how many times a day, and who will ask you about it in a fortnight, changes the odds more than any private resolution.
+7. **Tell one person the real number.** The inside is only going to stay on the inside unless you make it known and public on the outside and back up the idea with action. One person who knows how many times a day, and who will ask you about it in two weeks, changes the odds more than any private resolution.
 
 8. **Do not moralize a relapse, count it.** Shame is the single most reliable trigger for the next check. The look that follows a bout of self-criticism about looking is not a coincidence, and treating each instance as data rather than as a verdict removes most of the fuel.
 
@@ -428,7 +450,7 @@ Every pattern like this has two ends, and describing only the costly one leaves 
 | Their name appears in a friend's photograph | Forty minutes and a changed afternoon | A small pull, and then the conversation continues |
 | You hear they have somebody new | You verify it immediately, then again that night | You feel it land, and you do not go looking for the detail |
 | An anniversary date arrives | A full evening of reconstruction | A heavy morning that passes by lunchtime |
-| You are bored in a queue | The reach happens before you notice | You are bored in a queue |
+| You are bored in a line | The reach happens before you notice | You are bored in a line |
 | Something goes badly at work | You check, and the comparison makes it worse | The bad day stays the size it actually is |
 | You see them at an event | Two weeks of preparation beforehand | Awkward for ninety seconds, then fine |
 | You do look, once, in March | Proof that nothing has changed | A look, some curiosity, and no residue |
@@ -442,7 +464,7 @@ Do not judge yourself if that column reads as out of reach today. The left-hand 
 
 Longer than you want, and the clock depends on which root is running rather than on how much discipline you apply.
 
-The noticing arrives fast. Within a fortnight of deliberate attention, most people can catch the reach in progress: the specific four-second gap, the movement of the hand, the moment before the page loads. That stage is frustrating, because you are watching something you cannot yet interrupt, and it is a real step regardless of how it feels.
+The noticing arrives fast. Within two weeks of deliberate attention, most people can catch the reach in progress: the specific four-second gap, the movement of the hand, the moment before the page loads. That stage is frustrating, because you are watching something you cannot yet interrupt, and it is a real step regardless of how it feels.
 
 The pull itself runs on a different clock, and the clock is set by the root.
 
@@ -456,7 +478,7 @@ The pull itself runs on a different clock, and the clock is set by the root.
 
 That table is the most useful thing here for anyone who has been trying and failing. If your root is comparison and you have spent six months on abstinence techniques, the abstinence was never going to be the thing that moved it, and your failure to fix it says nothing about your discipline. If your root is hope, then the checking has been protecting you from a mourning you have not started, and stopping the checking without letting the mourning begin will feel unbearable and will not hold.
 
-It also arrives in patches. You will stop checking the profile and keep checking the stories, or stop entirely for a month and then have one bad fortnight around an anniversary. That is the normal shape of it rather than evidence that none of it took.
+It also arrives in patches. You will stop checking the profile and keep checking the stories, or stop entirely for a month and then have one bad two weeks around an anniversary. That is the normal shape of it rather than evidence that none of it took.
 
 Two things speed it up more than anything else. Naming the root accurately, because it determines which of the five clocks you are actually on. And changing one condition in your environment, because force produces the change and environment is what sustains it. [A change that holds everywhere except in one specific setting has a mechanism behind it](/patterns/why-does-my-change-collapse-around-my-usual-people/).
 

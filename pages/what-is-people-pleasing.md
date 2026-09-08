@@ -63,7 +63,7 @@ faqs:
 - q: "What are the long-term effects of people pleasing?"
   a: "The one people underestimate is losing track of what you want. Decades of routing every preference through somebody else's likely reaction leaves you unable to answer simple questions about your own life. Around that sit the more familiar costs: tiredness that sleep does not fix, anger landing on people who did nothing to earn it, friendships where you are valued for being easy, and achievements aimed at an audience."
 - q: "Why is people pleasing so exhausting?"
-  a: "Because it runs a second job all day. Reading faces, predicting reactions, drafting sentences before they are needed, then checking afterwards how each one landed. None of that registers as work, so the tiredness at the end of it has nothing visible attached and gets read as something being wrong with you. Add the suppression underneath, which costs energy on its own, and an easy Tuesday can leave you flattened."
+  a: "Because it runs a second job all day. Reading faces, predicting reactions, drafting sentences before they are needed, then checking afterward how each one landed. None of that registers as work, so the tiredness at the end of it has nothing visible attached and gets read as something being wrong with you. Add the suppression underneath, which costs energy on its own, and an easy Tuesday can leave you flattened."
 - q: "What are people pleasers actually afraid of?"
   a: "Finding out what happens when the useful version of them is not on offer. Underneath the accommodating sits a worry that the plain, unimpressive, unhelpful version would not be kept, and each accommodation is one more way of never having to find out. The fear is rarely felt as fear. It arrives disguised as a strong sense that speaking plainly here would be rude, or selfish, or somehow not worth the trouble."
 - q: "What does the Bible say about people pleasing?"
@@ -71,7 +71,7 @@ faqs:
 - q: "What does people pleasing feel like from the inside?"
   a: "Mostly it does not feel like anything, which is exactly the problem. A flicker of tension when the request arrives, quick relief the moment you agree, then a gap of two or three days before a flat mood or a disproportionate irritation turns up somewhere unrelated. The relief and the bill are far enough apart that almost nobody connects them, so the whole thing reads as a personality trait."
 - q: "How do you actually stop people pleasing?"
-  a: "Slowly, through repetitions small enough that you will actually get them done this week. Catch the second before the yes, at first afterwards and eventually during. Delay one answer by a day. Name a preference before you know theirs. Allow somebody to be mildly displeased with you and leave it unfixed. Boundary scripts on their own tend to collapse, because the hard part was the feeling underneath rather than the wording."
+  a: "Slowly, through repetitions small enough that you will actually get them done this week. Catch the second before the yes, at first afterward and eventually during. Delay one answer by a day. Name a preference before you know theirs. Allow somebody to be mildly displeased with you and leave it unfixed. Boundary scripts on their own tend to collapse, because the hard part was the feeling underneath rather than the wording."
 related:
 - /insights/how-to-stop-people-pleasing/
 - /insights/is-it-selfish-to-put-yourself-first/
@@ -168,6 +168,20 @@ The second test is harder and more decisive. Was a no genuinely on the table? Mo
 
 There is a third difference worth naming because it explains something that puzzles the people around a pleaser. Kindness tracks what the other person actually needs, which is usually something they said out loud. Pleasing tracks what you predict will keep them warm toward you, which is a guess about their internal state. This is why long-term pleasers so often give the wrong gift, generously, at length, and then feel obscurely hurt that it did not land. The gift was aimed at a prediction rather than at a person.
 
+One line of research points straight at this seam. A 2010 paper in the Journal of Personality and Social Psychology, *When helping helps: Autonomous motivation for prosocial behavior and its influence on well-being for the helper and recipient*, ran four studies using daily diaries and experiments that varied how much choice a helper had, and reported that helping done willingly raised wellbeing for the helper and for the person receiving it, while helping done under pressure did not. Take that at its real size: those were short episodes of helping recorded in diaries and in lab tasks, so the finding tells you the two kinds of giving register differently and says nothing about what decades of the compelled kind cost anybody. It is named here by its title rather than by its authors, because one of the two is cited elsewhere on this site for entirely unrelated work and a bare surname here would send you to the wrong place.
+
+## Is there a validated questionnaire researchers use to measure people pleasing?
+
+No, and the honest version of that answer is more useful than a yes would be. There is no instrument for people pleasing, because people pleasing is a popular name rather than a research construct, and nothing published measures the thing this page describes under that heading.
+
+What does exist measures the neighbors. The closest is the Sociotropy-Autonomy Scale, first assembled in 1983 and revised in 1995 against a sample of 2,041 undergraduates, down to fifty-nine items and three subscales. Sociotropy, the half that matters here, scores how much of your sense of yourself is invested in closeness and in being thought well of. Autonomy scores investment in independence and in getting things done on your own. In that 1995 work, higher sociotropy sat alongside dependency, self-criticalness, and affiliation motivation, which is a recognizable neighborhood without being the same street: the scale was built to describe a durable style, and this page is about a move that takes one second.
+
+The second one is stranger, and it is the closest anybody has come to putting a number on approval-seeking. The Marlowe-Crowne Social Desirability Scale, published in 1960 in the Journal of Consulting Psychology, was built to catch people answering questionnaires the way they believed would be approved of rather than the way they actually were, and Crowne and Marlowe later gave the underlying tendency a name, the approval motive. Notice where that scale came from. It exists because pleasing kept contaminating everything else researchers were trying to record, which is a fairly exact description of what it also does to a life.
+
+Two further measures sit next door and belong to other pages. [Unmitigated communion, an extreme focus on other people at your own expense, has its own scale and a full treatment there](/patterns/volunteering-for-everything/), and [the assertiveness schedules, which will happily hand you a score, are covered where the unmeant yes lives](/patterns/saying-yes-when-you-mean-no/).
+
+Then the limits, stated plainly, because a number is easy to over-read. All of these are self-report, so they measure what you are willing and able to notice about yourself, which is exactly the faculty this pattern interferes with. They were validated largely on undergraduates. They describe a settled style rather than the second before the yes, and a settled style tells you where somebody ended up rather than what put them there. None of them hands back a verdict on you, and none of them was built to answer the question you arrived with. I have named the instruments rather than the people who made them, because here the measure is the useful part and a surname would only be something to look up.
+
 ## Why does people pleasing so often look like competence?
 
 Because a great deal of it is performed through achievement rather than through agreeableness, and that version gets applauded rather than corrected.
@@ -228,7 +242,7 @@ Follow the mechanics. You hand over an evening, an opinion, a piece of your capa
 
 The delay is what makes it confusing. Suppressed feeling accumulates rather than dissolving, and it comes out sideways: a disproportionate flash of irritation about the dishwasher, a coldness on a Sunday, an outburst under stress that surprises you more than anyone. It rarely lands on the person who received the yes. It lands on whoever is nearest and safest, which is usually the person who did least to earn it.
 
-The useful move here is to run the resentment backwards. Whenever you notice it, look for the yes that produced it, usually two to five days earlier. Most people find the moment within a minute, and it is almost always smaller and more ordinary than the size of the feeling suggests. [Whether choosing yourself in that moment is actually selfish is worth its own answer](/insights/is-it-selfish-to-put-yourself-first/), since the fear of being selfish is what generates most of these yeses in the first place.
+The useful move here is to run the resentment backward. Whenever you notice it, look for the yes that produced it, usually two to five days earlier. Most people find the moment within a minute, and it is almost always smaller and more ordinary than the size of the feeling suggests. [Whether choosing yourself in that moment is actually selfish is worth its own answer](/insights/is-it-selfish-to-put-yourself-first/), since the fear of being selfish is what generates most of these yeses in the first place.
 
 ## What does the other end of this pattern look like?
 
@@ -248,7 +262,9 @@ Here is what the far end actually looks like on an ordinary Wednesday:
 
 Worth naming the counterfeit version too, since it catches a lot of people about a year into this work. Loud refusal, announcing your boundaries at every opportunity, treating every ordinary request as an imposition, performing independence at people who never asked for it. That posture is the same fear wearing a different outfit, and it is just as governed by the room as the pleasing was. What you are after is quieter than both.
 
-## What actually moves someone toward that end?
+## What can I practice this week to stop saying yes automatically?
+
+You get to the far end described above by practicing at a scale small enough to fit an ordinary week.
 
 Small repetitions, done on things minor enough that you will genuinely do them this week, plus a willingness to feel what follows without immediately fixing it.
 
@@ -256,7 +272,7 @@ Small repetitions, done on things minor enough that you will genuinely do them t
 2. **Buy time.** "Let me check and come back to you tomorrow." This one sentence removes the reflex without requiring any courage, and it converts an automatic yes into an actual decision.
 3. **Go first with a preference.** Name what you want before you know what they want, so there is nothing to shape yourself around.
 4. **Let one person be mildly displeased with you** and stay in the room for the ten minutes it takes the feeling to pass. This is the actual muscle, and it trains the way muscles do.
-5. **Run resentment backwards** every time you notice it, and write down the yes you find at the other end.
+5. **Run resentment backward** every time you notice it, and write down the yes you find at the other end.
 6. **Say one true thing** about how you are actually doing, to one safe person, this week.
 7. **Take one unproductive hour** and let the guilt be there without arguing with it or earning it off.
 

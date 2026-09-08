@@ -458,7 +458,7 @@ Less dramatic than you would expect, and almost always in the person's own plain
 - "It's not that the marriage isn't gonna work, and it won't if she changes. It will work, but it's not anything she can do. It's something I have to do."
 - "I said, you know, I may never know what it is. It just doesn't matter anymore."
 - "I remember when you said that. I've always done the best that I could, and he's always done the best he could do, but sometimes our best was just different. That was all. One wasn't right and one wasn't wrong, it was just different."
-- "I was just treating him like he was this person in a war and I had to do everything myself, but no, he's a strong bloke."
+- "I was just treating him like he was this person in a war and I had to do everything myself, but no, he's a strong guy."
 - "I was very low on the list of priority, even though I would never admit it. But now it's completely switched around. So I just think it's amazing. We have a winner."
 
 Read the first one slowly, because it is the whole page in three sentences. A man locating the only part of this that he can actually move, and stating plainly that his wife's changing was never the mechanism. Nobody argued him into that. It arrived as a decision, on his own terms, after years of being pushed and years of watching somebody model change in front of him, neither of which produced it directly and both of which were probably part of the ground it grew in.

@@ -26,7 +26,7 @@ faqs:
 - q: "How do I know if the new idea is actually better?"
   a: "Write it out in one paragraph, including the first three concrete steps and the first genuinely dull task in it, then leave it alone for sixteen days. Read it cold. An idea with something in it survives that. An idea that was carrying a feeling reads flat, and the flatness is the information you wanted. Almost nobody does this, because the appeal of a new idea is that it is available right now."
 - q: "Is having lots of ideas a bad thing?"
-  a: "It is closer to an asset than a defect, and most writing on this gets that backwards. The faculty producing a new idea on a difficult afternoon is the same faculty that produced the first one, and without it there would be nothing to abandon in the first place. The useful question has never been how to have fewer ideas, only what the arrival of one is allowed to do to your week."
+  a: "It is closer to an asset than a defect, and most writing on this gets that backward. The faculty producing a new idea on a difficult afternoon is the same faculty that produced the first one, and without it there would be nothing to abandon in the first place. The useful question has never been how to have fewer ideas, only what the arrival of one is allowed to do to your week."
 - q: "How is this different from abandoning things at ninety percent?"
   a: "Timing, and the two often run in the same person. That pattern starts at the end, where a nearly finished thing gets put down because finishing it would produce a verdict. This one starts in the middle, at the first genuinely hard stretch, and the new idea arrives before anything has been dropped. [The version that happens near the finish line has its own page.](/patterns/abandoning-things-at-ninety-percent/)"
 - q: "Why do I buy the tool for the new idea before doing anything?"
@@ -191,7 +191,7 @@ Everything below is written for the ordinary and expensive version: a capable pe
 
 ## Is the Arriving Idea a Distraction, or the Thing That Makes the Work Possible?
 
-For a large number of people here it is the second, and getting that backwards is the most expensive mistake available on this subject.
+For a large number of people here it is the second, and getting that backward is the most expensive mistake available on this subject.
 
 Read the first sentence in the recognition list above again, because it contains the whole mechanism and it was said without any theory attached to it. The person is describing outreach, which is about as unrewarding as work gets. Sending a message to somebody who may not answer returns nothing on the day. There is no discovery in it, no craft, no visible progress. And the report is that they can do it while an idea is churning in their head, and cannot do it when there is no idea churning, at which point bed wins.
 
@@ -370,6 +370,18 @@ The learning row is the most reasonably defended and the most worth examining, b
 The money row is the one people never connect to the others. A new approach to saving or investing, arriving with real research behind it, looks nothing like a shiny object. The tell is the same. Look at what the old approach was asking of you, which in most cases was twelve months of doing nothing interesting.
 
 The people row is the one to handle carefully, and this page will not go far into it. A relationship is a setting a personal pattern shows up in rather than a project with a next version. If the timing pattern shows up around people as well as around work, that is worth knowing about yourself. It is not a reason to start evaluating anybody in your life as an idea.
+
+## Why Does Every New Tool That Launches Make Me Feel Behind Before I Have Opened It?
+
+Because this one was scheduled by somebody you have never met, which takes away the thing every other section here relies on.
+
+Every arrival described above is generated inside your own head during your own difficult week, and that is what makes the five-date exercise work at all. You can go back and read what the current project was asking of you in the two days before. This arrival carries no history of yours to read. A release schedule belongs somewhere else, with its own year to hit, and it lands on your week whether the current project is in its early stretch or its unrewarding month. The feeling is the one the hardware store produced. The completeness is the same. What is missing is anything of your own underneath it to question, and people lose weeks hunting for what they were avoiding when the plain answer is that a stranger shipped something on a schedule you had no part in.
+
+There is a silent version of this and it reads as the cure. Rather than switching, some people stop looking altogether. Accounts muted, updates unread, the whole stream closed, and the word attached to it is focus. Sometimes that is exactly what it is. You find out when one gets through anyway, because somebody you work for asks whether you are using the new thing yet. If that question brings the whole feeling back inside a minute, what got removed was the source and the response stayed where it was. Opting out is a reasonable move that has been asked to carry something it was never built to carry.
+
+Two different things arrive wearing the same face here, and separating them is most of the work available. One is being genuinely behind on a skill your work needs, and it has a test. Name the piece of work that came out worse this month because you have not learned it, and say who else noticed. That is a real gap, and it deserves a plan and a first step this week. The other is measuring yourself against a pace set by people who are paid to ship, which nobody can be current against, and which produces an identical result four times a year.
+
+If the comparison running underneath is with other people's lives rather than with tools, [everyone else is having a better life](/patterns/everyone-else-is-having-a-better-life/) covers that properly. If the response to the arrival is buying the thing instead of making the call the work needed, the page on [researching instead of starting](/patterns/researching-instead-of-starting/) takes that up.
 
 ## Is "This One Is Actually Better" an Explanation or an Excuse?
 

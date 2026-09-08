@@ -152,7 +152,7 @@ faqs:
     is narrower. Does your guilt point at an action you could still repair, or has
     it hardened into a statement about the kind of person you are?
   q: What are the four types of guilt?
-- a: From the recovery literature of the 1980s. John Bradshaw popularised it in Healing
+- a: From the recovery literature of the 1980s. John Bradshaw popularized it in Healing
     the Shame That Binds You, published in 1988, which also contains the passage that
     still circulates online as the toxic shame poem. The phrase is descriptive rather
     than clinical, so it appears in no diagnostic manual. It stuck because it names
@@ -222,7 +222,7 @@ faqs:
     earns social approval, and for many men that means it presents as irritability,
     withdrawal, working late, or a flat refusal to need anything from anybody, rather
     than as anything a person would call shame. Feeling exposed can convert to anger
-    within a second, which is one reason it goes unrecognised both at home and in
+    within a second, which is one reason it goes unrecognized both at home and in
     a therapist's office.
   q: Does toxic shame show up differently in men?
 - a: Cure is the wrong shape for this, since there is no illness sitting there to
@@ -316,7 +316,7 @@ Notice what they have in common. Almost none of them sound like feelings. They s
 
 Right here, before anything practical, because this boundary matters more than every technique below it put together.
 
-Shame is one of the few patterns where self-directed work can do harm if the material underneath it is heavy. The core move that shifts shame involves being seen, and being seen badly, with the wrong person or too fast, can land as a second injury rather than as relief. If your history includes abuse, violence you experienced or witnessed, or an event you have never told anyone about, a therapist or counselor is the right first step rather than a fallback after self-help has been tried. That is a matter of pacing rather than severity of character, and it is the part most people get backwards.
+Shame is one of the few patterns where self-directed work can do harm if the material underneath it is heavy. The core move that shifts shame involves being seen, and being seen badly, with the wrong person or too fast, can land as a second injury rather than as relief. If your history includes abuse, violence you experienced or witnessed, or an event you have never told anyone about, a therapist or counselor is the right first step rather than a fallback after self-help has been tried. That is a matter of pacing rather than severity of character, and it is the part most people get backward.
 
 The same holds for anything clinical. Hopelessness that has not lifted for months, thoughts of harming yourself however briefly they pass, an addiction, a diagnosed condition you are currently managing, or a period where daily functioning has genuinely dropped all belong with a licensed professional. Contact a doctor or a crisis line today if any of that is live right now.
 
@@ -361,7 +361,7 @@ Three, and they converge on the same structure by different routes, which is why
 
 The third route is worth slowing down on, because it explains the strangest feature of toxic shame. That act of taking blame for the uncontrollable is guilt's raw material. It behaves like guilt in every respect except one: it is factually false, the child could not have prevented what happened, so no repair exists anywhere in the world that would resolve it. Guilt that can find no corrective action anywhere calcifies instead into a conclusion about the person holding it. If this feeling will not go away no matter what I do, something must be wrong with me rather than something having happened to me.
 
-That sentence is the hinge. It is also completely invisible from the inside, which is why so many people who were harmed as children describe themselves, with total sincerity, as fundamentally defective people who happen to have had a difficult childhood, with the causal arrow pointing precisely backwards.
+That sentence is the hinge. It is also completely invisible from the inside, which is why so many people who were harmed as children describe themselves, with total sincerity, as fundamentally defective people who happen to have had a difficult childhood, with the causal arrow pointing precisely backward.
 
 Not every case traces to a household. A stretch of years where you were the wrong kind of person for a school, a first workplace where humiliation was the management style, a relationship that ended with a story about you attached to it, a period of illness where everyone quietly agreed to need less. [The wider question of where insecurity gets installed sits alongside this one.](/patterns/where-insecurities-come-from/)
 
@@ -383,7 +383,7 @@ Every one of those is a rejection of exactly the evidence that would contradict 
 
 Staying convinced of your own defectiveness, and staying alert for confirmation of it, was adaptive at some point. If you already know the worst about yourself, nobody can ambush you with that news. Constant self-monitoring lets you find the flaw and hide it before somebody else finds it and uses it. Handing that system proof that you are fine is answering a question it has stopped asking. It stopped evaluating whether you are good enough some time ago and started running a threat-detection loop instead, in which any evaluative moment, including praise, is exposure risk.
 
-Which is also why willpower fails here. Stop being so hard on yourself removes the armor without addressing what the armor was for, and the reliable result is feeling more exposed rather than less. People who force this often report that the self-criticism comes back louder within a fortnight, which is what you would expect from a protective system that briefly lost its protection.
+Which is also why willpower fails here. Stop being so hard on yourself removes the armor without addressing what the armor was for, and the reliable result is feeling more exposed rather than less. People who force this often report that the self-criticism comes back louder within two weeks, which is what you would expect from a protective system that briefly lost its protection.
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The thing I underestimated longest was how completely useless argument is on this particular pattern. I could construct an airtight case for my own adequacy and hold it for about an hour. What actually changed anything was slower, more embarrassing, and involved other people in the room.
 
@@ -503,4 +503,4 @@ Run a sentence log for forty-eight hours. Open a note on your phone. Every time 
 
 Then read the list on the second night and count the letters. Two things usually surprise people. The first is the ratio, which is often far more lopsided toward I than anyone expects. The second is how few different sentences there are. Most people find the same three or four running on a loop, in identical wording, across completely unrelated situations, which is the clearest possible demonstration that the sentences are a pattern rather than a set of accurate situational assessments. That costs you two days of noticing and nothing else, and it is worth doing whether or not you ever go anywhere near a program.
 
-If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, so nobody who needs a clinician first gets waved through, a group kept small enough that the person who deflects every piece of warmth cannot quietly disappear inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent letting one true thing be seen, and finding out what actually happens next, is rarely wasted, whatever you decide afterward.
+If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, so nobody who needs a clinician first gets waved through, a group kept small enough that the person who deflects every piece of warmth cannot quietly disappear inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent letting one true thing be seen, and finding out what actually happens next, is rarely wasted, whatever you decide afterward.

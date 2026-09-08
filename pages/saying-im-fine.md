@@ -60,7 +60,7 @@ faqs:
 - q: "How do I answer when I genuinely do not know what is wrong?"
   a: "Say that, exactly. I do not know is a complete and honest answer, and it is much more useful to the person asking than two words that close the subject. If naming what you feel is reliably unavailable rather than occasionally difficult, that is a separate pattern with its own shape, and it responds to building vocabulary rather than to trying harder in the moment."
 - q: "Should I start telling everyone the truth?"
-  a: "No, and attempting it usually backfires within a fortnight. Most social exchanges are not requests for information and treating them as such is exhausting for everybody. The change worth making is narrow and specific: pick the one or two people whose closeness you actually want, and give them something more accurate than the default. Everyone else can keep getting the short answer."
+  a: "No, and attempting it usually backfires within two weeks. Most social exchanges are not requests for information and treating them as such is exhausting for everybody. The change worth making is narrow and specific: pick the one or two people whose closeness you actually want, and give them something more accurate than the default. Everyone else can keep getting the short answer."
 - q: "How do I ask somebody who just said they are fine to me?"
   a: "Leave the door open without pushing it. Ask once more, differently, and with no urgency attached: you do not have to tell me, and I am around later if you want to. Then stay. Pressing harder tends to trigger the reflex more firmly. What tends to work is repeated low-cost availability, which gives a real answer somewhere to land when one becomes possible."
 - q: "Why have people stopped asking me?"
@@ -70,7 +70,7 @@ faqs:
 - q: "When does this belong with a professional rather than a page like this?"
   a: "If any thought about harming yourself is part of what you are concealing, that comes first and belongs with a licensed professional or a crisis line today. Also if the concealment covers something happening to your safety or your body, if you are hiding a substance from people close to you, or if a flatness has been running for months through weeks that should have lifted it."
 - q: "How long does this take to change?"
-  a: "Noticing arrives inside a fortnight and the reflex takes months. Most people can catch the moment the two words load within two weeks of paying attention, and catching it counts even on the days you still say them. It also arrives in patches. You may answer honestly at home for a season while every version at work stays automatic, which is the normal shape."
+  a: "Noticing arrives inside two weeks and the reflex takes months. Most people can catch the moment the two words load within two weeks of paying attention, and catching it counts even on the days you still say them. It also arrives in patches. You may answer honestly at home for a season while every version at work stays automatic, which is the normal shape."
 - q: "Does understanding why I say it make me stop?"
   a: "On its own, rarely. Understanding is useful once, so you stop treating the reflex as a character verdict, and it also puts real pressure on you if nothing is done with it. Life changes through action. You can describe your own root in precise language on Tuesday and still say the two words on Wednesday, which is ordinary rather than a personal failure."
 - q: "What is phatic communion?"
@@ -411,11 +411,11 @@ The instinct after reading a page like this is to resolve to stop. To answer eve
 
 When you have a balloon full of water and you squeeze it in one place, it will bulge on the other side. But you can't really see that. You don't quite know the cause of it unless you see the place where it's being squeezed. Force applied to the two words does not remove the pressure that produced them. It relocates it, usually somewhere you would not connect to the original squeeze.
 
-The relocations are consistent enough to list. People who force full honesty for a fortnight typically start avoiding the situations where the question gets asked, which reads as being busy rather than as concealment. Or they answer accurately and then spend the following hours managing the other person's reaction, which is more work than the concealment ever was. Or they become honest and flat at the same time, delivering true information in a tone that makes clear no response is wanted. Or the honesty holds at home and the concealment doubles at work. The pattern does not break. It moves.
+The relocations are consistent enough to list. People who force full honesty for two weeks typically start avoiding the situations where the question gets asked, which reads as being busy rather than as concealment. Or they answer accurately and then spend the following hours managing the other person's reaction, which is more work than the concealment ever was. Or they become honest and flat at the same time, delivering true information in a tone that makes clear no response is wanted. Or the honesty holds at home and the concealment doubles at work. The pattern does not break. It moves.
 
 There's also one thing to change the behavior with force or with discipline. But that is not necessarily what makes it stick. You gotta have a way to sustain that. What makes a change sustain is a change in the conditions around it, which in this case means a small number of specific relationships where a real answer has a place to land, rather than a general policy applied to everybody at once.
 
-Which points at the practical shape of this, and it is the opposite of what the resolution version does. Narrow rather than broad. One person rather than everybody. A more accurate answer rather than a complete one. Repeated in small doses rather than delivered in a single disclosure that leaves you needing a fortnight to recover from having done it.
+Which points at the practical shape of this, and it is the opposite of what the resolution version does. Narrow rather than broad. One person rather than everybody. A more accurate answer rather than a complete one. Repeated in small doses rather than delivered in a single disclosure that leaves you needing two weeks to recover from having done it.
 
 ## Where Did This Get Installed, and Why Does It Keep Getting Reinforced?
 
@@ -501,7 +501,7 @@ And the last part happens without any conversation about it. People start asking
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of paying deliberate attention, most people can catch the exact moment the answer loads. You feel the question land, you feel the small closing, and you watch the two words leave anyway. That stage is frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless of whether the words still come out.
+Noticing arrives fast. Within two weeks of paying deliberate attention, most people can catch the exact moment the answer loads. You feel the question land, you feel the small closing, and you watch the two words leave anyway. That stage is frustrating, because you are watching a film of something you cannot yet stop, and it is a real step regardless of whether the words still come out.
 
 The reflex takes months, because it fades at the pace of accumulated evidence rather than insight. Every honest answer that produces no disaster is one data point against a rule that had decades to install itself, and twenty unremarkable ones change a great deal.
 

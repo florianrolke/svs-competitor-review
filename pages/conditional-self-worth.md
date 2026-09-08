@@ -10,18 +10,18 @@ faqTitle: Conditional Self-Worth Questions
 faqs:
 - a: 'Ambition and conditional self-worth are different animals, and plenty of people
     carry one without the other. The test is what happens to your sense of value in
-    a week where you produce very little: a slow stretch at work, a holiday, an illness.
+    a week where you produce very little: a slow stretch at work, a vacation, an illness.
     If the ambition simply pauses and you still feel like a person worth knowing,
     that is ambition. If your standing drops along with the output, that is the pattern
     this page is about.'
   q: Is it bad to be motivated by achievement, or is that the same thing?
 - a: Often, yes. Leisure without output trips the same alarm as a quiet week at work,
     because neither one produces the evidence your sense of worth is currently being
-    paid in. People describe reorganising the trip, working through the first three
+    paid in. People describe reorganizing the trip, working through the first three
     days, or feeling a low hum of guilt on a beach they saved a year for. The alarm
     tends to quieten somewhere around day five, which is why longer breaks feel different
     from long weekends.
-  q: Is this why I cannot sit still on holiday?
+  q: Is this why I cannot sit still on vacation?
 - a: Because a promotion raises the standard the next assessment gets measured against
     rather than settling the current one. The moment the title changes, the level
     of output that used to count as proof becomes the new baseline, so relief has
@@ -46,7 +46,7 @@ faqs:
 - a: No, and most people carrying this pattern have already run that experiment for
     a decade. More achievement raises the bar rather than settling the account, because
     the account was never really about the number. Each result becomes the new baseline
-    within a fortnight, and the sense of worth it bought expires on roughly the same
+    within two weeks, and the sense of worth it bought expires on roughly the same
     schedule. The size of the achievement makes surprisingly little difference to
     how long the feeling lasts.
   q: Can I fix this by achieving more?
@@ -164,7 +164,7 @@ faqs:
     with.'
   q: Is conditional self-worth a schema?
 - a: The reliable ones show up in the gaps rather than during performance. Guilt on
-    a quiet Saturday. A holiday that takes three days to stop feeling wasteful. Praise
+    a quiet Saturday. A vacation that takes three days to stop feeling wasteful. Praise
     deflected before you have decided to deflect it. Volunteering for the next thing
     before the last one has landed. A quiet week that reads as a personal failure
     instead of as a quiet week. The thread running through all of them is a standing
@@ -210,7 +210,7 @@ faqs:
     transaction, covers a short stretch, and expires, so each week opens with the
     account at zero and the case to be made again. Friday can feel settled and Monday
     can feel unproven with nothing having changed except the calendar. People notice
-    it most sharply after holidays and long weekends, when the gap since the last
+    it most sharply after vacations and long weekends, when the gap since the last
     delivery is longest.
   q: Why does my sense of worth feel like it resets every Monday?
 - a: On nothing, which sounds like a dodge and is the honest answer. The version that
@@ -284,6 +284,22 @@ One plain thing before the rest. If what you are carrying includes hopelessness 
 
 Everything below is written for the everyday version: the compliment that got corrected, the sick day that got worked through, the promotion that felt flat. What makes this particular pattern so hard to spot is that the worth is real. You do feel valuable. You feel it most clearly on the days you deliver, which is why the arrangement reads from the inside as simply being a person who cares about doing things properly.
 
+## What Does Conditional Self-Worth Actually Mean?
+
+It means your worth is held in your head as an if-then statement rather than as a standing fact. If I deliver, I count. If I am useful, I count. If nobody was disappointed in me this week, I count. The clause before the comma changes from person to person. The shape of the sentence does not.
+
+Written down like that it looks absurd, which is why almost nobody writes it down. Nobody announces that their right to take up space gets renewed quarterly. The arrangement runs underneath speech, as a rule for reading your own week rather than as an opinion you would defend if somebody challenged it. You do not think it so much as apply it, and then experience the result as a plain fact about how the week went.
+
+Three things follow from the if-then shape, and between them they account for most of what the rest of this page describes.
+
+**It has to be re-evaluated.** A fact stays true while you are not looking at it. A conditional has to be checked against current input, which is why worth here runs high while the work is arriving and falls back between deliveries. Nothing about you changed while the work was absent. The clause simply had nothing to feed on.
+
+**It can be met.** This is the part that keeps the whole thing standing for thirty years. Meeting the condition genuinely works, for a while, which makes it feel less like a trap and more like a deal that pays. Nobody keeps pulling a lever that has never once paid.
+
+**It cannot be settled.** A condition met is a condition met once. There is no wording of it that ends in a permanent yes, because a conditional statement has no such ending available. You are not clearing a balance; you are covering this period.
+
+The second half of the definition matters as much as the first, and it is the half that goes missing almost everywhere else this term appears. The worth on offer is real. People carrying this are not walking around feeling worthless; they are walking around feeling substantial in the weeks something shipped and close to weightless in the weeks nothing did, with no idea why the number moved when nothing about them did. [If it never moves at all, and sits low regardless of what the week contained, the flat version has its own page](/insights/root-cause-of-low-self-esteem/).
+
 ## What Does Conditional Self-Worth Sound Like From the Inside?
 
 It sounds like a running valuation of yourself, updated continuously against your most recent output, stated so flatly that it stopped registering as an opinion decades ago.
@@ -322,7 +338,7 @@ Most people arrive here having read a great deal about low self-esteem and havin
 
 That difference is practical, because the repairs point in opposite directions. A flat deficit responds to being received: relationships where you are wanted without producing anything, over a long time. A conditional valuation responds to something more specific, which the last third of this page is about. [If the flat version is the one that lives in you, it has its own page](/insights/root-cause-of-low-self-esteem/), and it is worth reading instead of this one rather than alongside it.
 
-There is a cluster of neighbouring complaints that get named interchangeably online and behave completely differently in a life. Find the row that matches your last three months rather than your worst evening.
+There is a cluster of neighboring complaints that get named interchangeably online and behave completely differently in a life. Find the row that matches your last three months rather than your worst evening.
 
 | What you notice | What it usually is | The question underneath |
 |---|---|---|
@@ -338,7 +354,11 @@ The third and fourth rows separate more cleanly than people expect. You can feel
 
 The last two rows point at neighbors rather than at this. [Perfectionism is the strategy](/patterns/how-to-stop-being-a-perfectionist/), the operational method for making sure the verdict comes back clean, and conditional self-worth is frequently what it is protecting. [Active self-attack is heavier and behaves differently](/patterns/self-loathing/), because an attack does not wait for a bad quarter. If both descriptions fit, start with the one that shows up more often in an ordinary week.
 
-## Which Conditions Did You Actually Get?
+One honest note about the research vocabulary before you go looking in it, because it is messier than any single article makes it sound. What gets measured under the heading of self-esteem splits at least three ways: how high somebody's opinion of themselves sits, how far it swings from one day to the next, and what it is staked on. Those are three separate measurements, and they agree with one another considerably less well than a reader of any one paper would assume. The third of them is what this page is about, there is a questionnaire built specifically to measure it, and it is named further down this page.
+
+## What Causes Someone to Tie Their Worth to Achievement?
+
+Approval that kept arriving attached to something, often enough and early enough that the attachment stopped being visible as an attachment. Which conditions did you actually get?
 
 Different households charge in different currencies, and knowing which one you were asked to pay in explains why your version of this looks unlike somebody else's.
 
@@ -364,7 +384,9 @@ Watch what happened the last time you finished something significant. There is a
 
 That reclassification is the pattern working exactly as designed rather than a malfunction. If worth is earned through performance, then it can in theory always be re-earned, which is enormously preferable to the alternative the whole arrangement exists to avoid. The alternative is that worth might simply not be there, independent of anything provable. Testing that directly is the one experiment the system will not run. So performance stays the safer bet, and the striving continues by default rather than by choice.
 
-There is a second reason more achievement fails, and it is arithmetic. An account that discounts every deposit on arrival will not balance no matter how many deposits you make. The harder you work to settle it, the more clearly you demonstrate to yourself that working is what you are for. People describe reaching the exact position they aimed at for a decade and finding it flat within a fortnight, then quietly concluding that they must have chosen the wrong target.
+There is a second reason more achievement fails, and it is arithmetic. An account that discounts every deposit on arrival will not balance no matter how many deposits you make. The harder you work to settle it, the more clearly you demonstrate to yourself that working is what you are for. People describe reaching the exact position they aimed at for a decade and finding it flat within two weeks, then quietly concluding that they must have chosen the wrong target.
+
+The shape has been measured directly, although not on worth. Where it shows up most cleanly is job changes: satisfaction sitting low before somebody moves voluntarily, climbing sharply once they have moved, then declining again afterward. [The study that reported that curve is named in full on the page about the early feeling fading](/patterns/when-the-early-feeling-fades/), where the same curve does the same job. What it followed was satisfaction with an employer rather than anybody's sense of their own value, so take it as the shape rather than as the finding.
 
 ## What Is All the Producing Actually Protecting?
 
@@ -399,9 +421,11 @@ Because being unproductive removes the only proof of worth you currently trust, 
 
 This is the sharpest single test of the pattern, sharper than any amount of introspection about achievement, because illness removes the usual justifications. You are entitled to the day. Nobody is asking for anything. Your own body has made the decision for you. And still, some hours into it, you find yourself drafting the emails you will need to send when you return, or tidying something, or planning the recovery of the schedule. Resting empty-handed feels like standing in the open with nothing in your hands.
 
-What is happening is that rest was filed early as something you earn rather than something you need. In the original environment there was no moment of neutral, unpaid rest to observe: downtime either had to be justified or it was the moment worth went unproven. So an hour of unearned rest still trips the alarm decades later, and the alarm is quite specific. It rarely arrives during a genuinely busy week. It arrives on the quiet Saturday, in the middle of the holiday, on the third afternoon of a break, precisely when there is nothing to point at.
+What is happening is that rest was filed early as something you earn rather than something you need. In the original environment there was no moment of neutral, unpaid rest to observe: downtime either had to be justified or it was the moment worth went unproven. So an hour of unearned rest still trips the alarm decades later, and the alarm is quite specific. It rarely arrives during a genuinely busy week. It arrives on the quiet Saturday, in the middle of the vacation, on the third afternoon of a break, precisely when there is nothing to point at.
 
 The practical cost compounds in a way that is worth naming plainly. Recovery gets deferred until the body enforces it, which means the rest you eventually take is far more expensive than the rest you refused. And because the guilt is loudest when you most need the break, the pattern systematically withholds recovery from you at exactly the point you cannot afford to go without it.
+
+Working while ill turns out to be ordinary rather than rare. Aronsson, Gustafsson and Dallner interviewed 3,801 employed people in Sweden by telephone in 1997, with 87 percent responding, and reported that about a third had gone in to work two or more times over the previous year when, by their own judgment of their health, they should have taken sick leave; the odds ratio was 2.29 for those who knew the work would simply be sitting there waiting on their return. That was one country at one moment, measured by asking people about themselves, and it says nothing about worth: what it describes is the job conditions that make working while ill likely. Which is a useful correction to have in hand, because some of what you feel on the sick day is the pile of work rather than the pattern.
 
 ## What Does This Do to the People Closest to You?
 
@@ -413,6 +437,8 @@ Then there is the harder version. Being cared for on a day when you accomplished
 
 The scanning does the rest of the damage. A neutral remark gets read for disappointment. A quiet evening gets read as withdrawal. Affection gets experienced as contingent on continued success, and here is the part worth testing rather than assuming: usually you are the one applying the condition and then hearing it back in their voice. Ask directly what would change between you if you produced nothing for a year. Most people in this pattern have never once asked, and the rehearsal is considerably worse than the conversation.
 
+There is a measured version of this, staked on the relationship rather than on output. A 2008 paper in the Journal of Personality and Social Psychology, *Relationship-Contingent Self-Esteem and the Ups and Downs of Romantic Relationships*, collected daily reports and found that for people whose worth sat there, ordinary relationship events moved their opinion of themselves considerably further than the same events moved anybody else's, and that among the couples studied, pairs who were both high on it felt more committed and no more satisfied or close. Since that design is people reporting on themselves day by day, it shows the swing and the events moving together without establishing which one pulls the other, and I have named it by title rather than by author because the lead author is already cited on this site for different work.
+
 ## Can You Be Genuinely Confident and Still Feel This?
 
 Constantly, and the combination is common enough to be closer to the default presentation than to the exception.
@@ -422,6 +448,24 @@ In adult life this rarely reads as a wound. It reads as a high performer. Creden
 That is what makes this so hard to raise with anybody. Say out loud that you need your work in order to feel like a worthwhile person and you expose that the identity feels borrowed. Most people carrying this have never said it plainly, because saying it invites either reassurance that misses the point or an argument about whether it is true. The version that helps is somebody who simply does not flinch.
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What took me longest to accept about this particular pattern is that no result touched it. Every one was supposed to be the one that settled the question, and each one bought about a week before the accounting resumed. What actually moved it was smaller, slower, and much less interesting than any of that, and I would rather say so than sell you a version where the next achievement finally does the job.
+
+## Is There a Validated Questionnaire That Measures Contingencies of Self-Worth?
+
+Yes, one, and it is worth knowing what it does and does not do before you go looking for it.
+
+The one most of this research runs on was published in 2003 in the Journal of Personality and Social Psychology under the title *Contingencies of Self-Worth in College Students: Theory and Measurement*. It asks about seven sources of self-esteem rather than one: academic ability, appearance, approval from other people, competition, family support, virtue, and God's love. The idea behind it is that where a rating is staked matters more than how high the rating sits, and that two people with identical overall scores can be living very different lives depending on which of those sources is carrying the weight. The factor structure was checked on 1,418 college students and held together better than the alternatives the authors tried, and contingencies measured before students arrived predicted how they went on to spend their time in the first year.
+
+I have named that paper by its title rather than by its authors deliberately. The same framework is already attributed by name elsewhere on this site, on [the page about reading verdicts into ordinary messages](/patterns/reading-into-messages/), and repeating the attribution here would hand you the impression of two independent sources where there is one.
+
+Now the part that matters more than the existence of the questionnaire.
+
+**It was built on college students.** Everything in the original validation is students, answering about themselves, in one country. Whether those same seven sources carve up a forty-year-old's life the same way is an open question rather than a settled one.
+
+**There is no work-output source in it.** Read those seven back. Academic ability is the nearest thing and competition is close behind, but the specific arrangement this page describes, where worth is priced in delivered work, has no line of its own in the questionnaire. That is a large gap for anybody who arrived here from a job.
+
+**A score says nothing about you in particular.** It is a research measure, built to compare groups of people, and it was never designed to speak about one person. Fill in a version of it online and what comes back is a description you could have written yourself after two weeks of paying attention to which weeks felt survivable and which did not.
+
+So the honest answer is yes, with a caveat attached to every part of it. The questionnaire exists, the work behind it is real, and watching your own weeks will still tell you more about your own arrangement than any score will.
 
 ## What Does Unconditional Self-Worth Actually Look Like?
 
@@ -448,7 +492,9 @@ Read the right-hand column carefully, because it is deliberately unimpressive. N
 
 Don't judge yourself if that column reads as slightly out of reach today. The left-hand column took decades of daily repetition to build, and nobody crosses to the other side in an afternoon. What makes it approachable is that the right-hand column is made of small, specific, repeatable behaviors rather than a change of personality, which means there is somewhere to start.
 
-## What Actually Moves This?
+## How Do I Stop Using Productivity as Proof That I Matter?
+
+Not by deciding to. The question underneath it is what actually moves this, and the honest answer is slow.
 
 Repeated mismatches between what you produce and how you get treated, collected deliberately, over a long enough stretch that they cannot be dismissed as flukes.
 
@@ -457,7 +503,7 @@ This one is slow, and the reason is worth understanding before you start. Nobody
 1. **Run one small, deliberate underdelivery a week.** Send the good-enough email. Leave the thing at ninety percent. Decline the extra piece nobody asked you to take. What you are collecting is direct experience of producing less and observing what actually changes in how people treat you, which is almost always far less than the alarm predicted.
 2. **Take an hour you have not earned.** Put it in the calendar on a day when nothing has been achieved. The guilt will arrive roughly on schedule. Stay in the hour, do nothing about the guilt, and notice that it passes without you having to produce anything to end it. That noticing is the entire exercise.
 3. **Sit with a finished thing for ten minutes before starting the next.** Set a timer, because you will otherwise begin the next thing inside ninety seconds and never notice you did. The discomfort that shows up around minute three is the actual material here.
-4. **Accept one piece of praise a week with nothing added.** Thank you, full stop. No correction, no redistribution of credit, no returned favor that evening. For anybody whose place has felt earned, this repetition is harder than any confession and it works on the same root.
+4. **Accept one piece of praise a week with nothing added.** Thank you, period. No correction, no redistribution of credit, no returned favor that evening. For anybody whose place has felt earned, this repetition is harder than any confession and it works on the same root.
 5. **Practice being cared for while producing nothing.** Let somebody do something for you on a flat, unimpressive day and resist balancing it. This is the exposure the pattern is most organized to prevent, which is exactly why it carries the most information.
 6. **Separate the work verdict from the self verdict, on paper.** After feedback, write one line about the change requested, in the imperative, about the work. Then check whether anything in your line is a statement about you as a person. Almost never is. The sorting step happens automatically in most people and in this pattern was never installed.
 7. **Add one thing with no output attached.** Something you are not good at, that produces nothing, that nobody scores. The point is having somewhere in your week that the accounting cannot reach, and the fact that it feels like a waste of time initially is the reason it works.
@@ -475,12 +521,12 @@ Recognition arrives quickly. Most people can catch the accounting mid-sentence w
 
 The valuation itself takes far longer, because it was rehearsed daily for decades and it fades at the pace of accumulated experience rather than understanding. Reading this page changes remarkably little on its own. Fifty unearned hours of rest, fifty accepted compliments, and a couple of years of small deliberate underdeliveries change a great deal. Expect it to move in one area first, expect it to regress hard during any period of financial pressure or high visibility, and expect a stretch where you can see the whole mechanism clearly and remain unable to interrupt it. None of that means the work stopped taking.
 
-Does it disappear entirely? Most people describe it loosening rather than vanishing. The gap between the urge to prove something and acting on it gets longer. Recovery after a poor week drops from weeks toward days. And at some point you notice you took a genuine day off, produced nothing, drafted no emails, and thought about it afterwards only because this came to mind. That is the change arriving in behavior rather than in understanding, and behavior is where it counts.
+Does it disappear entirely? Most people describe it loosening rather than vanishing. The gap between the urge to prove something and acting on it gets longer. Recovery after a poor week drops from weeks toward days. And at some point you notice you took a genuine day off, produced nothing, drafted no emails, and thought about it afterward only because this came to mind. That is the change arriving in behavior rather than in understanding, and behavior is where it counts.
 
 ## What Is One Thing to Do Today, Before You Take On Anything Else?
 
 Open a note and answer one question in writing: what would you have to be, or do, this week, for it to be acceptable to have produced nothing? Write the actual conditions as they occur to you, in your own words, however unreasonable they look on the page. Most people produce a startlingly specific list within two minutes, and most of it is somebody else's terms, repeated back verbatim by an evaluator who has been enforcing them without ever being asked to justify them once.
 
-Then read the list back as though somebody else handed it to you. Seeing your own conditions written in your own phrasing does something that a month of trying to feel differently does not, because a term you have already written down twice is much harder to obey on the third occasion. Keep the note. Add to it for a fortnight. It costs you fifteen minutes and nothing else, and it is worth doing whether or not you ever go anywhere or buy anything.
+Then read the list back as though somebody else handed it to you. Seeing your own conditions written in your own phrasing does something that a month of trying to feel differently does not, because a term you have already written down twice is much harder to obey on the third occasion. Keep the note. Add to it for two weeks. It costs you fifteen minutes and nothing else, and it is worth doing whether or not you ever go anywhere or buy anything.
 
-If what pulls at you is the valuation itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the dependable high performer cannot quietly become the one who helps everybody else and never takes a turn, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out what you are worth on the days you produce nothing is rarely wasted, whatever you decide afterward.
+If what pulls at you is the valuation itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the dependable high performer cannot quietly become the one who helps everybody else and never takes a turn, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out what you are worth on the days you produce nothing is rarely wasted, whatever you decide afterward.

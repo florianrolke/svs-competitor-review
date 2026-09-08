@@ -307,6 +307,22 @@ In six places, and most people recognize themselves in two or three of them rath
 
 Item two is worth sitting with longer than the others. A state that shows up before the situation does cannot be a reaction to the situation, and once you have caught that sequence a few times the whole question changes shape.
 
+## What Is an Emotional Home, and Is It the Same Thing as My Usual Mood?
+
+Two different things, and telling them apart is most of what this page is for.
+
+A mood is an episode. It has a start you can usually point at, a middle where it colors whatever you look at, and an end. You were fine until the call came, you were low for a day and a half, and by Friday it had cleared. When somebody asks how you have been lately and you answer honestly, an episode is normally what you describe.
+
+An emotional home is not an episode at all, and that is the whole distinction: it is the place the episodes keep putting you back down. The phrase belongs to ordinary speech rather than to any laboratory, and people reach for it because it does something the word mood cannot. It carries the sense of somewhere you leave and come back to, rather than something passing overhead. Say it to somebody who has been circling the same quiet low since their twenties and they generally know at once what is meant, with no definition required.
+
+The test is simple enough to run on yourself. A mood clears to somewhere. Where it clears to is the subject here. If the call had never come, and the week had held nothing worth reporting at all, you would still have been running at some level, and that level would have matched the previous uneventful week and the one before it.
+
+So the question this page asks is less about what your bad days feel like and more about what your empty days are running at, when nothing is asking anything of you and there is nothing to react to. Most people have never checked, because a day with nothing in it feels like the absence of a state rather than the presence of one, which is exactly how a default stays invisible for decades.
+
+Three words get used as though they were interchangeable, and pulling them apart helps. An emotion is short: minutes or seconds, attached to something specific, finished once the something is finished. A mood is longer and vaguer, still loosely tied to events, and it lifts. A default is longer again and has no object at all. Nothing caused it, because it is what remains once the causes have finished.
+
+One more boundary, because it gets crossed constantly. A default is a different subject from adaptation, which is the separate and much-studied business of a big change fading back toward how things felt before it arrived. [Why a new circumstance stops feeling new is worked through on its own page](/patterns/the-life-i-will-start-later/), with the research and the dates attached. Hold the difference: adaptation describes a good thing wearing off, while what this page describes is a level that stays put through weeks when nothing arrived to wear off.
+
 ## What Is a Default Emotional State Actually Made Of?
 
 Three inputs, rebuilt from scratch several times a day.
@@ -323,11 +339,25 @@ There is a second consequence, and it is the one people find hardest to accept a
 
 Because they arrive with different versions of those three inputs already running, and the situation gets filtered through whichever configuration was active before it happened.
 
-Take a delayed flight. One person's shoulders drop, attention goes to the four unexpected hours, and the internal sentence lands somewhere near fine, I will read. Another person's jaw sets, attention goes to the meeting now at risk and to the last time this happened, and the internal sentence is closer to of course, this always happens to me. Identical gate, identical announcement, two entirely different afternoons, and both people will tell you afterwards that they were responding to the delay.
+Take a delayed flight. One person's shoulders drop, attention goes to the four unexpected hours, and the internal sentence lands somewhere near fine, I will read. Another person's jaw sets, attention goes to the meeting now at risk and to the last time this happened, and the internal sentence is closer to of course, this always happens to me. Identical gate, identical announcement, two entirely different afternoons, and both people will tell you afterward that they were responding to the delay.
 
 Run that forward across twenty years and you can see how two siblings raised in the same house end up describing different childhoods without either of them lying. What gets stored is what got selected, and what got selected depended on the configuration each of them was already running at the time.
 
 This is also why advice transfers so poorly between people. A suggestion that genuinely helped somebody else was received into their configuration rather than yours. It arrives at your gate and gets filtered the way everything else does.
+
+## Do I Inherit My Emotional Baseline From My Parents, or Is It Learned?
+
+Both, in some mixture that cannot be read off your own life, which is usually what the question was really trying to find out.
+
+Two hopes tend to sit underneath it. If it were inherited, it would not be your fault. If it were learned, it could move. Neither hope survives contact with the answer, because both are wrong about what follows from what. Something inherited can still be trained, and an inherited leaning is not a fixed outcome. Something learned can still have taken thirty years to install and still be nobody’s fault, a child’s least of all.
+
+The measurement problem is a real one, and it disposes of the question rather than answering it. Estimates of how much of something is inherited are statements about variation across many people at once. They describe how much of the difference between people tracks with how closely related those people are. They do not cut any single person into portions. Even a large estimate leaves you exactly where you started, with a setting that is currently running and situations where it currently fires.
+
+The two routes are also tangled at the source in a way no study design untangles for you. A parent running a braced setting tends to build the home that installs a braced setting. The child gets both at once, from the same person, across the same years. Asking which one did it is asking something the situation was never arranged to answer.
+
+There is a third route that the question leaves out entirely, and people recognize it the moment it is named. What travels down is often not the feeling but the rule about the feeling. Not the sadness, but what happened in that home when somebody showed sadness. Not the anger, but whether anger was allowed to exist at all and who was permitted to have it. Rules like that are learned by watching, they get absorbed well before anybody is able to evaluate them, and they are still running decades later in rooms that operate under completely different rules.
+
+Where this lands, practically: the mixture does not change what you do next. Something inherited and something learned come apart the same way, by being run differently in the situations that cue them, over months. The origin question is still worth answering, though for a reason other than settling blame.
 
 ## Where Did Yours Actually Come From?
 
@@ -348,6 +378,8 @@ A well-worn irritation, a chronic hum of not-enough, or a familiar flatness take
 So the promotion arrives, the relationship starts, the flat gets bought, and within a few weeks the reading on the dial is back where it was. What changed was the view. The road stayed exactly where it had been built. People read that return as proof they are broken, which stacks a layer of shame on top of a completely predictable mechanic.
 
 Somebody whose life looks, on paper, like it should feel good, a stable job, no crisis, people who love them, will describe their honest baseline, when pushed past the polite answer, as a low hum of not-much. Present on ordinary days, and present on the days something genuinely good happens. That flatness has nothing in particular it is reacting to, which is exactly why a good thing fails to lift it. It was built early as the safest available setting: low cost, non-alarming, hard for anybody to criticize. Good news gets processed and then quietly re-filed at the usual level inside a few days.
+
+There is a research literature on the fading half of this, filed under hedonic adaptation, and it is narrower than the version that circulates: how fast a good change fades depends heavily on which change it was, and some life events show very little fading at all, so anybody telling you that everything returns to zero is overstating what was actually found. [That work, with the names and the dates attached, sits on the page that carries it](/patterns/the-life-i-will-start-later/), and it answers a slightly different question than this section does, because adaptation describes a good thing wearing off while the return described here arrives on weeks when nothing changed.
 
 ## Why Does Understanding It Completely Change So Little?
 
@@ -374,6 +406,18 @@ The middle two get confused most often. A default state was learned early enough
 
 The test that separates them is cost. A genuine temperament sits comfortably and asks nothing of you. A default state built as an adaptation costs something to hold, and most people can feel that cost within seconds of being asked whether they would keep it if keeping it were optional.
 
+## How Do Researchers Measure a Person’s Emotional Set Point?
+
+By interrupting people over and over during ordinary weeks and modeling the shape of the answers, rather than by asking anybody how they generally feel.
+
+The generally-feel question is the one everybody expects and the one that works worst, because the answer gets assembled out of whatever happens to be available at the moment of asking, which is the very state being measured. So the method that produces usable numbers does the opposite of a questionnaire about your life. Participants carry a device that prompts them at scattered points through a day, for days or for weeks, and each prompt asks only how they feel just then. What comes back is not a mood at all, but a scatter of points.
+
+What gets estimated from that scatter is the interesting part. Kuppens, Oravecz and Tuerlinckx set out an account of it in "Feelings change: Accounting for individual differences in the temporal dynamics of affect", published in the Journal of Personality and Social Psychology in 2010, describing a person’s feeling life with three separate quantities instead of one. There is an affective home base, the point the answers sit around. There is variability, how far and how often they travel away from it. And there is attractor strength, how firmly and how quickly they get drawn back. That model was evaluated against two experience-sampling studies of everyday feeling, one across a long stretch and one across a shorter one.
+
+Three quantities instead of one is the thing to carry away, because it separates things people constantly confuse about themselves. Two people can share a home base and differ enormously in how far they swing from it. Two can swing equally far and differ in how fast they come back. And the drawing-back is itself a measurable quantity, which is a fairly precise way of saying that the returning you keep noticing is a real property of you rather than an impression you have formed about yourself.
+
+The limits matter before the numbers impress anybody. Every answer is the person’s own report of their own state, with everything that implies. The window is days to weeks, so what gets described is where somebody sits during a study, never where they have sat since childhood. The quantities are estimates about a person across a study period, not a permanent number about a life. And none of it says why a home base sits where it does. The method measures the returning without touching the reason for it.
+
 ## What Is the Feeling Quietly Being Paid?
 
 Something real, reliably, if poorly, which is the reason it has survived years of you sincerely wanting to feel differently.
@@ -392,6 +436,20 @@ What moved that one was naming the disproportion rather than debating the opinio
 
 Both pictures carry the same warning. Take a default state away without replacing what it was buying and the need reinstates it, usually inside days, usually with a layer of shame about the relapse attached. [When a persistent low is the default in question](/patterns/why-am-i-so-miserable/), the payment is often the thing nobody has looked at yet.
 
+## Why Do I Keep Ending Up in the Same Emotional Dynamic With Different Partners?
+
+Because the thing that repeats was never the person you picked; it was the configuration you walked in with, and it is still running four months later.
+
+One of the six places to look, earlier on this page, is conflict landing on the identical sore spot in the early months with people who have nothing in common. This is the longer version of that item.
+
+Three things travel with you into a new relationship and none of them are visible while you are choosing. The first is what you notice: attention selects the same small set of signals it has always selected, so the pause before a reply, the tone on a Tuesday evening, the sentence that could be taken two ways, all arrive already flagged. The second is what those signals get taken to mean, which was decided years ago and gets applied to somebody who was not there when it was decided. The third is what happens in the second after the meaning lands and before any thinking has occurred: the jaw, the withdrawal, the coldness that comes before the conversation, the message rewritten four times.
+
+Selection does some of the work as well, and it is worth pulling apart from the rest. A setting does not only interpret people; it also decides who feels comfortable to be near, and comfortable is a different thing from good for you. Somebody whose early years went into tracking an adult whose mood could turn without warning often experiences a steady, easy person as boring and a difficult one as compelling. That reads like a taste in people and works as something else: a comfort reading mistaken for a compatibility reading, doing the choosing before any conscious criteria get consulted.
+
+Then there is the part that is nobody’s fault. A new person is genuinely new for a while, and the newness supplies a state that has not been available to you on your own. When it wears off, on the ordinary schedule newness wears off on, the old setting is still underneath it, and now it has a fresh set of faces to attach itself to. [What that early stretch is actually made of has its own page](/patterns/falling-for-the-idea-of-a-person/).
+
+What this does not claim matters, because the idea gets misused constantly. It does not mean every relationship that went badly went badly because of you. Some of the people you were with were genuinely difficult, and some of what happened belonged to them. The claim here is narrower and more useful: across relationships with very different people, the part that shows up in all of them is the part you carried in, and it is the only part you have any access to.
+
 ## Why Did the Breakthrough Wear Off Three Weeks After You Got Home?
 
 Because a state is stored with its retrieval cues attached, and you carried a new state home into a complete set of cues for the old one.
@@ -404,17 +462,31 @@ What actually helped there was deliberately unglamorous: naming the specific sit
 
 Change tends to get imagined as a property of a person, portable between contexts. It behaves much more like a property of the person in context, which is why the same individual can feel genuinely different on day five and fully reverted by day twelve, back in the old rooms with the old voices.
 
+## Why Am I Confident and Upbeat at Work but Flat or Irritable at Home?
+
+Because a default is stored against its cues, and the two places carry completely different sets of them.
+
+That is the same finding as the section above, arriving somewhere people find much harder to accept about themselves. Work hands you a large amount of scaffolding at no cost. Tasks with edges. People who mostly behave predictably, because behaving predictably is part of what they are paid for. A way of being that got assembled at twenty-four and has been earning positive returns ever since. Somebody says well done and it attaches to something specific you actually did. None of that is waiting for you at home, and the setting you are left holding there was installed long before any of the work scaffolding existed.
+
+Home also supplies the original cue set almost perfectly. Familiar rooms. The same few voices. The hours when nothing is scheduled. People who knew the earlier version and keep responding to it without meaning to. A pattern built in one home gets cued most reliably by a home.
+
+There is a second thing running underneath, less flattering and more forgivable than it looks. Holding the work version costs something to run. It is genuinely you and it is also an effort, and effort has a budget. The people who see you after that budget is spent get the setting with nothing left on top of it, which is why the people who get somebody at their worst are so often the people that somebody cares about most. That says nothing about how much they are loved, and everything about ordering.
+
+The conclusion people reach here is usually the wrong one: that the work self is a performance and the home self is the truth underneath it. Both are real and both are cued. The upbeat one is a state with good conditions around it, being fed several hours a day; the flat one is a state with the old conditions still fully intact around it. What follows from that is where the work has to happen. Running a different setting in the place where it is already easy changes very little. The rooms where it is hard are the rooms where it is stored.
+
 ## What Actually Moves a Baseline?
 
 Three things running together inside the same window, rather than one of them done thoroughly.
 
 1. **Change the state in the moment, body first.** Posture, breath, movement, and where the eyes are pointed. A cognitive argument delivered into unchanged physiology gets outvoted by the physiology every time, so the body goes first and the thinking follows it. This is unglamorous, and it is the step most people skip because it looks too simple to be doing anything.
 2. **Find out what the state is currently paying, and replace that.** Write down what would go missing on the first ordinary week without this feeling. Who stops checking on you. What becomes uncertain. What you would have to feel at four in the afternoon with nothing left to manage. The answer producing a small flinch as you write it is usually the real payment, and something else has to cover that bill before the state will stay gone.
-3. **Install the new interpretation at peak intensity, then rehearse it where the old one fires.** The moment a new state is felt most strongly is when a new meaning actually lands, rather than during the calm review afterwards. Then it has to be repeated inside the specific rooms, times of day and relationships that cue the old default, because that is where the pattern is stored.
+3. **Install the new interpretation at peak intensity, then rehearse it where the old one fires.** The moment a new state is felt most strongly is when a new meaning actually lands, rather than during the calm review afterward. Then it has to be repeated inside the specific rooms, times of day and relationships that cue the old default, because that is where the pattern is stored.
 
 A fourth condition sits underneath all three and rarely gets said out loud: something in the surrounding environment has to change what it rewards. If the people around you respond most warmly to the old version of you, the old version keeps getting fed. That does not require new people. It usually requires one or two awkward, honest conversations about what you are trying to do differently, which is a far smaller intervention than most people expect and considerably harder to actually start.
 
 Single-channel work is where a great deal of sincere effort goes to die. Pure body work, exercise, breathwork, a cold plunge routine, a week away, produces a genuinely good state for a while, and the old interpretations are still loaded underneath it, so the state fades and the meanings survive. Pure cognitive work, a therapy insight, journaling the why, the right book at the right moment, produces a new interpretation, and the old physiology keeps running underneath it, so the interpretation gets overwritten by the state inside roughly a day. Those two channels run in both directions at once, which is why a durable shift needs both of them moving in the same window rather than two separate programs on two separate schedules.
+
+Step three carries a research qualification, and it cuts against the step rather than supporting it, which is why it belongs here rather than in a footnote. Sheppes and colleagues, in "Emotion-Regulation Choice", published in Psychological Science in 2011, ran three experiments in which people met negative material at different strengths and then chose between changing what they made of it and turning their attention away from it. When the material was mild, people leaned toward changing the meaning. When it was strong, they leaned toward turning away, which is the reverse of what step three asks for at exactly the moment step three asks for it. Read that as a warning about difficulty rather than as a refutation. The strongest moment may well be where a new meaning lands hardest, and it is also the moment you are least likely to reach for one, so the reaching has to be decided beforehand instead of left to the day. Two limits matter here. Those were images and brief electric stimulation inside a single session, not your own low stretch across a Thursday, and what somebody picks in a laboratory minute is no evidence at all about what shifts a baseline across months.
 
 ## What Does the Other End Look Like on an Ordinary Tuesday?
 
@@ -446,9 +518,13 @@ Two speeds are worth separating. Recognition arrives quickly. Within a few weeks
 
 The baseline itself moves at the pace of accumulated repetition. A five-day intense experience can produce a real shift, and without rehearsal inside the actual triggering contexts, and without a change in what the surrounding people reward, it reverts inside two to three weeks. That reversion is predictable rather than personal, and knowing it in advance is worth more than any amount of intensity on the day.
 
+One caution about every number in this section, the two-to-three-week figure included. Those come from what gets seen doing this kind of work, not from a controlled study of how long a baseline takes to move, and no study exists in a form that would decide it. The nearest thing with real measurement behind it is the research on how long a new daily behavior takes before it runs without deliberation, which produced a very wide spread between people rather than a single figure, and which is [carried in full on the page that owns it](/patterns/why-does-motivation-always-run-out/). What holds up is that months is the right order of magnitude, and that anything more precise than that, here or anywhere else, is a working estimate rather than a measurement.
+
 Is that frustrating to read? Yes, and I would rather say it than sell a faster route that does not exist. I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The intense experiences were real, and several of them were worth what they cost. None of them predicted who was actually different a year later. What predicted it was whether the person kept running small, freaking repetitive corrections in the exact rooms where their old setting lives, months after the insight had stopped being interesting to talk about.
 
-## What Is One Thing to Do Today, Before You Change Anything Else?
+## How Can I Figure Out What My Own Emotional Baseline Actually Is?
+
+The one thing to do today, before you change anything else, is to stop estimating it and start counting it.
 
 Run a baseline log for one week, and make it cost you almost nothing.
 
@@ -456,4 +532,4 @@ Set three alarms at ordinary times: mid-morning, late afternoon, and an hour bef
 
 Twenty-one entries by Sunday. Then do the arithmetic, which is the part that actually works. Count how many entries carry the same word. Most people expect variety and find one word on somewhere between twelve and eighteen of the twenty-one, sitting there in their own handwriting, on days that had nothing in common with each other. That count is your baseline, stated as a number instead of a mood, and a number is considerably harder to argue with than a vague sense that things are basically fine. Read the body column beside it and you will usually find the same physical arrangement showing up underneath the same word, which tells you where to start.
 
-If what pulls at you is the setting itself rather than the location or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this material: real screening before anybody arrives, a group small enough that nobody can quietly sit at the back for a week, and the rehearse-it-inside-real-situations part built into the design instead of left for you to work out alone on day twelve. The honest limitation is that exact dates, price and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what temperature you have been running at, and why, is rarely wasted, whatever you decide afterwards.
+If what pulls at you is the setting itself rather than the location or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this material: real screening before anybody arrives, a group small enough that nobody can quietly sit at the back for a week, and the rehearse-it-inside-real-situations part built into the design instead of left for you to work out alone on day twelve. The honest limitation is that exact dates, price and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what temperature you have been running at, and why, is rarely wasted, whatever you decide afterward.

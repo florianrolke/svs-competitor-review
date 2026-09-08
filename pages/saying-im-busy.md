@@ -368,7 +368,7 @@ It closes accounts, quietly, and nobody sends you a notice.
 
 Here is the part of this pattern that arrives with no warning attached. The word works. It works the first time, the tenth time, the fortieth time. It works so well that the only feedback you ever get is confirmation. And then at some point, in one particular friendship, a person stops asking, and they do not tell you that they have stopped, and they do not know they have decided anything either. Inviting somebody who is always busy simply stops occurring to them.
 
-The credibility of the word is borrowed in the first place. It works on your empty Thursday because it was completely true in March, and in most of February, and for six weeks last autumn. Everybody who knows you knows you are a genuinely busy person, and that knowledge is what makes the untrue use invisible. You are spending a balance that your real weeks built up, and the spending is not itemized anywhere.
+The credibility of the word is borrowed in the first place. It works on your empty Thursday because it was completely true in March, and in most of February, and for six weeks last fall. Everybody who knows you knows you are a genuinely busy person, and that knowledge is what makes the untrue use invisible. You are spending a balance that your real weeks built up, and the spending is not itemized anywhere.
 
 When the balance runs low the withdrawal is silent. There is no confrontation and no moment of being caught. There is a slow reduction in the number of times your phone lights up on a Monday, spread across enough months that it never registers as an event. And the experience of it, when it finally lands, carries nothing of *my excuses caught up with me* in it. What arrives instead is *people do not really include me anymore*, which points you at completely the wrong problem and usually produces more withdrawal.
 
@@ -462,7 +462,7 @@ One more thing to expect, because it is where most attempts die around week thre
 
 Six things, and the first three ask you to change nothing at all about what you say to anybody.
 
-1. **Log the next ten invitations.** Who asked, what you said, what was actually in the evening, and what you actually did with it. Change nothing. You are collecting evidence, and evidence from an ordinary fortnight is worth more than any amount of reflection.
+1. **Log the next ten invitations.** Who asked, what you said, what was actually in the evening, and what you actually did with it. Change nothing. You are collecting evidence, and evidence from an ordinary two weeks is worth more than any amount of reflection.
 2. **Name the real reason silently, every time, before you reply.** One sentence, in your head, unsoftened. Then say whatever you were going to say. The only question that matters at this stage is whether you can form the sentence at all.
 3. **Check the coverage.** From the log, mark which refusals went to which people. If one name has a different pattern than the rest, you have found something and it is not about time.
 4. **Assign one evening before you protect it.** Decide what Thursday is for before you decline the dinner, even if the answer is nothing, on purpose. Then notice how differently it goes.

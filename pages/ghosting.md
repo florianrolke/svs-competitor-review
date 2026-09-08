@@ -72,7 +72,7 @@ faqs:
 - q: "How do I end things kindly without a long conversation?"
   a: "Two sentences, sent within a day of knowing. The first states the decision plainly, the second says something true and warm without reopening anything. Avoid reasons that invite negotiation, avoid promises about staying in touch you will not keep, and avoid the phrase that leaves a door open when you mean it closed. Brevity is not coldness here. Length is usually where the cruelty gets in."
 - q: "How long does it take to change this?"
-  a: "Recognition arrives in weeks and the reflex takes months. Most people can catch themselves putting the phone face down within a fortnight of paying attention, and catching it counts even on the days you still put it down. Sending the difficult reply gets easier at the pace of accumulated evidence that it survivable, which means it changes through repetitions rather than through insight."
+  a: "Recognition arrives in weeks and the reflex takes months. Most people can catch themselves putting the phone face down within two weeks of paying attention, and catching it counts even on the days you still put it down. Sending the difficult reply gets easier at the pace of accumulated evidence that it survivable, which means it changes through repetitions rather than through insight."
 - q: "What if I have been ghosted too?"
   a: "Almost everyone with this pattern has, and it is worth separating the two before they blur. Being ghosted is something that happened to you. Ghosting is something you do, and it is the only one of the two you can change. If your own disappearing started or got worse after somebody vanished on you, that connection is real and it belongs in what you look at."
 - q: "When does this belong with a professional rather than a practice you run yourself?"
@@ -142,6 +142,8 @@ Now look at what silence asks of you. Nothing. You put the phone down and the de
 
 Put those two schedules side by side and the behavior stops looking irrational. A reward that arrives in seconds trains itself into a reflex within months, whatever you consciously believe about how people should be treated. This is the same arithmetic that runs underneath most habits people cannot explain about themselves, and it is why arguing with yourself about being a decent person has never once produced the message.
 
+That arithmetic also covers the part that makes no sense from outside, which is that this bites hardest on people you actually like: the more their reaction matters to you, the more the sentence costs to say, and the bigger the relief when you set the phone down instead. That is the two schedules applied to a particular case rather than a measured result, because nobody has run the study that compares how people end things with someone they liked against how they end things with someone they did not.
+
 Then the second mechanism arrives, and this is the one that turns an ordinary delay into a disappearance. The silence compounds. On day one you are answering a message. On day nine you are answering a message and accounting for eight days of nothing. On day thirty the reply has to carry an apology, an explanation, and an ending simultaneously, which is roughly three times the job the original two sentences would have been. Every day you wait raises the price of the thing you are avoiding because you are avoiding it, which is a closed loop with no natural exit.
 
 By week three most people have crossed a line they cannot name, where sending anything at all would be more exposing than staying gone. That is the point where an ordinary avoided reply becomes the permanent loss of a person.
@@ -189,6 +191,8 @@ The last row is doing the work in that table. Every other move buys you somethin
 
 The silent treatment sits in that list for contrast rather than as a variant. It is the one where you stay inside the relationship, and that changes what it is doing. Ghosting is an exit. Withholding contact while remaining present is pressure, and it works on someone who cannot leave. If you recognize yourself more in that row than in the first, [the pattern of going quiet inside a conflict rather than leaving it has its own page](/patterns/why-do-i-shut-down-in-the-middle-of-an-argument/).
 
+Two of those rows belong to other pages, and the line between them and this one is worth being exact about. Withholding contact while you stay in the relationship is a way of carrying anger without ever saying it, which puts it with [anger that comes out sideways](/patterns/expressing-anger-sideways/) rather than here. The single message you keep meaning to return, the one that never quite turns into a disappearance, sits with [the wider reluctance to pick up at all](/patterns/avoiding-phone-calls/). What stays on this page is the ending itself: contact stops, nothing is given, and the thing is over without either person having named it.
+
 ## Why Do Two People Ghost Identically for Completely Different Reasons?
 
 Because the visible behavior under-determines its cause, every time.
@@ -218,6 +222,18 @@ The fifth root is about being left. If your disappearances cluster after good ev
 All of which is why the same advice produces such wildly different results. It comes down to the match of the tool with what the tool needs to work on. You can have a screwdriver, and if it is the wrong one it will not work for you, regardless of how good a screwdriver it is. [The same technique landing for someone else and doing nothing for you has a mechanism behind it.](/patterns/why-did-the-advice-that-worked-for-them-do-nothing-for-me/)
 
 A label can be looked up in ninety seconds. A root has to be found, and it has to be found in you specifically, which is slower and considerably more useful.
+
+## Why Do I Ghost Recruiters, Clients, and My Boss as Well as Dates?
+
+Because the reflex answers to the shape of the obligation, and it does not check which part of your life the obligation arrived from.
+
+Most people reach this page through the dating version and then recognize the rest of their week in it. The unopened email from the recruiter you told you were interested. The client whose third message you have watched land. The one-line answer your manager is waiting on, which would cost you nine seconds. The friend organizing the thing on Saturday. It is the same stretch between hour one and day nineteen, running on the same relief, and it compounds identically: on day one it is an answer, on day twelve it is an answer plus an account of the twelve days.
+
+The job-seeker surveys named earlier on this page are why this is worth treating as a general behavior rather than a dating problem. They come with a limit worth having, because it is easy to read more into them than they can hold. A company that surveys the people using its own service is measuring its own users, who chose to be there and then chose to answer. That is enough to show the behavior turns up well outside romance, and nowhere near enough to give you a rate for anybody else.
+
+The roots above sort the work version cleanly, which is the practical payoff. If yours is the overwhelm root, the professional one will be the loudest version you have, because that is where the volume is, and it will rise and fall with your workload rather than with how you feel about any individual person. If yours is the one about being witnessed disappointing somebody, it bites hardest at the moment you have to withdraw from something you already agreed to. If yours is the contempt root, at work it usually attaches to a role or an arrangement you stopped respecting rather than to a person.
+
+Two things are genuinely different in the professional version. The silence sits in a thread somebody can scroll back through long afterward, and the industry is smaller than it looks. That cuts both ways, and the second way is the useful one: a work thread is the cheapest practice available to you, because the sentence is short, nobody's evening depends on it, and the whole thing is finished in a single message. If you are going to become the person who states an ending, the recruiter is a better place to begin than the person you have been avoiding all year.
 
 ## Where Did This Get Installed?
 
@@ -325,6 +341,8 @@ The two-sentence ending is worth being concrete about, since a general instructi
 | A hiring process you walked out of | "I've decided not to continue with the process. Thank you for the time you put into it, and apologies for the delay in saying so." |
 | Someone you ghosted long ago who is still in your life | "I disappeared on you last year and it wasn't fair. I'm sorry. You don't owe me a reply." |
 
+There is one measured result sitting underneath the fifth step, and it is worth knowing exactly what it does and does not show. When researchers gathered up the full range of ways people end relationships and had each one scored for how much consideration it showed the other person, what predicted a gentler choice was the reason being given for the ending rather than any quality of the person choosing: the considerate end of the range got picked far more readily when the cause sat in the situation, and far less readily when the other person was held responsible for it. [That study is named in full on the breadcrumbing page](/patterns/breadcrumbing/). The limit matters as much as the result: those were imagined breakups, chosen inside a study rather than performed with a person waiting for an answer, so it records what people select when the choice is imaginary and says nothing about who manages it for real.
+
 Is any of this dramatic? No. It is short and freaking unglamorous, and that is exactly why it holds when a night of resolve does not.
 
 Does the pull to go quiet ever fully leave? Honestly, no, and it comes back hard in any month where too many people want something at once. What grows is the gap between the pull and the action, and the accumulating evidence that the difficult message has never once killed you. [Feeling what surfaces while you stay in the conversation is its own skill, and most people have never been taught it.](/insights/how-to-feel-your-emotions/)
@@ -338,6 +356,24 @@ The test for whether to send it at all is whose relief it would be for. If the m
 Short is the whole discipline here. A long explanation converts your apology into a request for absolution, which quietly makes them responsible for making you feel better about what you did to them. Name it, own it, say what you want now, release them from replying. Then let the reply be whatever it is, including nothing, which is a possibility you have to genuinely accept before you send.
 
 One more thing, which is the part people skip. If you want the relationship back, say that separately and plainly, after the apology has been allowed to stand on its own. Merging the two turns the apology into a transaction, and people can feel that instantly. [Forgiving yourself for the version of you who disappeared is its own piece of work](/patterns/how-to-forgive-yourself/).
+
+All of that is reasoning about cost rather than a tested result, and it is worth saying so directly. The case for shortness, and for asking nothing, holds because of what a long message does to the person opening it, which you can check against your own experience of receiving one. What I cannot find anywhere is a study that followed late apologies to people who had already stopped waiting and reported what happened next, so anyone who quotes you a likely outcome for this has made it up.
+
+## Should I Contact Someone Who Ghosted Me, or Accept That It Is Over?
+
+You get one message, you send it for your own sake, and you send it expecting nothing back.
+
+Almost everybody who recognizes themselves in this page has also had it done to them, often in the same year. The two sides get discussed as though they were different groups of people, and they are mostly the same people. The decision in front of you is about your own next move rather than about anything they owe you.
+
+Start with what the unfinished situation is actually costing you, which this page has already set out from the leaving side. With no ending given, you supply one, and the version you supply is almost always harsher, and far more about your own worth, than anything the other person was thinking. A message can sometimes interrupt that. It interrupts it by turning a mystery into a fact, including the fact of no answer, which is still information you did not have.
+
+So the test is what you would be sending it for. If you want to say something true and then stop carrying it, one short message does that job whether or not anyone replies. If what you want is a reply, or a reason, or for them to feel the weight of it, the message will not deliver any of those, and sending it can leave you further back, because now there is a second silence sitting on top of the first.
+
+One message, once. Say the thing and stop, ask for nothing, and do not send another to check the first one arrived. The second message is where this turns from finishing something in a way you chose back into waiting on somebody else, and the waiting is the part that has been expensive all along.
+
+Then the piece of this you cannot get around. You will very probably never learn why, and if you did learn it, it would most likely say more about their capacity than about you. What you are hoping for is not in another person's gift, least of all the person who has already shown you what they do with a difficult conversation. What is available is your own account of it: you were treated in a way you would not treat somebody, and it is finished.
+
+And the case where the answer is simply no. If the silence followed something that made you feel unsafe, if getting back in touch means reopening access to you, or if you have already sent messages that were never answered, then the decision is made and the work is accepting it rather than testing it again.
 
 ## How Long Does This Take, Honestly?
 

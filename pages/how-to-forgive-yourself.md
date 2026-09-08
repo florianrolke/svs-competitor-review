@@ -277,7 +277,9 @@ That failure has a mechanism behind it, and the mechanism is the useful part of 
 
 **One line before the rest.** If what you are carrying sits alongside hopelessness that has not lifted for months, an addiction, a condition you are currently managing, or any thought of harming yourself, however briefly it passes, that belongs with a doctor, a therapist, or a crisis line today rather than with anything written down. Some versions of this need a person in the room, and asking in month one costs far less than asking in month twelve.
 
-## Why Does Deciding to Forgive Yourself Do Nothing?
+## Why Do I Keep Replaying One Mistake Years Later Even Though I Know I Cannot Change It?
+
+Because none of it is old. The sharper version of the same question is why deciding to forgive yourself does nothing at all, and one answer covers both.
 
 Because a decision is one event and the guilt is a process that gets rebuilt every morning.
 
@@ -349,6 +351,8 @@ No, and this confusion is the single biggest reason people refuse the whole idea
 
 What self-forgiveness actually names is narrow: the end of the daily, self-administered re-punishment of a past self, by a present self that has already taken a real position on what happened. Everything people assume comes bundled with it stays exactly where it was. The act keeps whatever rating you gave it. Your memory keeps its detail. The other person keeps full authority over their own forgiveness, and any amends you still owe stay owed.
 
+That line has been drawn in the research too. Wenzel, Woodyatt and Hedrick, writing in the *European Journal of Social Psychology* in 2012 under the title "No genuine self-forgiveness without accepting responsibility", argued that a measure which only scores how well a person now regards themselves cannot separate genuine self-forgiveness from the pseudo version in which responsibility gets quietly downplayed, and across a role-play experiment with 90 participants and a longitudinal study of 74 self-reported wrongs they found that accepting responsibility pushed self-regard down, except where the person had reaffirmed the value they broke, which in the first study meant confessing to the person they had wronged. The limit sits in the design: one study is a role-play rather than a real wrong, the other rests on self-report at both ends, and neither ran long enough to say whether what got restored stayed restored.
+
 | What people assume it means | What it actually asks | What stays open |
 |---|---|---|
 | Deciding it was not that bad | The judgment stays exactly where it is | Whether the act was wrong. Still yes, unchanged |
@@ -388,6 +392,26 @@ By four tests, and private suffering fails all four.
 
 That fourth test is the one worth running today, in writing, before you read any further. Most people discover they have never once asked it, and that the honest answer is that nothing would count, because nothing was ever meant to.
 
+## How Do I Forgive Myself for a Mistake That Hurt My Coworkers and Disappointed My Boss?
+
+By running the same mechanism on it, which is harder at work than in private, because a job supplies more places to hide the punishment and then praises you for using them.
+
+The shape people describe is consistent. You missed something, or pushed a decision through, or stayed quiet in a meeting where speaking up would have cost you, and the consequence landed on people who then paid for it: hours somebody else had to put in, a project set back by months, someone above you having to explain it upward. Often nobody shouts. What stays is smaller and worse than a reprimand, which is having watched people quietly revise what they thought you were reliable for.
+
+Three things make the work version outlast the private ones.
+
+The people it happened in front of are still there. A private guilt has nowhere to restart from except your own head, so it runs on your schedule. This one gets restarted by a calendar invite, by the person walking past your desk, by your own name in a subject line, so the sequence described at the top of this page gets rebuilt more than once a day rather than once.
+
+What you did and what you are get welded faster here. Most people can hold "I did a bad thing" apart from "I am a bad person" for a sentence or two when the failure is a moral one. When the failure is a professional one, the weld happens almost immediately, because for most adults the job is already half an answer to the question of who they are.
+
+And the workplace issues an unlimited punishment vehicle, then rewards you for driving it. Longer hours. Taking the job nobody wants. Never asking for anything. Never taking the credit. Bringing it up again in writing months after everyone else filed it. Every one of those looks like commitment from outside, so it gets praised, and being praised for it is what makes it so hard to see and harder still to stop.
+
+Run the four tests from the section above on whatever you have been doing since. Extra hours nobody asked you to work cost you something real, and they expose you to nobody, they cannot be refused, and no amount of them would ever count as enough, so they fail three of the four.
+
+What passes is narrow and unimpressive: one direct sentence to each person who paid for it, naming the specific thing you did rather than how you feel about it, with no request for reassurance attached, and one concrete change they can watch you make. Then it is over, whether or not anybody tells you it is.
+
+The refusal risk is the whole point. They may be short with you, or say nothing at all, or take a year to hand you anything back. An apology somebody is free to refuse is aimed at them. Months of quiet penance are aimed at you.
+
 ## What Actually Moves It?
 
 Two moves, neither of them a single event.
@@ -411,6 +435,8 @@ A word on disclosure, because it comes up in almost every version of this. Befor
 ## What If the Person Is Dead, Gone, or Will Not Speak to You?
 
 Then direct repair is off the table, and the two moves still run, with the second one redirected.
+
+The 2012 studies named further up this page are worth holding here, because the weight they put on genuine self-forgiveness went to reaffirming the value that got broken, and they treated confessing to the person harmed as one route to that rather than as the thing itself. That reading comes from two small studies in which nobody had their channel closed, so take it as a lead worth following rather than as a result about your situation.
 
 This is the hardest version, and it is common. A man is estranged from an adult child after years of being harshly critical and largely absent when it counted. The child has since made clear that contact is unwanted and the relationship is over. With no repair channel available, guilt has nowhere to discharge, so it calcifies into one of two things: minimizing what happened until it can be lived with, or endless private rumination that changes nothing and reaches nobody.
 
@@ -442,9 +468,13 @@ Is that frustrating? Yes. It is slow and freaking unglamorous, and I would rathe
 
 One more honest note. There is usually a part of the person carrying this that is tired of the story and would put it down if it knew how. That part is worth trusting. It is not the same as wanting to be let off.
 
-## What Does the Other End Actually Look Like?
+## How Do I Know Whether I Have Actually Forgiven Myself?
+
+Nothing hands you a result, and nothing marks the end, so the usable form of the question is what the other end actually looks like when you are living in it.
 
 Quieter than most people imagine, and considerably less final.
+
+The field has its own answer to this, and it is worth knowing how thin it is. The standard instrument is a self-report questionnaire, the State Self-Forgiveness Scale, published in 2008 under the title "Looking within: Measuring state self-forgiveness and its relationship to psychological well-being", which means that in the measure researchers reach for the instrument is you, answering about yourself, on whichever day you happen to answer. That is a real limit rather than a quibble, because a score for how kindly you currently regard yourself cannot separate the settled version from the version that has quietly re-rated the act downward, which is why the table below is written as things you would notice yourself doing rather than as a feeling to check for.
 
 Every one of these patterns has two ends, and a description that only covers the punishing end leaves you with an accurate account of your problem and nowhere to walk. So here is the other end, translated out of abstraction and into an ordinary Tuesday.
 

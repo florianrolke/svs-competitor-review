@@ -196,7 +196,7 @@ faqs:
     they are broken when it fails. That combination fails for almost everybody. Move
     it to a colleague's minor problem, aim for one pause rather than a personality
     change, and count a repetition as a win even on the occasions you help anyway
-    afterwards.
+    afterward.
   q: What if I have tried to stop and nothing has changed?
 - a: Because from outside it can look as though the help was never fully selfless,
     and there is some truth in that. Needing to be needed and genuinely caring about
@@ -485,7 +485,7 @@ By building tolerance in small doses, in relationships where almost nothing is a
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The thing I underestimated longest was how much of this is a reflex rather than a belief. You can understand every word on this page, agree with all of it, and still have a solution halfway out of your mouth before a friend has finished a sentence, because the understanding lives somewhere the reflex has never visited.
 
-Is any of that comfortable? No. It is small and freaking repetitive, and it works considerably better than one dramatic decision to stop caring so much, which nobody has ever successfully kept for more than a fortnight.
+Is any of that comfortable? No. It is small and freaking repetitive, and it works considerably better than one dramatic decision to stop caring so much, which nobody has ever successfully kept for more than two weeks.
 
 ## What About the People Who Genuinely Do Need Help?
 

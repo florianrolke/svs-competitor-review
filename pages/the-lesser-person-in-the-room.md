@@ -44,7 +44,7 @@ faqs:
 - q: "Why does one impressive person inspire me and another one flattens me?"
   a: "The condition described in the research is whether the level still looks reachable from where you are. An outstanding peer lifts you when the gap looks closable and drops you when it does not. That moderator is real and it is less settled than popular writing suggests, since most of the evidence comes from short studies where reachability was set by framing rather than measured in anybody's life."
 - q: "Why do I rank myself against people I will never see again?"
-  a: "Because the process will run on any target at all. A person at a counter, somebody in a queue, a stranger at a party you will not speak to twice. That is one of the clearest signs that what is running is an ordinary background reading rather than a considered opinion, because a considered opinion requires material and there was none."
+  a: "Because the process will run on any target at all. A person at a counter, somebody in a line, a stranger at a party you will not speak to twice. That is one of the clearest signs that what is running is an ordinary background reading rather than a considered opinion, because a considered opinion requires material and there was none."
 - q: "Why do I feel this most in the first minute?"
   a: "Because the first minute is when the room contains the least information and the estimating has the most work to do. Sorting has to happen fast so the conversation can proceed, so it runs on whatever is available: how somebody stands, how confidently they say their own name, what they do for a living. All of that is noise, and all of it gets used."
 - q: "Does being underneath ever come with a benefit?"
@@ -201,6 +201,8 @@ Consider what your mind has to do in the first moments of a room. It has to work
 
 All of that has to complete fast, because a conversation moves fast, so it runs below the level where anything deliberate of yours gets a vote. What surfaces is the output. It arrives already formed, and it arrives feeling like a perception rather than a calculation, which is exactly why it is so convincing and why arguing with it accomplishes nothing.
 
+The model that describes this best is the one named earlier on this page: Mussweiler's 2003 account of comparison processes, which holds that a comparison standard gets applied even when it is arbitrary, incidental, or has no business being used, and that the applying is finished before any question of whether it was warranted comes up. A room with no evidence in it yet is therefore the condition the process was built for rather than an obstacle to it. The honest limit is that the model organizes a large body of laboratory findings rather than resting on one decisive experiment, and it describes the machinery without telling you how far off any single reading is.
+
 There is a consequence worth sitting with, because most of the unnecessary suffering on this subject comes from it. You are treating an automatic estimate as though it were a considered judgment you made about yourself. If you had sat down, weighed yourself against the room deliberately, and concluded you were the least able person present, that would be a conclusion with reasons in it that could be examined. What actually happened is closer to noticing that a room is cold.
 
 And notice what the process is genuinely doing, because it is trying to answer a question the room refuses to answer any other way rather than persecuting you. The estimate is a working guess made under time pressure with almost no information, which is precisely the condition under which any guess is least reliable.
@@ -210,6 +212,8 @@ And notice what the process is genuinely doing, because it is trying to answer a
 No, and this root goes first because most people who find this page are here for it and are treating something ordinary as a defect.
 
 Every group of humans arranges itself, continuously and mostly silently, and everybody in it holds a working estimate of where they fall. This is neither a modern affliction nor a symptom of anything. A species that has lived in groups for its entire history is doing the thing that makes groups navigable.
+
+A 1995 paper in the Journal of Personality and Social Psychology, published under the title "When comparisons arise", measured that directly. It set up situations where another person's performance told participants nothing useful about their own, and people compared themselves anyway, including the ones who knew the comparison was worthless, then unpicked it afterward once they had the spare attention. The conclusion the authors drew is the one worth carrying into a room, which is that comparing is a spontaneous and largely unintentional reaction to somebody else's performance and the deliberate part of you turns up second. Two studies, student volunteers, comparisons manufactured by an experimenter, and an unpicking measured in seconds rather than across a week of rooms: the limits are the ordinary ones for laboratory work of that period.
 
 What makes it feel like a defect is that you only notice the readings that hurt. The process runs in both directions all day. You are also, routinely and without remarking on it, sorted above people, and those readings pass through without leaving anything behind because there is nothing uncomfortable to attach to. So the sample you have of your own comparing is heavily biased toward the painful half, which makes it look like a machine that only points one way.
 
@@ -266,6 +270,8 @@ So here is the honest version. The position is real. Three things about it are n
 **That the position is stable.** It is the most changeable thing on this page. Experience accumulates, and unlike almost everything else discussed here it accumulates in a straight line if you keep turning up.
 
 **That the position licenses silence.** This is the expensive one. The least experienced person in a room is frequently the one whose question is most worth asking, because everybody else stopped being able to see the thing years ago. A room full of experts has a specific blind spot and you are standing in the only position that can see it.
+
+The third of those has been measured. A 1999 paper in the Journal of Experimental Psychology: Applied, published under the title "The curse of expertise", had experts, intermediate users and novices predict how long a novice would take to finish a complex task, and the more expert the predictor, the worse the prediction, with experts consistently underestimating how hard the task was for somebody meeting it for the first time and barely moving when the study tried to correct them. That gives you a reason rather than a compliment: the room cannot see the difficulty you are looking straight at, which is why the question that sounds naive in your own head is frequently the only one available to anybody present. The limit is that it measured predictions about a timed task rather than what a question was worth in a real discussion.
 
 The tells for this root are unusually clean.
 
@@ -381,7 +387,9 @@ Here is the part people find hardest to accept. The silence does not feel chosen
 | Reports on a room | Determines what the room gets from you |
 | Effort here changes nothing | Attention here changes everything |
 
-## How Does a Position Decide How Much You Say?
+## Why Do I Stay Quiet With My Boss Even When I Have the Answer, and Then Feel Even Less Credible?
+
+The question underneath that one is how a position decides how much you say.
 
 By pricing every sentence against it before the sentence gets out.
 
@@ -394,6 +402,8 @@ Watch what this produces over a meeting. The first thing goes unsaid because it 
 Then the loop closes, and this is the part worth knowing early. A room reads a quiet person as somebody with nothing to add. Not unkindly and usually not consciously. They simply stop routing things toward you, ask you fewer questions, and give you less airtime next time. Which supplies precisely the evidence the original reading was missing.
 
 So the position becomes partly self-confirming. It was a guess made with no information, it produced silence, and the silence produced the information that makes it look correct. Nobody in the room did anything wrong and nobody could tell you it was happening.
+
+The group-level version of this is documented, which is worth knowing if it feels like something you are imagining about yourself. A 1980 review in the Annual Review of Sociology, published under the title "Status Organizing Processes", gathered two decades of work on small task groups and reported a consistent regularity: a difference in standing, including one with no bearing on the task at hand, produces differences in who speaks, whose contribution gets taken up, and who the group afterward rates as competent, with the rating following the participation. So the credibility you feel draining away during a quiet hour with your boss is close to what the room is actually doing with the silence, and the sequence started from a difference in standing rather than from anything either of you knows about the work. The evidence is mostly from small groups assembled in laboratories and given contrived tasks, and it describes what groups do rather than what any one person in them amounts to.
 
 The full mechanics of a sentence forming completely and then stopping [are covered separately](/patterns/why-cant-i-speak-up/), and that page is the better one if the sticking point is the speaking itself rather than the position underneath it.
 
@@ -408,6 +418,8 @@ I am naming that condition without attaching a researcher to it, deliberately. T
 The honest limit needs stating alongside it, because this idea travels much further in popular writing than the evidence supports. Most of what established it consists of short studies with student volunteers in which reachability was set by how the outstanding person was described rather than measured in anybody's actual life. Reviews of the wider field find that whether a comparison lifts or drops somebody depends on several things at once, including how similar the person seems, how much the domain matters to you, and what mood you were already in. Treat reachability as one live ingredient rather than as the switch.
 
 What survives the caution is still useful to you. If a room flattens you, it is worth asking whether the gap you are reading is the two year kind or the twenty year kind, because people routinely read the first as the second and then act accordingly for a decade.
+
+A second condition sits alongside that one, from a separate line of work and easy to confuse with it. A 1980 study in the Journal of Experimental Social Psychology, published under the title "Some effects of task relevance and friendship on helping: You don't always help the one you like", varied how relevant a task was described as being to the person doing it and then looked at how much help that person gave somebody else. When the task had been described as measuring something central to them, participants gave a friend less useful help than they gave a stranger, and when it had been described as unimportant, the friend got the better help. The condition doing the work there is relevance, which is why somebody outstanding in a field you have never ranked yourself in registers as interesting and nothing more, while the same level of excellence in your own subject lands somewhere else entirely. So a room that flattens you is worth two questions instead of one, the second being whether the thing they are good at is one of the small number of things you quietly measure yourself in. It is a single laboratory study from 1980 with a small student sample, measuring help given in a contrived game rather than anything that happened to anybody across a working year.
 
 ## Where Does This Hide When It Does Not Look Like Feeling Inferior?
 
@@ -517,6 +529,8 @@ The record first, then one sentence per room, and nothing else for a month.
 
 **And leave the root for last.** Whichever of the five is yours, naming it does not move it. Identifying the root tells you what kind of work is in front of you, and it is not itself the work. The week of recording helps regardless of root, which is why it goes first.
 
+One of those has been measured, and the result runs against what the position predicts. A 2015 paper in Management Science, published under the title "Smart People Ask for (My) Advice: Seeking Advice Boosts Perceptions of Competence", started from the fact that people hold back from asking because they expect it to make them look less able, and found the expectation running backward: the person who asked was rated more competent than the person who did not, more strongly when the task was hard, and more strongly again when the advice was asked of the rater personally. These were short studies, largely with strangers rather than colleagues, measuring what an observer thought in the moment rather than what a year of meetings does to anybody's standing. What it settles is the status of the fear behind the question you do not ask: the belief that asking marks you as the least able person present is a prediction about other people, and the available evidence does not support it.
+
 Two things to skip, deliberately.
 
 Do not ask anybody whether you are as good as you fear. It converts the reading into a request for reassurance, which arrives, lands for about a day, and then gets discounted by the same instrument that produced the problem. [The mechanics of why reassurance stops working are covered separately](/patterns/seeking-constant-reassurance/).
@@ -545,7 +559,7 @@ Three different speeds, and running them together is why people give up in the s
 
 The week of recording takes a week and is the fastest useful thing on the page. Most people can read their own third column on day eight and see something.
 
-The speaking moves over weeks. Saying one prepared sentence is a small repeatable act, and the fourth time is noticeably easier than the first. Expect the count to go backward during a difficult fortnight, which is the pattern behaving exactly as described rather than a failure.
+The speaking moves over weeks. Saying one prepared sentence is a small repeatable act, and the fourth time is noticeably easier than the first. Expect the count to go backward during a difficult two weeks, which is the pattern behaving exactly as described rather than a failure.
 
 The reading itself moves slowest and on nobody's schedule, because what loads it is how your own standing feels to you generally, and that shifts across seasons rather than weeks. This is also the part that responds least to anything you do about the behavior directly, which is worth knowing in advance so that a year of small wins does not read as failure when the position returns intact in a hard room.
 
@@ -560,6 +574,8 @@ Adler supplies the term and the distinction and nothing else. The inferiority co
 Mussweiler published the account of comparison processes in social judgment in Psychological Review in 2003, which is the source of the claim that comparison runs routinely and applies standards it was never given permission to apply. Zell and Alicke published their review of the local dominance effect in Personality and Social Psychology Review in 2010, which is where the claim about the small room outweighing better information comes from.
 
 The schooling effect and the reachability condition I have named without attribution, deliberately. Both are carried properly elsewhere or belong to bodies of work large enough that a single name would misrepresent them, and where the finding matters more than the attribution, I have given the finding.
+
+Five further published findings are named in the body, each by its title, year and journal rather than by an author, because in each case the surname is shared by researchers with nothing to do with each other and a name pointing at several people points at none of them. They are the 1995 paper in the Journal of Personality and Social Psychology titled "When comparisons arise"; the 1999 paper in the Journal of Experimental Psychology: Applied titled "The curse of expertise"; the 1980 review in the Annual Review of Sociology titled "Status Organizing Processes"; the 1980 study in the Journal of Experimental Social Psychology titled "Some effects of task relevance and friendship on helping"; and the 2015 paper in Management Science titled "Smart People Ask for (My) Advice". Each is given with its limits in the section where it appears, and none of the people behind them has any connection to this page or to the seminar either.
 
 The rest of this is mine and carries no research weight of any kind. Five years and more than five thousand hours of doing this work on myself before I built anything around it, and several hundred conversations since in which somebody has described the sign-in sheet, the round of introductions, the question they had ready and gave away, and the polite sentence from a friend telling them they were too hard on themselves. I hold no clinical qualification. Neither of the researchers named has any connection to this page or to the seminar, and where their published work and my own experience disagree, theirs is the one to go and check.
 

@@ -68,7 +68,7 @@ faqs:
 - q: "How long does this take to change?"
   a: "Seeing it takes about an evening with the inventory in front of you. Changing it moves at the speed of finished things rather than the speed of insight, so the honest unit is projects rather than weeks. Most people need three or four small completions before the last stretch stops feeling like a cliff, and small deliberately means small. A finished thing that took nine days counts fully."
 - q: "When does this belong with a professional rather than a page like this?"
-  a: "If the unfinished pile sits inside a wider flatness that has not lifted for weeks, if nothing has held your interest past the first fortnight for a long time, or if the pattern has spread to things with real consequences like medical appointments and legal deadlines. The same applies if there is any thought of harming yourself. That belongs with a licensed professional now rather than later."
+  a: "If the unfinished pile sits inside a wider flatness that has not lifted for weeks, if nothing has held your interest past the first two weeks for a long time, or if the pattern has spread to things with real consequences like medical appointments and legal deadlines. The same applies if there is any thought of harming yourself. That belongs with a licensed professional now rather than later."
 related:
 - /patterns/self-sabotage/
 - /patterns/researching-instead-of-starting/
@@ -163,7 +163,7 @@ Here is where all of it stops, stated as plainly. Every one of those terms descr
 
 Right here, before anything practical, because it outranks every method further down.
 
-This page assumes something about you: that you built ninety percent of something, that the building went well, and that the difficulty is located at the end. If that assumption is wrong, most of what follows will not fit. Where nothing at all has held your attention past the first fortnight for a long stretch, the subject is broader than a finish line and it deserves proper attention rather than a technique.
+This page assumes something about you: that you built ninety percent of something, that the building went well, and that the difficulty is located at the end. If that assumption is wrong, most of what follows will not fit. Where nothing at all has held your attention past the first two weeks for a long stretch, the subject is broader than a finish line and it deserves proper attention rather than a technique.
 
 Three more situations belong elsewhere. If the unfinished pile sits inside a flatness that has settled over your weeks and has not lifted, the projects are downstream of something else. If the pattern has spread into things with real consequences, so that medical appointments, legal deadlines and letters from institutions are also sitting at ninety percent, that has moved past the territory of this page. And if there is any thought of harming yourself, that belongs with a licensed professional now rather than later. Services exist in most countries, many of them free, and they speak with far more people who are unsure than people who are certain.
 
@@ -267,6 +267,8 @@ Treating every ending as a problem is its own trap, and it is a trap that keeps 
 
 One more check belongs here and it lives mostly on another page. If your endings arrive specifically in the days after something good happened, an offer, a compliment on the work, a piece of luck, then the timing is doing the talking and the finish line is incidental. That version travels across a whole life rather than across a folder, and it shows up in relationships and health and money as readily as in projects. [The pattern of interfering with your own good outcomes has its own page](/patterns/self-sabotage/), and the timing test there is the one to run.
 
+A fourth check sits in the vocabulary further up this page, and it looks at what came after rather than at what stopped. Wrosch and colleagues treated releasing a goal and committing to a new one as two separate capacities, which gives you something checkable: after a clean stop you can usually say when you decided on the next thing and what you turned down in order to take it, while after the other kind the next thing simply appeared. The limit is worth stating, because their work was built on goals that had genuinely closed rather than on goals you could still finish this month, so carrying the pair across to your folder extends their finding instead of resting on it.
+
 ## What Is the Difference Between Abandoning Something and Pausing It?
 
 A pause has three components. Without all three, the word has changed and the situation has not.
@@ -282,6 +284,8 @@ Here is what separates them.
 A project with all three is genuinely paused and costs you nothing while it waits. A project with none of them is in the pile, and the pile is what makes the tenth abandonment heavier than the first, because every item in it quietly restates the same conclusion about you every time you open the folder.
 
 There is a third option that people forget exists, and it is often the best one. Deliberately ending something, out loud, on purpose. Writing one line that says this is done and I am not going back to it, and then filing it somewhere that is not the active pile. That is a decision rather than a drift, and decisions do not hum.
+
+There is a measured reason the written state does the work it does. Research on unfulfilled goals has found that an open commitment keeps intruding on attention until a specific plan exists for it, and that writing the plan releases the intrusion even though the task itself stays undone; I am describing that result here rather than re-attributing it, because it is credited by name on [the page about staying awake when you are already exhausted](/patterns/staying-up-late/) and one study should not be made to look like two. The limit matters for a pile like yours: those intrusions were measured over short horizons on small tasks, so the finding explains why a properly written pause stops humming and says nothing whatever about whether the room gets painted.
 
 ## Where Does This Hide When You Would Not Call It Abandoning?
 
@@ -310,7 +314,7 @@ This distinction is worth more than almost anything else on this page. Giving so
 
 "I lost interest" can be a completely accurate report. Interest went, you checked, it had not been driven off by anything, the project had genuinely stopped being right. That explanation ends with a decision: you close it deliberately, you write the line, you file it.
 
-The same sentence used as a story has a signature. It arrives fast, before any checking. It gets slightly more polished each time you say it. It closes the subject rather than opening it, and you notice a small reluctance when somebody asks a follow-up question. And it is followed within a fortnight by a new project, at zero percent, which is exactly as interesting as the last one was at the start.
+The same sentence used as a story has a signature. It arrives fast, before any checking. It gets slightly more polished each time you say it. It closes the subject rather than opening it, and you notice a small reluctance when somebody asks a follow-up question. And it is followed within two weeks by a new project, at zero percent, which is exactly as interesting as the last one was at the start.
 
 The test is simple and slightly uncomfortable. Ask what would have to be true for the explanation to be wrong, and see whether you want to look. An explanation can survive that question. A story cannot, which is why it comes with a small flinch attached.
 
@@ -359,6 +363,18 @@ That fourth one deserves a moment because people rarely look at it. The dinner c
 
 The reason this matters more than another round of self-examination is that these four are alterable this month. Name a receiver. Write the definition of done on one line. Close every project except one. Tell one person you will send them the finished thing on a date, and let the reward come from that rather than from the announcement.
 
+## Why Can I Finish Assignments for My Boss but Not Projects That Are Only for Me?
+
+Because the job hands you four things at once, and the date is the least useful of them.
+
+Paid work supplies a person who will notice. It supplies a definition of finished written by somebody else, so the thing cannot quietly grow while you are inside it. It supplies a cost that lands on other people when you miss, which behaves differently from a cost that lands only on you. And it supplies a fixed moment when the work leaves your hands whether or not you feel ready for it, because a Thursday meeting arrives on Thursday. None of the four is willpower and none of the four is character. They are arrangements, and nobody built them with you in mind.
+
+The obvious next move is to give yourself a deadline, and this is where a page like this has to be honest, because the study almost everybody quotes for that no longer stands. A 2002 paper in *Psychological Science*, "Procrastination, Deadlines, and Performance: Self-Control by Precommitment", is where the idea that imposed deadlines outperform self-imposed ones entered general circulation. I name it by title rather than by author because its lead author already appears on this site for an unrelated finding. In 2026 Hyndman and Bisin published a direct replication of its second study in the same journal, run with adult participants at a large public university in the United States, and reported that changing the deadlines had a negligible effect on the three performance measures the original had used, and that evenly spaced deadlines imposed by the experimenters did not stand out for reducing delay. The journal retracted the original paper on September 2, 2026.
+
+Say what that settles and what it leaves open. One replication, in one setting, on student assignments rather than on a spare room or a manuscript, cannot show that deadlines never help anybody, and plenty of people reading this have watched a real one work. What it does remove is the right to hand you "just set yourself a deadline" as an established result, which is roughly how it has been handed out ever since.
+
+So the parts of a job worth copying are the other three. The person who will notice. The sentence that says what finished means. The fixed moment when the thing leaves you, ready or not. A date with nobody standing at the end of it is a note you wrote to yourself, and you have read plenty of those. [Where nothing begins until the deadline is close enough to hurt has its own page](/patterns/only-working-under-pressure/), and [so does the arrangement where every stop has to arrive from outside you](/patterns/only-stopping-when-something-stops-me/).
+
 ## Why Does Forcing Yourself to Finish One Thing Not Change the Next One?
 
 Because force produces a result and something else has to sustain it.
@@ -401,6 +417,8 @@ The instinct in this pattern is to make the ending as large as the fear, which g
 Expect the middle of this to feel worse before it feels better. You cut out the things that feel good in the moment and are not good for you over the longer term, you go through a period of withdrawal at the start, and then you find it is actually not that hard once you have committed. It feels like something is missing in the meantime, and that is always the case. What you learn quite quickly is that nothing was missing, and that living without it was easier than expected.
 
 Repeat that sequence three or four times, with genuinely small things, before attempting anything that matters. The capability being built is completion, and completion is trained the same way any other capacity is trained, in small reps that you can afford to do badly.
+
+The reason that sequence works sits in the distinction Nicholls drew further up this page. Shrinking the audience and the claim keeps the ending inside the frame where the point is to get better at something, rather than tipping it into the frame where the point is to demonstrate what you are capable of, and every step above is a small way of holding the first frame open a little longer. Nicholls described the two states and how people move between them; he never tested a procedure for deciding which one you are standing in, so read this as a description applied to your own Sunday rather than as a method with a result behind it.
 
 ## What Do You Do With the Folder Tonight?
 

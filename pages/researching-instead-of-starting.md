@@ -32,7 +32,7 @@ faqs:
 - q: "Why do I feel less ready the more I learn?"
   a: "Because learning enlarges the visible surface of your own ignorance. A beginner sees one problem and feels ready. Somebody six months into reading sees nine problems, three schools of thought, and a long list of things that go wrong. Every hour of preparation therefore adds to the pile of reasons you are not prepared, which is why readiness recedes at roughly the same speed you approach it."
 - q: "Why do I have forty tabs open?"
-  a: "Because each one is an open question, and closing it unanswered registers as a small loss. Curiosity works as a response to a gap in what you know, and that gap stays mildly unpleasant until it closes. The difficulty is that answers generate new questions faster than you can resolve them, so a genuine appetite for understanding turns into a queue that never gets shorter."
+  a: "Because each one is an open question, and closing it unanswered registers as a small loss. Curiosity works as a response to a gap in what you know, and that gap stays mildly unpleasant until it closes. The difficulty is that answers generate new questions faster than you can resolve them, so a genuine appetite for understanding turns into a line that never gets shorter."
 - q: "Why can I not choose between two good options?"
   a: "Often because the criteria are missing rather than the information. Two options stay tied when you have not settled what you are optimizing for, and no volume of comparison can resolve a question nobody has asked. Try writing the criterion first, in one sentence, then look at your material again. Most stalled comparisons come apart within minutes once there is something concrete to compare against."
 - q: "Is this perfectionism?"
@@ -426,7 +426,7 @@ More than the hours, and in four places most people have never connected to it.
 
 **It teaches you something about yourself, in your own voice.** You are the only witness to every project that stayed at the reading stage. Each one is a small piece of evidence for a proposition you would reject instantly if somebody else said it: that you are somebody who does not follow through. Enough repetitions and that stops being a fear and becomes an assumption, which then quietly shapes what you allow yourself to consider next. [The sense that your own ambitions quietly went away is covered separately](/patterns/why-did-i-give-up-on-my-dreams/).
 
-There is a fifth, and it lands last. The information you gathered so carefully expires. Prices, tools, methods, and the state of a field all move, and the map you built in spring is partly wrong by autumn. People in long preparation phases eventually notice they are re-researching things they already researched, which is the point at which the whole enterprise becomes visible as a treadmill rather than a runway.
+There is a fifth, and it lands last. The information you gathered so carefully expires. Prices, tools, methods, and the state of a field all move, and the map you built in spring is partly wrong by fall. People in long preparation phases eventually notice they are re-researching things they already researched, which is the point at which the whole enterprise becomes visible as a treadmill rather than a runway.
 
 ## Why Does Deciding to Stop Researching Move the Problem Somewhere Else?
 
@@ -457,7 +457,7 @@ Every pattern like this has two ends, and describing only the costly one leaves 
 | You know more than the people doing it | You know less than you could and can do more | You are worse at the theory and visibly better at the thing |
 | The start date moves | The start date is a date | You started on the fifteenth, badly, as planned |
 | Courses accumulate unfinished | One course, finished, while doing the work | You are on module nine and you have shipped two things |
-| Being a beginner is unbearable | Being a beginner is a fortnight you pass through | Somebody watched you be bad at it and nothing happened |
+| Being a beginner is unbearable | Being a beginner is two weeks you pass through | Somebody watched you be bad at it and nothing happened |
 | You cannot say what you are looking for | The question fits in one sentence | "I need to know whether this works offline. That is all" |
 | Reading replaces the work | Reading answers questions the work produced | You hit a real problem on Tuesday and looked it up on Tuesday |
 | Preparation feels like progress | Progress is measured in things that exist | Two rough attempts sitting in a folder with dates on them |

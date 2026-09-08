@@ -36,7 +36,7 @@ faqs:
 - q: "Why do I keep telling people I work best under pressure?"
   a: "Because it is the only sentence available that covers the visible facts and costs you nothing. It accounts for the three quiet weeks, it accounts for the good result, and it arrives with a small compliment attached. The useful test is whether the sentence has ever ended in a decision. An explanation leads somewhere. A line that closes the subject is doing something else."
 - q: "Does time pressure actually help creative work?"
-  a: "The honest answer is conditional. Baer and Oldham reported in 2006 a curved relationship between experienced creative time pressure and creativity, with the middle of the range best, and the effect held mainly for people high in openness who also had support for creative work. That is a narrower claim than the version quoted in management training, and it is not a licence for the twelve-hour version."
+  a: "The honest answer is conditional. Baer and Oldham reported in 2006 a curved relationship between experienced creative time pressure and creativity, with the middle of the range best, and the effect held mainly for people high in openness who also had support for creative work. That is a narrower claim than the version quoted in management training, and it is not a license for the twelve-hour version."
 - q: "What happens to decisions when the window gets short?"
   a: "They get made differently rather than badly. Payne, Bettman and colleagues reported in 1988 that people under time pressure first speed up, then become selective about what they look at, and then switch to simpler strategies that stop trading options off against each other. Every one of those adaptations is sensible. All three reduce the number of alternatives that were ever genuinely considered."
 - q: "Why does finishing early feel like a letdown?"
@@ -117,7 +117,7 @@ The first thing that goes is the menu. For three weeks there were seventeen poss
 
 The second thing is the narrowing. Easterbrook described the mechanism in 1959: as arousal rises, the range of cues a person attends to gets smaller. That narrowing is unpleasant when the task is complicated and you needed those peripheral cues. It is wonderful when the task is clear and everything peripheral was noise. Your phone stops existing. The other six things you were supposed to do this week stop existing. From the inside this registers as focus, and you have almost certainly concluded that you are a person who can focus when it matters, which is one true reading of a narrower fact.
 
-The third thing is the absence of judgement. During the three weeks, every sentence you might have written was subject to a comparison with the better sentence you might write later. On the last night there is no later. The sentence that exists wins by default, because the alternative is no sentence. Perfectionism has a fuel supply, and time is it, and at midnight the supply has been cut.
+The third thing is the absence of judgment. During the three weeks, every sentence you might have written was subject to a comparison with the better sentence you might write later. On the last night there is no later. The sentence that exists wins by default, because the alternative is no sentence. Perfectionism has a fuel supply, and time is it, and at midnight the supply has been cut.
 
 Then there is the fourth thing, which is the one people describe with real affection when they are being honest. It feels good. Not the anxiety before it, which is horrible, but the working itself. Hours pass in a way they never pass otherwise. There is a single object in your attention and no negotiation about whether to be doing it. Some people go looking for that feeling their entire lives and never find it in an ordinary week. You find it three or four times a year, reliably, on a schedule set by other people's deadlines.
 
@@ -194,7 +194,7 @@ That limitation is the reason advice about this pattern is so unreliable in gene
 | The root | What the pressure is actually doing | How you would know it is this one |
 |---|---|---|
 | No felt urgency until threat arrives | Supplying an activation nothing else provides | The work genuinely does not feel real earlier. There is no dread in the weeks, just an absence of any impulse to begin |
-| The window protects the work from judgement | Building an excuse into the timeline in advance | You tell people how long it took. Praise for the fast version lands better than praise would for a considered one |
+| The window protects the work from judgment | Building an excuse into the timeline in advance | You tell people how long it took. Praise for the fast version lands better than praise would for a considered one |
 | The sprint is the experience you came for | Delivering absorption you get nowhere else | An early finish feels flat rather than good, and you have caught yourself saving work for the night |
 | A long runway means choices | Removing the menu so the work can begin | The weeks are full of circling, comparing and reopening decisions rather than empty |
 | Nothing has ever visibly gone wrong | Confirming a method with twenty years of evidence | You cannot name a single occasion when it failed, and you are quietly a bit proud of that |
@@ -261,13 +261,13 @@ What moves this is having somebody else close the decisions early, which is far 
 
 Then you are arguing with twenty years of evidence, and you will lose, and it is worth understanding why the evidence is incomplete rather than pretending it is not evidence.
 
-This root is empirical rather than psychological in the way the others are. You have done it this way since school. It has worked in school, at university, in three jobs and on every project anybody has praised you for. Nobody has ever discovered the timeline. No client has ever complained. The one time you started early, the requirements changed on day ten and the early work was wasted, which felt like confirmation and probably was. Against all of that, a resolution made on a Tuesday has no chance at all, and it should not have.
+This root is empirical rather than psychological in the way the others are. You have done it this way since school. It has worked in school, in college, in three jobs and on every project anybody has praised you for. Nobody has ever discovered the timeline. No client has ever complained. The one time you started early, the requirements changed on day ten and the early work was wasted, which felt like confirmation and probably was. Against all of that, a resolution made on a Tuesday has no chance at all, and it should not have.
 
 Two things are worth noticing about that evidence, and neither one is an argument for abandoning the method.
 
 The first is what the evidence cannot show you. It contains no information about work that would break the method, because you have systematically not taken that work on. This is the quietest cost in the whole pattern and it will not appear in any list of consequences, because it is made entirely of things that did not happen. The book, the qualification, the business, the language, the body of work that only exists after two hundred ordinary days. Those are not available to a method that requires a threat to activate. So the pattern filters your ambitions rather than damaging your results, and a filter is invisible from inside.
 
-The second is what an environment does to a habit. Your surroundings have been arranging themselves around this for a long time. If you are known as the person who saves things, work will arrive late and marked urgent, because that is what you are for. If you deliver reliably on the night before, nobody will build a process that would have given you a runway. This is not being done to you. The way you have worked has arranged the conditions, and the conditions now reinforce the way you work, which is exactly why changing this by decision alone has never held for more than a fortnight.
+The second is what an environment does to a habit. Your surroundings have been arranging themselves around this for a long time. If you are known as the person who saves things, work will arrive late and marked urgent, because that is what you are for. If you deliver reliably on the night before, nobody will build a process that would have given you a runway. This is not being done to you. The way you have worked has arranged the conditions, and the conditions now reinforce the way you work, which is exactly why changing this by decision alone has never held for more than two weeks.
 
 The useful test for this root is a single question. Name the largest thing you have ever wanted to make. Now ask whether it could be done in one night. If the answer is no, and it has stayed undone for years while smaller things kept getting delivered brilliantly, the evidence has quietly been telling you something all along and it was not that the method works.
 
@@ -305,7 +305,7 @@ And then there is the part nobody mentions, which is what the weeks do to the pe
 |---|---|
 | One bad night, a lost morning | Twenty-one days that were neither work nor rest |
 | Occasional close calls | The projects you declined because they needed sustained time |
-| A tired week afterwards | The skills that only exist after two hundred ordinary days |
+| A tired week afterward | The skills that only exist after two hundred ordinary days |
 | Somebody waiting on your part | The version of the work that a second draft would have produced |
 | The stress of the last forty-eight hours | The ceiling you have never seen, because you have never worked above it |
 
@@ -373,7 +373,7 @@ The general shape is the same in every root: stop trying to generate the activat
 
 If the root is no felt urgency, put a real appointment in the middle of the runway with a person in it and something that has to be shown. Fifteen minutes. Day seven. A rough outline, not a draft. It works because it converts one distant abstract obligation into two near concrete ones, and the first of them is small enough to survive being started.
 
-If the root is protection from judgement, deliver two or three ordinary pieces of work on a normal timeline without mentioning the timeline to anybody, and watch what happens. Nothing will happen. That is the finding. This root does not move on insight, it moves on instances, and it needs a handful of them.
+If the root is protection from judgment, deliver two or three ordinary pieces of work on a normal timeline without mentioning the timeline to anybody, and watch what happens. Nothing will happen. That is the finding. This root does not move on insight, it moves on instances, and it needs a handful of them.
 
 If the root is the sprint itself, do not remove it. Keep one thing a year that gets done that way on purpose, and go and find the absorption somewhere it is not attached to a deadline. The question worth asking here has nothing to do with how to stop sprinting. It has to do with why the other fifty weeks are so thin.
 
@@ -444,7 +444,7 @@ Less time than the guilt version suggests, more than a resolution does, and it r
 
 Noticing takes one project cycle. Run the seven questions during a real deadline rather than in the abstract and most people can name their root, name the two or three categories of work it applies to, and describe exactly what the fallow weeks contained. That stage is uncomfortable in a specific way, because you can watch the whole mechanism operate and still not start until Thursday. Seeing it counts anyway. Everything after it depends on it.
 
-The runway root moves fastest, sometimes inside three weeks, because closing two decisions early is a small intervention with a large effect and it does not require you to feel any differently. The no-urgency root moves at about the speed you can install a mid-point checkpoint with a real person in it, which is usually a fortnight of arranging and then it simply holds. The decision root and the urgency root together account for most people, and both of them are structural rather than emotional, which is good news.
+The runway root moves fastest, sometimes inside three weeks, because closing two decisions early is a small intervention with a large effect and it does not require you to feel any differently. The no-urgency root moves at about the speed you can install a mid-point checkpoint with a real person in it, which is usually two weeks of arranging and then it simply holds. The decision root and the urgency root together account for most people, and both of them are structural rather than emotional, which is good news.
 
 The self-protection root is slower and it moves on instances rather than on effort. Three or four pieces of work delivered on a normal timeline, none of them announced, is roughly the dose. The sprint root does not move at all in the usual sense, because there is nothing wrong with it, and what changes instead is where else in your life you can find that state, which is a much longer project and a better one.
 

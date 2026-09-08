@@ -33,9 +33,9 @@ faqs:
     that is worth raising with a doctor alongside anything you read here, because
     the eating itself may need its own support.
   q: Is binge eating a form of escapism?
-- a: Because the past version is finished and safe to romanticise, and the current
+- a: Because the past version is finished and safe to romanticize, and the current
     one still asks something of you. A relationship that already ended cannot disappoint
-    you again, so it can be replayed in whatever emotional detail you like. Idealising
+    you again, so it can be replayed in whatever emotional detail you like. Idealizing
     it is a common way of routing attention away from the specific unresolved thing
     in the present relationship, which usually turns out to be one conversation nobody
     has started yet.
@@ -207,7 +207,7 @@ faqs:
     exist as a condition in its own right. It can sit alongside things that are diagnosable,
     including anxiety, depression, and substance dependence, and those need a qualified
     assessment rather than an article. If the checking out involves stretches of time
-    you cannot account for afterwards, that specifically belongs with a clinician.
+    you cannot account for afterward, that specifically belongs with a clinician.
   q: Is escapism a mental disorder?
 - a: It can be, and it also runs in people whose mood is fine. Withdrawal, lost interest,
     and long stretches spent somewhere other than your own life are all things depression
@@ -217,7 +217,7 @@ faqs:
   q: Is escapism a sign of depression?
 - a: Slowly, and on one instance rather than the whole habit. The moment that matters
     is the one just before the app opens or the drink gets poured, so the first job
-    is learning to see it, even if for several weeks you only spot it afterwards.
+    is learning to see it, even if for several weeks you only spot it afterward.
     Then tolerate that moment a fraction further each time. Then put one small, specific
     action against the thing you have been dodging. A clean sweep of everything at
     once tends to collapse quickly.
@@ -332,6 +332,8 @@ The row worth sitting with is the third one. Take the escape away for one evenin
 
 The second useful row is the last. Genuine rest can be described afterward. You know which episodes, and roughly why you chose them. Time spent on the other side of this line tends to come back as a smear with no detail in it, which is itself information: attention was not really there either.
 
+There is a research version of this same split, and it is the reason the question has an answer at all. A 2012 paper in *Leisure Sciences*, *Activity Engagement as Escape from Self: The Role of Self-Suppression and Self-Expansion*, treats escapism as two motives rather than one: leaving that shuts the self down, and leaving that widens it, running through identical activities. A 2022 study of 227 recreational runners in *Frontiers in Psychology*, from the same research group, measured both in one sample and found the widening kind tracking higher reported well-being and the shutting-down kind tracking lower. I am naming that second paper by its year, journal and design rather than by its title, because the title uses a vocabulary this page stays out of. What neither study shows is direction: both asked people to rate their own motives once, so the two kinds of leaving sit next to well-being rather than being shown to produce it, and 227 runners is a narrow window on a question this wide.
+
 ## Where Does the Reflex to Leave Actually Come From?
 
 From five different starting points that arrive at the same habit, which is part of why it turns up in people whose lives have nothing else in common.
@@ -348,6 +350,8 @@ From five different starting points that arrive at the same habit, which is part
 
 What is common across all five is the same arithmetic. The present moment became unbearable often enough that leaving it, mentally, chemically, digitally, or through overwork, got practiced until it stopped being a choice and became the default setting. Nobody chose that as a philosophy. It arrived as something the body worked out quickly, on the evidence available, and it has been running ever since without being asked to show its reasoning.
 
+One measured angle sits outside those five, and it points at appetite rather than at history. A 2001 paper in the *Journal of Communication* put its entire design into its title: *Psychological Escapism: Predicting the Amount of Television Viewing by Need for Cognition*. The question it put was whether how much somebody watches is predicted less by what is on than by how much that person enjoys effortful thinking at all. I am naming it by title, year and journal and quoting nothing from it, because its abstract is not openly readable and a claim I cannot check is worth nothing to you. A study of television viewing in 2001 also has nothing to say about what a phone does to anybody now, which is a limit on the idea rather than a reason to drop it.
+
 ## What Is the Escape Actually Protecting?
 
 Contact with something you learned, correctly or not, that you could not survive feeling in full.
@@ -356,7 +360,7 @@ That sounds dramatic, and the daily version of it is thoroughly ordinary. It doe
 
 The first job is containment. Unresolved emotional pain gets experienced as unbounded, a pit that might have no floor in it, and people say so in almost exactly those words. If a feeling might not end once it starts, then a manageable dose of relief is a rational trade against an unmanageable amount of contact. What the escape delivers is a boundary around the feeling, which is worth considerably more than pleasure to anybody who suspects that feeling has no floor in it.
 
-The second job is protecting self-image. A problem fully faced risks the conclusion that you are failing at something, and both an idealised fantasy and a demanding project let you feel capable in the meantime. This is why the exits so often look like competence from outside. Somebody deep in an avoidance spiral about their marriage may well be having the most productive quarter of their career, and both facts are load-bearing.
+The second job is protecting self-image. A problem fully faced risks the conclusion that you are failing at something, and both an idealized fantasy and a demanding project let you feel capable in the meantime. This is why the exits so often look like competence from outside. Somebody deep in an avoidance spiral about their marriage may well be having the most productive quarter of their career, and both facts are load-bearing.
 
 The third job is distance from something already done. Where the material being avoided is an event that cannot be undone, the exit is a way of temporarily inhabiting a different present, because the actual one contains something unbearable that no amount of contact will change. This is the version most likely to need support rather than technique.
 
@@ -384,6 +388,24 @@ The row that catches the most people is the fourth. An exit dressed in self-impr
 
 Most people find one row dominant, one present, and the rest belonging to a version of themselves from five years ago. That ranking is what makes the practice further down usable rather than generic.
 
+The procrastination row is the one people ask about most, so it is worth being exact about it. The research on procrastination describes it as short-term mood repair pointed at a task: the task carries a feeling, avoiding the task avoids the feeling, and the cost gets billed forward. [That account is set out properly on the page about the calls you keep not making](/patterns/avoiding-phone-calls/), which is where this site carries it. The difference here is the target. Procrastination needs something with a deadline attached, and removing the deadline leaves it nothing to grip. Remove the deadline from this pattern and nothing changes at all, because what is being left is a present rather than an item on a list. That is a description of two patterns, not a boundary anybody has tested between them.
+
+## Is There a Validated Questionnaire That Measures Escapism?
+
+Not a general one. What exists measures escapism inside a particular activity, and that distinction matters if you came here hoping a score would settle it.
+
+The item set most used in this work comes from the 2012 *Leisure Sciences* paper named further up, which built escapism as two dimensions rather than one and asked people to rate statements about their own reasons for the thing they do. The same two dimensions have since been carried elsewhere: a 2021 paper in *Psychology of Popular Media* applied them to screen entertainment, and the 2022 runners study applied them to exercise. Each version is anchored to its activity. There is no form that asks about your life in general and returns a figure for how much of it you are leaving.
+
+Three consequences follow, and they are worth being straight about.
+
+**A score describes what you say about yourself.** These are ratings people give of their own reasons. Somebody who has never framed their evenings as escape will not rate themselves as escaping, and that is the exact population this pattern is most common in.
+
+**There is no cutoff.** Nothing in this work says that above a certain number you have a problem. The dimensions were built to compare groups and track associations, not to sort people into categories, and using them that way goes past what the papers themselves claim.
+
+**The activity has to be chosen in advance.** If your exit is work and the form asks about running, it finds nothing. Somebody with four exits and no dominant one is close to invisible to any of these instruments.
+
+So the practical answer is that the sitting-still test further down this page tells you more about your own week than any of these forms would, because it measures what happens when the exit is removed rather than what you say about it. If you want the research version anyway, the two-dimension model is the one to look at, and taking it as a way of thinking rather than as a test is the honest use of it.
+
 ## Where Does It Hide When You Would Not Call It Escapism?
 
 In nine arenas, and almost nobody recognizes themselves in more than two or three at first.
@@ -404,6 +426,25 @@ The conversation row is the most socially rewarded exit in the whole list, which
 
 The other people row deserves separating out, because it reads as generosity from every angle including the inside. Pouring yourself into a friend's crisis is genuinely useful to them and it is also an entirely absorbing place to be that is not your own life. The tell is the ratio. If you could give a detailed account of three friends' situations and go vague describing your own, the direction of attention is doing something.
 
+## Why Do I Mentally Check Out Whenever My Partner and I Have a Difficult Conversation?
+
+Because a difficult conversation is the most concentrated form of the present there is, and the reflex was built for exactly that.
+
+Nothing about it registers as a decision. The words keep arriving and stop carrying meaning. You are still nodding. Some part of you is already three rooms away, planning tomorrow, or watching it happen to somebody else. Afterward you can give the shape of what happened, who said what in what order, and not one thing that was actually said to you.
+
+The timing is the part people misread in themselves. The reflex fires at the point of highest stakes rather than at the loudest moment, and the point of highest stakes is often the moment the other person goes gentle, because a raised voice can be braced against and a quiet sentence cannot. Somebody who has just said "I miss you" has put down something there is no pushing back against, and that is when the exit opens. It is also why the checking out gets read as coldness. From where they are standing, you went away precisely when they made themselves reachable.
+
+Four small tells, none of them dramatic:
+
+- You agreed to something and genuinely cannot recall agreeing.
+- You made a joke, watched the seriousness dissolve, and felt relief you would rather not admit to.
+- You went to get water, and the going was not about water.
+- You could give your own case in detail and theirs only as a summary.
+
+What to do about it is smaller than it sounds, and it is about your own side of this rather than about managing anybody. Say it while it is happening: "I have gone somewhere else, give me a second." That does two jobs at once. It puts the reflex where both of you can see it, and it buys the seconds the pattern has never had to survive being noticed.
+
+Two limits before you take any of this as a description of your relationship. This is a personal reflex rather than a shared problem to be worked on jointly, and it predates whoever you are currently sitting with, which is why it will follow you into the next relationship untouched if it is left alone. And no page can tell the difference between an old exit firing in a difficult conversation and a reasonable response to a conversation that is dangerous rather than difficult. If the leaving is what keeps you upright in a situation you have real reason to fear, the situation is the thing to look at first, with somebody qualified, before any of this is useful. [The version of this that shows up as pulling back whenever closeness increases](/patterns/keeping-people-at-a-distance/) runs on a related logic and is written separately.
+
 ## Why Does the Anxiety Spike the Moment You Put the Phone Down?
 
 Because the distraction was holding something, and putting it down hands that thing back.
@@ -416,7 +457,9 @@ The discomfort in unfilled time is a genuine marker rather than a character flaw
 
 There is a second, slower version of the same tell, and it is the one that usually brings people to a page like this. It arrives retrospectively. You look back at a stretch of your life, a year, a relationship, a job, and find you cannot describe it in any detail, because you were not really in the room for most of it. That is disorienting to notice, and it is also the most honest information you are likely to get. Don't judge yourself for how much of it there is. Almost everybody who finally adds this up is startled by the total, and the counting is the useful part, not the verdict.
 
-## Why Is the Version That Looks Like Growth the Hardest to Catch?
+## Could My Boss See My Overworking as Dedication Even if I Am Using Work to Avoid My Life?
+
+Yes, probably, and that is the whole reason the version that looks like growth is the hardest one to catch.
 
 Because everything about it looks like the opposite of avoidance, including to you.
 
@@ -440,7 +483,9 @@ And it runs on an entirely different self. An imagined life, in a different city
 
 None of this means the wanting is fake. The imagined life is often pointing at something genuinely missing, and that signal is worth taking seriously. The trouble is that the visiting satisfies just enough of the want to remove the pressure that might otherwise have produced a real step. The fantasy and the change compete for the same energy, and the fantasy is always cheaper.
 
-## What Does This Actually Cost, When Nothing Obviously Goes Wrong?
+## How Does One Person's Escapism Affect Their Partner Over Time?
+
+Quietly, and through absence rather than through anything either of you could point at afterward. That is the first of four costs this collects while nothing obviously goes wrong.
 
 More than it saves, and the costs land in places that are hard to trace back to the cause.
 
@@ -482,6 +527,8 @@ Repeated practice in the half second before the reach, on one specific instance 
 
 Naming the pattern out loud tends to survive about a day before the same reflex fires again. That is worth knowing in advance so it does not read as failure when it happens. The reflex was built to handle a feeling that once seemed genuinely unsurvivable, and understanding its origin does not retrain a nervous system by itself.
 
+The two-motive model named further up is useful for sorting which kind of leaving you are doing, and it is also where the evidence stops being able to help. Those studies asked people to rate their own motives once, so the model can describe how the two kinds sit next to a life and cannot, by itself, tell you how to move from one to the other. Everything in the list below is practice rather than a tested protocol, and it is built to run on one instance at a time.
+
 1. **Find the half second.** The pattern lives in the moment just before the app opens, the drink gets poured, or the extra work starts, rather than in the hour that follows. Almost nobody can see that moment at first. Start by catching it afterward, then a minute after, then during. Catching it while going ahead anyway counts, and it is the necessary first step.
 2. **Stay in it slightly longer each time.** Once you can feel the half second, extend it. Thirty seconds of tolerating what the escape was designed to remove, without acting on it. The point is the discovery, experienced rather than believed, that the discomfort does not escalate into the catastrophe the mind quietly predicts.
 3. **Give the vacuum something to hold.** Deciding to stop escaping leaves an empty space, and an empty space gets filled by the next available exit within a week. Replace it with a concrete next action on the specific avoided thing: open the envelope, send the one-line message, book the appointment. Small and specific beats general and ambitious every time.
@@ -513,4 +560,4 @@ Then read the whole list on the third morning, in one sitting, and look only at 
 
 This works because the mechanism it interrupts is timing rather than willpower. The reaching is invisible from inside because it happens faster than noticing does, and the minute before it is where the actual information lives. Almost everybody who runs this is surprised by the second column, and either result is useful. A column full of the same trigger tells you exactly which conversation, task, or feeling the whole apparatus has been built around, which is a far more workable problem than "I spend too much time on my phone". A column full of different triggers tells you the reflex has generalized, which changes the approach and is worth knowing before you spend three months on the wrong one. Either way it costs you two days of noticing and nothing else, and it works whether or not you ever do anything further about it.
 
-If what pulls at you is the reflex itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a well-timed joke cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent staying with the thing you have been leaving is rarely wasted, whatever you decide afterward.
+If what pulls at you is the reflex itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a well-timed joke cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent staying with the thing you have been leaving is rarely wasted, whatever you decide afterward.

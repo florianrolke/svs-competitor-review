@@ -111,7 +111,9 @@ Then a coworker's voice rose half a register in a meeting that had nothing to do
 
 The word people usually reach for is anxiety, and that word sends them toward breathing exercises for a feeling that was often not there in the first place. What follows describes the actual mechanism instead: how a detection threshold gets set, why it stays set for decades after the environment that set it has gone, why relaxing on purpose slides straight off it, and what genuinely moves it. It is slower than most advice implies, and it works.
 
-## What Does Hypervigilance Sound Like From the Inside?
+## What Is Hypervigilance, and What Does It Feel Like Day to Day?
+
+Day to day it does not feel like vigilance, which is a large part of why so few people ever call it that. From the inside it sounds like something a good deal more ordinary.
 
 It sounds like a set of operating rules about how much attention the world requires, held so long that they stopped sounding like opinions and started sounding like facts.
 
@@ -153,6 +155,8 @@ Two quite different childhoods compile into the same adult software. One is buil
 
 Both routes end up in the same place: continuous background threat assessment, running without a felt sense of fear to trigger it, because it stopped being a response to a feeling long ago and became a procedure.
 
+Two other pages carry the citations for that arithmetic rather than this one restating them. [The error-cost version, where a cheap false alarm is the correct setting whenever the miss is expensive](/patterns/fear-of-abandonment/), is named and dated there, and [the evidence that unpredictability rather than severity is what sets a threshold this low](/patterns/growing-up-with-an-unpredictable-parent/) sits with the pattern that owns the origin, along with both studies and their stated limits.
+
 ## Why Does It Run Constantly Instead of Only When Something Is Wrong?
 
 Because scanning on demand would require you to first notice that you need to scan, and that noticing is exactly the failure the whole system exists to prevent.
@@ -160,6 +164,8 @@ Because scanning on demand would require you to first notice that you need to sc
 Think about what on-demand vigilance would actually require. Something would have to alert you that the situation had become worth attending to, at which point you would switch on and start assessing. But the entire premise of an unpredictable environment is that the warning does not reliably arrive in advance. A system built for that world cannot wait to be triggered, because being triggered late was the original problem. So it runs continuously and accepts the running cost, which is a rational trade for a child and an expensive one for an adult who is still paying it in a job, a marriage, and a country where nothing has gone wrong in twenty years.
 
 Continuous operation is also what turns it into a procedure. Anything that runs every waking hour for a decade drops below the level where it needs a feeling to sustain it. It becomes automatic in the way that driving becomes automatic, which is why so many people arrive at a page like this saying some version of the same sentence: I do not feel afraid, I have nothing to be afraid of, and I still cannot stop doing this.
+
+A research account of that same split exists: "Anxiety and cognitive performance: Attentional control theory", published in *Emotion* in 2007, proposes that what gives way first is not how well a task gets done but how much it costs to do it, because the stimulus-driven side of attention gains ground on the goal-directed side and pulls harder toward anything that reads as threatening. Carry the limit with it: that is a theory paper drawn from short laboratory tasks rather than a study of anybody scanning a restaurant, and it describes the running rather than where the setting came from.
 
 ## Why Does This Keep Getting Mistaken for Anxiety?
 
@@ -205,6 +211,8 @@ In six arenas, and most people recognize themselves in two or three at first and
 
 The kindness row is the one people find hardest to admit to, partly because it sounds ungrateful. It is not ingratitude. Where warmth and volatility arrived from the same person without warning, the system had no choice but to classify incoming warmth as information worth checking. Something pleasant happening was historically the least reliable moment of all.
 
+One arena is deliberately missing from that table because another page owns it: the setting that is simply too loud and too full at once, where the scanning has more coming in than it can hold apart and the whole thing jams. [That version, and the attention research explaining why a quiet errand can cost more than a concert, are set out separately.](/patterns/too-much-happening-in-the-room/)
+
 The last row surprises people most, and it deserves its own section.
 
 ## Why Does the Scanning Also Point Inward?
@@ -237,17 +245,37 @@ Because continuous threat assessment has a running cost that gets billed whether
 
 Three hours in a friendly crowd means three hours of face-reading, position-tracking, volume-monitoring, and exit-awareness, all of it happening underneath the conversation you were also having. Nothing bad occurred, which is precisely why the fatigue is confusing. There is no incident to blame it on, so people blame themselves: I am antisocial, I am low energy, other people manage this fine.
 
+Watch-keeping research has measured that cost directly and found the reverse of what had been assumed. "Vigilance Requires Hard Mental Work and Is Stressful", a review published in *Human Factors* in 2008, reports that tasks which look like doing almost nothing carry a high mental workload, that ultrasound measures of blood flow in the brain give independent evidence of the resources being spent as performance falls off, and that people doing them report less engagement and more distress as the task gets harder; the limit is the setting, since that work was done on people monitoring a display for a signal rather than on anybody outside a laboratory.
+
 The tiredness is the bill for the scans, rather than evidence that the evening was bad or that something is wrong with you. That reframe changes very little practically and a surprising amount emotionally, because it stops the evening from being filed as a personal failure.
 
 It also explains a pattern most people in this cluster recognize instantly: preferring smaller groups, needing a long quiet stretch afterward, feeling relieved when plans get canceled. Those are the choices a person makes when a certain kind of room costs them three times what it costs everybody else, which makes them a good deal less freely chosen than they look from outside.
 
-## Why Does Kindness Get Checked as Carefully as Anger?
+## How Do Researchers Measure Hypervigilance?
+
+Indirectly, in three different ways, and none of them is a test you can sit down and take.
+
+The first is what you report. Questionnaires ask you to rate statements about scanning, about startle, and about how safe ordinary places feel, of the kind quoted at the top of this page. What they record is your account of the pattern, so they move when your understanding moves. Somebody who has just recognized themselves in a page like this one can score higher in week two than in week one with nothing whatever having changed in the behavior.
+
+The second is what your attention does, measured in milliseconds. In the usual laboratory version, two items appear side by side for a fraction of a second, one of them threatening and one not, a dot then replaces one of the two, and how quickly you react to that dot is read as a record of where your attention had already gone. The design is ingenious and it carries a weakness reported widely enough to count as established rather than as any single study's result: the difference scores it produces come out unstable when the same person sits the same task twice, which is a serious problem for anything meant to describe one individual rather than a group average.
+
+The third is what your body does. Startle size when an unexpected sound arrives, skin conductance, heart rate and how much it varies, pupil size, and, in the watch-keeping work described above, ultrasound readings of blood flow while somebody monitors a display for a signal that mostly does not come.
+
+Three limits are worth carrying out of all of it. Each method measures a proxy, over minutes, in a setting where nothing is meant to happen, and the version you live with runs for as long as the evening does. None of them was designed for you to administer to yourself, which means the versions you can take online are not the instruments and their scores are not results. And every one of them measures the scanning as it runs now, so not one can tell you where your threshold was set, or by what.
+
+What that leaves you with is less impressive than a score and considerably more useful: which categories switch it on, and how often you are actually in them. That is measurable at home, by you, this week, and no laboratory improves on it.
+
+## Why Do I Analyze My Partner's Tone and Assume Something Bad Is Coming?
+
+Both directions get analyzed, which is the part almost nobody expects. Kindness is checked as carefully as anger is, and often a lot more carefully.
 
 Because in the environment that trained this, kindness and volatility came from the same source, in no particular order, with no reliable warning between them.
 
 If the parent who was warm on Tuesday was unrecognizable on Thursday, then warmth stopped being a safe signal. It became the moment before something, or the setup for something, or simply more unpredictable data requiring analysis. So the system learned to run positive input through the same filter as negative input. What arrives now is a compliment that gets reread three hours later, a generous offer that produces a search for the angle, a partner being unusually sweet and the immediate question of what is coming.
 
 This one costs relationships quietly. The people trying to be good to you get a receipt rather than a reception, and after enough of that most of them stop trying, without ever saying why. It is worth naming out loud to somebody close to you, because the naming does more work than the effort to feel differently does. [Rebuilding trust in a specific relationship](/patterns/how-to-rebuild-trust/) runs on separate rails from recalibrating a general threshold, and mixing the two up wastes a lot of effort in both directions.
+
+Assuming something bad is coming is one step past checking, and [the forecasting version of it has a page of its own](/patterns/catastrophizing/).
 
 ## Why Does It Come Back After Months of Going Quiet?
 
@@ -257,7 +285,7 @@ Most rooms are safe. Not every room, ever, for anyone. That is a plain fact abou
 
 The practical consequence is worth knowing in advance so it does not read as failure. Months of genuine progress can be re-armed by a single confirming incident: an aggressive stranger, a partner who did turn out to be lying, a room where the read was correct. The system responds to that the way it was designed to, by treating the recent quiet period as an error and returning to the old setting immediately.
 
-Progress here looks like a downward trend with real spikes in it, over a long enough window that a bad fortnight does not look like the whole story. Anybody promising you a straight line is selling something. Anybody telling you a spike means you are back at the beginning is wrong, and the difference matters, because that belief is what makes people quit in month four.
+Progress here looks like a downward trend with real spikes in it, over a long enough window that a bad two weeks does not look like the whole story. Anybody promising you a straight line is selling something. Anybody telling you a spike means you are back at the beginning is wrong, and the difference matters, because that belief is what makes people quit in month four.
 
 ## What Does the Recalibrated End Actually Look Like?
 
@@ -282,7 +310,9 @@ Read the right-hand column carefully, because it is deliberately unimpressive. N
 
 Do not judge yourself if that column reads as slightly unimaginable right now. It reads that way to almost everyone at the start, and it is a description of a threshold rather than a personality.
 
-## How Do You Recalibrate a Threshold That Was Set Twenty Years Ago?
+## What Can I Do to Turn Hypervigilance Down Without Losing My Awareness?
+
+You keep the noticing; that is the design rather than a consolation. What has to move is a threshold that was set twenty years ago, in a house you no longer live in.
 
 By giving it new evidence inside the specific categories that set it off, repeatedly, and by staying present enough to notice that the evidence arrived.
 

@@ -42,7 +42,7 @@ faqs:
 - q: "Why do I daydream about people I know in real life?"
   a: "Usually because the relationship you want with them is unavailable, unspoken, or over. The imagined version delivers the conversation you have not had, the repair that never happened, or the closeness that would be too exposing to ask for. That is worth noticing rather than judging. The daydream is showing you the exact sentence you have not said to an actual person, which makes it a fairly precise piece of information."
 - q: "Do I have to give up my daydreams to fix this?"
-  a: "No, and any approach that starts there tends to collapse within a fortnight. The imagination is not the target and it is frequently the most alive part of a person carrying this pattern. What changes is that it stops being the only place worth being and stops running the calendar. People at the far end of this still have rich inner worlds. They enter them on purpose and come back out."
+  a: "No, and any approach that starts there tends to collapse within two weeks. The imagination is not the target and it is frequently the most alive part of a person carrying this pattern. What changes is that it stops being the only place worth being and stops running the calendar. People at the far end of this still have rich inner worlds. They enter them on purpose and come back out."
 - q: "How do I stop maladaptive daydreaming?"
   a: "Start by measuring a week without changing anything, then name what the daydream is supplying before touching the habit itself. After that, move the cue rather than banning it, give the state one deliberate container in the week, and build one real thing that slowly pays out something similar. Discipline alone produces a change that reliably comes back, because it treats the surface and leaves the reason in place."
 - q: "Why does forcing myself to stop make everything worse?"
@@ -134,17 +134,33 @@ Three details tend to arrive together and almost never get mentioned to anybody.
 
 The shame sits on the third one specifically. Not on the content, which most people can shrug about, and not on the pacing, which they assume is a private oddity. On the number.
 
+## Why Do My Daydreams Have the Same Characters and Storylines for Years?
+
+Because the same short list of needs keeps sending you back to the same short list of people, and anything returned to daily develops continuity whether you intended one or not.
+
+Nobody sets out to build a serial. What happens is smaller than that. A scene works, so you use it again. Somebody in it says the right thing, so they get invited back. The second visit borrows its setting from the first, the fifth borrows a history from the fourth, and by the fortieth the place has rules, a standing cast, and a memory of its own. None of it was designed. You returned, and returning built it.
+
+Now look at what each standing figure actually does. The cast is almost always a short list of tasks. One of them listens without getting bored. One is impressed by you in a specific way that nobody in your actual week manages. One is somebody who left, still showing up nightly because that is easier than the alternative. One is you, running a self that has never been let out anywhere else. A character survives fifteen years because the task survives fifteen years. Cast members whose task gets supplied elsewhere quietly stop appearing, and most people can name one who did.
+
+That gives you something more useful than a plan to stop. Write the standing cast down, three or four of them, and put beside each one the sentence this one gives me ___. Do not grade the answers. Company. Admiration. Being understood without explaining. Being forgiven. Being wanted by one specific person. The list comes out short, ordinary, and uncomfortably clear, and it maps what your real week is missing better than anything you would produce if somebody asked you directly.
+
+Two things about the age of it. A storyline running since you were nine says something simple: the task started at nine and nothing since has taken it over. And where a standing figure is modeled on somebody real, what runs in there is the built version of them, which behaves nothing like the person does. [The gap between a built version and the actual person is treated separately.](/patterns/falling-for-the-idea-of-a-person/)
+
+The cast is evidence rather than the problem to solve. Work on what they are supplying and the cast reorganizes itself.
+
 ## Why Is the Daydream More Compelling Than the Real Day?
 
 Because it was engineered, by you, to deliver exactly what the real day withholds, and it delivers within seconds.
 
-Consider what the inner world has been optimized for over the years you have been building it. Nobody in there rejects you. Nothing waits. Nothing is ambiguous. Anything that goes wrong can be rewound and rewritten. The people respond the way you needed people to respond, immediately, every time. It costs nothing, it requires no one, and it is available in a queue at the pharmacy.
+Consider what the inner world has been optimized for over the years you have been building it. Nobody in there rejects you. Nothing waits. Nothing is ambiguous. Anything that goes wrong can be rewound and rewritten. The people respond the way you needed people to respond, immediately, every time. It costs nothing, it requires no one, and it is available in a line at the pharmacy.
 
 Now consider the real day. Effort pays out weeks later if it pays out at all. People are slow, distracted, and hard to read. A conversation you rehearse for a month can land badly for reasons that have nothing to do with you. The thing you want takes a year, and the year is mostly featureless.
 
 Put those two schedules side by side and the behavior stops looking irrational. A reward that arrives in seconds and reliably trains itself into a reflex within months. A reward that arrives in a year competes badly against that, whatever you consciously believe about which one matters. This is the same arithmetic that runs underneath most habits people cannot explain, and it is the reason arguing with yourself about it has never worked for anybody.
 
 There is a further piece, and it is the one that makes ordinary advice useless here. For a lot of people the daydream is where they are most themselves. Most competent, most articulate, most at ease, most loved. Telling somebody in that position to simply stop is asking them to give up the only place they have ever felt like the person they suspect they actually are. Nobody complies with that instruction for long, and nobody should.
+
+There is a research literature on the ordinary end of this, and it is more even-handed than the headlines it generates. A 2013 review in the Canadian Journal of Experimental Psychology called The costs and benefits of mind-wandering, named here by title rather than by author because one of its authors carries a different finding elsewhere on this site, put both sides together: off-task thought reliably degrades reading comprehension, sustained attention, and performance on tests of working memory, while the same off-task thought supports planning your own future and lets stalled problems come loose. The limit is scale. That review covers wandering measured in a laboratory in minutes, during tasks somebody else assigned, which sits a long way from a self-generated world with a standing cast that runs the length of an evening. [The wandering-mind research is gathered on another page.](/patterns/filling-every-silence/)
 
 ## What Is Maladaptive Daydreaming?
 
@@ -165,6 +181,18 @@ Here is the limit of it, stated just as plainly. The term is a description of a 
 <div class="disclaimer-box" markdown="1">
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
+
+## Is Vivid Daydreaming the Same Thing as Zoning Out or Losing Awareness?
+
+No. Vividness and absorption are one thing, knowing who is generating the material is another, and this pattern leaves the second one fully intact.
+
+Zoning out leaves nothing behind. Ask somebody what they were thinking about during the twenty minutes they spent staring past a screen and the honest answer is usually that there is nothing much to report. What this page describes leaves a great deal behind. You can recount the scene, the dialogue, who was there, what almost happened, and which part you rewound and ran again with a different ending. Detail of that grain does not arrive by itself. You made it, and you know you made it.
+
+The 2002 clinical description that introduced the research term above, published in the Journal of Contemporary Psychotherapy and named here by year and journal rather than by title, reported exactly that about the people in it: however elaborate the inner world became, they knew throughout that they were the ones making it. Everything published since has kept that feature in the description, and it is the most reassuring sentence on this page if you have been quietly worried about yourself.
+
+What can genuinely feel like losing awareness is the re-entry. Somebody says your name twice, the room takes a moment to arrive, and you have no idea whether seven minutes went by or fifty. Losing track of the clock happens in any absorbing state, including the ones nobody worries about, and it is a different matter from not knowing where you are or what actually happened.
+
+Two limits, stated straight. All of this rests on what people report about their own inner lives, which is the only access anybody has to the question and is not the same as an independent measurement. And the distinction has a hard edge that matters more than the definition does: if the line between what you pictured and what actually happened has blurred at any point, or if you have acted on something that existed only in there, that needs assessment rather than a practice, and the section further down is about exactly when to go and get it.
 
 ## How Do You Tell Ordinary Daydreaming From the Kind That Costs You?
 
@@ -201,7 +229,7 @@ Here are the roots I see most often producing this identical behavior.
 
 | The root | What the daydream is doing | The tell that points to it |
 |---|---|---|
-| A life that feels unchangeable | Making a fixed arrangement survivable, one evening at a time | It rises when a real decision is due and drops away sharply on holidays |
+| A life that feels unchangeable | Making a fixed arrangement survivable, one evening at a time | It rises when a real decision is due and drops away sharply on vacations |
 | A self you cannot be yet | Rehearsing a version of you the real world has left no room for | The daydream self is confident, articulate, admired: everything you privately suspect you could be |
 | A nervous system that learned to leave the room | Getting you out of a place that once was not safe | It started young, it starts automatically, and it fires around conflict, criticism, or raised voices |
 | Grief kept alive in fantasy | Continuing a relationship, a person, or a life that ended | The world in there contains someone who is gone, or your life as it was before the loss |
@@ -233,6 +261,20 @@ Environment is unusually concrete here. The commute where nothing is asked of yo
 
 This is not to come from a victim type of frame, as though the environment were doing this to you. You have put yourself in the environment, and the environment is reinforcing it. That distinction matters practically rather than morally: an environment you built is an environment you can rebuild, and it responds much faster than willpower does. [The mechanics of changing a habit at the level of its conditions rather than its symptoms are worth reading separately.](/patterns/how-to-break-a-habit/)
 
+## Why Do I Daydream Constantly at Work but Much Less When I Am With Other People?
+
+Because a live human being uses up the exact capacity the inner world runs on, and most working days leave that capacity lying around unspent.
+
+Set the two situations against each other. A shift on a till, a long drive, the same form for the seventh time, an open-plan floor where nobody looks up: attention is half-occupied, nobody is reading your face, and leaving for twenty minutes costs you nothing and is noticed by no one. Now a conversation with an actual person: unpredictable input arriving continuously, replies expected inside half a beat, your face being read the whole time, and an immediate visible cost the second you go. The state cannot get started in the second setting, because there is nothing spare to start it with.
+
+The general form of that is one of the sturdier observations in the attention research: off-task thought falls as the demand of what you are doing rises. [It is set out, with its sources, on the page about disappearing into one thing.](/patterns/pouring-it-all-into-one-thing/)
+
+Capacity explains the shape of the week. It does not explain why the drop is so uneven between people, and the unevenness is where the information sits. Watch yourself for a week and notice whose presence flattens the pull. If almost anybody does it, what your week is short of is demand and contact of any kind, and the fix is structural: fewer unwatched hours, more of the week with another human being in it. If the pull only drops around two or three specific people, capacity was never the story. Those people are handing you something the daydream has been handing you, and naming what that something is gets you to the root faster than any technique on this page.
+
+There is a third version here, common enough that missing it wastes months. Some people go in far more immediately after being with people, and the session gets spent running the conversation again with better lines in it. That is repair work rather than leaving, it points at a different root, and it answers to different things. Work out which of the two you are before you draw any conclusion about your job.
+
+Two traps in the obvious reading. Being permanently around people works as suppression on loan from other people's presence, and it collapses on the first quiet weekend. And where the honest description of your working day is a long unwatched stretch with a soundtrack, no technique will out-argue that arrangement, because the arrangement is most of the answer. [Leaving whatever is happening, as a general habit, is treated separately.](/patterns/escapism/)
+
 ## Where Did This Get Installed?
 
 Usually somewhere that the real room, for a stretch of years, was worse than the imagined one.
@@ -260,6 +302,8 @@ Then conditioning does the rest. If nearly every session for fifteen years began
 This is genuinely good news, because the cue is the most changeable part of the entire system and the cheapest place to run an experiment. Changing where you listen, what you listen to while doing chores, or whether the walk home has a soundtrack tells you within a week how much of your pattern is conditioned habit and how much is being driven by something underneath. That is real diagnostic information and it costs you nothing to gather.
 
 Two warnings, though. Removing the cue removes the behavior and leaves the pressure exactly where it was, per the water balloon above, so treat a cue change as an experiment rather than a cure. And deciding never to listen to music again is a punishment rather than a plan. Nobody sustains it, and the failure gets filed as further evidence that you are the problem.
+
+The pacing is not a private quirk sitting on top of the state. When the scale described above was validated, in Consciousness and Cognition in 2016, across 447 English-speaking respondents in 45 countries, its items sorted into three related dimensions, and one of the three was the kinesthetic one: the movement itself, standing beside the pull toward the fantasy and the interference with everyday life. Two limits, both real. Those respondents were recruited online from people who already identified with the experience and had gone looking for the research, so nothing in that sample tells you how common any of this is. And the three dimensions do not include one for music, so everything above about the soundtrack rests on what people consistently describe rather than on the structure of that measure.
 
 ## When Does This Belong With a Professional Rather Than a Practice?
 
@@ -306,6 +350,22 @@ By working on the cause and the conditions at the same time, in repetitions smal
 Is any of this dramatic? No. It is slow and freaking unglamorous, and that is exactly why it holds when a weekend of resolve does not.
 
 Does the pull go away once you get good at this? Honestly, no, and it comes back hard in any stretch where the outer life thins out again. What grows with practice is noticing it arrive, reading it as information about the week rather than as a defect in you, and deciding what to do next while still standing outside it. [Feeling what surfaces when you stay out here is its own skill, and most people have never been taught it.](/insights/how-to-feel-your-emotions/)
+
+One trial now sits behind the first step on that list. A randomized controlled trial published in the Journal of Consulting and Clinical Psychology in 2023, named here by journal, year and design because its title carries the research term defined further up this page, tested an eight-session web-based self-help program that paired short mindfulness practice with daily self-monitoring: 557 people randomly assigned, 353 of them finished, and both program groups improved on how often the daydreaming happened and on everyday functioning while the waiting-list group did not. The size of it is the honest part. In the group that got both components, 24 percent met the study's strict improvement criterion and 39 percent its looser one, about a third of the people assigned never finished at all, and every participant had already gone looking for this research, which is a particular set of people to generalize from.
+
+## What Should I Say to My Partner When My Daydreaming Makes Them Feel Ignored?
+
+Say the short true thing about yourself, once, in your own words, and then do the work where the work actually is.
+
+Start with what is reaching them, because it is rarely what people assume. Nobody is competing with a character in a story they have never heard of. What reaches their side is much plainer: you were there and then you were not, mid-sentence, and they have learned to spot the precise moment your eyes change. Whatever they have concluded about the reason, they assembled it out of that and out of the silence around it, and the readiest conclusion available to anybody in that position is that they are boring you.
+
+So the sentence to say describes and does nothing else. An apology invites reassurance you did not come for, and a label invites reading. Something near this: I go somewhere in my head, often, it has been running since long before we met, and it is not about you or anything you have done. I am working on the hours. I would rather you knew what it was than kept guessing.
+
+That is short, and short is the point. What makes this harder is everything people add to it. A full tour of the plot, which recruits them as an audience for something that was never built to have one. The research term, which sends them off to read about you and come back with vocabulary. A promise to stop entirely, which you cannot keep and which turns every ordinary evening afterward into evidence. And the version that waits until the fifth conversation, when three earlier attempts to raise it got nothing back and the subject has grown considerably larger than the behavior ever was.
+
+Then let it be small. Saying it does two things and only two: it ends the guessing, and it takes some weight off you. The number of hours moves only when the list above gets worked, and mistaking the telling for the repair is how people end up having the same conversation every four months.
+
+Two honest things about the limits of that. I cannot tell you how it will land, because some people hear any version of this as a door closing and no wording gets around that. And if you notice the sessions clustering in the hours right after time together, that timing is saying something about your own pattern that this page cannot follow all the way down, and it deserves attention rather than filing.
 
 ## How Long Does This Take, Honestly?
 

@@ -110,7 +110,9 @@ Neither moment looks like an injury. Nobody bleeds, nobody remembers it by Thurs
 
 This page covers the structure of that machinery: where it forms, why it persists once the danger is gone, what it is guarding, and what the resolved end of it actually looks like on an ordinary week. Each specific wound has its own page, linked as we go, so this one stays on the shape they all share.
 
-## What Is an Emotional Wound, Structurally?
+## What Is an Emotional Wound, and How Is It Different From a Painful Memory?
+
+Take the structure first, because what separates a wound from a memory is structural rather than a question of how badly either one hurt.
 
 A protective adaptation that outlived the conditions it was built for.
 
@@ -145,7 +147,9 @@ Beyond the household there are two wider layers. Patterns pass down generations,
 
 Formation runs in both directions, which is worth holding onto before the rest of this page. A supportive home, family trips, an encouraged hobby, a house where rest was allowed, all of these build capacity in specific needs by exactly the mechanism through which absence damages others. Wounds and strengths are made the same way, pointed in opposite directions.
 
-## Why Does a Wound Persist After the Original Danger Is Gone?
+## Why Do Old Emotional Wounds Still Affect Me Decades Later?
+
+The original danger has been over for decades, so the thing that needs explaining is why the protection was never stood down.
 
 Because the behavior was built as a standing guarantee, and nothing has formally told the system the guarantee is no longer needed.
 
@@ -187,6 +191,22 @@ Roughly a dozen recurring families, each traceable to a need that went short and
 
 They cluster, and the clusters are consistent. Abandonment and neglect arrive together almost every time, since both come from absence and both drive the same reaching. Control and enmeshment share the boundary-distortion root. Invalidation, criticism and impossible expectations form one conditional-worth knot. Betrayal and household conflict co-occur so often they are frequently one description. Anyone hunting for their single wound will usually find three sitting on two shared needs, which is better news than it sounds, because two needs is a smaller project than three wounds.
 
+## How Do I Figure Out Which Emotional Wounds I Have?
+
+Backward from behavior, never forward from history, because the history is the part you cannot check and the behavior is happening this week.
+
+Most people go at this the wrong way round. They read a list like the one above, hunt for the childhood that matches theirs, and pick the row with the most dramatic story attached to it. That method finds the biggest story and misses what actually went short, which is generally something duller and far more repetitive than any story.
+
+Three passes work better, and a week between them is about right.
+
+**First, collect the situations.** Write down every occasion in the last month where your reaction ran bigger than the event that caused it, or went strangely flat when the event deserved more. Both directions count. Going quiet when something good happens is as informative as going sharp when something small goes wrong. You are not hunting for a theme yet, only building a list.
+
+**Second, ask what each situation required of you.** Not what happened in it, but what it demanded. Being seen. Being trusted with a decision. Being wanted without doing anything first. Being allowed to say no and stay. Situations that look completely unrelated on the surface tend to demand the same one or two things, and that repeat is the actual signal. A person whose list holds a work review, a delayed reply and a compliment at a party is not carrying three separate problems.
+
+**Third, only now go back to the table.** Read the *what went missing* column rather than the wound names. The names are labels you can carry around; what went missing is a supply you can ask another person for, so match yourself against that. Most people land on two or three rows resting on one or two of those shortages, and it is the shortages you will be working with from there, not the names.
+
+One caution, because it costs people months. The wound that identifies fastest is rarely the one running the most. The obvious one has a scene attached, which makes it easy to name and easy to talk about. The expensive one usually has no scene at all, was distributed across years of nothing in particular, and shows up as something you have always called part of your character. [Absence doing the shaping, rather than an event, is written up in full on the neglect page.](/patterns/childhood-emotional-neglect/)
+
 ## Is This a Wound, or Is It Just Who You Are?
 
 The distinguishing feature is that a wound is a response to something, with a traceable origin and a specific need underneath it.
@@ -213,7 +233,23 @@ Most wounds form through chronic conditions rather than overwhelming events. Not
 
 The heavier family is genuinely different in register and in what it requires. Where abuse of any kind is in the picture, or where closeness reliably brings back memories of being hurt, that is professional territory, and it stays professional territory no matter how good the self-directed work is.
 
-## Why Do Your Own Patterns Contradict Each Other?
+## What Does Research Say About How Emotional Wounds Are Measured?
+
+There is no instrument that measures an emotional wound, because it is not a research construct. What research measures is adjacent to it, and the gap between the two is where honesty is required on a page like this one.
+
+The nearest thing to a measuring instrument is a questionnaire about present-day belief. In that literature the unit is called a schema, meaning a durable belief about yourself and about other people that formed early and now runs by default, and the standard instrument asks you to rate a long list of statements very like the sentences near the start of this page. Its first full psychometric write-up was "The schema questionnaire: Investigation of psychometric properties and the hierarchical structure of a measure of maladaptive schemas", published in 1995 in *Cognitive Therapy and Research*. I am naming it by title and year rather than quoting a number out of it, because I could not read its results for myself and will not repeat figures I have not checked. [What that framework calls each pattern is handled on the enmeshment page.](/patterns/enmeshment/)
+
+Notice what an instrument like that actually does. It measures what you believe now, and says nothing directly about what happened then. Everything on this page about formation is inference running backward from a present belief to a past shortage, and inference running backward is exactly where this subject is weakest.
+
+There is a good measurement of how weak. Baldwin, Reuben, Newbury and Danese published a systematic review and meta-analysis in 2019 in *JAMA Psychiatry*, "Agreement Between Prospective and Retrospective Measures of Childhood Maltreatment". They pooled 16 studies covering 25,471 people whose circumstances had been recorded at the time and who were also asked about that same period later, then compared the two accounts. Agreement was poor: a kappa of 0.19, on a scale where 1 is perfect agreement and 0 is chance. It ran a little higher when the later question came in an interview rather than on a questionnaire. Their conclusion is the uncomfortable one, that the two methods identify different groups of people.
+
+Read carefully, that describes two methods answering different questions rather than adults misremembering their childhoods. There is no master copy to check either account against. Which matters here for one practical reason: if you are waiting to be certain about your childhood before you act on the present, that certainty will not arrive, and the research says so plainly.
+
+It is also why the exercise at the foot of this page asks for a three-day log of the present rather than a reconstruction of the past. The present is the part you can measure without a study, and it is the part the protection is currently running in.
+
+## Why Do I Want Closeness and Then Push My Partner Away?
+
+The general form of it is why two of your own behaviors should contradict each other so exactly, and that contradiction stops being mysterious the moment you see what both ends are protecting.
 
 Because two opposite behaviors routinely protect one need, so the same wound can produce a person who chases and a person who runs.
 
@@ -262,7 +298,21 @@ Read the middle column carefully, because it is deliberately unimpressive. Nobod
 
 Don't be hard on yourself if the middle column currently reads like somebody else's life. Every entry in it is the output of a need that has been reliably met for a while, and a need that has been short for twenty years takes more than a decision to fill.
 
-## How Does an Emotional Wound Actually Resolve?
+## Can Emotional Wounds Explain Why Criticism From My Boss Feels So Personal?
+
+Partly, and what separates the two cases is whether the hurt tracks the stakes or tracks who delivered it.
+
+Criticism of a piece of work is a statement about the work. When it arrives instead as a statement about you, and stays with you into the evening, something older is being consulted. The row in the table above where feedback lands as information is the resolved end of exactly this, and the distance between that row and your own working week is the size of the thing.
+
+Conditional worth is the root most often underneath it. If approval was reliably tied to output early on, then output and worth got welded together before you had any say in it, and somebody naming a flaw in the work is, structurally, naming a flaw in you. [Where that welding comes from has a page to itself](/patterns/conditional-self-worth/), and for the expectations version [there is more on that here](/patterns/unrealistic-parental-expectations/). Two other roots produce a similar result for different reasons. Invalidation makes any criticism land as being told your read of things is wrong again. A wound around rejection reads a critique as the opening move of being removed. [Fear of rejection is where that one is set out.](/patterns/fear-of-rejection/)
+
+The research on workplace feedback is thinner than the volume of advice about it suggests, and it is honest to say what the better studies actually did. Belschak and Den Hartog published a set of studies in 2009 in *Applied Psychology*, "Consequences of Positive and Negative Feedback: The Impact on Emotions and Extra-Role Behaviors", measuring people's emotional reactions to feedback from their supervisors and then following what those emotions did to their attitudes and intentions at work. They also varied whether the feedback was delivered in public or in private. The limit sits in the design. The central comparison was a scenario experiment, in which participants read a described situation rather than took real criticism from a real supervisor, and the samples were 240 students and 107 working adults, with a survey study alongside it. So it is decent evidence that negative feedback travels through emotion on its way to behavior, and much weaker evidence about what a bad review from your own supervisor costs you in practice.
+
+What that leaves you with is practical enough. The hurt is not proof of a wound, and the size of it is not the measurement either. The measurement is repetition: the same landing, from different supervisors, in different jobs, in work you cared about and work you did not. One rough review from one difficult person is just a rough review.
+
+## What Can I Actually Do to Heal an Emotional Wound?
+
+Start with how one resolves at all, because the mechanism decides which of the actions below will do anything and which are only interesting.
 
 The proxy behavior quiets down when the need it stands in for is reliably met in the present, which happens through repetition rather than through understanding.
 

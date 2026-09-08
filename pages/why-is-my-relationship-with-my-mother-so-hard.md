@@ -34,7 +34,7 @@ faqs:
     is being touched. The irritation is proportionate to the rule rather than to the
     sentence. Working out what the rule required of you tends to shrink the comment
     back to its actual size.
-  q: Why does my mum annoy me so much?
+  q: Why does my mom annoy me so much?
 - a: Often less about her personality than about a structure the two of you are still
     running. A caretaking role that reversed in childhood, a loop where your reaction
     is reliably available to her, or a contract about what you had to be in order
@@ -132,7 +132,7 @@ faqs:
     role installs. Holding both at once feels like a contradiction and is closer to
     a complete report. People try to settle it by deciding which one is legitimate,
     and neither is the impostor.
-  q: Why do I feel guilty and angry about my mum at the same time?
+  q: Why do I feel guilty and angry about my mom at the same time?
 - a: Name the structure first, then pick the move that matches it. If you are still
     the emotional adult in the relationship, practice one small refusal per call and
     tolerate the discomfort rather than explaining it away. If an old belief about
@@ -426,7 +426,7 @@ The sentences below are the exact phrasing that runs in the head, at that level 
 
 - "I had no respect for her."
 - "My dad left and I had to be a parent with my mom."
-- "Actually, probably my mum wouldn't have been so weak if I hadn't stepped up."
+- "Actually, probably my mom wouldn't have been so weak if I hadn't stepped up."
 - "I can blame my mother for teaching me polarity and that there's strength in weakness."
 - "No growth at all. She thinks I'm a complete twit for being here."
 - "Yeah, I'm broken. But I function."
@@ -455,7 +455,7 @@ Each of the three standard prescriptions skips a different step, and the step it
 | "Have the honest conversation and clear the air" | The belief was argued into position | A belief encoded at three cannot be talked out by a sentence from her at fifty |
 | "She did her best, just let it go" | Forgiveness is available before the accounting | Nobody has yet named who was parenting whom, what was required, what was never offered |
 
-Take them in order. Boundaries are useful and they operate at the level of instances. If the thing running the friction is a caretaking role built in childhood, holding a line on Sunday's phone call leaves the operating structure untouched, and by Thursday you are back in the role wearing different clothes, offering to sort out something that was never yours to sort out. The boundary was real. The job description was not touched.
+Take them in order. Boundaries are useful and they operate at the level of instances. If the thing running the friction is a caretaking role built in childhood, holding a line on Sunday's phone call leaves the operating structure untouched, and by Thursday you are back in the role wearing different clothes, offering to work out something that was never yours to work out. The boundary was real. The job description was not touched.
 
 The honest conversation fails for a more interesting reason. A belief formed pre-verbally, in a single ordinary moment, was encoded as experience rather than as an argument, so no verbal correction reaches it. Her saying she always loved you does not land. Neither does your carefully constructed case against her. Only a comparably vivid counter-experience has the right currency, which is why intelligent, self-aware people can spend a decade repeating I know she loves me, I just can't feel it and be entirely accurate about both halves.
 
@@ -530,7 +530,7 @@ That gap catches people off guard, so it is worth setting expectations properly.
 
 Progress in the relational half runs in a predictable order, and knowing the order lets you recognize the early stages as progress rather than as failure. First you notice an hour after the call, usually while lying in bed replaying it. Then twenty minutes after. Then during, which is the worst stage, because you are fully aware of what you are doing and doing it anyway. Then, eventually, early enough that a choice exists. Each transition takes a stack of real instances rather than any amount of resolve.
 
-Expect the old pattern back under load. Illness, a holiday visit, a family crisis, a bereavement, or simply a run of bad sleep will bring the original version back, sometimes long after you were confident it was retired. The measure that tells you something is how fast you notice and how quickly it settles, rather than whether it arrived.
+Expect the old pattern back under load. Illness, a vacation visit, a family crisis, a bereavement, or simply a run of bad sleep will bring the original version back, sometimes long after you were confident it was retired. The measure that tells you something is how fast you notice and how quickly it settles, rather than whether it arrived.
 
 And be careful with the version of this where she is very old, or ill, or gone. The internal half stays fully available in every one of those cases. What changes is that the relational half turns into something you do alone, which is slower and sadder and still works.
 

@@ -288,7 +288,7 @@ The second sentence in the first group is the hinge, and it deserves attention o
 
 Right here, before anything practical, because this boundary matters more than every distinction below it put together.
 
-Shame is one of the few patterns where working on it alone can make things worse. The move that shifts it involves being seen, and being seen by the wrong person, or too much at once, or before you are steady enough to absorb the reaction, can land as a second injury rather than as relief. If your history includes abuse, violence you experienced or witnessed, or an event you have never told anybody, a therapist or counselor is the right first step rather than the fallback after self-directed work has been tried. That is a question of sequencing rather than of how much you can personally handle, and it is the part most people get backwards.
+Shame is one of the few patterns where working on it alone can make things worse. The move that shifts it involves being seen, and being seen by the wrong person, or too much at once, or before you are steady enough to absorb the reaction, can land as a second injury rather than as relief. If your history includes abuse, violence you experienced or witnessed, or an event you have never told anybody, a therapist or counselor is the right first step rather than the fallback after self-directed work has been tried. That is a question of sequencing rather than of how much you can personally handle, and it is the part most people get backward.
 
 The same holds for anything clinical. Hopelessness that has not lifted for months, thoughts of harming yourself however briefly they pass, an addiction, a diagnosed condition you are currently managing, or a stretch where daily functioning has genuinely dropped all belong with a licensed professional. Contact a doctor or a crisis line today if any of that is live for you right now.
 
@@ -418,7 +418,7 @@ Every one of these patterns has two ends, and describing only the wounded end le
 | A hot day in July | Long sleeves, and a reason prepared in advance | You dress for the temperature |
 | A typo in an email at nine in the morning | A hot flush of self-disgust, still running at midnight | The correction gets sent, and the day continues |
 | Anger arriving at the person who hurt you | Guilt about the anger, arriving within seconds | The anger gets felt, and nothing about it seems shameful |
-| Something you actually did wrong | An apology that expands to cover your whole existence | An apology for that specific thing, and then a full stop |
+| Something you actually did wrong | An apology that expands to cover your whole existence | An apology for that specific thing, and then a period |
 
 Read the right-hand column carefully, because it is deliberately unimpressive. Nobody in that column is radiant. They are people who can send a correction and then have lunch, and who can say a true sentence about their own history without the room tilting.
 

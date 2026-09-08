@@ -132,6 +132,8 @@ It came out of writing about coercive groups in the 1970s. In that setting it na
 
 Applying it to one individual and their new partner came much later, mostly through popular writing and then, very fast, through social media. Nobody really argued that move anywhere. It happened, and the word brought its original weight with it, which is why being called love bombing feels less like a description of your Tuesday and more like a verdict on your character.
 
+The gap between those two uses can be dated, and dating it is the most useful single thing anybody can tell you about the word. It was in general use for something like four decades before the first published attempt to measure it in couples appeared, in 2017, in the study examined further down this page, which set out to establish empirical evidence that the behavior was there at all and described itself as a gateway to further research. So for most of its life the term had usage behind it and nothing else, and the authority it now carries when it is pointed at you was accumulated in the years when nobody had tested it for anything.
+
 Used precisely, the term still means what it meant. It describes attention, affection, gifts and certainty delivered early and heavily **in order to** produce dependence. The purpose is the whole content of the word. Strip the purpose out and you have described an enthusiastic first two weeks.
 
 That precision has almost entirely gone. In ordinary use now the word attaches to a shape: fast, warm, large, early. And since the shape is all anybody outside can see, the shape is what gets named.
@@ -215,6 +217,8 @@ Whether what you were sending was coming back at roughly its own size.
 This is the spine of the whole page, so it is worth being slow about it.
 
 Ordinary getting-to-know-somebody has a rough symmetry to it that almost nobody is taught and almost everybody feels. Personal disclosure tends to be returned at similar depth. Warmth tends to be answered with warmth of about the same weight. A long message tends to get a long message. An offer of a weekend tends to be met with an idea about the weekend. This is a described regularity rather than one laboratory's finding, and it is one of the sturdier things known about how conversation between two people runs. It is treated properly on the [page about changing the subject](/patterns/changing-the-subject/), which carries the specific research on disclosure being returned at similar depth, and on the [page about keeping people at a distance](/patterns/keeping-people-at-a-distance/), which carries what happens when one person does all the disclosing.
+
+One laboratory has put a number on a version of this that runs below anything either person can hear. Ireland and colleagues, in "Language Style Matching Predicts Relationship Initiation and Stability" in *Psychological Science* in 2011, measured how closely two people's use of ordinary function words converged, first in transcripts of forty speed dates and then in the instant messages of eighty-six couples. A third of the pairs whose language converged more than the median mutually wanted future contact, against under a tenth of the pairs at or below it, and roughly three quarters of the couples above the median were still together when the researchers looked again a few months later, against a little over half of those at or below. The limit is a large one and it points where the rest of this section points: what they measured cannot be heard from inside the conversation, since nobody hears their own function words. Take it as evidence that matching is a real property of an exchange rather than an impression you formed, and not as the thing to watch for. What you watch for is whether what you sent comes back at roughly its own size, which is available to you while it is still happening.
 
 What follows for you is simple to state and quite hard to look at.
 
@@ -351,6 +355,22 @@ Two practical tests, both of which you can run tonight without anybody's coopera
 
 Neither test is diagnostic and both are better evidence than a checklist, because both use something you actually watched happen rather than something you believe about yourself.
 
+## Why Do I Come On Too Strong With Dates but Not With Friends or Coworkers?
+
+Because dating supplies three conditions at once that almost nothing else supplies, and the roots above respond to conditions rather than to people.
+
+The first condition is that the outcome is genuinely open. A new colleague is not deciding whether to keep you. A new friend is not weighing you against other candidates and will not disappear over a reply that came back late. In dating, and only in dating, there is a live question about whether this continues at all, and it stays live for weeks. Root three, the one that escalates in order to get something settled, needs exactly that condition and finds it almost nowhere else.
+
+The second condition is that the gestures available are unusually large. At work the scale of what you can offer is capped by convention: you can be helpful, you can stay late, and there is no version of the trip next summer. With friends there is an upper limit too, and it is set by how long you have known each other. Dating removes the limit in the first two weeks. Everything is permitted, which means nothing is proportionate, which means a person whose only dial is amount has an unlimited dial for the first time.
+
+The third condition is that there is no agreed rate. Work has a script. Friendship has one that is loose but real, and it is enforced by everybody else in the group. The beginning of a romance has neither, so both people are improvising, and two people improvising at different speeds will read each other's speed as a statement about how much they are wanted.
+
+So the honest answer is that a pattern confined to dating is not a smaller pattern; it is a pattern that has only ever met the conditions able to set it off in a single place.
+
+That has a practical consequence, and it is the reason this sits here rather than inside the list of roots. If the overshoot really does appear only with people you are attracted to, root three becomes the likeliest of the five and roots one, two and four become less likely, because those three are dispositions and would appear outside romance as well. The [page on anxious attachment](/patterns/anxious-attachment-style/) covers what root three is made of and what changes it.
+
+And if you look honestly and find that it does happen elsewhere, in a smaller and more deniable form, that is worth more than either of the checks above. The new colleague you did far too much for in their first week. The friend you were plainly too much for in the first month. Those are the same event with the volume turned down, and they are easier to look at squarely, because nothing was at stake in them and nobody had to be told anything afterward.
+
 ## What Does This Actually Cost the Other Person?
 
 This section exists because a page that treated your sincerity as the end of the matter would be doing you a disservice, and because the cost is real and specific rather than vague.
@@ -360,6 +380,8 @@ What an unmatched escalation removes is room to answer.
 Consider the position somebody is in on the receiving end of an offering larger than the relationship. They can match it, which requires saying something they do not yet feel. They can decline it, which means wounding somebody who has done nothing but be warm to them. Or they can go quiet, which is what most people do, because it is the only option that does not require an active untruth or an active injury.
 
 So the going quiet you read as coldness is very often the only door left open, and it was your offering that closed the others. That is worth holding without either flinching from it or turning it into a case against yourself. Both of those are ways of stopping the thought early.
+
+There is a study that measured that reluctance directly, and it is named here by its title rather than by its authors, because its lead author already carries an unrelated finding on another page here. "People Overestimate Their Willingness to Reject Potential Romantic Partners by Overlooking Their Concern for Other People", in *Psychological Science* in 2014, put single people in a position to decline advances from dates who were either physically unattractive to them or plainly incompatible with what they had said they wanted. Some believed the situation was real and some believed it was hypothetical. The ones who believed it was real were less willing to decline, and part of that difference was accounted for by how much they did not want to hurt the other person's feelings, which the hypothetical group had not anticipated feeling. The limits are worth stating: this was a laboratory setup, with strangers, across two studies, and it says nothing about your thirteen days. What it does establish is that the reluctance to turn down a warm person has nothing to do with weakness or dishonesty. It is strong enough to override a preference somebody had just stated about themselves, in a situation carrying none of the history yours carried.
 
 There is a second cost that is easier to miss. A very fast, very warm opening makes the other person's own pace look like a deficiency. If somebody needs six weeks to know what they think, and they are meeting somebody who knew on day four, they are placed in the position of being the cold one, the withholding one, the one who is not sure. Many people find that so uncomfortable that they go along further than they meant to, and the going along is what produces the abrupt ending later, which then arrives as a shock to you and as a relief to them.
 
@@ -439,6 +461,8 @@ One thing, and it is not aimed at anybody else.
 Do not apologize to anyone this week. Do not send a message explaining that you have realized something about yourself, because that is another large offering and it lands exactly the way the first one did. Do not make a rule about how often you will text. Do not tell the person you are currently seeing that you are working on this.
 
 Instead, take the last time somebody slowed down on you, and write out the sequence. Not what you felt and not what you meant. What you sent, in order, and how long the gaps were.
+
+The reason for writing it out rather than thinking it through is that those are two different operations and only one of them shows you anything. Going back over an evening from the inside keeps the feeling at its original strength, while setting the same evening down as a list of events with times against them puts a small distance between you and it, and that distance is what makes it readable. The difference has been measured, and the [page on complaining without changing anything](/patterns/complaining-without-changing/) carries the research on it properly rather than this page. What matters here is only that what goes onto the paper is events, and not an account of how the week felt.
 
 Something like: *day one, they replied short. Day one, I sent a long one. Day two, no answer, I sent a light one. Day two, evening, I sent the plan for Saturday. Day four, I found the book.*
 

@@ -66,7 +66,7 @@ faqs:
 - q: "What do I actually do about this, if anything?"
   a: "Start by not doing anything for a week and simply watching where it sits. Notice when you reach for the voice, what you were doing in the minute before, and whether anything else was genuinely available at the time. Most people find that almost none of it displaced anything. The few instances that did are specific, and specific things can be changed."
 - q: "Would a digital detox help?"
-  a: "It reliably produces a difficult fortnight and rarely produces a change, because the bond was never the mechanism. Removing an application removes an interface. If the voice was covering an evening that would otherwise be empty, the empty evening is what arrives, and most people restore the application within two weeks and feel worse than when they started."
+  a: "It reliably produces a difficult two weeks and rarely produces a change, because the bond was never the mechanism. Removing an application removes an interface. If the voice was covering an evening that would otherwise be empty, the empty evening is what arrives, and most people restore the application within two weeks and feel worse than when they started."
 - q: "Why do I get irritated when other people talk about the same creator?"
   a: "Because the bond is built out of a private sense of being addressed, and evidence of a crowd contradicts it in a way that feels faintly insulting. This is well described and almost universally reported, and it embarrasses people. It says nothing about possessiveness in the rest of your life. It reflects how the format speaks: directly, to one person, thousands of times over."
 - q: "When does this belong with a professional rather than a page like this?"
@@ -177,7 +177,9 @@ And if there is any thought of harming yourself, that belongs with a licensed pr
 
 For everybody else, and that is nearly everybody who reads this, the rest of the page applies.
 
-## Is Anything Actually Wrong Here?
+## Does Feeling Closer to a Creator Than to My Friends Mean I Am Lonely?
+
+That is the narrow version of a wider question, which is whether anything here is actually wrong at all.
 
 Almost certainly not, and this deserves to be said plainly and early rather than buried under qualifications.
 
@@ -185,11 +187,13 @@ Parasocial bonds are ordinary. They are extremely widespread across ordinary pop
 
 The claim that they indicate loneliness has been tested repeatedly and has mostly failed. The best-known early test, by Rubin, Perse and Powell in 1985, looked at regular viewers of local television news and specifically asked whether lonely people formed stronger bonds with newsreaders. They did not. What predicted the bond was how much the person used the program, what they wanted from it, and how much they liked it. Loneliness did essentially no work. That result has been reproduced in outline many times, and the popular version of the story has never caught up with it.
 
+The limit on that study belongs next to it. It was a single cross-sectional survey of local news viewers in one American city in the middle of the 1980s, which can tell you that loneliness and bond strength failed to travel together in that sample, and cannot tell you what happens inside one person across a year. What earns it more weight than a single survey deserves is that the direct tests which followed it kept finding the same nothing.
+
 So the honest position is this. You arrived here expecting to find out what is wrong with you. There is a reasonable chance that the most damaging thing in this whole pattern is the expectation itself, which has kept you from mentioning any of it to anybody, which in turn has made it feel far more unusual than it is.
 
 That does not mean nothing here can ever cost anything. One of the five roots below does cost something, and it is worth being able to recognize it. But it is a specific version, it announces itself with specific symptoms, and it is not what most people arriving on this page are looking at.
 
-## Why Does the Closeness Register as Real Rather Than as Something You Made Up?
+## Why Can an Online Stranger Feel Emotionally Real When They Do Not Know Me?
 
 Because the input is real, and this is the single most important thing on the page.
 
@@ -199,11 +203,17 @@ When she says the move was harder than she expected, that is a real person repor
 
 That equipment has no way of checking the return path. What it does instead is build a sense of somebody out of voice, face, repetition, consistency across time, and disclosure. All five are present here in abundance, several of them more reliably than in your actual friendships, because a creator is professionally consistent in a way no human being manages in a kitchen at the end of a bad Tuesday.
 
+This has been tested well outside the parasocial literature, which is part of why it holds up. Reeves and Nass ran a long run of experiments at Stanford through the early 1990s, published as *The Media Equation* in 1996, in which they took established findings from social psychology, replaced the human being in the study with a computer or a television, and got the social result anyway. People were polite to a machine when the machine asked them how well it had done. They attributed personality to it, reciprocated with it, and reacted to a face on a screen at close to the way they reacted to a face in a room. Their reading was that social responses to media are automatic rather than considered, and that knowing perfectly well what you are looking at makes very little difference to them.
+
+The limits there are real and worth naming. Those were small laboratory studies with student participants, run on the technology of thirty years ago, and they measured immediate reactions inside a single session rather than a bond that has been running for six years. What they establish is the mechanism, which is that the social equipment fires on the input it is handed without checking where the input came from. What they cannot establish is anything at all about the size or the meaning of what you feel about one particular person.
+
 So the feeling of closeness is neither a malfunction nor self-deception. What you have is an accurate read of the information available, produced by machinery doing its normal job. The only thing it cannot see is the absence on the other side, because nothing in the input carries that absence. Nobody ever says, at the end of a warm forty minutes of talking directly into a lens, *and to be clear, I do not know you and never will*.
 
 This is also why the popular advice fails so consistently. Telling somebody that the relationship is not real asks them to disbelieve their own senses about something their senses read correctly. The information was real. The person is real. The affection is real. What is absent is a receiver, and absence is exactly the kind of thing perception is worst at noticing.
 
-## What Is the Difference Between the Hour You Watch and the Rest of the Week?
+## What Is the Difference Between Parasocial Interaction and a Parasocial Relationship?
+
+It is the difference between the hour you watch and the rest of the week.
 
 This distinction is the most useful thing in the technical vocabulary and it almost never survives into popular writing.
 
@@ -213,9 +223,11 @@ This distinction is the most useful thing in the technical vocabulary and it alm
 
 Nearly everybody who consumes any media has the first. The second is more selective, it requires time, and it is the one this page is about.
 
+Collapsing the two has a documented cost, and the field paid it itself. In 2016 Dibble and colleagues found that the most widely used scale in this area, described everywhere as a measure of the in-the-moment interaction, tracks the enduring relationship instead, so a good deal of published work about parasocial interaction may be describing parasocial relationships without saying so. The limit on that belongs beside it. It is a measurement argument made from inside the field rather than a failed replication, the older scales remain in circulation, and nobody has gone back and re-run the affected studies with the distinction enforced.
+
 The distinction matters for a practical reason. People who conclude they should cut back usually cut the interaction, which is the part that is essentially harmless and easy to measure, while the relationship carries on untouched. You can stop watching for a month and still find yourself wondering, in the middle of a Wednesday, whether the second bedroom ever got unpacked. The between is where the bond actually lives, and no viewing limit touches it.
 
-## Why Did It Hurt So Much When the Show Ended?
+## Why Did I Grieve So Much When a Creator Quit or a Show Ended?
 
 Because a bond you had held for years ended, and that is a thing that gets felt.
 
@@ -289,7 +301,7 @@ In this version, the bond is doing what enjoying things does. You like the way t
 
 The tells for this root are specific and they are reassuringly boring.
 
-Nothing has narrowed. Your friendships are what they were. When somebody offers you a real evening, you take it, and you do not spend it thinking about the video you did not watch. The bond survives an interruption easily: you miss three weeks on holiday and notice mildly on the fourth. It does not carry any weight it cannot bear. If the account vanished tomorrow you would be genuinely sorry and then you would be fine.
+Nothing has narrowed. Your friendships are what they were. When somebody offers you a real evening, you take it, and you do not spend it thinking about the video you did not watch. The bond survives an interruption easily: you miss three weeks on vacation and notice mildly on the fourth. It does not carry any weight it cannot bear. If the account vanished tomorrow you would be genuinely sorry and then you would be fine.
 
 If that is you, there is nothing here to work on, and the useful thing this page can do is remove a shame you were handed by other people's writing. The bond costs you nothing. It gives you something. That combination is called liking something, and it does not require a defense.
 
@@ -351,6 +363,10 @@ There is a specific invitation you declined in the last month, and the reason yo
 
 And there is the one that people report as the moment they noticed: a genuinely good evening with real people, which you enjoyed, followed by a small private relief at getting home to the version that asks nothing.
 
+The general version of this question has been studied, and the answer changed direction under its own authors. Kraut and colleagues followed a set of Pittsburgh households through their first year or two of having the internet at home in the middle of the 1990s, and reported in 1998 that heavier use went along with smaller social circles, less conversation inside the family, and more reported loneliness. It was published under the name internet paradox and it traveled a very long way. The same team went back to the same people and published again in 2002, and by then most of the negative effects had gone, while a second group of households showed mainly positive ones.
+
+Both papers deserve their limits stated with them. They were small, they were confined to one city, they rested on self-report, and they described people meeting the internet for the first time in 1995, which is nobody's situation now. What survives is the shape of the answer rather than any number in it. Displacement is a real thing that can be measured, it is smaller and far less durable than the confident version claims, and the only place you can check it in your own week is one specific evening at a time.
+
 None of that means the bond caused any of it. It very often runs the other way, with a hard year reducing the effortful contact first and the bond expanding into the space afterward. What it does mean is that there is now something to look at, and that looking at it is a matter of counting rather than of deciding how you feel about yourself.
 
 ## Which of the Five Is Yours, and How Would You Know?
@@ -384,15 +400,31 @@ Where a cost appears, it appears in one place and it is countable.
 | Emotional weight | Genuine feeling about a real person's real news | The main place your caring goes in a given week |
 | Effort with people | Unchanged | Slowly reducing, in a way somebody has mentioned |
 
-The middle rows are where honesty is hardest. Feeling something real about a stranger's loss costs nothing and takes nothing from anybody. Having that be the only strong feeling you had about another person's life in a given fortnight is a different observation, and it is a fact about the fortnight rather than a fact about you.
+The middle rows are where honesty is hardest. Feeling something real about a stranger's loss costs nothing and takes nothing from anybody. Having that be the only strong feeling you had about another person's life in a given two weeks is a different observation, and it is a fact about the two weeks rather than a fact about you.
 
 And there is one cost that has nothing to do with time, which most people carry without noticing. The hiding. Almost nobody says it out loud, so almost nobody discovers how common it is, and the concealment converts an ordinary thing into a private oddity. That conversion is done entirely by the silence and it can be undone the same way, usually by mentioning it once to one person and watching them say that they have their own.
+
+## Why Do I Look Forward to an Upload More Than Plans With a Friend or Partner?
+
+Because one of them is certain and the other one is a gamble.
+
+The upload arrives on a known day. It costs nothing to attend. It asks for no particular version of you, it tolerates you being tired and half attentive, and it pays out inside the first minute. If it turns out to be a weaker episode you have lost nothing, because you were folding laundry anyway.
+
+The evening with a friend costs a train fare, an hour of preparation, and a mood you may not be able to produce on the night. It asks for the version of you that remembers what somebody told you in October and has a question ready about it. It also pays out unevenly. Some of those evenings are the best thing that happens to you all year. Some of them are seventy minutes of a conversation neither of you wanted, and you cannot tell in advance which one you are buying.
+
+So what the anticipation measures is certainty against risk, and no cost against real cost, rather than how much you value the two people. That is a completely different comparison, and it is one the upload wins automatically for almost everybody, including people with crowded social lives who would be baffled to hear themselves described as lonely.
+
+This matters because the usual reading of it is the harsh one. If you look forward to a video more than to your friend, the story goes, then you must prefer the video to the friend. Run the comparison properly and it says no such thing. Ask somebody which of the two they would keep if they could only keep one, and almost nobody picks the video. Ask which one they are looking forward to on a Thursday afternoon, and the video wins. Both answers are honest, and they are answers to two different questions.
+
+There is one version of this worth sitting with rather than explaining away. If you notice a small drop when a plan gets confirmed, and a small lift when it gets canceled, certainty has stopped being the variable. What the reaction is tracking then is the evening itself and what it will ask of you, which points at the third root above rather than at anything about the friendship.
+
+And there is a practical use for all this that rarely gets stated. If the upload wins because it is certain, cheap, and undemanding, then those three properties are what anything else has to match in order to compete with it. A standing arrangement beats an invitation, because a standing arrangement is already certain. Something ten minutes away beats something at the far side of the city. Something that survives you being tired beats something that needs you at your best. People who rebuild this part of their week almost never do it by resolving to see friends more. They do it with one small recurring thing, usually so modest that it would embarrass them to describe it.
 
 ## Why Does Deleting the App Not Touch Any of This?
 
 Because the application is an interface and the bond is not stored there.
 
-People try this constantly. A month off. Notifications disabled. The account unfollowed with a certain amount of ceremony. It produces a hard fortnight and then, in the large majority of cases, a return, plus a new layer of failure on top of whatever was there before.
+People try this constantly. A month off. Notifications disabled. The account unfollowed with a certain amount of ceremony. It produces a hard two weeks and then, in the large majority of cases, a return, plus a new layer of failure on top of whatever was there before.
 
 The reason is straightforward. If the bond was doing nothing but being enjoyable, removing it removes an enjoyable thing and leaves you slightly worse off, which is why it comes back. If the bond was covering an evening that would otherwise be empty, removing it produces the empty evening, unchanged and now uncovered, and nothing about the emptiness has been addressed by taking away the cover.
 
@@ -434,7 +466,7 @@ If it has taken time you would have spent, the counting works immediately and th
 
 One thing works on the first attempt in every version, which is describing the bond accurately to yourself in plain nouns. That is available today and it does not depend on which root you are in.
 
-## What Is Worth Doing This Week, Before You Change Anything?
+## What Should I Do This Week If This Bond Is Starting to Worry Me?
 
 Nothing, for seven days, except watching.
 

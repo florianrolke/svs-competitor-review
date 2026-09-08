@@ -136,6 +136,22 @@ The shame concentrates on the third one. Not on the original telling, which felt
 
 There is one more thing worth naming here, because it is the part that makes people give up on themselves. The behavior is often at its worst with the people who least deserve it and best with the people it would actually help. Colleagues get the full account. A partner of six years gets a summary. That inversion says nothing about a broken character. What it points at is where the risk feels highest, and risk is the axis this whole thing turns on.
 
+## Why Do I Tell Strangers Everything But Barely Talk to My Partner?
+
+Because the cost of a sentence is set by how long you have to live with the person who heard it, and with a stranger the answer is about an hour.
+
+Look at what each conversation actually charges you. Somebody two seats away in a waiting room holds no history of you and no share of your future. Whatever you hand them gets carried out the door and never returns to you in any form. Nothing you say there changes how a Sunday six months from now goes, because there is no Sunday six months from now with that person in it. So nothing that normally makes speaking frightening switches on at all, and the sentences come out at their true weight.
+
+Now put identical material in front of somebody who will be sitting across from you at breakfast. It lands inside a shared future that keeps running. They will remember it. They will hold it beside everything else they have learned about you, and you will watch them do that, slowly, over months. The material has stayed the same. What changed is how long you have to live with what they do with it.
+
+That is why the inversion says nothing about who you love more, which is the conclusion almost everybody draws about themselves at this point, and it is wrong. Telling a colleague more than your partner knows is a statement about where the risk sits rather than about your loyalty. The people best placed to carry something are exactly the people for whom the consequence of receiving it does not stop when the conversation stops.
+
+There is a second half to this, and it is the part that explains the loneliness. Discharge and being known run on different requirements. Discharge needs a listener with a pulse. Being known needs somebody who is around in a month to remember what they were told and to set it beside everything else they know about you. A stranger cannot know you however much you tell them, because knowing is built up in layers and they will not be there for the layers. That is why two hours of complete honesty with somebody in a hotel lobby can leave you emptier afterward rather than closer to anybody.
+
+The correction that fails is the obvious one: deciding to hand your partner the whole of it tonight, to make the two sides match. That converts a pacing problem into a much larger one, and it usually ends with how you said it becoming the subject instead of the thing you wanted to say. What moves this is smaller and duller. One real sentence a week to the person who will be sitting across from you at breakfast. Not the whole biography. One sentence, and then the evening carries on around it, and you get evidence that a true thing can be said in that house without anything getting worse.
+
+[Feeling closer to people you will never see again than to the people you see daily is its own pattern](/patterns/closer-to-strangers-than-to-people-i-know/), and so is [the habit of turning the question back before anything about you gets said](/patterns/deflecting/).
+
 ## Why Does the Relief Arrive First and the Dread Arrive Later?
 
 Because the two run on completely different clocks, and only the fast one is present at the moment you decide to speak.
@@ -207,6 +223,22 @@ These get used interchangeably and they are genuinely different moves with diffe
 The last two rows are doing the work in that table. Silence is where most people go when they decide this pattern is a character flaw, and it costs more than the behavior it replaces. Paced disclosure keeps every word of truth and changes only the delivery, which is why it is the destination worth aiming at.
 
 Notice also that testing sits in its own row rather than as a variant. It looks identical from outside and it is doing something quite specific: converting an open question about whether you are acceptable into a closed one, as early and as cheaply as possible. [Handing someone a reason to leave before they have a reason to stay has a mechanism of its own](/patterns/why-do-i-test-people-who-love-me/).
+
+## Why Do I Overshare on First Dates Even When I Promised Myself Not To?
+
+Because the promise was made by somebody calm and alone, and it has to be kept by somebody nervous, sitting opposite a person who is deciding about you.
+
+The promise is genuine when you make it. What it lacks is anything to actually do. A resolution to say less hands you no move at the moment it matters, so at that moment you fall back on the one move you already own, which is the move you were trying to stop making. That has nothing to do with weak character. Every intention without a sentence attached behaves the same way.
+
+It also fails at a predictable point rather than at random. Almost nobody does it in the opening exchange. The failure comes in the second hour, once the awkwardness has burned off and the evening has stopped feeling like a date and started feeling like a conversation, while your caution was still set for a date.
+
+The first date is unusually good at producing this, for three reasons that stack. The setting rewards seeming open, so the more of yourself you hand over, the better you appear to be doing. There is no shared history to pace against, so nothing tells you what belongs at which stage. And there is usually something that shortens the distance between a thought and a sentence, whether that is a second glass or simply two people trying hard to be liked.
+
+Underneath those three sits the thing that makes a first date different from every other setting on this page. A friend who hears too much loses an evening. A person on a first date is being asked to make a decision about the hardest part of your life before they have learned a single ordinary thing about you, and most people cannot do that. The material gets weighed with nothing beside it, which makes this a problem of sequence rather than a problem of honesty.
+
+So what works here is a sentence rather than a limit. One such sentence already sits in the table further down this page: there is a big thing in my history, I will tell you at some point, not tonight. Say that and the promise keeps itself, because you have handed over the fact that something exists without handing over the something. It also does what silence cannot, which is to make clear you are hiding nothing, and being suspected of hiding something is what drives a great deal of the acceleration in the first place.
+
+[Saying more than the setting called for, in ways that are awkward rather than heavy, has its own page and its own research](/patterns/oversharing/).
 
 ## Why Do Two People Do This Identically for Completely Different Reasons?
 
@@ -282,7 +314,7 @@ So here is the distinction that matters most in this whole area, and it is worth
 
 The mechanism is unglamorous. Just by focusing on it, you make it real again and again. And by the very means of not spending any time there anymore, you will feel less of it.
 
-That is not an instruction to suppress anything, and I want to be careful because the two look similar and behave nothing alike. Suppression is refusing to look. What I am describing is having looked properly, once, with somebody able to help you look, and then declining to relitigate it every fortnight with whoever is nearest. [Living inside a loop about something already finished has its own page](/patterns/why-cant-i-stop-thinking-about-the-past/).
+That is not an instruction to suppress anything, and I want to be careful because the two look similar and behave nothing alike. Suppression is refusing to look. What I am describing is having looked properly, once, with somebody able to help you look, and then declining to relitigate it every two weeks with whoever is nearest. [Living inside a loop about something already finished has its own page](/patterns/why-cant-i-stop-thinking-about-the-past/).
 
 There is a practical marker for which one you are doing. Ask whether the version you tell has changed in the last two years. An account that has been word for word identical since 2021, including the same phrases in the same order, has become a recital. A recital produces the relief and none of the movement, which is precisely the trade that keeps this pattern funded.
 
@@ -344,7 +376,7 @@ By changing the delivery and the conditions at the same time, in repetitions sma
 1. **Write it before you say it.** Ten minutes on a page, for you only, before any conversation where you expect this to come up. Most of the pressure driving the pace is the pressure of it being unspoken anywhere at all, and paper absorbs a surprising amount of that. This single change does more than the rest combined, because it works upstream of everything else.
 2. **Learn one asking sentence and practice it until it is boring.** I have got something heavy going on and I would like to tell you about it, is now a good time. Say it out loud in a room by yourself until it stops feeling like a performance. Under strain you will only produce sentences you already own.
 3. **Accept a no without repairing it.** If they say not tonight, say fine, and change the subject cleanly. No apology, no explanation, no follow up text at eleven. The whole value of asking collapses if a no costs them something, and people learn very fast whether your question was real.
-4. **Give the headline, then stop and let them steer.** One or two sentences, then a full stop. If they ask, continue. If they change the subject, let it change. The material you were going to say does not disappear. It waits for a moment when somebody actually wants it, which makes it land far better anyway.
+4. **Give the headline, then stop and let them steer.** One or two sentences, then a period. If they ask, continue. If they change the subject, let it change. The material you were going to say does not disappear. It waits for a moment when somebody actually wants it, which makes it land far better anyway.
 5. **Watch for the shift and treat it as neutral information.** Eyes, posture, the length of the pause before they answer. When it changes, name it lightly and offer an exit: that's a lot, we can leave it there. Doing that once will teach you more about this pattern than reading another ten pages on it.
 6. **Widen the base before you narrow the flow.** Write down every person you could tell something real to. If that list has one name on it, or none, then adding names is your actual task and restraint is a distraction. Structured settings where listening is the agreed purpose count on that list and take the most pressure off it.
 7. **Change one condition, not only the behavior.** The hour, most obviously: almost nobody does this well at one in the morning. Alcohol, second. Whether you go into a social evening already at full pressure, third. Force produces the change and environment is what sustains it.
@@ -361,6 +393,8 @@ The asking sentence is worth being concrete about, since a general instruction t
 | Somebody you trust, and you want the whole thing heard | "I want to tell you the whole of this. Can we take an evening for it?" |
 
 Is any of this dramatic? No. It is short and freaking unglamorous, and that is exactly why it holds when a night of resolve does not.
+
+Omarzu's disclosure decision model, published in *Personality and Social Psychology Review* in 2000, is why none of that list asks you to say less of what is true: it treats depth, breadth and duration as separate dials rather than one volume control, and makes choosing who you are telling a step of its own before any of them. It was offered as a framework for predicting disclosure rather than as a tested result, so take it as a way of pulling the decision apart rather than as proof that the parts behave exactly as proposed.
 
 Does the pull to empty everything out ever fully leave? Honestly, no, and it comes back hard in any week where the pressure builds and nobody is available. What grows is the gap between the pull and the speaking, and the accumulating evidence that a headline gets you closer to somebody than the whole account ever did. [Feeling what surfaces while you hold something instead of discharging it is its own skill, and most people have never been taught it.](/insights/how-to-feel-your-emotions/)
 

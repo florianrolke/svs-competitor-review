@@ -94,7 +94,7 @@ faqs:
 - a: 'Sometimes, and it is worth ruling out first because it costs about two weeks
     to test and needs nobody''s permission. Signs pointing that way: your partner
     initiates occasionally at hours you are unavailable, they respond warmly once
-    contact has already started, and the flatness lifts on holidays or slow mornings.
+    contact has already started, and the flatness lifts on vacations or slow mornings.
     Signs pointing elsewhere: they withdraw further the closer things get, or the
     same shutdown appears in every relationship they have had.'
   q: Is this just mismatched intimacy timing?
@@ -336,7 +336,7 @@ You end up with two people who want each other and almost never overlap, which i
 
 Think about your own window concretely rather than abstractly. Is it late at night, once the house is quiet and the day has been survived? Early in the morning, before anything has been asked of you? Sunday afternoon with nowhere to be? After a long conversation? After exercise? After a couple of days of being genuinely liked? Most people have never articulated this, even privately, because desire feels like weather rather than a pattern with conditions.
 
-Now consider that your partner has one too, and it may share almost no hours with yours. If your window is eleven at night and theirs is Saturday morning, the two of you can spend six years genuinely wanting each other and land in the same hour perhaps a dozen times, most of them on holiday. Each of you experiences the other's absence during your own window as the whole story, because your own window is the only one you can feel from the inside.
+Now consider that your partner has one too, and it may share almost no hours with yours. If your window is eleven at night and theirs is Saturday morning, the two of you can spend six years genuinely wanting each other and land in the same hour perhaps a dozen times, most of them on vacation. Each of you experiences the other's absence during your own window as the whole story, because your own window is the only one you can feel from the inside.
 
 The reason this hurts so precisely is worth saying plainly. Rejection implies a decision was made about you specifically. A missed window implies nothing about desire, love, or attraction at all. Those two produce an identical sensation in the chest, and only one of them is fixed by trying harder at the hour you have always tried.
 
@@ -357,7 +357,7 @@ That distinction dissolves a lot of misery on its own. A partner whose desire is
 | They never want me, since they never start it | Their desire arrives in response rather than in advance | Start something with no destination attached and watch what happens over twenty minutes |
 | They said yes but they were only being kind | Wanting caught up once contact began, which is normal for them | Ask afterward, plainly, whether they wanted it by the end |
 | Their attraction to me is gone | The brake is loaded: stress, sleep, resentment, being observed | Change the conditions rather than the frequency, then look again |
-| It used to be spontaneous, so something died | Spontaneous desire commonly fades with familiarity in a good relationship | Compare against holidays, absences, and the times context changed |
+| It used to be spontaneous, so something died | Spontaneous desire commonly fades with familiarity in a good relationship | Compare against vacations, absences, and the times context changed |
 
 Please do not turn this into a new rule about who your partner is. The point is narrower: at least one common explanation for a complete absence of initiation has nothing to do with whether they want you.
 

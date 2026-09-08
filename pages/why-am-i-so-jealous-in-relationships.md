@@ -7,7 +7,7 @@ description: Jealousy that fires with no evidence behind it is an early-warning 
   on an ordinary Saturday.
 faqTitle: Jealousy in Relationships Questions
 faqs:
-- a: Occasional jealousy is close to universal and rarely worth pathologising. What
+- a: Occasional jealousy is close to universal and rarely worth pathologizing. What
     separates ordinary jealousy from the version worth working on is whether it scales
     with evidence. A flicker when somebody flirts with your partner at a party passes
     on its own. A scan that runs on a quiet Tuesday, with nothing to point at, in
@@ -87,7 +87,7 @@ faqs:
     checking was the right move. The next spike arrives a little sooner and a little
     louder. Willpower rarely breaks this on its own, because you are arguing with
     something that has been rewarded thousands of times.
-  q: I check my partner's phone even though I know I will feel awful afterwards. Why
+  q: I check my partner's phone even though I know I will feel awful afterward. Why
     can't I stop?
 - a: It is common with this pattern, and it confuses people because there is obviously
     no live threat. The alarm reacts to any evidence, however old, that affection
@@ -433,7 +433,7 @@ The realistic version of the endpoint is worth stating, since nobody ever does. 
 
 You cannot reassure somebody out of this, and trying harder usually makes the following month worse.
 
-That is unsatisfying, so here is the more useful version. Supplying more evidence feeds the loop described above, because each round teaches the system that evidence was required. What helps instead is consistency that you are not constantly announcing: doing what you said, arriving when you said, and declining to reorganise your friendships to prove a point. A life that gets smaller in order to soothe somebody's fear tends to produce a larger fear six months later, with less of your life left to give it.
+That is unsatisfying, so here is the more useful version. Supplying more evidence feeds the loop described above, because each round teaches the system that evidence was required. What helps instead is consistency that you are not constantly announcing: doing what you said, arriving when you said, and declining to reorganize your friendships to prove a point. A life that gets smaller in order to soothe somebody's fear tends to produce a larger fear six months later, with less of your life left to give it.
 
 Describe behavior rather than attaching a label. "I am not going to answer questions about my phone anymore, and I am still here" opens something. "You are being paranoid" closes it and adds humiliation to a feeling that already carries plenty. Say what you will and will not do, once, in plain words, and then hold it steadily.
 
@@ -445,4 +445,4 @@ Run an urge log for forty-eight hours. Open a note on your phone, and every time
 
 Then read the list on the second evening and mark the predictions that turned out to be true. For a great many people the number is zero, across two full days of spikes that each felt like certainty at the time. Please do not turn that into an argument against yourself. Treat it as the first piece of evidence you have ever generated about the mechanism rather than about your partner, which is what makes the difference between a feeling that has to be obeyed and a feeling that can simply be watched.
 
-If what pulls at you is the pattern itself rather than another conversation about a phone, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the thing you have never told anyone has somewhere to be said, and integration built into the design rather than left to you to work out alone on the ordinary Saturdays afterwards. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent looking at where the scanning came from is rarely wasted, whatever you decide about anything else.
+If what pulls at you is the pattern itself rather than another conversation about a phone, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the thing you have never told anyone has somewhere to be said, and integration built into the design rather than left to you to work out alone on the ordinary Saturdays afterward. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent looking at where the scanning came from is rarely wasted, whatever you decide about anything else.

@@ -177,6 +177,20 @@ Two of those deserve their own sentence. Debt advice is a real profession, it is
 
 A second boundary is about scope rather than severity. Nothing on this page is financial advice. There is no budget here, no envelope method, no rule about percentages, deliberately, because the spending described here was never answering a budgeting question and rules turn out to be part of the trouble further down.
 
+## How Is Emotional Spending Measured in Research?
+
+Almost never by looking at what anybody actually spent. It is measured as a single number, named once, minutes after a mood has been induced deliberately.
+
+The design has barely changed in twenty years, and knowing its shape tells you most of what the findings can and cannot carry. People are randomly assigned to a state, usually with a short film or a written recollection, so that sadness or a neutral mood is the only thing separating the groups. A small ordinary object is then put in front of them, a bottle, a mug, a desk item, and they are asked what they would pay to have it, or what they would accept to give it up. The number is then paid out for real, so the answer has a cost attached to it. The 2008 misery-is-not-miserly experiment described above ran in exactly this way, with real commodities and real money, and it added one step that turned out to decide the whole result, which was a measure of how far each person's attention had turned inward. That is how it could show the effect appearing only where self-focus was high rather than wherever sadness was.
+
+The 2004 work took the same shape and asked for two numbers instead of one, a buying price and a selling price for the identical item, which is what made it possible to see sadness and disgust pull those two numbers apart in ways that did not match.
+
+A second and looser family of measures gets closer to a real week. Ask people about unplanned purchases made to lift a mood, measure the mood before and afterward, then come back later and ask about regret. That is where the 2011 finding of a lift that held, with no guilt attached to it, comes from.
+
+Now the part that matters more than all of the above. None of these procedures has measured the thing you came here about. Nothing in this literature follows one person's real spending over a full year, or looks at anybody's card records, or watches an order placed at half past ten after a conversation that went the wrong way. The amounts are small, the objects are ordinary, the mood is minutes old and made to order, and everybody involved knows they are in a study. The phrase emotional spending is not a measured construct at all, and no study reports what share of anybody's real spending it accounts for.
+
+So take from this research exactly what it can carry. It establishes that the effect is real, that the size of it is large enough to change a number by a multiple, and that people do not notice it working while it works. What it cannot give you is how much of your own spending it explains. Only your own order history, read next to what was happening in the previous hour each time, can answer that, which is what the final section of this page asks you to spend a week doing.
+
 ## Why Does It Work, Given That It Obviously Does Not Work?
 
 Because it does work, on something, for about eleven minutes, and pretending otherwise is why most advice about this fails on contact.
@@ -221,6 +235,8 @@ This one is easy to confirm because of the clock. Something happens: a conversat
 
 Except one. A purchase requires nobody. It is available at any hour, it needs no explanation, it cannot be refused, and it produces a visible result within seconds. In a moment defined by having no available action, it is the available action.
 
+Right after an argument with your partner is the version of this that gets searched for most, and there is one measured piece behind it. A 2013 experiment in Psychological Science titled The Financial Costs of Sadness randomly assigned people to a sad or a neutral state and then offered a smaller sum of money now against a larger sum after a delay, and the median sad participant accepted 13 to 34 percent less in order to take it now, while people who had been made disgusted instead did not shift at all. Carry the limits with it: what was measured was money against waiting rather than anything anybody bought, the sadness came from a short film minutes earlier rather than from somebody you live with, and it comes from the same research group as the 2004 and 2008 results above, so treat the three as one line of work rather than three independent confirmations.
+
 The signature is unmistakable once you look for it.
 
 - The order sits inside an hour of a specific event, often inside twenty minutes.
@@ -242,7 +258,7 @@ Belk had already made the wider point in 1988, describing possessions as an exte
 You will recognize this root by the shape of what you own.
 
 - The equipment for a hobby you have done twice.
-- Three books on the same subject, none finished, bought within a fortnight of each other.
+- Three books on the same subject, none finished, bought within two weeks of each other.
 - Clothes for a body, a schedule or a social life that is not the one you currently have.
 - A tool for the standard of work you keep meaning to hold yourself to.
 - The good version of something you already own a functional version of.
@@ -374,7 +390,7 @@ The test that cuts across all six is the same one. Did the mood arrive first, an
 
 ## Is "I Work Hard and I Deserve This" an Explanation or an Excuse?
 
-Both versions sound identical, and the difference only shows up in what happens over the following fortnight.
+Both versions sound identical, and the difference only shows up in what happens over the following two weeks.
 
 This distinction matters more than almost anything else on the page, so let me be careful with it. We want to make the distinction between giving something an explanation and turning it into a story, so we have an excuse. The same words, containing the same true facts, can do either job.
 
@@ -412,7 +428,7 @@ More than the money, and in four places most people have never traced back to it
 
 **The obvious account, briefly.** Money that went somewhere and did not come back, and the specific things it was not available for. I will not spend long here because you already know this column and looking at it harder has never changed anybody's Thursday.
 
-**The room, and what living in it does.** Objects accumulate, and unused objects are not neutral. Every unopened box in a corner is a small daily transmission about somebody who buys things and does not use them. You stop seeing them consciously within a fortnight and they carry on working. This is the cost most people underestimate by the widest margin, because it never presents itself as a cost at all. It presents itself as clutter, and then as a vague heaviness about being at home.
+**The room, and what living in it does.** Objects accumulate, and unused objects are not neutral. Every unopened box in a corner is a small daily transmission about somebody who buys things and does not use them. You stop seeing them consciously within two weeks and they carry on working. This is the cost most people underestimate by the widest margin, because it never presents itself as a cost at all. It presents itself as clutter, and then as a vague heaviness about being at home.
 
 **The thing that did not get started.** This is the expensive one for the identity root. Every symbol acquired discharges a little of the pressure that would otherwise have made you begin, so the purchase functions as a substitute for the first attempt. Ten years of that is a considerable number of unbegun things, and none of it appears on a statement.
 
@@ -432,7 +448,9 @@ The bulge shows up at a distance from the squeeze, and that distance is what mak
 
 There is one thing to change a behavior with force or with discipline, and that is not necessarily what makes it stick. You have to have a way to sustain it, and for that there also needs to be an element of environment that changes. This is the entire reason your last attempt lasted nineteen days, and it is worth being precise, because the conclusion people usually draw is about their own weakness rather than about the design of the plan. A ban imposed on an unchanged week is a squeeze applied to a system that has lost no pressure at all. It holds while the novelty holds. Then the need is exactly where it was, and it takes the first opening it finds.
 
-## What Would Have to Be Supplied Before the Buying Could Shrink?
+## What Should I Change the Next Time I Feel the Urge to Shop While Upset?
+
+What would have to be supplied before the buying could shrink? That is the question sitting underneath this one, and it decides the answer, because in the moment itself there is exactly one thing left to change and it is the gap between the feeling and the checkout. Everything else that works gets put in place days earlier, on an ordinary weekday when you are not upset at all.
 
 Every single thing the purchase was providing, sourced from somewhere else, before you touch the spending at all.
 
@@ -455,8 +473,8 @@ Here is the sequencing, stated as a rule, because getting it wrong is what has c
 1. **Weeks one to three: supply only.** Put the right-hand column in place and spend exactly as you currently do. Change nothing about the buying. Any restriction in this window contaminates the result you are trying to read.
 2. **End of week three: measure, do not judge.** Compare the order history for those three weeks against the three before. A large share of people find the spending has already fallen without being asked, which is both a real gain and a piece of evidence about which root is theirs.
 3. **Week four: restore the interval, not the ban.** Cards out of storage, list instead of cart, one fixed buying day. You may still buy anything. It has to survive seventy two hours and a Saturday morning first.
-4. **Week five onward: change one condition a fortnight.** One at a time, from the environment section above, held long enough to see what it does.
-5. **Never subtract a supply.** If something in the right-hand column stops happening, the buying comes back within a fortnight, and the correct reading is that a supply lapsed rather than that you failed.
+4. **Week five onward: change one condition two weeks.** One at a time, from the environment section above, held long enough to see what it does.
+5. **Never subtract a supply.** If something in the right-hand column stops happening, the buying comes back within two weeks, and the correct reading is that a supply lapsed rather than that you failed.
 
 And expect the middle to feel wrong. You cut out the things that feel good in the moment and are not good for you longer term, you go through the withdrawal at the beginning, and then you find it is actually not that hard once you commit. It feels like there is something missing in the meantime, and that is always the case. You realize very quickly that it is not, and that you can live without it far more easily than you expected. That window is about ten days for most people, and it is at its worst around day four, which is exactly when people conclude the plan was wrong.
 
@@ -503,7 +521,7 @@ Noticing arrives fast. Within two or three weeks of running the log, most people
 
 Shifting it takes months, because it moves at the pace of a rebuilt week rather than at the pace of insight. Every supplied need, every restored interval, every completed small thing is a structural change, and the spending recedes at the speed those accumulate. Understanding this page thoroughly, on its own, will change remarkably little.
 
-It also comes back in patches, and it comes back first in the weeks you are already struggling, which is precisely when it feels like proof that nothing took. That is not what it is. A pattern built as a solution returns whenever the conditions it solved for return, and a brutal fortnight reproduces those conditions faithfully. Progress shows up in how fast you notice and how quickly it settles, rather than in a clean statement.
+It also comes back in patches, and it comes back first in the weeks you are already struggling, which is precisely when it feels like proof that nothing took. That is not what it is. A pattern built as a solution returns whenever the conditions it solved for return, and a brutal two weeks reproduces those conditions faithfully. Progress shows up in how fast you notice and how quickly it settles, rather than in a clean statement.
 
 That is a slow answer and I would rather give you a slow true one than a fast route that does not exist. In order to live an extraordinary life you really have to have a good portion of courage alongside everything else, and some of that courage gets spent on very small things: telling one person the number, opening the box, doing twenty minutes of the thing you bought the equipment for.
 

@@ -42,7 +42,7 @@ faqs:
 - q: "Why do I know their coffee order and not their sister's name?"
   a: "Because undefined arrangements build detail in the places contact happens and nowhere else. Repetition supplies the small habits. Nothing in the arrangement ever requires the wider information, since you are not going to meet the sister, and meeting the sister is exactly the kind of event that would force a name onto the thing. The gap in what you know is a map of where the arrangement has been kept."
 - q: "Why does leaving feel like wasting the time I already put in?"
-  a: "Because effort gets read backwards as evidence of value. Seven months of adjusting your week is a real investment, and the mind is poor at treating an investment as already gone. The feeling reliably converts stopping into wasting, which is a category error with a long research history behind it. The page on whether to leave a relationship handles the sunk cost machinery properly and I will not duplicate it here."
+  a: "Because effort gets read backward as evidence of value. Seven months of adjusting your week is a real investment, and the mind is poor at treating an investment as already gone. The feeling reliably converts stopping into wasting, which is a category error with a long research history behind it. The page on whether to leave a relationship handles the sunk cost machinery properly and I will not duplicate it here."
 - q: "Why do I keep a private count of how long this has been going on?"
   a: "Because a part of you is running a relationship the rest of you is describing as nothing much. The private calendar is one of the more reliable tells available. Nobody counts the weeks of something they are genuinely holding lightly. If you know the number to the week, and you would not say the number out loud, you have already answered a question you have been avoiding asking."
 - q: "Does talking about it always ruin it?"
@@ -172,6 +172,20 @@ Two further gaps deserve naming. The word arrives carrying a verdict. It is used
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
 
+## How Long Does the Average Situationship Last, and How Often Do They Become Relationships?
+
+Nobody has measured either one, and the confident figures in circulation were not produced by anybody trying to.
+
+Take the duration first. No study has followed an undefined arrangement from the point it started to the point it ended. There is no cohort, no follow-up, and no agreed moment at which one of these counts as having begun. An average length would need all three. The tidy numbers you meet, usually a specific count of months, come from trend reports published by dating application companies. Those are marketing documents. The sample is that company's own users, the method is almost never published, and following any particular figure backward runs out inside a company announcement rather than in anything a reader could check.
+
+The conversion question has slightly better luck, though not about this arrangement. The nearest real evidence sits in work on friends with benefits, which is a neighboring shape rather than the same one. Machia and colleagues surveyed people who were in such arrangements and then asked them again later what had become of them. The single most common outcome was that the two people had no relationship of any kind by the second survey, at thirty-one percent. The asymmetry underneath that is the part worth carrying. Among people who had said they wanted the arrangement to settle into a friendship, fifty-nine percent had that. Among people who had said they wanted it to become a romantic relationship, fifteen percent had that.
+
+The limits are serious and they belong next to the numbers rather than in a footnote. It is one sample of a hundred and ninety-two people, measured at two moments by self-report, in an arrangement that overlaps yours without being it. It produces no duration figure at all. And the fifteen percent describes something narrower than a conversion rate for undefined arrangements in general. It is the share of people who wanted more and got it, which is a narrower and more uncomfortable thing to know.
+
+What survives all of that is a shape rather than a prediction. Wanting one of these to become smaller works considerably more often than wanting it to become larger. That says nothing about you, your person, or your Tuesday, and anybody converting it into a forecast has gone well past what one sample can carry. What it is good for is caution about the specific hope that the arrangement will become more on its own, because in the one group anybody has followed, that is the hope that was granted least often.
+
+The number you can actually establish is your own. Not the average length of a situationship, which nobody knows, but the length of this one, and whether it has moved in any direction since you last thought to check.
+
 ## When Does This Belong With Somebody Qualified Rather Than a Page Like This?
 
 Four situations, and none of them is the ordinary version this page is written for.
@@ -186,7 +200,9 @@ And if there is any thought of harming yourself, that belongs with a licensed pr
 
 For everybody else, and that is nearly everybody reading this, the rest applies.
 
-## Is Anything Actually Wrong With You?
+## Can an Undefined Relationship Be a Healthy Choice for an Adult?
+
+Yes, and for a good number of adults it plainly is one. The question sitting underneath that one is what most people actually arrive here carrying, so it is worth answering in the same breath. Is anything actually wrong with you?
 
 Probably not, and this needs saying early rather than in a closing paragraph nobody reaches.
 
@@ -370,7 +386,7 @@ The reasoning becomes a story at the point where it stops being checked. That is
 
 This root explains why leaving feels like wasting rather than like stopping, and it operates almost entirely outside your awareness.
 
-Effort gets read backwards as evidence of significance. The reasoning runs: I have put seven months into this, I have rearranged my weeks around it, I have thought about this person more than about anything else this year, therefore it must matter enormously. Turn that around and the direction of causation is at least as plausible in reverse. You have thought about it constantly because it is unresolved. Unresolved things demand attention regardless of their value. The intensity is reporting on the state of the question rather than on the size of the thing.
+Effort gets read backward as evidence of significance. The reasoning runs: I have put seven months into this, I have rearranged my weeks around it, I have thought about this person more than about anything else this year, therefore it must matter enormously. Turn that around and the direction of causation is at least as plausible in reverse. You have thought about it constantly because it is unresolved. Unresolved things demand attention regardless of their value. The intensity is reporting on the state of the question rather than on the size of the thing.
 
 The tells are quite distinctive.
 
@@ -398,9 +414,25 @@ Read the right-hand column slowly. Most people find one row lands quite differen
 
 Two notes on using it. Rows two and five combine frequently and reinforce each other, because protection that has been running for a long time generates exactly the investment that makes stopping feel like waste. And the row that fits can change without any decision being made, most often from row one into row two, which is why the private count is worth checking every few months rather than once.
 
+## Why Do I Keep Ending Up in Undefined Relationships With Different People?
+
+Because the part that repeats is smaller and more specific than a type, and it lives in a single moment rather than in a category of person.
+
+Every one of these arrangements contains a point at which a name could have formed and did not. Somebody nearly asked. An introduction nearly happened. A question was written into a message and then taken out of it again. That point arrives in every version, with every person, usually somewhere in the second or third month, and what you did at that point is what has stayed the same across all of them. It is a far narrower object than a preference for unavailable people, and it is the only part of the sequence you have any access to.
+
+This matters because the popular explanation runs the other way. You attract a certain kind of person. You have a type. Something about you signals availability to people who will not commit. Those explanations are comfortable in one specific respect, which is that they put the mechanism outside you, where you cannot work on it, and they are also the kind of account that cannot be wrong, since any run of arrangements can be described afterward as a type.
+
+The honest state of the evidence here is thinner than anybody writing about it lets on. Nobody has followed a person across two undefined arrangements. There is no research on repetition in this pattern at all. The work described further up this page looks at single arrangements, at one moment, mostly by asking people about them, and none of it was built to answer the question you are actually asking. Anybody handing you a mechanism for why this keeps happening is reasoning from a shape rather than reporting a result, and that includes this page.
+
+What can be said is what the second root above already implies. Protection that works never produces the failure that would make you abandon it, so a strategy that has kept you from being turned down for seven months arrives fully intact at the start of the next arrangement, unexamined and unchallenged by anything that happened. That is a mechanism rather than a finding, and it is offered as one.
+
+There is a cheap way to check whether any of this describes you, and it does not involve the person you are seeing now. Take the previous two arrangements and write down, for each, the week at which it stopped moving and what you did in that week. Most people find the same two or three actions in both, and find themselves reaching for the same words to describe them. If the two look nothing alike, the repetition is more likely to be circumstance than pattern, which is a genuinely useful thing to establish before you spend a year working on something about yourself that may not be there.
+
 ## How Do You Tell the Ambiguity You Chose From the Ambiguity You Are Enduring?
 
 This is the most useful thing on this page, and it is more reliable than any amount of introspection about your feelings, because feelings in this situation are contaminated by the thing you are trying to measure.
+
+One piece of evidence speaks to this question directly, and it is the interview work described further up this page. Many of the women Armstrong and colleagues spoke to were in these arrangements on purpose and could state what the arrangement was for, which establishes that the chosen version is an ordinary adult position rather than a story told after the fact. Fifty-three interviews in one country, gathered as recollection, with nobody followed over time and no comparison group, so what it settles is that both versions exist and close to nothing about which one is yours. The four checks below are the nearest available way to work out which.
 
 Four checks. None of them is decisive alone. Together they are usually unambiguous, which is a small irony worth enjoying.
 
@@ -521,6 +553,8 @@ One thing works immediately in every version, which is separating the drift from
 ## What Is Worth Doing This Week, Before You Change Anything?
 
 Nothing that involves them. Two pieces of writing, both private, both cheap, and neither one commits you to anything.
+
+Neither of them is an ultimatum. Neither of them is the silent alternative either, and that distinction is most of what makes the week worth spending. The recall work from Planalp and Honeycutt, described further up this page, found that the most common response to an event that raised somebody's uncertainty about a relationship was to do nothing about it and to reduce closeness quietly instead. That is retrospective self-report from modest samples in the 1980s, so it gives you a shape and no probability at all. The shape is the part that applies. Saying nothing is itself a move with a reliable result rather than a neutral position that holds the arrangement still, which is why a week spent measuring and a week spent waiting are different weeks.
 
 **The three sentences.** Write down, word for word and without improving them, three things.
 

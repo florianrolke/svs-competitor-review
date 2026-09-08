@@ -32,7 +32,7 @@ faqs:
 - q: "Does avoiding photographs hurt my children?"
   a: "Not on any given day, and possibly a great deal in aggregate. Children build a sense of family partly out of images, and the parent who is always behind the camera slowly becomes the parent who was apparently not there. Nobody notices while it is happening. It gets noticed once, decades later, by somebody sorting through a box and finding almost nothing."
 - q: "Am I being vain by not wanting to be photographed?"
-  a: "No, and the accusation gets the mechanism backwards. Vanity is caring about being seen well. This is more often the opposite, an attempt to not be assessed at all, which is why it so often coexists with genuinely not caring how you look on an ordinary Tuesday. Being told you are vain about it is one of the reasons people stop mentioning it."
+  a: "No, and the accusation gets the mechanism backward. Vanity is caring about being seen well. This is more often the opposite, an attempt to not be assessed at all, which is why it so often coexists with genuinely not caring how you look on an ordinary Tuesday. Being told you are vain about it is one of the reasons people stop mentioning it."
 - q: "Should I force myself to be in more photographs?"
   a: "Only if you know what the avoidance is doing first, otherwise you are overriding a behavior without touching what produces it. Force changes the visible result and leaves the mechanism intact, which is why people who make themselves pose for a year often still delete everything afterward. Start with what the camera is actually asking you, and the posing question answers itself."
 - q: "Why doesn't being told I look fine in the photograph help?"
@@ -156,7 +156,9 @@ The bill for the other side gets deferred by roughly fifteen years, and it arriv
 
 This is also why willpower does so little here. People decide, sincerely, that this year they will be in the pictures. They manage it twice at Christmas, delete both, and are back behind the camera by February, because nothing about the underlying arithmetic changed. The relief is still immediate and the cost is still invisible and thirty years away.
 
-## What Do Researchers Call This, and Where Do the Names Stop?
+## Why Do I Dislike Photographs of Myself More Than What I See in the Mirror?
+
+Because you have met the mirror version of your face tens of thousands of times and the photographed version a few hundred, so familiarity is producing the difference you are reading as information about how you look. The longer answer is two questions rather than one: what do researchers call this, and where do the names stop?
 
 There is no single term for the behavior, and five separate research vocabularies each capture a real piece of why the photograph feels wrong.
 
@@ -208,7 +210,7 @@ There are four jobs the avoidance does well, and every one of them is legitimate
 
 So the sorting question has nothing to do with how much you enjoy being photographed. What matters is what the avoidance is taking, and from whom. The next section makes that concrete.
 
-## What Separates a Preference That Costs You Nothing From an Absence That Erases You?
+## How Can I Tell a Harmless Preference From Photo Avoidance That Is Erasing Me From the Family Record?
 
 The record, and you can read it in twenty minutes tonight without changing a single thing about yourself.
 
@@ -231,7 +233,9 @@ The clean test takes one evening and no decisions. Open your photograph library.
 
 Most people find one of two things. Either there are fewer than they assumed but the record is basically intact, in which case the preference has been costing them nothing and they can close this page with a clear conscience. Or a whole year comes back with two results in it, both from a work event, and the person doing the searching goes very quiet. That second outcome is the one this page is written for, and the thing to notice about it is that the cost has nothing aesthetic in it whatsoever. The cost is a gap in something other people will use.
 
-## Why Do Two People Step Out of the Same Group Shot for Completely Different Reasons?
+## How Do I Figure Out Whether Appearance, Being Seen, Privacy, a Bad Period, or Habit Is My Real Reason?
+
+By the tell rather than by the behavior, which means starting somewhere that sounds like a detour: why do two people step out of the same group shot for completely different reasons?
 
 Because the visible behavior under-determines its cause, every single time.
 
@@ -363,13 +367,15 @@ There is a second layer that makes it stickier. Being useful is a genuine identi
 
 The test for whether the camera role has become a hiding place is straightforward and slightly uncomfortable. At the next gathering, hand the phone to somebody else and stay where you are. Notice what happens in your body during the four seconds that follow. If nothing much happens, this was never a hiding place and you were simply the person who takes good pictures. If something specific happens, you have just found the thing.
 
-## What Happens to the Record When You Are Always the Photographer?
+## Does Taking the Pictures Instead of Appearing in Them Change What I Remember?
+
+It changes both, and the record goes first, so take that half first: what happens to the record when you are always the photographer?
 
 It becomes a complete account of everybody except one person.
 
 This is the part that gets noticed late, because photograph libraries are searched by event rather than by person. Nobody scrolls through a decade counting who is in the pictures. So the library builds, year by year, thorough and affectionate and full of people, with a consistent hole in it that nobody sees while it is forming.
 
-The shape it takes is specific and recognizable. There will be a great many pictures of one parent with the children and almost none of the other. Every holiday will be documented from a single fixed point of view. There will be photographs of meals, rooms, views, dogs and other people's birthdays. There will be no photograph of the person who made the whole thing.
+The shape it takes is specific and recognizable. There will be a great many pictures of one parent with the children and almost none of the other. Every vacation will be documented from a single fixed point of view. There will be photographs of meals, rooms, views, dogs and other people's birthdays. There will be no photograph of the person who made the whole thing.
 
 Then there is the second effect, the one the research points at. Henkel found that photographing objects made people remember them less well, and Barasch and colleagues found that photo-taking shifted what got retained rather than simply reducing it. Whichever version is closer to right, the person behind the camera is not having the same afternoon as everybody else. They are framing, checking, retaking, and managing a device. A decade of that is a decade of slightly mediated Saturdays, which is a quieter cost than the missing pictures but it is a real one.
 
@@ -411,7 +417,9 @@ The third is a signal you may not know you are sending. Repeatedly leaving the f
 
 Set against those, the aesthetic question weighs almost nothing. Whether you look good in a photograph will matter to nobody, ever, including you, once enough time has passed. Whether a photograph exists will matter to somebody.
 
-## What Do Your Children Actually See in a Photograph of You?
+## What Do My Children Lose When I Am Always Behind the Camera?
+
+Photographs they would have looked at differently from the way you look at them, which is why the question underneath this one has to come first: what do your children actually see in a photograph of you?
 
 Not what you see. Not remotely what you see, and this is worth sitting with for a minute.
 
@@ -428,6 +436,8 @@ Because the relief is immediate and the loss is silent, so only one of them is a
 Deleting closes the gap instantly. The evidence contradicting your internal picture stops existing, the small unpleasant flicker stops, and there is a clean feeling of having handled something. That feeling is real and it arrives inside a second, which is why the behavior is so durable.
 
 What the delete also does is permanent, and produces no feeling at all at the time. Nothing happens when a photograph goes. There is no sound and no consequence. The cost registers only years later, in an absence you cannot point to, which is exactly the kind of cost human beings are worst at pricing.
+
+The structure under that is a general model rather than anybody's single result, and it is worth saying so plainly: a move that ends something unpleasant is kept alive by what happens in the second after it rather than by whether it was a good idea, which is why deleting gets easier every time and the argument against it never turns up at the moment it would matter. [The same structure is set out at length on the page about the mail that never gets opened](/patterns/not-opening-the-mail/), and the limit travels with it, since the model explains why the behavior repeats and says nothing at all about which pictures you would have wanted back.
 
 There is a cheap intervention here that is worth more than it sounds. Stop deleting for thirty days. Do not look at them, do not post them, do not do anything with them. Move them into an album you never open. The point is to interrupt an irreversible action with a reversible one, and to move the decision to a version of you who is not currently standing in the four seconds after seeing the photograph. Most people find that when they open the album two months later, the contents have quietly become unremarkable.
 
@@ -472,6 +482,8 @@ The sequence below is not a method to be applied uniformly, because the whole ar
 **If it is habit, change the behavior directly and skip the excavation.** Stay in ten photographs. Notice that nothing happens. That is genuinely most of the work for this root, and doing deep self-examination instead is a waste of a year.
 
 **And stop the pre-emptive delete for thirty days, whichever root you are in.** It is reversible, it costs nothing, and it moves an irreversible decision away from the worst possible moment to make it.
+
+Bornstein reviewed the exposure literature up to 1987 in Psychological Bulletin in 1989 and reported that the size of the effect moves with what is being shown, how long each look lasts, how the presentations are spaced, and who is doing the looking, which makes exposure a mechanism rather than a fixed quantity. Nothing in that review concerned your own face in your own photograph library, so it establishes that repetition is the active part and it cannot tell you how many pictures over how many months would shift anything for you.
 
 Expect a dip. You go through the withdrawal in the beginning, and it feels as though something is missing in the meantime. In this case what is missing is the relief of the sidestep, and it is missing at every gathering for about a month. Most people find quite quickly that they can live without it very easily.
 

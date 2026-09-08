@@ -48,7 +48,7 @@ faqs:
 - q: "What if the win was not the one I actually wanted?"
   a: "Then the flatness is information rather than a symptom, and the useful question changes completely. Most people carrying this root have a private answer to what would actually count and have never said it out loud, sometimes because saying it would make the last several years look like a detour. That is worth a serious conversation rather than a technique. No amount of marking will make the wrong result register."
 - q: "Why is stopping harder than starting the next thing?"
-  a: "Because continuation is loaded and stopping requires a deliberate act. By the time a result lands, the next thing already has a date, a document and somebody expecting it, so moving forward takes no decision at all. The pause takes one. If this is your root, you will notice that a real holiday works after about three days, because the momentum finally runs out on its own."
+  a: "Because continuation is loaded and stopping requires a deliberate act. By the time a result lands, the next thing already has a date, a document and somebody expecting it, so moving forward takes no decision at all. The pause takes one. If this is your root, you will notice that a real vacation works after about three days, because the momentum finally runs out on its own."
 - q: "Can you be burned out while everything is going well?"
   a: "Yes, and it is one of the more common versions people fail to recognize, because the standard picture involves things going badly. A run of results that never register produces effort with no return arriving, which is a reliable way to flatten somebody regardless of how the outcomes look on paper. The tiredness is real and the achievements are real. The connection between them is what has gone missing."
 - q: "What does this cost me if I just leave it?"
@@ -132,6 +132,18 @@ Then the filing. The email is archived. The document is moved. And the thing is 
 
 Here is what somebody watching would see across all five steps: a person receiving good news and getting on with their work. Which is why this has never been named in your life by anybody, and why nobody has ever suggested it is worth looking at.
 
+## Why Do My Achievements Stop Feeling Good Almost Immediately?
+
+Because nothing about the feeling fades on its own. It gets ended, and you are the one ending it.
+
+That distinction carries more than it looks like. Fading is passive, happens to you on a curve you cannot influence, and leaves nothing to work with. Ending is something a person does, in specific acts, at a specific moment, and anything a person does can in principle be done differently. Almost everybody carrying this reports it as fading, because the acts run so fast and so familiarly that they never register as acts at all.
+
+Quoidbach and colleagues put numbers on those acts in 2010. They compared eight strategies people use when something good happens and sorted them into four that extend positive feeling and four that shorten it. The four that shorten it are suppressing the outward display, moving attention onto something else, finding the fault in the good thing, and traveling forward to a version of the future where it comes apart. In their data those four ran with lower reported happiness. Set them against your own four minutes. The step where the result gets marked down is fault-finding. The move to what this means for the next quarter is attention-shifting and future travel. The neutral face you hold at the dinner is suppression. Three of the four, inside the same four minutes, almost every time.
+
+What that finding does not do is tell you why you run them. It reports an association between what people say they do and what they say they feel, collected across a sample at a single point, which can show you that these acts travel with lower reported happiness and cannot show you that yours caused yours. Somebody who suppresses because a good result at home was always taken apart within a minute and somebody who suppresses because a meeting starts in four minutes will answer the same item the same way. The acts are identical. The reason underneath them is where this page eventually has to go.
+
+The practical value is narrower and still worth having. You now have four names for four things you can catch yourself doing, and catching yourself doing something is a very different position from feeling a good result drain away for reasons you cannot see. The first is a habit with parts. The second is something that simply happens to you.
+
 ## Why Can You List What You Missed and Not What You Finished?
 
 Because the unfinished has a filing system and the finished does not.
@@ -161,6 +173,8 @@ So let us be precise about which drive is in the room, because there are two and
 The first costs nothing. It moves quickly, wants the next thing, and enjoys the wanting. Crucially, it has a working return channel. The person who has it can tell you three things they finished this year, without checking, and will tell you with mild pleasure. The pace is fast and the evidence still lands. There is nothing to fix here and nothing on this page applies.
 
 The second looks the same at the level of behavior and has no return channel at all. The result is absorbed and produces nothing. The count is unavailable. And the standard moves before the result has landed, so the target rises every time and never gets checked against anything that actually happened. That is the version that flattens people, and it flattens them while everything is going well, which is what makes it so hard to see.
+
+There is a mechanism sitting under that difference and it has been named for a long time. Carver and Scheier proposed in 1990 that feeling tracks the rate of progress toward a goal rather than the position reached, compared against a reference rate you carry without ever inspecting it. Lift the reference rate every time something lands and the comparison comes out flat regardless of how fast you are actually moving, which is how a decade of results can be produced by somebody who experiences the whole decade as standing in one place. Worth stating the limit in the same breath: that is a proposed control model rather than a measured effect in you, and it accounts for why the pull toward the next thing exists in everybody, not for why nothing in your week ever interrupts it.
 
 This is for people who have ambition. This is not for people who are lost. If you are lost you may still recognize something here, though the sharpest version of this pattern shows up in somebody who knows exactly where they are going and simply cannot register having arrived anywhere along the way.
 
@@ -207,6 +221,16 @@ One further boundary is worth naming carefully. There is a version of this where
 
 Everything below is written for the ordinary and quietly expensive case: real results, real drive, and a pause that has never once happened.
 
+## How Is Savoring Measured?
+
+With a set of items people answer about themselves, which is worth knowing before you take any savoring result too seriously.
+
+The instrument is the Savoring Beliefs Inventory. Bryant published it in 2003 in the Journal of Mental Health across six validating studies, and it is named here by year and journal rather than by its title, which uses the British spelling of the word. Its design follows the three time frames the model runs on. Some items ask about looking forward to something good that has not happened yet. Some ask about being inside a good moment while it is going on. Some ask about going back over a good thing afterward. A person can score high on one and low on another, which is the first useful thing the questionnaire gives you. Savoring behaves as three capacities rather than one, so the December blankness and the four minutes in April can be two separate results rather than one problem.
+
+Now the limit, which is larger than most write-ups admit. The scale measures beliefs about the capacity, reported by the person, at one sitting. It asks whether you think you are able to enjoy looking forward to things, not whether you enjoyed looking forward to anything last month. Somebody who registers good results well and takes a modest view of themselves will score low. Somebody who registers almost nothing and answers the way a competent person is supposed to answer will score high. In the 2003 report the scores lined up with what you would expect them to line up with, including optimism, life satisfaction and self-esteem, and ran the other way against a standard measure of negative emotionality. Those relationships are real, and they are relationships among answers a person gave about themselves, collected at the same moment, which is a narrower claim than it usually gets quoted as.
+
+So there is a measure, it is respectable, it has been in use since 2003, and it cannot give you a number worth acting on. What it is genuinely good for is the separation it forces. Looking forward, holding, and going back over are three different acts, and knowing which of the three has never worked in you is more useful than any score the questionnaire would return.
+
 ## Why Do Two People Skip the Same Celebration for Completely Different Reasons?
 
 Because what you can see above the soil reports almost nothing about what is feeding it.
@@ -223,7 +247,7 @@ Here are the roots I see most often producing the identical missing pause, in pe
 | Superstition about satisfaction | Avoiding the moment where you stand still in front of a good outcome, because that is the moment the floor has given way before | A small physical flinch at saying out loud that something went well, an urge to knock on wood, and a list of what could still go wrong arriving within seconds of good news |
 | No template at home | Performing achievement the way it was performed for you, which was as a nod and a question about the next one | You can describe how results were received in your house in one sentence, marking your own feels like showing off, and you are far more comfortable celebrating other people |
 | The win was not the one you wanted | Reporting accurately that the thing which landed is not the thing being asked for | The flatness is selective rather than total, one small unrelated thing did land last year, and you have a private answer to what would actually count that you have never said aloud |
-| Momentum | Nothing at all, in the sense of protection. The next thing is loaded and stopping requires a deliberate act that continuing does not | The pause feels physically effortful rather than frightening, a real holiday works after about three days, and the not-marking extends even to things you do not care about |
+| Momentum | Nothing at all, in the sense of protection. The next thing is loaded and stopping requires a deliberate act that continuing does not | The pause feels physically effortful rather than frightening, a real vacation works after about three days, and the not-marking extends even to things you do not care about |
 
 Take the second and the fifth, because from outside they are the same person. Both receive a promotion, both give it four minutes, both name the next target at dinner. The second one is managing an expectation of cost, and telling them to slow down and enjoy it is asking them to stand in the exact place they have learned is dangerous. The fifth one has no fear in the picture whatsoever and simply lives inside a system where continuing is free and stopping is expensive, and for them a ten-minute bounded stop with a written line at the end resolves a surprising amount within a month.
 
@@ -231,7 +255,7 @@ Hand the second person the fifth person's method and it will be attempted twice 
 
 Which is why one piece of advice transforms somebody's year and does nothing at all for the person next to them. [The mechanism behind that has its own page.](/patterns/why-did-the-advice-that-worked-for-them-do-nothing-for-me/)
 
-And it is worth saying what follows from this about method generally. All you can really do is test the hypothesis whether it is going to work. Nobody can really tell you in advance, and it would be humorous to think that you can just make a plan that is going to work on the first strike. Life rarely works that way. You take the most likely root, run it for a fortnight, and read what comes back, which is a slower and far more honest process than reading a list of five roots and picking the one that sounds most like a person you would prefer to be.
+And it is worth saying what follows from this about method generally. All you can really do is test the hypothesis whether it is going to work. Nobody can really tell you in advance, and it would be humorous to think that you can just make a plan that is going to work on the first strike. Life rarely works that way. You take the most likely root, run it for two weeks, and read what comes back, which is a slower and far more honest process than reading a list of five roots and picking the one that sounds most like a person you would prefer to be.
 
 ## Why Does Being Congratulated Land as Pressure Rather Than Pleasure?
 
@@ -240,6 +264,8 @@ Because a congratulation is the pause, imposed from outside, with a witness atta
 Alone, the four minutes are frictionless. Nobody sees the discount happen. There is no moment where you have to be visibly the person who did something. A congratulation removes both of those. Somebody stops, turns toward you, and holds several seconds of open attention on a result of yours, and the only socially available response is to stand there inside it.
 
 So you close it. And the way you close it is the interesting part, because it is the one exit that costs nothing. Thank you, and then the next target. Thank you, and then what still needs to happen. Thank you, and then a deflection to whoever else contributed. All three end the moment. All three read as modesty or drive, so the other person accepts them and moves on, and nothing about the exchange ever tells you what you just did.
+
+There is one more thing worth knowing about that closure, and it explains why nobody ever corrects you for it. A body of research on what happens when a person brings a good result to somebody else has found that the engaged, interested response is the one that predicts how things go between them afterward, while a mild and pleasant response does close to nothing. The names and dates for that work sit on [the page that runs in the other direction](/patterns/going-quiet-when-others-succeed/), on what you do with somebody else's result, so I am describing the finding here rather than re-citing it. Read it backward and it is a precise account of your side of the dinner. Somebody offered you the engaged version, you handed back a plan for the next quarter, and the whole exchange closed so smoothly that neither of you could have said afterward what had just been declined.
 
 Watch the other side of it over a longer horizon. Somebody offers warmth. They receive a project update. Most people adjust within two or three attempts, and stop offering. Almost nobody will tell you this happened. What you notice, a year or two later, is that good news about you gets mentioned in passing by people who used to make something of it.
 
@@ -251,6 +277,20 @@ There is a second-order cost that people underrate. A partner or a close friend 
 | Ambition, and a reasonable point about Q3 | A subject change immediately after their sentence |
 | Modesty, and not wanting to make a thing of it | A person who does not want this from them |
 | Nothing worth noting, it barely registered | A decision about what to bring you next time |
+
+## How Can Not Celebrating My Wins Affect My Partner?
+
+Mostly by teaching the person you live with what this house does with a good result, which is a larger lesson than the one about your promotion.
+
+Take the direct version first. Somebody who lives with you hears the news early, usually before anybody else, and offers the thing people offer. You say thank you and name what still needs doing. They learn from that the way anybody learns from two or three attempts, and after a while your results arrive at home as an update rather than as an event. Most partners never mention having made the adjustment, partly because it happens by degrees and partly because it sounds petty put into words. The conclusion they end up holding is usually harsher than the truth. They decide you did not want it from them.
+
+Then the version people underrate. A house runs one policy on results, not two. Once the policy is that something finished gets acknowledged briefly and converted into the next item, it applies to whoever happens to be standing there. Your partner's promotion, the thing they finished, the small good day they had, all get the same efficient handling, and they will stop bringing those too. Plenty of couples arrive at a quiet arrangement in which nothing is ever marked by anybody, and both of them privately assume the other one prefers it that way.
+
+The third one is the record again, at the scale of two people. A pair who have been together a long time and have marked nothing between them have no shared account of what they built, which costs nothing at all until the year something goes badly and there is nothing to read except the bad stretch.
+
+Two limits, and both matter. The research behind the first of those is about how people respond to a result somebody brings them, measured in couples who signed up for studies about other things, and it establishes that responses differ in what follows them. It does not establish that your unmarked results are damaging your relationship, and no page is in a position to tell you that. [The page carrying those names in full is the one about a partner who feels unloved despite genuine effort.](/patterns/why-doesnt-my-partner-feel-loved-even-though-i-try/)
+
+The second limit is about what to do with any of it. This page will not hand you a script for a conversation at home, because the pattern under discussion is yours and it runs the same way in people with no partner at all. If the paragraphs above landed, the move is the one the rest of the page describes: mark one finished thing, tell one person once, and watch what comes back. The relationship is the setting the pattern shows up in, and the pattern is the thing to work on.
 
 ## Why Does the Evidence Never Reach You?
 
@@ -303,6 +343,10 @@ If a specific scene arrives instantly, with a room and a person in it, that is o
 
 There are two common versions and neither involves anybody being unkind. In the first, achievement was the expected baseline. Good results were what the household produced, so a good result was met with quiet acknowledgment and then a question about the next thing, because that was the natural continuation. Nobody was withholding. There was simply nothing to celebrate about meeting a standard. In the second, the result was received and immediately located on a map: how it compared, who did better, what it means for the year after next. The comparison was usually meant as encouragement and it functioned as a redirect.
 
+There is a measured version of that difference, and it is narrower than the use people make of it. Halberstadt reported in 1986 in the Journal of Personality and Social Psychology on a questionnaire asking people how much emotion of various kinds got expressed in the family they grew up in, and found the answers tracked how expressive those same people were and how well they read expression in others. Families do differ on this in a way that can be measured, and coming out of a low-expression one leaves you with less practice at a whole class of visible acts, of which marking your own result is one.
+
+Now what it cannot carry. That study ran on 64 students answering questions about their own families, and it measured expressiveness in general rather than anything to do with achievement. It cannot tell you that your family caused the embarrassment, and it cannot rule out that the way your family ran and the discomfort you feel now both come from something the two of you share. What it does give you is a reason to stop reading the embarrassment as a fault in you. It is an act you have never practiced, and an unpracticed act feels exactly like this the first several times.
+
 The consequence in adulthood is a missing rehearsal rather than a wound in any dramatic sense. You cannot perform an act you have never watched anybody perform, and marking your own result with nobody else in the room is an act. When you try it, it feels theatrical and slightly ridiculous, which is precisely how any unrehearsed act feels the first four or five times.
 
 This root also explains a detail people find confusing about themselves: you are excellent at marking other people's achievements. You remember, you make something of it, you are warm about it and you mean it. The template exists for others. It was never demonstrated pointing inward.
@@ -329,7 +373,7 @@ Stopping requires a decision, and it requires it at the single worst moment: the
 
 Complexity compounds this quietly. You need the job, so you need the car, so you need the insurance, and then the appliances in case something goes wrong with the car, and each of those brings its own small maintenance. A life with a lot of moving parts leaves very few unclaimed minutes, and a pause needs an unclaimed minute to happen in. Life becomes simple if you simplify it, though most people never find out, because we get caught up with all of the strangest things that can be there in a life.
 
-Two signs tell you this is your root rather than one of the other four. The pause feels effortful rather than dangerous or embarrassing, which is a different sensation and easy to tell apart once you look for it. And a genuine holiday works: after about three days the momentum finally runs out on its own and you find yourself able to think about what you did, which almost never happens at home.
+Two signs tell you this is your root rather than one of the other four. The pause feels effortful rather than dangerous or embarrassing, which is a different sensation and easy to tell apart once you look for it. And a genuine vacation works: after about three days the momentum finally runs out on its own and you find yourself able to think about what you did, which almost never happens at home.
 
 If this is you, the fix is unglamorous and mostly structural. The stop has to be scheduled like anything else, and it has to be short enough that scheduling it is not absurd. Ten minutes on the day something finishes, with the calendar entry already written before the thing finishes.
 
@@ -387,6 +431,8 @@ Three components, all small, none of which involve other people finding out unle
 
 **One person told, once, plainly.** This is the hard component and it is the one the monitoring research points at directly. Tell somebody the thing happened. Do not attach the next target to the sentence. Do not add the qualifier about how it was overdue anyway. Say the thing, stop talking, and let the several seconds happen.
 
+That third component is the one with the most evidence behind it. Harkin and colleagues pooled 138 studies covering more than 19,000 participants in 2016 and found that prompting people to monitor progress toward a goal improved how much of it they attained, with a larger effect where progress was physically recorded and larger again where it was reported to another person. Those two moderators are the record and the person told, in that order. The honest gap is that every study in that pool prompted the monitoring of a goal still in motion, so what got measured is the effect of tracking something unfinished rather than the effect of marking something already done. The moderators are the reason to bother. Direct evidence for the finished-thing version does not exist, and this page would rather say so than borrow a meta-analysis for a claim it never made.
+
 Now the prediction, which is where this gets useful. When you try it, one of four things will show up, and which one arrives tells you more than any amount of reflection.
 
 | What shows up when you try it | What it points at |
@@ -417,7 +463,7 @@ Four things, in roughly this order, and none of them is understanding the page b
 
 **One arrangement, changed this week.** A recurring ten-minute entry in the calendar, placed on the day your projects usually land. A physical notebook in a specific place rather than an app you will forget. A standing arrangement with one person, one sentence long: when something finishes, you tell them, and they are allowed to make something of it.
 
-**A two-week test rather than a resolution.** Take the root that fits best from the table above and run its method for a fortnight. All you can really do is test the hypothesis whether it is going to work. You take your best reading, you run it, and you read what comes back. It rarely works on the first strike, and if the first thing you try does nothing, that result is worth having rather than being evidence about you.
+**A two-week test rather than a resolution.** Take the root that fits best from the table above and run its method for two weeks. All you can really do is test the hypothesis whether it is going to work. You take your best reading, you run it, and you read what comes back. It rarely works on the first strike, and if the first thing you try does nothing, that result is worth having rather than being evidence about you.
 
 **An honest budget for what it costs.** You have to give up more than you would expect to give up, and here what you give up is mostly not time. It is the small ongoing comfort of never having to stand still in front of your own results, which is a genuine comfort even though it costs you December. Expect to feel something missing for the first few weeks. That feeling is always present in the middle of a change like this and it passes faster than people believe.
 

@@ -283,6 +283,8 @@ You can be alone in a house full of sleeping people and still be on duty, becaus
 
 There is a straightforward test. Watch what happens on a night when the house is empty for some other reason, when your partner is away or the kids are at their grandparents. If you go to bed at half past ten on that night, easily and without any drama, the hour was about the quiet rather than the clock, and the quiet only arrives late because that is when everybody else stops.
 
+The same test explains something people rarely admit, which is that watching a partner head up to bed can make staying down feel more necessary rather than less. Their going up marks the moment the last awake person in the house stops being awake, so the only stretch that was ever going to be unobserved finally begins, and following them would mean the day ended without ever containing it. The gap between their bedtime and yours is usually a difference in internal timing rather than a difference in resolve, and [the cost it collects at the other end of the night is worked through on the page about waking up already behind](/patterns/waking-up-already-behind/). I am describing a timing difference here rather than reporting a measured finding about one, because the work on this behavior has measured individuals, and I can point to nothing that looked at what happens in a house when somebody else goes up first.
+
 What makes this root difficult is that the need is real. People who absorb other people all day, who spend their working hours reading rooms and managing tone, do genuinely need a stretch where nothing is being read and nothing is being managed. Treating that as a discipline problem is a category error, and it produces the specific misery of somebody trying to willpower their way out of a legitimate need. [Absorbing what everybody else is feeling all day has its own page](/patterns/why-do-i-absorb-other-peoples-emotions/), and [so does the sense of being the one everybody depends on](/patterns/feeling-responsible-for-everyone/).
 
 The work here has nothing to do with needing it less. What changes is getting it in a form that does not cost the following day, which usually means finding a place rather than a time: a locked door, a car at lunchtime, twenty minutes of walking that happens before you come in rather than after everyone goes up. For a lot of people that single relocation does most of the available work, and it is worth trying before anything more ambitious.
@@ -329,7 +331,7 @@ Two of those rows have pages of their own, and it is worth being precise about t
 
 ## Is "This Is My Only Time" an Explanation or an Excuse?
 
-Both sentences sound identical, and the difference only shows up in what happens in the fortnight afterward.
+Both sentences sound identical, and the difference only shows up in what happens in the two weeks afterward.
 
 This distinction matters more than almost anything else here, so I want to make it carefully. We want to make the distinction between giving something an explanation and turning it into a story, so we have an excuse. The same words, containing exactly the same true facts, can do either job.
 
@@ -409,6 +411,8 @@ Read the right-hand column and notice how unheroic it is. None of that requires 
 
 Here is the honest sequencing, because getting it wrong is what has cost you the last three attempts. Supply first, for two or three weeks, while continuing to stay up exactly as late as you currently do. Do not change the bedtime at all in that period. Then check what has already happened to it without being asked. A large proportion of people find the hour has shortened by twenty or thirty minutes on its own, which is both a real gain and a piece of evidence about which root is theirs.
 
+One version of that order has been put to a test. Valshtein and colleagues ran two randomized trials, published in Psychology and Health in 2020, in which people spent a few minutes online pairing the result they wanted with whatever actually gets in its way, then set an if-then plan aimed at that obstacle, with no bedtime handed to them at any stage. In both trials people came out more committed to stop postponing bed, and the nightly delay they reported, counted in minutes, got smaller. The limits belong right here with the result: the samples were 383 and 221 undergraduates, the delay was reported by the people doing it rather than measured on them, and the checks came at one week in one trial and at three weeks in the other, so what this supports is that something other than a bedtime can move the minutes, and not that the movement survives a year. [The planning method itself, and the researchers who built it, are covered on the page about motivation running out](/patterns/why-does-motivation-always-run-out/).
+
 ## What Does an Ending Look Like When You Build One on Purpose?
 
 Small, dull, repeatable, and nothing whatsoever to do with your bedroom.
@@ -477,7 +481,9 @@ Noticing arrives fast. Within a week of the log, most people can see their own s
 
 Shifting it takes months, because it moves at the pace of a rebuilt week rather than at the pace of insight. Every claimed daylight hour, every night with an ending in it, every plan written at nine instead of dreaded at midnight, is a small structural change, and the hour recedes at the speed those accumulate. Understanding this page thoroughly, on its own, will change remarkably little.
 
-It also comes back in patches, and it comes back first in the weeks you are already struggling, which is exactly when it feels like proof that nothing took. It is not proof. A pattern that was built as a solution returns whenever the conditions it solved for return, and a brutal fortnight reproduces those conditions faithfully.
+It also comes back in patches, and it comes back first in the weeks you are already struggling, which is exactly when it feels like proof that nothing took. It is not proof. A pattern that was built as a solution returns whenever the conditions it solved for return, and a brutal two weeks reproduces those conditions faithfully.
+
+One honest qualification belongs on that answer, because there is less measured ground under it than the answer sounds like there is. The two trials named further up checked their results at one week and at three weeks, and I can point to nothing that has followed people with this pattern for longer, so the months I gave you come from what rebuilding a week actually takes rather than from a study that ran that long. The familiar day counts that circulate for habit change were measured on people adding a daily action rather than on people ending a nightly one, which makes them a starting estimate for the ending you are building and not a promise about the hour.
 
 That is a slow answer, and I would rather hand you a slow true one than a fast route that does not exist. Life becomes incredibly simple if you simplify it, though simple and easy are different things, because we get caught up with all of the strangest things that can be in a life. The basics are short enough to count on one hand: what you eat, moving your body, sleeping, and time with the people closest to you. You can get to the life you want by getting those right, with no advanced sophistication, and by giving it time. This particular hour sits directly on top of two of the four, which is why it is worth more attention than a habit of its size appears to deserve.
 

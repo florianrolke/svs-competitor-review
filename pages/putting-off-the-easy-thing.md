@@ -467,7 +467,7 @@ Every one of those readings is free, instantly available, and largely true. Size
 
 Now try that with the bulb. There is no version of the sentence where the bulb was complicated. There is no circumstance to point at, no other person involved, no cost, no risk, no obstacle of any kind. Which makes it the only item on your list capable of returning a verdict about you, and it returns one every single time you walk into that room.
 
-That is exactly backwards from what the content would predict, and it is why this pattern is so much more corrosive than its subject matter deserves. The item with the least in it hurts the most. People will describe their stalled business calmly and then go quiet about a light fitting.
+That is exactly backward from what the content would predict, and it is why this pattern is so much more corrosive than its subject matter deserves. The item with the least in it hurts the most. People will describe their stalled business calmly and then go quiet about a light fitting.
 
 Be precise about what the verdict actually says, because it is not the obvious one. Laziness would never survive your own evidence, since you worked hard all week. What the record actually says is narrower and lands harder: that a thing you decided to do can simply not happen, indefinitely, with nothing stopping it. Which raises a question about every other thing you decide.
 

@@ -33,7 +33,7 @@ faqs:
 - q: "Is this the same as codependency?"
   a: "They overlap without being identical. Codependency describes a broader relational pattern of organizing your life, your decisions, and your sense of worth around somebody else's needs. Absorbing their emotions is the narrower, felt mechanism that often sits underneath it: their state arrives in your body first, and the organizing follows from there. You can absorb a mood from a stranger you have no relationship with at all."
 - q: "Why do I feel my mother's disappointment in my body before she has said anything?"
-  a: "Because a caregiver's emotional state once predicted what happened to you next, so the body learned to detect it early, in posture, breathing, and the length of a pause, ahead of conscious thought. That detection system does not retire when you move out. It keeps running with the same person decades later, which is why one phone call can reorganise a week that was otherwise going fine."
+  a: "Because a caregiver's emotional state once predicted what happened to you next, so the body learned to detect it early, in posture, breathing, and the length of a pause, ahead of conscious thought. That detection system does not retire when you move out. It keeps running with the same person decades later, which is why one phone call can reorganize a week that was otherwise going fine."
 - q: "Why do I take on my children's emotions so intensely?"
   a: "The absorption does not sort by relationship, so a child's distress can land with the same speed and force a parent's disapproval once did. Many parents find this the hardest version, because staying separate feels like not caring. Children regulate by borrowing an adult's steadiness, so remaining steady enough to be borrowed from is usually more useful to them than matching their distress."
 - q: "Am I secretly resentful of people for making me feel their feelings?"
@@ -55,7 +55,7 @@ faqs:
 - q: "Can you actually absorb other people's emotions, or does it only feel that way?"
   a: "Both descriptions point at the same event. Nothing travels through the air between two people. Your nervous system reads their tone, face, posture and pace fast enough that the resulting state arrives with no sense of having been assembled, so it feels received rather than made. Whether you call that absorbing or fast unconscious reading changes nothing about the afternoon it takes. The detection tends to be accurate, and the boundary is the piece that never got built."
 - q: "What does it mean when you absorb other people's energy?"
-  a: "Energy is the everyday word for a state you took on without deciding to. Somebody's irritation, dread or excitement registers in your body first and gets explained afterwards, sometimes minutes later, which is why it feels like something transferred between you. The useful half of the phrase is that it points at a real event. The unhelpful half is that energy sounds like weather, when what happened was a reading your nervous system made and never labeled as theirs."
+  a: "Energy is the everyday word for a state you took on without deciding to. Somebody's irritation, dread or excitement registers in your body first and gets explained afterward, sometimes minutes later, which is why it feels like something transferred between you. The useful half of the phrase is that it points at a real event. The unhelpful half is that energy sounds like weather, when what happened was a reading your nervous system made and never labeled as theirs."
 - q: "Why do I absorb other people's personalities and not just their moods?"
   a: "Because the same borrowing runs on speech patterns, opinions, humor and pace, particularly around somebody whose signal is stronger than yours. People in this pattern often notice they become a slightly different person with each friend, then wonder which version is the real one. All of them are, and the shifting settles as your own reference point gets steadier. A few days alone, watching what you actually prefer, is the quickest way to find it."
 - q: "What are the signs I have taken on my partner's stress as my own?"
@@ -111,7 +111,7 @@ Most people arrive at this question carrying one specific relationship: a partne
 
 Like a mood arriving in your body with no memory of having agreed to take it on.
 
-The ordinary versions are more recognisable than the dramatic ones:
+The ordinary versions are more recognizable than the dramatic ones:
 
 - Your partner comes home irritated about something at work, and within twenty minutes you are irritated too, at nothing in particular of your own.
 - A friend texts you something upsetting mid-afternoon, and you carry the heaviness of it through the rest of your workday as though it had happened to you directly.
@@ -178,7 +178,7 @@ This is also why the most common advice fails so completely. Telling somebody in
 
 ## Is It Absorption, or One of the Things It Gets Confused With?
 
-Worth checking carefully, because seven neighbouring things produce similar-looking weeks and the right response to each one differs completely.
+Worth checking carefully, because seven neighboring things produce similar-looking weeks and the right response to each one differs completely.
 
 | What you are noticing | What it might actually be | The thing that tells them apart |
 |---|---|---|
@@ -199,7 +199,7 @@ The scanning row matters for a different reason. Plenty of people who read a roo
 
 Because the mechanism was trained on proximity and intensity, and never on relationship.
 
-This is the part that most convinces people something is wrong with them, because they expect the reaction to be proportional to how much they care. A stranger's irritation in a queue takes the afternoon. A colleague you do not particularly respect goes quiet in a meeting and you spend the drive home reconstructing it. Meanwhile a friend's genuinely difficult news might land more lightly. There is no ranking system inside this. Whatever state is closest and loudest is what gets picked up.
+This is the part that most convinces people something is wrong with them, because they expect the reaction to be proportional to how much they care. A stranger's irritation in a line takes the afternoon. A colleague you do not particularly respect goes quiet in a meeting and you spend the drive home reconstructing it. Meanwhile a friend's genuinely difficult news might land more lightly. There is no ranking system inside this. Whatever state is closest and loudest is what gets picked up.
 
 Screens count too. Distress arriving through a documentary, a news cycle, or a comment thread gets processed with much the same equipment as distress arriving from the next chair, which is why a film can flatten an evening and why some people avoid the news without being able to justify it. While the boundary is still being rebuilt, choosing deliberately what you sit in front of is a practical measure rather than a weakness.
 
@@ -297,4 +297,4 @@ Run an origin log for forty-eight hours. Open a note on your phone, and every ti
 
 Then read it on the second night, and look only at the third column. Two things usually turn up. The first is how many of the shifts have somebody in that column at all, which is nearly always a higher proportion than people expect, and which is worth seeing in your own handwriting rather than being told. The second is more useful still: how few of those you would have attributed to another person at the time. Most of them felt, in the moment, like your own mood arriving for your own reasons. Seeing a timestamp next to a person's name does more for the half-second gap than any amount of resolving to have better boundaries, and it costs you two days of noticing and nothing else.
 
-If what pulls at you is that boundary itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person quietly reading everyone's mood all week gets noticed rather than quietly becoming the group's sponge, and integration built into the design instead of left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to tell your own feelings from everybody else's is rarely wasted, whatever you decide afterward.
+If what pulls at you is that boundary itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person quietly reading everyone's mood all week gets noticed rather than quietly becoming the group's sponge, and integration built into the design instead of left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to tell your own feelings from everybody else's is rarely wasted, whatever you decide afterward.

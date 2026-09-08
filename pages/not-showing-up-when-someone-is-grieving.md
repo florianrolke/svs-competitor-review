@@ -237,7 +237,7 @@ If the reason you cannot go is that a loss of your own is still raw, that is a r
 
 This one has almost nothing to do with grief and almost everything to do with standing, which is why it responds to a completely different adjustment.
 
-The internal sentence is: who am I to turn up. You were close at university and you have exchanged four messages in three years. You are a colleague she likes rather than a friend. You are the brother-in-law. Arriving would be a claim about the relationship, and if the claim is wrong you will have embarrassed yourself in a room where embarrassment is unforgivable.
+The internal sentence is: who am I to turn up. You were close in college and you have exchanged four messages in three years. You are a colleague she likes rather than a friend. You are the brother-in-law. Arriving would be a claim about the relationship, and if the claim is wrong you will have embarrassed yourself in a room where embarrassment is unforgivable.
 
 So the calculation gets run on the wrong question. You end up asking whether you have earned the right to be there rather than asking whether being there would be any use.
 
@@ -299,7 +299,7 @@ The absence of correct words is the reason to go rather than the reason to wait.
 
 Something specific, and it is worth knowing because it corrects the assumption that your absence is invisible.
 
-The first fortnight is loud. Then, almost on a schedule, the volume drops. People go back to work, the practical tasks finish, and the visits stop at roughly the point where the reality of the loss arrives, which is usually weeks after the funeral rather than during it. Bereaved people describe this drop as one of the most disorienting parts of the whole experience.
+The first two weeks is loud. Then, almost on a schedule, the volume drops. People go back to work, the practical tasks finish, and the visits stop at roughly the point where the reality of the loss arrives, which is usually weeks after the funeral rather than during it. Bereaved people describe this drop as one of the most disorienting parts of the whole experience.
 
 Two things follow from the drop. The first is a very quiet accounting. People who have lost somebody tend to hold a surprisingly precise record of who appeared and who went silent, and that record can survive for decades. Bitterness is rarely any part of it. The record sits there as a plain fact about who turned out to be present.
 
@@ -375,7 +375,7 @@ Four categories. Outside them, the range of acceptable things is enormous, and i
 
 In several places that people do not connect to this at all until somebody lays them side by side.
 
-The divorce you have not called about, on the grounds that they probably want privacy. The colleague made redundant whose message sat unanswered for a fortnight because you could not work out the tone. The friend whose child is in trouble with the police, where you decided that mentioning it would be intrusive. The person whose partner left, where you were close to both of them and the standing question became unanswerable.
+The divorce you have not called about, on the grounds that they probably want privacy. The colleague made redundant whose message sat unanswered for two weeks because you could not work out the tone. The friend whose child is in trouble with the police, where you decided that mentioning it would be intrusive. The person whose partner left, where you were close to both of them and the standing question became unanswerable.
 
 It hides in the professional register too. The client whose project failed and who never heard from you again. The employee whose parent died and who got the official card from the company and nothing personal from you.
 

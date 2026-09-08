@@ -280,6 +280,8 @@ It means treating your own experience as information that counts, at the same ra
 
 Watch how the double standard runs. A colleague says the meeting drained them and you believe it immediately. You adjust, you check in later, you make a small allowance without even deciding to. The identical report arriving from inside you gets a different reception: it goes to an audit. Is that reasonable. Is it really that bad. Other people manage. It is probably the sleep. By the time the audit finishes, the tiredness has been reclassified as a character flaw and nothing about the afternoon has changed.
 
+That asymmetry has been measured directly. Grossmann and colleagues reported in Psychological Science in 2014 that people reason more wisely about somebody else's version of a problem than about their own, and that most of the gap closes when the same person is asked to think about their own situation in the third person. The limit is worth stating plainly: what got rated there was the quality of reasoning about hypothetical dilemmas, in a laboratory, over minutes, which sits some distance from whether your own tiredness gets believed on a bad afternoon.
+
 Three things have to work for your own experience to count, and most people who search this phrase have a break in at least two of them.
 
 1. **Registering.** Something happens in you and it actually lands as an event. You notice the flatness at four in the afternoon, the sting of a remark, the small lift when somebody says your name warmly.
@@ -300,7 +302,9 @@ The self-care list has a related problem. A bath is a pleasant hour and there is
 
 There is a mechanical reason the affirmation loses, too. Saying a warm sentence directly contradicts an older sentence that has decades of accumulated evidence behind it, so you have set up a debate between a voice that started this morning and a voice that has been building its case since you were seven. The older one wins on volume alone. [The voice itself, and how to change what it actually says, is worth reading separately](/insights/how-to-stop-negative-self-talk/).
 
-The move that does work is smaller and much less satisfying to describe. Instead of arguing about whether you are worthy, you practice noticing that you are cold and putting on a jumper. Repeated enough times, in enough small places, that changes something the argument never could.
+There is an experiment behind that, and it is specific enough to go and look up. A 2009 paper in Psychological Science, published under the title "Positive Self-Statements: Power for Some, Peril for Others," had people repeat the sentence "I am a lovable person" and then measured how they felt afterward. Participants who already held a low opinion of themselves came out in a worse mood than a control group who repeated nothing, and the only people the sentence helped were the ones who already felt fine about themselves. I am naming the paper by its title rather than by its author, because that surname belongs to several unrelated researchers and a shared name is a poor thing to hang a finding on. The limits are ordinary and worth saying anyway: small samples, mood measured minutes later, nobody followed up a year on.
+
+The move that does work is smaller and much less satisfying to describe. Instead of arguing about whether you are worthy, you practice noticing that you are cold and putting on a sweater. Repeated enough times, in enough small places, that changes something the argument never could.
 
 ## What Does Not Loving Yourself Sound Like From the Inside?
 
@@ -347,6 +351,8 @@ Something specific follows from that. If reporting a feeling never changed the r
 
 A second route runs through criticism rather than absence. In a house where the standard was the main subject, your inner state was less relevant than your output, and attention arrived attached to performance. The internal conclusion lands in the same place by a different road: what I produce counts, what I experience does not. [The origin story underneath both routes has its own page](/insights/the-core-wound/), and [the specific conclusion about deserving that grows out of it has another](/insights/root-cause-of-low-self-esteem/).
 
+That second route has been studied under a narrower name. Assor and colleagues reported in the Journal of Personality in 2004 that adults who recalled a parent's warmth arriving attached to their performance were more likely to describe still doing the behavior out of internal compulsion rather than choice, with satisfaction after success that faded quickly and resentment sitting underneath it. Take the finding at its actual weight: it rests on grown adults recalling their own childhoods and rating themselves on questionnaires, which cannot separate what happened from how it is remembered now.
+
 Not every case traces back to a parent. A stretch of family illness where everybody quietly agreed to need less. A sibling whose situation used all the available attention for years. A school where showing feeling was expensive. A first relationship where your reactions were treated as the problem. The mechanism holds across all of them. Your experience turned out to be irrelevant to what happened next, and somebody intelligent enough to notice adjusted accordingly.
 
 ## Why Does Earning It Never Close the Gap?
@@ -365,13 +371,17 @@ Because receiving asks you to accept a verdict about yourself that you privately
 
 Watch what happens when a compliment lands. People in this pattern report the same two internal sentences, in the same order, with a speed that leaves no gap for anything else: they are just saying that, they do not really mean it. If the words themselves stay unspoken, the body handles the rejection instead. A joke. A correction. A quick redirect to the other person. A favor returned that same evening so the exchange balances before anybody goes to bed.
 
+There is a compliment experiment that lands very close to this. Marigold and colleagues reported in the Journal of Personality and Social Psychology in 2007 that asking somebody to spell out what a partner's compliment meant about them left the participants with low self-regard feeling worse about the relationship afterward, while asking those same participants simply to describe the compliment concretely did no such damage. Keep the size of it honest: these were short writing exercises run with student couples under laboratory conditions, the effects were modest, and nobody has run the same manipulation across a real year of a real relationship.
+
 Help works the same way. The reluctance to accept care or support of any kind runs right through this pattern, and it usually presents as its opposite, an exaggerated independence that reads to everybody around as strength. Handling things alone is safer, because being helped means somebody has decided you were worth the effort, and that decision has to be either accepted or discounted. Discounting is faster.
 
-Giving avoids all of it. When you are the one with the surplus, nothing about your own worth gets tested. This is why some of the most generous people you know are also the hardest to do anything for, and why the person who organises everybody's birthday is oddly difficult to buy a drink for.
+Giving avoids all of it. When you are the one with the surplus, nothing about your own worth gets tested. This is why some of the most generous people you know are also the hardest to do anything for, and why the person who organizes everybody's birthday is oddly difficult to buy a drink for.
 
 The practical version of this is small and awful. Let somebody do something for you. Say thank you and add nothing. No returned favor that evening, no self-deprecating remark to level the exchange, no explanation of why you would normally have managed. For anyone whose place has always felt earned, that single repetition is harder than any confession, and it works on exactly the root this page is describing.
 
-## Where Does This Hide When You Would Not Call It a Self-Worth Problem?
+## How Does Low Self-Regard Show Up With a Partner or Close Friends?
+
+Most visibly of all, and underneath that sits the wider question of where this hides when you would never call it a self-worth problem in the first place.
 
 In the six places listed below, where it wears the costume of a virtue and gets complimented for it.
 
@@ -387,6 +397,22 @@ In the six places listed below, where it wears the costume of a virtue and gets 
 The work row is the one that gets praised for decades. Nobody at any company has ever objected to the person who absorbs the extra task without mentioning it, which is how a pattern that is costing somebody their evenings gets rewarded with a promotion and a reputation for reliability.
 
 The friendship row catches people off guard, because it hides inside a genuine skill. Being the person everybody talks to is a real gift, and it also means you can go a decade without anybody asking you a follow-up question, since the conversation always has somewhere better to be. Try naming the last time a friend knew something about your week before you had asked about theirs.
+
+## How Does Not Loving Myself Affect the Way I Behave With My Boss At Work?
+
+It concentrates the whole pattern, because a boss is the one relationship where somebody is openly deciding what you are worth and then telling you the number.
+
+The behavior is rarely dramatic and it is remarkably consistent. Extra work gets absorbed without mention, since saying it was too much would mean asking for your own experience to count. The pay conversation gets moved to next quarter with a good reason attached, and a good reason is always available. A three-word reply gets read for displeasure and then read again. A request goes out with three softening clauses standing in front of it. A neutral review lands as a bad one, because anything short of warm confirmation reads as a verdict. Somebody asks who wants the least appealing part of the project and your hand is up before the question has finished.
+
+Then there is the quieter version, which is agreeing in the meeting and disagreeing in your own head for the rest of the afternoon. The sentence you did not say arrives fully formed later, complete and specific and with nowhere left to go.
+
+Notice what all of these have in common. Not one of them requires a difficult boss. They run exactly the same under a fair manager who would have said yes, which is the part people find hardest to credit about themselves. The audit that reclassifies your own tiredness as a character flaw does identical work on your own judgment about workload, pay and scope, and it finishes long before anybody in the building has had a chance to respond.
+
+Work also supplies a ready-made cover story, which is why this setting hides the pattern better than any other. Everything on that list can be described as professionalism, and most of it gets praised. Nobody has ever been pulled aside for absorbing too much. So the whole thing can run for a decade without once being named, and the promotion tends to arrive on top of it rather than in place of it.
+
+The nearest research vocabulary belongs to another page and is worth borrowing for a sentence rather than restating here: much of what people believe about the danger of speaking up at work turns out to have been learned long before the job and carried in ready-made, which is why the silence survives a manager who has never once punished anybody for talking. [The workplace version of staying quiet has its own page](/patterns/agreeing-when-you-disagree/), and it goes considerably further into that literature than this section can.
+
+The repetition that fits here is small enough to survive a real week. Once, say the actual size of something out loud, somewhere the stakes are low: this will take me until the end of the week, or I would need to put the other thing down to do this properly. That sentence needs no case built in front of it and no apology behind it. It is the same route the rest of this page describes, run in the one setting where you have effectively been paid to keep it shut.
 
 ## What Separates Loving Yourself From Self-Indulgence, Self-Improvement, and Protecting Your Peace?
 
@@ -424,7 +450,7 @@ Each line of this has two ends, and a page that stops after describing the painf
 | Denial of emotional needs | Acknowledgment of needs | You ask for the phone call you want, in plain words, with no supporting reasons attached |
 | Skepticism of compliments | Acceptance of compliments | Somebody says the work was good and you say thank you and add nothing |
 | Dependence on external validation | Self-validation | You finish something and already know whether it was any good before anybody tells you |
-| Difficulty prioritising yourself | Ease in prioritising yourself | The appointment gets booked in work hours and nobody is owed an explanation |
+| Difficulty prioritizing yourself | Ease in prioritizing yourself | The appointment gets booked in work hours and nobody is owed an explanation |
 | Hyper-awareness of others' needs | Attunement to your own needs | You notice you are hungry at roughly the time you get hungry |
 | Excessive self-criticism | Compassionate self-reflection | You get something wrong and the review is about the thing, with your standing left out of it |
 | Guilt over relaxation | Enjoyment of leisure | A Sunday afternoon passes with nothing achieved and nothing owed |
@@ -450,6 +476,8 @@ By running repetitions small enough that you will actually complete them, in pla
 7. **Drop the "but it's fine" ending.** Most people in this pattern cannot say a true sentence about themselves without appending a disclaimer that cancels it. Say the first half and stop talking.
 8. **Catch the theory before it takes over.** Working out why you feel something is the most respectable way there is of leaving the room without standing up. When you notice the explanation starting, put a hand on wherever it sits in your body and stay there for thirty seconds before you go back to thinking. [There is a separate page on how to actually feel a feeling rather than think about one](/insights/how-to-feel-your-emotions/).
 
+One piece of that list has a research base, and it is a modest one. Putting a feeling into a word, which is what the first and fourth repetitions above ask for, has been studied under the name affect labeling. Lieberman and colleagues reported in 2007 that naming an emotional state reduced activity in the amygdala, a threat-related part of the brain, and the idea traveled a long way on the back of that one result. Torre and Lieberman reviewed the area again in 2018 and were careful about it: labeling shows up reliably in the brain measures, while its effect on how bad a person actually reports feeling is small and inconsistent. So run these repetitions for the traffic they build on the route from noticing to saying, and not for any promise about how they will feel while you are doing them.
+
 Is any of this satisfying? No. It is small and freaking repetitive, and it is exactly the kind of thing that holds when a weekend of insight does not.
 
 ## Why Does It Feel Worse Before It Feels Better?
@@ -463,6 +491,29 @@ The second is friction. Other people got used to the version of you that never n
 There is a third thing, quieter than both. You will accuse yourself of being self-indulgent, roughly in week two, in a voice that sounds exactly like whoever taught you the rule. Expect it, name it as the old rule speaking, and run the next repetition anyway.
 
 Don't judge yourself if the early weeks feel worse than doing nothing did. That discomfort is usually the practice working rather than the practice failing, and it settles.
+
+## How Is Self-Love Measured In Psychological Research?
+
+Mostly it is not, under that name. No instrument called a self-love scale exists and no research program uses the phrase as a variable, which is worth knowing before anybody quotes a number at you about it.
+
+What gets measured instead are four adjacent things, and the gaps between them matter more than the family resemblance.
+
+| What research actually measures | How it gets measured | What the measure misses |
+|---|---|---|
+| Self-esteem | A ten-item questionnaire published in 1965 and still the standard, asking how strongly you agree with statements about your own worth | Whether the opinion is steady, and whether it survives a bad week |
+| Self-compassion | A 26-item scale published by Neff in 2003, scoring kindness toward yourself, a sense of failure as a shared human condition, and balanced attention to your own difficulty | Whether any of it changes a decision you actually make this week |
+| Unmitigated communion | Items about placing other people's needs above your own past the point where it costs you, out of health psychology | Where it came from, and whether the person experiences it as a problem at all |
+| Self-concept clarity | How consistent and how confidently held your description of yourself is | Whether the description is accurate |
+
+[The self-esteem questionnaire is explained properly on the page about where insecurities come from](/patterns/where-insecurities-come-from/), and [the unmitigated communion research belongs to the page on volunteering for everything](/patterns/volunteering-for-everything/), so neither gets re-run here.
+
+Two complications are worth carrying alongside those numbers.
+
+The first concerns the self-compassion scale. Muris and Petrocchi published a meta-analysis in 2017 arguing that its negative items, the ones about judging yourself and feeling isolated and being swept up in your own failure, function as a measure of distress in their own right. If that reading holds, part of the well-known correlation between self-compassion and feeling better is the same items counted twice. The argument is contested and unsettled, and it is exactly the sort of thing worth knowing before treating a scale score as a fact about a person.
+
+The second concerns self-esteem. The largest review of that literature, published in 2003 in Psychological Science in the Public Interest, concluded that a high opinion of yourself does not produce better school results or better performance at work, and that most of what had looked like an effect ran through people rating themselves. That review is named here by its year and journal rather than by its authors, for the same reason as the affirmation study further up.
+
+Then there is the problem underneath all four rows, which none of the instruments solves. Every one of them is self-report, filled in by the person being described. Somebody whose whole adaptation was to stop registering their own state is precisely the person least equipped to rate that state on a seven-point item, and their score is likely to come out unremarkable for the same reason their answer about dinner comes out easygoing. The measurement is weakest exactly where this page is aimed. That is a good reason to treat three nights of the counting log described at the end of this page as better evidence about you than any questionnaire result.
 
 ## How Long Does This Take, Honestly?
 
@@ -482,4 +533,4 @@ Run a three-day counting log. Open a note on your phone. Every time somebody ask
 
 Then read the list on the third night. Most people are startled by the ratio, and either result is useful. A page where the two columns mostly match tells you the capacity is more intact than you feared, and the problem is somewhere else. A page where they almost never match hands you the specific places the discounting happens, in your own words, which is far more workable than the general feeling that something is wrong with you. It costs three days of noticing and nothing else.
 
-If what draws you is the capacity rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this exact material: a proper screening conversation before anybody is accepted, a cap low enough that the person who spends a week asking everybody else questions gets noticed doing it, and structured work on the weeks after you fly home rather than a warm goodbye on the last morning. The honest limitation is that dates, price, and the final group size cap are still being finalised, so anybody choosing between programs on those numbers today cannot yet include ours in the comparison. Put these same questions to any program you are weighing, ours included, and go with whichever one answers them properly. Feel into it and find out for yourself. Three days spent noticing what you actually wanted is rarely wasted, whatever you decide about anything else.
+If what draws you is the capacity rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around this exact material: a proper screening conversation before anybody is accepted, a cap low enough that the person who spends a week asking everybody else questions gets noticed doing it, and structured work on the weeks after you fly home rather than a warm goodbye on the last morning. The honest limitation is that dates, price, and the final group size cap are still being finalized, so anybody choosing between programs on those numbers today cannot yet include ours in the comparison. Put these same questions to any program you are weighing, ours included, and go with whichever one answers them properly. Feel into it and find out for yourself. Three days spent noticing what you actually wanted is rarely wasted, whatever you decide about anything else.

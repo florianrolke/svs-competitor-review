@@ -221,7 +221,7 @@ Here is what the horror does tell you. Something in you disagrees with the outpu
 
 No, and this root has to go first because most people who find this page are here for it and are treating something ordinary as a defect.
 
-Ask a large group of people to rate themselves against the average on almost any positive quality, and most of the group places itself above the average. Driving, fairness, judgement, sense of humor, ability to get along with others. The numbers cannot all be true at once, and they show up anyway, repeatedly, across decades of asking. This has a name in the field, the **better-than-average effect**, and I am naming it without attaching a researcher to it deliberately, because the finding is public property at this point and the attribution would add nothing you could use.
+Ask a large group of people to rate themselves against the average on almost any positive quality, and most of the group places itself above the average. Driving, fairness, judgment, sense of humor, ability to get along with others. The numbers cannot all be true at once, and they show up anyway, repeatedly, across decades of asking. This has a name in the field, the **better-than-average effect**, and I am naming it without attaching a researcher to it deliberately, because the finding is public property at this point and the attribution would add nothing you could use.
 
 There is a real argument about what the effect means, and honesty requires stating it. A good part of it comes from how loose the words are: asked whether you are a generous person, you get to decide what generous means, and people reliably choose a definition they meet. The effect also shrinks, and sometimes reverses, on specific hard skills where the standard is unambiguous and checkable. So it is less a discovery that everybody is arrogant and more a discovery that people evaluate themselves using flexible criteria.
 
@@ -255,6 +255,8 @@ Then the contempt is a repair, the person it landed on is incidental, and this i
 
 This is the central root, and it follows directly from the timing described earlier. Downward comparison rises when standing has dropped. Something happens, your own sense of how you are doing takes a hit, and a process starts looking for evidence in the other direction. It does not care where it finds it. The person in front of you is simply the nearest available material.
 
+The finding underneath that timing has a name and a date. Wills's 1981 review of downward comparison in Psychological Bulletin is where the principle was set out: people compare themselves with somebody worse off more readily after their own standing has dropped than after it has risen, which is what makes the flash a repair rather than an opinion. Its limit belongs beside it. That paper gathered results from several separate lines of work and argued that one principle ran underneath them, rather than running a single decisive study, and the timing half of it has held up better in the decades since than the claim that comparing downward reliably makes anybody feel better.
+
 The knock does not have to be large and very often it is not. A message that went unanswered longer than it should have. A meeting where you were not asked. Somebody younger doing your job visibly well. A number on a screen. A sentence from a parent. A photograph of a group you were not in. A piece of work returned with more marks on it than you expected. Almost none of these register as events at the time, which is exactly why the connection is invisible.
 
 Then the flash arrives an hour or a day later, aimed at somebody who has nothing to do with any of it, and feels like an opinion about them.
@@ -280,6 +282,10 @@ Then the contempt is inherited, it has a specific shape, and the person it is ai
 This root shows up in people who grew up somewhere with a live standard: a parent who corrected, a school that ranked, a household where knowing things was the currency, a first job under somebody exacting. The standard was applied to you before you had any say about it, and it did what standards do, which is to keep running after the person applying it has gone.
 
 What makes it feel like contempt for other people is that it is now pointed outward. Somebody in front of you displays the exact quality you were once found wanting for, and the machinery starts up, and its target is not really them.
+
+There is a research vocabulary for this, and knowing what it covers is as useful as knowing what it does not. The work on perfectionism separates three things that ordinary speech runs together: the standard you hold yourself to, the standard you believe other people hold you to, and the standard you demand of everybody else. The third one is this root, seen from outside. The attribution for that separation is carried on [the page about beating yourself up](/patterns/why-does-beating-myself-up-feel-necessary/), where the dimension that matters is the one pointed at you, so repeating the names here would add nothing you could use.
+
+The limit is the part that matters for this root. Of those three, the one demanded of other people is by a distance the least studied, and nearly all of what exists is people describing themselves on questionnaires at a single moment rather than anybody observing what they actually did to anybody. So the vocabulary is real, and the evidence sitting under the outward-facing half of it is thinner than the evidence sitting under the inward-facing half. The tells below are doing more work for you here than any published finding is.
 
 The tells here are different from the ones above and easy to separate.
 
@@ -323,7 +329,7 @@ This usually comes from somewhere that required it. A house where the mood of th
 
 The tells for this root are unmistakable once you know to look for them.
 
-**It runs on people with no stake in anything.** Strangers on a platform. A cashier. Somebody in a queue you will never see again and who could not affect your life if they tried.
+**It runs on people with no stake in anything.** Strangers on a platform. A cashier. Somebody in a line you will never see again and who could not affect your life if they tried.
 
 **It is strongest on entering.** The first minutes in a new room are the busiest, and it quiets down considerably once everybody is placed.
 
@@ -369,6 +375,22 @@ Here is the part people find hardest to accept. The sentence almost never feels 
 
 One boundary worth drawing, because two patterns share this territory. If the sentence you cannot leave unsaid is about the record, about a description of you or of events that you cannot allow to stand, then what is running is a different pattern with its own page on [needing the last word](/patterns/needing-the-last-word/), which also handles the genuine question of when a correction is worth making. What this page is about is the correction that carries no information anybody needed, delivered to somebody you were not in dispute with, about a year on a slide.
 
+## Why Do I Correct Small Facts That Do Not Matter When My Boss Is Speaking?
+
+Because the ranking runs hardest in rooms where your own position is least settled, and your boss talking in front of other people is the least settled room you are in all week.
+
+Start with what the correction actually is. The fact is real. The date really was 2018. The figure you supplied really was the exact one. Accuracy explains none of it, because you are accurate about a hundred things a day and say almost none of them out loud. Something selected this one, and the selection is the event worth looking at.
+
+The question that sorts it is what moved afterward. Did any decision in that meeting go differently because the year was right? Did anybody act on the corrected version? For most corrections of this kind the honest answer is that nothing downstream depended on it at all, and finding that out does not make you a liar about your own motives. It tells you the sentence was doing a job other than the one you thought it was doing.
+
+Correcting a boss has two features that correcting a peer does not.
+
+The first is the audience. Notice whether this happens more when a third person is present. Most people who check find that it almost never happens when the two of you are alone, which is hard to explain if the point was the fact and easy to explain if the point was the room's reading of you. The sentence was aimed past the person it was addressed to.
+
+The second is the direction. A correction that travels upward carries information about standing that the same correction sideways does not carry, and the person receiving it registers that even when neither of you would put it in words. It arrives as a bid. Which is why the small ones are the expensive ones: the less the fact mattered, the more clearly the sentence was about something other than the fact.
+
+None of this is an argument for sitting on numbers at work. Sometimes a wrong figure is about to go into a decision and saying so is straightforwardly your job. The line between the two is easy to find once you look for it. If the correction changes what somebody does next, it was information. If it changes only what the room thinks of you, it was the ranking finding a socially acceptable way out of your mouth.
+
 ## Why Does the Relief at Somebody Else's Setback Appall You So Much?
 
 Because it is the one part of this that cannot be explained away as an opinion, and it arrives with your name on it.
@@ -378,6 +400,8 @@ The flash about a stranger can be rationalized. Maybe they really were underprep
 So take it seriously as information, which is different from taking it seriously as a verdict.
 
 What the timing research suggests is that this feeling tracks the state of the person having it. It runs higher when the person's own sense of how they are doing is lower, and it drops when that sense is shored up some other way. Under that reading, the lift you felt was your position moving without you having to do anything, and the body registering the movement, on the same automatic circuit that registers every other comparison you take all day.
+
+The measurement under that reading is Van Dijk and colleagues, reporting in Emotion in 2011 that people who scored lower on their own self-regard reported more pleasure at somebody else's misfortune, and that a few minutes spent writing about something they valued in themselves cut the pleasure back. The limits travel with it. Those were students reading a written scenario about a stranger and rating a feeling on a scale, rather than people hearing real news about somebody they know, and the self-affirmation procedure used in the second half belongs to a literature that has had a hard decade reproducing its best known results. What survives is the small claim this section runs on, which is that the size of the lift moves with the state of the person having it.
 
 Now look at what happened next, because that is the part you have been ignoring.
 
@@ -449,13 +473,17 @@ The first question is about your effect. What is it like to be in a room with yo
 
 The second question is about your intent, and about what is happening inside you. On that they are guessing. They have watched behavior and produced an inference, and the inference they produced is the popular one, which is that you think you are better than everybody. It is a reasonable inference. It is also the only inference available to somebody standing outside, and it is not evidence about the inside.
 
+There is a measured version of that split, and it turns on visibility. Funder and Dobroth reported in the Journal of Personality and Social Psychology in 1987 that the personal qualities different observers agree about, when they describe the same real person, are the ones that show plainly in behavior, and that the qualities living furthest inside somebody are the ones observers agree about least. How you come across sits in the first group. What was happening in you while you came across that way sits in the second.
+
+The limit on it is the limit on this whole area. Agreement between observers means they matched each other, not that they were right, because no study of this kind has an independent record of what the person was actually like. So the finding tells you where a second opinion is worth most, and stops well short of telling you that any particular second opinion is correct.
+
 The mistake most people make with this accusation is to answer the second question when the first one was asked. You defend your intent, honestly, because your intent really was not what they said. And you are answering a charge they did not bring, while the charge they did bring stands untouched.
 
 The move that works is narrow. Ask for one occasion. Not a general account, not a list, not an explanation of what they meant. One specific time, with the detail of what you actually said. Then do not defend it. Take it away and look at it later, when nothing is at stake.
 
 Most people who do this find something they have no memory of, phrased in a way that surprises them. The surprise is the useful part. It is the first direct evidence you have ever had about the gap between the sentence you thought you said and the sentence that arrived.
 
-One caution in the other direction. Being called arrogant is not proof of anything on its own. The word travels easily and it gets used for competence somebody found uncomfortable, for a woman who was direct, for anybody who knew something the speaker did not. What makes it worth taking seriously is the source. If it came from somebody with no stake in diminishing you, whose judgement you would trust about anything else, that is a different piece of evidence from the same word arriving in an argument.
+One caution in the other direction. Being called arrogant is not proof of anything on its own. The word travels easily and it gets used for competence somebody found uncomfortable, for a woman who was direct, for anybody who knew something the speaker did not. What makes it worth taking seriously is the source. If it came from somebody with no stake in diminishing you, whose judgment you would trust about anything else, that is a different piece of evidence from the same word arriving in an argument.
 
 ## Why Does Deciding to Be More Humble Not Work?
 
@@ -469,7 +497,7 @@ Gratitude work moves a mood, sometimes considerably, and a mood is not what is r
 
 Reminding yourself that everybody is on their own path is a sentence said after the fact, and after the fact is the one location where nothing is occurring.
 
-Deciding to see the best in people replaces one automatic judgement with a deliberate one, which means you now have both, and the deliberate one arrives second and is transparently a correction of the first. Most people can feel themselves doing it, and so can the person opposite.
+Deciding to see the best in people replaces one automatic judgment with a deliberate one, which means you now have both, and the deliberate one arrives second and is transparently a correction of the first. Most people can feel themselves doing it, and so can the person opposite.
 
 There is a harder reason all of these fail, and it is worth saying plainly. Every one of them treats the flash as the problem. The flash is a symptom of what is happening in your week and a feature of how minds handle ambiguous questions. Trying to suppress it puts your effort into the one part of the sequence with no controls attached, and the reliable result of that is a person who feels the same things and now also feels like a fraud for feeling them.
 
@@ -488,6 +516,10 @@ The record first, then one sentence a week, and nothing else for a month.
 **Notice a room you did not rank.** They exist. There are settings where this does not run at all, and finding one is more informative than analyzing twenty where it does. Work out what was different about it. Usually something in your state, occasionally something about the setting, and either answer is useful.
 
 **And leave the root for last.** Whichever of the five is yours, naming it does not move it. Identifying the root tells you what kind of work is in front of you, and it is not itself the work. The week of recording, by contrast, helps regardless of root, which is why it goes first.
+
+One note on why the record goes first, because it is doing more than gathering information. Writing down an instance of your own behavior at the moment it happens tends to change how often the behavior occurs, an effect described well enough in the research on self-recording that people trying to measure anything cleanly have to work around it. The dated source for that sits on [the page about anger coming out sideways](/patterns/expressing-anger-sideways/) rather than being repeated here.
+
+The size of it is small, which is worth knowing before you start. The change is modest, it varies a great deal with what is being counted, and it fades once the recording stops. So the seven days buy you a reading, not a change, and the one unsaid sentence a week is what the reading is for.
 
 Two things to skip, deliberately.
 
@@ -515,7 +547,7 @@ Three different speeds, and running them together is why people give up in the s
 
 The week of recording takes a week and is the fastest useful thing on the page. Most people can read their own third column on day eight and see something.
 
-The sentence moves over weeks. Leaving one correction unsaid is a small repeatable act, and the fourth time is noticeably easier than the first. Expect the count to go backward during a bad fortnight, which is not a failure but the pattern behaving exactly as described.
+The sentence moves over weeks. Leaving one correction unsaid is a small repeatable act, and the fourth time is noticeably easier than the first. Expect the count to go backward during a bad two weeks, which is not a failure but the pattern behaving exactly as described.
 
 The state underneath moves slowest and on nobody's schedule, because what loads the sequence is how your own standing feels to you, and that shifts across seasons rather than weeks. This is also the part that responds least to anything you do about the behavior directly, which is worth knowing in advance so that a year of small wins does not read as failure when the flash returns intact under pressure.
 
@@ -561,7 +593,11 @@ Adler supplies the term and nothing else. The superiority complex appears in his
 
 Wills published the review of downward comparison principles in Psychological Bulletin in 1981, which is where the timing claim comes from. Van Dijk and colleagues published the work on self-regard, self-affirmation and pleasure at another's misfortune in Emotion in 2011. Kernis and colleagues published the separation of self-esteem level from self-esteem stability, and its relationship with anger and hostility, in the Journal of Personality and Social Psychology in 1989.
 
+Funder and Dobroth published the work on which personal qualities different observers agree about, and on easy visibility from outside being what separates those from the qualities observers agree about least, in the Journal of Personality and Social Psychology in 1987.
+
 The better-than-average effect and the base mechanism of social comparison I have named without attribution, deliberately. Both are carried properly elsewhere in contexts where they fit better, and repeating a citation across pages makes a set of writing feel assembled rather than thought about. Where the finding matters more than the attribution, I have given the finding.
+
+Two further things here are named without a citation attached and handed instead to the pages that carry them properly, which are linked at the point where they appear. The separation of perfectionism into a standard held inward and a standard demanded of other people belongs to the page on beating yourself up. The effect of written self-recording on the behavior being recorded belongs to the page on anger coming out sideways.
 
 The rest of this is mine and carries no research weight of any kind. Five years and more than five thousand hours of doing this work on myself before I built anything around it, and several hundred conversations since in which somebody has described the training day, the year on the slide, the lift they felt at news they were ashamed to have felt anything about, and the sentence from somebody they could not dismiss. I hold no clinical qualification. None of the researchers named has any connection to this page or to the seminar, and where their published work and my own experience disagree, theirs is the one to go and check.
 

@@ -27,7 +27,7 @@ faqs:
 - q: "Why do I revert to old patterns as soon as I visit my parents?"
   a: "The setting hands the pattern its full trigger before you get a chance to decide anything. A tone of voice, a particular room, the seat you always take, the role you have played there since you were fifteen: all of it was present when the pattern formed, and all of it is present again. A response rehearsed only somewhere else has nothing loaded when that stack arrives."
 - q: "Is reverting around my family proof I never really changed?"
-  a: "No. Reversion in a high-cue setting is what the mechanism predicts, and it reports nothing about sincerity. Depth of change is measured per environment rather than as one verdict about a person, so holding steadily at work and collapsing at a holiday table describes one pattern rehearsed in one place and not yet in the other. The useful question is which specific scene still needs rehearsal."
+  a: "No. Reversion in a high-cue setting is what the mechanism predicts, and it reports nothing about sincerity. Depth of change is measured per environment rather than as one verdict about a person, so holding steadily at work and collapsing at a vacation table describes one pattern rehearsed in one place and not yet in the other. The useful question is which specific scene still needs rehearsal."
 - q: "Why do my old friends pull me back into who I used to be?"
   a: "Because their picture of you settled years ago and their ordinary behavior keeps addressing it. The old joke, the assumed role, the reaction they expect from you: each one is a cue, and none of it is deliberate. Groups tend to hold onto the version of a member they recognize, out of familiarity and a wish not to lose them, which feels from inside exactly like resistance."
 - q: "Is my friend group sabotaging my change on purpose?"
@@ -51,7 +51,7 @@ faqs:
 - q: "Why do I say yes to things around my family that I'd say no to anywhere else?"
   a: "The old rules get cued the moment the setting matches, so the decision is not really being remade. The default fires first, and the reasoning arrives afterward to explain it. Anywhere else, the same request meets somebody with no rehearsed rule about it, so an ordinary judgment happens instead. Deciding your answer in advance, before you arrive, is what puts the decision back in your hands."
 - q: "Can a change hold in one context and not another?"
-  a: "Yes, and that is the ordinary shape of real progress rather than a sign of fakery. Depth of change runs per environment. A response practiced daily at work has hundreds of repetitions there and almost none at a holiday table. Both facts are true at once. Treating the inconsistency as partial and extendable gives you something to do; treating it as a verdict usually ends the project."
+  a: "Yes, and that is the ordinary shape of real progress rather than a sign of fakery. Depth of change runs per environment. A response practiced daily at work has hundreds of repetitions there and almost none at a vacation table. Both facts are true at once. Treating the inconsistency as partial and extendable gives you something to do; treating it as a verdict usually ends the project."
 - q: "Why does my family still treat me like my old self even after I've changed?"
   a: "Their model of you updates slowly, and it updates through repeated exposure rather than through announcement. They hold years of evidence for the old version and a few visits of evidence for the new one. Their habitual responses are also cues in their own right, which means an out-of-date picture can quietly reproduce the very behavior it was formed from, in front of everybody."
 - q: "What's the difference between the old pattern being fixed and just interrupted?"
@@ -70,12 +70,12 @@ faqs:
   a: "This is close to universal. Family and long-running friend groups are the highest-cue environments most people ever spend time in, so reversion there sits nearer the norm than the exception. The reason it feels uniquely damning is that it happens in front of the people whose opinion carries the most weight, which turns an ordinary conditioning gap into what feels like a public verdict on your character."
 - q: "Can I change my peer group without cutting off the people I love?"
   a: "Yes, and the useful move is additive. Adding one relationship, group, or regular setting that expects the newer version of you gives you a second reference point instead of only the old one, and it requires removing nobody. Standards move with exposure, so a single steady counterweight does real work over months. None of it needs announcing or explaining to anybody."
-- q: "Why do I only slip into the old pattern at certain times of year, like holidays?"
-  a: "Holidays concentrate several cues at once: the room, the seating, the timing, the roles, the food, and the specific set of people, all arriving together after months apart. That density is why a year of steady behavior can come apart in an afternoon. It also makes those dates the most useful rehearsal targets on your calendar, since you know months ahead exactly which scene is coming."
+- q: "Why do I only slip into the old pattern at certain times of year, like vacations?"
+  a: "Vacations concentrate several cues at once: the room, the seating, the timing, the roles, the food, and the specific set of people, all arriving together after months apart. That density is why a year of steady behavior can come apart in an afternoon. It also makes those dates the most useful rehearsal targets on your calendar, since you know months ahead exactly which scene is coming."
 - q: "Why does the advice to just set boundaries with family not fix this on its own?"
   a: "Because a boundary is a rule, and the reversion happens before any rule gets consulted. The cue fires, the old response runs, and the decision to hold a boundary arrives afterward, if it arrives at all. Boundaries are worth having, and they work far better once the response has been rehearsed in the setting where it is needed. Alone, they ask a decision to outrun a reflex."
 - q: "What's the honest timeline for a change to hold around difficult people?"
-  a: "Expect a slip on the first exposure and possibly the second, even with rehearsal. The useful marker is whether the new response becomes easier to reach on the third and fourth exposure to the same setting. Measured in months and several repeated contacts rather than in one visit. A single relapse at a holiday table is data about one cue rather than a verdict on the work."
+  a: "Expect a slip on the first exposure and possibly the second, even with rehearsal. The useful marker is whether the new response becomes easier to reach on the third and fourth exposure to the same setting. Measured in months and several repeated contacts rather than in one visit. A single relapse at a vacation table is data about one cue rather than a verdict on the work."
 related:
 - /patterns/why-insight-doesnt-change-anything/
 - /patterns/how-to-break-a-habit/
@@ -116,7 +116,7 @@ One plain line before any of it. If what happens in that house involves violence
 Almost entirely unremarkable from outside, which is why nobody in the room registers it happening.
 
 - Sitting down in the same chair at the same table where an old argument used to start, and feeling the tightness arrive before anybody has said a word.
-- Three months into a genuinely new way of handling conflict, and losing all of it inside the first hour of a holiday visit.
+- Three months into a genuinely new way of handling conflict, and losing all of it inside the first hour of a vacation visit.
 - Catching yourself using a different voice the moment a parent calls, quieter and more defensive and roughly fifteen years younger, and only noticing once the call has ended.
 - Hearing yourself agree to something with an old friend group that you would decline anywhere else in your life without a second thought.
 - Walking into a childhood bedroom and reaching for the same old comfort, the phone or the snack or the door closing, before you have put the bag down.
@@ -215,7 +215,7 @@ An unsupported change does not decay evenly over time like a battery running dow
 | The exposure | Roughly when it arrives | What it tests |
 |---|---|---|
 | The first visit home | Usually within the first two months | The full original cue set, all at once |
-| The first holiday | On a date already in the calendar | Cues plus roles plus an audience plus alcohol plus tiredness |
+| The first vacation | On a date already in the calendar | Cues plus roles plus an audience plus alcohol plus tiredness |
 | The first old-friend catch-up | Whenever somebody suggests it | The peer standard, without much of the physical setting |
 | The first phone call with the person who does the tone | Often within days | One relationship functioning as its own context |
 | The first bad week after the change | Unpredictable | Whether the new response survives a low state |
@@ -281,7 +281,7 @@ Two structural moves run together, rather than one motivational one, and both ca
 
 Nothing below is a validated protocol, and anybody offering you one for your own family is overselling something. What follows is built from how the reversion works, and it is designed so that you can start before the next exposure arrives.
 
-1. **Name the next three exposures, by date.** Open a calendar and find them: the visit, the holiday, the call, the catch-up somebody has been suggesting for a month. Write the dates down. This single step converts a vague dread into three appointments, and appointments can be prepared for.
+1. **Name the next three exposures, by date.** Open a calendar and find them: the visit, the vacation, the call, the catch-up somebody has been suggesting for a month. Write the dates down. This single step converts a vague dread into three appointments, and appointments can be prepared for.
 2. **Walk the first thirty minutes through before you arrive.** Where you will be standing. Who speaks first. The comment that reliably lands. The precise moment the old response arrives. Do this in enough detail that you can see the room, because a plan tied to a specific scene gets cued by that scene, which is the whole point of doing it this way rather than resolving to do better.
 3. **Decide your first sentence in advance.** Not a speech and not a confrontation. One line, in the tone you would use with a colleague you like, ready for the moment you already know is coming. Having it prepared matters more than having it be clever.
 4. **Change one concrete cue you actually control.** A different seat at the table. Arriving in your own car. A five-minute walk before dinner. Staying somewhere else for one of the nights. Answering the call standing up in a different room from the one you usually take it in. One altered cue keeps the old trigger stack from reassembling completely, and none of these require anybody else to agree to anything.

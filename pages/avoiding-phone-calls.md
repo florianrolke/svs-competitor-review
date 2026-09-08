@@ -72,7 +72,7 @@ faqs:
 - q: "How do I help someone who never picks up?"
   a: "Stop calling unannounced and say plainly that a slow reply will not offend you. Send a message with the question in it, name a deadline, and offer a scheduled call rather than a surprise one. Then let a late reply pass without comment. Repeated evidence that reaching you costs nothing does more than any conversation about their unreliability."
 - q: "How long does this take to change?"
-  a: "Noticing arrives within a fortnight and the reflex takes months. Most people can catch themselves letting a call ring within two weeks of paying attention. The dread fades at the pace of accumulated evidence rather than insight, which means roughly twenty ordinary calls that turn out to be unremarkable, spread over a season, do far more than understanding the mechanism perfectly."
+  a: "Noticing arrives within two weeks and the reflex takes months. Most people can catch themselves letting a call ring within two weeks of paying attention. The dread fades at the pace of accumulated evidence rather than insight, which means roughly twenty ordinary calls that turn out to be unremarkable, spread over a season, do far more than understanding the mechanism perfectly."
 - q: "When does this belong with a professional rather than a page like this?"
   a: "When the avoidance has widened past calls into unopened mail, missed appointments, or skipped medical care. When the phone is being avoided because of somebody who has frightened you, which makes it a safety question first. When it arrived alongside months of broken sleep or a flatness that has not lifted. Any thought of harming yourself belongs with a licensed professional now rather than later."
 related:
@@ -198,6 +198,10 @@ And then the third thing, which almost nobody names. A call has no defined end. 
 
 Put those three together and you have a channel that costs several times what any other one costs, for the same content. [Running a conversation repeatedly in your head before it happens has its own mechanics and its own trap](/patterns/rehearsing-conversations/).
 
+That is the cost side, and it is real. What people predict about the other side of it has been measured directly, and the prediction turns out to be wrong in a consistent direction. A 2021 paper in the Journal of Experimental Psychology: General, titled It's Surprisingly Nice to Hear You, ran the comparison this section is about. Participants were asked to reconnect with a friend they had not spoken to in a long time, either by phone or by email, and a separate group chatted with strangers by video, by voice, or in text. The conversations that carried a voice produced a stronger sense of connection than the written ones, and no more awkwardness. What steered people toward text was an expectation of awkwardness the voice conversations did not deliver.
+
+Two limits on that, because it is a smaller finding than it sounds. Connection was measured right after the conversation rather than a season later, and nothing in it says which of the calls on your phone you are avoiding, or why. What it does settle is the one thing this section is about. The call really is the more expensive channel to operate, and the discomfort you are pricing in before you dial is larger than the discomfort that actually arrives.
+
 ## Why Does the Reply Get Heavier the Longer It Sits?
 
 Because the delay itself becomes part of what you have to answer for, and it grows every day whether you think about it or not.
@@ -282,6 +286,38 @@ All of which is why the same advice produces such wildly different results. It c
 
 A label can be looked up in ninety seconds. A root has to be found, and it has to be found in you specifically, which is slower and considerably more useful.
 
+## Why Can I Handle Calls From Clients or Strangers but Ignore My Mother or a Close Friend?
+
+Because this runs at particular people rather than at telephones, and the people it runs hardest at are usually the ones it was learned around.
+
+It is the detail that convinces people something is wrong with them, and it is close to universal in this pattern. Somebody spends a working day on calls with people they have never met, handles a difficult client without flinching, rings a restaurant in front of a colleague, and then sits for six days with a voicemail from their own mother. From outside that reads as inconsistency. From inside it is completely orderly, and three things separate the easy calls from the impossible ones.
+
+The first is whether the call comes with a role in it. A client call has a subject, a reason, and a version of you that is already defined by the job, so most of the improvising has been done in advance. A personal call has no agenda at all, which means you supply the whole of it live, including the tone, including how it opens and how it stops.
+
+The second is what a badly handled call would actually cost. A stranger you are clumsy with is out of your life by the end of the week. A mother you are clumsy with is still your mother, and the clumsy version joins a record that goes back decades and gets brought up later. The stakes are not evenly distributed, and your avoidance is pricing them roughly correctly.
+
+The third is history. The people this fires hardest with are usually the people it was learned around, which is why it so often lands on a parent and almost never on an insurance company.
+
+McCroskey's measurement, described further up this page, is the piece of research that decides this question rather than merely describing it. The apprehension he spent decades measuring turned out to be frequently context-specific and audience-specific rather than one trait somebody carries everywhere, so a person can measure low in general and high in one particular setting with one particular listener. Which means the more useful version of your question drops the telephone entirely and asks about listeners: which ones, and what do they have in common.
+
+That question is answerable tonight. Write down the four or five names you have gone quiet on in the last year, and then look at what they share. The shared property is different for almost every reader of this page. For one it is everybody who knew them before they were twenty-five. For another it is everybody who has ever been visibly disappointed in them. For another it is everybody likely to ask a direct question about how things are actually going. Whatever it turns out to be, that is what the silence is protecting, and it is a far more specific thing to work on than a fear of telephones.
+
+## How Can I Work Out Which Root Is Behind My Phone Avoidance?
+
+By checking the tells against your own recent evidence, rather than reading the table and picking whichever root sounds most forgivable.
+
+The five above are not equally likely for you, and which one is running decides whether the practical moves further down this page will do anything at all. Here is how to sort yourself using evidence you already have, rather than introspection you would have to manufacture.
+
+Ask what happens on a call you are not dreading. If a call from somebody easy, at a time you picked, about nothing in particular, is still uncomfortable, then unrevised speech itself is the difficulty and the no-draft root is live. If those calls are genuinely fine and only certain ones are impossible, the channel is not your problem and you can set that root aside.
+
+Ask where in the sequence it goes wrong. If the worst second is the ring itself, before you have looked at who it is, that is a body reacting to a sound, and it points at the root where the ring meant bad news. If the ring is neutral and the damage is all in the hours of anticipation beforehand, while the call itself turns out to be ordinary, that is a prediction running ahead of the event and it belongs with the root about being perceived.
+
+Ask how old the oldest one is. Find the message you have owed the longest. If the answer runs to months and the person is somebody you actually like, the debt root is doing the work. What you are avoiding is having to answer for the delay rather than the reply itself, and the reply became impossible on the day it started having to carry that.
+
+Ask whether it tracks your energy. Watch it against nothing but sleep and workload, long enough to catch one tired week and one rested one. If the bad phone weeks are the tired weeks, reliably enough that you could set your watch by it, depletion is doing most of it, and no amount of self-examination will touch that, because the thing in short supply is capacity.
+
+Most people find two of the five rather than one, and the pair usually arrives as something laid down a long way back plus the debt root that grew on top of it during one overloaded month. Sort them in that order and work the second one first. The debt is the only root on that table that dissolves rather than fades, and clearing it takes the noise out of the signal, which is what lets you see what was underneath it all along.
+
 ## Where Did This Get Installed?
 
 Usually somewhere that not answering was the intelligent move available to you, and it worked.
@@ -348,6 +384,10 @@ Never explain more than you would want explained to you. A detailed account of y
 Send the imperfect version. The reply you are waiting to have time to write properly is the reply that never gets written. A two-line answer today is worth more to the person waiting than a beautiful one that arrives in October.
 
 And do not open with the pattern. Saying I am terrible at this, I always do this turns a small correction into an invitation to reassure you, and it also tells them to expect it again.
+
+There is one measured thing standing near this advice, and it is worth knowing precisely what it settles. Lewicki, Polin and Lount published two studies in 2016 in Negotiation and Conflict Management Research on the structure of effective apologies. They defined six components from earlier work and presented them to people singly and in combination, inside a scenario about a violation of trust. Apologies carrying more of the six were judged more effective than apologies carrying fewer, and the six were not judged equally important.
+
+Set that carefully against everything above, because it is not a reason to write more. What was judged was a written scenario, by readers with nothing at stake in it and no wait behind them. A reply that is three weeks late is a different object. Nobody is scoring it, the person has been waiting, and a long apology hands them your guilt to manage, which nothing in that study was measuring. What the finding does support is the one thing this section turns on. The parts of an apology are not interchangeable, so if you are going to keep only one of them, keep the plain sentence in which you take the delay as yours.
 
 ## What Can You Do in the Ninety Seconds Before a Call You Have to Make?
 
@@ -435,7 +475,7 @@ By working on the cause and the conditions at the same time, in repetitions smal
 6. **Put calls in a fixed window.** Two hours a week where calls happen and outside which the phone shows you nothing. This changes the conditions rather than your character, which is the half people leave out.
 7. **Answer the smallest expensive one this week.** Not the hardest. The smallest one on the bottom half of the cost table. The dentist. The one you have been carrying since spring.
 8. **Say it out loud to somebody.** The inside stays on the inside unless you make it known on the outside and back it with action. One person who will notice, told plainly what you are doing, changes the odds more than a private resolution does.
-9. **Expect the first fortnight to feel like withdrawal.** You cut out the thing that feels good in the moment and is bad for you long term, you go through the withdrawal at the start, and then you find out it is not that hard once you actually commit to it.
+9. **Expect the first two weeks to feel like withdrawal.** You cut out the thing that feels good in the moment and is bad for you long term, you go through the withdrawal at the start, and then you find out it is not that hard once you actually commit to it.
 
 Two warnings, because both failures are common.
 
@@ -447,7 +487,7 @@ The second is treating understanding as the finish line. Self-knowledge is usefu
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of deliberate attention, most people can catch themselves in the act: the hand that does not reach for the phone, the specific second where the decision to let it ring gets made by not making it. That stage is frustrating, because you are watching something you cannot yet interrupt, and it is a real step regardless.
+Noticing arrives fast. Within two weeks of deliberate attention, most people can catch themselves in the act: the hand that does not reach for the phone, the specific second where the decision to let it ring gets made by not making it. That stage is frustrating, because you are watching something you cannot yet interrupt, and it is a real step regardless.
 
 The dread takes months, because it fades at the pace of accumulated evidence rather than insight. Every ordinary call that turns out to be unremarkable is one data point against a rule that had years to install itself. Twenty of those, most of them dull, change a great deal. Reading this page thoroughly changes remarkably little on its own.
 

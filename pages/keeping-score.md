@@ -28,7 +28,7 @@ faqs:
 - q: "What if the ledger is actually accurate?"
   a: "Then it is accurate, and this page does not ask you to doubt it. Plenty of people counting are counting correctly. The uncomfortable part is that a correct ledger changes nothing on its own. It can be right for nine years and produce nothing except a more detailed account of the same situation. What moves things is a request, a renegotiation, or a decision, and none of those requires more evidence."
 - q: "Why does winning the argument about who does more feel so bad?"
-  a: "Because the thing you wanted was not a verdict. You wanted to be seen, to matter, or to be told your effort registered. A won argument delivers agreement extracted under pressure, which is the one currency that cannot buy any of those. People often describe a flat, hollow hour afterwards, with the other person doing dishes resentfully and nothing at all resolved."
+  a: "Because the thing you wanted was not a verdict. You wanted to be seen, to matter, or to be told your effort registered. A won argument delivers agreement extracted under pressure, which is the one currency that cannot buy any of those. People often describe a flat, hollow hour afterward, with the other person doing dishes resentfully and nothing at all resolved."
 - q: "Why do I keep score with my family and not with my friends?"
   a: "Usually because the family is where the original accounting was learned and where the stakes still feel highest. Friendships you chose in adulthood often run on different, looser rules. The gap is informative rather than inconsistent. Whichever relationship reliably produces the tally is the one carrying the older material, and that is the relationship worth examining first."
 - q: "Why does the tally get louder when I am tired?"
@@ -42,7 +42,7 @@ faqs:
 - q: "Why do I feel guilty about counting?"
   a: "Because a private tally sits badly against what you believe love should look like, and you are the only one who can see it. Most people carrying this describe a specific shame about the counting itself, separate from anything the other person did. That guilt tends to make the ledger more secret rather than smaller, which is exactly the wrong direction if you want it to stop."
 - q: "Does keeping score mean I do not love them?"
-  a: "No. People count hardest in the relationships that matter most, because those are the ones where standing is worth tracking. Nobody keeps a detailed ledger on a colleague they are indifferent to. The counting is usually a sign of investment running through a channel that cannot carry it, and reading it as evidence of coldness gets the situation backwards."
+  a: "No. People count hardest in the relationships that matter most, because those are the ones where standing is worth tracking. Nobody keeps a detailed ledger on a colleague they are indifferent to. The counting is usually a sign of investment running through a channel that cannot carry it, and reading it as evidence of coldness gets the situation backward."
 - q: "Why do I keep score at work too?"
   a: "Because workplaces are explicitly exchange relationships, so counting there is both appropriate and normal. Effort, hours, and credit are meant to be tracked. The version worth noticing is when the workplace tally has the same private, unspoken, resentful quality as the one at home, and when it survives being addressed. That similarity points at a personal pattern rather than at a badly run team."
 - q: "Why do favors I gave freely still end up on the list?"
@@ -68,7 +68,7 @@ faqs:
 - q: "How do I stop the tally in my head at 2am?"
   a: "Get it out of your head and onto paper, deliberately and in full, once. The night version runs on repeat because nothing is holding the record except you. Write every entry down, read it in daylight, and mark the two or three that genuinely matter. Most people find the list is much shorter than the feeling, and that the shortening is what quiets the nights."
 - q: "How long does it take to change this?"
-  a: "Noticing arrives in a fortnight and the counting fades over months. Most people can catch the tally running within two weeks of paying attention, which is real progress even on the days it keeps running. Stopping it takes longer and arrives unevenly, quiet with one person and loud with another. It fades as the thing it was substituting for gets said out loud, rather than through understanding it."
+  a: "Noticing arrives in two weeks and the counting fades over months. Most people can catch the tally running within two weeks of paying attention, which is real progress even on the days it keeps running. Stopping it takes longer and arrives unevenly, quiet with one person and loud with another. It fades as the thing it was substituting for gets said out loud, rather than through understanding it."
 - q: "When does this belong with a professional rather than a practice I run myself?"
   a: "When the imbalance you are tracking includes being controlled, frightened, or prevented from having money, work, or people of your own, which makes it a safety question first. When the counting sits alongside sleep broken for months, a flatness that has not lifted, or memories that replay without being asked for. Any thought of harming yourself belongs with a licensed professional now rather than later."
 related:
@@ -171,7 +171,7 @@ There is even a decent argument that the counting is a skill. You noticed. Most 
 
 So the question this page asks is deliberately not whether you are right. It is what the counting is doing for you, and why it has not resolved anything.
 
-Look at your own history with it honestly. How long has the account been running? For most people the answer is years. In those years, how many times has the ledger produced a change in the other person's behavior that lasted more than a fortnight? For most people the answer is none, or one. That is a strange result for an accurate document, and it is the result that matters. A correct ledger and a useful ledger are different objects. Yours may be entirely correct and still be doing nothing except making the situation more precisely knowable to one person who already knew.
+Look at your own history with it honestly. How long has the account been running? For most people the answer is years. In those years, how many times has the ledger produced a change in the other person's behavior that lasted more than two weeks? For most people the answer is none, or one. That is a strange result for an accurate document, and it is the result that matters. A correct ledger and a useful ledger are different objects. Yours may be entirely correct and still be doing nothing except making the situation more precisely knowable to one person who already knew.
 
 Here is where the counting quietly costs you something even when the figures are perfect. Every hour spent adding to the record is an hour not spent making a request, having the difficult conversation, or deciding to leave. The ledger feels like progress because it is effortful and it accumulates. What it actually does is postpone. It offers the constant sense that you are nearly ready to raise it, that you just need a little more evidence, that once the case is truly unanswerable you will finally be able to say something. The case is already unanswerable. It has been for a long time. Nothing about the next entry will change the conversation you have been avoiding.
 
@@ -282,7 +282,7 @@ There is a fifth, and it lands later. The unilateral close. Ledgers that never g
 
 Because the account was never about the numbers, and settling requires the thing it was actually about.
 
-Watch what happens on the rare occasions the ledger gets balanced. They notice. They apologize properly. They spend a fortnight doing more than their share, they book the holiday, they call first three times running. And something odd occurs. You feel briefly, genuinely better, and then within a week or two the total is back exactly where it was, or the counting has moved to something else, or the relief has curdled into a suspicion that they only did it because you complained.
+Watch what happens on the rare occasions the ledger gets balanced. They notice. They apologize properly. They spend two weeks doing more than their share, they book the vacation, they call first three times running. And something odd occurs. You feel briefly, genuinely better, and then within a week or two the total is back exactly where it was, or the counting has moved to something else, or the relief has curdled into a suspicion that they only did it because you complained.
 
 That last suspicion is the useful one, because it names what the account was measuring all along. Effort produced after a complaint documents compliance. What you were tracking was willingness, and willingness is precisely the thing that cannot be extracted by presenting evidence. The moment you ask for it, it stops being the thing you asked for. This is the trap at the center of the pattern, and your reasoning is not what put it there. The structure of the situation did.
 
@@ -302,7 +302,7 @@ The bulge shows up at a distance from the squeeze, and that distance is what mak
 
 There is a second failure that looks like success for longer. Changing a behavior with force or with discipline works, and it is not necessarily what makes it stick. You have to have a way to sustain it, and for that there also needs to be an element of environment that changes. Six weeks of deliberately not counting is a real achievement and a fragile one, because the arrangement that produced the counting is still exactly where it was.
 
-Environment is unusually concrete for this pattern. A household where the division of labor has never once been discussed out loud. A family where one adult child was assigned the care of a parent by silence rather than by agreement. A friendship group where you have always been the organizer, and where stopping would be noticed within a fortnight. A partner who responds to any request with hurt, so requests stopped being made years ago. Every one of those is a condition the counting grew into, and every one is more changeable than the habit itself.
+Environment is unusually concrete for this pattern. A household where the division of labor has never once been discussed out loud. A family where one adult child was assigned the care of a parent by silence rather than by agreement. A friendship group where you have always been the organizer, and where stopping would be noticed within two weeks. A partner who responds to any request with hurt, so requests stopped being made years ago. Every one of those is a condition the counting grew into, and every one is more changeable than the habit itself.
 
 This is not to come from a victim type of frame, as though the environment were doing this to you. You have put yourself in the environment, and the environment is reinforcing it. That distinction matters practically rather than morally: an arrangement you took part in building is an arrangement you can take part in rebuilding, and it responds much faster than resolve does. [Changing a habit at the level of its conditions rather than its symptoms is worth reading separately.](/patterns/how-to-break-a-habit/)
 
@@ -377,7 +377,7 @@ By working on the cause and the conditions at the same time, in repetitions smal
 5. **Watch what happens for thirty days.** Somebody who did not know will be uncomfortable and then act. Somebody who knew and preferred the arrangement will agree warmly and change nothing. This is genuine information about your situation, and it takes a month to obtain rather than another four years.
 6. **Practice receiving without repaying.** When somebody does something for you, say thank you and then deliberately do not reciprocate that week. This is far harder than it sounds for anybody in the fifth root, and it is the direct exercise for it. The discomfort you feel is exactly the mechanism.
 7. **Change one condition, not only the counting.** The undiscussed division of labor. The parent nobody else visits. The friendship group where you are the only organizer. Pick one and alter the arrangement rather than your attitude toward it. Force produces the change and environment is what sustains it.
-8. **Decide what you would do if it never balances.** Ask yourself plainly whether you would stay in this arrangement if it stayed exactly as it is. Sit with the answer without acting on it for a fortnight. People are often astonished by how much the counting quiets once that question has been answered honestly, because a great deal of the tallying was a way of not asking it.
+8. **Decide what you would do if it never balances.** Ask yourself plainly whether you would stay in this arrangement if it stayed exactly as it is. Sit with the answer without acting on it for two weeks. People are often astonished by how much the counting quiets once that question has been answered honestly, because a great deal of the tallying was a way of not asking it.
 
 Two warnings, because both failures are common.
 
@@ -389,7 +389,7 @@ The second is treating understanding as the finish line. The goal is not self-kn
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of deliberate attention, most people can catch the tally running, name the entry being filed, and identify what triggered it, usually within a minute or two of it starting. That stage feels frustrating, because you are watching something you cannot yet stop, and it is a real step regardless.
+Noticing arrives fast. Within two weeks of deliberate attention, most people can catch the tally running, name the entry being filed, and identify what triggered it, usually within a minute or two of it starting. That stage feels frustrating, because you are watching something you cannot yet stop, and it is a real step regardless.
 
 The counting itself fades over months, and it fades in proportion to how much is being said out loud rather than how well you understand it. Every request made directly is one entry that never gets filed. Twenty of those, most of them small and none of them dramatic, change a great deal. Reading this page thoroughly changes remarkably little on its own.
 

@@ -367,7 +367,7 @@ Because the cooperation is real, and it is available for a reason neither of you
 
 Two parents who had stopped functioning as a team can co-manage an emergency beautifully. Decisions get made, information gets shared, one of you drives and one of you calls. Both of you notice how well you worked together and quietly file it as evidence that the marriage underneath is basically sound and the child is the problem.
 
-The test is what happens to the teamwork in the week after the emergency lifts. If it evaporates, and the house goes back to logistics and politeness within a fortnight, the cooperation was a function of the crisis rather than of the relationship. Which means the household has just been shown, at a level nobody speaks about, that a crisis is what produces cooperation here. That is the mechanism reloading itself.
+The test is what happens to the teamwork in the week after the emergency lifts. If it evaporates, and the house goes back to logistics and politeness within two weeks, the cooperation was a function of the crisis rather than of the relationship. Which means the household has just been shown, at a level nobody speaks about, that a crisis is what produces cooperation here. That is the mechanism reloading itself.
 
 A household calm because everybody's attention is absorbed by managing a teenager, and a household calm because two adults resolved something, look identical from inside. Both produce parents working together and less overt fighting. Nothing distinguishes them except the week after.
 
@@ -462,7 +462,7 @@ Worth checking carefully, because several very different situations produce a te
 | Attention-seeking, as somebody in the family has started calling it | A bid for attention and a structural job, at once | Whether the behavior reliably ends with both parents in one room |
 | Behavior that flares in public | Forcing outside adults to witness a private tension | Whether it happens in front of anyone, or in front of specific people |
 
-Nothing on that table gets settled by how the household looks from outside, and none of these are exclusive. A teenager can have a condition that needs assessment, a friendship group that turned, and a job holding two parents together, all in the same autumn. The point of the table is to stop you settling on the first explanation that arrives, which for most parents is the one that locates the problem entirely inside the child.
+Nothing on that table gets settled by how the household looks from outside, and none of these are exclusive. A teenager can have a condition that needs assessment, a friendship group that turned, and a job holding two parents together, all in the same fall. The point of the table is to stop you settling on the first explanation that arrives, which for most parents is the one that locates the problem entirely inside the child.
 
 ## What Actually Moves It?
 
@@ -472,7 +472,7 @@ The parents addressing the marital conflict directly, between themselves, with t
 2. **Get the clinical part handled properly and separately.** Assessment, therapy, a doctor, a crisis line if that is where you are. This runs in parallel with everything else and is never traded off against it.
 3. **Work the conflict where it belongs.** Two adults, in a room, with a qualified third person if you can manage it. The specific content is yours. The requirement is that it stops being routed through the household and starts being worked between the two people it belongs to.
 4. **Stop using her as a channel, in every form.** No confiding about the other parent. No messages passed. No asking her what she thinks he meant. No treating her as the reasonable one. Each of those feels small and each one hands her more of the job.
-5. **Say the sentence, then back it with visible behavior.** The marriage is ours to handle, you are not part of it, nothing you do changes how it goes. The words alone will not survive contact with years of contrary evidence. The words plus a fortnight of demonstrably different behavior might.
+5. **Say the sentence, then back it with visible behavior.** The marriage is ours to handle, you are not part of it, nothing you do changes how it goes. The words alone will not survive contact with years of contrary evidence. The words plus two weeks of demonstrably different behavior might.
 6. **Take the next small bid seriously the first time.** Whatever arrives next at a low volume, respond to it as though it had arrived at a high one. That is the cheapest intervention available and the one most likely to be skipped in a busy week.
 7. **Walk consequences out rather than arguing against them.** Where a belief needs moving, questions do what statements cannot. What do you think happens next. And then what. And then what after that. Slow, patient, and not to be attempted alone with a teenager in acute crisis.
 8. **Separate influence from control, out loud, for both of you.** You can influence your own honesty and your own conduct. Whether the marriage survives, and whether her behavior resolves on any schedule, were never yours.
@@ -486,7 +486,7 @@ Say that the marriage belongs to the two of you, and leave out the contents of i
 
 There is a real risk of overcorrecting here, and it is worth naming because good intentions produce it. A parent who has just understood this mechanism sometimes goes to their teenager with far too much honesty: here is what is happening between us, here is what he did, here is what I am considering. That does the opposite of releasing her. It makes her a participant, upgrades her from unofficial mediator to informed party, and hands her more to hold rather than less.
 
-What works is narrow and repeatable. Something close to: your dad and I have things we need to sort out between us, we are working on it, it has nothing to do with you and nothing you do changes it. Then stop. No detail, no invitation to comment, no request for her view. If she asks a direct question, answer the smallest true version of it and return the responsibility to where it lives.
+What works is narrow and repeatable. Something close to: your dad and I have things we need to work out between us, we are working on it, it has nothing to do with you and nothing you do changes it. Then stop. No detail, no invitation to comment, no request for her view. If she asks a direct question, answer the smallest true version of it and return the responsibility to where it lives.
 
 If she tells you she does not want the two of you to split up, resist the promise. Confirm that you heard her and that it makes complete sense she would feel that way. Do not guarantee an outcome that was never yours alone to guarantee, because a promise she watches break is worse than no promise, and it teaches her that her feelings are things adults manage rather than things adults take seriously.
 
@@ -513,7 +513,7 @@ The same arithmetic runs in adults who were once that teenager. [The version whe
 
 Months, not one good conversation. What holding looks like is a household that runs differently across a long stretch, rather than one evening where everything finally gets said.
 
-Two speeds run at different rates and it helps to expect that. The parents' side can move quickly once it starts: a fortnight of not using her as a channel is a fortnight she can feel. The teenager's side lags, sometimes considerably, because a role that took a year to form does not get returned the week the pressure lifts. She may keep running it after there is nothing left to hold, the way anybody keeps bracing for a stair that has already been repaired.
+Two speeds run at different rates and it helps to expect that. The parents' side can move quickly once it starts: two weeks of not using her as a channel is two weeks she can feel. The teenager's side lags, sometimes considerably, because a role that took a year to form does not get returned the week the pressure lifts. She may keep running it after there is nothing left to hold, the way anybody keeps bracing for a stair that has already been repaired.
 
 Expect the middle to be worse than the beginning, too. A household that stops routing conflict through a child has to put that conflict somewhere, which usually means the two adults are more openly in difficulty for a while. Do not read that as evidence you have made things worse. It is the load returning to where it belongs, and it tends to be visible before it is comfortable.
 

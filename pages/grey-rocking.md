@@ -41,8 +41,8 @@ faqs:
   a: "Because going quiet on the outside does nothing to the inside. Hiding an expression reduces what shows and leaves the internal experience running at full volume, which is one of the more consistent findings in the research on emotional expression. The rehearsals in the car afterward, the sentences you did not say, the arguments conducted in your head at two in the morning, all of that is the unspent charge going somewhere."
 - q: "Why do I hide good news from certain people?"
   a: "Because good news is information, and in this pattern all information is potential ammunition. There is often a specific memory underneath it too, of an achievement that got met with a comment that took the shine off, or that became a topic other people got to discuss. Once that has happened a few times, keeping the news becomes automatic, and you end up with a promotion nobody in your family knows about."
-- q: "Why do I go grey rock with family at holidays?"
-  a: "Because the holiday puts you back in the original environment with the original roles, on somebody else's schedule, with no exit. Whatever was learned there gets reactivated by the setting itself, which is why capable adults describe becoming fifteen again within an hour of arrival. The flatness is often the most efficient survival strategy available inside that specific house, and it also travels home with you afterward."
+- q: "Why do I go grey rock with family at vacations?"
+  a: "Because the vacation puts you back in the original environment with the original roles, on somebody else's schedule, with no exit. Whatever was learned there gets reactivated by the setting itself, which is why capable adults describe becoming fifteen again within an hour of arrival. The flatness is often the most efficient survival strategy available inside that specific house, and it also travels home with you afterward."
 - q: "Why do I go flat at work meetings but not with friends?"
   a: "Because the incentives differ and your body has read them correctly. A workplace where an opinion can be repeated in a room you are not in teaches a specific caution, and that caution is competence rather than a fault. Watch whether it stays inside the building. When the meeting voice starts arriving at dinner with people who like you, the setting-specific skill has become a general setting."
 - q: "What is the difference between grey rocking and being a private person?"
@@ -109,7 +109,9 @@ You were there four hours. You spoke maybe two hundred words, most of them about
 
 That specific tiredness is the clue, and most of this page is about where it comes from.
 
-## What Does Going Grey Rock Actually Look Like From the Inside?
+## Why Is Acting Blank Around My Parent So Exhausting?
+
+Because going blank is an activity rather than the absence of one, and a parent is usually the setting where all of it runs at once. So start with what that activity consists of.
 
 Less like calm, and more like holding a door shut with your shoulder while keeping a pleasant expression on your face for whoever is on the other side of the room.
 
@@ -182,6 +184,36 @@ The second is about the address. Nearly everything written on this term is writt
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
 
+## Does Grey Rocking Actually Work, or Can It Make Someone Push Harder?
+
+Usually both, in that order, and the order is the part almost nobody gets warned about.
+
+Working means something specific here. You stop being a source of anything usable, and the person you are trying to disengage from eventually goes looking somewhere else for it. That does happen. What the popular accounts leave out is the stretch in between, where the attention gets more insistent rather than less, because a response that used to produce something has just stopped producing it.
+
+Behavior research calls that stretch an extinction burst. When a reward a behavior reliably earned stops arriving, the usual first result is a temporary increase rather than a quiet fade: more attempts, longer ones, and more inventive ones, before the decline sets in. [The same shape, with its sourcing, sits on the page about pursuing somebody harder the quieter they get](/patterns/coming-on-too-strong/). The honest limit travels with it. That evidence came out of applied clinical settings decades ago, the increase turned up in a minority of the cases reviewed rather than in all of them, and nobody has measured it in an adult going flat at a family table. It is a shape that makes a hard week legible, and not proof of anything about your particular situation.
+
+The infant procedure described earlier on this page runs the same sequence at speed: work hard for a response, then give up. Adults take longer over both halves, and can hold the first one for months.
+
+So the question that actually decides it is less about whether flatness works and more about whether you can sit through the insistent stretch without doing either of the two things that cost you. Giving in partway through teaches the opposite lesson, because what gets rewarded is the pushing. Hardening the flatness permanently to get through it is the pattern this whole page is about. Both of those are decisions about your own week rather than predictions about anybody else.
+
+And there is a version where it does not work at all, which is worth being straight about. If the attention was never really about getting a reaction out of you, then removing the reaction changes nothing, and you have spent an evening being uninteresting for no return. Nobody can tell you in advance which version you are in. What you can do is set the date you stop before you start, and hold yourself to it when it arrives.
+
+## Is Grey Rocking Backed by Psychological Research?
+
+No study has tested the technique. The parts it is assembled from have been studied for decades, which is a genuinely different claim, and the distance between those two sentences is the whole honest answer.
+
+There is no trial of grey rocking, no measure that scores how much of it somebody does, and no group of people followed for a year while they used it. It arrived through self-help writing and spread because readers found it useful, which is how a great deal of workable advice arrives and is not by itself a mark against it.
+
+What has been studied is the thing sitting underneath. Holding an expression still while something is going on behind it is called expressive suppression, and the findings named earlier on this page cover the laboratory side of it: the display drops, the feeling does not, the body works harder, and the person you are talking to comes away with less rapport than they would otherwise have had.
+
+One study is worth naming separately, because it left the laboratory. Franchow and Suchy, writing in *Emotion* in 2015, asked sixty-two adults how much suppressing they had been doing over the previous two weeks and on the day of testing, then measured them. The ones carrying a heavier load than usual on the day performed worse on tasks that assess planning and control, and the ones carrying a heavy load across the two weeks processed information more slowly, with low mood accounted for separately. Ordinary suppression, in an ordinary life, showed up as measurable cost afterward.
+
+Its limits are worth as much as its result. Sixty-two people is a small study. Nobody in it was going flat at one person on purpose, so it measured a general habit rather than a targeted decision. And it compares people with each other rather than assigning them to conditions, so it shows the load and the cost sitting together without proving which one produced the other.
+
+A separate study followed the same habit across months rather than across a day, through a move into an unfamiliar social world, and found that the more somebody suppressed, the less social support and the less closeness they reported later on. It is described here without attribution rather than cited, because it belongs to the research program this page has already credited above, and a second name out of the same group would only stack.
+
+So the evidence points one way and then stops. The cost side has support: suppressing has been measured, repeatedly, as expensive for the person doing it and quietly corrosive of closeness. The benefit side has nothing, because nobody has measured it. Anybody telling you confidently that this works, or that it fails, is going well past what is currently known.
+
 ## How Do You Tell Going Grey Rock Apart From Being Quiet, Private, or Just Tired?
 
 By whether you chose it, and by what the other person is left holding.
@@ -202,6 +234,22 @@ These get used interchangeably and they are genuinely different, and knowing whi
 The two bottom rows are doing the work in that table. Chosen privacy and this kind of flatness look identical to any observer, and they feel completely different from the inside. Privacy is a decision you can describe afterward, because you knew what you were keeping and weighed who was asking. Flatness of this kind is discovered afterward, in the car, when you notice you spent four hours giving nothing and never decided to. You can run that test on yourself tonight without anybody knowing.
 
 The tiredness row deserves its own note, because it is the most common misattribution. Plenty of people file this under being drained by social events generally, which sends them toward rest as the remedy. Rest does not touch it, because the load is not coming from the number of people in the room. Watch which rooms produce it. If it happens at one table and not another, with the same number of people and the same amount of noise, then something specific to that table is doing it. [Being permanently on guard about how a room is going has its own mechanics](/patterns/walking-on-eggshells/).
+
+## What Is the Difference Between Grey Rocking and the Silent Treatment?
+
+Direction, and whether the other person is meant to see it.
+
+The silent treatment is aimed at the other person. All of it depends on them picking up that something has been withheld, and if nobody had picked it up, it would have failed. It carries content: there is a reason, the reason is usually recent, and the withholding is doing the work a sentence would otherwise do.
+
+Going grey rock is aimed at what leaves you. The surface stays pleasant and ordinary, questions still get answered, and success looks like an evening in which nothing at all seemed to be happening. If somebody spots it, it has partly failed.
+
+That gives you a test you can run on yourself once you are alone. Would it have failed if nobody had picked it up? If yes, you were sending something. If it worked better when nothing was seen, you were shielding something. The two produce identical transcripts and two aims that have nothing to do with each other.
+
+Two neighbors are worth separating from both. Shutting down in the middle of a live disagreement, going unresponsive while a conversation is actively trying to happen, is a third thing, and it is one of four behaviors that a long observational program on couples flagged as the ones that predict a relationship going badly. That work is credited on [the page about the fight that keeps coming back](/patterns/why-do-we-keep-having-the-same-fight/) rather than here, which is why it is described here and no name is attached to it. Ending the contact outright, with nothing said, is a fourth thing again, and [it is written up under the name people search for](/patterns/ghosting/).
+
+Where the boundary genuinely blurs is worth admitting, because a clean set of definitions would be a lie. One evening can hold both. Somebody can start out shielding and slide into sending, often on the third day of a visit, when the pleasantness runs out and the flatness takes on something the other person can feel. And none of these four words came out of a research program that defined them and then tested the definitions. They came out of everyday use and self-help writing, which means they are soft at the edges and somebody else will draw them slightly differently.
+
+The reason to sort them at all is that they cost different things. Sending something without saying it leaves the other person to work it out, and they usually arrive at the wrong answer, most often one about themselves. Shielding costs you instead, quietly, in everything you did not say. Knowing which of the two you are doing tells you which of those costs is yours.
 
 ## Why Do Two People Go Grey Rock for Completely Different Reasons?
 
@@ -257,6 +305,14 @@ Because you are practicing, and practice generalizes whether you intended it to 
 
 This is the cost the popular version of this tactic never mentions, and it is the one that brings people to a page like this at midnight. The advice presents going flat as a targeted tool, deployed at one person, withdrawn afterward, with no residue. That is not how a nervous system stores a behavior. Something rehearsed several hundred times becomes the setting rather than the exception, and settings apply to everybody.
 
+If what brought you here was noticing this had reached somebody you trust, learning research has a name for the spread, and it is not a failure of loyalty. A response trained against one cue starts turning up for cues that merely resemble the first one, and the resemblance can be extremely loose. Not the person. The pitch of a voice. A long meal with more than five people at it. A house where somebody else decides when you leave. Nothing in you is checking that person's record with you before the flatness fires. It is matching a rough shape.
+
+Which is why the people who have earned the most trust often get the worst of it. They are the ones you spend long unstructured stretches with, in exactly the circumstances that resemble the original: seated, several people, no clean exit of your own. The reflex reads the circumstances and answers before your judgment about the individual has been consulted.
+
+Habit findings supply the second half. What makes a behavior automatic is doing it over and over inside a consistent setting rather than how badly somebody wants to do it, which is why wanting this to be different has so little effect on an evening that is already underway. That work is described here rather than credited, because the page that carries the citation is [the one about a change that holds everywhere except around your usual people](/patterns/why-does-my-change-collapse-around-my-usual-people/).
+
+Both of those are described models rather than measured facts about you, and the caveat belongs with them. The generalization work was done decades ago on simple trained responses, largely in laboratories, and nobody has run it on an adult deciding to be dull at a family gathering. The habit findings come from behaviors people were trying to build, not from a defense somebody is trying to retire. Together they tell you the spread is expected rather than strange. They tell you nothing at all about how far yours has gone, and that part is countable, which is what the two lists at the close of this page are for.
+
 The spread happens in a specific order, and most people can recognize where they currently are on it.
 
 It starts with the one person. Then it covers the events where that person will be present, which means you arrive already flat, because starting warm and switching costs more than starting cold. Then it covers everyone connected to that person, since anything you say to them might travel. Then it covers the whole category, so all family gatherings get the treatment rather than the specific ones. Then it starts arriving in settings with no connection at all, at work, at dinners with friends, on dates, because by now it is simply how you are in a room with people in it.
@@ -290,6 +346,16 @@ The honest version is deliberate rather than automatic, which means you decided 
 The trouble starts when all three of those go missing. No decision, no target, no end. At that point it has stopped being a tactic you use and become a way you are, and nobody chose it. That transition happens gradually enough that almost nobody catches it happening.
 
 There is also a better instrument available than the one most people are using. Flatness is blunt, because it treats a question about your weekend and a question about the hardest thing in your life as the same event and gives both the same nothing. A stated limit does the job with far less collateral damage. I am not going to get into that one is a complete sentence, it keeps the material, and it leaves you present in the room. [Deciding what you give and what you keep is a skill with its own mechanics](/patterns/how-to-set-boundaries/).
+
+The version of that question people most often type is about work, and specifically about a difficult boss, so it deserves an answer on its own terms. The workplace moves two of those three features and leaves the third one worse.
+
+Two of them get easier. The target really is one person, and the setting really does end, because you leave the building. The one that gets harder is the deciding. Nobody picks their manager, most people are handed the situation with no warning, and the flatness can install itself over a few months before anybody has considered whether they want it there.
+
+The relevant research is on managed display at work. Producing a face that does not match what is going on underneath has been measured, repeatedly, as depleting across a shift, while actually reaching for the feeling the role asks for costs much less. That distinction is credited earlier on this page, and the workplace side of it is carried by [the page about being warmest to the people you like least](/patterns/warmest-to-the-people-i-like-least/), so it is described here and not re-attributed.
+
+The caveat cuts specifically here. That research measured people whose jobs required a display toward customers, with the rules written by an employer. It did not measure somebody privately deciding to become uninteresting to one manager. So it supports the cost side and says nothing about whether the tactic achieves what you want it to achieve.
+
+Which leaves a usable answer. Being careful about what you volunteer to a manager who repeats things is a competent read of an environment, and most people would file it under professional judgment rather than under a pattern. It stops being that at the point where it has covered the whole building, where it turns up in meetings with people who have never given you a reason for it, and where it is still running when you get in the car. And if what you are absorbing is conduct your organization would act on if it were reported, then going dull is a way of carrying it quietly rather than a way of ending it, and that other route exists whether or not you take it.
 
 And there is one situation where none of this applies. If the reason you are going flat is that somebody is frightening you, or controlling your money, or hurting you, then a page about a communication pattern is the wrong tool entirely, and so is any tactic for managing the situation from inside it. That belongs with people trained for it, starting now.
 
@@ -347,7 +413,7 @@ Don't judge yourself if that middle column reads as unreachable right now. The d
 
 By working on the cause and the conditions at the same time, in repetitions small enough that you do not have to be a different person by Friday.
 
-1. **Catch it afterward before you try to catch it during.** For two weeks, notice only in hindsight. Which room, which people, how long, and roughly how many words. You cannot intercept a reflex on the first attempt, and trying to produces nothing but a fortnight of feeling like a failure. Hindsight comes first, and it always does.
+1. **Catch it afterward before you try to catch it during.** For two weeks, notice only in hindsight. Which room, which people, how long, and roughly how many words. You cannot intercept a reflex on the first attempt, and trying to produces nothing but two weeks of feeling like a failure. Hindsight comes first, and it always does.
 2. **Draw the actual perimeter.** List every setting where the flatness happens now, then mark which of them contains the person it was originally built for. Most people are shocked by the ratio. That gap between the original target and the current coverage is the whole cost of the pattern, in one list.
 3. **Name what the flatness bought you.** Next to each occasion, write the noun. Not being quoted. Not being compared. Not having something good taken down a peg. Not having to feel anything in front of them. Do it across a month and the noun stops varying. That repeated noun is your root, and everything else follows from it.
 4. **Give one grade truer, not the whole story.** Put your answers on a scale where a flat fine is a one and telling somebody everything is a ten, and aim for a three. Most people never attempt this because they assume the only alternative to nothing is everything, so they keep choosing nothing, correctly.
@@ -369,6 +435,16 @@ The one grade truer instruction is worth being concrete about, since a general c
 | "You've gone quiet." | "Just tired." | "I go quiet in this house. I am working on it." |
 
 Every right hand entry is under twenty words and none of them opens a subject you cannot close. That is deliberate. The size of the answer is what people get wrong, and the small ones are the only ones anybody actually says.
+
+There is a fear sitting under that whole column, and it stops more people from trying than any shortage of technique does. If I stop being flat, do I overshoot? Do I end up handing over much more than I meant to, to the exact people I built the flatness for?
+
+The way closeness has actually been studied says no, provided you go in the order it goes in. It has been described for decades as a matched exchange rather than a decision to open up. One person says something slightly more personal than the last thing said, the other answers at roughly that depth, and the two move down a level together. The matching does more of the work than the depth does. Something offered several levels below where the conversation is currently sitting reads to the person receiving it as a demand rather than as closeness, and what usually comes back is a smaller answer than the one before it.
+
+That model and the studies behind it are credited on [the page about saying too much too soon](/patterns/oversharing/) rather than here, which is why it is described and not attributed. What it gives you in an actual conversation is a rule with a size limit built into it. Match the depth of what was just said, and add one grade. Not the whole story. One grade.
+
+Its limits cut in exactly your direction, so they are worth carrying alongside the rule. Almost all of that work was done with strangers and new acquaintances, in pairs, in short sessions, because that is where the matching is easy to measure. Your family is the opposite setting: decades of history, a depth that was set by somebody else long ago, and a group rather than a pair. Nobody has measured the graded version inside a relationship that has been running on nothing for a decade. The direction is well supported. The dose is yours to find.
+
+Which is the honest reason the truer answers above are all short. A three, offered and matched, is a move you can repeat next Sunday. A ten, poured into a silence nobody asked you to end, is the overshoot you were afraid of, and it is what comes out when the only two settings anybody can find are nothing and everything.
 
 ## How Long Does This Take, Honestly?
 

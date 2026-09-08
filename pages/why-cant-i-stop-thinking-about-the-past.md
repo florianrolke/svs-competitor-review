@@ -46,7 +46,7 @@ faqs:
   q: Why do I miss someone who hurt me?
 - a: It works as pre-emptive threat detection. The comparison runs automatically,
     checking the new person against the early signals that preceded harm before, so
-    that nothing arrives unrecognised a second time. The cost is that the new person
+    that nothing arrives unrecognized a second time. The cost is that the new person
     gets assessed on somebody else's evidence and rarely gets a clean read. Catching
     the comparison as it happens, and naming it silently, is usually enough to loosen
     its grip on a given evening.
@@ -63,7 +63,7 @@ faqs:
     one sentence, in plain language, as a rule for next time. Once the rule exists
     on paper, the replay loses most of its remaining purpose and gets noticeably quieter.
   q: How do I stop obsessing over past mistakes?
-- a: Yes, and it is more common than people expect. Idealising a period of apparent
+- a: Yes, and it is more common than people expect. Idealizing a period of apparent
     stability can feel considerably safer than sitting with what the household actually
     was, especially when the people involved are still in your life. Nostalgia of
     this kind is doing protective work rather than reporting history accurately. Noticing
@@ -198,7 +198,7 @@ faqs:
     less of that by design. Naming which of those you are short of now gives you something
     you can act on, which the yearning by itself does not.
   q: Why do I yearn for the past even when my life now is fine?
-- a: Because identity organises itself around whatever took the most to survive. A
+- a: Because identity organizes itself around whatever took the most to survive. A
     stretch of years that demanded everything becomes the heaviest fact about you,
     and everything since gets filed as afterward. It stays true and it stops being
     the only entry. What changes it is accumulating present material with real weight
@@ -212,7 +212,7 @@ faqs:
     was always painful. Letting the good memories back in is usually what lets the
     grief finish.
   q: Why do I avoid thinking about the good parts of a past relationship?
-- a: 'Familiarity reads as recognisable, and a nervous system trained on one dynamic
+- a: 'Familiarity reads as recognizable, and a nervous system trained on one dynamic
     identifies that shape faster than any alternative. What arrives feels like chemistry,
     and it works more like fluency: you already know the moves, the timing, the recovery.
     This weakens noticeably once you can name the specific early signals you respond
@@ -321,11 +321,11 @@ Two of those rows deserve their own route. Where the thing underneath is a speci
 
 From something in the scene that stayed unfinished at the time. The routes in are different enough to be worth separating, because they need different things afterward.
 
-1. **A specific break in trust.** After a betrayal the mind returns to the weeks before it, hunting for the signal that was there all along. The search generalises outward, to people in general, and inward, to your own judgment, which is the part that outlasts everything else. [Betrayal leaves a particular kind of guard behind](/patterns/when-someone-close-betrays-you/), and [the broader question of damaged trust has its own page](/patterns/trust-issues/).
+1. **A specific break in trust.** After a betrayal the mind returns to the weeks before it, hunting for the signal that was there all along. The search generalizes outward, to people in general, and inward, to your own judgment, which is the part that outlasts everything else. [Betrayal leaves a particular kind of guard behind](/patterns/when-someone-close-betrays-you/), and [the broader question of damaged trust has its own page](/patterns/trust-issues/).
 2. **A household where an adult's response could not be predicted.** When the same behavior produced warmth on Tuesday and cold on Wednesday, a child studies the record for the pattern that would have made it predictable. That study never concludes, and it continues into adulthood as rumination about old emotional weather. [Growing up with an unpredictable parent builds this specifically.](/patterns/growing-up-with-an-unpredictable-parent/)
 3. **Attention that never arrived.** Where affection and registration were absent rather than harmful, the past gets revisited because a need was left open, and the mind keeps going back to the periods and the people where love was reached for and not fully received. [That absence is its own wound and it leaves no incident to point at.](/patterns/childhood-emotional-neglect/)
 4. **A childhood spent doing an adult's job.** Preoccupation with the past is, in this case, partly grief that was never allowed at the time. Something real was lost and nobody in the house had the capacity to notice, so the mourning got postponed for twenty years. [The version where a child ran the household](/patterns/parentification/) and [the version where the play and the low-stakes mistakes were simply traded away](/patterns/i-had-to-grow-up-too-fast/) both leave this behind.
-5. **An event that overwhelmed you while it was happening.** Where something reorganised your sense of what is possible, the replay is an attempt to answer one question that never got answered: will this happen again. Running the scene repeatedly is the only method available for interrogating an event that is over.
+5. **An event that overwhelmed you while it was happening.** Where something reorganized your sense of what is possible, the replay is an attempt to answer one question that never got answered: will this happen again. Running the scene repeatedly is the only method available for interrogating an event that is over.
 6. **Danger inside the home.** Where the threat came from the place that was supposed to be safe, the yearning often attaches to a specific before, a period, real or partly polished, when things still felt secure. [What a childhood around violence builds into an adult body is worth reading in full.](/patterns/growing-up-with-violence/)
 7. **An environment heavy on criticism and light on guidance.** With plenty of correction and no usable standard, a person has no external reference and has to keep re-litigating internally whether they got it right. The fixation lands on past errors specifically, examined again and again for a verdict that never comes. [The lack of guidance underneath that is its own pattern.](/patterns/lack-of-guidance-growing-up/)
 
@@ -378,16 +378,16 @@ Do not judge yourself for any of it. Loyalty is a decent instinct doing an impos
 
 Because intensity carries a kind of clarity, and an ordinary present rarely offers any.
 
-Nostalgia for a hard period confuses people more than almost anything else in this pattern, because it seems to make no sense. You would not go back. You know exactly what it cost. And a song comes on and you feel homesick for it anyway. What gets missed is the sharpness of the focus everything had while it was happening, the sense that what you were doing mattered, the absence of ambiguity. The pain itself has very little to do with it. Difficulty organises a life. Its departure can leave a strange flatness behind that nobody warns you about.
+Nostalgia for a hard period confuses people more than almost anything else in this pattern, because it seems to make no sense. You would not go back. You know exactly what it cost. And a song comes on and you feel homesick for it anyway. What gets missed is the sharpness of the focus everything had while it was happening, the sense that what you were doing mattered, the absence of ambiguity. The pain itself has very little to do with it. Difficulty organizes a life. Its departure can leave a strange flatness behind that nobody warns you about.
 
 The same mechanism produces a few close relatives:
 
-- **Romanticising an emotional state, even a painful one.** Looking back at a period of intense feeling and giving it a meaning and a purpose it did not have at the time.
-- **Idealising a stretch of apparent stability.** A period gets remembered as calm and solid, often at some distance from what it actually was, because the current stretch feels neither.
+- **Romanticizing an emotional state, even a painful one.** Looking back at a period of intense feeling and giving it a meaning and a purpose it did not have at the time.
+- **Idealizing a stretch of apparent stability.** A period gets remembered as calm and solid, often at some distance from what it actually was, because the current stretch feels neither.
 - **Returning to past successes when the present is uncertain.** Old wins have results attached, which makes them a reliable source of the predictability that today refuses to supply.
 - **Homesickness for a household that was difficult.** A polished version of a family can feel considerably safer to hold than the specific memories underneath it.
 
-None of this makes you naive or a bad witness to your own life. The romanticising is doing a job. It is worth noticing rather than correcting, because underneath every idealised period there is usually a specific thing you actually want more of now, and that thing can generally be got in the present, on purpose, at some smaller scale.
+None of this makes you naive or a bad witness to your own life. The romanticizing is doing a job. It is worth noticing rather than correcting, because underneath every idealized period there is usually a specific thing you actually want more of now, and that thing can generally be got in the present, on purpose, at some smaller scale.
 
 ## Why Does the Story Change Slightly Every Time You Tell It?
 
@@ -395,7 +395,7 @@ Because it has not settled, and a story that has not settled keeps getting worke
 
 Almost everybody who notices this in themselves finds it alarming. You are mid-sentence, telling a friend what happened, and you register that the details have shifted from how you told it last year. Some things have grown, others have quietly dropped out. The private conclusion people jump to is that they are exaggerating, or lying, or that the whole thing may not have been as bad as they remember.
 
-That conclusion is almost always wrong. Inconsistent accounts of a difficult past are usually an attempt to cope with material that never made emotional sense, rather than any kind of dishonesty. The version told on a raw day emphasises different things than the version told to a colleague. The version that protects somebody you still love leaves out the part that indicts them. All of them are attempts at a shape you can live with, and the revising continues precisely because none of the shapes has fitted yet.
+That conclusion is almost always wrong. Inconsistent accounts of a difficult past are usually an attempt to cope with material that never made emotional sense, rather than any kind of dishonesty. The version told on a raw day puts the weight on different things than the version told to a colleague. The version that protects somebody you still love leaves out the part that indicts them. All of them are attempts at a shape you can live with, and the revising continues precisely because none of the shapes has fitted yet.
 
 Two neighbors of this are worth naming. The first is a strong desire to control how you get described, so that nothing can be misread or used later, which is exhausting to maintain and tends to make ordinary conversations feel higher-stakes than they are. The second is the version where a story hardens instead of settling, keeps running in the present tense long after the events closed, and starts organizing decisions that have nothing to do with it. [That particular hardening is worth understanding on its own terms.](/patterns/victim-mentality/)
 
@@ -468,4 +468,4 @@ Run a doorway log for three days. Every time you notice the rewind has started, 
 
 Then read the list on the third night. Most people are surprised, because the replay turns out to have a small number of consistent doorways in the present: a particular hour, a specific kind of silence, a certain tone from somebody at work, the twenty minutes after a message goes unanswered. That is genuinely useful information, and it costs you three days of noticing. A memory is difficult to work with directly. A doorway you can name is a much smaller thing, and it exists in the present, where you actually live.
 
-If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that somebody who has spent years managing their own account of things cannot quietly stay outside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finally looking at what you have been carrying is rarely wasted, whatever you decide afterward.
+If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that somebody who has spent years managing their own account of things cannot quietly stay outside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finally looking at what you have been carrying is rarely wasted, whatever you decide afterward.

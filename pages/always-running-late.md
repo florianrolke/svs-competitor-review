@@ -72,7 +72,7 @@ faqs:
 - q: "Does chronic lateness hurt my career?"
   a: "It can, in a way that is hard to see from inside. The damage is rarely a single reprimand. It shows up as work that gets routed elsewhere, invitations that quietly stop arriving, and a reputation for being talented and unreliable that nobody says out loud. The cost is opportunity that fails to accumulate rather than opportunity visibly lost."
 - q: "How long does it take to change this?"
-  a: "Noticing arrives inside two weeks, the layout changes take about a month, and the reflex takes a season. Most people can catch themselves starting the last task within a fortnight, which counts even on the days it still happens. The morning routine responds fastest because you can pre-decide it. Anything tangled with a person or a place you have feelings about takes longest."
+  a: "Noticing arrives inside two weeks, the layout changes take about a month, and the reflex takes a season. Most people can catch themselves starting the last task within two weeks, which counts even on the days it still happens. The morning routine responds fastest because you can pre-decide it. Anything tangled with a person or a place you have feelings about takes longest."
 - q: "When does this belong with a professional rather than a page like this?"
   a: "When the reluctance to arrive somewhere has spread into avoiding it entirely, when getting out of the door has become genuinely hard on most days rather than tight on some, or when the dread before ordinary appointments has grown over months instead of staying steady. Any of those belongs with a licensed professional now rather than after another round of self-management."
 related:
@@ -113,7 +113,9 @@ Two things are almost certainly true about you if you are reading this. The firs
 
 So this page will not tell you that you are disrespecting people's time. You have that file open permanently. It will not tell you to want it more, either, because wanting it has never been the missing ingredient. What follows is an attempt to work out what actually happens in the twenty minutes before you leave, which is the only place any of this has ever changed.
 
-## What Actually Happens in the Last Twenty Minutes?
+## Why Am I Always Late Even for Things and People I Care About?
+
+The caring is intact. What fails is the leaving, and that makes the useful question a much narrower one: what actually happens in the last twenty minutes?
 
 Something gets decided, several times, in about four seconds each.
 
@@ -175,6 +177,8 @@ This is the single most useful question on the page, and most people have never 
 
 If your estimating were simply broken, you would be late everywhere, evenly. Broken arithmetic does not know who it is being applied to. It would make you late for the plane and late for the interview and late for your sister at exactly the same rate. Almost nobody reports that. What people report instead is a pattern with a very clear shape, and the shape is what tells you which root is yours.
 
+The 1994 completion-date study named earlier is worth reading twice for what it leaves out. It measured one kind of task, academic work with a deadline, it found the error running in a single direction for the group as a whole, and it never once asked who the work was for. An error that runs the same way for everybody cannot by itself produce a pattern that treats a plane differently from a sister, which is why that study can establish the direction of the mistake and can say nothing at all about how the mistake gets distributed across the people in your life.
+
 | Where you are reliably on time | Where you are reliably late | What the difference points at |
 |---|---|---|
 | A flight, or a train you cannot get on later | Dinner with a friend who will wait | The consequence lands on you, immediately, and no apology can undo it |
@@ -192,7 +196,9 @@ Either the pattern is genuinely flat, and you are late by roughly the same margi
 
 Or the pattern is not flat at all, and there is a shape to where the minutes go. In which case something is selecting. And whatever is doing the selecting knows the difference between a plane and a person, which means it is not an estimating error at all, and no amount of better estimating will touch it.
 
-## Where Does the Time Actually Go When You Count It?
+## How Can I Estimate the Real Door-to-Door Time Instead of Just the Drive?
+
+By counting the segments instead of picturing the trip, which means starting with the question sitting underneath it: where does the time actually go when you count it?
 
 Into the segments that never appear in the number you carry in your head.
 
@@ -250,6 +256,8 @@ The belief is that unassigned time is waste. Under that belief, standing in a ha
 
 Notice what this root shares with a much more visible pattern. The person who cannot let four minutes stand empty is usually the same person who cannot let a Sunday afternoon stand empty. If that lands, [the wider version of it has a page of its own](/patterns/why-am-i-always-busy/), and it is probably the more important read of the two.
 
+There is one laboratory result that maps onto that belief, and it is carried in full on the page just linked rather than repeated here, because a finding with a home does not get stronger for being cited twice. Its limit is the part worth bringing back with you. It was a supplied wait with a supplied choice, run on volunteers who had nothing waiting for them at the far end of it, and nobody has yet measured this decision where it actually happens, which is a real hallway with a real appointment on the other side of it. Until somebody does, that result describes your four minutes rather than explaining them.
+
 There are three tells that separate this root from ordinary poor estimating.
 
 The first is that you can name the task. People whose problem is arithmetic cannot tell you where the minutes went. People whose problem is the last task can tell you exactly, every time, and often find it slightly funny in retrospect.
@@ -271,6 +279,10 @@ If this is your root, you can test it in about four seconds. Picture arriving at
 For a large number of chronically late people, the second picture is genuinely more comfortable than the first, and until somebody spells it out they have never noticed that this is true.
 
 The mechanism is straightforward once you see it. Waiting alone in a public space is one of the few remaining situations in ordinary adult life where you are unoccupied and observable at the same time. There is no role available. You are not doing anything and you are not with anyone, and if any part of you carries a background belief that you are being evaluated, that combination is uncomfortable in a way that has nothing to do with time management.
+
+One piece of research gets unusually close to this. In 2015 the Journal of Consumer Research published a paper called *Inhibited from Bowling Alone*, and its subject is almost exactly the thing described above. People hold back from doing enjoyable things on their own, it reported, and they hold back most when the activity is visible to other people, because they expect observers to read going alone as a fact about how connected they are. Two further results in the same work matter for the fix at the end of this section. People overestimate how much their enjoyment of the thing depends on having somebody there with them. And anything that makes the activity look purposeful rather than purely for pleasure, or that cuts down how many people they expect to be watched by, raises their willingness to go alone.
+
+The limit is worth stating plainly. That research studied choices made in advance about optional pleasures, a meal or a movie you could simply skip, rather than fifteen minutes of waiting for somebody who is definitely coming. It also measured what people expected to feel rather than what they felt once they were there, and the gap between those two is one of its own findings. So the honest reading of it is narrow. It shows that the reluctance is common, that what people flinch from is being observed rather than being by themselves, and that it moves when the activity acquires a purpose, which is the only reason giving early a job works at all.
 
 Lateness solves this elegantly and invisibly. Arrive late and the waiting-alone segment simply does not exist. Someone else did it. The cost is an apology, which you are extremely practiced at delivering, and the apology has become so routine that it registers as cheaper than the fifteen minutes of exposure it prevents.
 
@@ -310,6 +322,8 @@ This root is the least discussed and one of the more common. It shows up in a ve
 
 The mechanism is not mysterious. Urgency narrows attention, removes ambivalence and makes decisions feel consequential. Everything that was vague becomes sharp. For someone whose ordinary day contains a great deal of low-grade obligation and very little that feels sharp, an eleven-minute emergency is a genuine supply of something, and the body learns where to get it.
 
+This is the thinnest-evidenced of the five roots, and saying so is more useful than dressing it up. There is a large body of work on how urgency narrows attention, and a large body of work on boredom, and neither of them was ever run on people leaving the house late. What holds this root up is the consistency of the self-report, which is a weaker thing than an experiment and a stronger thing than nothing at all. Treat it as a description a great many people recognize instantly rather than as a mechanism somebody has measured, and check it against the two tells below.
+
 Two tells separate this root from the others.
 
 The first is how leaving on time feels. Someone with an estimating problem who leaves on time feels relieved. Someone with this root feels flat, and slightly disappointed, and would not be able to explain why. If you have successfully left early and found the drive strangely deflating, that is the tell.
@@ -336,7 +350,7 @@ Almost everybody who arrives late to rooms also arrives late to things that have
 | Bedtime | Half an hour after the point you decided on, every night | It is your own time |
 | Appointments you never rebooked | The dentist, the check-up, the follow-up | Nothing has gone wrong yet |
 | Leaving a conversation | Twenty minutes past the point you meant to go | It reads as warmth |
-| Starting the holiday packing | The night before, at eleven | Everyone does this |
+| Starting the vacation packing | The night before, at eleven | Everyone does this |
 | Ending your working day | An hour past the time you told yourself | It looks like commitment |
 
 The reason to look at this list is that it tells you something the arrival-time version cannot. If the pattern shows up everywhere a due date exists, including in situations with no other person in them at all, the roots that involve other people are less likely to be the main story, and the arithmetic or the last-task root is more likely to be. If it shows up only where somebody is waiting, the reverse.
@@ -391,6 +405,24 @@ The temptation will be to attach the reason. Resist most of it. A long explanati
 
 There is also a distinction here worth making for yourself rather than for them. We want to give something an explanation, and we also do not want to make it into a story, so that we have an excuse. Seeing the difference between an explanation and searching for where the behavior actually comes from matters, and not mistaking the explanation for a story you tell yourself and other people, and really not wanting to face the real issue underneath. The traffic is an explanation the first time. Told forty times, in the same words, it becomes a story, and the story's actual function is to end the inquiry before it reaches the four minutes in the hallway.
 
+## How Does Repeated Lateness Affect What a Boss, Partner or Friend Believes About Me?
+
+It changes the explanation they reach for, from something about the day to something about you, and it happens quietly enough that nobody announces it.
+
+You hold information they do not. You were in the hallway. You know the wash went on, the keys were gone for a while, and the message arrived at the worst possible moment, and all of that is true, specific, and different every time. They see the arrival. Across enough arrivals the circumstances vary and you are the thing that repeats, so the explanation that survives is the one that fits every instance, and the one that fits every instance is your character. Nobody enjoys making that reading. It is simply the only one left once the situational ones have been used up.
+
+The shape it takes depends on the room.
+
+At work it almost never arrives as a conversation. It shows up as things quietly reassigned, a meeting somebody else was asked to open, an invitation that did not come, and a description of you as capable and a bit unreliable that circulates while you are not there. The cost is opportunity that fails to accumulate rather than opportunity visibly lost, which is why this version can stay invisible from the inside for years.
+
+With a partner it stops being about the clock fairly early. The lateness turns into material in arguments that are actually about priority, and the sentence you hear back is rarely about minutes. It is some version of everything else comes first. That is why the reaction can feel wildly out of scale to you and exactly in scale to them.
+
+With friends it turns into private arithmetic. They start giving you a start time earlier than the real one. They stop suggesting the things that need timing, the movie with the trailers, the table held for fifteen minutes, and they suggest the things that survive you arriving late instead. Most of them will never raise any of it, because adding the extra minutes themselves is easier than having the conversation.
+
+Two things are worth knowing about all three rooms. The first is that what has moved is what they expect of you rather than what they feel about you, which is why people who are genuinely loved still get given a start time earlier than the real one. The second is that an expectation is rebuildable, and it rebuilds off arrival times rather than off explanations. [Where the apology itself goes wrong has a page of its own](/patterns/over-apologizing/), and [what happens to a promise that keeps getting broken is treated properly here](/patterns/promises-i-dont-keep/), including the research on what recovers after repeated small breaches and what stops recovering, which belongs on that page rather than this one.
+
+The honest limit on all of it. Nobody has established how many latenesses flip the reading from circumstance to character, and any specific number quoted for that has been invented. What is reasonably well described is the direction of travel, and the direction only reverses at the pace of your next twenty arrivals, which is slower than you would like and faster than most people fear.
+
 ## What Would You Have to Give Up to Be On Time?
 
 More than anybody admits when they hand out the advice, which is why the advice keeps not working.
@@ -421,6 +453,8 @@ Your environment affects you and impacts you more than you think. It has already
 
 Applied here, that means seven concrete things. None of them is inspiring. All of them survive Thursday.
 
+Underneath all seven sits one model, and it is worth naming as a model rather than as a discovery, since the body of work behind it is treated properly on [the page about whether this is a discipline problem](/patterns/is-this-a-discipline-problem-or-something-else/) and does not need re-citing here. The model says that a plan stated as an if-then rule, naming the exact moment and the exact action, outperforms a plan stated as an intention, because the moment does the remembering instead of you. Two limits are worth carrying with it. The effect is better established for starting a behavior than for stopping one, which matters here, because the pre-decided rule about the last thirty minutes is the one item below that asks you to stop something. And a plan tied to a specific moment quietly stops working when that moment changes, which is why somebody who moves house or changes jobs finds all of this collapsing inside a month and concludes they were never really fixed.
+
 **Give the departure a slot of its own.** The event is in your calendar and the leaving is not, which is the whole problem in one sentence. Put the departure in as its own entry, with the word leave in it, at the time unpacking says you need. The event time can stay where it is. It is the departure that needs the alert.
 
 **Unpack once per destination.** Do the segment list from earlier for your five most common trips. Write the total somewhere you will find it. You never have to do it again for those five, and they are probably eighty percent of your appointments.
@@ -450,7 +484,7 @@ Quieter than you imagine, and mostly noticeable through what stops happening.
 | The departure time is a subtraction you do in the hallway | The departure time is an entry in the day | An alarm goes off that says leave |
 | You start something with four minutes left | The last half hour has a short list of permitted things | The dishwasher stays full and nothing bad happens |
 | The estimate comes from a clean run | The estimate comes from the last four actual arrivals | You allow thirty-eight minutes for a twenty-minute journey |
-| Early means sitting exposed with nothing to do | Early has a job attached to it | You read eleven pages in a car park and it is the best part of the day |
+| Early means sitting exposed with nothing to do | Early has a job attached to it | You read eleven pages in a parking lot and it is the best part of the day |
 | The sprint supplies the energy | The energy comes from something you chose | The drive is dull, which turns out to be acceptable |
 | The apology opens every conversation | The greeting opens every conversation | Nobody is owed anything before you sit down |
 | Your reliability tracks who set the time | Your reliability tracks what you agreed to | Family lunch gets the same treatment as the flight |
@@ -461,7 +495,7 @@ The last row is the one people report as the strangest. The absence of comment i
 
 ## How Long Does This Take, Honestly?
 
-Noticing arrives in a fortnight, the layout changes take a month, and the reflex takes a season.
+Noticing arrives in two weeks, the layout changes take a month, and the reflex takes a season.
 
 Expect three uneven stages, and expect the first one to be more irritating than satisfying.
 
@@ -483,7 +517,7 @@ Take the next appointment in your calendar that you would ordinarily be late for
 
 Then watch what happens at that alarm, because the ninety seconds of arithmetic is only half the exercise. The other half is finding out which of three things you do.
 
-You stand up and leave, and arrive with time in hand, and feel mildly bored in a car park. In which case your root was largely arithmetic and you have most of what you need already.
+You stand up and leave, and arrive with time in hand, and feel mildly bored in a parking lot. In which case your root was largely arithmetic and you have most of what you need already.
 
 Or you stand up, and something in you looks around the room for one last thing to do, and you can feel the pull of it. In which case you have located the live wire in a single attempt, from the outside, for the first time.
 

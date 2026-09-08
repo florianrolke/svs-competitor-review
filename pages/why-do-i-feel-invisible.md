@@ -288,7 +288,7 @@ Every one of those is uncomfortable in a specific way that is worth predicting i
 
 Is any of this comfortable? No. It is small, repetitive, freaking unglamorous work, and it holds when a single dramatic conversation about feeling unseen does not.
 
-I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What I underestimated longest was how much of this came down to one unpractised move: asking somebody already sitting in front of me for something specific, and then staying in the room while they answered it. I had spent years upgrading the people. The move was the part that needed the work, and it took a long time to admit that, because upgrading the people is far more interesting.
+I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What I underestimated longest was how much of this came down to one unpracticed move: asking somebody already sitting in front of me for something specific, and then staying in the room while they answered it. I had spent years upgrading the people. The move was the part that needed the work, and it took a long time to admit that, because upgrading the people is far more interesting.
 
 ## Why Does It Come Back the Moment You Walk Into Your Parents' House?
 

@@ -291,7 +291,7 @@ The fix is unglamorous and it works. Write the estimate down before you say it, 
 
 Then the delivery was never the point, and the tell is that you cannot remember what you agreed to.
 
-This is the least discussed of the five and the most common in working life. Somebody raises something at the end of a meeting, or catches you in a corridor, or brings up a subject you do not want to open right now. What you want is for the exchange to stop. The fastest available stopper is a commitment, because a commitment closes a loop in a way that a question or a hedge does not. So you say leave it with me, or I will sort that out, or send it over and I will take a look this week.
+This is the least discussed of the five and the most common in working life. Somebody raises something at the end of a meeting, or catches you in a corridor, or brings up a subject you do not want to open right now. What you want is for the exchange to stop. The fastest available stopper is a commitment, because a commitment closes a loop in a way that a question or a hedge does not. So you say leave it with me, or I will work that out, or send it over and I will take a look this week.
 
 None of that was a forecast. It was a door, and it worked immediately, which is why it keeps getting used.
 
@@ -307,7 +307,7 @@ Because the honest revision gets more expensive every day it is postponed, while
 
 Watch the arithmetic of a slipping promise. On day two you know the date is wrong. Correcting it on day two costs one message and a small amount of embarrassment. On day nine, correcting it costs one message, the same embarrassment, plus an explanation of why you waited a week. On day sixteen it costs all of that plus the fact that they have now planned around a date you knew was wrong for two weeks. The price of honesty rises steadily and the price of silence stays at zero right up until the deadline, at which point it becomes very large all at once.
 
-Staw's work on escalation of commitment describes the same shape in organizational decisions, and Brockner's 1992 review found it robust across settings. Once a course has been publicly chosen, evidence that it is going badly tends to produce further commitment rather than revision. Applied to a Friday you named at a kitchen table, this predicts precisely what people report: a fortnight of intending to send the message, and then a delivery at sixty percent on the day itself with an apology attached.
+Staw's work on escalation of commitment describes the same shape in organizational decisions, and Brockner's 1992 review found it robust across settings. Once a course has been publicly chosen, evidence that it is going badly tends to produce further commitment rather than revision. Applied to a Friday you named at a kitchen table, this predicts precisely what people report: two weeks of intending to send the message, and then a delivery at sixty percent on the day itself with an apology attached.
 
 There is a second mechanism stacked on the first. The revision message feels like it requires an explanation, and explanations invite discussion. Discussion is exactly what you did not want, which was often the reason the promise got made in the first place. So the message keeps not getting written, because in your head it is four paragraphs long.
 

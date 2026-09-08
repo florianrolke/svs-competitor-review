@@ -25,7 +25,7 @@ faqs:
     and the good feeling lasts more than an afternoon. Fear-driven pursuit discounts
     the result almost immediately and has the next target running before the current
     one has been felt. Working hard tells you very little on its own. What happens
-    afterwards tells you almost everything.'
+    afterward tells you almost everything.'
   q: How do I know if I am driven or just afraid of not being good enough?
 - a: They overlap and they behave differently. Impostor feelings center on the dread
     of being exposed as a fraud despite a real track record. This pattern centers
@@ -38,7 +38,7 @@ faqs:
     written down on arrival and the total does not move. More achievement is the strategy
     that built the pattern, which makes it a poor candidate for the exit from it.
     People routinely reach the exact position they aimed at for a decade, find it
-    flat within a fortnight, and conclude they picked the wrong target rather than
+    flat within two weeks, and conclude they picked the wrong target rather than
     noticing the machinery.
   q: Will succeeding more eventually make this feeling go away?
 - a: Because accepting it would mean agreeing that the work was good, which this pattern
@@ -51,10 +51,10 @@ faqs:
 - a: Because the scoreboard goes quiet and there is nothing left to post to it. For
     the first two days the trip itself counts as an achievement. By day three it is
     simply time passing, and time passing with nothing added registers as falling
-    behind. Most people handle it by optimizing the holiday, booking excursions and
+    behind. Most people handle it by optimizing the vacation, booking excursions and
     tracking steps. Leaving one full day unplanned, and letting it be boring, is the
     more useful experiment.
-  q: Why does a holiday start to feel uncomfortable by the third day?
+  q: Why does a vacation start to feel uncomfortable by the third day?
 - a: Because personal value has been tied directly to output, so a day with nothing
     to show for it reads as a day in which you were nothing. The equation runs continuously
     and it does not pause for weekends, illness, or bereavement. It helps to know
@@ -87,7 +87,7 @@ faqs:
     for next time. Many people manage that by editing what they report, keeping the
     wins modest and leaving the struggles out entirely. The call then runs on a version
     of you that does not exist, which is quietly tiring in a way that is hard to name
-    afterwards.
+    afterward.
   q: Why do I feel worse after telling my parents good news?
 - a: Because achievements work as a shield. Steering a conversation toward work, results,
     or credentials reliably keeps it away from anything more personal, and it does
@@ -324,7 +324,7 @@ The two are almost impossible to separate from outside and reasonably easy to se
 
 Healthy ambition is pursued because the work itself is interesting, and when it pays off the accomplishment registers. It gets felt, enjoyed, described to somebody at dinner, occasionally rested on for a stretch. This pattern is pursued because failing to achieve would expose an underlying inadequacy, and the accomplishment does not land at all. It gets discounted, reassigned to luck or timing, or superseded by the next target before there was ever a chance to feel it.
 
-There are several neighbouring experiences that get named interchangeably online and that behave completely differently inside a life. Find the row that matches your last three months rather than the row that matches your worst evening.
+There are several neighboring experiences that get named interchangeably online and that behave completely differently inside a life. Find the row that matches your last three months rather than the row that matches your worst evening.
 
 | What you notice | What it usually is | The thing that separates it |
 |---|---|---|
@@ -346,7 +346,7 @@ The cleanest test runs on the day the thing falls through. Wanting something and
 
 Two people can hold the same goal, describe it in the same words, and put in the same hours. When a preference gets missed, what turns up is disappointment sized roughly to the thing that was lost, and it clears in a few days. When identity has fused to the goal, missing it produces a fear that operates at survival level, because what was riding on the outcome was whether you amount to anything at all. From outside, the two are indistinguishable. Underneath, they are running on completely different stakes.
 
-Intensity is a weak signal here. Plenty of people care enormously about their work, put in absurd hours, and are basically fine when a piece of it collapses. Disproportion is the reliable one. A reply that takes three days. A launch pushed back a fortnight. A mild correction from somebody senior. What arrives is several sizes larger than the event that caused it, and the size is the information.
+Intensity is a weak signal here. Plenty of people care enormously about their work, put in absurd hours, and are basically fine when a piece of it collapses. Disproportion is the reliable one. A reply that takes three days. A launch pushed back two weeks. A mild correction from somebody senior. What arrives is several sizes larger than the event that caused it, and the size is the information.
 
 What makes that so hard to catch in yourself is that the trigger is almost always legitimate. There is a real deadline, a real client, a real amount of money involved. Because you have an actual reason to be upset, the scale of the upset never comes up for examination. The event was genuine and the intensity was being supplied by something else entirely, which is why arguing about whether the deadline mattered never settles anything.
 
@@ -373,7 +373,7 @@ In practice the ingredient that has to go is small and specific. Somebody who sp
 
 ## What Happens to a Win in the First Twenty-Four Hours?
 
-It gets processed, filed, and neutralised, usually before anybody else has even responded to it.
+It gets processed, filed, and neutralized, usually before anybody else has even responded to it.
 
 Watch the sequence on the last thing you finished that genuinely mattered. There is a window at the start where it nearly lands, sometimes an hour, occasionally a whole evening. Then four moves happen in quick succession, and none of them feel like decisions.
 
@@ -384,7 +384,7 @@ Watch the sequence on the last thing you finished that genuinely mattered. There
 
 Here is the piece that gives the mechanism away. All four of those moves usually complete before any external feedback has arrived. Nobody disappointed you. Nothing went wrong. The discount is internal, automatic, and it runs on schedule.
 
-So the total never moves. A scoreboard that resets the moment you look at it does not keep a score, and thirty more years of results will not change that, because the resetting is what is doing the work. People describe reaching the precise position they aimed at for a decade, finding it flat within a fortnight, and quietly concluding that they must have chosen the wrong target. The target was fine. The instrument reading it was set to zero at the factory.
+So the total never moves. A scoreboard that resets the moment you look at it does not keep a score, and thirty more years of results will not change that, because the resetting is what is doing the work. People describe reaching the precise position they aimed at for a decade, finding it flat within two weeks, and quietly concluding that they must have chosen the wrong target. The target was fine. The instrument reading it was set to zero at the factory.
 
 ## What Is All the Motion Keeping You Away From?
 
@@ -420,13 +420,13 @@ Not every case traces back to a parent. A boarding school where the ranking went
 
 Because a monitor that never goes off duty needs paperwork, and the tracking is the paperwork.
 
-This is one of the least discussed features of the pattern and one of the most recognisable once named. Obsessive note-taking, journaling, and record-keeping, particularly about achievements and productivity. Compulsive organizing and categorising of work and of personal things. A habit tracker with a streak on it that has quietly become an obligation. A spreadsheet of goals with a progress column. A reading log. A running total of something.
+This is one of the least discussed features of the pattern and one of the most recognizable once named. Obsessive note-taking, journaling, and record-keeping, particularly about achievements and productivity. Compulsive organizing and categorizing of work and of personal things. A habit tracker with a streak on it that has quietly become an obligation. A spreadsheet of goals with a progress column. A reading log. A running total of something.
 
 Plenty of people track things for good reasons and none of that is a problem in itself. The tell is what the record is for. A log kept out of curiosity gets consulted occasionally and forgotten for weeks. A log kept by this pattern gets consulted for a ruling, and the ruling is available on demand: here is the evidence that today was allowed to count, or here is the evidence that it was not.
 
 The surveillance runs perfectly well without an app. A continuous internal commentary on how the day is going relative to what it should have produced, with self-critique attached, is the same monitor working without instruments. The commentary started as somebody else's voice and now has no source you could point at, which is what makes it so hard to argue with. You cannot leave a job to escape it and you cannot move country to escape it, because it is already packed.
 
-The exhausting part is that it costs nothing to run and never sleeps. Rest, holidays, illness and bereavement all get logged as periods in which nothing was produced. [Where that voice tips over from monitoring into outright attack, that is a heavier pattern with a page of its own.](/patterns/self-loathing/)
+The exhausting part is that it costs nothing to run and never sleeps. Rest, vacations, illness and bereavement all get logged as periods in which nothing was produced. [Where that voice tips over from monitoring into outright attack, that is a heavier pattern with a page of its own.](/patterns/self-loathing/)
 
 ## Where Does It Hide When You Would Not Call It Ambition?
 
@@ -435,7 +435,7 @@ In about ten arenas, and most people recognize two or three of them immediately 
 | Where it shows up | What it looks like from outside | The sentence underneath |
 |---|---|---|
 | With a finished project | The next thing begun before the last one has been announced, let alone enjoyed | "My achievements are never enough." |
-| With rest | A weekend that needs justifying, a holiday spent feeling behind, a sick day worked through | "I must exceed in everything, or I'm just not good enough." |
+| With rest | A weekend that needs justifying, a vacation spent feeling behind, a sick day worked through | "I must exceed in everything, or I'm just not good enough." |
 | With praise | A compliment met with a correction, credit redistributed, the achievement made smaller in the retelling | "Success is only measured by tangible achievements." |
 | With other people's wins | A tightening at a peer's good news, then shame about the tightening, then an audit of your own year | "Others' achievements are a benchmark I must surpass." |
 | With your parents | A curated report, struggles removed, wins trimmed, the call followed by a flat afternoon | "Nothing I do is ever good enough for my parents." |
@@ -487,7 +487,7 @@ Receiving is its own distinct difficulty and the one people miss in themselves f
 
 Yes, and this is the version of burnout that goes unnoticed longest, because every external signal is green while it happens.
 
-The far end of this pattern has a handful of recognisable shapes and none of them look like failure from outside.
+The far end of this pattern has a handful of recognizable shapes and none of them look like failure from outside.
 
 1. **Burnout arriving mid-run.** Exhaustion that shows up in the middle of the strongest professional stretch of your life, which makes it almost impossible to explain to anybody, including yourself.
 2. **Impostor feelings.** A record that keeps growing alongside a private certainty that it belongs to somebody else. [That one has its own page.](/patterns/impostor-syndrome/)
@@ -536,7 +536,7 @@ It helps to understand the shape of this before starting, because the obvious ap
 1. **Catch the discount in real time.** The moment a win lands, watch for the reflex to hand it to luck or to shrink it. You are not required to stop the reflex. Noticing it while it happens, several times a week, is the entire first stage and it is more useful than any amount of thinking about the pattern in the abstract.
 2. **Put a deliberate pause between finishing and starting.** Set an actual boundary: the next thing begins tomorrow morning, not this afternoon. The discomfort that shows up in the empty hours is the real material here, and it is also the exposure the whole system was built to prevent.
 3. **Tell one person, and stop there.** Say what you finished, out loud, without adding the qualifier about how it was mostly timing. Then let the sentence sit. For anybody who has spent decades pre-emptively shrinking their own results, this is harder than it looks on paper.
-4. **Let one piece of praise stand each week.** Thank you, full stop. No correction, no redistribution of credit, no returned favor that evening. The urge to level the exchange will arrive within about two seconds and the practice is to do nothing about it.
+4. **Let one piece of praise stand each week.** Thank you, period. No correction, no redistribution of credit, no returned favor that evening. The urge to level the exchange will arrive within about two seconds and the practice is to do nothing about it.
 5. **Rest before you have earned it, on purpose.** Take an hour on a day that produced nothing. The guilt turns up roughly on schedule. Stay in the hour, produce nothing to end it, and notice that it passes on its own. That noticing is the whole exercise, and it needs repeating many times before it counts for anything.
 6. **Keep one pursuit with no scoreboard attached.** Something you are not good at, that produces nothing, that nobody measures. The fact that it initially feels like a waste of time is precisely why it works, because it builds somewhere in your week the accounting cannot reach.
 7. **Separate the report on the work from the report on you.** After feedback, write one line in the imperative about what to change in the work. Then check whether anything in your line is a statement about you as a person. Almost never is. That sorting step happens automatically in most people and in this pattern was never installed.
@@ -564,4 +564,4 @@ Open a note on your phone and write down the last five things you achieved that 
 
 Read the list back. Most people find two things. The numbers are far smaller than they expected, and they are remarkably consistent across achievements of wildly different sizes, which tells you the length of the pause is a property of the machinery rather than a property of the achievement. That is a genuinely useful five minutes whether or not you ever do anything else about this, and it gives you a baseline you can measure against in a year.
 
-If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the high performer cannot quietly hide behind being useful, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what the striving has been standing in front of is rarely wasted, whatever you decide afterwards.
+If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the high performer cannot quietly hide behind being useful, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what the striving has been standing in front of is rarely wasted, whatever you decide afterward.

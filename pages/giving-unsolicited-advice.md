@@ -116,7 +116,9 @@ And you drive home slightly off. Not guilty exactly. Something more like having 
 
 This page is about that specific act. The solution offered while the problem is still being described. Not the taking over of somebody's task, which is a different behavior with [its own page](/patterns/volunteering-for-everything/). Not lifting the problem out of their hands entirely, which is [also its own page](/patterns/why-do-i-always-try-to-fix-everyone/). This one is narrow and verbal: the answer that arrives before the question, in ordinary conversation, where nothing is taken over and nothing is done, and something still goes quietly wrong.
 
-## What Actually Happens in the Seconds Before You Start Talking?
+## Why Do I Give Advice When Nobody Asked Me For It?
+
+Because of what happens in the seconds before you start talking, which is worth taking apart before anything else. The sequence completes without once checking whether an answer was wanted, and it completes fast enough that there is no obvious place inside it where a decision was made.
 
 Four steps, in the same order almost every time, and the whole thing takes about as long as a sentence.
 
@@ -132,6 +134,8 @@ Watch the sequence rather than the outcome and something becomes obvious. Betwee
 
 There is a further thing worth saying about the pull itself, because most people who notice it start treating it as a character verdict. Sometimes the emotional response is wrong, but often the emotional response is also just a habit. A habit fires on a cue rather than on a reading of the room, which is precisely why it can fire in a conversation where it does not fit at all, with somebody you love, about a subject you know nothing about.
 
+The finding that speaks most directly to this question already sits further down the page, in the section on telling wanted advice from advice that lands as a correction: the identical suggestion was evaluated well when it arrived after an invitation and badly when it arrived without one, which puts the whole difference in the sequence above rather than in the quality of what you had to say.
+
 ## Why Does Their Face Change While You Are Still Being Helpful?
 
 Because three messages travel with any solution, and only one of them is the one you meant.
@@ -145,6 +149,8 @@ The third is the one that stings, and it is entirely unintentional. A solution i
 So the face closes. Not because the advice was bad. Because the person now has to manage a small unexpected question about whether they look stupid, on top of the thing they came in with.
 
 Then they say yeah, I tried that. Sometimes true, sometimes not, and either way it is the fastest available exit. And the conversation moves on to something lighter, and you both leave with the sense that it went slightly flat without either of you being able to say why.
+
+It shows up hardest with a partner, because a partner brings you the unfinished version of a week rather than the tidied one, and the unfinished version reads as a problem long before anybody has turned it into a request. The vocabulary for what happens next sits further down this page, where researchers describe the same act as conveying care while implying the other person could not have handled it alone, and the limit belongs in the same breath, because that work describes what reaches the listener and stops there, so a closed face tells you where your sentence landed and nothing about whether you are still welcome in the conversation.
 
 ## What Do Researchers Call This, and Where Do the Names Stop?
 
@@ -333,11 +339,31 @@ This is deliberately different from the standard move of asking whether somebody
 
 The sequence finding is what stands behind all three steps. Advice preceded by emotional support and by genuine inquiry into the problem was evaluated better than the identical advice delivered cold. The three steps above are simply the shortest workable version of that sequence, sized to fit an actual conversation rather than a laboratory.
 
+## How Do I Stop Giving My Employees Solutions Before They Finish Explaining the Problem?
+
+Because the reflex is the same one, and work is where it gets paid for.
+
+Everything above was written about friends and partners. At the office the identical chain runs faster and with better cover, because part of what you were hired for is the retrieval step. Somebody starts describing a problem, you sort it into a category by the second sentence, the answer surfaces, and the pressure to deliver it now arrives wearing a reason that sounds like duty. You are saving them time. You have seen this one before. There are thirteen minutes left.
+
+What it costs is quieter than the version at home and it compounds. A person interrupted by the answer four or five times stops bringing you the half-formed thing, which was the only version you could have shaped. They bring the finished version instead, later, when changing it is expensive. And they stop practicing the part of the job you keep doing for them, so the next problem arrives in the same undeveloped state, which reads to you as further proof that the answer had to come from you.
+
+The three steps above transfer with one change of scale.
+
+Run the question check unchanged. Has an actual question been addressed to me, or has a situation been described. In a one-to-one the answer is available in under a second, and the first week of asking it surprises most managers.
+
+Return one specific detail before anything else. The build failed on the second batch and not the first. The client moved the date after the scope was signed. Four words, and it proves you were still listening when the sentence ended.
+
+Then let the silence run long enough for them to finish the thought. This is harder at work than anywhere else, because a pause in a meeting reads as waste, and because your own answer is standing there fully formed with a justification attached.
+
+The sequence finding named further up this page is the reason to bother with any of it: advice that followed emotional support and a genuine inquiry into the problem was received better than the identical advice delivered cold, with nothing about the content changed.
+
+Two boundaries keep this usable. Answering is still allowed, and when a question is addressed to you, answer it once, plainly, and let them not take it. And this stays clear of taking work back or never handing it out, which are separate behaviors with their own pages: [the work that never gets handed over](/patterns/the-work-i-never-hand-over/) and [taking back work you already gave away](/patterns/doing-it-myself-because-its-faster/). What this section covers is narrower, which is the answer arriving before the problem has finished being described, in a conversation where nobody will tell you it landed badly, because you sign the reviews.
+
 ## Why Doesn't "Just Listen More" Work as an Instruction?
 
 Because it names a state instead of an act, and states cannot be performed.
 
-Look at what the instruction actually asks. Listen more. There is no start, no stop, no way to know at any given moment whether you are doing it, and no clean way to fail. An instruction you cannot check is an instruction you will drop inside a fortnight, and then file the dropping as further evidence that you are bad at this.
+Look at what the instruction actually asks. Listen more. There is no start, no stop, no way to know at any given moment whether you are doing it, and no clean way to fail. An instruction you cannot check is an instruction you will drop inside two weeks, and then file the dropping as further evidence that you are bad at this.
 
 There is a second problem with it and it is larger. The instruction is wrong a fair share of the time. Some of these conversations genuinely wanted an answer, and a person who has decided to stop giving advice will sit silently through a request and leave somebody unhelped in the name of a rule. That is its own failure and it is not a smaller one.
 
@@ -426,17 +452,19 @@ What they report as the real change is the other half. People bring them things 
 
 The mechanism they are running is smaller than it sounds. A system of life that works with life can be very simple if you make it so. Stop the confusions, let go of the distractions, and focus on the things that are essential. In this case what is essential is one check and four seconds, run in ordinary conversations, most days. Nothing larger than that was ever required, which is why the people who change it are rarely the people who understood it best.
 
-## How Long Does This Take to Change, Honestly?
+## How Long Does It Usually Take to Break the Unsolicited-Advice Habit, Honestly?
 
 Two speeds, and confusing them is what makes people quit in week three.
 
-Noticing arrives fast. Most people have several of these conversations a week, so within a fortnight you will catch yourself in the act at least three times. Catching it is uncomfortable, because you can watch the pressure build and deliver the suggestion anyway, in real time, fully aware. That is a real step regardless and everything after it depends on it.
+Noticing arrives fast. Most people have several of these conversations a week, so within two weeks you will catch yourself in the act at least three times. Catching it is uncomfortable, because you can watch the pressure build and deliver the suggestion anyway, in real time, fully aware. That is a real step regardless and everything after it depends on it.
 
 Changing it takes a season, because it moves at the speed of what you do rather than what you understand. Every conversation where the check ran and the four seconds happened is a small structural change, and the pattern recedes at the rate those accumulate.
 
 Expect the middle to feel bad. The silence will feel rude. You will be certain, several times, that you are being a worse friend by saying less, and there will be at least one conversation where you sat on something genuinely useful and regretted it. Expect all of that in advance so it does not arrive as a verdict.
 
 And expect it to return under pressure, particularly with the people you are most invested in and in the weeks when your own week is hardest. A behavior that was doing a job comes back whenever the conditions that made the job necessary come back. The difference by then is that you can see it happening, which is not nothing.
+
+One number belongs in this section and it is the absence of one. Nobody has timed the interruption of this particular habit in a way that would let anybody tell you how many weeks it runs to, and no study has followed people who set out to stop answering before they were asked. The measured work everybody quotes was done on people adding a daily behavior rather than stopping one, and [the page on breaking a habit](/patterns/how-to-break-a-habit/) carries that range with its limits in full, alongside [why the motivation for it runs out](/patterns/why-does-motivation-always-run-out/). So the honest answer is the two speeds above with no figure attached to either, and any number you are given for this behavior has been taken from the building half and carried across on hope.
 
 ## What Is One Thing to Do This Week, Before the Next Conversation?
 

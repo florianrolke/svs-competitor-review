@@ -36,7 +36,7 @@ faqs:
 - q: "What if there is a legal deadline in the pile?"
   a: "Then the pile has stopped being a psychological question and become a scheduling one, and this page is the wrong tool for it. Deadlines do not wait for you to understand yourself. Open only for dates, hand anything with a date on it to an advisor or a counselor this week, and come back to the why afterward. Understanding your own pattern is worth having and it will not stop a clock."
 - q: "Why do I feel dread when I see a brown envelope?"
-  a: "Because the object itself can carry a charge that has nothing to do with today's contents. In some households official post reliably preceded something bad, and the sequence gets learned early: the envelope arrives, the atmosphere changes. Years later the reaction fires on the sight of the thing, before you have read the sender, which is why the feeling can arrive faster than any thought about what is inside."
+  a: "Because the object itself can carry a charge that has nothing to do with today's contents. In some households official mail reliably preceded something bad, and the sequence gets learned early: the envelope arrives, the atmosphere changes. Years later the reaction fires on the sight of the thing, before you have read the sender, which is why the feeling can arrive faster than any thought about what is inside."
 - q: "Why can I do everything else and not this?"
   a: "Because this is the one category where doing it produces information you did not have and cannot return. Most tasks end when you finish them. Opening an envelope starts something: a number to hold, a decision to make, a call to place. If your avoidance is precise, and it usually is, that precision is a clue about which of those three is the one you cannot face."
 - q: "Should I just get somebody else to open it for me?"
@@ -45,8 +45,8 @@ faqs:
   a: "Because it clears the objects and changes nothing that produced them. The week goes back to having no hour in it for this, the app goes unopened again on the first bad month, and the pile rebuilds on the same schedule as before. Clearing feels like resolution because the surface is visibly different. Six weeks later the surface is the only thing that had changed."
 - q: "What do I do with the first envelope tonight?"
   a: "Pick one, set a timer for four minutes, and open it without deciding anything. You are allowed to read it and put it down. The rule that makes this work is that reading and acting are separated: opening does not commit you to a phone call, a payment or a plan tonight. Most people find the four minutes were generous and that nothing was required of them at all."
-- q: "Why do I feel sick when the post arrives?"
-  a: "Because your body has learned the timing. The letterbox has become a reliable cue that something is about to be added to the pile, and a cue that predicts a cost produces the cost in advance. That is ordinary learning working exactly as designed. It also explains why some people stop hearing the post entirely, which is the same mechanism running one step further along."
+- q: "Why do I feel sick when the mail arrives?"
+  a: "Because your body has learned the timing. The letterbox has become a reliable cue that something is about to be added to the pile, and a cue that predicts a cost produces the cost in advance. That is ordinary learning working exactly as designed. It also explains why some people stop hearing the mail entirely, which is the same mechanism running one step further along."
 - q: "Does opening one make the next one easier?"
   a: "Usually, and the reason matters. Each avoided letter is a rehearsal of avoidance, and the relief afterward makes the next avoidance more likely. Opening one runs the sequence the other way: the thing you predicted did not happen, and you now hold a piece of evidence against your own forecast. Two or three of those change the estimate more than any amount of reasoning about it."
 - q: "Why do unread messages feel the same as unopened letters?"
@@ -279,13 +279,13 @@ The signature.
 
 If this is your root, then the mechanism keeping it in place is concealment, and concealment is the thing that has to move first. The inside is only going to stay on the inside unless you make it known and public on the outside and back the idea with action. That does not mean announcing it. It means one person, chosen carefully, who is told the real shape of it once, plainly, without a speech attached. That single act does more to shift this root than any amount of privately opening envelopes, because a witness you have chosen changes what the institutional one means. [The feeling underneath this, where the situation gets read as a verdict about you, is set out separately.](/patterns/toxic-shame/)
 
-## What If Official Post Meant Something Bad in the House You Grew Up In?
+## What If Official Mail Meant Something Bad in the House You Grew Up In?
 
 Then the reaction will fire on the object itself, before you have read the sender, and the feeling will be older than any debt you currently have.
 
 In some households, printed envelopes with windows in them were reliably followed by something. A change in the atmosphere. A conversation behind a door. A parent going quiet, or not quiet. The sequence was consistent enough to be learned, and it was learned early, at an age where the learning happens without any of it becoming a memory you could narrate.
 
-Nothing exotic is required to explain this. A cue that reliably precedes something unpleasant comes to produce the response by itself, and that response is fast, physical, and largely independent of what you now believe. This is why a person can be financially secure, with nothing threatening in the post at all, and still get a drop in the stomach at the sight of a particular kind of envelope in the hall.
+Nothing exotic is required to explain this. A cue that reliably precedes something unpleasant comes to produce the response by itself, and that response is fast, physical, and largely independent of what you now believe. This is why a person can be financially secure, with nothing threatening in the mail at all, and still get a drop in the stomach at the sight of a particular kind of envelope in the hall.
 
 The signature is different from the other four.
 
@@ -295,7 +295,7 @@ The signature is different from the other four.
 - Emails from the same institutions bother you far less than the paper does.
 - You have a specific memory attached to post arriving, or a specific absence where a memory should be.
 
-If this is your root, the useful work is with the object rather than with the finances. The charge sits on a category of thing, and categories can be re-learned through repeated, deliberately boring exposure. Open trivial official post, on purpose, when nothing is at stake. Council notices, insurance renewals, statements you already understand. What you are doing is supplying counter-evidence at the level the reaction operates on, which is a long way below the level of argument. The process is slow, unimpressive, and it works, and it works considerably better than deciding that you should not feel this way.
+If this is your root, the useful work is with the object rather than with the finances. The charge sits on a category of thing, and categories can be re-learned through repeated, deliberately boring exposure. Open trivial official mail, on purpose, when nothing is at stake. Council notices, insurance renewals, statements you already understand. What you are doing is supplying counter-evidence at the level the reaction operates on, which is a long way below the level of argument. The process is slow, unimpressive, and it works, and it works considerably better than deciding that you should not feel this way.
 
 ## What If the Pile Is So Large That Starting Has Become a Project?
 
@@ -352,7 +352,7 @@ Worth checking, because at least seven different situations produce a stack of u
 | A pile of unopened post | Ordinary backlog in a busy month | Whether opening one produces relief, or produces nothing at all |
 | A banking app closed for weeks | The ostrich pattern, running as documented | Whether you check it happily in good months |
 | Every kind of admin left undone | A week with no unspoken-for hour in it | Whether it gets done when a genuinely free afternoon appears |
-| Only official post untouched | The object carrying a charge from somewhere older | Whether parcels and handwritten envelopes are opened the same day |
+| Only official mail untouched | The object carrying a charge from somewhere older | Whether parcels and handwritten envelopes are opened the same day |
 | Messages from one person unread | Something about that person rather than about admin | Whether other messages get answered at a normal speed |
 | Debt letters specifically, and the balances rising | A financial situation, first and foremost | Whether the numbers worsen regardless of what kind of week you are having |
 | Nothing opened at all across every category for months | Something flatter running underneath all of it | Whether anything in the week has felt worth doing |
@@ -386,7 +386,7 @@ The test cutting across all six is the same. Would you know the figure right now
 
 ## Is "I Will Deal With It When I Have a Clear Head" an Explanation or an Excuse?
 
-Both versions use identical words, and the difference only becomes visible over the following fortnight.
+Both versions use identical words, and the difference only becomes visible over the following two weeks.
 
 This distinction matters more than almost anything else here, so let me be careful with it. We want to make the distinction between giving something an explanation and turning it into a story, so we have an excuse. The same sentence, containing the same true facts, can do either job.
 
@@ -434,11 +434,29 @@ Because pressure applied at one point in a system gets displaced rather than rem
 
 Take a balloon full of water and squeeze it in one place. It bulges on the other side, and you cannot see why unless you can also see where the squeezing is happening. That is what occurs when somebody clears eleven weeks of post in a single furious Saturday.
 
-The surface changes completely, which is why it feels like a resolution. The counter is clear. The folder is labeled. There is a genuine and quite intense relief, and for about a fortnight the whole thing looks solved. Then the same week resumes: the same absence of an hour, the same surface, the same inflow, the same root entirely untouched. The new envelopes go on the counter because that is where envelopes go. By week six the pile is back at half strength and the conclusion drawn is about your character rather than about the design of the attempt.
+The surface changes completely, which is why it feels like a resolution. The counter is clear. The folder is labeled. There is a genuine and quite intense relief, and for about two weeks the whole thing looks solved. Then the same week resumes: the same absence of an hour, the same surface, the same inflow, the same root entirely untouched. The new envelopes go on the counter because that is where envelopes go. By week six the pile is back at half strength and the conclusion drawn is about your character rather than about the design of the attempt.
 
-Sometimes the bulge shows up somewhere else entirely. The post gets handled and the email backlog triples. The paperwork gets done and the phone calls stop being made. [Phone calls are the neighboring behavior and they run on the same machinery](/patterns/avoiding-phone-calls/), which is why clearing one often quietly loads the other.
+Sometimes the bulge shows up somewhere else entirely. The mail gets handled and the email backlog triples. The paperwork gets done and the phone calls stop being made. [Phone calls are the neighboring behavior and they run on the same machinery](/patterns/avoiding-phone-calls/), which is why clearing one often quietly loads the other.
 
 There is one thing to change a behavior with force or with discipline, and that is not necessarily what makes it stick. You have to have a way to sustain it, and for that there also needs to be an element of environment that changes. A blitz is a squeeze applied to a system that has lost no pressure at all. It holds while the novelty holds, and then the need is exactly where it was and takes the first opening it finds.
+
+## Why Can I Clear a Pile of Mail and Never Clear My Inbox?
+
+Because a stack of envelopes has a last item and an inbox does not, and every method above this line was built for the first kind.
+
+Look at what those methods assume. The dates-only sorting pass assumes a fixed set to sort. The five-envelope week assumes a total that shrinks by five. Eleven weeks of mail is a finite quantity: you can hold all of it at once, and there is a point at the end where the stack is gone.
+
+An inbox refills while you are working it. Clear forty items on a Sunday morning and a good share of your answers produce answers, so the total you are chasing is fed by the chasing. Done is therefore not a state this system can arrive at, and any plan whose payoff is arriving there will never pay. The difference belongs to the medium rather than to your effort.
+
+It is also why the weekend blitz above does not transfer here. A furious Saturday against paper ends with nothing left to put down and a real, if temporary, relief. The same Saturday against an inbox ends with a smaller number that has started climbing before you shut the laptop, and nothing remains at the end to measure the effort by.
+
+There is a second reading here, and the envelope roots above have no room for it. What is stacked in there is a line of other people's expectations of you, held in the order they arrived rather than in any order matching what they are worth. Every one you have walked past is a small open account with a person in it.
+
+Which is why the typing was never the expensive part. A two-line answer takes under a minute and can sit for six days. What costs is the standing: the answer you owe, the position you would have to take, the person who reads it and comes back. Nobody was ever slowed down by the keyboard, so every fix aimed at speed changed nothing.
+
+So the working unit here is an arrangement rather than a session. One slot with a start and a stop, since nothing in the software will supply either. One decision, taken once rather than message by message, about which categories get an answer at all. The count stays above zero permanently, and that is the arrangement working.
+
+The neighboring behaviors run on the same standing obligation: [a call you have not returned](/patterns/avoiding-phone-calls/), [a message rewritten seven times](/patterns/rewriting-messages/), and [weight read into a reply that came back short](/patterns/reading-into-messages/). If the checking is heaviest while somebody is talking to you, [that is written up separately](/patterns/checking-my-phone-mid-conversation/).
 
 ## What Would Have to Be True Before You Could Open the Next One Without a Fight?
 
@@ -462,13 +480,13 @@ Here is the sequencing, stated as a rule, because getting it wrong is what cost 
 
 1. **Week one: supply only, open nothing.** Set up the tray, the slot and the chair. Do the dates-only sorting pass. Change nothing else about the pile. Any attempt to clear it this week contaminates what you are trying to learn.
 2. **Week two: five envelopes, predicted and timed.** Write your prediction, open, check, record the minutes. Five, then stop, whether or not it is going well and whether or not it is going easily.
-3. **Week three: act on the root the evidence pointed at.** The decision worked out on paper. The one person told. The trivial official post opened on purpose. One only.
+3. **Week three: act on the root the evidence pointed at.** The decision worked out on paper. The one person told. The trivial official mail opened on purpose. One only.
 4. **Week four onward: the slot, weekly, forever.** Twenty minutes. The pile no longer builds, which matters far more than how fast the current one goes down.
-5. **Never remove a supply.** If the slot lapses or the tray disappears, the pile returns inside a fortnight, and the correct reading is that a support lapsed rather than that you failed.
+5. **Never remove a supply.** If the slot lapses or the tray disappears, the pile returns inside two weeks, and the correct reading is that a support lapsed rather than that you failed.
 
 And expect the middle of it to feel wrong. You cut out the things that feel good in the moment and are not good for you longer term, you go through the withdrawal at the beginning, and then you find it is not that hard once you commit. It feels like there is something missing in the meantime, and that is always the case. You realize very quickly that it is not, and that you can live without it far more easily than you expected. For this behavior that window is roughly ten days, and it is at its worst around day three, which is exactly when people conclude the plan was wrong.
 
-One more piece, because it is the one people skip. It also oftentimes comes down to saying no, and that applies here in a way that is easy to miss. Some of the inflow can simply be stopped. Paper statements switched off. Catalogs cancelled. Subscriptions ended. Direct debits for things nobody uses. Life becomes incredibly simple if you simplify it, and simplification here means limiting the number of things rather than getting faster at handling them.
+One more piece, because it is the one people skip. It also oftentimes comes down to saying no, and that applies here in a way that is easy to miss. Some of the inflow can simply be stopped. Paper statements switched off. Catalogs canceled. Subscriptions ended. Direct debits for things nobody uses. Life becomes incredibly simple if you simplify it, and simplification here means limiting the number of things rather than getting faster at handling them.
 
 ## How Do You Open the First One Tonight Without Turning It Into a Life Change?
 
@@ -550,7 +568,7 @@ Here is the method.
 4. **Answer the six evidence questions.** What gets opened, who you would let open it, whether the app is worse than the envelope, where the feeling sits, what happens on a free afternoon, whether your predictions were right.
 5. **Set up the address.** A tray, a chair, a pen, a bin, in one place. Ten minutes.
 6. **Book the slot.** Twenty minutes, one fixed day, in the calendar, defended.
-7. **Act on the root and only the root.** The decision on paper if that is what the evidence showed. One person told if it was shame. Trivial official post opened on purpose if it was the object. A reduced inflow if it was accumulation.
+7. **Act on the root and only the root.** The decision on paper if that is what the evidence showed. One person told if it was shame. Trivial official mail opened on purpose if it was the object. A reduced inflow if it was accumulation.
 
 That sequence costs you about an hour spread over a week, and it produces something no article can hand you, which is evidence about your own hallway in your own handwriting.
 

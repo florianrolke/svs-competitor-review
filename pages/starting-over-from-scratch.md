@@ -101,7 +101,7 @@ People recognize this in one specific sentence rather than in the general descri
 
 Here is the moment this page is about. It is eleven at night, the document has about four thousand words in it, and you have been reading it from the top. Somewhere around the third page you hit the paragraph you already knew was weak, the one you wrote around a problem rather than through it, and the whole document goes gray. Every sentence after that reads as damaged. And then a very calm sentence arrives, with no drama attached to it at all: it would be faster to just do this again properly.
 
-You do not usually press delete. You rename the file, or you make a new one, and the old one goes into a folder with a name like old or v1 or archive, which feels like caution and functions like a bin, because you will not open it again. Then you type a new first line. And for about twenty minutes it is the best you have felt about this project in a fortnight.
+You do not usually press delete. You rename the file, or you make a new one, and the old one goes into a folder with a name like old or v1 or archive, which feels like caution and functions like a bin, because you will not open it again. Then you type a new first line. And for about twenty minutes it is the best you have felt about this project in two weeks.
 
 There is a version of the same evening that involves no writing at all. The design was nearly right. Two elements were fighting each other and one color was wrong and the spacing on the second panel had been bothering you since Tuesday. Fixing those three things is roughly two hours of dull, precise work. Starting again is roughly two hours of interesting work, and the interesting version wins at nine in the evening. There is another version with a spreadsheet in it, where something in the totals is off by a small amount, and finding out where would mean reading your own formulas backward through eleven columns, and rebuilding the whole sheet from the source data feels cleaner and takes the rest of the afternoon.
 
@@ -297,7 +297,7 @@ One buys you distance and keeps the option. The other buys you the same distance
 
 These two get confused constantly, and the reason is that both produce relief. The relief of putting something in a drawer for two weeks and the relief of starting again feel similar in the hour they happen, and only one of them can be reversed.
 
-Sio and Ormerod reviewed the incubation literature in 2009 and found a real effect from setting a problem aside, larger for open-ended problems than for tightly defined ones. The honest version of that finding is modest. The effects are small, the conditions that produce them are not stable across studies, and nobody should treat a fortnight in a drawer as a guaranteed fix. What it does reliably provide is the only thing that reduces your archaeology problem, which is time between readings.
+Sio and Ormerod reviewed the incubation literature in 2009 and found a real effect from setting a problem aside, larger for open-ended problems than for tightly defined ones. The honest version of that finding is modest. The effects are small, the conditions that produce them are not stable across studies, and nobody should treat two weeks in a drawer as a guaranteed fix. What it does reliably provide is the only thing that reduces your archaeology problem, which is time between readings.
 
 The practical version is a drawer with a date on it. Put the thing away, write the date you will next open it, and do not open it before then. Two weeks is usually enough. When you do open it, read it once, from the top, without touching anything, and only then decide. A large number of people find at that point that the version they were certain was unsalvageable is obviously fixable, and that the flaw that ruined it is one paragraph.
 
@@ -473,7 +473,7 @@ The rest is mine and carries no research weight at all. I hold no clinical quali
 
 Seven things, and the first four ask you to change nothing about how you work.
 
-1. **Log versions for two weeks.** Every new file, every rename, every thinking document that became the real one. Change none of it. You are collecting a baseline, and a baseline from a normal fortnight is worth more than one from a good week.
+1. **Log versions for two weeks.** Every new file, every rename, every thinking document that became the real one. Change none of it. You are collecting a baseline, and a baseline from a normal two weeks is worth more than one from a good week.
 2. **Mark where each version stopped.** Page, section, stage. This single column tells you within two weeks whether your restarts are moving you forward or returning you to the same obstacle.
 3. **Run the two-version test on your last pair.** Side by side, three differences said out loud. Five minutes, tonight, and nobody needs to know you did it.
 4. **Get one outside reading.** Hand two versions to somebody who has not seen either and ask which came first and what changed. Four minutes of their time, and the most useful information available to you on this whole subject.

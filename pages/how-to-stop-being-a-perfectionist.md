@@ -43,9 +43,9 @@ faqs:
 - q: "How do you stop being a perfectionist at work?"
   a: "Write down what done means for one recurring task, in terms a colleague could check, and agree it before you start. Then send that thing once and stay in the room afterward, with no follow-up correction and no quiet second version. Work is where the audience is most real, so the repetitions land harder there. Most people find nothing at all happens, and that single piece of evidence outperforms a month of resolving to care less."
 - q: "How do you stop being a perfectionist at school or in college?"
-  a: "By noticing what you are optimising for, since grades reward this pattern for years and then leave you holding it for decades. Pick one assignment a term that you deliberately hand in at eighty percent, and write the grade you predicted next to the grade you received. The gap is usually much smaller than the fear implied. If the pressure is costing you sleep or producing panic, student counseling exists for exactly this."
+  a: "By noticing what you are optimizing for, since grades reward this pattern for years and then leave you holding it for decades. Pick one assignment a term that you deliberately hand in at eighty percent, and write the grade you predicted next to the grade you received. The gap is usually much smaller than the fear implied. If the pressure is costing you sleep or producing panic, student counseling exists for exactly this."
 - q: "How do you stop being a perfectionist with art or drawing?"
-  a: "Creative work has no external stopping point, so you have to install one yourself. Decide the time you will spend before you start, work to it, and call the piece finished whether or not it matches the image in your head. Then begin the next one. Volume is what closes the distance between your taste and your hand, and showing rough work to one person you trust moves it faster than another fortnight of refining."
+  a: "Creative work has no external stopping point, so you have to install one yourself. Decide the time you will spend before you start, work to it, and call the piece finished whether or not it matches the image in your head. Then begin the next one. Volume is what closes the distance between your taste and your hand, and showing rough work to one person you trust moves it faster than another two weeks of refining."
 - q: "Why does perfectionism get so loud when I am writing?"
   a: "Because writing puts your thinking on display, so it feels like handing over your mind rather than a piece of work. The usual result is editing while drafting, which quietly stops both. Keep them apart. Draft at speed with the editor switched off, badly on purpose, then edit on a different day with fresh eyes. Decide the finishing line in words or minutes before you start, and hand it over when you reach it."
 - q: "How does perfectionism show up at home?"
@@ -140,6 +140,8 @@ Run the experiment properly and you can watch this yourself. Take something you 
 
 There is a term for the giveaway, and it settles the argument faster than any amount of self-examination. Selective perfectionism, meaning the standard gets applied only in the areas treated as important by the people whose opinion originally set it. Look at where yours actually operates. The kitchen drawer is chaos and the slide deck is immaculate. The garage has been half finished for three years and the quarterly report has been read six times. A genuine standard about quality would show up everywhere you make anything at all. This one shows up precisely where a judgment is possible, which tells you what it was built to do.
 
+The measurement work draws the same distinction and scores the two halves separately. The Almost Perfect Scale-Revised, published in 2001 in *Measurement and Evaluation in Counseling and Development*, records the height of a person's standards and the gap they feel between those standards and what they actually produced as two different subscales, so lowering the bar moves one of those scores and leaves the other where it was; the limit worth carrying is that these are self-ratings taken at a single moment, so they establish that the two travel separately rather than that one causes the other.
+
 So the useful question stops being how good does this need to be. It becomes what exactly am I expecting somebody to conclude when they see this, and whose voice does that conclusion arrive in.
 
 ## Where Did the Bar Come From?
@@ -149,6 +151,8 @@ Somewhere with a person in it, almost always, and usually before you were ten.
 The formation fits into a single line. This pattern develops in environments with high and often unrealistic expectations, and it leads to a continuous pursuit of external validation and to pressure that eventually becomes self-imposed. What that describes in practice is a childhood in which affection, attention and belonging were metered out against performance rather than being simply available. The standard in those homes tends to be high in a way that could not actually be met, so the child never reaches the moment where approval arrives and then stays.
 
 What gets learned there is an equation rather than a skill. Worth equals achievement, the achievement expires, and the ledger opens again on Monday morning.
+
+That reading of the childhood also shows up in how the pattern gets measured. The scale published in 1990 in *Cognitive Therapy and Research* that first split perfectionism into separately scored dimensions included two about the home specifically, parental expectations and parental criticism, sitting among the same thirty-five items as personal standards and concern over mistakes; the limit is that those items ask an adult to rate a memory rather than an event, and a 2010 validation sample reported in *The Counseling Psychologist* could not keep the two home dimensions apart at all.
 
 Often the assignment came pre-written. The striving is aimed at fulfilling aspirations or dreams the parents had for themselves, which produces a competent adult living a life somebody else authored. That is where one of the stranger sentences in this pattern comes from, usually said quietly and with some embarrassment: "I feel like I'm living my parents' dream, not my own." Its close cousin turns up just as reliably: "I don't know who I am outside of striving for success."
 
@@ -196,6 +200,20 @@ The parent row lands hardest because it has usually been reframed already. Trimm
 
 The partner row is the one people argue with. Discomfort at being cared for makes no sense until you notice that your place in the relationship has always felt earned rather than given. Being looked after, with nothing rendered in return, reads as a bill quietly accruing somewhere out of sight.
 
+## Why Do I Read Disappointment Into Ordinary Comments From My Partner?
+
+Because a system built to detect a verdict will find one in almost any sentence, and a neutral remark still has to be filed somewhere.
+
+Watch the actual sequence, since it runs fast enough to look like a single event. Your partner says something plain. "You seemed quiet tonight." "Did you get a chance to call them?" "This one came out different from the last one." Between hearing it and reacting to it, a sorting step runs, and the remark gets checked against a question you have been carrying since long before this relationship existed, which is whether you are currently being found wanting. The sentence itself carries very little information about that. Your filing system supplies the rest.
+
+This is the machinery described further up the page, pointed at a person instead of at a piece of work. Praise gets discounted at the door and anything with an edge on it gets waved straight through. Applied to somebody you live with, that becomes a quiet running audit in which warmth reads as politeness and any small correction reads as evidence. A comment about how the weekend went arrives as a comment about you.
+
+Two things make this version hard to catch. The readings are occasionally correct, since partners do get disappointed and do sometimes say so sideways rather than directly, and an occasional hit is the hardest kind of confirmation to argue with. And asking for reassurance looks like the fix while working as the opposite of one. Reassurance is good news, and a system closed against good news discounts it within the hour, so the question comes back in a slightly different shape the following week.
+
+What actually moves it is duller. Say what you heard, in your own words, before you respond to it. Not "you are always disappointed in me" but "I heard that as you thinking I had not bothered." Two useful things follow. You get one clear look at the distance between the sentence and your reading of it, out loud, where it cannot be quietly revised afterward. And the reading turns into a claim about the world rather than a fact about you, which means it becomes something that can be wrong.
+
+The limit is worth stating plainly. None of this is a technique for managing your partner, and it settles nothing about who was right regarding the remark. It gives you one look at your own sorting step while it is still running, which is the only part of the exchange you have any real access to.
+
 ## What Separates a High Standard From a Perfectionist One?
 
 Whether the thing gets put down. That single question sorts them faster than any amount of introspection.
@@ -210,7 +228,27 @@ Whether the thing gets put down. That single question sorts them faster than any
 
 The fourth row is the honest test, and you can run it on the last thing you finished. A standard you can satisfy lets you experience the finish. A standard borrowed from an imagined audience keeps a constant distance ahead of you no matter how fast you walk, because the bar moves with your skill and the audience is never actually consulted.
 
+The same split is built into how perfectionism gets measured. The 1990 scale in *Cognitive Therapy and Research* scores personal standards and concern over mistakes as two separate dimensions rather than one, so a person can rate high on the standard itself and low on the worry about falling short of it; the limit is that these are self-ratings at one point in time, and how many dimensions the items really contain is still argued about, which the measurement section below sets out.
+
 None of this argues for caring less about your work. Craft is real, and some of what you have built with this pattern is genuinely good. The part worth removing is the tax, which is the second evening, the fourth reread, and the fact that finishing produces relief instead of satisfaction. [The practical side of releasing something before the standard is met has its own page.](/insights/how-to-overcome-perfectionism/)
+
+## How Is Perfectionism Measured in Research?
+
+With self-report scales that ask you to agree or disagree with statements about your own standards, and there is more than one of them, which is where a good deal of the confusion in this literature begins.
+
+Two research groups published a scale in consecutive years and both called it the Multidimensional Perfectionism Scale. The first appeared in 1990 in *Cognitive Therapy and Research* under the title "The dimensions of perfectionism," and its thirty-five items were built to sort into six dimensions: personal standards, concern over mistakes, doubts about actions, parental expectations, parental criticism, and organization. The second appeared in 1991 in the *Journal of Personality and Social Psychology* and cut the same territory by direction instead, separating the perfectionism a person aims at themselves, the perfectionism they aim at other people, and the perfectionism they believe other people aim at them. A paper citing "the Multidimensional Perfectionism Scale" with no year attached could mean either one, and the two do not measure the same thing.
+
+A third arrived in 2001, the Almost Perfect Scale-Revised, in *Measurement and Evaluation in Counseling and Development*. Its own report describes three subscales, and its structure speaks most directly to the argument running through this page, since it scores the height of your standards separately from the gap you feel between those standards and what you produced. Each of these is named here by title, year and journal so you can look it up yourself rather than take my summary for it.
+
+Three limits belong with all of it, and they matter more than the names do.
+
+The number of dimensions is unsettled. A 1998 re-analysis in *Personality and Individual Differences* argued the 1990 items fit better as four dimensions than as six, later validation work has landed on five, and a 2010 study in *The Counseling Psychologist* found the two home dimensions collapsing into one. What counts as a dimension is partly a decision about where to cut the same set of answers.
+
+All of it is self-report. These scales record how you rate yourself on a numbered scale, not how your work was judged by anybody else and not what you actually did on any given day. A high score describes your relationship with your own standards, which is genuinely worth knowing and is a different thing from a measurement of you.
+
+The samples are narrow. Most of the validation work was done on college students, a group sitting in the middle of exactly the kind of evaluation these scales ask about, and not a representative slice of adults carrying thirty years of this.
+
+The dimension the 1990 scale calls doubts about actions, the persistent uncertainty about whether something was carried out properly, [has its own page here](/patterns/starting-over-from-scratch/).
 
 ## What Does the Resolved Side of This Actually Look Like?
 
@@ -255,6 +293,24 @@ Is any of it dramatic? No. It is small and freaking repetitive, which is exactly
 
 Does the guilt disappear once you get reasonably good at this? Honestly, no. The guilt is an old alarm, set on a schedule decided long ago with no regard for whether this particular piece of work was actually fine. What grows with practice is your capacity to feel it and let the decision stand. After enough repetitions the alarm quiets down mostly on its own, because nothing bad kept happening.
 
+On the fear underneath that question, which is that the work itself will get worse: a 2021 systematic review pooled fifteen randomized trials of structured programs aimed at perfectionism, 912 participants with a mean age of 23, and the largest average movement was in concern over mistakes while personal standards moved least of the perfectionism measures reported. Take that as encouraging rather than as a promise, because what shifted were self-rated questionnaire scores rather than anybody's actual output, which nobody in those trials had assessed by a stranger.
+
+## What Can I Do When My Boss Is About to See Work I Cannot Stop Checking?
+
+Fix the handover time before the work is finished, hand it over at that time, and treat whatever the checking wants to do afterward as the pattern rather than as quality control.
+
+What makes a manager harder than the general case is that the audience is real, named, and holds something you need, so the imagined verdict arrives with an actual face attached. That makes the list above harder to run, and it makes three particular moves very tempting.
+
+The first is the extra pass. There is always one more thing findable in a document, and finding it feels like diligence rather than like the loop it is. The check takes a second: if you cannot say in advance what would make this finished, another pass will not produce it.
+
+The second is the apology attached to the handover. "Sorry, this is rough." "Very happy to redo it." A sentence like that does two jobs at once. It tells the reader how to receive the work before they have looked at it, and it pulls the judgment forward so you no longer have to wait for it. Send a plain covering line instead: what the thing is, what you would like back, and by when.
+
+The third is the follow-up correction. You spot something nineteen minutes after sending and the pull to fix it publicly is enormous. Unless the error changes the meaning or the numbers, let it stand. A second message about a small fix draws more attention to it than the fix removes, and it hands the room a frame in which the work was almost right.
+
+Decide in advance what the hours afterward are for, because that is the stretch the checking will otherwise take. Something with your hands in it, something with other people in it, something that ends at a fixed time. The discomfort still arrives. What you are rehearsing is having it arrive while the work stays sent.
+
+One caveat, and it is a real one. Sometimes the work genuinely is not ready, and this pattern is very good at dressing a real problem up as an imagined one. Telling them apart has nothing to do with how anxious you feel, since that reads identically either way. The question is whether you can name the specific thing that is wrong and what fixing it would change. If you can, fix that one thing and send it. If you cannot, the checking has stopped being about the work.
+
 ## Why Does It Get Louder Before It Gets Quieter?
 
 Because the pressure was doing a job, and removing the outlet without touching the source sends it somewhere else.
@@ -273,6 +329,8 @@ Recognition arrives quickly. Most people can catch the pattern mid-flight within
 
 The flinch takes much longer. The body's automatic response to being about to be judged was rehearsed daily for years, and it fades at the pace of accumulated experience rather than insight. Understanding the mechanism as thoroughly as you now roughly do changes remarkably little on its own. Twenty small releases, each one actually felt rather than rushed through, change a great deal.
 
+The published evidence cannot settle this, and the reason is worth knowing. The trials named above measured their result as a questionnaire score at the end of a structured program, in samples averaging 23 years old, so what exists is evidence that a score can move rather than evidence about how long a flinch rehearsed across thirty years takes to fade in an ordinary life.
+
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books and teachers. The pattern held every time. The insight never predicted who had actually changed a year later. What predicted it was what a person did with the insight on the ordinary days afterward, when nothing about the day felt significant and nobody was watching.
 
 Where this sits for me now is worth saying plainly. The pull to check something one more time has dropped a long way over the years of doing this work. It has not dropped to zero, and I would rather tell you that than sell a finished version of something nobody finishes.
@@ -283,4 +341,4 @@ Run a verdict ledger for twenty-four hours. Open a note on your phone. Every tim
 
 Then read the list tonight and count how many entries name the same judge. Most people find it is one voice rather than five, and quite often a voice that stopped speaking about these things twenty or thirty years ago. Knowing which one it is makes every repetition afterward far more accurate, and the exercise costs you nothing beyond a day of noticing.
 
-If what pulls at you is this pattern itself rather than a location or a ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works directly on this kind of material. Everybody gets screened before they arrive, the group stays small enough that a high-functioning person cannot quietly perform their way through the week from the back row, and the weeks after the flight home are built into the design rather than left for you to solve alone. The honest limitation: exact dates, the price, and the final cap on group size are still being finalised, so anyone comparing programs on those numbers this week cannot yet compare ours. Put these same questions to every program you are weighing, this one included, and choose whichever container actually matches what brought you here. Feel into it and find out for yourself. A week spent finding out who you are when you are not performing is rarely wasted, whatever you decide afterward.
+If what pulls at you is this pattern itself rather than a location or a ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works directly on this kind of material. Everybody gets screened before they arrive, the group stays small enough that a high-functioning person cannot quietly perform their way through the week from the back row, and the weeks after the flight home are built into the design rather than left for you to solve alone. The honest limitation: exact dates, the price, and the final cap on group size are still being finalized, so anyone comparing programs on those numbers this week cannot yet compare ours. Put these same questions to every program you are weighing, this one included, and choose whichever container actually matches what brought you here. Feel into it and find out for yourself. A week spent finding out who you are when you are not performing is rarely wasted, whatever you decide afterward.

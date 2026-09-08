@@ -52,7 +52,7 @@ faqs:
 - q: "What does fear of intimacy feel like when it is happening?"
   a: "Usually like a sensible change of mind. A flat, slightly crowded feeling, a pull toward space, a sudden interest in work, irritation that seems to be about something small, and a persuasive story that this person may be wrong for you after all. The physical version is a tightening in the chest or throat as a conversation gets personal. The giveaway is that it tends to arrive in a calm week rather than a difficult one."
 - q: "Is there a test or a scale for fear of intimacy?"
-  a: "Research questionnaires exist and the online quizzes are loose versions of them. A score can be a useful conversation starter, and it cannot separate the situations that look identical on paper: exposure-driven withdrawal, plain introversion, low desire from stress or medication, or a relationship you simply do not want. Laying your own withdrawals against how close things had been in the fortnight before each one tells you considerably more than any score."
+  a: "Research questionnaires exist and the online quizzes are loose versions of them. A score can be a useful conversation starter, and it cannot separate the situations that look identical on paper: exposure-driven withdrawal, plain introversion, low desire from stress or medication, or a relationship you simply do not want. Laying your own withdrawals against how close things had been in the two weeks before each one tells you considerably more than any score."
 - q: "How common is fear of intimacy?"
   a: "Common enough that most people recognize some version of it in themselves, and precise figures deserve caution, because this is a pattern rather than a condition anybody counts. What is worth knowing is that it runs on a spectrum. Many people carry a mild version that costs them a few guarded conversations a year. A smaller number carry one that has quietly shaped every relationship they have ever had."
 - q: "Is fear of intimacy a disorder?"
@@ -150,6 +150,18 @@ Read them slowly. What matters is the small jolt when one of them turns out to b
 
 Notice how reasonable most of them sound. From the inside this reads as self-protection, realism, and a sensible unwillingness to hand a near stranger material about yourself. Very few people experience it as a fear at all, which is a large part of why it can run a whole relationship history without ever being examined. Nobody goes looking for help with being careful.
 
+## What Is Fear of Intimacy, Exactly?
+
+A learned reading of closeness as risk, in which the amount of you another person is holding gets treated as the amount you stand to lose.
+
+Three parts sit inside that, and the lines above contain all three. There is the rule, carried as ordinary prudence: hold some of yourself back. There is the arithmetic underneath the rule: the more somebody knows, the further there is to fall. And there is the verdict the whole structure braces for, which is that once enough has been seen, they go. Any one of the three reads as good sense on its own. Stacked, they describe a system that gets more alert the better things are going.
+
+What separates this from ordinary caution is what it responds to. Caution responds to conduct. It reads how somebody has actually behaved, updates, and quiets down when the evidence comes back clean. This responds to the running total instead, to how much has accumulated between the two of you, which is why it can climb while the other person is doing everything right, and why it tends to be loudest with whoever has given you the least reason for it.
+
+Two boundaries keep the phrase honest. The first is that wanting time to yourself belongs somewhere else. A need for solitude tracks how much contact you have had, it was there before this relationship and it will be there after it, and it settles with rest rather than with distance. The second is that these words name a pattern rather than a category. Nothing formal sits behind them, nothing gets administered, and no score turns anybody into a type, which is why the timing you can watch in your own life is worth more than whichever label you land on.
+
+Held that way, the definition earns its keep. It moves the question from whether you are one of these people, which nothing can settle, to when yours fires, which your own last three relationships can answer in one evening.
+
 ## When Does This Belong With a Professional Rather Than a Page Like This?
 
 Before anything practical, because this line matters more than every suggestion below it.
@@ -173,6 +185,8 @@ Watch what the system does with that problem, because this is the part that look
 Couples who have finally caught this describe the same discovery: the arguments always arrived a few days after the best stretches, never after the worst ones. One couple around eight months in had moved past a rocky start into genuine calm, and that was precisely when the small manufactured conflicts started, each followed by days of withdrawal that the conflict appeared to have earned. Nothing changed until they noticed the schedule. Naming it out loud turned an invisible reflex into something either of them could catch while it was happening.
 
 The same mechanism explains a stranger symptom. Calm itself can start to feel ominous. If quiet stretches have previously been the last thing before a loss, quiet gets recoded as a warning rather than as rest, which is what people mean by the calm before the storm. [Why good feelings can arrive as dread rather than relief has a page of its own.](/patterns/fear-of-happiness/)
+
+There is a model of this in the research on close relationships, usually called risk regulation: people continually trade the wish for closeness against the wish to protect themselves from being hurt, and the trade tips toward protection as dependence climbs. It is a described model rather than any one person's finding, its sourcing sits on [the page about starting a fight when things are going well](/patterns/picking-fights/), and its limit belongs in the same breath, because it explains why protection wins as exposure rises while putting no clock on the retreat, which leaves the schedule above as something to check against your own months rather than a figure anybody has measured for you.
 
 ## What Is the Difference Between Fear of Intimacy and Avoidant Attachment?
 
@@ -218,7 +232,9 @@ So the words name a what, and they name it at low resolution: a step that did no
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
 
-## Are You Sure That Is What You Are Looking At?
+## How Can I Tell Fear of Intimacy From Introversion or Simply Needing Space?
+
+Are you sure that is what you are looking at? Ask that first, because introversion and an ordinary need for space are the two this gets mistaken for most often, and in both the answer comes from timing rather than from how much space somebody wants.
 
 Worth checking, because at least six different situations produce a similar-looking month, and the right response to each one differs completely.
 
@@ -233,6 +249,18 @@ Worth checking, because at least six different situations produce a similar-look
 | Distance that appears whenever you assert something | A control dynamic | It tracks your compliance rather than the closeness. See the section on professional support above |
 
 Sit with the row that matches the last three months rather than the row that matches the worst evening. Most people have already run this argument in their head forty times without ever separating the rows, which is how a genuine mismatch gets treated as a wound to work on, and how a wound gets treated as proof that somebody was wrong for you.
+
+## Is There a Validated Scale for Measuring Fear of Intimacy?
+
+Yes, one, and what it can honestly do is narrower than the number makes it look.
+
+Descutner and Thelen published "Development and validation of a Fear-of-Intimacy Scale" in *Psychological Assessment* in 1991. You rate a set of statements about how you would feel disclosing to somebody close to you, and the total places you on a spread of everybody who has answered the same statements. Doi and Thelen followed it in the same journal in 1993 with "The Fear-of-Intimacy Scale: Replication and extension". The quizzes floating around online sit downstream of work like this, usually shortened and usually with the sourcing stripped off.
+
+What a score records is what you say about anticipated closeness at the moment you answer, which is a different thing from what happens in the third calm week with somebody you love. It places you on a spread rather than on one side of a line, so no point on it marks where a person becomes a type. And no number on it separates the rows in the table above: exposure-driven withdrawal, plain temperament, and no longer wanting the relationship can land in the same region, because the questions ask how closeness feels rather than why.
+
+So treat a score as something to talk from and nothing heavier. A high one on the day you took it tells you where your answers sat that day. What it cannot tell you is which of the situations further up this page produced them, and that is the entire question.
+
+The measurement that beats it costs nothing and sits at the foot of this page. Laying your own withdrawals against how close things had been in the two weeks before each one produces what a questionnaire structurally cannot: your own timing, in your own relationships, with dates on it. Anybody can run that tonight.
 
 ## Where Does the Fear Actually Come From?
 
@@ -270,7 +298,7 @@ Because a safe partner keeps the relationship advancing into the exact territory
 
 Reassurance is the standard response and it usually fails, for a specific reason. When a partner says some version of I would never do that, I am not like them, you can trust me, they are answering a question that was never asked. What the fear is actually reporting on is your exposure, how much of you has now been handed over and what the loss would cost, and a trustworthy partner does nothing to change that arithmetic. If anything they increase it, because things keep getting better and the total keeps climbing.
 
-This is one of the cruellest features of the pattern. The steadier and kinder the person, the longer the good stretches run, and the higher the alarm eventually goes. Someone chaotic would at least supply regular fights, and every fight is a license for distance. Calm removes the license and leaves the pressure.
+This is one of the cruelest features of the pattern. The steadier and kinder the person, the longer the good stretches run, and the higher the alarm eventually goes. Someone chaotic would at least supply regular fights, and every fight is a license for distance. Calm removes the license and leaves the pressure.
 
 People living inside long, stable relationships describe exactly this. One person with a consistently steady spouse, no history of the specific harm being braced against, watched physical and emotional closeness spike and drop in cycles for years. The drop-offs never tracked stress, workload, or attraction. They tracked how connected the couple had recently been. Nothing made sense until the cycles were laid against a timeline of the relationship's closeness rather than against a calendar of external events, and then the shape was obvious to both of them within an evening.
 
@@ -302,6 +330,26 @@ The second is checking. Watching yourself to see whether you are being warm enou
 People who finally catch the shape of this describe the same reversal, usually with some embarrassment attached. All that time I thought it was him. He has the problem, all he cares about is work. And then the discovery that work was the one place he could go and be successful, which changed the argument entirely and took about four minutes to explain once anybody asked.
 
 Two honest limits belong here. Somebody who says plainly, when asked directly, that they do not want this relationship is telling you the truth, and no amount of patience converts that answer. And any pattern where warmth returns the moment you back down belongs with a professional rather than with endurance, for the reasons in the section above.
+
+## What Should I Do When My Partner Suddenly Goes Cold After We Have Been Close?
+
+Less than you want to, and the smaller list is the one that works.
+
+The instinct is to close the distance: ask what is wrong, ask again in a different tone, request the long conversation tonight, or match the coldness so at least you are not the only one waiting. Every one of those raises the exact quantity the other system is trying to lower, which is how a week of real effort ends further out than it started.
+
+Four things are actually available, and all four are about your own conduct rather than about managing somebody else.
+
+Stay warm and ordinary. Cooking, answering normally, carrying on with your own week supplies the relationship with evidence without asking for anything back, and it is the version of patience that does not sour into an account being kept.
+
+Name it once, plainly. Something on the order of: I notice we have been further apart this week, I am not asking you to explain it, and I would rather say I noticed than pretend I did not. Then leave it there. Repeating it converts information into pressure.
+
+Make the agreement in a calm week instead. What each of you will do when the distant days arrive is a conversation for a good stretch rather than for the third quiet evening, and having the phrase ready in advance is most of what the phrase does.
+
+Read the timing rather than the content. Cold that follows the closest weeks and thins out within days, chased or not, is the pattern this page describes. Cold that survives the good weeks too is an answer, and asking directly will get you the same answer next month.
+
+The two limits from the section above hold here without modification. Somebody who says plainly, asked directly, that they do not want the relationship is telling you the truth, and steadiness does not change it. And warmth that returns the moment you back down is tracking your compliance rather than the closeness, which belongs with a professional rather than with more patience.
+
+One more thing, said because of who reads this page. If you recognized yourself on both sides of that, that is the common case rather than the odd one. The person who goes cold and the person waiting out the cold week are frequently the same person in different years, and the parts of the list above that ask something of you are the ones that transfer.
 
 ## Why Does the Same Fear Make One Person Distant and Another Person Clingy?
 
@@ -340,7 +388,7 @@ In at least six arenas, and most people recognize themselves in only one or two 
 
 The friendships row lands hardest for people who consider themselves sociable. A large, warm social life containing nobody who could describe your actual year is one of the most effective hiding places this pattern has, because from the outside it looks like the opposite of isolation. [The surface-level friendship version is worth reading on its own.](/patterns/why-are-my-friendships-so-surface-level/)
 
-The dating row deserves its own mention, because it is the one most often mistaken for good judgment. Ending a relationship you were enjoying for a practical reason, bad timing with work, distance, a busy season, feels like clear thinking at the time. The tell is whether the reason arrived shortly after the relationship got genuinely good, and whether your feelings about the person had actually changed when you ended it. In one common shape, somebody keeps a new relationship light for months, deflects the first serious conversation with humor, and finds a logistical exit within a fortnight, with nothing having changed about how much they liked the other person.
+The dating row deserves its own mention, because it is the one most often mistaken for good judgment. Ending a relationship you were enjoying for a practical reason, bad timing with work, distance, a busy season, feels like clear thinking at the time. The tell is whether the reason arrived shortly after the relationship got genuinely good, and whether your feelings about the person had actually changed when you ended it. In one common shape, somebody keeps a new relationship light for months, deflects the first serious conversation with humor, and finds a logistical exit within two weeks, with nothing having changed about how much they liked the other person.
 
 ## Why Does Being Told to Just Be More Vulnerable Backfire?
 
@@ -390,13 +438,15 @@ The alarm does not respond to argument. Nobody has ever reasoned themselves out 
 2. **Disclose small and current, not large and overdue.** One minor true thing, said on the day it was true, in ordinary words. Something you found embarrassing at work. A small disappointment about the weekend. The target is frequency rather than depth, because what is being built is the experience of having handed something over and watched nothing bad happen. Fifty small ones do more than one enormous one.
 3. **Stay for the twenty minutes.** After something real gets said, the twenty minutes that follow are the actual test. Remain in the room, seated, without producing a solution and without picking up your phone. Discovering experientially that the twenty minutes end and everybody survives is what loosens the root.
 4. **Name the reflex out loud while it is happening.** "I notice I want to pull away this week, and things have been good, so it is probably that rather than you." Said in the moment, this converts a private retreat into shared information. Partners consistently report that this one sentence does more than any amount of retrospective explanation.
-5. **Refuse the manufactured fight once.** You will feel it forming: the irritation slightly out of proportion to the dishes. Let it pass unspoken exactly once, and watch what happens to the pressure. Once per fortnight is a serious practice.
+5. **Refuse the manufactured fight once.** You will feel it forming: the irritation slightly out of proportion to the dishes. Let it pass unspoken exactly once, and watch what happens to the pressure. Once per two weeks is a serious practice.
 6. **Answer the question that was asked.** Deflection is fast and mostly unconscious. A joke, a question back, a redirect to logistics. Catching one of those and returning to the original question, once a week, contradicts a rule installed a long time ago.
 7. **Get a third person involved if the pattern is entrenched.** A therapist or a steady friend who can catch the pattern in the moment rather than three weeks later changes the pace of this considerably. [Rebuilding trust after a specific rupture](/patterns/how-to-rebuild-trust/) is a related but distinct job, and it also goes faster with help.
 8. **Ask the guarding what it is for, twice.** Somewhere quiet, put your attention on wherever the shutting-down seems to start in your body, and thank it before you ask it anything, since a part of you that is being fought back gets louder. Then ask what it is trying to accomplish for you. Take the first answer, which is usually some form of protection, and ask what would matter even more than that if it were fully handled. Two or three rounds gets most people somewhere they still genuinely want to go, and the coldness reads differently from there.
 9. **Stop keeping the account for one week.** If you are the one who has been giving into silence, the private ledger of what you gave and did not get back arrives in your tone before anything else does. Setting it down for seven days, without announcing it and without checking whether it is working, is the only version of this that lands. Seven days is short enough to be survivable and long enough to see something.
 
 Is any of that comfortable? No. It is small and freaking repetitive, and it is exactly the kind of thing that holds when a single dramatic conversation does not.
+
+There is a published account of why the small repetitions do the work. A 2001 paper called "Intimacy: A behavioral interpretation", in *The Behavior Analyst*, describes closeness as a sequence rather than a state, in which somebody says the thing that leaves them open to being hurt, the other person's response lands, and where that response is a warm one the openness gets more likely in front of that particular person next time. The limit is that this is a proposed account rather than a trial, so it explains the shape of what changes and puts no number on how long any of it takes.
 
 ## What Do You Do in the Moment the Urge to Pull Back Arrives?
 
@@ -430,4 +480,4 @@ Open a note and write down the last three or four times you pulled back, ended s
 
 Read the column when you have finished. If the withdrawals sit at the end of the best stretches rather than the worst ones, you now have the single most useful piece of information available on this subject, and you got it without a program, a therapist, or a purchase. Show it to your partner if you have one. It changes the conversation from an argument about what you did into a shared look at when you do it, which is the version anybody can actually work with.
 
-If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a joke cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone on the fourth week home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent looking at why the good stretches are the frightening ones is rarely wasted, whatever you decide about anybody else.
+If what pulls at you is the pattern itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who deflects with a joke cannot quietly disappear inside it, and integration built into the design rather than left to you to work out alone on the fourth week home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent looking at why the good stretches are the frightening ones is rarely wasted, whatever you decide about anybody else.

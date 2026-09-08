@@ -208,7 +208,7 @@ The internal picture looks nothing like the external one. From inside there is a
 
 Because rehearsal feels like preparation and functions as a substitute.
 
-Watch what actually happens when you run the conversation in the shower for the fourth morning. You say your line. You imagine their reaction. You adjust. Some of the pressure genuinely discharges, because the mind has now resolved the situation privately, and a resolved situation is far less urgent than an open one. The risky, out-loud version keeps its place at the back of the queue, and the queue never moves.
+Watch what actually happens when you run the conversation in the shower for the fourth morning. You say your line. You imagine their reaction. You adjust. Some of the pressure genuinely discharges, because the mind has now resolved the situation privately, and a resolved situation is far less urgent than an open one. The risky, out-loud version keeps its place at the back of the line, and the line never moves.
 
 There is a second trap inside the first, and it is the search for perfect wording. The rehearsal continues until you find a way to say the thing that produces no reaction at all: no defensiveness, no hurt, no raised voice, no awkwardness. No such phrasing exists. Every honest disagreement produces some reaction in the other person, and the search for the version that does not is the avoidance wearing the costume of diligence.
 

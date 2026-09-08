@@ -137,7 +137,7 @@ You are on a video call where a colleague is presenting and has lost the room, a
 
 You go quiet in a group when somebody starts flirting badly. Not disapproving. Quiet, in the specific way of a person who has decided that the safest available contribution is none.
 
-A friend forwards a clip. You do not open it. You reply with something that suggests you did.
+A friend forward a clip. You do not open it. You reply with something that suggests you did.
 
 Your child gets up to do something in front of other people and you discover that you cannot look at the audience, only at them, and that afterward you are more wrung out than they are.
 
@@ -203,7 +203,25 @@ Now a correction to my own argument, put here rather than in a footnote because 
 
 The experiment this rests on varied exactly this. Participants read scenarios in which somebody broke a social norm, and the scenarios differed in whether the person knew and whether they had done it on purpose. Vicarious embarrassment showed up in every condition, including the ones where the protagonist was oblivious, which is the finding the whole argument above needs and gets. But the ratings were graded, and the highest ones came from the condition where the protagonist was aware and had blundered by accident. The lowest came from a deliberate violation by somebody who did not care.
 
+That experiment is Krach and colleagues' 2011 paper in PLoS ONE, "Your flaws are my pain", and its own summary of the result is that vicarious embarrassment was experienced regardless of whether the protagonist acted accidentally or intentionally and regardless of whether they were aware they were in an embarrassing situation. The limit belongs with the finding: those ratings came from written scenarios rather than from a room, so what was measured is what a described situation does to a reader.
+
 So the strong version of what I just told you, that oblivious is always worse, is mine rather than theirs. What the data supports is that the reaction does not require them to be having one, which is enough to rule out contagion as a complete account and is the only claim this page actually needs. Plenty of people report that the oblivious case is the worst one for them personally, and I think there are good reasons for that, and the lab averages do not currently agree. You should know that before you use any of this on yourself.
+
+## Why Can't I Watch Someone Embarrass Themselves Even When They Seem Completely Fine?
+
+Because only one of the two known paths into this reaction needs them to be having one.
+
+The section above assumed you knew they were fine. Usually you do not, and the word people reach for is seem. He seems fine. She seems not to have noticed. That one word is doing three separate jobs, and your reaction fires in all three of them.
+
+There is the person who genuinely has no idea. There is the person who knows exactly what has happened and is covering it well. And there is the person who knows and does not mind, which is rarer than it looks from outside and is the only one of the three you could confirm by asking.
+
+Hawk and colleagues took the part of this that can be studied in a laboratory and studied it. Their 2011 paper in the journal Emotion, "Taking your place or matching your face", ran two studies and reported two paths into empathic embarrassment. One path runs through the other person's visible display: they show embarrassment, your own face quietly matches it, and the match supplies part of the state. The other path runs through taking their position, and it needs no display at all. In the first study, participants watched a confederate dancing to music while either staying deliberately objective or taking the dancer's perspective, and the dancer was either embarrassed or unembarrassed. Both manipulations moved empathic embarrassment.
+
+That is your answer in one line. When somebody seems completely fine there is nothing to copy, so the matching path has no input, and the position-taking path is untouched by how comfortable they are. What arrives is the manufactured version, without the one input that would have kept it proportionate.
+
+The limits are real and you should have them. This is one paper from one laboratory, using confederates dancing in a room, and its second study leans on path analysis, which describes how the pieces hang together rather than establishing the order they run in. It also measured empathic embarrassment, the version felt alongside somebody who is themselves embarrassed, so carrying it across to the oblivious case is a reasonable step rather than a demonstrated one.
+
+What it does give you is a reason to stop interrogating whether they minded. Whether they minded decides one of the two paths and leaves the other one running.
 
 ## What Separates the Recoil From Leaving the Room?
 
@@ -256,6 +274,20 @@ Good enough to prefer it, and nowhere near good enough to sell it to you as sett
 **And the capacity framing is the flattering reading.** It is supported. It is also the interpretation that makes the reader feel best, which is exactly the condition under which people stop checking. A person who takes up somebody else's position very completely and a person who is simply quick to feel exposed will look much the same on most of these measures. I think the position-taking account is the better one, and I want you to hold it as the better available account rather than as a fact about yourself.
 
 What you should take from this section is a specific thing rather than a general caution. You have been carrying an explanation, thin skin, that has no evidence behind it at all and has never made a single prediction that came true. You are being offered a different explanation that has some evidence, makes predictions that match your own experience, and is still weaker than the internet will tell you. That is an upgrade. It is not a certificate.
+
+## Does Strong Secondhand Embarrassment Mean I Am More Empathetic Than Other People?
+
+It tracks something real, and the popular reading of it goes well past the evidence.
+
+The claim you have probably met is that a strong reaction to somebody else's exposure is a mark of unusual empathy. It is offered kindly, usually to somebody who has spent years being told the opposite, and two pieces of evidence decide how much of it holds.
+
+The first is the experiment this page leans on. Stocks and colleagues, in the Journal of Applied Social Psychology in 2011, compared two instructions instead of measuring a trait. Asking people to imagine the other person's thoughts and feelings mainly raised concern for that person. Asking people to imagine themselves in the other person's situation is what raised empathic embarrassment specifically. So the path with the best experimental support behind it is the self-oriented one, which is a capacity rather than a warmth.
+
+The second is a measurement problem. Empathy scores in this area come from questionnaires in which people rate their own tendency to take other viewpoints. A 2019 meta-analysis in Psychological Assessment, covering 85 studies and more than fourteen thousand participants, found that self-reported cognitive empathy accounted for roughly one percent of the variance in how the same people actually did on behavioral empathy tasks. One percent is close enough to nothing that no sentence about your character can rest on those questionnaires. I am giving that paper by year and journal rather than by name, for the reason set out at the foot of this page.
+
+The part that holds is still a real gain. The reaction does track how completely somebody takes up another person's position, and that is a better account of you than thin skin ever was. What it will not carry is the step from there to being a kinder person than the people who stayed in the room, because the path with the evidence behind it runs through putting yourself where the other person is standing.
+
+There is a practical reason to hold the flattering account loosely rather than to enjoy it. If the reaction is a credential, there is nothing left to look at. If it is a capacity that costs you rooms, then the question of what the leaving buys you is still open, and that question is the one that pays.
 
 ## Why Do Two People Leave the Same Scene for Completely Different Reasons?
 
@@ -356,6 +388,20 @@ Four questions, and the answers rarely match the one you expected.
 | A rule about dignity | A standard being broken | When the violation is confident and unaware | Sharpens into irritation |
 
 The right way to use this is over a week rather than in one sitting. Most people who try to answer from memory pick the flattering root, which is usually the second one, and then discover in the actual moment that the honest answer for at least some episodes is the fifth. That discovery is worth more than the table.
+
+## Why Do I Feel Secondhand Embarrassment More Strongly for a Close Friend Than for a Stranger?
+
+Because part of what happens to them is filed, by the room and by you, as also happening to you.
+
+This is one of the few things here that has been measured directly rather than argued about. A 2015 study in Social Cognitive and Affective Neuroscience, "When your friends make you cringe", scanned people while they watched threats to a friend's standing and threats to a stranger's. The aversive response appeared for both, and it was larger for the friend.
+
+Two cautions travel with that. It comes from the same laboratory as the scenario study this page's central argument rests on, which makes them one line of evidence rather than two independent ones, and a literature this small cannot afford the difference. And a difference in brain response is a difference in brain response. Reading a number off a scan tells you nothing about what the evening cost you.
+
+What the study does not settle is why closeness raises it, and the two available answers point in different directions. Either you care more about the friend, or your own position is attached to theirs, so what happens to them attaches to you as well. The second is the less comfortable one and it has some support: the vicarious shame work cited at the foot of this page found that what predicted feeling ashamed on somebody else's behalf was being associated with the person rather than caring about them. That is a different literature, kept separate on this page on purpose, so treat it as a pointer about direction rather than as a result about this reaction.
+
+There is a tell that separates the two, and it costs nothing to check. If the caring answer is right, the reaction should be much the same whether or not anybody present knows the two of you are connected. If the position answer is right, it will be worse in front of people who know, and mildest when you watch your friend fail among strangers who have no idea you arrived together.
+
+That is a real experiment you can run this month, and either result is useful. Neither of them makes the friend's failure easier to watch, and one of them tells you which of the five roots above you are actually running.
 
 ## Where Does This Show Up That You Would Not Call Watching?
 

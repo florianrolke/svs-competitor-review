@@ -48,7 +48,7 @@ faqs:
 - q: "What if I genuinely do not have room for more friends?"
   a: "Then you are not failing at anything and this page is largely not about you. Capacity is real, it is finite, and a person with a demanding job, small children and three good friendships is fully allocated. The honest check is whether the not-following-up is selective. Real capacity limits show up as a general fullness rather than as a specific silence toward people you liked."
 - q: "How do I tell a full life from avoidance?"
-  a: "Look at what happens when somebody else does the arranging. If a friend proposes something concrete and you go, and you enjoy it, and you leave feeling better, your capacity is probably intact and the missing piece is the initiating. If you find yourself relieved when it gets cancelled, the fullness is doing a second job and the arithmetic explanation is covering for something else."
+  a: "Look at what happens when somebody else does the arranging. If a friend proposes something concrete and you go, and you enjoy it, and you leave feeling better, your capacity is probably intact and the missing piece is the initiating. If you find yourself relieved when it gets canceled, the fullness is doing a second job and the arithmetic explanation is covering for something else."
 - q: "Why does sending the message feel like asking for something?"
   a: "Because it is a claim, and claims can be declined. Proposing contact says out loud that you consider this a friendship worth having, and it puts that assessment in front of somebody who has not confirmed it. Silence keeps the question permanently open, and an open question is more comfortable than a closed one that came back the wrong way."
 - q: "What if they do not reply?"
@@ -198,6 +198,8 @@ Look at what school actually was, structurally. The same several hundred people,
 University did the same thing with different scenery. So did your first job, and your second, if you stayed long enough.
 
 Then the system was switched off, and it was switched off gradually enough that no single moment marked it. You left a job. A team was reorganized. A course finished. A flatmate moved cities. Somebody had a child and disappeared for two years. Each of those is an ordinary event with no emotional content, and the cumulative effect is that the supply of repeated unplanned contact went from enormous to almost zero, over about a decade, with nothing announcing it.
+
+Wrzus and colleagues combined 277 studies covering 177,635 people from adolescence to old age in *Psychological Bulletin* in 2013, and found that cross-sectional and longitudinal data pointed the same way: the wider social network grows until young adulthood and then declines steadily, the friendship network keeps shrinking through the rest of adulthood while the family network holds its size, and the drops cluster around ordinary transitions such as job entry and becoming a parent. What that work cannot tell you is why any particular message went unsent, since it counts who is in a network rather than what anybody did, and the sizes it reported moved with the way the researchers asked the question.
 
 What is left is a machine that produces first conversations and no second ones.
 
@@ -366,6 +368,8 @@ Notice what happened there. The obstacle at the start was the risk. The obstacle
 
 The most important thing to say about this is that the accounting is entirely private. You are the only person tracking the gap. He is not sitting there having noticed that it has been seventeen months. He does not have a ledger. If a friendly, specific message arrives from somebody he enjoyed meeting, the dominant reaction is mild pleasure and a small amount of memory work, and the elapsed time is somewhere down the list of things he thinks about.
 
+There is measured work behind that, and [it is credited on the page about not showing up when somebody is grieving](/patterns/not-showing-up-when-someone-is-grieving/) rather than credited again here, on the same principle as the two described models earlier on this page. A set of experiments published in 2023 found that people who got back in touch with somebody they had fallen out of contact with consistently underestimated how welcome the contact would be, and that the underestimate grew the more unexpected the contact was, though the work covered ordinary reconnection rather than a follow-up with somebody you met exactly once.
+
 The tells are easy to spot.
 
 **Your imagined message keeps getting longer.** It used to be two lines. Now it opens with something about how long it has been.
@@ -392,6 +396,18 @@ The separating question is different for each, and none of them is about how muc
 
 Read the right-hand column slowly. Most people find one row lands differently from the other four. A fair number find that two are running together, most often the third and the fifth, which is a coherent pair: a belief that you were tolerated makes the first week hard, and once the first week has passed the interval takes over and does the rest of the work by itself.
 
+## Why Don't I Follow Up With People I Liked and Wanted to Befriend?
+
+Because liking somebody has never been what produced a friendship, and the thing that did produce one has quietly stopped arriving in your week.
+
+Everything above assembles into one answer with two halves. The first half is structural and it applies to almost everybody. For the first two decades of your life the friendships came out of repeated unarranged contact inside a setting that put the same faces in front of you. Feld's 1981 account of foci of activity is the name for that, and it is a framework rather than an experiment, so treat it as a description of what happens rather than as a prediction about you. When a focus ends, the ties it was carrying lapse with nobody deciding anything, and what replaces a focus has to be an explicit arrangement, proposed by you, on a named day, which is something you were never once required to do before.
+
+The second half is personal, and it is the part that differs from reader to reader. Something specific stops that one move, and it is one of the five above rather than a general failing: a week with no room in it, a structure that ended, a belief that you were tolerated, a claim you would rather not put in front of somebody, or an interval that has grown its own explanation. Those five need different first moves, which is why any page that hands you a single instruction here is wrong for four readers out of five.
+
+Two things follow from that. Liking the person tells you nothing about whether a friendship was ever going to happen by itself, which is why warm regard and an unused contact list can run side by side for years without either one correcting the other. And your reading of how the conversation went for the other person is systematically low, in a direction that has been measured; [the researchers who measured it are credited on the page about knowing everything about your friends while they know nothing about you](/patterns/changing-the-subject/), where the finding does a different job.
+
+So, stated plainly. The follow-up does not happen because nothing in adult life makes it happen, and because one specific thing has made the exception feel expensive. The first part is environmental, it arrived for nearly everybody at the same stage of life, and no amount of resolve undoes it. The second part is yours, it differs across the five, and it can be checked this week for the price of one message.
+
 ## What Is the Not-Sending Actually Made Of?
 
 This is the distinction the rest of the page has been building toward, and it is the reason advice on this subject fails so reliably.
@@ -408,7 +424,9 @@ The second is that the default is doing something for you. Not sending is not ne
 
 So the practical shape of this is unusually clean. The not-sending is a default and defaults do not respond to willpower. The sending is a single small act that requires a decision and can be made once. Everything that helps here works on the second one, and the first will keep running quietly underneath it until you know what it is buying.
 
-## Why Does Just Text Them Fail as Advice?
+## Would a Friendship App Solve My Problem If I Already Meet People but Never Message Them?
+
+Not for this particular difficulty, and the fastest way to see why is to start with the advice everybody gives first, which is just text them.
 
 Because it names the missing action, which you already knew, and skips the entire question of why the action has not occurred in eleven months.
 
@@ -439,6 +457,8 @@ Say the true reason it came back to you. Something happened this week and it rem
 Propose one concrete thing. A day and a specific activity. Vague warmth is what got you here, since two people who both say we should do this properly sometime have made an arrangement that requires a third person to exist.
 
 And say nothing about the interval. No apology, no explanation, no acknowledgment that it has been a while. This is the part people find hardest and it is the part that does the work. An apology introduces the silence as a subject, and once it is a subject the other person has to respond to it, and now a four-line message has become an exchange about why you did not write. Leave it out and the message reads as what it is, which is somebody getting in touch.
+
+That instruction is the one part of this design with measured work behind it, through the finding described in the section on the gap above: contact the other person was not expecting is welcomed more than the sender predicts, and the surprise is part of why. What has not been measured is the wording, so treat the four lines here as an arrangement that removes the known obstacles rather than as a formula with evidence behind it.
 
 Four lines is plenty. Longer messages are not warmer, they are more anxious, and the difference is visible from outside.
 
@@ -492,7 +512,7 @@ You still find the message slightly uncomfortable to send. That has not gone and
 
 You send maybe one a month, and most months you do not think about it much. Some get warm replies and a plan. Some get a friendly reply and nothing further, and you have stopped reading that as information about yourself. A few get nothing, and the interesting development is that this now costs you about a day rather than a year.
 
-The list of unused numbers stops growing. That is the real marker and it happens quietly. You notice one evening that the exchange from a fortnight ago has already been used, and you cannot remember making a decision about it.
+The list of unused numbers stops growing. That is the real marker and it happens quietly. You notice one evening that the exchange from two weeks ago has already been used, and you cannot remember making a decision about it.
 
 You have one or two people in your life who are there because of this. Not a transformed social circle. One or two, with a specific origin you can point to, which is a different feeling from friendships you cannot remember acquiring.
 
@@ -527,6 +547,10 @@ Feld published his account of the focused organization of social ties in the *Am
 Hall published the hours estimates in the *Journal of Social and Personal Relationships* in 2019. Two modest samples, retrospective estimates of time spent, and associations between accumulated hours and rated closeness. The figures that circulate from it have been converted into thresholds by everybody except the study itself, and that conversion is not supported.
 
 The liking gap and the mere exposure effect are named in the body without attribution attached, for the reason given where they appear: each is credited to its researchers on another page here that uses it for a different behavior, and repeating the same names in a fifth place would make a set of independently written pages look like one reading list. Both are linked. On the liking gap specifically, one further caution belongs here: the work is recent, the samples are mostly students and laboratory conversations, and the effects are modest. It establishes a direction of error rather than a fact about any particular conversation you had.
+
+Wrzus and colleagues published the network analysis in *Psychological Bulletin* in 2013, across 277 studies and 177,635 participants from adolescence to old age. It reports sizes rather than causes: the wider network peaks in young adulthood and then declines, the friendship network declines through the rest of adulthood while the family network holds its size, and similar movements appear around job entry and becoming a parent. Two cautions belong with it. The reported sizes moved with the way the network was measured, and a description of who is in somebody's life at a given age says nothing about the single act this page is about.
+
+The 2023 experiments on getting back in touch, used in the section on the gap, are credited to their researchers on the grieving page linked there, for the same reason the liking gap and mere exposure are handled that way above.
 
 Two things I have deliberately not claimed. I have not told you how common each of the five roots is, because no such figure exists and inventing one would be the same offense as quoting the two hundred hours as a law. And I have not claimed that any of the classic proximity studies has been replicated at modern standards, because I could not verify that well enough to put it in front of you, and I would rather say so than imply a confidence I do not have.
 

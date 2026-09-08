@@ -92,7 +92,7 @@ Because booking converts something you can still call nothing into something wit
 <div class="identify-box" markdown="1">
 These are the sentences people run in the months between deciding to book and actually booking.
 
-- "I have been meaning to sort this out since about March."
+- "I have been meaning to work this out since about March."
 - "If it were serious it would have gotten worse by now."
 - "I know exactly which number to call. I have known for months."
 - "I told her to get hers looked at the same week I put mine off again."
@@ -105,7 +105,7 @@ These are the sentences people run in the months between deciding to book and ac
 
 Now, the delay.
 
-The number is in your phone. It has been in your phone since you looked it up in a car park in April, and you have opened the contact card twice since then and closed it both times. You know the opening hours. You know that mornings are better. You have twice been holding the phone in a room quiet enough to make the call and have found something else to do with the next ten minutes.
+The number is in your phone. It has been in your phone since you looked it up in a parking lot in April, and you have opened the contact card twice since then and closed it both times. You know the opening hours. You know that mornings are better. You have twice been holding the phone in a room quiet enough to make the call and have found something else to do with the next ten minutes.
 
 Somewhere in the same months you have told a friend, warmly and without hesitation, that they should really get that looked at. You meant it. You were right. That conversation happened on a Thursday and on the following Monday you moved your own thing to next month again, and you did not notice the contradiction at the time, because the two decisions were made by what feels like two different people.
 
@@ -239,7 +239,7 @@ If any of those describe you, the useful move is different from everything else 
 - If a previous clinician treated you badly, ask for a different one. This is a normal request and you do not have to justify it.
 - Write down the exact obstacle in one sentence. If it names a thing somebody else could solve, the next step is asking them rather than deciding alone.
 
-One honest note, because this cuts both ways. A real obstacle can also become the sentence that ends the conversation every time it comes up, including with yourself. If the obstacle is genuinely fixed, checking it once a year is enough and you should stop revisiting it. If you have not actually checked in eighteen months, then the sentence has been doing more work as a full stop than as a fact, and checking is a fifteen minute job.
+One honest note, because this cuts both ways. A real obstacle can also become the sentence that ends the conversation every time it comes up, including with yourself. If the obstacle is genuinely fixed, checking it once a year is enough and you should stop revisiting it. If you have not actually checked in eighteen months, then the sentence has been doing more work as a period than as a fact, and checking is a fifteen minute job.
 
 ## Why Do Your Body's Signals Not Register as Requests?
 
@@ -294,7 +294,7 @@ Being busy is the universal cover story here, and its power comes from usually b
 Run the sentence through each root and watch it change meaning.
 
 - For the person controlling information, being busy means there has been no moment where the situation would have to be named out loud.
-- For the person whose body is equipment, being busy is the literal truth, and the appointment never entered the queue because nothing flagged it as belonging there.
+- For the person whose body is equipment, being busy is the literal truth, and the appointment never entered the line because nothing flagged it as belonging there.
 - For the person with a genuine practical barrier, being busy is often shorthand for something more exposing, such as not being able to afford it or not being able to lose the shift.
 - For the person carrying shame, being busy is what you say instead of describing an examination you have been dreading since spring.
 - For the person who copes, being busy is the identity working exactly as designed, since a person with time to look after themselves is a different sort of person.
@@ -369,7 +369,7 @@ With a sequence, most of which happens before the call and none of which require
 The reason people wait for readiness is that they expect it to arrive. It generally does not, and the appointments that get made are made by people who called while still not wanting to. Treat the whole thing as an administrative task with a script.
 
 1. **Find the number today and put it somewhere visible.** Not saved for later. Written down, in front of you, along with the actual opening hours. Four minutes.
-2. **Pick a specific day and time, and put it in the calendar as the task itself.** Call the surgery is a task. Sort out my health is not. Choose a slot when the lines are open and you are alone.
+2. **Pick a specific day and time, and put it in the calendar as the task itself.** Call the doctor's office is a task. Work out my health is not. Choose a slot when the lines are open and you are alone.
 3. **Write the sentence before the day.** One line, plain. I would like an appointment, I have had something going on for a while and I want it looked at. Nothing more is needed and nothing more will be asked for.
 4. **Decide in advance that you will not rank its seriousness.** You are not qualified to sort the significant from the insignificant, and attempting to do so on the phone is where people talk themselves back out of the booking.
 5. **Make the call standing up, and make it first.** Before email, before anything else in the day. The delay grows through every hour it stays available.
@@ -384,7 +384,7 @@ All any of this really is, is testing a hypothesis. Nobody can tell you in advan
 
 Ordinary, in a way that consistently surprises people who spent months dreading it.
 
-Here is what most people report. The room was less of an event than expected. The clinician was unsurprised by the delay and moved past it quickly. The examination that had been dreaded for weeks took a small number of minutes. And a specific weight, one that had been present so long it had stopped registering as a weight, was simply gone by the time they reached the car park.
+Here is what most people report. The room was less of an event than expected. The clinician was unsurprised by the delay and moved past it quickly. The examination that had been dreaded for weeks took a small number of minutes. And a specific weight, one that had been present so long it had stopped registering as a weight, was simply gone by the time they reached the parking lot.
 
 That last part is the one worth flagging in advance, because it is the piece nobody anticipates. The relief is rarely about the result, which frequently is not even available yet. It comes from the end of the unmade decision. A thing that has been quietly running in the background of every week for months stops running, and the quiet afterward is noticeable.
 

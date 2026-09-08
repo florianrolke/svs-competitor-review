@@ -147,6 +147,8 @@ The second is a person for whom hosting has become the only available position. 
 
 The difference lies in whether the alternative exists rather than in how much anybody enjoys hosting. And the test for that is not a feeling, because feelings about this are unreliable in both directions. The test is whether you can name the last time you attended something and did nothing at all.
 
+There is a more exact version of that distinction in the research on habit, where the marker is the mechanism rather than the frequency: Gardner's 2013 review in Health Psychology Review, drawn from 136 empirical studies and 8 literature reviews, proposed a definition in which a habit is a learned link between a setting and an impulse to act, so that the setting produces the impulse with no decision required of anybody. The limit sits inside that same review, which found the word had been used inconsistently across the work it examined, and none of that work concerned hosting or anything social, so what it offers here is a sharper question rather than a finding about you: not how many evenings you have run or how much of them you enjoyed, but whether the doorbell moves your hand before anything has been weighed.
+
 ## What Is the Name for This, and Where Does the Name Stop?
 
 There are four pieces of described vocabulary here. Between them they explain the machinery quite well. Not one of them explains you.
@@ -203,6 +205,8 @@ This is the mechanism, and it is worth going slowly, because it is the part that
 
 An offer of help requires three things to be true at once. There has to be a visible gap. The person offering has to believe they are the right one to fill it. And there has to be a moment where offering would not be strange. Hosting removes all three, permanently, without anybody doing anything.
 
+That three-part structure has a source outside this subject: Darley and Latané set out the same sequence in 1968 in the Journal of Personality and Social Psychology, and at more length in the book that followed two years afterward, working on why somebody present when help is needed does nothing, and finding that the situation first has to be noticed, then has to be read as one that calls for help, and then somebody has to accept that supplying it falls to them, so that a failure at any one of the three ends the whole thing with nobody having decided anything. The limit is large and worth saying plainly, because that work was built from situations arranged among strangers in a research setting where somebody appeared to need urgent help, which is a long way from a friend weighing whether to dry a plate, so what carries across is the shape of the sequence rather than any of its results, and none of it says anything at all about hosts.
+
 There is no visible gap, because you are ahead of it. The drink arrived before the thirst did. Nothing is ever conspicuously unhandled, so there is nothing for a guest to point at.
 
 Nobody is the right person, because it is your house, your food and your system. A guest who starts reorganizing your kitchen is committing a small social error and they know it. Their correct move is to stay where they are, and they make it.
@@ -242,6 +246,20 @@ The tell people find hardest to argue with is the arrival. Ask yourself when you
 What is happening is a restoration. The guest position has no script in it for you, so being in it produces a mild continuous uncertainty about what to do next. The host position, even a borrowed one, supplies everything. Collecting four glasses has nothing to do with the glasses. What it does is put you back into a role where you always know your next move.
 
 The parallel version, for anyone who recognizes this, is documented on the page about [never being in your own photographs](/patterns/avoiding-photos/). The person holding the camera is present at everything, does the work of recording it, and does not appear in the record. The mechanism is the same shape: a role that guarantees presence and guarantees exemption at once.
+
+## Why Am I Always the Host and Never Able to Relax as a Guest?
+
+Because host and guest are two different pieces of work, and you have done one of them for decades and the other one hardly at all.
+
+Most people put this to themselves as a mood problem. They assume relaxing is something they have stopped being able to do, and that if they could settle down, the guest version of an evening would open up. That has the order backward. Relaxing is not an action anybody performs; it is what remains when nothing in the room is asking you to decide anything, and the host position guarantees that something always is. An evening on your feet is work rather than a state you have to talk yourself out of, and work does not stop because you would prefer to be enjoying yourself.
+
+So when the work is taken away, in somebody else's house, what arrives is closer to being unemployed than to calm. The hands have nothing, the attention has nothing to land on, and the position you are standing in has no next move built into it. That is why the guest chair is harder than an evening at the oven, and why the harder of the two looks, from outside, like doing nothing at all.
+
+There is a second half to this that people rarely reach on their own, and it has nothing to do with you. To be a guest, somebody else has to be running the evening, which means the evening gets run in a way you would not have run it. The glasses get filled later than you would fill them. Two people who ought to meet will not meet for an hour. Something arrives warm that you would have sent out hot. Somebody who has hosted for decades is not simply sitting down; they are watching a room being run to somebody else's judgment with their hands empty, and the pull to get up is often about the room rather than about themselves.
+
+Catching which of the two it is matters, because they lead to different work. If what makes the seat hard is the empty hands and the missing script, then the thing to look at is the role and what it is for, which is what the roots set out further down are about. If what makes it hard is the room being run differently, then what you have found is a question about what you can let stand, and that one has a cheaper answer: let one thing go slightly wrong at somebody else's house and stay seated through it. Not calmly. Just long enough to find out what actually happens, which in almost every case is nothing.
+
+The practice gap underneath both versions is mechanical and it is the part nobody counts. Every gathering you host is another run at the position you already hold, and none of them is a run at the one you do not. After enough years the distance between the two is the ordinary difference between something you have done constantly and something you have not done since before you had a house of your own, rather than a preference or a wound. That part responds to the dullest remedy there is, which is going and sitting in somebody else's front room a few more times than you have.
 
 ## Why Do Two People Take the Identical Role for Completely Different Reasons?
 

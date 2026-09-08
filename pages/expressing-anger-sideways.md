@@ -135,13 +135,33 @@ It looks like a story told at dinner, funny, well shaped, at somebody's expense,
 
 Twelve of those in a week produces a week that looks completely normal from the inside, and a week in which somebody living with you comes away with the accurate impression that they have done something wrong and no ability to say what.
 
-## What Is the Name for This, and How Much of It Is Real?
+## Why Do I Agree to a Task and Then Delay or Forget the One Thing I Resented?
+
+Because the yes and the objection left on two different channels, and only one of them was expensive.
+
+The yes is cheap. It costs a second, it keeps the room comfortable, and it is what any reasonable person says when they are asked for something small by somebody they like. The objection has no channel of that kind available to it. Saying it would mean opening a subject, holding a position, and defending a position you had not finished forming. So the yes goes out on time and the objection goes into the schedule, where it can travel for months without ever being addressed to anybody.
+
+That is the delaying version. The forgetting version is stranger, and people find it much harder to believe about themselves.
+
+Forgetting is the only refusal that requires no explanation. Nobody argues with a lapse. There is nothing to defend beyond the lapse itself, no position to hold, and no conversation at the end of it. From the inside it is not experienced as a decision, because it is not one. You did not decide to leave the package with the return label on it standing by the door for seventeen days. You simply did not think about it, on any of the days when you thought about everything else.
+
+The evidence never sits in the single item. Each instance survives inspection on its own, because you genuinely were busy and the store genuinely was closed. What does not survive inspection is the proportion. Take the things you agreed to over a month, mark each one for whether you actually wanted to do it, and the ones that evaporated will not be spread evenly down that column.
+
+Two things are worth saying plainly here, because this gets read wrong in both directions.
+
+The first is that it is not sabotage. Sabotage needs a plan, and there is no plan anywhere in this. It is not laziness either, which is why that accusation lands so badly when somebody makes it. Laziness would be indiscriminate, and this is precise. The one job that vanished was the one job with a person attached to it.
+
+The second is that it is frequently not about the task at all. What was resented was the way the request arrived, or who it came from, or the fact that it was assumed rather than asked. The task was simply the thing available to carry the objection, and it carries it well, because a task has a deadline and a deadline can be missed without a word being said.
+
+## What Is Passive Aggressive Behavior, and Where Did the Phrase Come From?
 
 The name is **passive aggressive behavior**, and it is worth a great deal less than the confidence with which people use it.
 
 Start with what it accurately names, because it does name something. The behavior is the expression of dissatisfaction through action, timing, or tone rather than through a statement. The dissatisfaction reaches the other person. It arrives with nothing attached that could be quoted, challenged, or discussed. Those two properties together are the entire phenomenon, and they are what make it durable, because a message that lands and cannot be raised is a message that never has to be defended.
 
 **Where the phrase came from, and what happened to it.** It began life as clinical shorthand. The words were coined in the 1940s, in a military setting, to describe people who followed an instruction and then carried it out in a way that made the compliance worthless. For several decades afterward it existed as a formal clinical category, with a written description attached to it. Then it was taken out of the main list of such categories, because it did not survive examination. The objections at the time were straightforward. It described a single behavior rather than a broad and stable pattern. It could not be separated cleanly from a reasonable response to a genuinely constraining situation. And the people applying it did not reliably agree with one another about who had it.
+
+The origin has a name and a date attached to it, and both are worth having. The phrase was put into circulation in a bulletin written for the US Army in 1945, where Menninger used it for soldiers who could not refuse an order and who then complied in a way that drained the compliance of its value. That gives you the limit along with the source. It began as one wartime observer's description of people with no available way to say no, written before anybody had measured any of it, and nothing about the way the phrase now gets used about a partner or a colleague has ever been checked against what he actually described.
 
 I am deliberately not naming what was removed or where it was removed from. Naming it would invite you to go and look up a description that no longer describes anything, and this page has no business handing you a category to apply to yourself. The fact that matters is simpler and it is the one almost nobody tells you: what survives is a plain description of a behavior. Every competing article on this phrase treats it as a settled clinical thing with a fixed technical meaning. It has not been one for a long time.
 
@@ -185,6 +205,8 @@ The question worth asking is narrower, and it is the only one that separates a c
 
 Because the route generalizes. It does not stay where it was built. A person who cannot object at work and objects sideways there instead will very often find, on inspection, that they now do it at home with somebody who has no power over them at all, and in a friendship where the worst possible outcome of speaking plainly is a slightly awkward twenty minutes. The skill was acquired in a place that demanded it and it does not check the address before running.
 
+There is measured work behind that spreading, and the attribution belongs to [the page that already carries it](/patterns/patient-with-everyone-except-the-people-i-love/) rather than to this one: people provoked by somebody they cannot answer reliably discharge it onto a target who had nothing to do with the provocation, and the effect gets larger the less available the original source was. Two limits belong with that. Almost all of it is short run laboratory provocation rather than a shed door left for six months, and it describes where a charge tends to go rather than whether yours has gone there, which is a question only your own week can answer.
+
 So: keep the version that is doing accurate work. Look hard at the version that has spread. Those are two different behaviors wearing the same clothes, and they need opposite things from you.
 
 ## Why Does the Sideways Version Arrive Before You Know You Are Angry?
@@ -211,7 +233,9 @@ That exchange has one reliable outcome. They come away holding a real observatio
 
 Run that four times a year for a decade and you get two people who are certain about each other and wrong in both directions.
 
-## Are You the Withdrawing Half of a Loop You Have Never Seen Drawn?
+## How Does This Pattern Show Up With a Partner Who Keeps Pressing Me to Talk?
+
+It shows up as a loop with two halves, only one of which is visible from where you are standing, so the question worth answering first is the one underneath. Are you the withdrawing half of a loop you have never seen drawn?
 
 Almost certainly, and seeing the whole shape usually changes what you do about your half.
 
@@ -223,7 +247,11 @@ The reason the loop matters more than either half is that most people work exclu
 
 The finding that helps is the one about roles tracking topics. If the roles swap when the subject swaps, then what you are looking at is a position in a structure rather than a permanent feature of you. Read that as a redirection rather than as a comfort. The useful work is on what happens when you do not want the change being asked for, which is a much smaller and much more tractable problem than becoming a different kind of person.
 
-## How Good Is the Evidence Behind Any of This?
+That finding is Eldridge and colleagues in 2007, named earlier on this page for the vocabulary and named again here because this is the section where it decides something. Comparing couples across different levels of distress, they found the loop more frequent and considerably more rigid where distress was higher, and the roles tracking who wanted the change under discussion rather than who had which temperament. The limit travels with it: that work is cross sectional, so it can show you the shape of the thing and it cannot tell you which direction the shape runs in.
+
+## Why Does My Sideways Anger Mostly Land on People Close to Me?
+
+Because proximity is what produces the material and familiarity is what makes the indirect route survivable. The survey work behind that answer sits a few paragraphs down, and it arrives carrying the question that always has to travel beside it. How good is the evidence behind any of this?
 
 Weaker than the tone of most writing on the subject, and you should know exactly where the weakness is.
 
@@ -325,11 +353,15 @@ In the places where slowness and precision are both socially acceptable, which i
 
 **In illness and tiredness that arrive on schedule.** A headache before a particular type of evening. Exhaustion that lifts an hour after the thing is canceled. This one is worth stating carefully, because tiredness is usually just tiredness, and the pattern only counts if it has a target.
 
-## Is This the Same as Going Quiet, Saying You Are Fine, or Going Grey Rock?
+## How Is This Different From the Silent Treatment or Shutting Down in an Argument?
+
+In four different ways, and the same question is worth putting about saying you are fine and about going deliberately flat with one particular person. Is this the same as any of them?
 
 No, and the differences are worth having, because these four get treated as one thing and they need different work.
 
 Going quiet in the middle of an argument is an involuntary loss of access under live pressure. The words stop being available while the conversation is running, and they come back afterward. That is a different mechanism and it has [its own page](/patterns/why-do-i-shut-down-in-the-middle-of-an-argument/). What this page describes happens outside the argument, frequently days later, in a channel nobody is watching, and it does not require pressure to be present at all.
+
+That difference has been measured rather than argued. During live conflict the person who goes quiet is frequently in a state of physical overwhelm, with heart rate well above resting baseline and verbal processing measurably degraded while it lasts, and the page linked above carries the researchers and the numbers for it. The route this page describes shows no such signature, because it is not running under pressure when it fires. Two limits sit on that work: it is observational, largely on couples recorded in a laboratory rather than at home, and the accuracy claims attached to it have taken substantial criticism even where the descriptions have held.
 
 Saying you are fine is a two word answer with its own page as well, and if what brought you here was the question of why that phrase arrives before you have checked how you are, [that one](/patterns/saying-im-fine/) is the more useful page. What belongs here is the narrower version where the words are technically an answer and the delivery is carrying a message the words are not.
 
@@ -389,11 +421,13 @@ You might be dealing with somebody who uses the phrase as a general purpose comp
 
 And you might be tired, or unwell, or carrying something entirely unrelated that has flattened everything. Tiredness lands on whoever is nearest and it is indiscriminate. Anger has an address. If everybody in your life got a slightly worse version of you this week, look at your sleep before you look at your character.
 
-## What Actually Moves This?
+## What Can I Actually Do to Stop Sending Anger Sideways?
 
 Noticing earlier, in that order, and nothing else first.
 
 **Move the recognition, before you change any behavior.** For two weeks, do not attempt to say anything to anybody. Simply catch the delay. When the sentence arrives, in the car or at the sink or the next morning, write down two things: what it was about, and how long after the event it showed up. That is the entire exercise. Almost everybody discovers that their delay is far more consistent than they expected, and consistency is what makes a thing workable.
+
+There is a reason to start with a written record rather than with a resolution. Keeping a written count of your own behavior tends to change the behavior being counted, an effect Korotitsch and Nelson-Gray described in their 1999 review of the research as reliable enough to be a nuisance, since it interferes with measuring anything cleanly. Take the size of it carefully. The change is usually modest, it varies a great deal with what is being recorded, and it fades once the recording stops, which is why two weeks of this is a way in rather than the work itself.
 
 **Then work the twenty minutes.** Once you know your delay, you know when to expect the sentence. Use it once. Go back to the person and say the small late thing, with the lateness included in the sentence rather than hidden. Something in the shape of: this is four hours late and it is small, and on Tuesday when you said the thing about the shed I got annoyed and did not say so. Nothing about that requires a technique. It requires accepting that you will sound slightly odd for about eight seconds.
 
@@ -445,10 +479,10 @@ Two weeks of catching the delay, and nothing else at all.
 
 Do not attempt a conversation. Do not resolve to communicate better. Do not tell anybody you are working on this, because announcing it converts the whole thing into something you are being watched on and that is the fastest way to stop looking honestly.
 
-Just catch the arrival. Every time a sentence shows up late, in the car, at the sink, in the eleven minutes before you fall asleep, write down what it was about and how long after the event it arrived. Two lines. You will have somewhere between four and fifteen of them by the end of the fortnight.
+Just catch the arrival. Every time a sentence shows up late, in the car, at the sink, in the eleven minutes before you fall asleep, write down what it was about and how long after the event it arrived. Two lines. You will have somewhere between four and fifteen of them by the end of the two weeks.
 
 Then read the column. The delay will be more consistent than you expected, and the targets will be less various than you expected, and one name will appear more often than the rest. All three of those are information you have never had, because the behavior is specifically designed to prevent you from having it.
 
 If what landed hardest here was the timing, the two weeks will probably be enough on its own and you can stop there. If what landed hardest was something else, the recognition that you cannot name one person you could speak plainly to, or that being asked what is wrong feels like defeat rather than relief, or that you can describe exactly what a cold week gets you and would rather not have written it down, then the thing worth working on is underneath the route rather than in it. [Our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) works at that layer. The goal is not to feed your emotions. The goal is to find what the behavior has been doing for you, then what is standing in the way of the direct version, then a plan you are held accountable to afterward, back in the same kitchen with the same shed door and the same person. Everybody is screened before arriving, which keeps the group small enough that somebody whose anger has been arriving four days late for twenty years gets worked with properly rather than handed a worksheet. One limitation worth stating plainly: exact dates, the price, and the final cap on group size are still being settled, so anybody comparing programs on those numbers this week cannot yet compare ours. Ask every program you are weighing the same questions, this one included, and decide from what comes back.
 
-The fortnight of lines costs you nothing and it is worth having either way.
+The two weeks of lines costs you nothing and it is worth having either way.

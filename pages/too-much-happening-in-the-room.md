@@ -107,7 +107,7 @@ They are the same size, the same brand, and one of them is eleven pence cheaper 
 
 And you cannot choose a jar.
 
-Not because the choice is hard. The choice is trivial, and if somebody handed you the two jars on a quiet street you would pick one in half a second without a thought. What is happening in the aisle is that every one of those things is arriving at the same apparent volume, with nothing in you currently sorting the important from the ignorable, and the jars have been dropped into a queue behind the phone call, the freezer and the tills. There is no spare attention left to spend on eleven pence.
+Not because the choice is hard. The choice is trivial, and if somebody handed you the two jars on a quiet street you would pick one in half a second without a thought. What is happening in the aisle is that every one of those things is arriving at the same apparent volume, with nothing in you currently sorting the important from the ignorable, and the jars have been dropped into a line behind the phone call, the freezer and the tills. There is no spare attention left to spend on eleven pence.
 
 You put both jars back. You leave with about half of what you came for. Outside, in twenty seconds of ordinary street noise, which is objectively louder than the shop was, you feel entirely normal and slightly embarrassed.
 
@@ -127,7 +127,7 @@ Not a bad party. You were enjoying yourself. And at some point, without any even
 
 And then there is the door.
 
-Your own front door, or a bathroom door at somebody else's house, or the door of a car in a car park, and the specific quality of what happens on the other side of it. Not quiet exactly. What arrives is the end of having to respond to anything, and it comes with a drop in the shoulders that you could time with a watch.
+Your own front door, or a bathroom door at somebody else's house, or the door of a car in a parking lot, and the specific quality of what happens on the other side of it. Not quiet exactly. What arrives is the end of having to respond to anything, and it comes with a drop in the shoulders that you could time with a watch.
 
 You are probably here because somebody used a word about this, or because you used it about yourself and then went looking for what it meant. This page will give you the accurate word, say precisely what it covers and what it does not, and then leave the labeling business entirely, because the label is the least useful thing on this page. What the page will not do is hand you an identity, tell you what you might have, or send you shopping for equipment.
 
@@ -193,6 +193,20 @@ And if what you recognize here sits alongside anything you are already being see
 
 For everybody else, and that is almost everybody reading this, the rest applies.
 
+## Why Do Noise, People, and Several Things Happening at Once Overwhelm Me So Easily?
+
+Because keeping several streams apart is itself the work, and how much of a room reaches you is set by what you are already occupied with rather than by how hard you try to shut things out.
+
+The word "easily" is the misleading part of that question, and it is the first thing to take out. Nothing here is easy. What looks to anyone watching like a low threshold is several streams being held apart at once, none of them chosen: four conversations, the tills, the music nobody picked, and whatever the two people nearest you are saying. All of it costs.
+
+There is a well-known account of what decides how much of the rest gets through. Lavie set it out in "Perceptual load as a necessary condition for selective attention", published in the Journal of Experimental Psychology: Human Perception and Performance in 1995. The proposal is that selection is not a decision you make. When whatever you are doing uses most of what you have, irrelevant input is largely kept out, with no effort from you at all. When whatever you are doing uses very little, the spare capacity goes to the irrelevant input anyway, and wanting it to stop makes no difference.
+
+If that is roughly right, the aisle stops being strange. Choosing one of two identical jars uses almost nothing, so there is capacity going spare, and the strip lighting, the tills and two people talking go straight into it. A concert takes nearly everything, and there is nothing spare for the rest of it. Loudness and cost are not the same axis.
+
+Two caveats, because this is an account rather than a settled result. The original experiments used letters and shapes on a display rather than rooms with people in them, and other researchers read the same results as an effect of the display being thinned out rather than of load. The sound version of the question has been examined separately and is less settled than the visual one. So take it as one credible explanation of why a room that asks little of you can still empty you out, and not as a description of what happened to you on a particular evening.
+
+What survives whichever way that argument goes is the shape of that question. Not how much you can take, but what a particular room is charging you for, and how little of that is the amount.
+
 ## Is the Amount of Input Actually the Variable?
 
 Much less than you would expect, and this is the finding the whole page is built on.
@@ -205,7 +219,7 @@ The reason it comes out this way is that the cost sits in the tracking rather th
 
 Which gives the actual variable, and it has three parts.
 
-**How many separate streams you have to keep track of.** Not decibels. Streams. A single loud thing is one item. A moderately noisy room containing four conversations, a screen, a queue and somebody's music is six.
+**How many separate streams you have to keep track of.** Not decibels. Streams. A single loud thing is one item. A moderately noisy room containing four conversations, a screen, a line and somebody's music is six.
 
 **How predictable each stream is.** Anything you can anticipate becomes cheap quickly. Anything that arrives without warning stays expensive indefinitely, because you cannot stop preparing for the next one.
 
@@ -249,15 +263,17 @@ Now the caveats, which the popular writing on this subject almost never carries.
 
 **The percentage figure is the weakest part.** You have almost certainly met a confident claim that some fixed share of the population is highly sensitive. It has been repeated so often that it now sounds like a fact. Lionetti and colleagues went looking for natural groupings in 2018 rather than assuming them, and found three rather than two: a low group, a medium group and a high group, with the middle group the largest and the proportions nothing like the number usually quoted. Later work has argued about whether even three is the right answer. What that pattern of results points at is a continuous distribution, being cut at a convenient point, and then reported as though the cut were a discovery.
 
-**And the research programme's strongest claims run ahead of its evidence.** The literature increasingly frames the trait as a general difference in how much any environment affects a person, good or bad. That is an interesting and testable idea, and it has not been established. The gap between how confidently it is stated in popular writing and how carefully it is stated in the journals is wide enough to be worth naming.
+**And the research program's strongest claims run ahead of its evidence.** The literature increasingly frames the trait as a general difference in how much any environment affects a person, good or bad. That is an interesting and testable idea, and it has not been established. The gap between how confidently it is stated in popular writing and how carefully it is stated in the journals is wide enough to be worth naming.
 
 So what should you do with the concept? Use it as a description and refuse it as an identity, which is a distinction worth being strict about.
 
 As a description it says: you are somewhere on a continuum, probably further along it than average, and that is stable enough to plan around. That is useful and it is almost certainly true of you if you have read this far.
 
-As an identity it says: you are a type of person, this is the explanation for your experience, and the explanation is finished. That version does damage in three directions. It converts a dimension into a category the data does not draw. It hands you a reason to stop looking at everything else on this page, including four roots that have nothing to do with a trait. And it quietly forecloses the parts that actually move, which is a high price for a word that felt good for a fortnight.
+As an identity it says: you are a type of person, this is the explanation for your experience, and the explanation is finished. That version does damage in three directions. It converts a dimension into a category the data does not draw. It hands you a reason to stop looking at everything else on this page, including four roots that have nothing to do with a trait. And it quietly forecloses the parts that actually move, which is a high price for a word that felt good for two weeks.
 
-## Why Does the Same Room Cost Different Amounts on Different Days?
+## Why Does the Same Room Overwhelm Me on Thursday but Not on Saturday?
+
+What a room costs you moves from day to day, even when nothing about the room does.
 
 Because capacity is a moving quantity, and treating it as a fixed one is what makes your own experience look like inconsistency.
 
@@ -267,7 +283,7 @@ This is why the identical family dinner is easy on a Saturday morning and imposs
 
 One thing I want to be precise about, because a popular explanation sits nearby and it does not hold up. There was a well-known idea that self-control runs on a finite daily supply that gets spent down like a fuel tank, and it was used to explain exactly this shape of experience. That idea has been in serious trouble for a decade, and this site has a page that goes through why in detail, on [the pattern of being patient with everyone except the people you love](/patterns/patient-with-everyone-except-the-people-i-love/). I am not making that argument here and this page does not need it.
 
-What is being claimed is narrower and much more ordinary. Tracking several unpredictable streams is work. Work in a tired body goes worse than work in a rested one. Nobody needs a contested theory of willpower to accept that, and you can verify it yourself in a fortnight by noticing what your worst rooms have in common, which is usually a time of day rather than a decibel level.
+What is being claimed is narrower and much more ordinary. Tracking several unpredictable streams is work. Work in a tired body goes worse than work in a rested one. Nobody needs a contested theory of willpower to accept that, and you can verify it yourself in two weeks by noticing what your worst rooms have in common, which is usually a time of day rather than a decibel level.
 
 The useful consequence is that your variability stops counting as evidence against you. People in this pattern quietly suspect themselves of exaggerating, precisely because they managed on Tuesday what floored them on Thursday, and they take that as proof that the whole thing is somehow chosen. It is proof of the opposite. A cost that moves with sleep, food and the preceding hours is behaving exactly like a real cost.
 
@@ -275,7 +291,7 @@ The useful consequence is that your variability stops counting as evidence again
 
 Because leaving is the outcome, and what produced it sits underneath and out of view.
 
-Two people walk out of the same party at the same time. Both were enjoying it. Both said something about an early start. Both feel the same drop in the shoulders on the pavement outside.
+Two people walk out of the same party at the same time. Both were enjoying it. Both said something about an early start. Both feel the same drop in the shoulders on the sidewalk outside.
 
 For the first, that many streams genuinely cost more than they cost most people, it always has, and there is nothing underneath it at all.
 
@@ -305,9 +321,9 @@ The recovery requirement is real too, and it is the part that gets moralized mos
 
 And the cost is genuinely uncorrelated with enjoyment. This is the piece that confuses everybody, including the people who love you. You can have the best evening of the month and still be finished by ten. Liking something does not make it free, because the liking and the processing are happening in different places.
 
-The tells for this root are reassuringly boring. It has been true for as long as you can remember, in every part of your life, including the parts that were going well. It shows up with strangers and with people you adore, at work and on holiday. It has no particular emotional content: what arrives is not dread or sadness, but a sort of full feeling, a sense that nothing more can come in. And it responds to physics rather than to psychology. A quieter room helps. A smaller group helps. Being outside helps enormously and is often the first thing people discover on their own.
+The tells for this root are reassuringly boring. It has been true for as long as you can remember, in every part of your life, including the parts that were going well. It shows up with strangers and with people you adore, at work and on vacation. It has no particular emotional content: what arrives is not dread or sadness, but a sort of full feeling, a sense that nothing more can come in. And it responds to physics rather than to psychology. A quieter room helps. A smaller group helps. Being outside helps enormously and is often the first thing people discover on their own.
 
-If that is you, the useful thing this page can do is take away a verdict you did not earn, and then get specific about the rooms rather than about you. That second part matters, because a trait explanation left on its own becomes a full stop, and there is a great deal available underneath it that a full stop hides.
+If that is you, the useful thing this page can do is take away a verdict you did not earn, and then get specific about the rooms rather than about you. That second part matters, because a trait explanation left on its own becomes a period, and there is a great deal available underneath it that a period hides.
 
 One honest complication attached to this root, since it is the one most likely to be used as a place to stop. It is also what almost everybody says first, including people for whom one of the other four is running. The distinguishing question is whether it is genuinely constant across your life, or whether it has a shape to it: worse in certain years, certain rooms, certain company. A trait does not have a shape. The other four do.
 
@@ -343,7 +359,7 @@ What separates each of those pairs is whether the next thing is knowable. The pu
 
 The tells for this root, specifically.
 
-Steady loud things are fine and sometimes actively pleasant. Rain, motorway noise, an extractor fan, a busy cafe, a crowd at a match.
+Steady loud things are fine and sometimes actively pleasant. Rain, highway noise, an extractor fan, a busy cafe, a crowd at a match.
 
 Intermittent quiet things are terrible out of all proportion. A dripping tap. A door that goes twice an hour. Somebody who occasionally, without pattern, says something.
 
@@ -451,7 +467,7 @@ What this page owns, and what the others deliberately leave alone: the room, the
 
 Because it contains three assumptions and all three are wrong, and because it is the single most common thing said to people in this pattern.
 
-**It assumes there is a stable limit to know.** There is not. Capacity moves with sleep, food, illness and the preceding six hours, so any number you learned last month is out of date. Being told to plan around a fixed threshold, when the threshold moves by a factor of two across a week, produces a person who is either constantly over-cautious or constantly caught out, and usually both in the same fortnight.
+**It assumes there is a stable limit to know.** There is not. Capacity moves with sleep, food, illness and the preceding six hours, so any number you learned last month is out of date. Being told to plan around a fixed threshold, when the threshold moves by a factor of two across a week, produces a person who is either constantly over-cautious or constantly caught out, and usually both in the same two weeks.
 
 **It assumes the amount is the variable.** The evidence says it is the weakest of the three, well behind predictability and control. Advice built on amount produces a life of subtraction: fewer rooms, smaller groups, shorter evenings, and no improvement at all in the rooms that were expensive for other reasons.
 
@@ -467,7 +483,7 @@ What replaces all of it is narrower and duller. Change what a specific room dema
 
 That you reached the ceiling several minutes before the sound arrived, and the sound was simply next.
 
-The disproportion is the whole signal. Four sharp words about a spoon is a response sized to everything already stacked up, delivered to whatever happened to be at the front of the queue. This is why you can hear how wrong it sounds while it is still leaving your mouth: the part of you that assesses proportion is working perfectly and is running about a second behind the part that spoke.
+The disproportion is the whole signal. Four sharp words about a spoon is a response sized to everything already stacked up, delivered to whatever happened to be at the front of the line. This is why you can hear how wrong it sounds while it is still leaving your mouth: the part of you that assesses proportion is working perfectly and is running about a second behind the part that spoke.
 
 Three things worth knowing about that moment.
 
@@ -531,7 +547,7 @@ The predictability and control experiments are described in the body without nam
 
 The rest is mine and carries no research weight at all. I hold no clinical qualification of any kind, and I am not a therapist. The five roots are a working sorting device built from watching the same exit turn out to be doing completely different jobs in different people, and their value is whether one of them makes you recognize something rather than whether they map onto any published taxonomy.
 
-## What Is Worth Doing This Week, Before You Change Anything?
+## What Should I Track for a Week to Figure Out Which Rooms Are Expensive for Me?
 
 A count, and nothing else. Change no arrangement, decline no invitation, and buy nothing.
 

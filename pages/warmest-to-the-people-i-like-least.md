@@ -351,6 +351,20 @@ Four questions, answerable tonight, with no observation period.
 
 Two of these will usually point the same way. If three point in three directions, the likeliest reading is that you have different roots with different people, which is common and not a complication. The card and the fence do not have to be the same mechanism.
 
+## Why Is This Strongest Around Family Members I Dislike?
+
+Because a family supplies everything this pattern needs, all at once, and takes away the one thing that would let you decline it.
+
+Start with who ends up on anybody's difficult list at all. Offer and Fischer put that question to a national sample in "Difficult People: Who Is Perceived to Be Demanding in Personal Networks and Why Are They There?", published in the *American Sociological Review* in 2018. Over 1,100 respondents described more than 12,000 of their relationships and marked which of those people they sometimes find demanding or difficult. About 15 percent of everybody named in a network was marked that way. The concentration is the part worth carrying: with the characteristics of both people held constant, close relatives were the most likely to be named, aging parents and women relatives especially, people described as friends were the least likely, and coworkers showed up more often than friends as somebody difficult and nothing else. The authors read that as normative and institutional constraint, which is a careful way of saying that the people you cannot drop are the people who end up on the list.
+
+Two limits before any of that comes near your own family. The study measures who gets named as difficult and what keeps the tie in place, and it never looks at what warmth anybody produced toward them, so it accounts for the concentration described on this page rather than for the display itself. And difficult is a wider word than disliked, wide enough to include people you love and find heavy going, so the overlap with what this page describes is partial.
+
+Now set that beside the two roots most likely to be yours. A family room has less permitted neutral in it than any other room you enter, because everybody at a family lunch has decades of baseline for how you speak, and a drop below that baseline gets noticed on the front step and discussed in three cars afterward. The audience does not turn over either. A workplace replaces itself every few years and a family does not, so the register you produced at a christening years ago is still the register the room expects from you.
+
+The guilt root fires harder here too. Disliking a colleague is permitted and easy to say to a friend. Disliking your own aunt reads to you as a verdict on your character rather than on hers, and a dislike that feels illegitimate produces guilt, and guilt gets paid off in warmth, exactly as set out above. One more detail from that same survey fits the family case uncomfortably well. Giving support to somebody without getting any back was a major source of difficulty in these ties, and getting help back did not lift the burden much either.
+
+None of it changes the work. The account is still the part that moves, and a family occasion is the worst available place to attempt anything with the register, since the audience is large, the history is long, and anything you do differently gets read by six people who have known you since you were small. Write the two sentences afterward, about one specific exchange, with a name and a room attached. That is available at every gathering for the rest of your life and it costs nothing at the time.
+
 ## Where Does This Hide When It Does Not Look Like Being Nice?
 
 The display does not always arrive as warmth. Five other shapes carry the same load, and people miss them because they are watching for niceness.
@@ -398,6 +412,24 @@ No, and the neighbors here are close enough that the boundaries are worth drawin
 **[Projecting](/patterns/projecting/)** owns accusation and certainty about what somebody else is feeling, and it names the psychoanalytic lineage that reaction formation belongs to. If what you catch yourself doing is attributing your own state to them, that is the page.
 
 **[Why certain people irritate you so much](/patterns/why-do-certain-people-irritate-me-so-much/)** owns the disowned-quality mechanism in full, as covered in the fifth root above.
+
+## Why Do I Feel Drained After Being Pleasant to Someone I Dislike?
+
+Because you held a display open against what you were feeling, holding it open costs something, and the bill arrives after you sit down rather than while you are standing there.
+
+The mechanism is named further up this page. When what you feel and what you are showing pull in different directions, somebody has to keep the gap between them open for the length of the exchange, and that somebody is you. The 2002 review of emotion work described above found that component to be the one most consistently linked with exhaustion, and found the cost accumulating across occasions rather than clearing between them. Put the missing third strategy next to that, the cheap one where you express something you already feel, and the position you were in becomes plain. Everybody else in that conversation had three options available. You had two, and both of them charge.
+
+Three things make the tiredness hard to attribute correctly.
+
+**Nothing visible happened.** You were sitting down. Nobody raised their voice. The whole effort went into sizing a message and holding a face, and neither of those leaves anything you could point at afterward.
+
+**It arrives late.** During the conversation you are usually fine, sometimes better than fine, because the display is running and it is working. The flatness turns up somewhere in the next quarter of an hour, by which point it has come loose from its cause and attaches itself to the day, the week, or your age.
+
+**The comparison misleads.** An hour with somebody you like leaves nothing behind. Eight minutes with this person does. Since the shorter one cost more, duration is plainly not what you are paying for, and people who notice this usually conclude they must be doing something dishonest rather than something effortful.
+
+There is a second layer, and it is the expensive one. Running the display while simultaneously prosecuting yourself for running it is two jobs instead of one, and the second job has no end, no audience, and no result. That layer is the one the account works on, which is why people who change nothing at all about their behavior still report being noticeably less tired within a month of writing the two sentences.
+
+The limit is the same one that applies everywhere else on this page. The exhaustion evidence came from people whose jobs required a display, gathered mostly by asking them about their work. Carrying it to a conversation over a fence is my extension, it fits closely what people describe, and nobody has measured it there.
 
 ## What Has This Already Cost, and Who Pays It?
 
@@ -450,7 +482,7 @@ Take one specific occasion from the last seven days. Not the pattern in general.
 
 That is the whole exercise. It takes ninety seconds and most people are surprised by how much comes off. What it does is separate two claims that have been welded together for years: the claim about your feelings and the claim about your character. Only the first one was ever true.
 
-Do it for four or five occasions across a fortnight. Do not attempt to change anything about the interactions themselves.
+Do it for four or five occasions across two weeks. Do not attempt to change anything about the interactions themselves.
 
 **Second, count before you conclude.**
 
@@ -467,6 +499,28 @@ Not honesty. Not a confession. Not a sudden withdrawal, which would be received 
 One specific reduction, chosen in advance, in the lowest-stakes setting on your list. The message that would have been four lines is two lines, and the two lines are still true. That is the whole intervention. It is deliberately unimpressive, and it works for a reason that is not obvious: it tests whether the cliff you have been standing well back from is actually where you think it is. Almost everybody discovers there is more room than they assumed, and that discovery does more than any amount of reflection.
 
 Run it once. Notice what actually happened rather than what you feared would happen. Then decide whether to run it again.
+
+## How Can I Reduce the Over-the-Top Warmth Without Suddenly Becoming Cold?
+
+By changing the size in one place, choosing that place in advance, and telling nobody you are doing it.
+
+The worry inside the question is sound, and it comes from the same finding this page has already used. What the other person reads is the change rather than the level. Somebody who has had four warm lines from you for six years and then receives two has a baseline to compare against, and the gap between the two versions is where the meaning lands. A general decision to be less warm to everybody is therefore the one approach guaranteed to be received as a withdrawal, which is why people who try it either frighten somebody or give it up quietly in the second week.
+
+Four rules keep a reduction from arriving as a verdict.
+
+**Take off the additions and leave the substance.** The specific true thing stays exactly where it was. What goes is the second draft, the third exclamation mark, and the sentence you added because the first version looked thin to you. They still receive something warm and true. They receive slightly less of it.
+
+**Pick a setting with no baseline in it.** Somebody you met a month ago. A group you joined recently. An exchange where almost nothing rides on the outcome. In those places a smaller version reads as your ordinary manner rather than as a change of temperature.
+
+**Avoid any week where they could attach it to something.** After a disagreement, after they were passed over, after bad news reaches them, the identical two lines carry a meaning you did not put in them. Wait until nothing else has happened to them.
+
+**Change one setting and leave the others alone.** The point of the exercise is information rather than reform. One setting gives you a clean reading. Six settings give you two weeks of anxiety and nothing you can interpret.
+
+Then expect nothing to happen, because nothing happening is the usual result and it is the whole return on the exercise. Almost nobody notices. The cliff you have been standing well back from turns out to have a good deal of ground in front of it, and knowing that from your own evidence does more than any amount of thinking about it.
+
+One case runs slower. If a relationship has been built on the display, and they now treat you as an ally who brings them things, a visible drop lands as the betrayal described above. There the reduction goes gradually, the substance stays untouched, and the honest work is deciding what you want that relationship to be rather than reducing your way out of it.
+
+And in every version, the things not to do: no confession, no explanation, no announcement that you are working on something. Cold is a change in what you give somebody. Smaller is a change in how much of it you produce. The second one is available this week and nobody gets hurt by it.
 
 ## What Does the Resolved Version Look Like on an Ordinary Thursday?
 
@@ -486,7 +540,7 @@ Two things that do not change, said plainly so nobody measures progress against 
 
 Two speeds, and confusing them is why people quit in the third week.
 
-The account moves in weeks. It is a sentence you write to yourself, you get several opportunities a week, and there is no requirement to feel any particular way while writing it. Most people who do the two-sentence exercise for a fortnight report that the shame has changed character by the end of it, from a background hum into something that arrives, gets named, and passes.
+The account moves in weeks. It is a sentence you write to yourself, you get several opportunities a week, and there is no requirement to feel any particular way while writing it. Most people who do the two-sentence exercise for two weeks report that the shame has changed character by the end of it, from a background hum into something that arrives, gets named, and passes.
 
 The register moves on the schedule of whatever installed it, which is usually old and often predates the person entirely. Expect the display itself to shrink slowly, unevenly, and mostly without your noticing, so that you find out about it six months later when somebody mentions that you seem more relaxed around a person you had never told them about.
 
@@ -494,11 +548,33 @@ Expect it to come back at full size under specific conditions. A room with a new
 
 The order almost always runs account first, register second. Anybody promising it the other way round is describing something else.
 
+## How Has Exaggerated Warmth Toward Disliked People Been Studied or Measured?
+
+Obliquely, in five separate lines of work, none of them pointed at a leaving card, and it is worth seeing exactly what each one measured before letting any of it settle a question about you.
+
+| What was measured | How it was measured | What it can carry |
+|---|---|---|
+| Physical arousal in one narrow domain, 1996 | Volunteers in a single experiment, with an instrument attached | Very little here. The instrument cannot separate arousal from anxiety, and the authors said so themselves |
+| Emotion work in jobs that require a display, reviewed in 2002 | Large numbers of employees answering questions about their work and their exhaustion | The cost of holding a display open, in paid settings |
+| What a written description of somebody conveys, 2012 | Readers rating descriptions that other people had written | That withheld praise carries a verdict, and that it is received accurately |
+| Which display strategy people use, 2005 | Asking them | That a cheap third option exists and is the common one |
+| Who gets named as difficult and why those ties stay, 2018 | A survey of more than 1,100 people describing more than 12,000 relationships | Where difficult relationships concentrate, and what holds them in place |
+
+Read down the middle column and the shape of the evidence is visible. Four of the five ask people to report on themselves, the fifth attaches an instrument to a small group of volunteers, and not one of them watches what you actually did on Wednesday.
+
+So here is the honest position on the central claim of this page. That one person produces a larger, more specific and more effortful warmth for somebody they dislike than for somebody they love, inside the same week, has never been measured directly. It could be. You would need both sets of messages from the same person, scored for length and specificity by somebody who did not know which was which. Nobody has run that. What the claim rests on instead is that people recognize it in themselves immediately, can usually produce the two messages on request, and that every mechanism set out above predicts it. That is a fair basis for a description and a poor basis for a number, so anybody quoting you a percentage about this is quoting something that does not exist.
+
+There is one version of the measurement you can run. The seven-day count above is a measurement of one person by that person, with every weakness that implies and one advantage nothing else has: it was taken in your rooms, with your names in it. Most people who do it find the audience column explains more than the person column, and that single result is worth more to you than the whole table above.
+
+The reason for being this careful is the reason the label section gave. A term with no measurement under it inflates until it fits everybody, and once it fits everybody it has stopped telling you anything about you. A small measured thing with visible edges is worth more.
+
 ## Where Does This Thinking Come From?
 
 The research named above is checkable and I have tried to be exact about how much weight each piece carries. Zapf's 2002 review of emotion work is the source for emotional dissonance and its link to exhaustion. Diefendorff, Gosserand and a colleague published the 2005 work identifying the expression of naturally felt emotion as a third strategy alongside surface and deep acting, and finding it the most commonly used. Bergsieker and colleagues published the 2012 work on how negative impressions get conveyed through omitted praise and read accurately from the omission. The 1996 arousal experiment discussed in the label section is the study most often cited as demonstrating reaction formation, and I have set out why I do not think it demonstrates it. Response amplification I have deliberately left unattributed, because it is a described model built on attitudes toward groups with a mixed record across studies rather than a single decisive result, and because presenting it with a name attached would give it more authority than it has earned.
 
 The extension of all of that from paid work to private dislike is mine and carries no research weight. Nobody has studied the man on the corner.
+
+One further source is named on this page and it belongs in a different column from the rest. Offer and Fischer published their study of difficult people in personal networks in the *American Sociological Review* in 2018, and what it measures is which relationships get named as difficult and what keeps those ties in place. It reports nothing about warmth, nothing about what anybody said, and nothing about a leaving card. I have used it for the one thing it does establish, which is where difficult relationships concentrate, and the family section states that limit on its face.
 
 The rest is from five years and more than five thousand hours of doing this work on myself before I built anything around it, and from several hundred conversations since in which somebody has described the leaving card, the message with three exclamation marks in it, and the sentence about seeming close, without ever having heard anybody else describe them. The thing I had wrong for longest was the assumption that the two feelings were in competition, so that one of them had to be the real one. They were never competing. Two feelings about two different things, both accurate, and the ten years I spent looking for which one was the lie were ten years spent on a question with no answer in it.
 

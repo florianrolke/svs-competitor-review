@@ -210,7 +210,7 @@ Constantly, and this is the single most useful thing on the page, because it exp
 | Never asking for help | Significance. The person who carries it is the person who counts | Certainty. Asking introduces an outcome you cannot control | Practicing being ordinary and helped, on something low-stakes | Running one small ask and collecting evidence about what actually happens |
 | Over-giving in a relationship | Connection, bought at the only price they trust | Certainty. Being indispensable makes leaving unlikely | Receiving something without repaying it inside a week | Tolerating an unanswered question instead of closing it with usefulness |
 | A rigid daily routine | Certainty, and a week that cannot ambush them | Growth. Visible progress at a measurable thing | Deliberately breaking one low-stakes rule and surviving it | Building progress that survives a missed day |
-| Picking a fight before a holiday | Variety, injected into a week that had gone flat | Certainty. Ending it yourself beats waiting to be disappointed | A source of stimulation that costs somebody else nothing | Sitting inside the anticipation without resolving it early |
+| Picking a fight before a vacation | Variety, injected into a week that had gone flat | Certainty. Ending it yourself beats waiting to be disappointed | A source of stimulation that costs somebody else nothing | Sitting inside the anticipation without resolving it early |
 
 Read the third column across. Every row has the same behavior in it, and every row needs a different intervention. Aim the wrong one and you get a full-effort failure, which almost always gets recorded as a personal failure rather than as a targeting error.
 
@@ -249,7 +249,7 @@ The same limitation applies to a week away, and it should be said plainly by som
 
 Sometimes the whole visible cluster moves at once, which is the best news on this page, and it happens frequently rather than universally.
 
-The ordinary experience of this is having four separate problems. A goal that has stalled for two years. An argument that keeps reopening at home. Something physical you keep meaning to sort out. A habit at work that costs you a couple of hours a day. Four problems, four projects, four separate sets of advice, and a growing sense that your life requires more maintenance than other people's.
+The ordinary experience of this is having four separate problems. A goal that has stalled for two years. An argument that keeps reopening at home. Something physical you keep meaning to work out. A habit at work that costs you a couple of hours a day. Four problems, four projects, four separate sets of advice, and a growing sense that your life requires more maintenance than other people's.
 
 Score them against the six and something odd often surfaces. Two or three of them turn out to be paying the same driver, and it turns out to be the one running lowest. The stalled goal, the argument and the work habit are all doing the same job in different rooms, and the reason none of them responded to being tackled individually is that each one was load-bearing for the same thing.
 
@@ -332,7 +332,7 @@ Conditioning is slow. The old vehicle acquired its automatic quality through yea
 
 Expect it to be uneven. A stretch of genuine load, an illness, a bad quarter, a bereavement, a move, will put the newer vehicle under pressure it has not been tested against, and the old sequence tends to run again at something close to full speed. That is expected rather than disqualifying. Progress shows up in how fast you notice what is happening and how quickly it settles, rather than in whether it happens at all.
 
-And some of this does not resolve on the timeline you want. A vehicle that carried four drivers for fifteen years is a large thing to replace, and building four separate sources takes longer than building one. Knowing that in advance is worth something, since the most common reason people abandon a good replacement is that they expected it to feel like the old one within a fortnight.
+And some of this does not resolve on the timeline you want. A vehicle that carried four drivers for fifteen years is a large thing to replace, and building four separate sources takes longer than building one. Knowing that in advance is worth something, since the most common reason people abandon a good replacement is that they expected it to feel like the old one within two weeks.
 
 ## Where Does This Thinking Come From?
 

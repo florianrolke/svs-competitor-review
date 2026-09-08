@@ -44,7 +44,7 @@ faqs:
 - q: "Do screen time limits help?"
   a: "They help with the habit version and do close to nothing for the rest. If the scrolling is mostly reflex, a limit plus moving the charger out of the bedroom often settles it inside two weeks. If the scrolling is holding down a specific feeling, the limit arrives and the feeling arrives with it, on time, in the same quiet room. Then the limit gets overridden, which usually gets read as weakness rather than as information."
 - q: "Should I quit social media completely?"
-  a: "A clean cut is easier than a gradual reduction for most people, though it is one route among several. A total stop removes the decision from every evening, which is exactly where the decision keeps getting lost, and it gives you clean information within about ten days about what the scrolling was actually doing. If a full stop seems unrealistic, cut one app entirely rather than trimming all of them slightly."
+  a: "A clean cut is easier than a gradual reduction for most people, though it is one route among several. A total stop removes the decision from every evening, which is exactly where the decision keeps getting lost, and it gives you clean information within about ten days about what the scrolling was actually doing. If a period seems unrealistic, cut one app entirely rather than trimming all of them slightly."
 - q: "What happens in the first week after I stop?"
   a: "A reaching hand with nowhere to go, an odd amount of available time that reads as boredom, irritability in the evening, and a specific fear of having missed something important. It genuinely feels like something is missing. That feeling is a stage rather than a verdict, and it usually resolves inside two weeks. Somewhere in there ordinary life tests the fear: you hear about something significant from a person, a day late, and nothing is worse for the delay."
 - q: "Will I miss something important if I stop?"
@@ -150,7 +150,9 @@ Most of what gets called doomscrolling is costly rather than dangerous. It takes
 
 There is one more case worth naming plainly, because generic advice handles it badly. Some people are scrolling because something in their actual life is genuinely unresolved and genuinely threatening: a region under attack, a family member in danger, a diagnosis in the house, a job that may not exist next month. That watching has a real object in front of it. Somebody is trying to hold something that is genuinely happening, and what that deserves is support rather than a screen time limit.
 
-## Why does it feel worse every minute and still not stop?
+## What does hours of doomscrolling do to my brain and my view of the world?
+
+Two answers, and they arrive on different timescales. The fast one is the hour in your hand: why does it feel worse every minute and still not stop? The slow one is what a few hundred of those hours do to your working estimate of how dangerous the world is, and it waits at the foot of this section. Neither answer needs a claim about brain chemistry, and none is made here.
 
 Because feeling worse and stopping are run by different systems, and only one of them is watching the clock.
 
@@ -220,6 +222,8 @@ An honest word about the quantity. Fifteen deliberate minutes with a serious sou
 
 The test that settles it fastest is retention. Tomorrow at lunch, try to tell somebody three things you read last night. If you cannot get to three, the hour was doing a job other than informing you, and the rest of this page is about which job.
 
+Research on the behavior draws the same line: The Dark at the End of the Tunnel, published in Technology, Mind, and Behavior in 2022, scores the behavior itself rather than what a person was reading, which is why the seriousness of your sources cannot by itself put you on the informed side. Its limit, and the limit on nearly all the published work on this behavior so far, is that people are describing themselves at a single point in time, so the link between heavy scrolling and feeling worse is solid and the direction it runs in is not.
+
 ## What if the feed you cannot leave is your own numbers?
 
 Then the same loop is running, on instruments you built yourself.
@@ -257,6 +261,20 @@ There is a second reason the deletion does not hold, and it is worth stating fla
 
 That last point is the one worth sitting with. Any plan that removes the behavior without replacing its function is asking a part of you to give up something protective and accept nothing in exchange. It works for about nine days. Then the balloon bulges somewhere you were not looking.
 
+## Do screen-time limits actually work for doomscrolling?
+
+A little, for a short while, and not really because of the limit.
+
+The best experimental evidence on daily caps is small. Hunt and colleagues, writing in the Journal of Social and Clinical Psychology in 2018, took 143 students at one university and randomly assigned half of them to a ten-minute daily cap on each of three platforms for three weeks, leaving the other half to carry on as usual. The capped group came out better than the other group on the study's own measures of how people felt. The paper is identified here by its authors, year and journal rather than by its title.
+
+Now the half of it that rarely gets quoted. On two of the four things the study measured, both groups improved, including the group with no cap on anything, and the authors' own reading is that some of the benefit came from people watching their own usage for three weeks because a study had asked them to. That is a result about attention rather than about limits. It points the same way as everything else here: what changes an evening is noticing, deciding and putting something else there, and a number in a settings menu can only do the first of those, by accident, on the nights it happens to interrupt you.
+
+The boundaries are narrow. 143 students at one university, three weeks, everything self-reported, and effects the authors themselves describe as modest. For the larger question of cutting a platform out altogether rather than rationing it, [why everyone else looks like they are having a better life](/patterns/everyone-else-is-having-a-better-life/) carries the four-week deactivation experiment and its numbers, because that page owns the comparison version of this behavior.
+
+The balloon above explains the rest of it. A limit removes the outlet and leaves the pressure, so the hour reappears in a browser tab, on a second device, or in three hours of television. Worse, a daily cap has to hold up late, tired and mid-loop, against a button on the screen offering fifteen more minutes to anybody who taps it.
+
+What does hold is a cap that has been given a job. Fifteen minutes, one source, before six in the evening is a container rather than a cap, because it says when the watching happens and not only when it stops, and it leaves the part of you that needs to know things with somewhere legitimate to go. Set a limit if it helps you notice. Do not ask it to do the deciding, and do not read its collapse as yours.
+
 ## Why does understanding all of this change nothing on its own?
 
 Because an explanation and an excuse can be built out of exactly the same facts.
@@ -287,7 +305,7 @@ Don't judge yourself if a previous attempt collapsed on day four. Day four is wh
 
 Both routes are real, and using the wrong one on your own pattern wastes months.
 
-Sometimes the emotional response is miscalibrated. The dread that shows up in a quiet room is out of all proportion to the room, and it belongs to something considerably older than the phone. In that case going at the scrolling directly is going at a symptom, and the pressure surfaces somewhere else within a fortnight, exactly as the balloon predicts.
+Sometimes the emotional response is miscalibrated. The dread that shows up in a quiet room is out of all proportion to the room, and it belongs to something considerably older than the phone. In that case going at the scrolling directly is going at a symptom, and the pressure surfaces somewhere else within two weeks, exactly as the balloon predicts.
 
 Sometimes the emotional response is simply a habit. The hand goes out to the nightstand because it has gone out to the nightstand nine hundred times. There is no wound underneath it worth excavating, and treating it as one sends you looking for a childhood explanation that was never there. That version responds to reconditioning: different placement, different hour, something else in the hand.
 
@@ -334,6 +352,26 @@ By working the root first and the behavior second, and by changing the room rath
 Is any of this dramatic? No. It is unglamorous and freaking slow, and that is exactly why it holds when a weekend of resolve does not.
 
 Does the pull vanish once the room is set up properly? Honestly, no. It comes back in hard weeks, on the same schedule and in a form you will recognize immediately. What grows with practice is the gap between the pull and the hand, and that gap is where an evening gets decided.
+
+Set against evidence, the eight steps above are a reasonable bet rather than a proven protocol: the deactivation experiment named further up this page found that a four-week paid break left people using the platform less afterward with nobody policing them, and also that the improvement in how they felt was small. A break loosens the grip; what goes into the hour is what decides whether the ninth evening arrives at all.
+
+## My partner says I am never present because I am always on my phone. What should I do?
+
+It is a report on where your attention has been going, so take it as one, and then work the half of it you can actually change.
+
+Start by separating two behaviors that attract the same sentence. If the phone comes up while somebody is talking to you, that is [checking your phone mid-conversation](/patterns/checking-my-phone-mid-conversation/), and the mechanics there are different. This section is about the other version: the hour you share when nobody is talking. Dinner is done, a show is on, and you are physically there and a long way off, reading about something nobody in that building can affect. Nothing is being interrupted, which is why it goes unmentioned until somebody finally raises it.
+
+Why this version bites harder than the solitary hour: what is being reported is attention, not hours logged. An evening spent three feet from somebody, with your face lit from below, looks like company in a photograph and does not function as company from the other chair. What the person saw was the small thing they said, and your answer arriving two seconds late, in the wrong tone, reassembled from context.
+
+What you can change tonight, with nothing asked of anybody else:
+
+- Put the phone behind a wall for the hour you share, not face down within arm's reach. Face down still gets picked up.
+- Take the watching earlier. Fifteen deliberate minutes with one source before six means the shared hour is not carrying a backlog of things you have not read.
+- When the hand goes out anyway, finish the sentence in your head before you unlock anything: "This is not urgent, and I am about to leave." Naming it costs nothing, and naming it is what interrupts the automatic part.
+
+Then the honest part, which is that your root decides how hard this gets. If the scrolling is vigilance, the cost is an hour of being out of contact, and the phone is incidental to it. If it is a lid, the shared hour is harder than the solitary one, because there is somebody sitting there who might ask you the question you have been keeping out. If it is reclamation, the shared hour will keep losing until some earlier hour genuinely belongs to you, and discipline does not substitute for that.
+
+Nothing here is about how that sentence was delivered, or about what anybody else should do differently. It makes one narrow claim: the behavior being described is yours, it runs in an hour you can name, and that hour is changeable tonight without a single agreement being negotiated.
 
 ## How long does this take, honestly?
 

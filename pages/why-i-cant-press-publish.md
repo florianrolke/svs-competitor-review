@@ -10,7 +10,7 @@ intent: research
 faqTitle: "Questions About Not Being Able to Press Publish"
 faqs:
 - q: "Why can't I press publish on my own work?"
-  a: "Because finishing and releasing are two separate acts, and only one of them has ever been assigned to you. Making has a shape: a spec, a receiver, a point at which it is done. Releasing has none of those. Nobody is waiting for it, nothing breaks if it never happens, and you are the only person who can authorize it. An act with no assignment and no deadline does not get done late. It does not enter the queue at all."
+  a: "Because finishing and releasing are two separate acts, and only one of them has ever been assigned to you. Making has a shape: a spec, a receiver, a point at which it is done. Releasing has none of those. Nobody is waiting for it, nothing breaks if it never happens, and you are the only person who can authorize it. An act with no assignment and no deadline does not get done late. It does not enter the line at all."
 - q: "Why can I speak to a room of strangers and still not post a video?"
   a: "Because the room releases itself and the video does not. When you walk to the front of a room, somebody booked the date, the people are already sitting down, and the thing happens whether or not you authorize it that morning. A recording asks you to be the one who decides, on a day of your choosing, with nothing forcing it. Confidence in front of people was never the missing part."
 - q: "Is this stage fright?"
@@ -58,7 +58,7 @@ faqs:
 - q: "Is not posting ever the right decision?"
   a: "Frequently, and a page that says otherwise is selling something. Plenty of people have thought it through and decided a public record of their opinions serves them badly, which is a coherent adult position. The question worth asking is whether you decided it or whether it happened to you. A decision you can state in one sentence is a policy. A file sitting untouched for seventeen days is not."
 - q: "Why does this get worse the better the work is?"
-  a: "Because a better piece carries a larger claim, and the claim is the part that stalls you. Something rough can be released as a first attempt, which asks little of you. Something you are proud of asks you to stand behind it, and standing behind it is the act you cannot authorize. People routinely release their weakest work and sit on their strongest, which looks backwards until you notice what is being decided."
+  a: "Because a better piece carries a larger claim, and the claim is the part that stalls you. Something rough can be released as a first attempt, which asks little of you. Something you are proud of asks you to stand behind it, and standing behind it is the act you cannot authorize. People routinely release their weakest work and sit on their strongest, which looks backward until you notice what is being decided."
 - q: "What if I do not think of myself as an expert in this?"
   a: "Then the honest move is to say so on the thing rather than to withhold it. A great deal of stalled work is stalled because publishing feels like claiming an authority you have not been granted. You can release something as one person's working view, stated plainly, and the claim shrinks to the size you can actually defend. Withholding it makes no such claim and also helps nobody."
 - q: "Why does having a name on it change everything?"
@@ -82,7 +82,7 @@ related:
 <div class="answer-box" markdown="1">
 <span class="answer-label">The short answer</span>
 
-Because making a thing and releasing it are two separate acts, and only the first one was ever assigned to you. The work has a spec, a receiver and a finish. The release has no date, no client and no consequence for skipping it, and you are the only person who can authorize it. Unassigned acts do not get done late. They never enter the queue.
+Because making a thing and releasing it are two separate acts, and only the first one was ever assigned to you. The work has a spec, a receiver and a finish. The release has no date, no client and no consequence for skipping it, and you are the only person who can authorize it. Unassigned acts do not get done late. They never enter the line.
 </div>
 
 <div class="identify-box" markdown="1">
@@ -153,7 +153,7 @@ Two consequences follow immediately, and both of them explain things people find
 
 The first is that getting braver does nothing. Bravery is what you spend in the room, and you have plenty of it, and it is not the resource being asked for here. What is being asked for is a decision made alone, in advance, with no external pressure and no one to perform it for.
 
-The second is that the difficulty scales with how much the thing matters to you, which is exactly backwards from how fear usually behaves. A throwaway post goes out easily. The piece you actually care about sits for seventeen days. If this were about exposure alone, both would be equally hard.
+The second is that the difficulty scales with how much the thing matters to you, which is exactly backward from how fear usually behaves. A throwaway post goes out easily. The piece you actually care about sits for seventeen days. If this were about exposure alone, both would be equally hard.
 
 ## What Is Actually Different About the Published Version?
 

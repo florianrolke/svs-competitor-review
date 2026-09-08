@@ -188,7 +188,7 @@ In six or seven places at once, and most people spot themselves in two of them b
 | With friends | The one everybody calls in a bad week, who has told nobody about their own | "Other people have real problems." |
 | With a partner | Overgiving early, quiet resentment later, difficulty letting them take care of you | "I should be able to handle this." |
 | With your family of origin | Still the crisis line, still mediating, still the one who calls to check | "If I don't hold it, it falls." |
-| With rest | Guilt during downtime, restlessness on holiday, four minutes of stillness before the itch | "I'll rest when this is finished." |
+| With rest | Guilt during downtime, restlessness on vacation, four minutes of stillness before the itch | "I'll rest when this is finished." |
 | With your own health | Skipped check-ups, symptoms dismissed, everyone else's appointments in your calendar and none of yours | "I'm fine, honestly." |
 | With praise and help | Compliments deflected, offers refused, favors returned the same evening to level the exchange | "It was no big deal." |
 
@@ -243,7 +243,7 @@ If both threads run through your history and you have been discounting the emoti
 
 Because in the original house, stopping was when things fell over.
 
-That is a learned association rather than a moral failing, and it is very well established. Downtime feels wrong at a physical level: restlessness, a low background hum of guilt, an urge to make the afternoon at least somewhat productive. Holidays are frequently worse than ordinary weeks, because the removal of tasks leaves nothing between you and whatever the vigilance has been holding at bay. Plenty of people in this pattern spend the first three days of any break unwell, which is the body finally getting a window.
+That is a learned association rather than a moral failing, and it is very well established. Downtime feels wrong at a physical level: restlessness, a low background hum of guilt, an urge to make the afternoon at least somewhat productive. Vacations are frequently worse than ordinary weeks, because the removal of tasks leaves nothing between you and whatever the vigilance has been holding at bay. Plenty of people in this pattern spend the first three days of any break unwell, which is the body finally getting a window.
 
 There is a second layer, and it is the harder one. When self-worth got attached to output and caretaking, a low-output week reads as a drop in what you are worth. So rest carries an actual cost in self-regard, and refusing rest is protecting something. Nobody gives that up because a page told them to.
 
@@ -318,7 +318,7 @@ I spent five years and more than five thousand hours doing this kind of work on 
 
 Longer than a week, and the honest answer runs at two different speeds.
 
-Recognition is quick. Most people catch the half-second yes within a fortnight of paying deliberate attention, and catching it counts even on the days you say yes anyway. Watching yourself take on the extra thing while knowing exactly what you are doing feels terrible and is a real step forward.
+Recognition is quick. Most people catch the half-second yes within two weeks of paying deliberate attention, and catching it counts even on the days you say yes anyway. Watching yourself take on the extra thing while knowing exactly what you are doing feels terrible and is a real step forward.
 
 The reflex takes far longer, because it was rehearsed daily for the length of a childhood and it fades at the pace of accumulated new experience rather than the pace of understanding. Reading this page changes remarkably little by itself. Fifty small asks made and survived, fifty tasks handed over and not checked, fifty compliments received without a deflection, change quite a lot.
 

@@ -29,7 +29,7 @@ faqs:
 - q: "Why do I feel like I have to hide being afraid?"
   a: "Because somewhere early, showing fear cost something real: approval, safety, a parent's attention, a brother's respect. The rule that formed then was accurate at the time and has almost never been re-tested since. Most men carry it into rooms where nobody is checking and nothing is at stake. Saying one true sentence about being afraid, out loud, to one safe person, is usually how the rule finally gets examined."
 - q: "Am I not masculine enough for my partner?"
-  a: "The question usually has the diagnosis backwards. A partner naming that something is missing is rarely delivering a verdict on masculinity. Far more often it is a request for presence, which no performance can supply however well executed. Being reliable, capable and endlessly fine coexists easily with being emotionally unreachable, and the second one is what tends to be getting named. Ask her plainly what she wants more of."
+  a: "The question usually has the diagnosis backward. A partner naming that something is missing is rarely delivering a verdict on masculinity. Far more often it is a request for presence, which no performance can supply however well executed. Being reliable, capable and endlessly fine coexists easily with being emotionally unreachable, and the second one is what tends to be getting named. Ask her plainly what she wants more of."
 - q: "What does healthy masculinity look like?"
   a: "Less like a set of traits, more like available range. Fear, anger, sadness and need all reachable, none of them driving, and the next action still chosen deliberately. In practice it looks like saying the hard sentence in the room rather than three days later, staying present through a conversation with no obvious solution, and stating a limit once without either apologizing for it or escalating past it."
 - q: "I can't be vulnerable without feeling weak. Where does that come from?"
@@ -305,7 +305,7 @@ Is any of that comfortable? No, and the discomfort is the mechanism rather than 
 
 An intense insight can produce a real, felt shift inside a single conversation. Installing it takes months, and it is rarely a straight line.
 
-Those two speeds get confused constantly, and the confusion is expensive. The peak is genuinely real. A man can sit in a room, trace the bargain back to a specific parent and a specific year, feel something break open, and walk out changed in a way that is obvious to everybody who sees him that week. Then a fortnight later there is a cold argument, the old strategy comes straight back online, and he concludes the whole thing was theater.
+Those two speeds get confused constantly, and the confusion is expensive. The peak is genuinely real. A man can sit in a room, trace the bargain back to a specific parent and a specific year, feel something break open, and walk out changed in a way that is obvious to everybody who sees him that week. Then two weeks later there is a cold argument, the old strategy comes straight back online, and he concludes the whole thing was theater.
 
 The insight was real enough. It simply never got carried back down into the conditions it needed in order to survive. Durability comes from deliberately taking it into the exact situations that used to trigger the old pattern, a real argument, a moment of real closeness, a request you would normally refuse, and finding out what happens. More than once. The first time proves nothing except that it was possible once.
 

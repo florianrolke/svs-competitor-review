@@ -43,7 +43,7 @@ faqs:
   a: "Because a full weekend postpones the open hours rather than removing them. The feeling waits for the first stretch with nothing in it, and on most Sundays that stretch arrives between the end of the last activity and bedtime. People who fill Sunday to the last minute usually report that the feeling moved rather than vanished, arriving in bed instead, which is a harder place to meet it."
 - q: "Why is it worse after a genuinely good weekend?"
   a: "Because the contrast is sharper and because a good weekend supplies a direct comparison. Two days of choosing what you do, followed by five of not choosing, makes the difference between those two states legible in a way a dull weekend does not. Most people read the resulting drop as ingratitude. It is closer to accurate measurement of a gap you normally have no data on."
-- q: "Why do I feel the same thing on the last day of a holiday?"
+- q: "Why do I feel the same thing on the last day of a vacation?"
   a: "Because the mechanism is identical and only the calendar differs. The final evening of a trip, the night before a term starts, the last day of parental leave, the Sunday of a long weekend: all of them are the closing stretch of unstructured hours before a structure resumes. Feeling it in all of those places is evidence that the trigger is the return of structure rather than any specific job."
 - q: "Is Monday actually the worst day of the week?"
   a: "Not in the best available data. Analysis of several hundred thousand daily interviews found weekends genuinely better on mood than weekdays, and found no distinct Monday penalty at all. Monday looked much like Tuesday and Wednesday. So the day people dread does not measure as worse than the two days that follow it, which tells you the Sunday feeling makes a poor forecast of the Monday it names."
@@ -96,7 +96,7 @@ These are the sentences people say to themselves around eight in the evening on 
 - "I do not know what I am dreading. Nothing is wrong. That is the part I cannot explain."
 - "The weekend was good, which somehow makes this worse."
 - "If somebody gave me tomorrow off, I honestly would not know what to do with it."
-- "Every week I tell myself this is the week I sort it out."
+- "Every week I tell myself this is the week I work it out."
 
 [How the seminar works with a feeling that shows up on the same evening every week](https://florianrolke.com/the-soulsearching-experience/)
 </div>
@@ -153,7 +153,7 @@ The one piece of serious evidence adjacent to the term points somewhere slightly
 
 Set that beside the folk name and something interesting falls out. The day being dreaded does not measure as worse than the two days that follow it. So whatever the Sunday feeling is doing, it is a poor forecast of the specific day it appears to be about. Its own honest limits are worth stating too: these were single-item mood questions in telephone interviews, aggregated by day, which is a blunt instrument, and the study measured Monday itself rather than the Sunday evening before it. It does not disprove the Sunday feeling. It removes the most popular explanation for it.
 
-There is a cautionary example here about manufactured day-names that is worth one paragraph. In the mid-2000s a travel company publicized an equation claiming to identify the most miserable day of the year, which happened to land in January when winter holidays sell well. The formula had no data behind it, mixed incommensurable quantities, and the academic credited with it eventually distanced himself from the whole thing. It is still cited every January. I am deliberately not naming the day or the person, because repeating the label is the mechanism by which the claim survives, and it has survived quite long enough.
+There is a cautionary example here about manufactured day-names that is worth one paragraph. In the mid-2000s a travel company publicized an equation claiming to identify the most miserable day of the year, which happened to land in January when winter vacations sell well. The formula had no data behind it, mixed incommensurable quantities, and the academic credited with it eventually distanced himself from the whole thing. It is still cited every January. I am deliberately not naming the day or the person, because repeating the label is the mechanism by which the claim survives, and it has survived quite long enough.
 
 | What the name genuinely gives you | Where it stops |
 |---|---|
@@ -216,7 +216,7 @@ If the answer is vague, or arrives as a list of things you think you should want
 | Is it worse after a good weekend? | Not especially | Yes, reliably, and this confuses you |
 | Did the usual advice help? | Somewhat, in proportion to effort | Almost not at all, which you found demoralizing |
 | Would a different employer change it? | Probably, if the object lives at work | The same week, elsewhere, looks identical |
-| What happens on the last night of a holiday? | Similar but milder | Identical, which is the clue |
+| What happens on the last night of a vacation? | Similar but milder | Identical, which is the clue |
 
 Run those seven and most people have their answer inside ten minutes. If two or three point one way and the rest point the other, take the direction of the majority and treat the remainder as a secondary layer worth returning to later. Mixed pictures are normal. Almost nobody is a pure case, and the dominant root is usually the one that answered without any effort at all.
 
@@ -264,7 +264,7 @@ The distinction to draw here has nothing to do with whether the feeling is justi
 
 Everywhere that a stretch of unstructured hours ends and a structure resumes, which turns out to be a long list.
 
-The final evening of a holiday, with the bag half packed and the last of the light on a place you are leaving. The night before a term starts. The last day of parental leave. The Sunday of a long weekend, where people frequently report the feeling arriving on the Monday instead, which is a clean natural experiment nobody set up on purpose. The evening before returning from an extended absence for any reason at all.
+The final evening of a vacation, with the bag half packed and the last of the light on a place you are leaving. The night before a term starts. The last day of parental leave. The Sunday of a long weekend, where people frequently report the feeling arriving on the Monday instead, which is a clean natural experiment nobody set up on purpose. The evening before returning from an extended absence for any reason at all.
 
 Then there are the versions that do not fall on a Sunday because the week is not a standard one. Nurses, hospitality staff, drivers, retail workers and anybody on a rota describe an identical feeling on whichever evening precedes their run of shifts, and they often describe feeling excluded from the vocabulary because the popular name has the wrong day in it. People whose working week starts on a different day get it on the corresponding evening. That pattern is one of the strongest available arguments that the day itself does no work at all: what matters is position in the cycle.
 
@@ -352,7 +352,7 @@ Pacing beats intensity here by a wide margin. Change one thing, keep it for a mo
 
 Longer than any article promising a better Sunday will tell you, and the honest answer runs at two speeds.
 
-Recognition is fast. Two or three Sundays of writing down the hour and asking the free Monday question, and most people can name their version and their hour with confidence. That part genuinely takes a fortnight and it feels like progress because it is progress.
+Recognition is fast. Two or three Sundays of writing down the hour and asking the free Monday question, and most people can name their version and their hour with confidence. That part genuinely takes two weeks and it feels like progress because it is progress.
 
 Changing the arrangement takes months. Putting something real into the middle of your week, and keeping it there long enough that its absence would be noticed, runs on the timescale that any habit runs on. For version one, where an object exists and gets handled, the improvement can be quick and quite dramatic, and the risk there is different: the object gets handled, the Sunday goes quiet, and six months later a new object has moved into the same slot, because nothing changed about how objects accumulate.
 

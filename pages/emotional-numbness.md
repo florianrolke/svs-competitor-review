@@ -142,7 +142,7 @@ faqs:
 - a: No screening tool settles it, and the quizzes online mostly hand the question
     back to you in list form. Duration and breadth are more informative. Flatness
     that has held across ordinary weeks for years, at work as much as at home, with
-    no crisis behind it, is a different situation from a heavy fortnight. Anything
+    no crisis behind it, is a different situation from a heavy two weeks. Anything
     you are trying to test yourself for because it frightens you belongs with a professional
     instead.
   q: Is there a test for emotional numbness?
@@ -344,6 +344,8 @@ Both routes end in the same flat place. Which one you came by matters mostly for
 
 Not every case traces back to a parent, either. A household organized around one adult's mood. A stretch of family illness where everybody quietly agreed to need less. A first job where showing feeling was expensive and being unflappable got promoted. A relationship that ended in a way you have never properly described to anybody. The mechanism holds across all of them: feeling turned out to be costly, and somebody intelligent enough to notice adjusted accordingly.
 
+One caveat belongs with all of that. The two routes above are an account rather than a measurement, put together from clinical description and from adults looking backward at their own childhoods, and nobody has followed a specific person from a specific early environment through to a flat adulthood, so the direction of the arrow is inferred rather than established.
+
 ## What Is the Numbness Protecting?
 
 Four things at once, which is why arguing with it logically has never worked for anyone.
@@ -396,6 +398,22 @@ The depression overlap is real and worth holding loosely. Flatness can be part o
 
 The hardest row to read honestly is the third one. Plenty of people genuinely are level, unruffled, slow to react, and perfectly well. The two checks that separate them from numbness are simple and neither one is flattering to get wrong: whether the calm survives ten minutes with no input, and whether you can say what you felt at the end of an ordinary day in a word more specific than fine.
 
+## Is There a Questionnaire Researchers Use to Measure Emotional Numbness?
+
+Not for this exactly, and what the nearest thing to one leaves out is the useful part of the answer.
+
+Nothing published measures emotional numbness as this page describes it. What does get measured is the neighboring difficulty of identifying and describing what you feel, and the standard tool for that is a twenty-item self-report form published in 1994 in the *Journal of Psychosomatic Research*. It asks you to rate twenty statements about yourself, and the answers sort into three groups: difficulty identifying feelings, difficulty describing feelings, and a thinking style anchored outward, in events and practical detail, rather than inward. The form is named after a research construct, and this page names it by year, journal and shape instead of by that construct, because the word invites people to hand themselves a label the form was never built to hand out.
+
+Three limits belong with it, and together they are the reason not to go hunting for your own score.
+
+The first is that the three groups have not held up cleanly. A 1996 re-analysis in the *Journal of Personality Assessment* could not reproduce a tidy three-part structure in either of the two samples it examined, and later work has more than once found the third group, the outward-facing thinking style, the weakest and least consistent of the three.
+
+The second is what a rating you give yourself can do here at all. The capacity being asked about is the same capacity you would need in order to rate it. Somebody with very little access answers "I know what I am feeling" honestly and scores well, because from the inside there was nothing missing to report. That is what makes every written measure in this territory soft, and it is why people who have started catching their own shutdowns often score themselves worse in year two than in year one.
+
+The third is that it was built for research and for assessment by somebody qualified, not for a reader working out what is happening to them on a weeknight. What it returns is a position on a spread, read alongside everything else a clinician already knows about the person in front of them. A number arrived at alone has nothing to compare itself against.
+
+What is actually useful to you is cheaper and much less impressive. The felt log at the foot of this page, one body word and one feeling word three times a day, tells you more about your own week than any total would, because it records what happened rather than what you believe about yourself. And if the difficulty is specifically that the feelings are there and the words are not, [the naming problem has a page to itself](/patterns/why-cant-i-name-my-feelings/).
+
 ## Where Does Numbness Hide When You Would Not Call It Numbness?
 
 In seven places, and most people recognize themselves in two or three of them before the pattern as a whole becomes visible.
@@ -425,6 +443,8 @@ Because closeness raises the stakes of the old rule instead of lowering them.
 This is the part that confuses people most, and it usually gets read as evidence that the relationship is wrong. You can be warm, funny, and genuinely engaged with colleagues, and go flat within an hour of getting home. You can feel real irritation at a stranger in traffic and nothing at all during a conversation that matters. The access is clearly intact. It just gets withdrawn from the rooms where being met, or failing to be met, would count for something.
 
 The rule underneath is the same one that formed the whole pattern. If you do not need somebody, they cannot fail you. A colleague who disappoints you costs a bad afternoon. A partner who disappoints you costs something that was never survivable the first time it happened, so the system keeps the exposure low exactly where the value is high.
+
+That also explains why the office version and the home version come apart so cleanly. Warmth at work costs very little, because the setting itself caps what could be lost inside it, while an evening at home has no cap on it at all, so the same responsiveness that was genuinely available all day is gone before the evening has properly started. The limit worth stating is that nobody has measured that split directly, so it stands as something people report consistently rather than something anybody has counted, and if the flatness runs across every close relationship rather than this one, [the wider version of it is written up on its own page](/patterns/avoidant-attachment/).
 
 It produces an oscillation that looks contradictory from outside and feels perfectly coherent from inside. The same person can want company badly and avoid intimacy, seek constant presence and then need to be alone, reach for somebody and then go quiet for a week. Both moves answer the same absence. Clinging tries to fill it and sealing off tries to make it stop mattering, and a person can run both in the same month without noticing any contradiction at all. [The relational face of this, seen from the other side of the room, is covered here.](/patterns/emotionally-unavailable/)
 
@@ -472,7 +492,9 @@ Here is the part almost nobody predicts. From the outside, the responsive end us
 
 Don't judge yourself if that right-hand column reads as slightly out of reach today. The distance between the two columns took years to build and nobody crosses it in a weekend.
 
-## How Do You Start Turning the Volume Back Up?
+## What Can I Do to Start Feeling My Emotions Again?
+
+The practical form of that question is how you turn the volume back up at all.
 
 By starting far smaller than seems worthwhile, because the big thing is exactly where the first attempt fails.
 
@@ -489,6 +511,22 @@ Is any of that comfortable? No. It is small, repetitive, and freaking boring, an
 
 One warning worth having in advance, because it stops people quitting at precisely the wrong moment. Access often gets louder before it gets better. What was held down tends to come back in roughly the order it went down, so early weeks can bring tears at inconvenient moments, a shorter fuse, unexplained tiredness, and old grief that seems wildly out of proportion to the day it arrives on. That is pressure leaving a system that has been holding it for years.
 
+Steps one and seven come out of an older practice than the language now wrapped around it: locate the physical sense of a situation first and let the word arrive from there, rather than choosing the word and then checking whether the body agrees. It was written up at book length in 1978, it has been taught for close to fifty years, it has been described far more often than it has been tested, and the case for trying it rests on costing nothing rather than on a trial anybody can point you to; [the page on emotional maturity carries that source and its provenance in full](/patterns/emotional-maturity/).
+
+## Why Can't I Cry Even When I Know I Am Upset?
+
+Because knowing and feeling run on two separate systems, and only one of them has to be working for you to describe the situation correctly.
+
+This one arrives with real alarm attached to it. Something has happened that plainly warrants tears. You can list the reasons. You can explain to a friend exactly why it is sad, in order, without your voice changing once. Nothing comes. Then a second worry stacks on top of the first, which is what kind of person watches their own bad news land and produces nothing.
+
+The mechanic is the one running everywhere else on this page. The route from an event to a felt reaction has been intercepted for long enough that it now takes a far larger event to get through, and the things most worth crying about are exactly the load the interception was installed for. Tearlessness is also cheap to maintain, because nobody ever asks about it. A person who does not cry when everyone expects it gets read as holding up well.
+
+A second thing is worth knowing, and it cuts against the way the subject usually gets talked about. Adult crying has been studied far less than its cultural weight suggests. Vingerhoets and Bylsma's review, "The Riddle of Human Emotional Crying: A Challenge for Emotion Researchers", published in *Emotion Review* in 2016, sets out what is actually established and reports that the strong popular claims made about crying, the familiar one that a good cry brings relief included, do not have a clear scientific basis under them. The limit is worth stating plainly. That is a review paper mapping gaps rather than a study measuring anybody, so it tells you the folklore is running ahead of the evidence and it tells you nothing at all about what your own tears would do.
+
+Which changes what to do with the question. Tears make a poor target, and going after them directly tends to produce performance rather than access. What returns first is much smaller: the throat tightening while you say a sentence out loud, a sting behind the eyes that goes nowhere, irritation arriving on a weekday afternoon for no traceable reason. Crying, when it comes back, usually arrives after those, at an odd moment, over something disproportionate to whatever set it off.
+
+And if the dry version happens around one person in particular while the rest of your week is unaffected, that is a different question with a different answer, and the closeness version of it is covered further up this page.
+
 ## How Long Does This Take, Honestly?
 
 Longer than a week, and the honest answer runs at two speeds.
@@ -500,6 +538,20 @@ The reflex takes far longer. The shutting-down was rehearsed daily for years and
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. When I first started I thought I did not have any feelings at all, because I was so stonewalled. That turned out to be wrong in the most useful possible way. The capacity was trainable rather than missing, and what changed it was unglamorous repetition long after the insight had stopped being interesting.
 
 Is that frustrating to hear? Yes, and I would rather say it than sell a faster route that does not exist. Nobody finishes this, either. The pull to reach for the distraction has dropped a great deal for me over the years, and it has not dropped to zero, and telling you that seems more useful than describing a finished version of something nobody finishes.
+
+## Is Emotional Numbness Permanent, or Can It Go Away?
+
+It goes away in the sense that matters, and the honest version of that sentence has a condition attached to it.
+
+Start with what is actually being claimed. A capacity that was learned can be relearned. The shutdown was a skill, built by repetition and kept in place because it worked, and nothing about it required a permanent change to how you are built. That is why nearly everyone who works at this reports the same order of return: physical sensation first, then small everyday feelings, then the larger ones that were the reason for the shutdown in the first place. People who assumed the feelings had gone usually find out they were shut off rather than gone, which is a different problem with a much better outlook.
+
+Now the condition, because promising a clean recovery would be dishonest. Nobody has run the study that would answer it properly. There is no research following a large group of people in this exact position for ten years or more and reporting what proportion got their access back, how much of it, and whether it held. What exists is clinical description, self-report from people already motivated enough to go looking for help, and accounts like mine. All three are weighted toward the people it worked for. Anyone quoting you a percentage here made it up.
+
+What can be said with more confidence is the shape of the return when it happens. It comes back in uneven runs rather than as a rising line, and it comes back at different rates in different areas, so somebody can be fully reachable about work frustration and still completely flat about a parent. It also does not finish, which is worth knowing in advance. The pull toward the distraction drops a long way and rarely drops to zero, and people expecting a finished version tend to get discouraged at exactly the point where the thing is working.
+
+Two situations sit outside all of that and are worth separating out. Flatness that arrived suddenly, or that sits alongside sleep and appetite changes which have held for weeks, or alongside stretches of feeling unreal, sits outside the slow-built version described on this page and belongs with a doctor or a licensed therapist before anything self-directed is attempted. And flatness sitting underneath a heavy load that has not moved, a job, a household, a long stretch of care work with no gaps in it, often lifts when the load does, which is worth checking before concluding that the capacity itself is the problem.
+
+The short version, for anyone who wants one sentence to carry out of this. There is good reason to think this is reversible and no good reason at all to think it is fast, and the people who get furthest are the ones who stopped asking how long it takes and started counting evenings instead.
 
 ## What Is One Thing to Do Today, Before You Try to Fix Any of It?
 

@@ -52,7 +52,7 @@ faqs:
 - q: "Is it better to say the old answer or the new one?"
   a: "Both work and they cost different things. The old one closes the exchange cleanly and slowly makes the new thing less real to you. The new one keeps it alive and costs you thirty awkward seconds. What does not work is deciding fresh in the moment every time, because the deciding is what produces the stumble people hear."
 - q: "Why is this worse at a family event than anywhere else?"
-  a: "Because the people who knew your old answer are the ones who register the change. A stranger hears one sentence and forgets it by the car park. A relative hears it against a version of you they have carried for years, and the distance between the two versions is what you feel in the pause that follows."
+  a: "Because the people who knew your old answer are the ones who register the change. A stranger hears one sentence and forgets it by the parking lot. A relative hears it against a version of you they have carried for years, and the distance between the two versions is what you feel in the pause that follows."
 - q: "How do I answer while the thing is still not working?"
   a: "Say the true present-tense part and stop talking. There is almost always one fact that is already true: what you spend most days doing, who you last did something for, or what you last finished. A small true fact closes the exchange better than a large uncertain claim, and it costs you nothing to say again in six months."
 - q: "What if my answer would have to be approved by somebody?"

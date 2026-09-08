@@ -58,7 +58,7 @@ faqs:
 - q: "What do I say when someone asks why?"
   a: "One true reason, once, and then stop. If they genuinely asked, the account is now welcome and you should give it. Give the strongest one you have and leave the others in your pocket. Reasons two and three exist to reinforce reason one, and they achieve the opposite, because a stack of reasons reads as a case being made rather than a fact being stated."
 - q: "How do I end a sentence I am already halfway through?"
-  a: "Land it at the next comma rather than at the end of the thought. A full stop is available at any point and nobody will notice you used one early. If stopping cold feels impossible, hand them the floor with a question, which ends your turn honestly. Do not attach an apology for the length, because that starts the whole engine again."
+  a: "Land it at the next comma rather than at the end of the thought. A period is available at any point and nobody will notice you used one early. If stopping cold feels impossible, hand them the floor with a question, which ends your turn honestly. Do not attach an apology for the length, because that starts the whole engine again."
 - q: "Why does deciding to say less make me say yes instead?"
   a: "Because the explanation was carrying the no. Remove the dressing without changing what it was covering and the no itself becomes unusable, so you agree instead. This is the single most common failure here and it looks like progress for about three weeks. Shortening the words while the reason for needing them is untouched moves the problem rather than removing it."
 - q: "Did my childhood cause this?"
@@ -72,7 +72,7 @@ faqs:
 - q: "How do I help someone who over-explains to me?"
   a: "Accept the answer out loud and early, then change the subject. That's fine, no need to explain, followed immediately by something else, removes the gap they would otherwise fill. Do not ask why unless you actually need to know, because a casual why puts them back to work. Repeated evidence that their plain answer is accepted does more than any observation about their speech."
 - q: "How long does it take to change this?"
-  a: "Noticing arrives within a fortnight and the reflex takes months. Most people can hear the extra clause opening within two weeks of paying attention, which counts even on the days it still comes out. Writing improves first because you can see it and undo it. Speech follows, unevenly, and the last room to change is usually the one with the longest history."
+  a: "Noticing arrives within two weeks and the reflex takes months. Most people can hear the extra clause opening within two weeks of paying attention, which counts even on the days it still comes out. Writing improves first because you can see it and undo it. Speech follows, unevenly, and the last room to change is usually the one with the longest history."
 - q: "When does this belong with a professional rather than a practice I run myself?"
   a: "When the explaining is aimed at somebody whose reaction you are genuinely afraid of, which is a safety question before it is a communication one. When you cannot make an ordinary decision without needing another person to approve the reason for it. When the rehearsing before conversations has taken over your evenings. Any of those belongs with a licensed professional rather than a page."
 related:
@@ -133,7 +133,7 @@ Three details tend to arrive together and almost never get said out loud. The fi
 
 The second is the stack. The reasons come out in a series, and they get weaker as they go. The strongest and truest one came first. The second is supporting evidence. The third is often something you invented while you were speaking, which you know at the time and say anyway. A stack of three reads to the listener as a case being argued, and a case being argued implies that a verdict is available.
 
-The third is the landing. You can hear the place where the sentence should end. You get within a word of it. And instead of a full stop, a subordinate clause opens, or an and, or a so. The sentence eventually stops by running out rather than by finishing, usually on a trailing anyway, or so yeah, or sorry, long answer. That last one is worth a moment, because it is an explanation of the explanation, which tells you the engine is still running even while you try to shut it down.
+The third is the landing. You can hear the place where the sentence should end. You get within a word of it. And instead of a period, a subordinate clause opens, or an and, or a so. The sentence eventually stops by running out rather than by finishing, usually on a trailing anyway, or so yeah, or sorry, long answer. That last one is worth a moment, because it is an explanation of the explanation, which tells you the engine is still running even while you try to shut it down.
 
 There is a fourth detail that only some people have, and it is the most useful of all if you do. Somewhere you have a memory of somebody cutting you off gently, saying it was fine, no need, honestly. And instead of relief you felt a small drop, because the explanation had not been accepted yet in the way you needed it to be. If that lands, note it, because the rest of this page keeps coming back to it.
 
@@ -226,7 +226,7 @@ One honest note, because it stops people dismissing all of this. Some of the cle
 
 Because on small requests the word does most of the work and the content of the reason does almost none.
 
-There is a study that makes this uncomfortably concrete. Langer, Blank and Chanowitz published it in 1978, and the setting was a queue for a copy machine. Somebody asked to cut in, in one of three ways. A bare request. A request with a real reason, because I am in a rush. And a request with a reason carrying no information whatsoever, because I have to make copies, which is true of everybody in a queue for a copier and explains nothing at all.
+There is a study that makes this uncomfortably concrete. Langer, Blank and Chanowitz published it in 1978, and the setting was a line for a copy machine. Somebody asked to cut in, in one of three ways. A bare request. A request with a real reason, because I am in a rush. And a request with a reason carrying no information whatsoever, because I have to make copies, which is true of everybody in a line for a copier and explains nothing at all.
 
 For a small favor of five pages, the bare request got roughly six people in ten. Both versions with a reason attached got more than nine in ten, and the empty reason performed almost exactly as well as the real one. The structure of the sentence was doing the work. The listener heard a request-shaped thing with a because in it and agreed without processing what came after.
 
@@ -341,7 +341,7 @@ The fourth is that it crosses into apologizing, or back the other way. Cut the s
 
 The reason all four happen is the same, and it is worth stating on its own line. Changing the behavior with force or with discipline works, and that alone is not what makes it stick. There has to be a way to sustain it, and for that there also needs to be an element of the environment that changes.
 
-Environment is unusually concrete for this one. The workplace where every decision has to be justified in writing to somebody who was not there. The group chat where a one-line reply reads as a snub, and everybody knows it, so everybody writes paragraphs. The family where a plain no is treated as the opening of a negotiation rather than the end of one. The role with responsibility and no authority, where arguing is the only tool you have. Any of those will regenerate the habit in a fortnight regardless of how much insight you have collected.
+Environment is unusually concrete for this one. The workplace where every decision has to be justified in writing to somebody who was not there. The group chat where a one-line reply reads as a snub, and everybody knows it, so everybody writes paragraphs. The family where a plain no is treated as the opening of a negotiation rather than the end of one. The role with responsibility and no authority, where arguing is the only tool you have. Any of those will regenerate the habit in two weeks regardless of how much insight you have collected.
 
 None of this comes from a victim frame, as though the environment were doing it to you. You have put yourself in the environment, and the environment is reinforcing it. That distinction matters practically rather than morally, because an environment you built is an environment you can rebuild, and it responds a great deal faster than resolve does. [Changing a habit at the level of its conditions rather than its symptoms is set out separately](/patterns/how-to-break-a-habit/).
 
@@ -364,7 +364,7 @@ The move that does the work is replacing justification with warmth. They are sep
 | "Sorry, long answer" | Silence | You stop explaining the explanation |
 | "I don't know if this is stupid, but" | The idea itself | It gets heard at its actual weight |
 | "I'm probably being oversensitive, it's just that" | "That didn't sit right with me" | The thing you noticed arrives without a discount |
-| The clause that opened after the full stop | One beat of silence | You finally find out what happens in the gap |
+| The clause that opened after the period | One beat of silence | You finally find out what happens in the gap |
 
 That last row is the hardest and the most useful. The first several times you let the beat pass unfilled, the silence will feel enormous and faintly rude, and nothing will happen. What you are noticing in that pause is a toll going uncollected after twenty years of paying it without fail, and the strangeness belongs to you rather than to the person in front of you.
 
@@ -380,7 +380,7 @@ At the next comma, rather than at the end of the thought.
 
 This is the single most practical thing on the page, because the loaded paragraph is usually already moving by the time you notice it. You cannot un-say the opening. You can put it down.
 
-A full stop is available at any point in a sentence, and the other person will not notice that you used one early. They do not have your outline. What sounds to you like an abrupt halt in the middle of a plan sounds to them like a person who finished speaking. The mismatch between those two experiences is enormous, and it is worth testing once purely to see how large it is.
+A period is available at any point in a sentence, and the other person will not notice that you used one early. They do not have your outline. What sounds to you like an abrupt halt in the middle of a plan sounds to them like a person who finished speaking. The mismatch between those two experiences is enormous, and it is worth testing once purely to see how large it is.
 
 Three ways to land it, in order of how easy they are to use in real time.
 
@@ -442,7 +442,7 @@ Because writing has an undo and speech does not, and this changes at the pace of
 
 Expect the timeline to run in three uneven stages, and expect the first one to be more annoying than satisfying.
 
-Noticing arrives inside a fortnight. Within about two weeks of paying attention, most people can hear the extra clause opening as it leaves their mouth, which is a peculiar and fairly irritating stage, since hearing it and stopping it turn out to be two separate skills that arrive months apart. It counts anyway, and everything else is built on it.
+Noticing arrives inside two weeks. Within about two weeks of paying attention, most people can hear the extra clause opening as it leaves their mouth, which is a peculiar and fairly irritating stage, since hearing it and stopping it turn out to be two separate skills that arrive months apart. It counts anyway, and everything else is built on it.
 
 Writing improves next, usually within a month, and it improves fastest because you can see the evidence and act on it before anybody else does. The subtraction drill costs you ten seconds per message and it works almost immediately. Most people report that their sent messages are half the length inside four weeks, and that nobody said a word about it, which is its own quiet piece of information.
 

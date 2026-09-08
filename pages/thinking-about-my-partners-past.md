@@ -60,7 +60,7 @@ faqs:
 - q: "Why can I accept their past intellectually and still not feel it?"
   a: "Because agreement and settlement are separate operations and only one of them was performed. You can hold, entirely sincerely, that a person is entitled to a life before you, and still have an alarm that has never been given anything to update on. Agreement happens in a sentence. Settling happens across months of ordinary evidence, and it does not respond to being argued into place."
 - q: "Does talking about it more make it better or worse?"
-  a: "It depends completely on what kind of talking. Describing your own experience, once, plainly, and without a request for evidence attached, tends to help and costs the other person very little. Asking for more facts about what happened tends to make the following fortnight harder, because it supplies material. The two feel identical from inside and diverge sharply in what they leave behind."
+  a: "It depends completely on what kind of talking. Describing your own experience, once, plainly, and without a request for evidence attached, tends to help and costs the other person very little. Asking for more facts about what happened tends to make the following two weeks harder, because it supplies material. The two feel identical from inside and diverge sharply in what they leave behind."
 - q: "Why do I picture things I was never told?"
   a: "Because imagination fills gaps and fills them with whatever the fear needs. Constructed scenes are often sharper than real memories, since nothing about them is blurred by the friction of having actually been somewhere. The scene you cannot stop running is frequently the one with the least evidence under it, which is a fact worth knowing and does very little on its own."
 - q: "Is this the same thing as not trusting my partner?"
@@ -102,7 +102,7 @@ You know the number. You have known it for a long time. You asked once when it c
 
 Your partner answers. And there is something in the half second before they answer that you notice and do not mention, which is them working out whether the accurate reply is worth what the rest of the evening will cost. They give you the accurate reply anyway. You feel a small, genuine drop of relief, the way you always do, and it lasts until roughly Tuesday.
 
-Then, at some point on Wednesday, a related question arrives fully formed. Where did they go on holiday together. Whether there is anybody in your partner's life who still knows them. Whether the two of them ever discussed the thing you and your partner discussed last month.
+Then, at some point on Wednesday, a related question arrives fully formed. Where did they go on vacation together. Whether there is anybody in your partner's life who still knows them. Whether the two of them ever discussed the thing you and your partner discussed last month.
 
 None of those questions has an answer that would change anything you are going to do. All of them feel, at the moment they arrive, like the one that would finally close it.
 
@@ -141,6 +141,8 @@ Retroactive jealousy is the term people use for persistent, distressing preoccup
 Naming that is a real service, and the relief people describe on finding the phrase is not a small thing.
 
 **Where the term came from, said plainly.** Not from a laboratory. Retroactive jealousy grew up in self-help writing and online communities, and it spread because it described something accurately at a moment when nothing else did. Search the research literature for it under that name and you will find almost nothing. The adjacent research on jealousy is real, decades old and worth knowing about, and none of it was built around a rival who is finished.
+
+The nearest thing the research literature has under any name is a typology rather than a single finding. Buunk separated jealousy into three forms in work published in the 1990s: reactive jealousy, which follows something that actually happened; anxious jealousy, which is rumination and constructed images running with no evidence in front of them; and preventive jealousy, which is action taken to stop a rival appearing at all. Anxious jealousy is the closest measured neighbor to what this page describes, and the fit is imperfect in a way worth stating plainly: those items were written around a partner who might stray, so what got measured was worry about a live possibility, and nobody in those samples was being counted for preoccupation with something already concluded.
 
 **What the term cannot do.** It has no accepted measure, which matters more than it sounds. A term with no measure cannot be counted, compared across groups, tracked over time, or tested against anything. So there is no evidence about how common it is, how long it lasts, what makes it better, or who gets it. Every confident number circulating under this name was produced by somebody with no access to a study.
 
@@ -218,6 +220,8 @@ The obvious conclusions are that they lied, or that you are broken. Neither is u
 
 What happened is that a state changed and a belief did not. States lift quickly and fall just as quickly. The thing generating the question, some version of *there was somebody before me who had something I do not have*, was never addressed by the answer, because the answer was about a fact and the belief was about a ranking.
 
+How long reassurance actually holds has been measured, in a setting with nothing to do with relationships, which makes it a neighbor rather than proof. Lucock and colleagues reported in the BMJ in 1997 that patients told after a gastroscopy that nothing was wrong were markedly less worried immediately afterward, and that in the patients who had been most worried going in, the worry was back at its starting level within a day. That was self-report, one clinic, one reassurance, and nobody in it was asking a partner anything. What survives the translation is the shape: the short half-life belongs to reassurance itself, and it turns up even when the reassurance is authoritative, complete, and delivered by somebody with no reason to soften it.
+
 There is a second mechanism sitting under that one, and it is the more brutal of the two. Consider what reply would actually settle this. Not a more reassuring version of the truth. An answer in which it did not happen, or happened in a form that carries no information about you at all. Your partner cannot produce that, and neither can anybody. So the question is structurally unanswerable, and it feels answerable, and the gap between those two facts is where months of a life go.
 
 This is worth reading twice, because it changes what you should expect from your partner. There is no wording they have failed to find. There is no amount of patience that would have worked. They have been trying to answer a question that has no satisfying answer, which is exhausting for them and produces nothing for you.
@@ -272,7 +276,7 @@ The tells for this root are specific and reassuringly boring. It has been going 
 
 If that is you, there is nothing here to work on, and the useful thing this page can do is take away a verdict handed to you by other people's writing. Reading a page like this one and concluding that you have a condition is a real risk in this territory, and it is the single most common way somebody makes an ordinary few months considerably worse.
 
-One honest note attached to this root. Being in it does not make you immune to the others. A curiosity that was ordinary in spring can start doing a different job by autumn, usually when something else in your life changes, and it will not announce the switch.
+One honest note attached to this root. Being in it does not make you immune to the others. A curiosity that was ordinary in spring can start doing a different job by fall, usually when something else in your life changes, and it will not announce the switch.
 
 ## What If the Real Question Is Whether You Measure Up?
 
@@ -291,6 +295,8 @@ This root is the one where the current relationship is genuinely beside the poin
 This is the version where the asking has become the supply line, and the honest description of it is a little grim.
 
 Every answer you get is new. Not new information about the world, since nothing you learn changes anything you will do. New material for the picture. A place name means the scene now has a setting. A length of time means it has a shape. A single sentence somebody said means there is now a voice in it. Each honest reply arrives as a small improvement in production values.
+
+Why an upgrade in production values costs so much has been looked at directly, in a laboratory and under a different name. A 2005 paper in the journal *Emotion*, titled *Mental imagery and emotion: a special relationship?*, reported that people asked to picture ambiguous scenarios came out of it more anxious than people who worked through identical material in words. A place name and a length of time are exactly what convert a sentence into a picture, which is why the detail you asked for on Sunday is still playing on Thursday when the sentence that carried it has gone. Those sessions were minutes long, ran on students, and used material nobody had a personal stake in, so take it as the mechanism rather than a measurement of your week.
 
 So the search expands as you conduct it, and the thing you were trying to finish gets larger with every honest answer, which is a genuinely cruel piece of design and worth naming clearly because so much advice assumes the opposite. Getting the full picture promises closure and delivers inventory.
 
@@ -340,6 +346,24 @@ The right-hand column is the one to read slowly. Most people find that one row s
 
 Two notes on using this. People frequently sit in two rows at once, most often the second and the fourth, and that combination is entirely coherent. And the row that fits can change across a year without any decision being made, which is why this is worth revisiting rather than settling once.
 
+## Why Can This Get Worse When My Relationship Is Going Well?
+
+Because there has to be something worth losing before an alarm about losing it makes any sense.
+
+The timing people describe is consistent enough to be worth naming. It starts after moving in. After getting engaged. After a joint account, or after the tenancy went into both names, or after the evening this stopped being one relationship among possible ones and became the shape of the next twenty years. Almost nobody describes it starting in month two of something casual. It arrives when the relationship becomes the main thing, which is the same moment the cost of losing it becomes real.
+
+That gets misread constantly and the misreading is expensive. *It got worse as we got closer* reads like evidence that something is wrong with the relationship, or that some part of you has noticed something nobody has said out loud. What it usually marks is the moment the stakes rose, and stakes rising is what a relationship going well does.
+
+Two other things arrive at that same moment and load onto it.
+
+Comparison gets a price attached. Wondering whether you measure up costs almost nothing while nothing is at risk. Once there is a shared address and a plan, the identical question has a bill attached to it, and questions with bills attached get asked far more often.
+
+And the competition for your attention drops away. Early on there is plenty else occupying the space: whether this is going anywhere, whether they will call, what to make of something said on Thursday. Remove all of that, which is exactly what a settled relationship does, and whatever was already running becomes the only thing in the room, at what feels like a much higher volume.
+
+One honest qualification, since this page keeps track of which claims have evidence under them. Nothing above has been measured. It is a pattern in what people report about their own timing, which is a weaker kind of evidence, and on its own it cannot rule out the other reading. What separates the two is worth two weeks of watching: notice whether the questioning tracks the state of the relationship or the stakes of it. If a rough week quiets it and a good week sets it off, it is running on how much there is to lose. If it genuinely tracks how things are going between you, that is different information and worth taking seriously rather than explaining away.
+
+[Something good arriving and immediately feeling dangerous is its own pattern](/patterns/fear-of-happiness/), and it is worth reading if this fires for you outside relationships as well.
+
 ## Is There Any Version of This Question Worth Asking Out Loud?
 
 Yes, and the list is shorter than almost anybody expects, which is itself the useful finding.
@@ -376,6 +400,20 @@ Five neighbors, each with a different mechanism and a different way out, and the
 Most people are running two of these at once, which is ordinary and is also why one page rarely covers anybody completely.
 
 One separation matters more than the others and deserves a sentence of its own. If something actually happened in your relationship, a real breach, recently or years ago, then this page is the wrong one for you and the work is genuinely different. [What each person owes during a repair, and how long it takes, is set out properly elsewhere](/patterns/how-to-rebuild-trust/).
+
+## Does Thinking About Their Ex Mean I Do Not Trust My Partner?
+
+Usually not, and treating the two as one thing sends people off to work on the wrong problem for months.
+
+Distrust is a forecast. It is a position about what somebody is going to do: whether an account you were given will hold up, whether what you are told this week will still look the same in six months, whether there is something running that you have not been shown. Everything in a forecast points forward, which also means it can move. Weeks of ordinary evidence arrive, and a forecast updates on them.
+
+What this page describes points the other way entirely. The thing it is about finished before you arrived. There is no next in it. Nothing anybody does tomorrow can change the number of years, or the name of the town, or the fact that somebody existed and mattered for a while. A forecast has evidence still coming; a concluded fact has none outstanding, and that difference is why the two feel identical from inside and behave nothing alike.
+
+One question separates them. If you could be handed a guaranteed, accurate account of the next ten years, would the thing that runs at midnight stop? Most people carrying this answer no, and that no settles it. People here routinely describe complete confidence about tomorrow sitting next to complete inability to leave a decade ago alone, and there is nothing incoherent about that pair once it is clear the two are pointed at different objects.
+
+The label usually arrives from outside, in an argument or in something read at two in the morning, and it gets adopted because it seems to explain the behavior. It explains it badly, and the cost is real: what people mean by trust issues has its own shape, its own roots and its own work, [set out on the page that owns the term](/patterns/trust-issues/), and none of that work touches a preoccupation with a relationship that is over.
+
+Two qualifications, both honest. Some people are running both at once, and the tell is whether the alarm ever fires forward: a name mentioned warmly at dinner producing the same spike as a name from a decade ago is a live scan, and [that has its own mechanism and its own page](/patterns/why-am-i-so-jealous-in-relationships/). And nothing here is a claim about whether your partner can be trusted, which no page can answer about anybody. What it is a claim about is where your own questioning points, and you can answer that this week by noticing whether a single one of the questions you wanted to ask was about something that has not happened yet.
 
 ## Why Does Deciding to Stop Asking Fail Every Time?
 
@@ -422,7 +460,9 @@ Nothing below is a validated protocol, and anybody selling you one for this is o
 9. **Tell one person, once, properly.** Chosen carefully, not somebody who knows your partner. Almost everybody carrying this has told nobody, and the concealment converts an ordinary and common experience into a private defect.
 10. **Treat a bad week as a bad week.** Anniversaries, an old name coming up, a period of stress, and the whole thing reopens temporarily. That is the normal shape of it rather than evidence that nothing took.
 
-Is any of that comfortable? No. Number three is the worst of them for about the first fortnight, and the discomfort is the mechanism rather than a side effect, because the capacity being built is the ability to leave a question open and go to sleep anyway. That only grows against something.
+Number five has a name and a limit, and both are worth having. Wegner's white-bear experiments, first reported in 1987, found that people instructed not to think of something thought of it more, both while they were trying and in the period afterward, which is where every serious version of the advice not to fight the thought comes from. Later meta-analyses of controlled studies put that rebound at small and inconsistent, so the honest version is narrower than the popular one: suppression is a poor instrument, and declining to fight a thought is a stance rather than a technique. [The same machinery, and what it does to people who work hard on themselves, is set out on its own page](/patterns/why-does-working-on-myself-make-it-worse/).
+
+Is any of that comfortable? No. Number three is the worst of them for about the first two weeks, and the discomfort is the mechanism rather than a side effect, because the capacity being built is the ability to leave a question open and go to sleep anyway. That only grows against something.
 
 ## What Does the Settled Version Look Like on an Ordinary Sunday?
 
@@ -451,6 +491,8 @@ What can be said honestly is the shape. Recognition arrives fast: most people ca
 The asking usually stops well before the thinking does, and that is the real early win. The gap between episodes lengthens before their intensity drops, which is why the useful unit of measurement is the gap rather than the presence.
 
 The clock is set by which root is running rather than by how much discipline you apply. Ordinary curiosity fades on its own timeline and needs nothing from you. Detail-feeding responds fastest to a change in behavior, because it was the behavior supplying it. Comparison moves as your own footing moves, which is slow and indirect. A story about what your partner values moves at the pace of accumulated ordinary evidence. And vigilance that was installed by something real moves when that thing is worked on, which is the version where outside help is most likely to be worth it.
+
+Nothing has ever been timed under the name on this page, and the closest measured thing is about single feelings rather than a pattern that runs for years. A 2015 study in Motivation and Emotion asked people to report on emotional episodes shortly after they ended and found that what predicted how long one lasted was how much it had been gone over afterward, and how important the event was rated, more than what the event was. That was a student sample recalling the previous day or two, which is a long way from a Sunday afternoon in year three, so the useful part is the direction rather than the number: the going-over sets the length, and the going-over is the one input you have any purchase on.
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. What took longest to accept was how rarely a feeling resolves at the level where it presents itself. People spend years working on the relationship in front of them and move almost nothing, then spend six months on something that predates that person entirely and find the Sunday afternoons have quietly changed.
 

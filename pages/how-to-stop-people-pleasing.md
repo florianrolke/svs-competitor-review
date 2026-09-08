@@ -108,7 +108,9 @@ There is a particular second that most people searching this phrase already know
 
 That second is where the whole pattern lives, and it is also the only place it can be changed. Everything below is about getting inside it.
 
-## What Does People Pleasing Sound Like From the Inside?
+## What Are the Subtle Signs That I Am People Pleasing Rather Than Simply Being Considerate?
+
+The reliable ones sit inside rather than on the surface, which makes the useful question what people pleasing sounds like from the inside.
 
 It sounds like a low-level running commentary about how other people are reacting to you, so constant that it stopped registering as thought years ago.
 
@@ -141,6 +143,8 @@ The version that shows up most often in this work forms in a home where warmth, 
 
 There are two efficient ways for a child to earn it. One is achieving, and [perfectionism is the achieving version of the same equation](/insights/how-to-overcome-perfectionism/). The other is agreeing. The agreeable route works by removing every reason anybody could have to withdraw from you: no inconvenient preference, no difficult mood, no request that might land as a demand, no version of you that anyone has to accommodate.
 
+That reading has been measured where it is still forming. A 1996 paper in *Child Development*, "A Model of the Effects of Perceived Parent and Peer Support on Adolescent False Self Behavior," found that adolescents who described a parent's support as conditional rather than steady held less hope of support being there in the future, and that this expectation predicted how much they acted in ways they themselves would not call the real me; the ones who said they did it specifically to please or win approval reported less knowledge of their own true self than the ones simply experimenting with who they were. Hold it at the weight it carries: teenagers rating themselves on questionnaires at a single point in time, which shows two things traveling together and cannot show one producing the other.
+
 Often the life plan came pre-written. The aspirations belonged to the parents first, the dreams they had for themselves and never reached, and fulfilling those quietly became the child's assignment, which produces an adult competently living a life authored by somebody else. That is where the strangest symptom of the whole thing comes from, the blankness people hit when asked what they actually want. The preference never got built, because there was no safe occasion to build it on.
 
 There is nothing weak or foolish in any of this. A small person who notices that being easy to be around keeps the warmth flowing has read the room correctly and acted on the reading, and the reading was accurate at the time. [The origin of that conclusion has its own page.](/insights/the-core-wound/)
@@ -168,6 +172,20 @@ That explains why reassurance never lands. A friend can tell you the email was f
 Two more mechanisms keep it alive. The first is that the belief never gets tested. You avoid disapproval so reliably that you never accumulate any evidence that disapproval is survivable. A fear you never walk toward stays exactly the size it was when you were nine.
 
 The second is selection. Arranging yourself around people for many years quietly selects for people who are comfortable being arranged around. Look at a social circle built that way after a decade and you will find a real number of people with a stake in your compliance, which makes the fear look like an accurate read of the situation rather than an old habit. It is worth naming that this part is genuinely true. Some of the pushback you are bracing for will actually happen.
+
+Real, and reliably smaller than the forecast. A 2023 paper in the *Journal of Personality and Social Psychology*, "Saying No: The Negative Ramifications From Invitation Declines Are Less Severe Than We Think," reported that people turning down an invitation overestimated how much the refusal would anger the person who asked, how much it would signal that they did not care about them, and how much it would reduce the chance of being asked again; part of the gap is that the person declining assumes the other party is fixed on the refusal itself, while the other party is thinking about the deliberation behind it. Carry the limits alongside the finding: these were social invitations among adults, measured by setting what one side predicted against what the other side reported, and none of it speaks to a refusal that carries a real cost with somebody who makes preferences expensive.
+
+## Why Do I Agree Before I Have Even Decided What I Want?
+
+Because agreeing is faster than deciding, and the two are competing for the same second.
+
+Deciding needs an answer to a question you may never have been asked out loud: what do I want here. That answer takes time to assemble even for people who keep one ready, and for anybody whose preferences were inconvenient to have as a child it often has to be built from nothing, on the spot, while somebody watches. Agreeing needs none of that. It is one syllable, it is thoroughly rehearsed, and it ends an uncomfortable sensation immediately.
+
+So the sequence you experience as a decision usually ran the other way round. The relief came first. The reasons arrived afterward and they were convincing, because they were assembled by somebody who had already committed. That is why arguing with yourself about whether you should have agreed goes nowhere useful. You are auditing a conclusion rather than reviewing a decision.
+
+There is a second reason and it belongs to the body rather than to reasoning. The discomfort that arrives with a request is physical and it is fast. The cost of agreeing is neither. It shows up on a Saturday you have not reached yet, charged to a version of you who is not in the room and gets no vote. Any system trading a present sensation against a future one keeps making that trade for as long as the future stays abstract.
+
+What follows from this is more useful than it sounds. If the agreement arrives ahead of the decision, then deciding better is the wrong target altogether. The work is slowing the moment down until a decision can fit inside it, which is what a delay sentence buys you and why the practice below starts there. [The anatomy of that particular yes has a page of its own](/patterns/saying-yes-when-you-mean-no/), including what one untrue yes costs hour by hour and how to take one back after it has left your mouth.
 
 ## Where Does People Pleasing Hide When You Would Not Call It People Pleasing?
 
@@ -234,6 +252,66 @@ By running small repetitions that are boring enough that you will actually compl
 Is any of this dramatic? No. It is small and freaking repetitive, and that is exactly why it holds when a weekend of resolve does not.
 
 Does the guilt disappear once you get good at it? Honestly, no. The guilt is an old alarm, and it goes off on a schedule set long ago with no regard for whether your refusal was fair. What grows with practice is your capacity to feel guilty and let the decision stand anyway. After enough repetitions the alarm quiets down on its own, mostly because nothing bad kept happening.
+
+## How Do I Stop People Pleasing When My Yes Comes Out Automatically?
+
+You change what fills the second, since an automatic response cannot be canceled at the moment it fires.
+
+Automatic means the answer is loaded before the request has finished arriving. Willpower applied at that exact point is late every time, which is why people who fully intend to refuse still hear themselves agreeing and then spend the evening puzzled by their own behavior. The move is to put something else in the slot the yes currently occupies.
+
+Three things make that work.
+
+**Load one sentence and keep it loaded.** Pick a single line and make it what comes out when you are caught: that you will check and come back to them tonight. Say it to requests you already mean to accept, say it to the ones you would refuse anyway, say it when it changes nothing. The point is that it becomes the automatic answer, and an automatic delay is worth more to you than a deliberate refusal you manage twice a month.
+
+**Make the answer slow by default rather than by decision.** A rule set in advance costs less than a judgment call in the moment. Nothing gets an answer in the same conversation. Anything arriving as a message gets answered the following morning. The rule does the work while your body is still catching up, and the people around you experience it as ordinary rather than as a change in your character.
+
+**Treat the recovery as part of the practice.** The yes will still get out sometimes, for months. Going back within the hour and revising it is a complete repetition rather than a failed one, and it is often the easier version to run early on, since the pressure of the room has gone by then. Somebody who reverses three yeses a week is doing this properly.
+
+None of this asks you to be braver in the second itself. It asks you to have settled in advance, on an ordinary afternoon when nobody wants anything from you, what your mouth is going to do next time.
+
+## How Do I Stop People Pleasing With My Boss Without Risking My Income?
+
+By starting with the parts of the job nobody assigned you, where almost all of the cost sits and almost none of the risk.
+
+Sort what happens at work into two piles. The first holds work given to you by somebody with the standing to give it. The second holds everything you took on because a silence needed filling: the tidying nobody asked for, the standing meeting you joined to be useful, the reply you sent after closing the laptop to prove you were on it, the task you absorbed rather than watch a colleague struggle with it. The second pile is usually larger than the first and it appears on no record of what you do. Refusing assigned work carries real professional weight. Declining to add to the second pile carries almost none.
+
+Four moves live in that second pile.
+
+Stop volunteering into silences. A pause in a meeting is a pause, and whoever is running it is rarely waiting for you to fill it.
+
+Answer after checking, always. A request gets your week consulted before it gets your answer, including on the days you already know you will agree.
+
+Give the constraint instead of the apology. Two sentences saying what you can do by when tell your manager more than a paragraph of regret, and they read as competence.
+
+Skip the compensating favor. If you declined something on Tuesday, let Wednesday be ordinary. Extra work done quietly to smooth it over is the pattern reinstalling itself under a friendlier name.
+
+There is an honest limit here. Some workplaces do punish a reasonable refusal, and if yours is one, that is information about the place rather than about you. If your income or your safety genuinely depends on staying agreeable with one particular person, that belongs with the qualified help described near the top of this page rather than with a practice you run alone.
+
+## How Do I Show My Real Preferences to a Partner Without Turning the Relationship Into Constant Conflict?
+
+By separating the preferences that are genuinely contested from the ones that are merely unknown, because most of yours are in the second group.
+
+The fear underneath this question assumes every preference you reveal will meet an opposing one. Run through an actual week and the arithmetic looks different. What you want for dinner, which film, whether you would rather stay in on Friday, how much talking you want after work, which weekend gets kept empty. On most of these your partner holds no strong position at all and has spent years guessing at yours. Saying them out loud produces no conflict whatsoever. It produces information somebody has been missing for a long time.
+
+Start there, and start by speaking first. Name the place you want before you have heard theirs. Say you are tired on the day you are tired. Answer the question about the weekend with your own answer rather than with a question back. None of that is a confrontation and all of it is the same repetition.
+
+Then there is the smaller group where you actually differ. The practice there is a plain sentence said once, without the three attached reasons, followed by staying in the room while it is uncomfortable. Ten minutes of unresolved difference, felt all the way through and left unrepaired, teaches you more than a month of careful phrasing. Watch for the urge to send a warm message an hour later. That message is the pattern finishing the job.
+
+The half most people skip is receiving. Let your partner do something for you and say thank you with nothing added: no immediate favor back, no self-deprecating remark to level the exchange, no reason offered for why you deserved it. For anybody whose place in a relationship has always felt earned, that is harder than any refusal, and it works on the same root.
+
+One honest limit. Everything above is your half of it. A partner who treats an ordinary stated preference as a provocation is describing something no page can work on from here, and that belongs with somebody qualified.
+
+## How Do I Stop Performing a Curated Version of Myself Around My Parents?
+
+By retiring the curation one ordinary detail at a time, since the performance was built out of details and comes apart the same way.
+
+The version of you that shows up on a call with your parents has usually been maintained for twenty or thirty years. It came together as a thousand small edits rather than as a single lie: the difficult month described as busy, the opinion softened before it left your mouth, the money worry left out so nobody had to carry it, the answer to how are you that was settled before the phone rang. Nobody dismantles that in one conversation, and most people who try find themselves negotiating about the past instead of changing the present.
+
+So work at the size of the edits. Choose one true ordinary detail per call and let it through. The week you actually had. The thing you found hard on Tuesday. The opinion you would normally sand down before offering it. Keep it small enough that it needs no defending, because a detail that needs defending pulls you straight back into the performance in a stronger form.
+
+Two things make this easier to sustain. The first is expecting no reaction at all. Most of these details land as nothing, which feels flat and is exactly the outcome worth having, since it is what shows you the edit was never necessary. The second is reading yourself afterward. Notice how you feel in the hours after a call where you let one true thing through, against a call where you did not. That reading is the most accurate measure available to you of what the curated version has been costing.
+
+Leave the large conversation for much later, if it ever happens. The point of this is being one person in that room instead of two, rather than an accounting with your parents, and it arrives through a few hundred unremarkable calls rather than through a single honest hour.
 
 ## Who Pushes Back When You Stop, and Who Stays?
 

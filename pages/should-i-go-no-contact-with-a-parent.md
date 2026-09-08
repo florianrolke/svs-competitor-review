@@ -63,7 +63,7 @@ faqs:
     runs through before deciding which one to act on.
   q: Should I go no contact with my father but not my mother?
 - a: Mechanically it is simple. Stop initiating, stop responding, block the channels
-    if messages keep arriving, and decide in advance what you will do about holidays,
+    if messages keep arriving, and decide in advance what you will do about vacations,
     emergencies, and other relatives who will carry messages. Say it once, plainly,
     or say nothing at all, since a long explanation invites negotiation. The difficulty
     is almost never logistical. It is the guilt afterward, which arrives whether or
@@ -270,7 +270,7 @@ Sentences like those can sit unexamined for twenty years while the decision they
 
 Your father's name comes up on the screen for the third time this month and you watch it ring out. Nothing gets decided, again, and by Thursday you have half-forgotten it happened.
 
-That afternoon is the real shape of this question for most people who ask it. It rarely presents itself as a decision. It shows up as a running cost: a holiday reminder that produces relief and guilt in the same half-second, an entire conversation rehearsed out loud in the car that you already know you are not going to have, a line about your mother you have repeated a hundred times and never once checked against your own memory of her.
+That afternoon is the real shape of this question for most people who ask it. It rarely presents itself as a decision. It shows up as a running cost: a vacation reminder that produces relief and guilt in the same half-second, an entire conversation rehearsed out loud in the car that you already know you are not going to have, a line about your mother you have repeated a hundred times and never once checked against your own memory of her.
 
 The reason it stays open for years is that the question, as normally asked, cannot be answered. "Should I go no contact with my parent" asks you to reach a final verdict on a whole person, across four decades, using evidence nobody can cross-examine. Nobody settles that. Something much smaller can be settled, and this page is built around getting you to the smaller version, in either direction.
 
@@ -282,7 +282,7 @@ If a parent is currently hurting you, threatening you, controlling your money or
 
 The same applies from the inside. If you are having thoughts of harming yourself, however briefly, contact a crisis line or emergency services in your country today. If any of this sits alongside an addiction, a diagnosed condition you are currently managing, or a hopelessness that has not lifted for months, bring in a clinician. A page can help you think. It cannot sit in the room with you, and month one costs far less than month twelve.
 
-Everything below is written for the ordinary version of this: the call left to ring out, the holiday you dread for three weeks, the relationship that has been half-alive for years without anybody naming it.
+Everything below is written for the ordinary version of this: the call left to ring out, the vacation you dread for three weeks, the relationship that has been half-alive for years without anybody naming it.
 
 ## What Does This Sound Like From the Inside?
 
@@ -432,7 +432,7 @@ The practical consequence is the part people are not warned about. Distance stop
 | What a cutoff reliably does | What it leaves running |
 |---|---|
 | Stops new incidents with that parent | The interpretation you make of other people's silence |
-| Ends the dread before visits and holidays | The dread itself, redirected elsewhere |
+| Ends the dread before visits and vacations | The dread itself, redirected elsewhere |
 | Removes a chronic low-grade cost | The internal account of who owed whom what |
 | Buys real room to think | The guilt, which usually arrives on its own schedule |
 | Protects a child of yours from exposure | The role reversal, if one was installed |

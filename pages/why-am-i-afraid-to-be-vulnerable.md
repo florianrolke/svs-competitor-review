@@ -144,7 +144,7 @@ Because several very different environments teach the same lesson, and the lesso
 
 The doors in are worth naming individually, because people often assume they need a dramatic origin story to qualify, and most of these are quiet.
 
-Through betrayal, formation is an event. Something got handed over, a real feeling, a stated need, an unguarded hour, and it turned up later as material. [The stance a broken trust leaves behind](/patterns/when-someone-close-betrays-you/) generalises fast, and the specific lesson it teaches is about disclosure rather than about people.
+Through betrayal, formation is an event. Something got handed over, a real feeling, a stated need, an unguarded hour, and it turned up later as material. [The stance a broken trust leaves behind](/patterns/when-someone-close-betrays-you/) generalizes fast, and the specific lesson it teaches is about disclosure rather than about people.
 
 Through invalidation, formation is repetition rather than one scene. Feelings were dismissed, minimized, or corrected enough times that showing them stopped seeming worth the cost. [Being told your reaction was wrong often enough](/patterns/emotional-invalidation/) does something more precise than making you sad. It teaches that the inside of you is a poor guide and a poor thing to show.
 
@@ -186,7 +186,7 @@ Worth checking, because five fairly different things produce similar-looking wee
 
 Two of those rows have pages of their own, and reading them alongside this one will settle which you are actually dealing with. [The general shortage of relational bandwidth](/patterns/emotionally-unavailable/) shows up everywhere in somebody's life at once. The version on this page can appear in an otherwise warm, attentive, closely involved person, and appear only for the ten seconds in which something true would have to be handed over.
 
-The suppression line is the one people most often get backwards in themselves, so it is worth stating plainly. If somebody asks what you are feeling and nothing comes, or what comes is a description of a situation, you are probably looking at [the version where the feeling gets routed away before it fully lands](/patterns/emotional-suppression/). If somebody asks and you know exactly what the answer is, can feel it in your chest while you decide, and say "I'm fine" anyway, that is this page.
+The suppression line is the one people most often get backward in themselves, so it is worth stating plainly. If somebody asks what you are feeling and nothing comes, or what comes is a description of a situation, you are probably looking at [the version where the feeling gets routed away before it fully lands](/patterns/emotional-suppression/). If somebody asks and you know exactly what the answer is, can feel it in your chest while you decide, and say "I'm fine" anyway, that is this page.
 
 The trust line does more work than the others in practice. Run the test. Name three people who have never once let you down. Now ask whether you could tell any of them the true sentence about how the last month actually went. Most people in this pattern find the answer is still no, and that no is the clearest evidence that the block is living in the act rather than in their assessment of anybody. [The separate question of who can actually be relied on](/patterns/trust-issues/) is worth settling on its own, and settling it will not, by itself, make the true sentence any easier to say.
 
@@ -273,7 +273,7 @@ What moves it looks like this.
 
 1. **Pick one person with a track record.** Not the hardest relationship in your life and not a stranger. Somebody who has handled a few things reasonably, where there is something at stake but not everything.
 2. **Size the disclosure to what the relationship can hold.** One sentence, current, and true. "This month has been harder than I have been letting on." The target is completing the repetition rather than the depth of the material.
-3. **Say it without the packaging.** No disclaimer in front, no joke behind, no three reasons explaining why you are entitled to feel it. The packaging is the part that neutralises the exposure, which is exactly why it feels so necessary.
+3. **Say it without the packaging.** No disclaimer in front, no joke behind, no three reasons explaining why you are entitled to feel it. The packaging is the part that neutralizes the exposure, which is exactly why it feels so necessary.
 4. **Stay for the twenty minutes afterward.** This is the actual exercise. Remain in the room, or on the call, without producing a solution and without checking your phone. Discovering experientially that the twenty minutes end and everybody survives them is what loosens the root.
 5. **Come back the next day as normal.** Send the ordinary text. Make the ordinary plan. The nervous system is watching to see whether the relationship changed, and behaving normally is the evidence it needs.
 6. **Do it again with somebody else.** One good conversation changes very little. What changes things is a sample size, and a sample size means variation: different people, different days, different sizes of disclosure.

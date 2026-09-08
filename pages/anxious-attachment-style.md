@@ -60,7 +60,7 @@ faqs:
     Recognition tends to arrive within a few weeks of deliberate attention. The body's
     response to an unanswered message fades far more slowly, at the pace of lived
     experience, since it was rehearsed daily for years. Movement usually looks like
-    a step pattern with long flat stretches and a bad fortnight after any real ending,
+    a step pattern with long flat stretches and a bad two weeks after any real ending,
     rather than a smooth line.
   q: Can anxious attachment change, or is it fixed?
 - a: Unremarkable, which is why anyone scanning for a dramatic version walks straight
@@ -106,7 +106,7 @@ faqs:
   q: What is the hardest attachment style to live with?
 - a: 'Anything ambiguous. A message read and left unanswered, a reply shorter than
     usual, a plan that moves, a flat tone in a room with no explanation attached to
-    it. Thresholds do it too: a holiday apart, a friend''s wedding, the first real
+    it. Thresholds do it too: a vacation apart, a friend''s wedding, the first real
     argument, a partner starting a demanding job. The common ingredient is a gap in
     information that your mind fills faster than the facts can arrive.'
   q: What triggers anxious attachment?
@@ -132,8 +132,8 @@ faqs:
     the same pattern.
   q: Is preoccupied attachment the same as anxious attachment?
 - a: It describes somebody who runs in both directions. They move toward closeness
-    hard, then find it suffocating once it arrives, sometimes inside the same fortnight,
-    and often apologize afterwards for the cold stretch. Both moves come from one
+    hard, then find it suffocating once it arrives, sometimes inside the same two weeks,
+    and often apologize afterward for the cold stretch. Both moves come from one
     place, since closeness is what they want and also where the original injury happened.
     It tends to be the most disorienting version to live inside, because the strategy
     switches with no warning.
@@ -315,7 +315,9 @@ Every adaptation traces back to that one condition. Constant self-monitoring dev
 
 There is a second half to the equation, and it concerns love that never quite arrived unconditionally. Where affection appeared to come only once it had been earned, the conclusion a child draws is that love is a reward rather than a given, and in adulthood it still gets said in the first person, exactly like this: "I need to earn love and affection by being what others want me to be." Then comes the move that does the real damage, which is internalization. The absence gets explained as a property of the self: "If I'm not shown affection, it's because there's something wrong with me."
 
-Not every case traces back to a parent. A household reorganised around one person's long illness, a stretch of years where one adult's mood set the weather for everybody, a move at nine that removed every friend at once, an early relationship in your twenties that ran hot and cold for eighteen months at exactly the age you were working out what relationships are. The mechanism holds across all of them: warmth that came on a schedule nobody could predict, and a person intelligent enough to start predicting. [Where that first conclusion about yourself gets formed has its own page.](/insights/the-core-wound/)
+How far does the evidence behind that reach? De Wolff and van IJzendoorn pooled 66 studies covering 4,176 children in Child Development in 1997, under the title Sensitivity and Attachment: A Meta-Analysis on Parental Antecedents of Infant Attachment, and in the 21 of those that both observed caregiver sensitivity directly and used the standard separation procedure the association came out at r = .24 after correction for attenuation, which they read as moderately strong. Their own conclusion is the part worth carrying up here: caregiver sensitivity is an important condition of a child's security without being an exclusive one, and several other features of the caregiving looked to matter about as much, which is why a house explains a great deal of this and was never going to explain all of it.
+
+Not every case traces back to a parent. A household reorganized around one person's long illness, a stretch of years where one adult's mood set the weather for everybody, a move at nine that removed every friend at once, an early relationship in your twenties that ran hot and cold for eighteen months at exactly the age you were working out what relationships are. The mechanism holds across all of them: warmth that came on a schedule nobody could predict, and a person intelligent enough to start predicting. [Where that first conclusion about yourself gets formed has its own page.](/insights/the-core-wound/)
 
 ## What Is the Reaching Actually Protecting You From?
 
@@ -329,7 +331,7 @@ The third layer is the one that surprises people, because it looks like the oppo
 
 ## What Does Anxious Attachment Look Like Inside a Real Relationship?
 
-In six recognisable places, and most people see themselves in only two or three of them at first.
+In six recognizable places, and most people see themselves in only two or three of them at first.
 
 | Where it shows up | What it looks like from outside | The sentence underneath |
 |---|---|---|
@@ -361,11 +363,25 @@ Nobody lives in one row. Most people run one pattern with a partner, a different
 
 The pairing in rows one and two deserves its own warning, because it is common and it is self-reinforcing. Reaching reads as pressure to somebody who withdraws under pressure, so they withdraw, which confirms the anxious forecast, which produces more reaching. Both people leave the argument holding evidence for the thing they already believed. [Why the same person keeps turning up in different bodies is worth settling separately.](/insights/why-do-i-attract-the-same-people/)
 
+The fourth row is the one this page keeps pointing at and never describes in detail, on purpose, because it belongs elsewhere: [what a secure response is actually made of, and how much of it the long-term evidence supports, is set out in full on the secure attachment page.](/patterns/secure-attachment/)
+
+## Is There a Validated Questionnaire That Measures Anxious Attachment?
+
+There is one that most adult attachment research runs on, and what it hands back is a position on two scales rather than a name for you.
+
+It is called the Experiences in Close Relationships questionnaire, published in 1998 by Brennan and colleagues under the title Self-Report Measurement of Adult Attachment: An Integrative Overview, as a chapter in *Attachment Theory and Close Relationships*. The method behind it is more interesting than the score it produces. Instead of writing fresh questions, they collected the items from the adult attachment questionnaires already in circulation, put the whole pool in front of one large sample, and asked statistically how many separate things all those questions were measuring. The answer came back as two. One is a dimension of anxiety, meaning how much of your attention goes to where you stand with somebody. The other is a dimension of avoidance, meaning how far you will let yourself depend on anyone at all. What this page describes sits high on the first. How high you sit on the second decides whether it shows up as reaching, or as reaching and then going cold about having reached.
+
+Keep the modesty of that result in view. The chapter showed that questionnaires already in use had been converging on the same pair of dimensions without anybody saying so, which is a smaller claim than a discovery, and it is part of why the two-dimension model carries no single researcher's name. [The model itself, and why no name sits on it, is set out on the avoidant attachment page.](/patterns/avoidant-attachment/)
+
+Now the limits, because a number that comes back off a questionnaire tends to get handed more authority than it earned. The scoring has itself been examined: a 2000 paper in the Journal of Personality and Social Psychology, under the title An Item Response Theory Analysis of Self-Report Measures of Adult Attachment, ran four of the commonly used inventories including this one over data from 1,085 people, and concluded that the ordinary practice of summing or averaging the items can lead to mistaken inferences about how stable somebody's pattern actually is. Underneath that sits a plainer problem that needs no statistics. You answer these questions about one relationship, in one week, from inside whatever mood that week produced, and the answers move when any of that moves.
+
+So the useful version of a questionnaire is narrow and real. It gives a name to something you could already feel, it tells you which of the two dimensions is loud in you, and it puts you somewhere on a scale instead of inside a category. What it cannot tell you is what you will do the next time a message sits unanswered for twenty minutes. That one answers itself, faster than any score, if you leave the phone face down and watch.
+
 ## Why Does Reassurance Stop Working Almost Immediately?
 
 Because reassurance you asked for gets discounted at the moment it arrives.
 
-The internal reply arrives almost word for word: "They're just saying that. They don't really mean it." Alongside it sit difficulty receiving love and compliments, discomfort with genuine praise, and a reflex of deflecting anything warm. A system that cannot metabolise the thing it is asking for will keep asking. Supply never closes the deficit, which is why the same conversation can happen four times in a month with a partner who meant it every time.
+The internal reply arrives almost word for word: "They're just saying that. They don't really mean it." Alongside it sit difficulty receiving love and compliments, discomfort with genuine praise, and a reflex of deflecting anything warm. A system that cannot metabolize the thing it is asking for will keep asking. Supply never closes the deficit, which is why the same conversation can happen four times in a month with a partner who meant it every time.
 
 Three other mechanisms keep it running.
 
@@ -406,7 +422,9 @@ Every one of these patterns is a polarity with two ends, and each wounded trait 
 
 Read the right-hand column carefully, because it is deliberately unimpressive. Nobody in it is confronting anybody, and nobody in it stopped caring about the person they are with. The reaching simply stopped being the only move available. Earned security is mostly a person whose evening survives an unanswered message.
 
-Don't judge yourself if that column reads as out of reach today. The distance between the two columns took a childhood and then two decades of daily rehearsal to build, and nobody crosses it in a good fortnight.
+Don't judge yourself if that column reads as out of reach today. The distance between the two columns took a childhood and then two decades of daily rehearsal to build, and nobody crosses it in a good two weeks.
+
+Where the term itself comes from is worth one line, and it is not this page's to retell. Earned security is a classification that came out of interview research in the 1980s rather than a phrase invented for the internet, and [the secure attachment page carries that history, the coding it rests on, and the honest size of the claim.](/patterns/secure-attachment/)
 
 ## How Do You Move Toward It Without Blowing Up Your Relationship?
 
@@ -444,7 +462,7 @@ Longer than a week, and the honest answer runs at two different speeds.
 
 Recognition arrives quickly. Most people can catch the pattern mid-flight within a few weeks of deliberate attention: noticing the third draft as you write it, seeing the theory assemble itself before the evidence does. Catching it counts even on the days you send the message anyway.
 
-The body takes far longer. Your physical response to a silence was rehearsed daily for years, and it fades at the speed of accumulated experience rather than the speed of understanding. Understanding the mechanism as thoroughly as you now roughly do changes remarkably little on its own. Fifty silences let go of, each one genuinely felt, change a great deal. Expect a step pattern with long flat stretches, and expect a bad fortnight after any real ending, which does not undo the work.
+The body takes far longer. Your physical response to a silence was rehearsed daily for years, and it fades at the speed of accumulated experience rather than the speed of understanding. Understanding the mechanism as thoroughly as you now roughly do changes remarkably little on its own. Fifty silences let go of, each one genuinely felt, change a great deal. Expect a step pattern with long flat stretches, and expect a bad two weeks after any real ending, which does not undo the work.
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The pattern was identical every time. The workshop, the ceremony, the retreat itself never predicted who had actually changed a year later. What predicted it was what a person did with what came up, on the ordinary days afterward. [That is also why a week away only ever does half the job.](/retreats/personal-development-retreat/)
 
@@ -454,4 +472,4 @@ Run a silence log for seven days. Open a note on your phone. Every time you noti
 
 At the end of the week read the third column only, straight through, ignoring the other two. Almost everybody finds the same thing: a meeting that ran long, a dead battery, a bad night's sleep, a work problem that had nothing to do with anyone. That will not stop the tightening next Tuesday, and it does start building the one record this pattern has never had, which is a written account of silences that meant nothing. Your memory will not assemble that record on its own. It was trained to keep the exceptions.
 
-If what pulls at you is this pattern rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this material: real screening before anyone arrives, a group kept small enough that somebody used to reading a room gets met in it, and integration built into the design rather than left to you once you are home. Exact dates, price, and the final group size cap are still being finalised, so nobody comparing programs on those numbers today can yet compare ours. Ask any program these same questions, ours included. Feel into it and find out for yourself. A week spent learning what a silence feels like when you do not fill it is rarely wasted, whatever you decide afterward.
+If what pulls at you is this pattern rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this material: real screening before anyone arrives, a group kept small enough that somebody used to reading a room gets met in it, and integration built into the design rather than left to you once you are home. Exact dates, price, and the final group size cap are still being finalized, so nobody comparing programs on those numbers today can yet compare ours. Ask any program these same questions, ours included. Feel into it and find out for yourself. A week spent learning what a silence feels like when you do not fill it is rarely wasted, whatever you decide afterward.

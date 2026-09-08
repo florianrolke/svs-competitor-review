@@ -167,7 +167,7 @@ Underneath the asking sits a detection system tuned to a signal that historicall
 
 There is a second function, and it is the one people miss in themselves. The checking outsources a judgment that feels too dangerous to make alone. Is this okay. Is this still fine. Are we still fine. Somebody whose internal answers were historically wrong, or historically punished, learns to route those questions outward, and routing them outward feels like caution rather than dependence.
 
-A third function shows up in the autonomy version specifically. Asking before acting removes the possibility of having made an unauthorised decision. The reassurance being sought is permission wearing a friendlier face, and the relief when it arrives is the relief of not being in trouble.
+A third function shows up in the autonomy version specifically. Asking before acting removes the possibility of having made an unauthorized decision. The reassurance being sought is permission wearing a friendlier face, and the relief when it arrives is the relief of not being in trouble.
 
 Seen that way, none of this is irrational. It is an intelligent response to an environment that actually behaved that way, still running in an environment that does not. That is worth sitting with for a moment, because most people carrying this pattern have spent years treating it as evidence of weakness. It is evidence of having paid attention.
 
@@ -230,7 +230,7 @@ Every one of these patterns is a polarity with two ends, and describing only the
 | Reassurance evaporates within hours | Reassurance holds | A warm conversation on Monday is still usable on Wednesday with no repeat required |
 | A slow reply reads as a verdict | A slow reply reads as a busy afternoon | The phone goes face down and the day carries on |
 | Silence gets treated as data | Silence gets treated as silence | Nobody said anything, so nothing has been said |
-| Decisions need a second and third sign-off | Decisions close when you make them | You book the thing, then mention it afterwards |
+| Decisions need a second and third sign-off | Decisions close when you make them | You book the thing, then mention it afterward |
 | Check-ins fire on an internal clock | Check-ins fire on something real | You raise the thing that actually happened, once, on the day it happens |
 | A compliment gets tested, deflected, or needs repeating | A compliment gets received | Thank you, with nothing added and nothing returned |
 | The same question arrives four times a month | The question arrives when there is a question | One direct conversation replaces a month of indirect ones |
@@ -239,7 +239,7 @@ Read the right-hand column carefully, because it is deliberately unimpressive. N
 
 The clearest single marker is that silence stops being informative. In this pattern an unanswered evening is loaded with meaning. At the other end it means somebody was busy, which is what it usually meant all along.
 
-Don't judge yourself if that column reads as slightly out of reach right now. The distance between the two columns took years to build and nobody crosses it in a fortnight.
+Don't judge yourself if that column reads as slightly out of reach right now. The distance between the two columns took years to build and nobody crosses it in two weeks.
 
 ## What Actually Moves It?
 
@@ -281,6 +281,6 @@ The trajectory is genuinely different from standing still, and it is measurable 
 
 Start a two-line log, and run it for two weeks. Every time somebody reassures you, whether you asked for it or not, write down the time. Then, when the urge to check again arrives, write down that time too. Nothing else, no analysis, no journalling about what it means.
 
-At the end of the fortnight you will have your own number, which almost nobody carrying this pattern has ever seen. Most people are genuinely surprised by it in one direction or the other, and either result is useful. A gap of a few hours tells you what you are working with in specifics rather than adjectives. A gap of several days, in a person who assumed they were asking constantly, tells you the story you have been telling yourself about being too much is running well ahead of the evidence. And when the number starts moving, which it will before the feeling does, you will have something real to look at on the days it does not feel like anything is changing at all.
+At the end of the two weeks you will have your own number, which almost nobody carrying this pattern has ever seen. Most people are genuinely surprised by it in one direction or the other, and either result is useful. A gap of a few hours tells you what you are working with in specifics rather than adjectives. A gap of several days, in a person who assumed they were asking constantly, tells you the story you have been telling yourself about being too much is running well ahead of the evidence. And when the number starts moving, which it will before the feeling does, you will have something real to look at on the days it does not feel like anything is changing at all.
 
-If what pulls at you is the retention itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly checks in private cannot stay invisible inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to let something good stay landed is rarely wasted, whatever you decide afterward.
+If what pulls at you is the retention itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly checks in private cannot stay invisible inside it, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to let something good stay landed is rarely wasted, whatever you decide afterward.

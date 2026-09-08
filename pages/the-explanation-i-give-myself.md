@@ -68,7 +68,7 @@ faqs:
 - q: "How is this different from self-sabotage?"
   a: "Self-sabotage describes undermining something you are trying to build, usually as it starts going well. What this page describes runs in the opposite direction and does not undermine anything. It protects. The repair exists to keep your account of yourself intact after something has already happened, and it usually succeeds. Our fuller page on self-sabotage covers the other pattern, and the two get confused often."
 - q: "How long does this take to change, honestly?"
-  a: "The explanations themselves never stop arriving, and expecting that is the mistake people build their whole attempt on. What changes is what happens after they arrive, and one written rule can show you something within a fortnight. A standard that has been drifting for years takes considerably longer to hold still, and the honest range is months rather than weeks."
+  a: "The explanations themselves never stop arriving, and expecting that is the mistake people build their whole attempt on. What changes is what happens after they arrive, and one written rule can show you something within two weeks. A standard that has been drifting for years takes considerably longer to hold still, and the honest range is months rather than weeks."
 - q: "Is cognitive dissonance something a person can be diagnosed with?"
   a: "No. It is a descriptive term from social psychology, naming something that happens in everybody with no exceptions worth mentioning. Nobody is assessed for it and nobody is treated for it. If you have arrived here worried that noticing this in yourself means something is wrong with you, the accurate answer is that noticing it means your attention is working."
 - q: "When does this belong with somebody qualified rather than a page like this?"
@@ -203,11 +203,25 @@ Better than most things in this field for the effect, and considerably worse tha
 
 **And one more distortion, which is specific to this term.** Popular usage has drifted so far from the technical meaning that a study using the phrase and an internet post using the phrase are frequently describing different things entirely. The study means the repair. The post usually means an inconsistency somebody has spotted in an opponent. Anybody trying to check what is known about this by reading widely will find those two meanings interleaved with no warning that they have nothing to do with each other.
 
+## Does Self-Perception Theory Disprove Cognitive Dissonance?
+
+No, and it has never been ruled out either, which is an unsatisfying answer that happens to be the accurate one.
+
+The rival account was set out in 1967, in Psychological Review, in a paper called Self-perception: an alternative interpretation of cognitive dissonance phenomena. Its claim is that nothing uncomfortable has to be happening inside you at all. People have poor access to their own attitudes, so they work them out from the outside, by observing what they did and the conditions it happened under, then inferring what they must have thought in order to have done it. I am naming the paper rather than its author here, because the surname belongs to two researchers whose work has nothing to do with each other, and the other one is cited elsewhere on this site for something entirely unrelated.
+
+The demonstration that made it hard to wave away was a simple one. People who merely read a description of the 1959 study, and who therefore had no discomfort of their own to resolve, predicted the participants' reported attitudes from the outside and got them right. If an observer with nothing at stake can reproduce the result, the inner state may not be the thing producing it.
+
+What eventually happened was a division of territory rather than a verdict. A 1977 experiment in the Journal of Experimental Social Psychology found each account fitting a different range: where the behavior sits well outside the position you already hold, the discomfort account predicts better, and where it sits close to it, the inference account does. Nothing since has improved on that decisively, and the argument went quiet mostly because the field found other things to do.
+
+On the evening this actually happens to you, the two accounts agree about everything you can observe. The belief ends up where the behavior already is. What they disagree about is the story of how it got there, and if anything the inference account is the more uncomfortable of the two, because it describes no repair being run on your behalf at all, only a person reading their own conduct and drawing the obvious conclusion from it.
+
 ## Why Does the Belief Move Instead of the Behavior?
 
 Because of when the repair runs, and this is the sentence to keep if you keep only one.
 
 It runs afterward. The pressure does not exist before the act, because before the act there is no contradiction to resolve. It appears in the moment the behavior becomes a fact, and at that moment the two things in tension are in radically different conditions. One is finished. The other is not.
+
+The timing has been measured outside a laboratory. In 1968, in a paper called Postdecision dissonance at post time in the Journal of Personality and Social Psychology, Knox and Inkster asked people at a racetrack how confident they felt about the horse they had picked, and found that the ones who had just handed over the money rated its chances markedly higher than an equivalent group asked while still standing in line to back the same horse. Nothing separated the two groups except whether the act had become irrevocable. The limits are worth stating: about a hundred and forty people, one track, a single confidence rating, and two groups compared against each other rather than the same people asked twice.
 
 Consider what would actually be involved in moving the behavior instead. You would have to undo something that already happened, which is impossible, so in practice moving the behavior means accepting the contradiction and carrying it: I hold this rule, I broke it, both remain true, and the discomfort stays. Nothing about that is unavailable to a person. It is just expensive, and it has to be paid every time, and the alternative is free.
 
@@ -218,6 +232,8 @@ This is also why the argument you have with yourself the next morning goes nowhe
 ## Why Does It Sound Thinner When You Say It Out Loud?
 
 Because inside your head it has never once had to survive an audience that was not already on its side.
+
+This has been measured in settings nothing like yours, and the shape of the result is the useful part. Work on the illusion of explanatory depth, published in Cognitive Science in 2002, found that people rate their understanding of ordinary objects highly and then rate it far lower once they have been made to spell out how the thing actually works, and a 2013 paper in Psychological Science, called Political extremism is supported by an illusion of understanding, reported the same deflation when people had to explain how a policy would operate, while simply listing their reasons for holding it left them where they started. I am naming the papers rather than their authors, since [another page on this site](/patterns/most-attached-to-the-ones-who-hurt-me/) already carries that attribution. Neither study went anywhere near a personal excuse and the 2013 shift was modest in size, so take the pair as a description of the mechanism rather than proof about your own evening: reasons hold up when spoken, an account of how something came about generally does not, and a friend who asks how rather than why has asked for the second kind without knowing it.
 
 An explanation held privately gets tested against nothing. It arrives, it fits, the discomfort stops, and that is the entire quality-control process. There is no version of you standing slightly back and asking whether the third clause is doing work the first two failed to do. The listener and the speaker are the same person and that person wanted the matter closed.
 
@@ -238,6 +254,8 @@ No, and getting this wrong will cost you the whole page.
 The material is true. It genuinely was a long week. You genuinely were not driving. One of them genuinely does not matter very much on its own. If any of those were false the explanation would not work, because you would catch it, and the whole point of the repair is that it passes inspection by the only inspector present.
 
 What is inaccurate is smaller and much harder to see. The explanation makes a claim about causation that it never states out loud. It presents itself as the reason the thing happened. It is actually a set of true facts that were available in the environment, selected afterward because they fit, and assembled into a shape that resolves a contradiction. The facts are real. The causal claim is retrofitted, and the retrofitting is invisible because nothing false was used to do it.
+
+One study separates sincerity from accuracy about as cleanly as this can be done. Johansson and colleagues reported in Science in 2005 that people who chose the more attractive of two pictured faces, and were then handed back the face they had rejected by sleight of hand, mostly failed to notice the swap and went straight on to give confident, specific reasons for a preference they had never expressed. Those reasons were not dishonest, only produced in good faith and at speed about something that had not happened. Roughly a quarter of the switched trials were caught, and it was a card task with strangers' faces rather than a life, so what it shows is that a sincere reason can be built for the wrong event, never that yours always is.
 
 This distinction is the reason the standard advice does nothing. Being told to stop lying to yourself lands on somebody who is not lying, and the instruction bounces, correctly. You examine the explanation, find it accurate, and conclude that this particular framework does not apply to you. It applies exactly as much as it did before, because accuracy was never the issue.
 
@@ -317,6 +335,8 @@ When the cost of the behavior lands on you alone, the explanation only has to sa
 
 **The structural tell, and it is reliable.** An explanation covering a cost that falls on somebody else will contain a claim about that person's inner state. They did not mind. They would have said something. They were fine about it. It was not a big deal to them. Whichever version arrives, that clause is doing the heaviest work in the whole account and it is the only part with no evidence underneath it at all.
 
+The confidence in that clause has been measured, and it points the wrong way. A 2011 paper in the Journal of Experimental Social Psychology called The closeness-communication bias reported that people were markedly more certain of having been understood by a spouse or a close friend than by a stranger, while being no more accurate with the spouse than with the stranger. I am naming the paper rather than its authors, since [our page on rewriting messages before you send them](/patterns/rewriting-messages/) carries the earlier study in the same line of work. It was ambiguous phrases in a laboratory rather than a cost landing at home, so read it as evidence about your own certainty and not about what the other person actually felt.
+
 Sometimes the claim is correct. Often it is a guess made by somebody who needed a particular answer, and the guess is systematically biased in the direction that resolves the contradiction. Where the other person has reason not to say anything, because saying something has been costly before, the guess is even less reliable and more confident.
 
 There is a further move that shows up at this root and nowhere else. The explanation begins to include an account of the other person that makes the cost more acceptable, and that account gets slightly worse over time. They are difficult about things like this anyway. They overreact. That drift is worth watching for, because it is a second standard moving, and it does its moving in the same quiet way as the first.
@@ -351,6 +371,22 @@ You have the material for this already. It requires no new observation, only sor
 
 Two notes on reading this. Most people land on one strongly and one faintly, and the faint one is frequently the more useful, because the strong one is often the version that is easiest to admit. And the fifth root can sit underneath any of the other four, since it describes how long a repair has been running rather than what it is for.
 
+## Why Do I Explain Away Missed Commitments to My Boss Even When I Meant to Keep Them?
+
+Because you meant it and you missed it, and only one of those two facts is still soft enough to edit.
+
+The intention was real, and that is worth settling before anything else, because most people arrive at this convinced they must have been insincere at the moment they agreed. A 2006 meta-analysis in Psychological Bulletin pooled forty-seven experiments that had successfully shifted people's intentions and found that a medium-to-large change in intention produced only a small-to-medium change in what those people actually did. Meaning it and doing it are that loosely coupled in ordinary people under ordinary conditions. Most of those studies were about health behavior over short windows and none of them were about work, so take the number as a floor under the general point rather than a measurement of your own week. I am naming the analysis rather than its authors, since [another page on this site](/patterns/researching-instead-of-starting/) already carries that line of work.
+
+Then the miss happens and the repair runs exactly as described above, with one difference that changes how the whole thing feels. At work the account has to be said out loud, to somebody who was waiting for the thing. Said to a friend with no stake in it, an explanation deflates. Said to the person it cost, it gets rebuilt instead, because it now has to be acceptable to them, and the acceptable accounts are the ones pointing at causes outside your control: the other project, the illness, the person who never sent the file. [Another page carries the research on how people select their excuses](/patterns/saying-im-busy/), and the short version is that the material is usually true and the selecting is what does the work.
+
+What quietly moves is the status of the commitment rather than your view of yourself. By the time you have explained it twice, the thing you agreed to has become a target rather than a promise, something everybody understood to be provisional, the sort of date nobody was treating as exact. No announcement was made, and you could not name the afternoon it happened. It is the same notch this page has been describing all along, applied to an agreement instead of to a rule.
+
+The tell at work is the second person in the room. Your account will contain a claim about what they expected, and that claim will be the least evidenced part of it. They knew it was going to be tight. Nobody was actually waiting on it. That is the fourth root above, arriving in a place people do not look for it, because the cost has landed on somebody who is paid to absorb it.
+
+What to do is the same thing the rest of this page recommends, moved earlier in the sequence. Write the commitment down in the words you used and with the date you gave, at the moment you give it, somewhere nobody else has to see. Six weeks later there is a version from before, and whether you keep what you agree to becomes a fact instead of an atmosphere.
+
+If your version of this is mostly about agreeing to more than any week could hold, [the page on promising too much](/patterns/promising-too-much/) fits it better than this one does.
+
 ## Where Does This Sit Next to the Other Things It Resembles?
 
 Close to several, and the boundaries are worth stating precisely, because landing on the wrong page will send you after the wrong thing.
@@ -381,7 +417,9 @@ The third problem is timing. Every instruction of this kind points at the moment
 
 Notice what is being ruled out. Watching for your own rationalizations, which fails for the reasons above. Announcing intentions to somebody so they will check on you, which turns a private rule into a performance and produces explanations aimed at them instead of at you. And any general resolution to be more truthful, which is a rule with no number in it, and rules with no numbers are the most movable objects on this page.
 
-## What Is the Only Part of This You Actually Choose?
+## What Should I Write Down So I Can Catch My Standard Changing?
+
+Catching a standard while it moves needs a version of the rule from before it moved, and creating that version is the only part of this whole sequence you actually choose.
 
 Writing the rule down, in specific words, before the next occasion. That is the whole list.
 
@@ -425,7 +463,7 @@ And the standard sits still. That is the thing you notice a year out, reading so
 
 Longer than the reading of it suggests, and with a shape worth knowing in advance.
 
-The explanations never stop, and building an attempt around expecting them to is the most common way this goes wrong. A single written rule, on a behavior that actually matters to you, tends to produce something visible within a fortnight, and what it produces is usually information rather than improvement.
+The explanations never stop, and building an attempt around expecting them to is the most common way this goes wrong. A single written rule, on a behavior that actually matters to you, tends to produce something visible within two weeks, and what it produces is usually information rather than improvement.
 
 The one-minute test on whether a rule is yours can be run this afternoon and is often the fastest useful thing here, because retiring a rule that was never yours removes a whole category of this at once.
 

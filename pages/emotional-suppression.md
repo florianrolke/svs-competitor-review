@@ -22,7 +22,7 @@ faqs:
     point than a label.'
   q: What is it called when you push down your feelings?
 - a: Setting a feeling aside on purpose, to get through a shift or a hard hour, is
-    usually called compartmentalising, and it is a genuine skill as long as you can
+    usually called compartmentalizing, and it is a genuine skill as long as you can
     pick the thread up afterward. It becomes suppression once the setting aside stops
     being a decision and the feeling never gets collected. The test takes ten seconds.
     Can you say, later that evening, what you actually felt at the time?
@@ -337,7 +337,9 @@ Whatever the specific route, the exit ramp for the emotion closed early enough t
 
 Not every case traces back to a dramatic household, and plenty of people reading this will describe their childhood as fine and mean it. A house where nothing bad happened and nothing much got noticed produces this just as reliably, because a feeling nobody registers is a feeling that stops being worth producing. [The wound made of something that never arrived](/patterns/childhood-emotional-neglect/) covers that quieter version in full.
 
-## What Is the Suppression Actually Protecting?
+## Why Do I Push My Feelings Down Even When I Am Alone?
+
+Because whoever might be watching was never the thing it was guarding against. The block sits between you and the feeling rather than between you and the audience, so an evening with nobody due to arrive changes very little about whether it fires. That is the strongest clue available, and it leads directly to the question this section answers: what is the suppression actually protecting?
 
 Several different things at once, depending on which house produced it, and most adults are running more than one line of defense simultaneously.
 
@@ -380,7 +382,9 @@ The composure row is the one that costs people the most years. The absence of vi
 
 The last row separates this from a fear of being seen. Fear of exposure is about the audience: the feeling would be perfectly fine to have if nobody were watching. Suppression fires alone, in an empty house, with the phone off, because the block is aimed at the feeling itself.
 
-## Why Does the Feeling Turn Up Three Days Late?
+There is also a measure of this, if you want something less private than a self-assessment. A 2003 paper in the *Journal of Personality and Social Psychology* titled "Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being" introduced a short set of questions separating two habits: changing how you read a situation while the feeling is still forming, and holding the expression down once the feeling has already arrived. Across five studies, the people who leaned on the holding-down half reported less positive feeling, more negative feeling, and worse functioning with other people than the reappraisers did. What that measure cannot do is decide any one week for you. It asks what you generally do, so it records your report of a habit rather than the block as it happens, and a genuinely steady person and a thirty-year blocker can answer several of the same items identically. The separation still shows up where this section puts it: in whether the feeling is still reachable once you are alone.
+
+## Why Do My Feelings Hit Me Hours or Days After Something Happens?
 
 Because a blocked feeling does not evaporate. It waits, and it takes the first opening it is offered.
 
@@ -394,7 +398,9 @@ The third is the body, which files a complaint when no other channel is availabl
 
 None of these routes are chosen. They are what a feeling does when its intended exit is closed, and their timing is why the whole pattern is so hard to spot. Cause and effect land days apart, so the effect gets attributed to whatever happens to be nearby.
 
-## Where Does It Hide When You Would Not Call It Suppression?
+## How Does Bottling Things Up Affect My Relationship With My Partner?
+
+Quietly, and mostly by making you easy to live with and hard to reach at the same time. That is one of six arenas though, so the question this section answers is the broader one: where does it hide when you would not call it suppression?
 
 In at least six arenas, and most people recognize themselves in only one or two of them at first.
 
@@ -411,6 +417,8 @@ The good news row surprises people, because suppression gets discussed as though
 
 The work row deserves attention on its own, because it is the most heavily rewarded. Every promotion you were ever given for staying calm was, in part, payment for this. That makes it the hardest arena to run an experiment in and the last one most people change, which is fine. Change it somewhere cheaper.
 
+The partner row deserves more than one line, because that is where the cost compounds fastest. What a partner gets is somebody who is never difficult and never quite reachable. Your week arrives trimmed. The reaction to something they said on Sunday lands on Tuesday, attached to a late reply or a missed call. Questions about how you are get answered before you have checked. From inside, none of it feels like withholding, which is why people in this pattern are genuinely surprised by a partner who says they feel shut out. From where the partner stands, a shut door is still a shut door, and the usual response is to stop reaching for the handle. [What a partner actually registers when the answer comes back too fast](/patterns/saying-im-fine/) is handled on the page for the two-word version of this.
+
 ## Why Does the Body End Up Sending the Bill?
 
 Because when the usual exit is closed, the pressure has to register somewhere, and the body is where people in this pattern most consistently notice it.
@@ -419,7 +427,19 @@ The reports are strikingly similar: jaw and shoulder tension that arrives during
 
 An honest caveat belongs here. Whether the pattern produces those symptoms, or simply travels alongside them, is a question for a doctor, and physical causes are worth ruling out properly before anybody starts telling you a story about your emotions. Nothing on this page is a substitute for that conversation.
 
-What is worth noticing either way is the timing. If you keep a rough record for a fortnight, the pattern usually announces itself: the tension shows up after specific interactions, not randomly, and the interactions it follows are the ones where something got held. That correlation is available to you without any medical opinion at all, and it is often the first evidence people find that the feeling was there the whole time.
+What is worth noticing either way is the timing. If you keep a rough record for two weeks, the pattern usually announces itself: the tension shows up after specific interactions, not randomly, and the interactions it follows are the ones where something got held. That correlation is available to you without any medical opinion at all, and it is often the first evidence people find that the feeling was there the whole time.
+
+## What Does Research Say About the Health Effects of Emotional Suppression?
+
+Less than the strongest headlines claim, and more than nothing. The honest summary is that habitual suppression turns up as a small association with worse health in big samples measured over years, and that no study shows it producing a particular outcome in a particular person.
+
+The work that pushed hardest at that question is a 2013 paper in the *Journal of Psychosomatic Research* titled "Emotion suppression and mortality risk over a 12-year follow-up." In a nationally representative United States survey, 729 adults answered a short set of questions about holding feelings back, and deaths in that group were counted over the following twelve years. Over that window 111 of them died. Comparing somebody scoring at the 75th percentile for suppression against somebody at the 25th, the model returned a hazard ratio of 1.35 for death from any cause, a risk roughly a third higher, after adjusting for age, gender, education and ethnicity.
+
+Now the part that usually gets dropped. The confidence interval around 1.35 ran from 1.00 to 1.82. Its lower edge is 1.00, the value that means no difference at all, and the p value landed at .049, a whisker under the conventional cutoff. This is a survey followed forward in time rather than an experiment. Suppression was measured once, by asking people about themselves, twelve years before anybody counted anything. People who describe themselves as holding feelings back differ from people who do not in a hundred ways nobody measured, and any of those could be carrying the association. One study of 729 people, with an interval touching the no-difference line, is a reason to keep looking rather than a finding to build a fear on.
+
+What sits on firmer ground is the short-run load. The physical cost of holding an expression down while a feeling is running has been measured directly, in controlled settings, rather than inferred across a decade: the display goes down, the internal experience does not follow it down, and the effort registers in the body while it is happening. [That evidence is covered in detail where the two-word answer lives](/patterns/saying-im-fine/), and it is the better place to read it.
+
+For anybody reading this, though, the usable evidence is closer to hand than either. The fourteen-day timing record described in the section above will tell you whether your own tension follows particular conversations or arrives at random. That correlation is yours, it takes no equipment, and it moves when the pattern moves. No hazard ratio computed across 729 other people can tell you what Wednesday did to your shoulders.
 
 ## What Does Emotional Expression Actually Look Like Day to Day?
 
@@ -433,7 +453,7 @@ Expression means noticing a feeling close to when it happens, rather than three 
 | Every wave intercepted at the first twinge | The wave gets its fifteen seconds | Sadness rises in the kitchen, runs its course, and is genuinely finished |
 | Composure performed, at cost | A plain sentence, at almost no cost | "That landed badly, give me a second" |
 | Decisions made on autopilot with the feeling still lodged | A short pause before the reply | The message gets sent four minutes later instead of instantly |
-| Crying at an unrelated film a fortnight on | Crying at the thing that is sad, on the day | The tears show up at the actual news, in the actual room |
+| Crying at an unrelated film two weeks on | Crying at the thing that is sad, on the day | The tears show up at the actual news, in the actual room |
 | The body filing the complaint | The body left out of it | No jaw ache on Friday about a Tuesday conversation |
 | Only approved emotions allowed through | The whole range available | Disappointment, envy, and relief get named as readily as gratitude |
 | Humor used to close the moment | Humor used because something is funny | The joke arrives after the feeling, rather than instead of it |
@@ -467,11 +487,13 @@ It is also worth knowing which mode of avoidance is actually yours, since suppre
 
 I spent five years and more than five thousand hours doing this kind of work on myself before I built anything around it, and more than fifty thousand dollars on seminars, therapy, books, and teachers, some found in the jungles of Vanuatu, some in the jungles of Peru. The thing that took me longest to accept was how unglamorous the mechanism is. It is small and freaking repetitive, and no ceremony, insight, or particularly good conversation ever substituted for the fiftieth time a minor feeling got noticed on the day and survived being noticed. Where it sits for me now is worth saying plainly: the delay has shortened a great deal over the years, and under enough pressure it still lengthens again, and I would rather tell you that than sell a finished version of something nobody finishes.
 
-## What If Expressing It Really Would Cost You Something?
+## What Should I Do When My Boss Makes It Unsafe to Show Emotion?
+
+Judge the room accurately, keep the disclosure to yourself, and pick the feeling up later somewhere it cannot cost you anything. That answer holds well past work, which is the general form of the question: what if expressing it really would cost you something?
 
 Then do not express it, and feel it anyway. Those are two separate decisions, and collapsing them is what keeps a lot of people stuck.
 
-Some rooms genuinely are unsafe. A workplace where visible feeling would be used against you, a family gathering with somebody who weaponises information, a negotiation, a courtroom, a hospital corridor where somebody else needs you to be steady for the next hour. Choosing not to disclose in those rooms is an accurate read of the situation and there is nothing to fix about it.
+Some rooms genuinely are unsafe. A workplace where visible feeling would be used against you, a family gathering with somebody who weaponizes information, a negotiation, a courtroom, a hospital corridor where somebody else needs you to be steady for the next hour. Choosing not to disclose in those rooms is an accurate read of the situation and there is nothing to fix about it.
 
 The difference is whether you still know what you feel. A person making a disclosure decision can tell you, in the car afterward, precisely what happened in that meeting and what it did to them. A person suppressing cannot, because the block ran upstream of the report.
 
@@ -491,10 +513,12 @@ Is that frustrating? Yes, and I would rather say so than sell a faster route tha
 
 One reassurance that people find genuinely useful. Nobody is asking you to become expressive as a personality. Plenty of people finish this work still quiet, still private, still the steady one in a crisis, with the single difference that they now know what they feel and can say it when it matters. That is a smaller change than it sounds and a much bigger one than it looks.
 
-## What Is One Thing to Do Today, Before You Try to Feel Anything Bigger?
+## What Can I Do Today to Stop Automatically Bottling Up My Feelings?
+
+One thing, deliberately small, and chosen before you attempt anything bigger. It is a measurement rather than an attempt to feel differently.
 
 Run a delay log for forty-eight hours. Open a note on your phone. Every time you notice you are feeling something, write two things: the feeling in one word, and roughly when the event that caused it actually happened. Nothing else. No analysis, no plan, no attempt to feel it differently.
 
 Then read it on the second evening and look only at the gaps. Most people are genuinely surprised, because the gaps turn out to be hours or days rather than minutes, and several entries will point back to something they had already decided did not bother them. That gap is the actual measurement of this pattern, and it is the first number that moves when things start to change, usually well before anything feels different. Two days of noticing costs you nothing, and it gives you a baseline you can check again in three months.
 
-If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who stays composed through everything cannot quietly disappear inside it, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent letting something arrive on time, for once, is rarely wasted, whatever you decide afterward.
+If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who stays composed through everything cannot quietly disappear inside it, and integration built into the design rather than left for you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and choose the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent letting something arrive on time, for once, is rarely wasted, whatever you decide afterward.

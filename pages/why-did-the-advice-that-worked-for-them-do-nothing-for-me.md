@@ -68,7 +68,7 @@ faqs:
     sense of mattering at the same time. Avoiding a project can deliver protection
     from what a poor outcome would say about you. The pattern persists because it
     is being paid, on time, every time. Removing it without replacing what it delivered
-    is why so many sincere attempts fold within a fortnight.
+    is why so many sincere attempts fold within two weeks.
   q: What does it mean that a behavior is "meeting a need"?
 - a: 'Watch what you reach for during a genuinely hard week rather than answering
     a quiz on a calm Sunday. The dominant pair shows up under pressure: in what you

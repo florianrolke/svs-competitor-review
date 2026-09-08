@@ -25,7 +25,7 @@ faqs:
 - a: When it is constant rather than triggered, it usually points at a baseline instead
     of an event. Loneliness with a cause comes and goes with the cause. This kind
     sits underneath the whole week, present at dinner with friends and present on
-    the train home afterwards, because it tracks something that went missing long
+    the train home afterward, because it tracks something that went missing long
     before any of the current people arrived. The constancy is the clue, and it responds
     to practice rather than to more company.
   q: Why do I feel lonely all the time?
@@ -96,7 +96,7 @@ faqs:
   q: Why do I feel a small panic when plans fall through unexpectedly?
 - a: A room full of people can supply activity without supplying the thing that was
     actually needed, which is being specifically registered by somebody. Then the
-    noise stops. The contrast between a loud evening and the ride home afterwards
+    noise stops. The contrast between a loud evening and the ride home afterward
     makes the underlying loneliness more visible rather than less, which is why the
     drop can arrive within minutes of leaving somewhere you genuinely enjoyed.
   q: Why do I feel more lonely after a party than I did before I went?
@@ -140,8 +140,8 @@ faqs:
     and the pattern keeps running unexamined for decades.'
   q: Is dissatisfaction in solitude a survival response?
 - a: Because the threshold was set low a long time ago. Somebody whose attention was
-    reliably returned in childhood can go a fortnight with little contact and register
-    it as a busy fortnight. Somebody whose attention was rarely returned can register
+    reliably returned in childhood can go two weeks with little contact and register
+    it as a busy two weeks. Somebody whose attention was rarely returned can register
     three unanswered messages as a pattern. The trigger looks small from outside because
     the meaning it activates was built early, and meanings built that early fire before
     anything gets weighed.
@@ -273,7 +273,7 @@ Read them slowly. What matters is the small physical jolt when one of them turns
 
 Notice what the first one does. It welds two completely separate facts together: the fact of being by yourself, and a conclusion about your worth. Once those are fused, an ordinary Tuesday evening at home stops being an evening and starts being information about whether you are wanted. Nobody can rest inside information like that, which is why the quiet gets filled within minutes and why it has to be filled again the next night.
 
-The fourth sentence carries the whole mechanism in nine words. Being alone gets read backwards, as a result rather than as a circumstance, and the reason it supplies is always the same reason. Somebody in this pattern rarely thinks "nobody was free tonight". They think something considerably worse and considerably older, and they think it fast enough that it never gets examined.
+The fourth sentence carries the whole mechanism in nine words. Being alone gets read backward, as a result rather than as a circumstance, and the reason it supplies is always the same reason. Somebody in this pattern rarely thinks "nobody was free tonight". They think something considerably worse and considerably older, and they think it fast enough that it never gets examined.
 
 ## When Does This Belong With a Professional Rather Than a Page Like This?
 
@@ -293,7 +293,7 @@ A child needs more than adults in the building. They need attention that comes b
 
 This is why the usual advice bounces off so completely. See more people. Join something. Put yourself out there. All reasonable, all aimed at supply, and supply was rarely the problem. Somebody in this pattern can attend four social events in a week and end the week exactly as lonely as they started it, then quietly conclude that the loneliness must be a fact about them rather than about how the events were being processed.
 
-Two neighbouring mechanisms produce a very similar-looking evening and get covered elsewhere, because both are worth a page of their own. The first is concealment: showing an edited, managed version of yourself, so any warmth arriving in the room lands on the presented version and never quite reaches you. [That is worked through in detail on the page about the fear that people leave.](/patterns/fear-of-abandonment/) The second is monitoring: watching a partner's tone and timing so closely that the watching becomes a solitary activity no matter who is sitting next to you. [That belongs with the anxious pattern and is unpacked there.](/patterns/anxious-attachment-style/)
+Two neighboring mechanisms produce a very similar-looking evening and get covered elsewhere, because both are worth a page of their own. The first is concealment: showing an edited, managed version of yourself, so any warmth arriving in the room lands on the presented version and never quite reaches you. [That is worked through in detail on the page about the fear that people leave.](/patterns/fear-of-abandonment/) The second is monitoring: watching a partner's tone and timing so closely that the watching becomes a solitary activity no matter who is sitting next to you. [That belongs with the anxious pattern and is unpacked there.](/patterns/anxious-attachment-style/)
 
 The mechanism on this page sits earlier and simpler than either. There is nothing being hidden and nothing being scanned for. Attention was never mirrored in the first place, so presence does not automatically register as being seen, regardless of how open you are being or how carefully you are or are not watching anyone.
 
@@ -343,7 +343,7 @@ From finding out what an unfilled hour would feel like, which nobody in this pat
 
 The behaviors built on top of this are doing one of two jobs, and most people run both at different points, sometimes in the same week. The first job is pre-emptive. Staying busy, staying accompanied, staying inside a relationship that has visibly stopped working, all of it serving the purpose of never actually testing what stillness would produce. If being alone has always meant an unbearable flatness, avoiding it entirely is cheaper than finding out whether it is still unbearable now. The strategy works. That is the awkward part. It works well enough to run for thirty years without ever being examined.
 
-The second job is explanatory rather than avoidant, and it is the more painful of the two. Resigning yourself to loneliness functions as a defense: deciding in advance that connection is not coming means a later disappointment cannot land as freshly, because it was already priced in. Somebody in that position stops reaching out, stops suggesting things, stops expecting the message back, and every unreturned message afterwards confirms a conclusion that was reached before the message was ever sent. The resignation is genuinely protective, and it also quietly manufactures the exact outcome it was built to soften.
+The second job is explanatory rather than avoidant, and it is the more painful of the two. Resigning yourself to loneliness functions as a defense: deciding in advance that connection is not coming means a later disappointment cannot land as freshly, because it was already priced in. Somebody in that position stops reaching out, stops suggesting things, stops expecting the message back, and every unreturned message afterward confirms a conclusion that was reached before the message was ever sent. The resignation is genuinely protective, and it also quietly manufactures the exact outcome it was built to soften.
 
 Underneath both jobs sits the same trade. Manufacture the attention, the activity or the company that did not arrive on its own, because an unfilled hour alone always carried a second meaning underneath the first one. It was the room the original absence lived in, and nobody willingly walks back into that room to check whether it is still furnished the same way.
 
@@ -351,11 +351,11 @@ Underneath both jobs sits the same trade. Manufacture the attention, the activit
 
 Because they are one strategy pointed in two directions, and both are answers to the identical question.
 
-This is the part people find hardest to explain to themselves, and it is the part that makes them suspect they are simply inconsistent or difficult. One month is spent seeking company relentlessly: filling the calendar, saying yes to everything, being the one who organises. The next month, or the next week, or occasionally the same week, is spent canceling, going quiet, and feeling relief at a plan falling through. Both feel entirely sincere while they are happening.
+This is the part people find hardest to explain to themselves, and it is the part that makes them suspect they are simply inconsistent or difficult. One month is spent seeking company relentlessly: filling the calendar, saying yes to everything, being the one who organizes. The next month, or the next week, or occasionally the same week, is spent canceling, going quiet, and feeling relief at a plan falling through. Both feel entirely sincere while they are happening.
 
 The question underneath both is what happens when nobody else is organizing the hour. Seeking constant company answers it by making sure the hour never arrives. Withdrawing answers it by getting to the flatness first, on your own terms, before anybody else can hand it to you. Neither answer requires you to find out whether an ordinary quiet evening is survivable, which is what both were built to avoid.
 
-There is a version of this that runs specifically in relationships, and it looks like desperation for closeness sitting right beside an avoidance of it. Somebody can spend a fortnight wanting more contact than a partner is offering and then, when the contact arrives, find themselves oddly flat and looking for space. Nobody in that loop is being manipulative. Two protective moves built in the same childhood are running one after the other, and the person running them is usually the most confused party in the room.
+There is a version of this that runs specifically in relationships, and it looks like desperation for closeness sitting right beside an avoidance of it. Somebody can spend two weeks wanting more contact than a partner is offering and then, when the contact arrives, find themselves oddly flat and looking for space. Nobody in that loop is being manipulative. Two protective moves built in the same childhood are running one after the other, and the person running them is usually the most confused party in the room.
 
 ## Where Does It Show Up in an Ordinary Week?
 
@@ -371,7 +371,7 @@ In seven fairly ordinary places, and most people recognize themselves in only tw
 | A quiet week where nobody needs anything from you | Restlessness, a hunt for a project, a sense of having been forgotten | "I need constant reassurance that I'm valued, or I feel invisible." |
 | The stretch after a disappointment | Canceling, going quiet, deciding in advance that nobody was coming anyway | "If I isolate myself, I can avoid the pain of abandonment." |
 
-The fifth row lands hardest for people who consider themselves sociable and generous, because from the outside it looks like the opposite of loneliness. A large, warm circle where you are permanently the organiser, the host and the person who checks in first can be one of the most effective hiding places this pattern has. Usefulness guarantees a place in the room. It does very little for the question of whether you would still have one if you stopped being useful, and that question is exactly what a quiet week puts on the table.
+The fifth row lands hardest for people who consider themselves sociable and generous, because from the outside it looks like the opposite of loneliness. A large, warm circle where you are permanently the organizer, the host and the person who checks in first can be one of the most effective hiding places this pattern has. Usefulness guarantees a place in the room. It does very little for the question of whether you would still have one if you stopped being useful, and that question is exactly what a quiet week puts on the table.
 
 The sixth row surprises people most. A week with no demands in it reads, on paper, as a gift, and arrives as something closer to an accusation. Where worth got tied to being needed, an absence of need registers as an absence of worth, and the restlessness that follows has nothing to do with boredom.
 
@@ -381,7 +381,7 @@ Because the comparison being run is not the one everybody else assumes you are r
 
 From the outside it looks like a choice between a poor relationship and a better one, and the obvious advice follows: you deserve more than this, leave and find somebody who treats you properly. From the inside the comparison is completely different. It is between a disappointment you already know by heart and an emptiness that has never once, in your whole life, been tolerable. Set against that second option, another month of the known disappointment can genuinely look like the safer bet, and it is worth saying plainly that this is a reasonable calculation given the inputs. The inputs are what is wrong, not the arithmetic.
 
-This is also why leaving on the strength of a good week rarely holds. Somebody ends things while feeling strong, spends four evenings in the empty apartment, and is back inside a fortnight, having discovered that the thing they left was more bearable than the thing they left for. Then the whole episode gets filed as evidence that they were wrong to want out, when what it actually demonstrated is that the alone-time work had not been done yet.
+This is also why leaving on the strength of a good week rarely holds. Somebody ends things while feeling strong, spends four evenings in the empty apartment, and is back inside two weeks, having discovered that the thing they left was more bearable than the thing they left for. Then the whole episode gets filed as evidence that they were wrong to want out, when what it actually demonstrated is that the alone-time work had not been done yet.
 
 Which points at an unglamorous conclusion. For a lot of people in this pattern, the relationship decision is downstream of a completely different piece of work, and taken first it tends to get taken badly. Build some tolerance for the empty evening, and the relationship question becomes answerable, because for the first time it is being asked about the relationship.
 
@@ -444,4 +444,4 @@ Run a fill log for three days. Open a note on your phone and write down every si
 
 Then read the list on the third night. Two things usually show up, and both are useful. The first is the sheer count, which is almost always higher than anyone predicts. The second is that the discomfort numbers are lower than the behavior implies, because most of these gaps are being filled reflexively at a two rather than desperately at a five. Finding a page full of twos is oddly good news. It means the thing being avoided is currently much smaller than the avoidance, and it costs you nothing beyond three days of noticing to find that out.
 
-If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly makes themselves useful to everybody cannot hide inside it, and deliberate time built into the design where nothing is scheduled and nobody is organizing the hour for you. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning that your own company is survivable is rarely wasted, whatever you decide afterward.
+If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anyone arrives, a group kept small enough that the person who quietly makes themselves useful to everybody cannot hide inside it, and deliberate time built into the design where nothing is scheduled and nobody is organizing the hour for you. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning that your own company is survivable is rarely wasted, whatever you decide afterward.

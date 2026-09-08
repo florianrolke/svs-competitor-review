@@ -85,7 +85,7 @@ faqs:
 - a: It is extremely common, particularly where love was quietly metered against performance.
     The evaluating voice was installed early and keeps running long after the parent
     has stopped speaking, which is why one small remark from them at forty can still
-    reorganise a week. Wanting it is not a failure to grow up. Building a sense of
+    reorganize a week. Wanting it is not a failure to grow up. Building a sense of
     worth that no longer depends on their specific verdict is the part that takes
     real work.
   q: Is it normal to still want my parents' approval as an adult?
@@ -163,7 +163,7 @@ faqs:
     of work and deliberately telling nobody for a day is the cheapest way to see the
     mechanism working.
   q: Why do I feel a compulsive urge to tell people about my accomplishments?
-- a: 'Yes, and that version goes unrecognised for years. The same wound can be managed
+- a: 'Yes, and that version goes unrecognized for years. The same wound can be managed
     by pursuit or by pre-emption, and pre-emption decides in advance that it will
     not need anything from anyone. It reads as maturity from the inside. The tells
     are specific: declining help you could use, changing the subject when praise arrives,
@@ -288,7 +288,7 @@ The sentences below are the lines people actually run in their own heads, in the
 
 Read them slowly. What matters is the small physical jolt when one of them turns out to be yours word for word, with no translation required.
 
-Then notice what is missing from that list. Not one of them mentions wanting to be admired, envied, or thought impressive. Every single one is about whether something is still true: whether the love is there, whether it is there today, whether it counts. That is the particular flavour of this pattern, and it is why the pattern gets misfiled so often as ego or attention-seeking by people watching from outside.
+Then notice what is missing from that list. Not one of them mentions wanting to be admired, envied, or thought impressive. Every single one is about whether something is still true: whether the love is there, whether it is there today, whether it counts. That is the particular flavor of this pattern, and it is why the pattern gets misfiled so often as ego or attention-seeking by people watching from outside.
 
 The request almost never surfaces as a request, either. It arrives as "was that weird?" the day after an ordinary conversation. As "be honest, what did you actually think?" As a story told in more detail than the story needs, with the extra detail there to pull a reaction out of the listener. As a decision you already made, presented to a friend as though it were still open, so that their agreement can arrive and finish it.
 
@@ -330,7 +330,7 @@ None of these are stupid. That is worth sitting with for a moment, because the s
 
 ## Is It Validation-Seeking, or One of the Things It Gets Confused With?
 
-Worth checking carefully, because five neighbouring things produce similar-looking behavior from the outside and the right response to each one differs completely.
+Worth checking carefully, because five neighboring things produce similar-looking behavior from the outside and the right response to each one differs completely.
 
 The most common mix-up is with people-pleasing, and the distinction is worth getting exactly right. People-pleasing is about permission and being liked: you adjust what you do so that somebody does not get upset, disappointed, or distant. Validation-seeking is about confirmation of what is real: does this feeling count, was that the right call, am I actually loved. They coexist constantly and they are genuinely separable. You can placate a colleague you need nothing at all from, which is people-pleasing without any validation in it. You can run a decision past a friend with zero interest in whether they like you afterward, which is validation-seeking with no pleasing in it.
 
@@ -402,7 +402,7 @@ I spent five years and more than five thousand hours doing this kind of work on 
 
 Because both are being received as verdicts on the whole of you rather than as passing information about one piece of work.
 
-A compliment that would be pleasant to most people arrives instead as a ruling, and a ruling changes the state of things. That is why a single warm sentence can genuinely reorganise a day and why the effect fades so completely by the weekend: verdicts expire, and the case reopens. Criticism runs on the same machinery in the other direction. A note about one paragraph in one document gets processed as a statement about your competence, your standing, and possibly your value as a person, which is a wildly disproportionate response to a note about a paragraph and completely logical if the underlying question was never settled independently.
+A compliment that would be pleasant to most people arrives instead as a ruling, and a ruling changes the state of things. That is why a single warm sentence can genuinely reorganize a day and why the effect fades so completely by the weekend: verdicts expire, and the case reopens. Criticism runs on the same machinery in the other direction. A note about one paragraph in one document gets processed as a statement about your competence, your standing, and possibly your value as a person, which is a wildly disproportionate response to a note about a paragraph and completely logical if the underlying question was never settled independently.
 
 Silence is the worst of the three, and the reason is structural. A system built to catch disapproval early has to fire on weak signals, since the whole point is to notice before it becomes obvious. Silence is the weakest signal there is, so the machinery treats it as data and fills it in with the worst available reading. Nothing has actually been communicated. The absence of information gets replaced by the old expectation, which is why an unanswered message can generate three hours of internal argument out of literally nothing.
 
@@ -468,4 +468,4 @@ Run a verdict log for forty-eight hours. Open a note on your phone, and every ti
 
 Then read the list on the second night. Two things usually turn up. The first is volume, which is almost always higher than expected once the indirect versions are counted: the over-told story, the decision presented as still open, the question asked to invite a reaction rather than to get information. The second is more useful. In a large share of the entries, you already had your answer before you asked. You knew the work was good, you knew the message was fine, you knew what you wanted for dinner. What you were collecting was permission to believe your own reading. Seeing that written down in your own handwriting does more than any amount of being told you should trust yourself, and it costs you two days of noticing and nothing else.
 
-If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the person who quietly reads the room for approval all week cannot go unnoticed inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to trust your own reading of your own life is rarely wasted, whatever you decide afterward.
+If what pulls at you is the capacity itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the person who quietly reads the room for approval all week cannot go unnoticed inside it, and integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anyone comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent learning to trust your own reading of your own life is rarely wasted, whatever you decide afterward.

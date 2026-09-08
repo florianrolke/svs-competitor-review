@@ -74,7 +74,7 @@ faqs:
 - q: "How do I help someone who constantly puts themselves down?"
   a: "Do not contradict every line, since that turns you into their reassurance service and neither of you enjoys it. What helps is refusing the frame. Answer the plain content of what they said as though the joke had not been attached. Praise something specific and then change the subject before they can correct you. Repeated evidence that no discount is required does more than any observation about their speech."
 - q: "How long does it take to change this?"
-  a: "Noticing arrives inside a fortnight and the reflex takes months. Most people can hear the line as it leaves within two weeks of paying attention, which counts even on the days it still comes out. Catching it in time arrives unevenly, present in one room and absent in another. The last place it goes is usually the group with the longest history and the strongest expectation of your role."
+  a: "Noticing arrives inside two weeks and the reflex takes months. Most people can hear the line as it leaves within two weeks of paying attention, which counts even on the days it still comes out. Catching it in time arrives unevenly, present in one room and absent in another. The last place it goes is usually the group with the longest history and the strongest expectation of your role."
 - q: "When does this belong with a professional rather than a practice I run myself?"
   a: "When the jokes are the only way you can say something that is actually true and getting worse. When what you say about your body in company has started matching a change in how you eat. When the self-mockery sits alongside sleep broken for months or a flatness that has not lifted. Any thought of harming yourself belongs with a licensed professional now rather than later."
 related:
@@ -182,7 +182,9 @@ And if the room whose reactions you are pre-empting contains somebody who has ev
 
 The rest of this page is built for the costly but stable version, the one where you keep functioning, keep being the funniest person in most rooms, and keep quietly handing out an estimate of yourself that nobody asked for.
 
-## Why Does the Line Leave Before You Have Decided to Say It?
+## Why Do I Insult Myself Before Anyone Else Gets the Chance?
+
+The insult gets there first because getting there first is the whole of what it is for, and the part that still needs explaining is why the line leaves before you have decided to say it.
 
 Because it completes inside a second and it pays every single time, which is a combination almost nothing else you say can match.
 
@@ -201,6 +203,10 @@ By the time somebody close to you points it out, the response is almost always a
 When you could have said the plain version and simply preferred the joke, it is free. When the plain version was not available, the joke was carrying weight.
 
 This distinction has to be made honestly or the whole page becomes an argument against having a sense of humor, which would be both wrong and joyless. Self-deprecation is real social currency in most of the English-speaking world and in a great deal of Europe. In Britain, Ireland and Australia in particular, a person who cannot be funny at their own expense reads as arrogant, and the ritual version is a genuine social skill that opens doors. A leader who can laugh at their own mistake is easier to work for. A friend who can tell a story about their own worst evening is better company than one who cannot. None of that is under suspicion here.
+
+One study took this out of opinion and into recordings. Speer published a paper in the British Journal of Social Psychology in 2019, titled "Reconsidering self-deprecation as a communication practice", working through more than one hundred hours of transcribed interaction from a range of settings. It examined one narrow class of the behavior: critical comments a speaker makes about their own talk or actions while they are still talking. Those comments turned out to cluster where a conversation is in trouble or about to be, and to do a job in that spot rather than leaking a private opinion about the speaker. The paper also names the thing this page has been circling, which is a general preference in talk for criticizing yourself over being criticized by somebody else. Its most useful line for you is the one that cuts against the direction of this page: the findings suggest that the widespread advice to self-deprecate less may simply be wrong.
+
+Take that at its real size before you use it in either direction. It describes what the line does inside the next few seconds of a conversation, from recordings rather than from outcomes, so it says nothing about what a rehearsed set aimed at a fixed property of you does over the years. It also covers the version you make about what you are doing right now, which sits at the free end of the columns below, and not the version you loaded before you walked into the room. So it is good evidence that a blanket instruction to stop is bad advice, and no evidence at all that the expensive version costs nothing.
 
 What follows separates the version that costs nothing from the version quietly building a case, and the difference is never in how funny it is.
 
@@ -244,6 +250,24 @@ The bottom three rows are where the real expense sits. The partner one is worth 
 
 The last row is the most expensive and the least visible. When the discount required to enter a room feels too steep, the cheapest option is not to enter. Plenty of people who describe themselves as not really the ambitious type are running the completed version of this pattern, where the case has been made so thoroughly that nothing needs to be said out loud anymore. [Not being able to put yourself forward in the first place has its own page](/patterns/why-cant-i-speak-up/).
 
+## Why Has My Partner Stopped Reassuring Me When I Put Myself Down?
+
+Because contradicting you turned into a job, and a job nobody can ever finish gets put down eventually.
+
+Look at what the line actually does. You could do so much better than me works as a way of asking for contradiction rather than as a report on the relationship, phrased so that the only acceptable answer is a denial, and the denial has to arrive quickly and sound like it was meant. The first hundred times, it does. Somewhere after that the person answering starts to hear their own answer as a formality, which is roughly when the pauses get longer, and then the line goes out and nothing comes back at all.
+
+That silence is the moment most people in this pattern describe as the thing that settled it. It reads like the other person finally agreeing with what you have been saying about yourself for years. It almost never is. What has usually happened is that somebody ran out of ways to say the same sentence and began to suspect that nothing they said was landing, which is accurate, because reassurance aimed at a self-put-down does not stick to anything. There is nowhere in you for it to attach.
+
+Three things are true at once here, and holding all three is the useful part.
+
+The first is that nobody was being manipulated. The line came out the way it always comes out, a beat ahead of thought, and the ask inside it was never something you sat down and drafted.
+
+The second is that the ask was real anyway, and it was received. Living alongside somebody who narrates themselves at a discount is tiring in a way that is genuinely hard to name without sounding cruel, so it usually goes unnamed right up until it turns into silence.
+
+The third is that the silence is fatigue rather than a verdict, and you cannot tell those two apart from inside the pattern, because the pattern has an opinion about which one it is and states that opinion with great confidence.
+
+What moves this is having somewhere else for the reading of yourself to come from, so the sentence stops being issued in the first place. [The mechanics of needing reassurance, checking for it, and watching it lose its effect are set out on their own page](/patterns/seeking-constant-reassurance/), and the version that runs when there is no partner in the picture behaves the same way with friends, with colleagues, and in the end with nobody at all.
+
 ## Why Do Two People Say the Identical Line for Completely Different Reasons?
 
 Because a visible behavior under-determines its cause, every single time.
@@ -274,6 +298,20 @@ All of which is why the same advice produces such wildly different results. It c
 
 A label can be looked up in ninety seconds. A root has to be found, and found in you specifically, which is slower and considerably more useful.
 
+## Why Do I Put Myself Down Most Around My Boss or Other Authority Figures?
+
+Because authority means somebody in the room has the standing to deliver a verdict on you, and taking the lowest seat yourself means the verdict has nowhere to land.
+
+Everybody has a version of this that is worse than the rest of theirs. Ask people where their set comes out fastest and the answer is rarely social. It is a one-to-one with a manager, a call with the person who signs things off, a room where one opinion of you converts into what happens next. The material barely changes. It comes out three times as often.
+
+Two things are stacked in that room. The first is ordinary and nearly everybody has it: somebody with power over your week is sitting in front of you, and lowering your own reading of yourself first is a cheap way to make sure theirs cannot come as a surprise. The second is older and specific to you, and it is where the roots above start to matter. If the house you grew up in had somebody who held that kind of standing, and the safest available seat in that house was already the lowest one, then what you do in front of a manager is an old move running in a new room, on a person who has done nothing to earn it.
+
+The tell is the settling. Notice what happens in your body just after the line lands. Most people report something closing rather than something opening, a door being shut before anybody could walk through it. That closing is the payoff, and it is why the behavior survives most stubbornly in exactly the rooms where it would be worth the most to drop it.
+
+There is a reason it is most expensive there. The people who most need an accurate reading of what you can do are handed the least accurate one you own. A friend who hears you say you are hopeless at something knows you well enough to discount it. Somebody eight weeks into knowing you has nothing to discount it against, so they keep it, and they keep it as information rather than as charm.
+
+If this runs harder in front of authority than anywhere else in your life, the fact that it is worse there is the most informative thing you have about it. [Wanting one particular person's reading of you to come out right, and organizing yourself around that, has its own page](/patterns/why-do-i-need-validation/).
+
 ## Where Did This Get Installed?
 
 Usually somewhere that going low first was the most intelligent move available to you, and it worked.
@@ -298,13 +336,34 @@ More than the embarrassment, and in five places most people have never connected
 
 **It sets a price that nobody ever renegotiates.** People take you at your own valuation without deciding to and usually without noticing. Announce for two years, as a joke, that you are hopeless with numbers, and the work involving numbers routes quietly around you. The damage is rarely a bad impression of you. It is a set of opportunities that stopped being offered, by people who liked you a great deal and were simply taking your word for it.
 
-**It makes accurate feedback impossible.** Once you have discounted everything you produce, nobody can tell whether you are being modest or precise, so they stop trying to sort it out. Praise arrives more vaguely because it keeps getting corrected. And the correction was the thing you were quietly fishing for, so the whole exchange ends with you receiving less of exactly what you wanted. [Why praise slides off while criticism sticks is covered in its own place](/patterns/why-cant-i-accept-compliments/).
+**It makes accurate feedback impossible.** Once you have discounted everything you produce, nobody can tell whether you are being modest or precise, so they stop trying to work it out. Praise arrives more vaguely because it keeps getting corrected. And the correction was the thing you were quietly fishing for, so the whole exchange ends with you receiving less of exactly what you wanted. [Why praise slides off while criticism sticks is covered in its own place](/patterns/why-cant-i-accept-compliments/).
 
 **It is a rehearsal in your own voice, in public, with laughter attached.** This is the deepest one. You are the person who hears every one of these lines, and each is a claim about you delivered out loud and then immediately rewarded by a room. Nothing installs a belief faster than saying it yourself and being applauded for it. Whatever the pattern started as, it is now also a daily practice in a proposition you would reject instantly if somebody else stated it plainly. [Shame that attaches to who you are rather than to what you did behaves exactly this way](/patterns/toxic-shame/).
 
 **It protects you from ever being tested.** This is the one that lands last and cuts deepest. If every result comes pre-explained by a handicap you announced, then no result has ever been a clean measurement, which means the bad outcomes were never really about you and neither were the good ones. Years of this and you arrive at middle age with no idea how good you actually are at anything, which is a very strange and very lonely place to stand. [Arranging your own results so that nothing is ever put to the test has a wider version](/patterns/self-sabotage/).
 
 There is a sixth and it lands on other people. The ones who love you get handed a permanent job of contradicting you. Most will do it for years. Some will get quietly tired, and the tiredness arrives as silence, which you will read as agreement. That is among the more painful outcomes available here, since the whole behavior was built to keep people close.
+
+## Can Self-Deprecating Jokes Quietly Hurt My Career?
+
+Yes, and the damage is unusually easy to trace once you know where to look for it.
+
+The mechanism works through who gets asked rather than through anybody thinking less of you. A limitation you announce gets filed as a limitation, by people who like you and are simply taking your word for it, and filed limitations decide who gets offered what. Say for two years that you are hopeless with anything financial and the work with numbers in it goes to somebody else. Nobody decides that. Nobody tells you. The version of your career where you were the one who learned that part quietly stops being available.
+
+Four places it lands at work, in rough order of how expensive and how invisible they are.
+
+| Where the line goes | What it sounds like | What it turns into |
+|---|---|---|
+| The opening of a presentation | "I barely had time for this one" | The room grades the work against the warning you gave it |
+| A written profile or a signature | A self-mocking line sitting there permanently | A claim about you, on file, readable by people who have never met you |
+| An appraisal, or any conversation about how you are doing | Volunteering your weaknesses before anybody asks | Your own words quoted back inside a decision you were not present for |
+| A stretch role being discussed | "I would be the worst possible choice for that" | A name crossed off a list by somebody who thought they were doing you a favor |
+
+The third row is the one people connect to only years later. Almost everybody in this pattern is generous with their own faults in that conversation, because it feels like maturity and it usually gets a warm response in the moment. The warmth is real. What gets typed up afterward is also real, and it outlasts the conversation by a long way.
+
+Two limits on all of this, because it gets stated online with far more confidence than the evidence supports. Nothing here rests on a study that followed anybody's working life. The pratfall finding above was about how likable somebody seemed inside a short study, and stretching it into a claim about pay or standing would be inventing a result. What it does establish is narrower and still worth having: the same line is priced by what the room already believes about you, so the identical joke reads as generosity from somebody the room rates highly and as information from somebody it is still deciding about.
+
+The second limit is that this lands unevenly. Plenty of workplaces run on exactly this humor, and being the one person who cannot do it carries its own bill. The question worth asking is whether the funny thing you said was about a situation you were in or about a capacity you have. Being funny at work has never been the problem.
 
 ## Why Does Deciding to Stop Making the Jokes Move the Problem Somewhere Else?
 
@@ -374,12 +433,14 @@ Don't judge yourself if that middle column reads as out of reach today. The left
 
 By working on the cause and the conditions at the same time, in repetitions small enough that you do not have to become a different person by Friday.
 
+Step six is the one that decides whether any of this is bearable, and the reason it works was established earlier on this page: the humor-styles research separates being funny from using yourself as the material, so the two can move independently. Nothing in the list below asks you to be less funny.
+
 1. **Count for three days without changing anything.** A tally on your phone. Every line, spoken or typed, including the ones in a message you rewrote, plus the ones you swallowed and thought anyway. Add who was present. Three days is enough, and most people are more shaken by their own number than by anything anybody has ever said to them about it.
 2. **Write one word beside each for what was happening just before.** New person. Praise. Before performing. Silence. Authority in the room. Nothing at all. Then read only that column on the third night. One trigger will appear in most of the entries, and that trigger is what your system is actually responding to.
 3. **Write the noun for what the line was buying.** Cover. Warmth. Control of the naming. A lower bar. Nothing, because it was pure habit. Do this across the whole list and the answer stops varying. That repeated noun is your root, and everything else follows from it.
 4. **Say one plain positive sentence out loud, to a person, every day.** About something you did, with nothing attached to either end. Then watch what happens in your body in the two seconds afterward. This is the diagnostic and the practice at the same time, and it is far more uncomfortable than it sounds on the page.
-5. **Take one compliment a week with nothing added.** Thank you, full stop, and then sit in the pause. No correction, no explanation of why it was easy, no compliment returned inside the minute, no joke to close the moment.
-6. **Move the target, not the humor.** Keep the joke and aim it at the situation, the process, or what actually happened. Do this for a fortnight and you will discover whether your humor was ever dependent on spending yourself, which for most people it was not.
+5. **Take one compliment a week with nothing added.** Thank you, period, and then sit in the pause. No correction, no explanation of why it was easy, no compliment returned inside the minute, no joke to close the moment.
+6. **Move the target, not the humor.** Keep the joke and aim it at the situation, the process, or what actually happened. Do this for two weeks and you will discover whether your humor was ever dependent on spending yourself, which for most people it was not.
 7. **Practice the empty beat on strangers.** New rooms, low stakes, nobody with any history of you. Walk in, say nothing about your own shortcomings, and let the silence sit where the line would have gone. This is where the evidence gets collected that the discount was never required.
 8. **Change one condition rather than only the behavior.** The group where the role is assigned. The channel where every message opens with a self-mocking line. The team whose humor runs on this. Pick one and alter it. Force starts the change and the environment is what sustains it.
 
@@ -393,7 +454,7 @@ The second is treating understanding as the finish line. The goal is not self-kn
 
 Longer than you want, and it runs at two speeds rather than one.
 
-Noticing arrives fast. Within a fortnight of deliberate attention most people can hear the line as it leaves their mouth, which is a strange and slightly maddening experience, like watching a film of something you cannot yet stop. It counts anyway, and it is the step everything else is built on.
+Noticing arrives fast. Within two weeks of deliberate attention most people can hear the line as it leaves their mouth, which is a strange and slightly maddening experience, like watching a film of something you cannot yet stop. It counts anyway, and it is the step everything else is built on.
 
 The reflex takes months, because it fades at the pace of accumulated evidence rather than insight. Every room you walk into without issuing a discount is one data point against a rule that had decades to install itself. Twenty of those, most of them entirely unremarkable, change a great deal. Reading this page carefully changes almost nothing on its own.
 

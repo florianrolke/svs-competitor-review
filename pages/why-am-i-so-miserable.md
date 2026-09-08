@@ -164,16 +164,16 @@ faqs:
     it. Where the pattern is identity level, a new context tends to get read through
     the same lens within a few weeks and the feeling arrives at the new address more
     or less intact. A useful test is your own history: if previous changes helped
-    for about a fortnight before the familiar mood returned, expect the same shape
+    for about two weeks before the familiar mood returned, expect the same shape
     again.'
   q: Can changing my job, city, or relationship fix this?
-- a: Two things end at once when you get home. The holiday removed the conditions
+- a: Two things end at once when you get home. The vacation removed the conditions
     the pattern is cued by, so the mood lifted for reasons that had nothing to do
     with insight, and returning restores every cue within one afternoon. Most people
     read the drop as proof that their ordinary life is unbearable. A more useful reading
     is that it points at which specific parts of the returning week are carrying the
     weight, and those parts can be named.
-  q: Why do I crash so hard after a holiday?
+  q: Why do I crash so hard after a vacation?
 - a: If your template for connection was built around being needed or being comforted,
     ease offers you no obvious role to play in it. Struggle can feel like the only
     door that reliably opens, so it keeps getting used. Building one connection that
@@ -212,7 +212,7 @@ faqs:
     it produces then gets read as further evidence that something is wrong. The loop
     needs no outside event to keep itself going.
   q: Why do I keep bracing for something bad when nothing bad is happening?
-- a: Working on the mood directly tends to produce a fortnight of effort and then
+- a: Working on the mood directly tends to produce two weeks of effort and then
     a return to baseline. What holds is slower. Work out what the pattern currently
     pays you, in certainty, in significance, or in closeness, then build a second
     route to the same thing and put real weight on it before the first route is retired.
@@ -268,7 +268,7 @@ There is a small ordinary evening most people searching this phrase already know
 
 That evening holds the whole pattern, and it is also the only place the pattern can be changed. Everything below is about what is running inside it.
 
-Most people arrive at this question having already tried the sensible things. Gratitude lists, a better morning, a new job, a new city, a stretch of real discipline. Some of it worked for a fortnight. This page is about the layer underneath all of it, the layer that decides what the gratitude list gets read through once you are back in an ordinary week.
+Most people arrive at this question having already tried the sensible things. Gratitude lists, a better morning, a new job, a new city, a stretch of real discipline. Some of it worked for two weeks. This page is about the layer underneath all of it, the layer that decides what the gratitude list gets read through once you are back in an ordinary week.
 
 ## What Does This Sound Like From the Inside?
 
@@ -368,7 +368,7 @@ Worth checking carefully, because at least six fairly different situations produ
 | What you are seeing | What it might actually be | The thing that tells them apart |
 |---|---|---|
 | Flatness constant for months, with sleep, appetite and concentration gone alongside it | A clinical condition | It runs independently of events, sitting there on the good weeks too, and it belongs with a doctor rather than with a framework |
-| Low mood that lifts entirely on holiday and returns within a week of getting home | A situation you are actually living in | Change the situation and watch. If the mood returns anyway inside a month or two, the situation was carrying something else |
+| Low mood that lifts entirely on vacation and returns within a week of getting home | A situation you are actually living in | Change the situation and watch. If the mood returns anyway inside a month or two, the situation was carrying something else |
 | Sincere, repeated attempts to feel better that stall at the same point every round | An identity being protected | The stall arrives just after something starts working, rather than when things are hard |
 | Exhaustion that does not respond to rest | Suppression running full time | A long sleep changes nothing. The tiredness lifts noticeably on days when one true thing gets said out loud |
 | Being called lazy, negative, or self-sabotaging by people who like you | A pattern doing a job efficiently | Look for what the behavior removes you from rather than what it costs you |
@@ -416,7 +416,7 @@ The meaning you assign to any moment of clarity is selected by the physiology yo
 
 This explains the most discouraging experience in this whole territory: understanding your pattern completely, precisely, in language you could teach to somebody else, and continuing to run it anyway. Your understanding is fine, and it is being filed rather than used, because the conditions that produced it are absent from the conditions you actually live in.
 
-The practical consequence is that repetition has to happen in the actual rooms, moods, and times of day the old identity is cued by. An insight rehearsed in calm and then tested only in calm never meets the thing it was meant to change. This is the same reason a resolution made on the last night of a holiday is entirely sincere and almost never survives the second week back.
+The practical consequence is that repetition has to happen in the actual rooms, moods, and times of day the old identity is cued by. An insight rehearsed in calm and then tested only in calm never meets the thing it was meant to change. This is the same reason a resolution made on the last night of a vacation is entirely sincere and almost never survives the second week back.
 
 ## Would You Actually Want to Feel Better?
 

@@ -407,7 +407,7 @@ You get corrected less. Because arguments with you are expensive in an unpredict
 
 You get an edited person. They stop raising things. Not the large things, at first, only the ones not worth forty minutes, and the threshold moves quietly upward. Eventually you are living with somebody who agrees on the surface about a set of things they have not agreed with since 2019, and the disagreements are all still there, unaired, doing what unaired disagreements do.
 
-And you accumulate open conversations. Most people carrying this can name three or four from years back that are still live, still occasionally rehearsed, still capable of producing heat in a car on a motorway. Each one takes a small standing charge of attention. Nobody else knows they exist. The person on the other side of most of them has genuinely forgotten.
+And you accumulate open conversations. Most people carrying this can name three or four from years back that are still live, still occasionally rehearsed, still capable of producing heat in a car on a highway. Each one takes a small standing charge of attention. Nobody else knows they exist. The person on the other side of most of them has genuinely forgotten.
 
 None of that is fast and none of it is inevitable. It is also unusually fixable compared with most patterns, because the unit of repair is a single sentence not said, and there will be another opportunity by Thursday.
 

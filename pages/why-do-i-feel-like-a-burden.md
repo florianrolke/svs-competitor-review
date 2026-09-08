@@ -396,7 +396,7 @@ The practice, if you want it, is almost comically small: let one thing stand. So
 
 Because those are the relationships where being too much would cost the most, so those are the ones the estimate protects most aggressively.
 
-This runs backwards to what people expect and it is one of the more reliable features of the pattern. Asking a colleague for a hand with a file is fine. Paying a plumber is fine. A stranger giving directions is fine. Then a partner of nine years, a sister, a best friend, and the whole thing seizes up over something trivial. From outside it looks like you trust the plumber more than your sister, which is absurd and also, in a specific sense, accurate: the plumber cannot leave, because nothing between you was ever at stake.
+This runs backward to what people expect and it is one of the more reliable features of the pattern. Asking a colleague for a hand with a file is fine. Paying a plumber is fine. A stranger giving directions is fine. Then a partner of nine years, a sister, a best friend, and the whole thing seizes up over something trivial. From outside it looks like you trust the plumber more than your sister, which is absurd and also, in a specific sense, accurate: the plumber cannot leave, because nothing between you was ever at stake.
 
 Closeness is exactly where the original conditioning applied. A casual relationship never carried the risk that needing something would cost you your place, so nothing in it triggers the alarm. Close relationships carried precisely that risk, and the alarm is calibrated to them. That is also why safe relationships often make this louder rather than quieter. Once there is genuinely something to lose, the estimate gets more conservative, not less.
 

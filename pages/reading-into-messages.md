@@ -1,8 +1,8 @@
 ---
-title: "Why Do I Read So Much Into Short Messages? The Full Stop, Decoded"
+title: "Why Do I Read So Much Into Short Messages? The Period, Decoded"
 metaTitle: "Reading Into Messages: Why Two Lines Take a Whole Evening"
 shortTitle: "Reading Into Messages"
-description: "The two-line reply read eleven times. The full stop that now means something. The four hours counted before they answered. The screenshot sent to a friend with the question what do you think this means. This page describes the scanning from the inside, explains why a short message is the hardest kind to receive, names the research that covers the act and says where the names stop, takes seriously the possibility that you are right, and maps five roots the same rereading grows from."
+description: "The two-line reply read eleven times. The period that now means something. The four hours counted before they answered. The screenshot sent to a friend with the question what do you think this means. This page describes the scanning from the inside, explains why a short message is the hardest kind to receive, names the research that covers the act and says where the names stop, takes seriously the possibility that you are right, and maps five roots the same rereading grows from."
 metaDescription: "Rereading a short message for tone is often a real skill with nowhere to check itself. The five roots, the true cost, and why it never resolves."
 primaryQuestion: "Why do I read so much into short messages?"
 intent: research
@@ -10,8 +10,8 @@ label: "cue-poor communication"
 faqTitle: "Questions About Reading Into Messages"
 faqs:
 - q: "Why do I read so much into short messages?"
-  a: "Because a short message carries less information than a decision about it needs, and the gap gets filled from your own history rather than from the message. Text strips out voice, face, pace and timing, so whatever cues remain get weighted far more heavily than they can bear. A full stop or a four-hour delay ends up carrying meaning that in person would have been settled by a glance."
-- q: "Why does a full stop at the end of a text feel aggressive?"
+  a: "Because a short message carries less information than a decision about it needs, and the gap gets filled from your own history rather than from the message. Text strips out voice, face, pace and timing, so whatever cues remain get weighted far more heavily than they can bear. A period or a four-hour delay ends up carrying meaning that in person would have been settled by a glance."
+- q: "Why does a period at the end of a text feel aggressive?"
   a: "Because in a channel with almost no other signals available, punctuation gets promoted into a signal. Gunraj and colleagues found in 2016 that text replies ending with a period were rated as less sincere than the same replies without one, and that the effect did not appear when the same messages were handwritten. The medium taught everybody to read the mark, so reading it is not an invention of yours."
 - q: "Am I overthinking, or am I picking up on something real?"
   a: "Often both, and that combination is the actual difficulty. Sensitivity to tone is a genuine capability, it developed for reasons, and it registers real shifts that other people miss entirely. What it cannot do through a screen is confirm itself. Being right and being wrong produce the same evening, the same rereading and the same tightness in your chest, which is why accuracy alone never brings the episode to an end."
@@ -95,7 +95,7 @@ Because a short message carries less information than a decision about it requir
 You will know inside four lines whether this page is about you, so start here.
 
 - "I have read it eleven times and I still cannot tell if they are annoyed."
-- "They used a full stop. They never use a full stop."
+- "They used a period. They never use a period."
 - "It took them four hours to answer, and they always answer straight away."
 - "I sent a screenshot to my friend and asked her what she thinks it means."
 - "I would rather they said something harsh than left me with nothing."
@@ -105,7 +105,7 @@ You will know inside four lines whether this page is about you, so start here.
 
 The message arrived at 4:12 and said two things. You have read it since then in the kitchen, on the train, and once in a bathroom at work with the door closed. You could type it out from memory, including where the comma sits.
 
-Somewhere in the last hour you noticed the full stop at the end. They do not usually put a full stop. You went back through the thread to check, and you were right, they do not. So now there is a full stop, and four hours of silence in front of it, and out of those two small facts you have assembled a fairly detailed account of what has changed between you.
+Somewhere in the last hour you noticed the period at the end. They do not usually put a period. You went back through the thread to check, and you were right, they do not. So now there is a period, and four hours of silence in front of it, and out of those two small facts you have assembled a fairly detailed account of what has changed between you.
 
 None of that is oversensitivity, and calling it oversensitivity is the fastest way to keep it running for another decade. What you were doing is skilled work. Reading tone off small signals is a real capability, it developed for reasons, and in a great many rooms it has been exactly right.
 
@@ -150,7 +150,7 @@ Daft and Lengel set out the general idea in 1986, that channels differ in how mu
 
 Three properties of the format then make it considerably worse.
 
-**Brevity concentrates the weight.** In a paragraph, one cold sentence is diluted by nine ordinary ones. In a two-line reply there is nothing to dilute it with, so every element carries a share of the meaning that would be trivial anywhere else. The full stop is doing work in your message that it would never be asked to do in a letter.
+**Brevity concentrates the weight.** In a paragraph, one cold sentence is diluted by nine ordinary ones. In a two-line reply there is nothing to dilute it with, so every element carries a share of the meaning that would be trivial anywhere else. The period is doing work in your message that it would never be asked to do in a letter.
 
 **Asynchrony turns the gap into content.** In speech, a pause lasts a second and belongs to the sentence. In text, a pause lasts four hours and belongs to you, because you are the one sitting in it. Kalman and Rafaeli treated response latency as a real channel in written exchange, with unexpected silences read the way an unexpected tone of voice would be read in person. The delay becomes a second message, and it is a message with no words in it at all.
 
@@ -174,7 +174,7 @@ The fifth is **hostile attribution bias**, and it needs care. Dodge began measur
 
 Here is what those five give you. They move the behavior out of the character-flaw category and into the describable one, with a literature and a great many other people in it. They put the weight where it belongs, on a channel that genuinely cannot carry what conversation normally carries. And they establish that misreading text is the ordinary case rather than the exception, which matters to anybody who has quietly concluded that their difficulty here is unusual.
 
-Here is where all five stop, stated just as plainly. Every one of them describes an act, or a property of a medium. None of them reaches the person. Two people can receive the identical full stop, at the identical hour, from the identical friend, and be doing entirely different things underneath. One is running a mood forecast learned at eight years old in a house where it mattered. One cannot tolerate an unresolved question and would take any answer over none. The vocabulary covers the what with real precision. The why sits outside its scope, and the why is the part that has to move before the behavior does.
+Here is where all five stop, stated just as plainly. Every one of them describes an act, or a property of a medium. None of them reaches the person. Two people can receive the identical period, at the identical hour, from the identical friend, and be doing entirely different things underneath. One is running a mood forecast learned at eight years old in a house where it mattered. One cannot tolerate an unresolved question and would take any answer over none. The vocabulary covers the what with real precision. The why sits outside its scope, and the why is the part that has to move before the behavior does.
 
 <div class="disclaimer-box" markdown="1">
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
@@ -221,7 +221,7 @@ The consequence is uncomfortable and worth stating outright. From the inside, be
 
 Because the question the scanning is answering sits one level below the question you believe you are asking.
 
-Watch what happens on the occasions when you get confirmation. They call, they say they were short with you because a call ran over, and everything relaxes. You feel foolish and relieved in roughly equal measure. Then a fortnight later a different message arrives with a different gap in it and the entire process runs again from the beginning, with no memory of the fortnight before.
+Watch what happens on the occasions when you get confirmation. They call, they say they were short with you because a call ran over, and everything relaxes. You feel foolish and relieved in roughly equal measure. Then two weeks later a different message arrives with a different gap in it and the entire process runs again from the beginning, with no memory of the two weeks before.
 
 If the exercise were really about decoding one message, the resolved case would teach you something and reduce the next one. It reliably does not. Which tells you the message was the occasion rather than the subject.
 
@@ -299,7 +299,7 @@ The route out of this one runs through tolerance rather than resolution, and it 
 
 Then the reading is not a general scan at all, and it is looking for one specific thing.
 
-There is a version of this pattern with a fixed target. The person is not asking what does this mean. They are asking one question with a yes or no answer, and every message gets run through it. Are they going off me. The shortness, the delay, the missing kiss and the full stop all get evaluated as evidence for a single hypothesis, and the hypothesis is always the same one.
+There is a version of this pattern with a fixed target. The person is not asking what does this mean. They are asking one question with a yes or no answer, and every message gets run through it. Are they going off me. The shortness, the delay, the missing kiss and the period all get evaluated as evidence for a single hypothesis, and the hypothesis is always the same one.
 
 Downey and Feldman described this in 1996 as rejection sensitivity: an anxious expectation of rejection that leads people to perceive it readily in behavior that is genuinely ambiguous, and then to respond in ways that make the relationship harder. The expectation comes first. The perception follows the expectation, which is the reverse of how perception is supposed to work, and it explains why the evidence keeps arriving.
 
@@ -363,7 +363,7 @@ This deserves its own section, because it is one of the most common moves in the
 
 Four things go wrong at once.
 
-**The briefing contains the reading.** By the time your friend sees the message they have already been told what to look for. You said the full stop was unusual. You said the delay was out of character. Nobody can unhear that, so what comes back is a response to your frame rather than an independent look at the words.
+**The briefing contains the reading.** By the time your friend sees the message they have already been told what to look for. You said the period was unusual. You said the delay was out of character. Nobody can unhear that, so what comes back is a response to your frame rather than an independent look at the words.
 
 **They lack the baseline that made the signal visible.** The thing you noticed is a deviation, and a deviation requires knowing the norm. Your friend has never received a message from this person and has no norm to deviate from. So they can only tell you whether the words look neutral in general, which is not the question you asked.
 
@@ -394,7 +394,7 @@ Most people counting the cost of this pattern count only the obvious part, which
 | The absence read | Treating no message as a message, with a specific interpretation attached | Interpreting a blank, which is the one input that genuinely carries nothing |
 | The rehearsed confrontation | Composing the conversation you will have if the reading turns out true | Living through the outcome in advance, at full emotional price, with no information gained |
 
-The bottom two rows carry the most weight. Reading an absence is the purest version of the whole pattern, because there is not even a full stop to work with, and yet the conclusion arrives with the same confidence. And the rehearsed confrontation charges you the entire emotional cost of an event that has not happened and usually will not. [Running conversations in your head before they occur has its own page](/patterns/rehearsing-conversations/), and [checking somebody's public activity for information about you has another](/patterns/checking-their-social-media/).
+The bottom two rows carry the most weight. Reading an absence is the purest version of the whole pattern, because there is not even a period to work with, and yet the conclusion arrives with the same confidence. And the rehearsed confrontation charges you the entire emotional cost of an event that has not happened and usually will not. [Running conversations in your head before they occur has its own page](/patterns/rehearsing-conversations/), and [checking somebody's public activity for information about you has another](/patterns/checking-their-social-media/).
 
 One more version deserves a line of its own, because it is the most respectable and the least visible. The mental case file. Not one message, but a growing collection of them, each small, assembled over weeks into a picture you have never mentioned to anybody. That file gets consulted every time a new message arrives, which means each new reading starts already weighted by every previous one.
 

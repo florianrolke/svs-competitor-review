@@ -276,7 +276,9 @@ There is a reason this arrives as revulsion rather than as a thought. You had al
 
 The tells for this root are distinctive.
 
-The trigger, when you look at it honestly rather than at the version you told your friend, has a content to it. It was a behavior rather than a texture or a sound, and the behavior involved another person, or a value, or a moment where you saw how they treat somebody with nothing to offer them. There is often a specific memory attached that you have been not-thinking-about for a fortnight. And there is a peculiar quality of relief mixed into the aversion, which is the feeling of a thing finally being allowed to be true.
+The trigger, when you look at it honestly rather than at the version you told your friend, has a content to it. It was a behavior rather than a texture or a sound, and the behavior involved another person, or a value, or a moment where you saw how they treat somebody with nothing to offer them. There is often a specific memory attached that you have been not-thinking-about for two weeks. And there is a peculiar quality of relief mixed into the aversion, which is the feeling of a thing finally being allowed to be true.
+
+Something in the research supports the shape of that tell, though not the conclusion you might want from it. Tybur and colleagues, in "Microbes, mating, and morality: Individual differences in three functional domains of disgust", published in the *Journal of Personality and Social Psychology* in 2009, reported across four studies that disgust sensitivity partitions into three kinds rather than running as one dial: one organized around disease, one around sex, and one around how a person treats other people. Two limits are worth stating. It was measured by rating scales rather than by watching anybody's evening, and it says nothing about which of the three fired in your case, so applying it to a single incident is a stretch I am making rather than a result anybody reported. What survives both limits is the distinction the tells rest on, since a reaction to how somebody spoke to a waiter and a reaction to a texture are not obviously the same thing happening twice.
 
 Care is needed here, in both directions. This root is real, and it is also the most flattering interpretation available, which makes it the one people reach for when they want their reaction to have been wise. The honest test is whether you can state the underlying observation in a sentence that has nothing to do with the trigger. If you can, and the sentence holds up when you are calm, there was information in it. If every attempt to state it collapses back into the detail, this is probably a different root.
 
@@ -293,6 +295,8 @@ That is what makes it so effective and so hard to catch. It does not feel like a
 The tells are the clearest of any root on this page.
 
 It has happened before, with people who had very little in common, at approximately the same distance in. The trigger differs every time, which is why you have never spotted the pattern, since you have been comparing triggers. It correlates with their interest rather than with their behavior, so it fires hardest with the people who were most straightforwardly pleased with you. And there is frequently a period of intensity immediately before it, which is the part that confuses people most.
+
+Since the question people arrive with is usually some version of why this fires whenever somebody starts to really like them, it is worth being exact about how much is known about that timing. Nothing I can find measures it directly. What exists is a described account of withdrawal arriving with closeness, worked out in the attachment literature and handled properly on [the page on avoidant attachment](/patterns/avoidant-attachment/), where the moves are quieter than this one: distance, a sudden shortage of time, a cooling of interest, rather than a physical refusal that arrives in a second. Treating the sudden version as that same account running hot goes beyond what anybody has measured, so what you have here is your own timing, recorded across several people, and that turns out to be enough to work with.
 
 I want to be precise about what this page owns here and what it does not, because two other patterns sit right next to this one and are different.
 
@@ -380,6 +384,8 @@ The guilt is running on a premise, and the premise is that you did something. Lo
 
 You did not do anything to them. That sentence is worth reading twice, because the guilt depends entirely on its opposite.
 
+One distinction does more work here than anything else, and I am going to describe it without hanging a name on it, since [the page on shame and guilt](/patterns/shame-vs-guilt/) carries the sourcing and there is no reason to stage it twice. Guilt, described narrowly, attaches to something you did, and what it asks for is repair. The feeling that turns up after one of these usually attaches to something you take yourself to be, and what that one asks for is hiding, which is the manufactured reason and the slow cooling arriving as one move. The separation is a described one rather than two different machines anybody has located, so do not lean on it harder than it will bear. It still changes what you do first. Before working out what to do about the guilt, work out which of the two is running, because they ask for contrary things and only one of them has an honest action attached.
+
 What you can do something about starts afterward, and it is worth being specific about what that consists of, because this is the part with actual content in it.
 
 You can be honest with yourself about what happened, rather than manufacturing a reason. This is where most of the real damage gets done. People with this reaction very rarely say what occurred. They construct a different, more presentable explanation, and then they act on the constructed one, and frequently they tell the other person the constructed one. That is a choice, it is made over days rather than in a second, and it is the part that would be worth doing differently.
@@ -391,6 +397,28 @@ You can end things cleanly if you are going to end them, without a story that le
 And you can decline to make them into a bad person to justify the reaction, which is the most common thing people do here and the most quietly corrosive. The mind is uncomfortable holding both they did nothing wrong and I cannot be near them, so it resolves the discomfort by finding faults. Six weeks later you have a whole case assembled, all of it retrospective, none of it what actually happened.
 
 None of that requires knowing which root is yours. All of it is available today.
+
+## How Do I Decide Whether to Keep Dating Them or End It Cleanly?
+
+Almost never this week, and I will name the two that do not wait.
+
+A decision taken inside the reaction is the reaction deciding, which is the one thing this page has spent several thousand words arguing against. The reaction stays vivid for somewhere between a few days and a few weeks, and a decision made inside that window is usually one you would not make a month afterward. Waiting is the only condition under which the question gets answered by you.
+
+Three things settle it, and only one of them is about them.
+
+**Which root it is.** The table above points different ways. If the attraction was simply ending, there is nothing to decide beyond saying so and saying it kindly. If the detail was carrying information, the decision is largely made already, and what remains is whether you will state the underlying sentence plainly, first to yourself and then, if it holds when you are calm, to them. If it works as an exit, leaving now teaches you nothing you do not already have, since you have done this before with people who had very little in common. If the contempt was learned, the same holds with more weight, because the quality you cannot stand will turn up again in somebody else. And if disgust was standing in for a decision, what needs raising happened three days earlier and has almost nothing to do with them.
+
+**Whether your conduct would change if you stayed another few weeks.** If you would spend them being quietly less available, manufacturing reasons and waiting to be found out, you are ending it slowly and making them do the work of noticing.
+
+**Whether you can finish it without a story.** This is the one that decides it for most people.
+
+Cleanly has a specific meaning here and it is smaller than people expect. It is the true amount rather than the whole truth: that something changed in you, that it is not a fault of theirs, that you cannot fully explain it, and that you are finishing it rather than fading. Handing somebody the exact detail does no work that honesty requires; it relieves you and leaves them checking themselves for something long after you have stopped thinking about it.
+
+Two situations do not wait. If staying requires you to keep performing an attraction you do not have, that costs you both and the cost compounds every week. And if you have already gone cold and started assembling the case against them, it is over already whatever gets said, and the only live question is whether they are told or left to work it out.
+
+One thing this cannot do for you, and no page can. Nothing here tells you in advance whether the reaction was right. People have finished things over this and never once regretted it, and people have finished things over this and been completely unable, later, to say what happened. What is in your control is whether the decision was made by you, and whether it cost somebody a fault they do not have.
+
+This section is written for the version that is weeks or a few months old. If you are much further in, with a shared home or a shared life built around this, the weighing is different and [the page on whether to leave a relationship](/patterns/should-i-leave-my-relationship/) works it properly.
 
 ## What Does the Settled Version of This Look Like?
 

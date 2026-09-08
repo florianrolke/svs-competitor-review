@@ -404,6 +404,24 @@ Erik Erikson placed the same territory in a developmental sequence, naming the m
 
 An outdated target explains the rest of it. A life built to satisfy an earlier version of you, or a parent's version, can be fully achieved while the dominant need underneath has already moved on. Hitting the target then produces flatness for a very simple reason. Nobody currently living is asking for that target anymore. The natural reading of that flatness is ingratitude or a defect in you. The more accurate reading is that a specification aged out while you kept executing it faithfully, which is what a conscientious person would do.
 
+## Why Do I Ask Whether I Am on the Right Thing at Night and Never in the Morning?
+
+Because it only turns up at the hour when nothing can be done with the answer.
+
+It arrives halfway through a sentence. You are saying something ordinary about the next few months, or you are at the bathroom mirror with the lamp already off, and a different question opens underneath the first one: am I on the right thing at all. It never makes it onto paper. Nobody is waiting on it, and by the time Monday arrives with its own demands it has gone. It comes back the following evening in a slightly different order, and that can carry on across several years with nothing decided.
+
+Two questions sound the same here.
+
+**A strategic question carries a decision.** It names something you could actually choose before March: whether to hand the department to somebody else, whether to sell the business, whether to tell somebody in particular what you want. You can say what would be different depending on how you answered it. It also travels: it shows up mid-morning, between two ordinary tasks, and still makes sense there.
+
+**The night version has nothing under it to decide.** Asked in the same three sentences, half asleep, across several years, and answered in neither direction, because answering was never what it was for. What arrives is the specification, reporting in at the one hour with no work left to satisfy it.
+
+So a single question sorts them. Has this one ever survived into a working hour?
+
+Test it cheaply. The next time it arrives, type it into your phone in the words it came in, and read that back before lunch the following day. If it still reads as a question with an answer, treat it as one: give it a date and an hour, and somebody to tell. If it reads as something you felt on the way to sleep and no more than that, what visits you is the old specification checking its conditions, and the should-and-want page described higher up is a better use of a Sunday morning than a resignation letter drafted before dawn.
+
+Three neighboring versions get answered elsewhere. If the question points at a life kept back until conditions improve, [the life you will start later has its own logic](/patterns/the-life-i-will-start-later/). If it is about the work and the contribution, [purpose splits in two and most people search the wrong half](/insights/how-to-find-your-purpose/). And if it only arrives once you are already awake in the small hours, [that waking has mechanics of its own](/patterns/waking-at-three-in-the-morning/).
+
 ## Are You Sure That Is What You Are Looking At?
 
 Worth checking, because four things get confused with this constantly and each one points somewhere different.

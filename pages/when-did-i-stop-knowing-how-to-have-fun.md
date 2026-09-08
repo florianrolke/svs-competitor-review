@@ -104,7 +104,7 @@ faqs:
     mind, it becomes something to notice and set down rather than something to obey.
   q: Do a lot of people not know how to have fun anymore?
 - a: Because everything has been brought under the same grading system, including
-    the things that used to be exempt. Hobbies get assessed for progress, holidays
+    the things that used to be exempt. Hobbies get assessed for progress, vacations
     get justified as good for the family, rest gets recast as recovery for tomorrow.
     Once every hour has to clear a bar, no hour is off duty, and the constant low-level
     assessment is what flattens the experience while it is happening rather than afterward.
@@ -321,7 +321,7 @@ The pattern this page describes looks identical from outside and behaves in the 
 | What you notice | Enjoyment being disqualified | Pleasure genuinely not arriving |
 |---|---|---|
 | Something funny, alone, nobody watching | You laugh properly, then feel the tug back toward something real | It registers as the kind of thing that is supposed to be funny |
-| A holiday you were looking forward to | Good moments happen and get narrated afterward as time you should have used better | The moments are flat while you are inside them |
+| A vacation you were looking forward to | Good moments happen and get narrated afterward as time you should have used better | The moments are flat while you are inside them |
 | Food you like | Still tastes like something | Tastes mostly like texture |
 | What shows up around pleasure | Guilt, justification, a reason it was also useful | Very little shows up at all |
 | Sleep, appetite, energy | Usually roughly normal for you | Often disturbed for weeks at a time |
@@ -428,7 +428,7 @@ In the specific activity that used to work reliably and quietly stopped.
 1. **A hobby that went flat.** Drawing, playing, cooking, running. It worked while it was exempt from judgment, and it stopped once it started being assessed for whether it was any good or going anywhere. Check which came first, the boredom or the guilt.
 2. **The free evening that turns into cleaning or scrolling.** You could do anything. Nothing on the list of acceptable activities counted as valid rest, so you did the two things that require no permission at all.
 3. **The finished task that gets no gap after it.** Something real gets completed and the next thing starts immediately, without a single minute allowed for the good feeling to register.
-4. **Holidays narrated in the past tense as inefficiency.** While it happens, it is fine. Afterward it becomes a week you could have used better.
+4. **Vacations narrated in the past tense as inefficiency.** While it happens, it is fine. Afterward it becomes a week you could have used better.
 5. **The justification reflex.** You cannot describe a trip, a purchase, or an afternoon without attaching what it was also good for. Good for the kids, good for the relationship, good for the business.
 6. **Somebody asks what you want and you go blank.** Options exist, several of them. What is missing is one that would survive being said out loud.
 

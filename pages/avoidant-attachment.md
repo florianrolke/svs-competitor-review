@@ -37,7 +37,7 @@ faqs:
   q: What are the signs of avoidant attachment in children?
 - a: A good deal, and none of it requires getting it right every time. What the research
     keeps pointing at is responsiveness that treats a bid for comfort as reasonable,
-    on ordinary days as much as dramatic ones, and repair afterwards when you miss
+    on ordinary days as much as dramatic ones, and repair afterward when you miss
     one. What builds the pattern described here is a long run of bids that drew a
     sigh, a correction, or nothing at all. Parents worried enough to look this up
     are rarely the ones producing it.
@@ -47,7 +47,7 @@ faqs:
     crosses a threshold it was trained to treat as expensive. The flaws are frequently
     real, which is what makes this so hard to catch from inside. Their sudden arrival
     and their intensity are the tell rather than their existence. Look at what happened
-    in the fortnight before the certainty showed up.
+    in the two weeks before the certainty showed up.
   q: Why did I suddenly notice everything wrong with my partner right after things
     got serious?
 - a: Genuine disinterest is usually stable. It was there in week two, it is there
@@ -195,7 +195,7 @@ faqs:
 - a: 'Rarely while it is happening. The filtering runs upstream of conscious choice,
     so the only thing that shows up is a sensible verdict that seems to have been
     there all along: this can wait, they are fine, there is nothing worth saying.
-    Awareness usually arrives afterwards, in hindsight, or when somebody else names
+    Awareness usually arrives afterward, in hindsight, or when somebody else names
     the timing out loud. That is also why advice to open up more lands as noise.'
   q: Do avoidant people know they are doing it?
 - a: Because both drives are running at full strength together. The wanting comes
@@ -208,7 +208,7 @@ faqs:
 - a: Yes, and often hard, especially early on while the distance is still comfortable.
     What changes is what happens once the love starts being visible and expected.
     The feeling stays, and the broadcast gets turned down. Plenty of people in this
-    pattern describe a relationship they thought about for years afterwards and could
+    pattern describe a relationship they thought about for years afterward and could
     not stay present inside while it was happening. Falling in love was never the
     difficult part.
   q: Do avoidants fall in love?
@@ -223,7 +223,7 @@ faqs:
     the timing of their own withdrawal, and keeps showing up while it is uncomfortable
     is a reasonable bet. Somebody who treats their distance as a fixed fact and asks
     you to build your life around it is telling you what the next three years look
-    like. Watch what they do in the fortnight after a good week.
+    like. Watch what they do in the two weeks after a good week.
   q: Is avoidant attachment a red flag in dating?
 - a: Not inherently, and infidelity can serve the pattern when it does happen. An
     affair manufactures distance and an exit route without anybody having to name
@@ -327,7 +327,7 @@ Right here, before any of the practice further down, because this boundary matte
 
 If distance is being used against you in a relationship, warmth restored the moment you back down and withdrawn the moment you assert something, that is a control dynamic rather than a capacity problem, and it belongs with a licensed professional. Bring in people who can genuinely help, including people who can help you leave if that is what the situation calls for.
 
-The same holds from the other side. If closeness reliably brings back memories of being hurt, or if you are carrying an addiction, a diagnosed condition you are currently managing, a hopelessness that has not lifted in months, or any thought of harming yourself, however fast it passes, that belongs with a clinician rather than with a self-directed practice. Everything here is built for the everyday version: the lease that never gets signed, the call you did not return, the fortnight of being unusually busy at work.
+The same holds from the other side. If closeness reliably brings back memories of being hurt, or if you are carrying an addiction, a diagnosed condition you are currently managing, a hopelessness that has not lifted in months, or any thought of harming yourself, however fast it passes, that belongs with a clinician rather than with a self-directed practice. Everything here is built for the everyday version: the lease that never gets signed, the call you did not return, the two weeks of being unusually busy at work.
 
 One more boundary. Attachment language describes a tendency, and no page or quiz can assess anybody. Nothing here is a diagnosis and nothing here is a type you now belong to.
 
@@ -337,11 +337,13 @@ From an environment where reaching out produced nothing often enough that reachi
 
 The formation happens without ceremony and usually without a memorable scene. Attachment behavior starts as a signaling system. A small child cries, reaches, follows, and the signal exists for one purpose, which is to bring an adult close enough to settle a nervous system that cannot yet settle itself. The system runs on feedback. Signal goes out, response comes back, the child learns that the signal works and can relax between rounds.
 
+That loop has been watched directly, and the avoidant version had a look of its own: Ainsworth's separation-and-reunion procedure, reported in *Patterns of Attachment* in 1978, produced a group of infants who played on steadily through the separation and then turned away from the caregiver rather than greeting them on the return, which reads as an infant who has already stopped expecting the return to deliver anything. The limit belongs in the same paragraph: a few minutes of observed behavior at one age inside one procedure, and every step from there to an adult who handles everything alone is an inference rather than a measurement.
+
 Where that feedback fails repeatedly, something has to give. Either nothing comes back at all, or what comes back treats the need itself as an imposition: a sigh, a flat look, an adult who is technically present and emotionally somewhere else. The child is not being harmed in any way a social worker would record. Their emotional presence simply goes unregistered, week after ordinary week. [The fuller account of how an absence does this much damage has its own page](/patterns/childhood-emotional-neglect/), and it explains why so many people in this pattern describe their childhood as fine and are telling the truth as they know it.
 
 Then comes the substitution that does the lasting work. Where warmth cannot be requested, it gets earned instead. Achievement, usefulness, being no trouble, being the capable one, being the child nobody had to worry about. Every one of those is rewarded generously by adults, teachers, and later by employers, which means the strategy gets reinforced by the whole world for decades. A person can arrive at forty with an impeccable record of competence, considerable affection from other people, and no working route for asking anybody for anything.
 
-Not every case traces back to a parent. A household reorganised around one adult's illness where everybody quietly agreed to need less. A stretch of years where showing a feeling at school was expensive. A first serious relationship where being open once got used against you in a way you have never really described to anyone. The mechanism holds across all of them. Expressing the need turned out to be the costly part, and a person intelligent enough to notice adjusted accordingly.
+Not every case traces back to a parent. A household reorganized around one adult's illness where everybody quietly agreed to need less. A stretch of years where showing a feeling at school was expensive. A first serious relationship where being open once got used against you in a way you have never really described to anyone. The mechanism holds across all of them. Expressing the need turned out to be the costly part, and a person intelligent enough to notice adjusted accordingly.
 
 ## How Does Deactivation Actually Work?
 
@@ -353,6 +355,8 @@ A nervous system facing repeated failed bids for closeness has two structurally 
 
 That second option is avoidant attachment, and the technical word for it is deactivation. The attachment system stays intact. The need for closeness stays intact. What gets suppressed is the output, and the suppression is aimed at the signal because the signal is what the evidence identified as the dangerous part.
 
+Dozier and Kobak monitored skin conductance in 50 college students through an attachment interview in 1992, and the people whose answers played down separation and rejection were the ones whose skin conductance climbed as those questions arrived, which is an output turned down sitting on top of a system still running underneath. The limits are ordinary and belong right here: 50 students, one interview, one physiological channel, and a measure that rises for plenty of reasons having nothing to do with closeness.
+
 Three consequences follow, and each one explains something that otherwise looks like a character flaw.
 
 **It runs before words.** Once deactivation is the trained default, it operates automatically and pre-verbally. There is no internal debate about whether to ask somebody for help, no moment where you weigh it up and decline. The asking gets filtered out upstream, before it ever becomes a conscious option. What reaches awareness is a mild, reasonable-sounding conclusion, arriving fully formed: *if I don't think about it, maybe it will go away.*
@@ -361,7 +365,7 @@ Three consequences follow, and each one explains something that otherwise looks 
 
 **The moves are pre-emptive rather than reactive.** The sudden distance, the flaw that appeared overnight, the two weeks of unusual pressure at work, the withdrawal that arrives exactly when a relationship would otherwise deepen. None of these are usually about the current partner. They are the attachment system defending against a need it decided long ago could not be safely expressed. Which is why the timing is so strange to everybody watching. The pulling away follows the good week, the first trip together, the moment somebody said something true.
 
-That last point is the single most useful thing on this page. Deactivation tracks intimacy, not conflict. If you want to find it in your own history, do not look at the fights. Look at the fortnight after each of the good ones.
+That last point is the single most useful thing on this page. Deactivation tracks intimacy, not conflict. If you want to find it in your own history, do not look at the fights. Look at the two weeks after each of the good ones.
 
 ## Why Does Just Open Up Fail So Reliably?
 
@@ -383,11 +387,13 @@ Worth checking carefully, because several very different situations produce iden
 
 How much solitude somebody wants tells you very little on its own, since plenty of securely attached people want a great deal of time alone and always have. What tells you something is what happens to that preference under pressure. Does the pulling away scale specifically with how close somebody is getting? Does it show up right when the relationship starts requiring something real, reliance, disclosure, a shared plan with a date on it? And does it reverse once things cool back to a safer distance? Withdrawal that tracks intimacy is a defense doing its job. Withdrawal that stays flat across every season of a relationship is a temperament.
 
+Introversion is the version of that question people ask most, and it sits on a different axis rather than being a milder degree of the same one. Somebody low on social energy wants fewer hours of company and recovers alone, and inside those fewer hours can be entirely willing to depend on a person, say what is wrong, and let a friend see the unflattering part. Avoidance is about the depending. So the two can live in one person without either one accounting for the other, and separating them means you stop counting how much solitude you want and start marking each pullback against what happened in the two days before it. One quiet month will not settle it. A dozen entries with dates will.
+
 | What you are seeing | What it might actually be | The thing that tells them apart |
 |---|---|---|
 | Handles everything alone, rarely asks for anything | Genuine capability, or a trained refusal | What it costs internally on the rare occasion you do ask. Proportionate discomfort points one way; disproportionate shame and an urgent need to repay by Friday points the other |
 | Wants a lot of time alone | A real preference, or deactivation | Whether the need for space spikes in the days after closeness increased, or stays level all year |
-| "I just need space right now" | A boundary, or a deactivating pullback | A boundary is stated in advance and held consistently. A pullback is triggered, and the same person wants closeness a fortnight later |
+| "I just need space right now" | A boundary, or a deactivating pullback | A boundary is stated in advance and held consistently. A pullback is triggered, and the same person wants closeness two weeks later |
 | Sudden certainty that a partner is wrong for them | Real discernment, or flaw focusing | Timing. Discernment is stable and proportionate. Flaw focus intensifies at commitment milestones and fades when the demand drops |
 | "I don't think I feel much about them" | Genuine disinterest, or a suppressed signal | Disinterest is stable from week two. Suppression gets stronger as the relationship improves |
 | Pulls close, then flees, then pulls close again | Dismissive avoidance, or the fearful version | Dismissive avoidance stays regulated by deactivating consistently. The fearful version oscillates inside a single week |
@@ -415,6 +421,16 @@ The second row deserves its own paragraph, because it is the one people find har
 
 The third row is worth watching too, in its physical forms. Frequent redecorating, moving flats, changing cities, restarting from a clean slate. A fresh environment offers the feeling of a new beginning at no emotional cost, which makes it an extremely efficient substitute for the beginning that would actually change something.
 
+## What Signs Would I Notice in Myself or With a Romantic Partner?
+
+Two different lists, which is exactly why this stays invisible for so long. What you notice in yourself is quiet and sounds sensible. What a partner notices is a change in temperature they cannot source.
+
+In yourself, the markers are small and none of them announces itself as fear. A conversation you have meant to have for eleven weeks that keeps getting moved by genuinely busy stretches. The message you write, reread, and leave in the drafts folder because tomorrow will do. A flicker of relief when the other person cancels, arriving ahead of any disappointment. Praise handed back before it lands, redirected to somebody who deserves it more, or met with a joke or a fact about their day. A question about next year that you answer accurately and vaguely at once. The word yet, doing a great deal of work: not ready yet, not sure yet, not there yet. And the bodily one, which is easier to catch than any of the thoughts, because it shows up just before the sentence that buys you distance does.
+
+With a partner, the signs are shaped differently, because what reaches them is timing rather than feeling. They tend to report that things were going well and then something shifted, and cannot say what. They notice you got busy the week after the weekend that went well. They notice that they are the one who names things, plans things, and asks the question that moves the relationship along, and that you agree warmly every time without ever raising one yourself. They notice they know a great deal about your week and very little about your year. Some of them say, in the version that lands hardest, that they feel close to you and could not describe you to a friend.
+
+Two things are worth holding while you read those. Every single item has an innocent version, and in any given week the innocent version is probably the right one. What turns a list like this into evidence is repetition with a pattern in the timing: the same move, following the same kind of good day, over a year rather than over a month. And your account and theirs will disagree. That disagreement is information rather than a contest about who is right, since you are describing what reaches you after the strategy has already taken its cut, and they are describing what arrives at their end.
+
 ## Why Do Avoidant and Anxious Partners Find Each Other So Reliably?
 
 Because each strategy provokes precisely the behavior the other one was built to defend against, and because familiarity gets mistaken for recognition on both sides.
@@ -423,11 +439,13 @@ Watch the loop run once. Somebody in the avoidant pattern goes slightly quiet af
 
 Nobody in that loop is behaving badly. The pursuit is a genuine attempt to repair, and the retreat is a genuine attempt to keep the relationship survivable. What makes it so stubborn is that each move is completely rational given the evidence its owner grew up with, and completely inflammatory given the evidence the other one did.
 
+The two moves have names, and the pair is why the loop runs so symmetrically: Mikulincer and Shaver's *Attachment in Adulthood* lays out hyperactivating and deactivating strategies as the two routes a signaling system takes once the direct bid has failed, one turning the volume up and one turning it off, which leaves the pursuer and the distancer running one system from either end. The framework describes strategies rather than people, so it cannot tell you which of the two you will run in a given relationship, and plenty of people switch depending on who is across from them.
+
 Read the two pages side by side if you can. [The anxious version of this exact mechanism is set out in full here](/patterns/anxious-attachment-style/), from the other chair, and a surprising number of people find they are the pursuer in one relationship and the distancer in another. The same person often runs an anxious pattern with a parent and an avoidant one with a partner, or ran anxious in their twenties and moved to avoidant after a specific ending that they can name to the month. [Why the same dynamic keeps reappearing across different partners is worth settling separately.](/insights/why-do-i-attract-the-same-people/)
 
 The useful part is that either person can slow the loop unilaterally. One extra hour of staying present from the distancer, or one round of pursuit withheld by the pursuer, changes the signal the other system is reacting to. Expect the first attempt to feel worse rather than better, on both sides.
 
-Here is what it looks like when both halves are in the same body. Two people who each describe themselves as low maintenance date for a year. Every time one of them starts to raise something that matters, moving in, a future, a hard feeling, the other becomes suddenly very busy at work for a fortnight. Deactivating strategies rarely announce themselves as rejection. They arrive as legitimate, well-timed external pressure, a deadline, a family obligation, a headache, which happens with suspicious reliability to appear exactly when the relationship asks for more. What changed things for that couple was naming it as a pattern rather than as this particular week's excuse, which let both of them see the timing instead of arguing about the deadline.
+Here is what it looks like when both halves are in the same body. Two people who each describe themselves as low maintenance date for a year. Every time one of them starts to raise something that matters, moving in, a future, a hard feeling, the other becomes suddenly very busy at work for two weeks. Deactivating strategies rarely announce themselves as rejection. They arrive as legitimate, well-timed external pressure, a deadline, a family obligation, a headache, which happens with suspicious reliability to appear exactly when the relationship asks for more. What changed things for that couple was naming it as a pattern rather than as this particular week's excuse, which let both of them see the timing instead of arguing about the deadline.
 
 ## What Is the Difference Between Dismissive and Fearful Avoidance?
 
@@ -437,7 +455,9 @@ Somebody in the fearful pattern wants closeness genuinely, moves toward it, gets
 
 The reason this distinction earns its place here is what people conclude about themselves without it. The oscillation gets read as a personality defect. *I'm just inconsistent. I don't know what I want. I ruin things.* Seeing it as a second, distinct pattern with two engines running at once, rather than as evidence of a broken character, changes what a person does next. It also explains the experience of wanting connection and panicking the moment it arrives, which is two accurate systems reporting at the same time rather than one confused one.
 
-Two more words attach to that same oscillating pattern, and one of them is on far heavier rotation than the other. **Fearful avoidant attachment** is the term from the four-category model already described above, and it is used accurately most of the time. **Disorganized attachment** is the one people actually search for, along with disorganised attachment, the same word in British spelling. So is **anxious avoidant**, a fourth name doing double duty, since the infant research used it for the plain avoidant type this page has been describing all along while popular writing now attaches it to the oscillating one. In everyday use the four get treated as synonyms. They did not arrive from the same place, and where the second one came from decides how much weight it can carry.
+The four-category split has an author and a date. Bartholomew and Horowitz proposed it in 1991, cutting the avoidant end into a dismissing version that holds closeness away and reports being comfortable with the arrangement, and a fearful version that wants closeness and expects to be hurt by it, with the limit that the four boxes arrived as a proposed scheme checked afterward against interviews and questionnaires in samples of young adults, which leaves a great many people sitting between two boxes rather than inside one.
+
+Two more words attach to that same oscillating pattern, and one of them is on far heavier rotation than the other. **Fearful avoidant attachment** is the term from the four-category model already described above, and it is used accurately most of the time. **Disorganized attachment** is the one people actually search for, along with disorganized attachment, the same word in British spelling. So is **anxious avoidant**, a fourth name doing double duty, since the infant research used it for the plain avoidant type this page has been describing all along while popular writing now attaches it to the oscillating one. In everyday use the four get treated as synonyms. They did not arrive from the same place, and where the second one came from decides how much weight it can carry.
 
 Disorganized began as a description of infants. The separation-and-reunion procedure that produced the original three classifications had trained observers watching through one-way glass while a caregiver left a room and later came back. Most of what they saw sorted into three organized strategies, the avoidant one among them, which is where the pattern on this page starts. A fourth group did not sort. Going back through the recordings years afterward, coders found children who froze partway across the floor, or moved toward a parent with the head turned away, or produced an approach and a retreat inside the same second. The word picked for that group named the absence of any single organized strategy across a few observed minutes. It described what a small child did in a room on one afternoon. Nobody at the time was handing it to adults.
 
@@ -495,7 +515,7 @@ Every one of these patterns is a polarity with two ends, and describing only the
 
 Read the right-hand column carefully, because it is deliberately unremarkable. Nobody in it is confessing anything. There are no overdue conversations and no speeches. The available end of this pattern is mostly a person who can let one fact about their life become evidence that somebody matters to them.
 
-Don't judge yourself if that column reads as slightly out of reach today. The distance between the two columns took a childhood and then two decades of daily rehearsal to build, and nobody crosses it in a good fortnight.
+Don't judge yourself if that column reads as slightly out of reach today. The distance between the two columns took a childhood and then two decades of daily rehearsal to build, and nobody crosses it in a good two weeks.
 
 ## What Actually Loosens Deactivation?
 
@@ -504,7 +524,7 @@ Repeated, low-stakes experiences of expressing a need and having it land safely,
 That sentence carries all the weight, so read the second half of it again. Doses small enough that the system does not fire. Every attempt to do this in one large brave conversation runs into the same wall, because a large conversation is exactly the level of exposure the strategy was trained to prevent. The repetitions have to be small enough to be boring.
 
 1. **Learn to detect the body before you try to name the feeling.** Deactivation numbs the signal before it reaches conscious feeling, so the first task is smaller than knowing what you feel. It is noticing that something happened at all. The chest tightening as you read a message. The hands cooling. The sudden, urgent interest in a task you did not care about ten seconds ago. Two ten-second checks a day is a serious practice. [There is a separate page on how to actually feel a feeling rather than think about it.](/insights/how-to-feel-your-emotions/)
-2. **Treat the deactivating move as information rather than instruction.** The flaw that appeared overnight, the urge to cancel, the fortnight of work pressure. When one fires, write it down with the date, then write what happened in the forty-eight hours before it. You are looking for a pattern in the timing, and the pattern is usually visible after about six entries.
+2. **Treat the deactivating move as information rather than instruction.** The flaw that appeared overnight, the urge to cancel, the two weeks of work pressure. When one fires, write it down with the date, then write what happened in the forty-eight hours before it. You are looking for a pattern in the timing, and the pattern is usually visible after about six entries.
 3. **Ask for one small thing a week, and let it be given.** Genuinely small. A lift to the station, help carrying something, somebody's opinion on a decision you could have made alone. The favor is beside the point. What is being practiced is the complete loop, from noticing a need to voicing it to receiving something, at a dose low enough to survive.
 4. **Then do not repay it.** No returned favor that evening, no self-deprecating remark to level the exchange, no thank-you card. The immediate rebalancing is the same reflex working on the incoming side, and skipping it is harder than the asking for a lot of people.
 5. **Stay for the twenty minutes.** After something honest has been said in a room, set yourself the smallest possible task: remain, seated, without producing a solution and without checking your phone. Discovering experientially that the twenty minutes end and everybody survives them is what actually loosens the root. [The mechanics of that exit and how to catch it are set out here.](/patterns/emotionally-unavailable/)
@@ -518,6 +538,8 @@ Consider what actual movement looks like. Somebody four years into a relationshi
 The other lever is a relationship. Deactivation loosens fastest around somebody who behaves securely and consistently, a therapist, a steady friend, a partner who does not escalate when you go quiet, functioning as a practice relationship. Treat that as a reason to notice the steady people already in your life and run the repetitions there first, where the stakes are lowest, rather than as an instruction to go hunting for a better partner.
 
 Is any of this comfortable? No. It is small and freaking repetitive, and it works far better than a single overdue conversation ever has. Backslides under stress are normal and expected. A big life event, an illness, a milestone in the relationship itself, and the old strategy comes back online at full strength for a while. That happening is ordinary rather than evidence the work is failing.
+
+One honest note about the evidence under all nine. The small-dose logic here is borrowed from the behavioral training programs of the 1940s and 50s, where somebody rehearsed a difficult act at a size they could survive and worked up from there, and [those names sit on the page that carries them](/patterns/saying-yes-when-you-mean-no/). That lineage was measured over weeks, on rehearsed exchanges rather than on a live relationship, and no trial has taken a list like this one, run it, and reported what happened to anything measurable a year later. What holds these nine up is the mechanism described further up rather than an outcome study, and knowing which of the two you have been handed is worth more than a confident sentence would be.
 
 ## What Happens to Your Relationships While You Practice This?
 
@@ -533,7 +555,7 @@ The honest limitation belongs here too. A small number of arrangements were genu
 
 Longer than a week, and the honest answer runs at two different speeds.
 
-Recognition arrives quickly. Most people can catch a deactivating move mid-flight within a few weeks of deliberate attention: seeing the flaw assemble itself, watching the busy fortnight get scheduled, feeling the chest tighten a second before the not yet leaves your mouth. Catching it counts even on the days you obey it anyway.
+Recognition arrives quickly. Most people can catch a deactivating move mid-flight within a few weeks of deliberate attention: seeing the flaw assemble itself, watching the busy two weeks get scheduled, feeling the chest tighten a second before the not yet leaves your mouth. Catching it counts even on the days you obey it anyway.
 
 The reflex takes far longer, months to years rather than weeks, because it was rehearsed daily for decades and it fades at the pace of accumulated experience rather than understanding. Reading this page changes remarkably little on its own. Fifty small needs voiced and met, in rooms where almost nothing was at stake, change a great deal. Expect a step pattern with long flat stretches and a bad month after any real ending.
 
@@ -553,4 +575,4 @@ Run a pullback log for two weeks. Open a note on your phone. Every time you noti
 
 Then read the second column only, straight through, ignoring the first. Most people find the same thing and find it slightly unsettling: a good dinner, a compliment that landed, a plan for next year, an evening where somebody was genuinely kind. A record like that will not stop the next pullback. It does build the one piece of evidence this pattern has never had, which is a written account of withdrawal arriving on the good days. Your memory will not assemble that record on its own, because it was trained to file the withdrawal as a reasonable response to something that must have been wrong.
 
-If what pulls at you is this pattern rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this material: real screening before anyone arrives, a group kept small enough that the person who handles everything alone cannot quietly do it there too, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what happens when you need somebody out loud is rarely wasted, whatever you decide about anybody afterward.
+If what pulls at you is this pattern rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this material: real screening before anyone arrives, a group kept small enough that the person who handles everything alone cannot quietly do it there too, and integration built into the design rather than left to you once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it and find out for yourself. A week spent finding out what happens when you need somebody out loud is rarely wasted, whatever you decide about anybody afterward.

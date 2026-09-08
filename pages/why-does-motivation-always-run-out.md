@@ -228,7 +228,7 @@ Two different engines, and almost every start runs on the first one.
 
 Reading across those rows makes one thing obvious that is nearly invisible from inside a February. The push and the pull are not competitors, and the sequence matters more than the choice. The push gets you out of the chair. The pull is what you are supposed to be building with the weeks the push buys you, and almost nobody builds it, because during those weeks the push feels so strong that constructing a backup engine seems unnecessary.
 
-There is a second distinction sitting underneath this one, and it explains why two people with the identical stated goal get different outcomes. Somebody who would like to change produces real movement followed by a fairly complete return to where they started. Somebody at genuine threshold, where the current arrangement has become unbearable rather than merely unwanted, changes and the change survives the first real test. Both give the same answer when you ask whether they want it. Both often show identical results in the first fortnight. The difference stays invisible until something goes wrong, by which point months have been spent assuming the two cases were the same case.
+There is a second distinction sitting underneath this one, and it explains why two people with the identical stated goal get different outcomes. Somebody who would like to change produces real movement followed by a fairly complete return to where they started. Somebody at genuine threshold, where the current arrangement has become unbearable rather than merely unwanted, changes and the change survives the first real test. Both give the same answer when you ask whether they want it. Both often show identical results in the first two weeks. The difference stays invisible until something goes wrong, by which point months have been spent assuming the two cases were the same case.
 
 ## Why Does Every Benefit of Changing Get Dismissed as Something You Already Have?
 
@@ -269,7 +269,7 @@ Consider a woman who left a weekend program feeling, in her own words, unstoppab
 
 The repair is mechanical rather than emotional, and there is a well-documented method for it. Peter Gollwitzer described implementation intentions in a 1999 paper in American Psychologist: a plan stated in the form of if situation X arises, I will do Y, which reliably outperforms the same intention held as a general resolve. A later meta-analysis with Paschal Sheeran pooled the accumulated studies and reported a medium-sized effect. The mechanism is unglamorous. Deciding in advance, in specific and slightly boring detail, hands the moment a decision that has already been made, which is worth far more than arriving at the moment with a good attitude and a general commitment.
 
-So the repair has very little to do with recreating the peak state. What works is naming the two or three ordinary situations most likely to test the plan in the first fortnight and deciding, in advance, exactly what happens in each one, while the clarity of the room is still available to do the deciding.
+So the repair has very little to do with recreating the peak state. What works is naming the two or three ordinary situations most likely to test the plan in the first two weeks and deciding, in advance, exactly what happens in each one, while the clarity of the room is still available to do the deciding.
 
 ## Are You Sure That Is What You Are Looking At?
 

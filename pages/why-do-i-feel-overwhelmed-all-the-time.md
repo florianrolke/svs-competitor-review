@@ -59,7 +59,7 @@ faqs:
 - q: "Why do I feel angry and overwhelmed all the time?"
   a: "Irritability is what a system at its limit does with one more input. The snap at whoever asked a small question is sized to everything already stacked behind it, which is why it lands so far out of proportion to the question. Anger also carries more energy than helplessness does, so it is often the only feeling with any push left in it. Naming what sits underneath on the day beats apologizing afterward."
 - q: "Why do I feel sad and overwhelmed all the time?"
-  a: "Sadness often arrives once the flood pauses long enough for anything else to register, which is why it turns up on quiet evenings and holidays rather than in the middle of a hard week. Feelings that were never addressed keep their place in the queue. If flatness has spread across everything, held for months, or arrived with hopelessness, that belongs with a licensed professional rather than with a better system."
+  a: "Sadness often arrives once the flood pauses long enough for anything else to register, which is why it turns up on quiet evenings and vacations rather than in the middle of a hard week. Feelings that were never addressed keep their place in the line. If flatness has spread across everything, held for months, or arrived with hopelessness, that belongs with a licensed professional rather than with a better system."
 - q: "Why do I feel overwhelmed and overstimulated in crowded or noisy places?"
   a: "A room full of movement and noise is a room full of things to track, and a system already scanning for what might go wrong has to process all of it. Where the pattern formed around real unpredictability, crowds cost more again, because the scanning is not optional. Leaving early is a reasonable accommodation while the threshold changes, and it does change, slowly, through ordinary repeated exposure."
 - q: "Why am I most overwhelmed first thing in the morning?"
@@ -75,7 +75,7 @@ faqs:
 - q: "Why does making a to do list not fix this?"
   a: "Lists work well on the version of this that is genuinely about volume, and the first one usually brings real relief. They change very little where a body reads demand as danger, because that reading was never installed by argument in the first place. If week three finds you better organized and still flooding, treat it as a finding about your own situation rather than as a reason to go shopping for a better app."
 - q: "How do I know if this needs a better system or something deeper?"
-  a: "Run one test across a fortnight. Get the list genuinely shorter by delegating, canceling, or saying one clear no, then watch what your body does. If the flooding drops as the list drops, you are dealing with load, and structural work will keep paying. If the list halves and the reaction stays exactly where it was, the driver sits closer to your nervous system than to your calendar, and that work is slower and more physical."
+  a: "Run one test across two weeks. Get the list genuinely shorter by delegating, canceling, or saying one clear no, then watch what your body does. If the flooding drops as the list drops, you are dealing with load, and structural work will keep paying. If the list halves and the reaction stays exactly where it was, the driver sits closer to your nervous system than to your calendar, and that work is slower and more physical."
 related:
 - /patterns/growing-up-with-violence/
 - /patterns/feeling-responsible-for-everyone/

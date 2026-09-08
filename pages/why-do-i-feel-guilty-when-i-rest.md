@@ -51,7 +51,7 @@ faqs:
   q: Why did my week off leave me more tired than the week before it?
 - a: It can overlap with depression while being a different thing. What is described
     here is a specific charge of guilt or wrongness that fires when rest is attempted,
-    which is a recognisable pattern rather than a diagnosis. Persistent low mood,
+    which is a recognizable pattern rather than a diagnosis. Persistent low mood,
     loss of interest in things you used to enjoy, or hopelessness lasting weeks deserves
     its own assessment from a doctor or a licensed professional.
   q: Is guilt about resting a sign of depression, or something else?
@@ -61,7 +61,7 @@ faqs:
     The feeling is worth separating from the fact. Almost nobody around you is actually
     worse off because you sat down on a Sunday afternoon.
   q: Is resting selfish?
-- a: An empty block of holiday time functions as unmonitored time, and unmonitored
+- a: An empty block of vacation time functions as unmonitored time, and unmonitored
     time is what the original environment treated as unsafe. Filling the schedule
     keeps the old alarm quiet, which is why a trip planned to the hour can feel more
     restful than an open week. The restlessness in an unplanned evening usually eases
@@ -81,7 +81,7 @@ faqs:
   q: Why do I feel guilty when someone does something nice for me instead of me doing
     it for them?
 - a: A hard worker's sense of themselves survives an empty calendar. Long hours pointed
-    at something wanted can pause for a holiday and pick up afterwards with nothing
+    at something wanted can pause for a vacation and pick up afterward with nothing
     lost. This pattern cannot pause without a charge arriving, because the pause is
     precisely what it was built to prevent. The tell is what happens on a day when
     there is genuinely nothing left to do.
@@ -119,7 +119,7 @@ faqs:
   q: Why do I feel guilty spending money or time on something purely because it is
     enjoyable?
 - a: Because a day marked as rest makes the stopping deliberate, and deliberate stopping
-    is what the old rule flags hardest. An accidental gap can be explained away afterwards.
+    is what the old rule flags hardest. An accidental gap can be explained away afterward.
     A rest day cannot, since you chose it while there was still work sitting there
     available to be done. The charge is usually loudest in the first two hours, before
     the day has produced anything, and it eases for most people as the day goes on.
@@ -127,7 +127,7 @@ faqs:
 - a: Mostly by resting while the guilt is still present. Waiting for it to lift first
     postpones the rest indefinitely, because the feeling updates only after the behavior
     has already changed. Take the hour, let the charge arrive, and decline to act
-    on it. Then write one line afterwards about what actually fell apart. An empty
+    on it. Then write one line afterward about what actually fell apart. An empty
     list accumulates into evidence in a way that reassurance from another person never
     manages.
   q: How do I actually rest without feeling guilty?
@@ -170,8 +170,8 @@ faqs:
     approved and rest that feels earned are two different things here.
   q: Why do I feel guilty on my days off when the time is already mine?
 - a: The reliable ones are small. An hour that gets filled before you have decided
-    anything. A nap that needs justifying afterwards. Help refused on reflex, faster
-    than any thought about whether you wanted it. A holiday planned to the hour. A
+    anything. A nap that needs justifying afterward. Help refused on reflex, faster
+    than any thought about whether you wanted it. A vacation planned to the hour. A
     promotion filed as an expected duty rather than banked as evidence. The tell that
     separates it from a genuinely full season is that the same charge appears in the
     quiet weeks too.
@@ -267,7 +267,7 @@ Underneath each of them sits the same rule about earning rest first, and the gui
 
 You clear a Sunday afternoon on purpose. By the second hour you are answering an email that could have waited until Monday, and you could not say at what point you decided to.
 
-If that one landed, some of the others will too. You lie down in the middle of an afternoon and the first thing that arrives is a list of what should be happening instead. Someone tells you to just relax, and your jaw tightens instead of your shoulders dropping. A meeting cancels and hands you a free hour, and what shows up is a faint unmoored feeling rather than relief, so you fill the hour with something that did not need doing today. You book a holiday with an itinerary solid through day four, and the one open evening in it makes you restless rather than glad. You finish a project and the next one is already open before the last file is closed.
+If that one landed, some of the others will too. You lie down in the middle of an afternoon and the first thing that arrives is a list of what should be happening instead. Someone tells you to just relax, and your jaw tightens instead of your shoulders dropping. A meeting cancels and hands you a free hour, and what shows up is a faint unmoored feeling rather than relief, so you fill the hour with something that did not need doing today. You book a vacation with an itinerary solid through day four, and the one open evening in it makes you restless rather than glad. You finish a project and the next one is already open before the last file is closed.
 
 One plain thing before the rest of it. If what you are carrying includes exhaustion that sleep no longer touches, months of low mood that will not lift, or any thought of harming yourself however briefly it passes, that belongs with a doctor or a crisis line today rather than with a page like this one. There is a fuller version of that boundary two sections down.
 
@@ -305,7 +305,7 @@ Someone who is simply busy uses the gap to rest, because the pressure lived in t
 |---|---|---|
 | A packed few months with no downtime in them | A genuinely full season | It ends. When the deadline passes, the gap gets used for rest, and the rest feels good rather than uneasy |
 | Long hours pointed at something you want | Being driven | Drive survives an empty week. Nothing is at stake in the gap, so the gap is simply a gap |
-| Hours poured into getting one thing exactly right | Perfectionism | Perfectionism organises around a verdict on the work. This fires once there is no work left for a verdict to land on |
+| Hours poured into getting one thing exactly right | Perfectionism | Perfectionism organizes around a verdict on the work. This fires once there is no work left for a verdict to land on |
 | Needs going unlogged across the board: skipped checkups, unopened post, no dentist in four years | Self-neglect | Self-neglect is passive and broad. This is active and narrow, a charge that fires the instant rest is attempted |
 | An hour that gets filled before you have decided anything | Compulsive busyness | The filling happens ahead of the feeling. Here the feeling arrives even on the days you fill nothing |
 | Rest actually taken, with a charge of wrongness attached to it | Guilt when resting, the pattern on this page | Time, health, and permission are all present, and stopping still registers as an infraction |
@@ -322,7 +322,7 @@ Because stopping is the one condition under which the thing you have been quietl
 
 Three separate exposures arrive in the same empty afternoon, and most people can feel all three without ever having separated them. The first is replaceability. If nothing falls over while you are sitting down, a question you have been outrunning for years gets an answer, and it is not the answer you were braced for. Plenty of people discover that being needed had become the main evidence they were worth having around, and an uneventful week without them is a genuinely difficult thing to look at.
 
-The second is competence. Where the household ran on evaluation, output was the surface a verdict could land on favourably. Take the output away and the surface goes with it. A body at rest offers nothing to point at if the verdict arrives, which is why unstructured time gets crowded out first, ahead of anything with a deliverable attached to it.
+The second is competence. Where the household ran on evaluation, output was the surface a verdict could land on favorably. Take the output away and the surface goes with it. A body at rest offers nothing to point at if the verdict arrives, which is why unstructured time gets crowded out first, ahead of anything with a deliverable attached to it.
 
 The third is the quietest and lands hardest. A slow day asks what you want, and the role never required an answer to that. If most of your adult life has been organized around being useful, an open afternoon can reveal a self that was never separately developed from the job, the caretaking, or the reliability. That is a genuinely uncomfortable thing to meet at three in the afternoon with nothing else scheduled. [Where that goes if it turns out to be the main event is covered here.](/patterns/i-dont-know-who-i-am-anymore/)
 
@@ -336,7 +336,7 @@ From three fairly different childhoods that converge on the same Sunday afternoo
 
 **A household carrying more than it could hold.** Where adult-sized duties arrived early, the child concluded that carrying the load alone was the only safe arrangement. Stopping, in that arithmetic, is the exact moment the load could fall and be seen falling. Adults from this route are excellent in a crisis, poor at being helped, and describe their tiredness long before they describe anything else. [Growing up ahead of schedule leaves its own signature.](/patterns/i-had-to-grow-up-too-fast/)
 
-**A household where affection was paid for with caregiving.** Where a child got installed as the family's functional or emotional caretaker, feeding a parent's needs, running a household, absorbing another adult's moods, affection itself arrived conditioned on the caregiving. The child's own needs, rest included, became the first thing traded away, and got relabelled from ordinary requirement into imposition. [That arrangement has a name and a page.](/patterns/parentification/)
+**A household where affection was paid for with caregiving.** Where a child got installed as the family's functional or emotional caretaker, feeding a parent's needs, running a household, absorbing another adult's moods, affection itself arrived conditioned on the caregiving. The child's own needs, rest included, became the first thing traded away, and got relabeled from ordinary requirement into imposition. [That arrangement has a name and a page.](/patterns/parentification/)
 
 Most people recognize one route strongly and a second faintly, and a single household can supply all three without anybody involved intending anything of the kind. What matters is the thing they have in common. In none of them was stopping modeled as something that happens on a schedule regardless of output. It got modeled as the gap right before the next demand, or as the moment competence might finally be questioned.
 
@@ -365,7 +365,7 @@ This surprises people who have only ever thought of it as a rest problem. The sa
 | Where it shows up | What it looks like from outside | What the guilt is enforcing |
 |---|---|---|
 | An unscheduled afternoon | The free hour gets filled with something that did not need doing today | Time has to be paid for with something produced |
-| A holiday | An itinerary solid through day four, restlessness on the one open evening | Unmonitored time is unsafe time |
+| A vacation | An itinerary solid through day four, restlessness on the one open evening | Unmonitored time is unsafe time |
 | Money spent on pleasure | A purchase justified by usefulness, or deferred for another year | Enjoyment has to be earned before it is permitted |
 | Help offered to you | A reflexive no, delivered before you have actually considered it | Receiving without contributing first breaks the arrangement |
 | Help you give | Jumping into a fixing role nobody asked for, at your own expense | Usefulness is the route to belonging |
@@ -407,9 +407,9 @@ The first line of the identify box above is this section in miniature. You clear
 
 People describe it in nearly the same sentence every time. "I probably needed a timeout, but I've been pretty busy in that so-called timeout. This was supposedly my taking it easy, and it hasn't actually felt like it." Notice how much of that was already settled before the week began. The need was real, the permission was there, the days were cleared. What carried on regardless was the machinery that fills a working day, the sorting and the planning and the catching up and the garage that finally got cleared out, because that machinery has no idle setting and nobody ever asked it to grow one.
 
-What shows up in the middle of a week like that reads differently from the guilt the rest of this page describes. Guilt arrives when you stop. This arrives when you almost did, and it sounds more like a scoreboard somebody left running: "It was always this mental battle of what's going to win out that day, and always a feeling that I never managed to get everything done." The second half of that sentence is worth sitting with, because of where it was said. It was said about days on which nothing had to be done at all. The ledger followed the person into the holiday and went on scoring a week that had no entries to score.
+What shows up in the middle of a week like that reads differently from the guilt the rest of this page describes. Guilt arrives when you stop. This arrives when you almost did, and it sounds more like a scoreboard somebody left running: "It was always this mental battle of what's going to win out that day, and always a feeling that I never managed to get everything done." The second half of that sentence is worth sitting with, because of where it was said. It was said about days on which nothing had to be done at all. The ledger followed the person into the vacation and went on scoring a week that had no entries to score.
 
-The shortest report in this group is also the strangest. "I'm almost feeling like I'm not doing enough." That is somebody on a break they arranged themselves, measuring the day against a quota nobody set, in the one stretch of the year where the quota was formally suspended. Tiredness gets tracked no better here than it does in a working month. What gets tracked is throughput, and throughput on a holiday will always come back low.
+The shortest report in this group is also the strangest. "I'm almost feeling like I'm not doing enough." That is somebody on a break they arranged themselves, measuring the day against a quota nobody set, in the one stretch of the year where the quota was formally suspended. Tiredness gets tracked no better here than it does in a working month. What gets tracked is throughput, and throughput on a vacation will always come back low.
 
 There is a version of the same week that does convert, and it is worth being able to tell them apart. "I was actually feeling guilty that I should have been doing some work, but it was nice just to relax." The guilt showed up there too, and the rest happened anyway. That is the ordinary version this page has been describing from the top, and it is the one the practice further down actually loosens. The version in this section never reaches that point. Nothing gets enjoyed, nothing gets recovered, and the guilt does not even get a clear shot, because the work never stopped long enough for it to fire at.
 
@@ -421,7 +421,7 @@ One practical thing follows from all of it. Booking more days rarely repairs a w
 
 Because a body running on vigilance holds a great deal at bay until the demand passes, and then it stops holding.
 
-The pattern is familiar to almost everyone who recognizes this page. Symptoms get dismissed or deferred through the busy stretch, and then arrive together on the first day of a holiday, or on the Saturday after a project ships, or in the week between two jobs. Nothing mysterious is happening. A system that has been suppressing whatever would interrupt the work stops suppressing it once the work ends.
+The pattern is familiar to almost everyone who recognizes this page. Symptoms get dismissed or deferred through the busy stretch, and then arrive together on the first day of a vacation, or on the Saturday after a project ships, or in the week between two jobs. Nothing mysterious is happening. A system that has been suppressing whatever would interrupt the work stops suppressing it once the work ends.
 
 The problem is what this teaches. Stopping and getting ill keep landing next to each other, close enough in time that the association forms without any conscious help. Rest starts to look like the thing that caused the crash, which makes the next rest harder to take, which lengthens the stretch before it, which makes the eventual crash bigger. The loop is self-reinforcing and almost nobody notices it running.
 
@@ -475,14 +475,14 @@ Two caveats matter more than any item on that list. The first is that some seaso
 
 Months of small repetitions, and the feeling is the last part to move.
 
-That order surprises people, so it is worth stating directly. What usually shifts first is the behavior of taking rest anyway, guilt and all. The felt sense of deserving it catches up afterwards, sometimes long afterwards, and almost nobody can name the week it changed. People generally notice it in retrospect, on some ordinary Sunday when they realize an afternoon went by without an argument happening in their head.
+That order surprises people, so it is worth stating directly. What usually shifts first is the behavior of taking rest anyway, guilt and all. The felt sense of deserving it catches up afterward, sometimes long afterward, and almost nobody can name the week it changed. People generally notice it in retrospect, on some ordinary Sunday when they realize an afternoon went by without an argument happening in their head.
 
 Expect regression, and expect it specifically under load. A stretch of high stress pulls the old rule straight back online: money pressure, a new job, a quarter where somebody is watching your output closely, a family crisis. That is normal relapse rather than proof the change did not take. The rule was built for exactly those conditions, so those are the conditions in which it reappears first.
 
-Does it disappear entirely? Most people describe it thinning rather than vanishing. The charge gets smaller. The gap between feeling it and obeying it gets longer. The Sunday afternoon stops needing to be defended, then stops needing to be planned, and then one passes without you noticing that it did. That last part, noticing afterwards rather than during, is what the change looks like from the inside, and it is considerably less dramatic than anybody hopes.
+Does it disappear entirely? Most people describe it thinning rather than vanishing. The charge gets smaller. The gap between feeling it and obeying it gets longer. The Sunday afternoon stops needing to be defended, then stops needing to be planned, and then one passes without you noticing that it did. That last part, noticing afterward rather than during, is what the change looks like from the inside, and it is considerably less dramatic than anybody hopes.
 
 ## What Is One Thing to Do Today, Before You Reschedule Anything?
 
-Run a collapse log, and run it four times. Take one hour this week that you would normally fill, and before you sit down, write one line predicting what will go wrong if you spend it doing nothing. Be specific: the email that will go unanswered, the person who will be let down, the thing that will slip. Then take the hour. At the end of it, write a second line recording what actually happened. Do that four times over a fortnight, then read the eight lines together in one sitting. Almost everyone finds the prediction column full and the outcome column close to empty, and seeing those two columns next to each other in your own handwriting does more than another year of being told you deserve a break. It costs four hours you were going to feel guilty about anyway, and it is worth doing whether or not you ever go anywhere or buy anything.
+Run a collapse log, and run it four times. Take one hour this week that you would normally fill, and before you sit down, write one line predicting what will go wrong if you spend it doing nothing. Be specific: the email that will go unanswered, the person who will be let down, the thing that will slip. Then take the hour. At the end of it, write a second line recording what actually happened. Do that four times over two weeks, then read the eight lines together in one sitting. Almost everyone finds the prediction column full and the outcome column close to empty, and seeing those two columns next to each other in your own handwriting does more than another year of being told you deserve a break. It costs four hours you were going to feel guilty about anyway, and it is worth doing whether or not you ever go anywhere or buy anything.
 
-If what pulls at you is the guilt itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the person who shows up determined to be useful cannot quietly turn the week into another job, and long unstructured stretches left in the schedule on purpose, with integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalised, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out what happens when you finally stop is rarely wasted, whatever you decide afterward.
+If what pulls at you is the guilt itself rather than the setting or the ceremony, [our Sacred Valley seminar](https://florianrolke.com/the-soulsearching-experience/) is built around exactly this kind of material: real screening before anybody arrives, a group kept small enough that the person who shows up determined to be useful cannot quietly turn the week into another job, and long unstructured stretches left in the schedule on purpose, with integration built into the design rather than left to you to work out alone once you are home. The honest limitation is that exact dates, price, and the final group size cap are still being finalized, so anybody comparing programs on those numbers today cannot yet compare ours. Ask any program these same questions, ours included, and pick the container that fits what you actually came looking for. Feel into it, and find out for yourself. A week spent finding out what happens when you finally stop is rarely wasted, whatever you decide afterward.

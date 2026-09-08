@@ -70,7 +70,7 @@ faqs:
 - q: "Will people be angry if I stop volunteering?"
   a: "A few will be, briefly, and they are usually the people whose plans quietly depended on you. Most will not notice at all, which is its own uncomfortable piece of information. Expect a short period where it feels like something is missing. That feeling is standard during a change like this one, and it resolves faster than almost anybody predicts."
 - q: "How long does this take to change?"
-  a: "Noticing arrives inside two weeks, the pause itself becomes survivable in about a month, and the reflex takes a season. Most people can catch their own hand starting to move within a fortnight, which counts even on the days it still goes up. Rooms with history in them, usually family, change last, and that is the normal shape rather than a sign that none of it took."
+  a: "Noticing arrives inside two weeks, the pause itself becomes survivable in about a month, and the reflex takes a season. Most people can catch their own hand starting to move within two weeks, which counts even on the days it still goes up. Rooms with history in them, usually family, change last, and that is the normal shape rather than a sign that none of it took."
 - q: "When does this belong with a professional rather than a page like this?"
   a: "When stopping produces something closer to panic than discomfort, when the exhaustion has been getting worse over months rather than varying with the week, or when the person you cannot stop helping is somebody whose reaction frightens you. Any of those belongs with a licensed professional now rather than after another round of self-management, and immediately if there is any thought of harming yourself."
 related:
@@ -220,7 +220,7 @@ The obvious version happens in a meeting, and the obvious version is a fraction 
 | I will capture the actions | Somebody has to | The permanent recorder in every room you enter |
 | Send it over and I will have a look | Generosity toward a friend's project | A second job with no start or finish |
 | I will host it here | Making it easy for everyone | Two days of preparation and a week of recovery |
-| I will handle Mum's side of it | Being the one who can cope | The default position in the family, permanently |
+| I will handle Mom's side of it | Being the one who can cope | The default position in the family, permanently |
 
 Read that list and count how many of yours arrived as a full sentence you decided to say. For most people it is none of them. They arrived as reflexes in gaps that were four seconds long.
 
@@ -268,7 +268,7 @@ Everybody in the room feels an unclaimed task as mild social pressure. That is t
 
 Nobody in the room can see this. From outside, you look decisive. From inside, you were the first person to run out of air.
 
-This is the root that shows up with strangers, which is what separates it cleanly from the others. The family root goes quiet in a room full of people you will never see again. The usefulness root needs an audience whose opinion you have some stake in. The silence root fires in a queue, in a stranger's kitchen, at a conference, at the point in a group conversation where nobody has spoken for four seconds. If you have ever volunteered for something in a room where you knew literally nobody, this is almost certainly your root.
+This is the root that shows up with strangers, which is what separates it cleanly from the others. The family root goes quiet in a room full of people you will never see again. The usefulness root needs an audience whose opinion you have some stake in. The silence root fires in a line, in a stranger's kitchen, at a conference, at the point in a group conversation where nobody has spoken for four seconds. If you have ever volunteered for something in a room where you knew literally nobody, this is almost certainly your root.
 
 It is also the root most likely to leave you genuinely uncertain what you agreed to. When the pressure is coming from the pause rather than the task, the task is more or less arbitrary, so the details do not get encoded. People with this root routinely walk out of meetings and have to ask a colleague what exactly they just took on.
 
@@ -464,13 +464,13 @@ The last row is the one people report as the strangest, and it takes the longest
 
 ## How Long Does This Take, Honestly?
 
-Noticing arrives in a fortnight, the pause becomes survivable in about a month, and the reflex takes a season.
+Noticing arrives in two weeks, the pause becomes survivable in about a month, and the reflex takes a season.
 
 Expect three uneven stages, and expect the first one to be more irritating than satisfying.
 
 Noticing comes first and comes fast. Within about two weeks of paying attention, most people can feel their own hand starting to move before it gets there. This stage is peculiar, because catching it and stopping it are two separate skills that arrive months apart, and for a while you will simply have a much clearer view of yourself doing the thing. It counts anyway. Everything else is built on it.
 
-The pause itself takes around a month, and this is the part that feels like withdrawal, so it is worth knowing in advance. You go through the withdrawal in the beginning, and then find out it is actually not that hard once you commit to it. In the meantime it feels like something is missing, and that is always the case, and you find out quite quickly that nothing actually was. Expect a strange flatness in the first fortnight of meetings where you did not take anything on, and expect to interpret that flatness as evidence you are becoming somebody selfish. That reading arrives on schedule for almost everybody and it is not information about you.
+The pause itself takes around a month, and this is the part that feels like withdrawal, so it is worth knowing in advance. You go through the withdrawal in the beginning, and then find out it is actually not that hard once you commit to it. In the meantime it feels like something is missing, and that is always the case, and you find out quite quickly that nothing actually was. Expect a strange flatness in the first two weeks of meetings where you did not take anything on, and expect to interpret that flatness as evidence you are becoming somebody selfish. That reading arrives on schedule for almost everybody and it is not information about you.
 
 The rest takes a season and it arrives in patches. Work moves first, because work has systems that can hold a change. Then friendships, which mostly adjust without comment. The last to move is nearly always the room with the most history in it, which for most people is family, because that room has the strongest expectation of your role and the fastest reaction when you step outside it. Holding a new arrangement for four months and then organizing the entire Christmas single-handedly is the normal shape of this rather than evidence that none of it took.
 

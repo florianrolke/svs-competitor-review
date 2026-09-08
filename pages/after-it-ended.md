@@ -161,6 +161,8 @@ All of those habits have an object, the object has gone, and none of them receiv
 
 Add to that what any sustained threat does to a body. Appetite is one of the first systems to go offline under threat and one of the first to come back. Sleep changes shape. Attention gets narrow and sticky. Digestion complains. None of this requires anything unusual about you, and none of it is evidence about the size of your feeling or the depth of your character.
 
+There is imaging work pointed straight at the chest-and-stomach version of this question: a 2011 paper in the Proceedings of the National Academy of Sciences, whose title states that social rejection shares somatosensory representations with physical pain, scanned people who had recently been through an unwanted ending while they looked at a photograph of the ex-partner and found activity in the regions carrying the sensory side of physical pain rather than only the distress side. Everybody in it had been left, so it says nothing about an ending you decided on yourself, and it remains regional overlap of the kind described further up this page as falling well short of sameness. Its authors are cited elsewhere on this site for unrelated work, so I have described the paper rather than added their names to this page.
+
 The one thing worth saying plainly to somebody in the first weeks is that the intensity of the physical response is not a scoreboard. People sometimes read their own symptoms as a report on how much the relationship meant, and then feel exposed if the symptoms are large, or fraudulent if they are small. The correlation is much weaker than it feels. Physical response tracks disruption, surprise and sleep at least as much as it tracks love.
 
 ## What Shape Does This Usually Take, and Over What Course?
@@ -217,7 +219,9 @@ Here is why it should not be followed. The reported effect was small and measure
 
 If any part of this is bad enough that medicating it seems reasonable, that is a conversation with a doctor rather than a decision made at quarter past four in the morning on the strength of something you read.
 
-## Why Does Practical Life Feel Unmoored Out of Proportion to Missing Them?
+## Why Do I Feel Like I No Longer Know Who I Am Without My Ex?
+
+Some of what you would have said about yourself was only ever true inside the pairing, and it left when they did. The same mechanism is why practical life feels unmoored out of all proportion to how much you miss them.
 
 Because the person was also a structure, and the structure went at the same moment.
 
@@ -229,7 +233,9 @@ There is also a self-description in there. Slotter and colleagues reported in 20
 
 The practical consequence is worth stating. If most of what you are experiencing is architectural, then the things that help are architectural too, and they have very little to do with feelings about the person. Somebody has to decide when you eat now, and it has to be you. Somebody has to fill a Saturday. This is unglamorous, it feels beside the point, and it moves things more than most of what gets recommended.
 
-## Which Part of This Is Involuntary, and Which Part Did You Choose?
+## Why Do I Keep Checking My Ex's Profile Even Though It Makes Me Feel Worse?
+
+Because checking sits in the chosen half of an aftermath whose other half is involuntary, and the chosen half keeps running because it pays out faster than it costs.
 
 This is the most useful cut available and almost nobody makes it, which is why the shame in this area is so badly distributed.
 
@@ -240,6 +246,8 @@ This is the most useful cut available and almost nobody makes it, which is why t
 Almost every piece of advice you will be given aims at the first category, which is why almost all of it fails. You cannot decide to stop missing somebody. You can decide, with difficulty and imperfectly, what to do at quarter past four, and that is the entire available surface.
 
 It is worth being accurate about why the chosen part persists, because willpower is the wrong frame for it. Each of those acts pays out. A check produces about twenty seconds of relief from not knowing. A reconstructed conversation produces a version of the ending in which you are understood. A drive past a building produces the sensation of contact. These are small, reliable, immediate returns, and the cost lands ten minutes later, which is the exact structure of every behavior that is hard to stop. Nothing about you is weak. The schedule of payoffs is simply arranged badly.
+
+There is one study pointed straight at whether it makes things worse. A 2012 report on people who kept watching a former partner's profile after an ending found more distress, more longing and less of the personal growth that usually follows an ending, after accounting for how much offline contact those people had. It is named and discussed on [the page about checking somebody's social media](/patterns/checking-their-social-media/), so I have described it here without repeating the attribution, and its limit is the one that matters most to you: it measures an association across people at a single moment, so it cannot say whether the checking produced the distress, the distress produced the checking, or both at once.
 
 Which is the honest reason this page hands you no rule about contact, no day count, and no set of phases. Those exist in quantity, they sell well, and there is nothing underneath them. What is worth having instead is an accurate account of what your own four in the morning is buying.
 
@@ -277,7 +285,7 @@ Then the feeling about them will keep coming out smaller than the disruption, an
 
 This is the reader who can say, with reasonable honesty, that they are not sure how much they miss the actual person, and who is nonetheless barely functional. The disorientation is real and its object is a daily architecture rather than an individual.
 
-The markers are distinctive. The hardest moments are logistical rather than emotional. Sunday afternoons, holidays, the question of who to tell about something that happened at work. You feel the absence most sharply in the moments that used to be organized by somebody else, and least sharply when you think about the person directly. Photographs do relatively little. An empty calendar does a lot.
+The markers are distinctive. The hardest moments are logistical rather than emotional. Sunday afternoons, vacations, the question of who to tell about something that happened at work. You feel the absence most sharply in the moments that used to be organized by somebody else, and least sharply when you think about the person directly. Photographs do relatively little. An empty calendar does a lot.
 
 There is often a financial or housing component sitting underneath, and it deserves to be named as its own load rather than folded into grief. A person managing an income drop, a move, and a broken attachment is carrying three things, and treating all three as heartbreak makes the whole situation unreadable.
 
@@ -389,6 +397,8 @@ And the four in the morning behavior stops, usually without a decision being mad
 
 It depends on the root, and I will not give you a number for the first one, for the reasons set out above.
 
+The one thing anybody has measured directly against this question is a forecast rather than a duration. The 2008 study in the Journal of Experimental Social Psychology described earlier compared what people predicted about their own distress with what those same people later reported, and the predictions ran both too long and too dark, with the gap widest at the later points. Its sample was undergraduates in short relationships, so it fixes a direction and leaves the duration open, and it cannot tell you where your own weeks will sit inside it.
+
 If this is an ordinary ending on its ordinary course, the honest answer is that the direction is reliable and the duration is not. What is available immediately, on the day you read this, is the removal of the second layer. A great many people find that the commentary about whether their reaction is acceptable was carrying half the weight, and that half can go this week.
 
 If a structure ended, this moves at the speed of the rebuilding rather than the speed of the feeling, which makes it unusually responsive to deliberate action. People who fill the architecture on purpose report a different month within about six weeks. People who wait for the feeling to change first tend to wait a long time.
@@ -428,6 +438,8 @@ Two things, and neither of them is aimed at the feeling.
 At the end of the week two things will be visible that were not visible before. The first is the total, which is almost always larger than people expect and is the most persuasive argument anybody will ever make to you about this. The second is the pattern in the word before it, which is where the actual finding lives. Most people discover that their four in the morning is triggered by something specific and repeatable, and that the trigger has very little to do with the ex-partner. Being alone at a particular hour. A particular kind of day at work. The gap after finishing something. One person's name coming up.
 
 That is a piece of information about your own week that no article can hand you, and it is what makes the chosen part of this addressable at all.
+
+One finding bears on the count itself, and it is an odd one. A 2015 study in Social Psychological and Personality Science, whose title reports that participating in research on romantic breakups promotes emotional recovery via changes in self-concept clarity, put 210 recently separated young adults into either four rounds of detailed measurement across nine weeks or an assessment at the start and the end only, and the intensively measured group reported a larger fall in self-concept disturbance, with that gain in self-description accounting for their lower emotional intrusion and loneliness. No other main effect appeared, the mechanism is inferred rather than shown, and nobody in it was told the measuring was meant to help, so treat it as a reason the count is worth keeping rather than as a promise about what it will do for you. Its authors are cited on other pages of this site, one of them for entirely unrelated work, so I have described the paper without adding their names here.
 
 Do not make any large decision this week. Not about a job, a city, money, or another person. The forecasting problem is at its most active in exactly this stretch, and the sentence that runs at four in the morning about how permanent this is comes from the machinery known to be least reliable about precisely that question.
 

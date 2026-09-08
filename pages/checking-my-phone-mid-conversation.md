@@ -251,6 +251,8 @@ Watch where it lands over a week and the pattern is usually embarrassingly speci
 
 This is worth being precise about, because it is the root people most often talk themselves out of. The escape does not require the subject to be dramatic. It only requires the subject to be one you have no comfortable move inside. A conversation you cannot win, cannot end, and cannot say the true thing in is uncomfortable in a very low-grade way, and low-grade discomfort with an exit six inches from your hand does not stand a chance.
 
+Melumad and Pham tested a nearby question in 2020 in the Journal of Consumer Research, treating the phone as a pacifying object rather than only a useful one. Under stress, people reached for their own phone more readily than for anything else available, and an identical activity produced more stress relief on their own device than on a laptop or on the same model of phone belonging to somebody else. The comfort sat in that specific object, which is part of why nothing else nearby quite replaces it once the discomfort arrives. The limit matters as much as the result: that stress was manufactured under test conditions, nobody was mid-conversation, and no subject was being avoided. So the work explains why the device wins so easily against a difficult moment, and says nothing at all about which subject sent you there. Only a week of evidence does that.
+
 The signature.
 
 - The glances cluster by topic. Map a week and you will find three or four subjects carrying most of them.
@@ -287,7 +289,7 @@ Then the glance is answering a silence, the silence used to be ordinary, and thi
 
 Two people who live together do not talk continuously and never have. An evening between them is mostly gaps: after a plate is finished, during the slow part of a film, in the middle of a conversation that has said its main thing and is winding down. Those gaps were the normal state of a shared room for most of human history and they were not experienced as a problem, because there was nothing else to do inside them.
 
-Now every gap has a filler within arm's reach, and it gets used, and after enough repetitions the gap itself starts to feel like something that requires a response. That is the change worth noticing. The pause did not become uncomfortable on its own. It became uncomfortable in the presence of an alternative, in the same way a queue becomes unbearable only once everybody in it has something to look at.
+Now every gap has a filler within arm's reach, and it gets used, and after enough repetitions the gap itself starts to feel like something that requires a response. That is the change worth noticing. The pause did not become uncomfortable on its own. It became uncomfortable in the presence of an alternative, in the same way a line becomes unbearable only once everybody in it has something to look at.
 
 Dwyer and colleagues tested a version of this in 2018 with families sharing a restaurant meal. People whose phones remained available reported more distraction and less enjoyment of the meal than those whose phones were put away. The meal was the same meal. The difference was whether the pauses had somewhere to go.
 
@@ -314,10 +316,10 @@ The signature.
 - No feeling before it, and no relief after it.
 - You check a phone you are already holding, or check twice in a minute.
 - Asked what you looked at, you genuinely cannot say.
-- It fires in absurd places: a lift between two floors, a queue of two people, the eight seconds while a kettle boils.
+- It fires in absurd places: a lift between two floors, a line of two people, the eight seconds while a kettle boils.
 - The rate is flat. It does not spike around particular topics or particular weeks.
 
-If this is your root, you have the cheapest version of this problem, because habit responds to geography and asks for very little insight. Change where the phone physically sits during the parts of the day you care about and the rate drops within a fortnight, without any work on yourself at all.
+If this is your root, you have the cheapest version of this problem, because habit responds to geography and asks for very little insight. Change where the phone physically sits during the parts of the day you care about and the rate drops within two weeks, without any work on yourself at all.
 
 One honest caution, because this is also the root everybody wants to have. It asks the least of you, so it is the most attractive diagnosis on the list. The check is the flatness of the rate. Genuine habit is boringly even. If your glances bunch around one person, one topic, or one bad month, something else is driving a large part of it and the geography fix will only take you so far.
 
@@ -349,7 +351,7 @@ Two or three of those will point the same way, and that convergence is your answ
 
 Frequently, and any version of this discussion that will not say so plainly is asking you to feel bad instead of asking you to think.
 
-A parent in hospital. A child who is out. A business with one person in it. A shift that could be called in. A teenager who said they would text. A delivery, a taxi, a flight, a bank. Households run on shared logistics now, and a good deal of what looks like distraction in a kitchen is two adults coordinating a Thursday. Some conversations are genuinely companionable background and both people know it and neither minds. None of that is the pattern this page is about, and confusing the two is how people end up either miserable or defensive.
+A parent in the hospital. A child who is out. A business with one person in it. A shift that could be called in. A teenager who said they would text. A delivery, a taxi, a flight, a bank. Households run on shared logistics now, and a good deal of what looks like distraction in a kitchen is two adults coordinating a Thursday. Some conversations are genuinely companionable background and both people know it and neither minds. None of that is the pattern this page is about, and confusing the two is how people end up either miserable or defensive.
 
 So here is the separator, and it is the sharpest test available:
 
@@ -457,7 +459,7 @@ Longer than the habit version suggests and shorter than the guilt version sugges
 
 Noticing arrives fast. A week of counting and most people can name their root, name the three subjects it clusters around, and describe the exact moment in a sentence when the hand starts moving. That stage is frustrating, because you can watch the whole thing operate and still find yourself looking at a lock screen on Thursday. Seeing it counts anyway, and everything after it depends on it.
 
-The habit root moves in a fortnight, once the geography changes. The pause root takes a few weeks and mostly gives you a pleasant surprise. The avoidance root takes considerably longer, because the discomfort it was escaping is still there and now has nowhere convenient to go, and that is genuinely harder than it sounds on a page.
+The habit root moves in two weeks, once the geography changes. The pause root takes a few weeks and mostly gives you a pleasant surprise. The avoidance root takes considerably longer, because the discomfort it was escaping is still there and now has nowhere convenient to go, and that is genuinely harder than it sounds on a page.
 
 Expect the plan itself to need revision, and do not read that as failure. All you can really do is test the hypothesis about which root is yours and find out whether it is going to work. It would be a little comical to think you could make a plan that works on the first strike, because life rarely runs that way. You try the geography, you watch what happens, and what happens tells you what you are dealing with.
 
@@ -465,7 +467,9 @@ There is also no perfect timing for starting this, which matters because the sta
 
 And one warning about the cost, since it is the part people underestimate. You have to give up more than you would expect to give up. Not the phone, which nobody is asking for. The version of your evening where nothing has to be said, where the pauses are covered, and where a subject can be exited without anybody naming it. That arrangement has been doing real work, and getting rid of it is felt as a loss for a while before it is felt as anything else.
 
-## What Is Worth Doing This Week, Before You Change Anything Else?
+## How Do I Stop Checking My Phone While People Are Talking?
+
+You stop it by finding out what your glance is actually doing, and that is what this week is for, before you change anything else.
 
 A count, a topic column and one uncomfortable question, and the whole assignment asks you to change nothing at all for the first three days.
 

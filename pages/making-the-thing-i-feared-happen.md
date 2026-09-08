@@ -56,7 +56,7 @@ faqs:
 - q: "Can I be right about people and still be doing this?"
   a: "Yes, and this combination is common. Accurate reading and behavioral confirmation are not alternatives to each other. You can be genuinely perceptive about a situation, be correct about how it was going to go, and still contribute several small things that pushed it further in that direction. Being right does not settle the question of whether you also helped."
 - q: "How long does it take to change this?"
-  a: "Catching the move takes days to weeks. Most people can name their own opening behavior within a fortnight of paying attention to it. Changing the expectation underneath takes considerably longer, and for many people it does not change so much as lose its authority. What moves first is the gap between the forecast arriving and you acting on it."
+  a: "Catching the move takes days to weeks. Most people can name their own opening behavior within two weeks of paying attention to it. Changing the expectation underneath takes considerably longer, and for many people it does not change so much as lose its authority. What moves first is the gap between the forecast arriving and you acting on it."
 - q: "Does this happen at work as well as in relationships?"
   a: "Yes, and it is often easier to see there because the record is written down. Going into a meeting certain you will be dismissed, and therefore speaking late, briefly, and with a hedge in front of the point, produces a reception that looks exactly like being dismissed. The setting varies. The sequence underneath is the same one."
 - q: "What if I was right and they really did go off me?"
@@ -375,7 +375,7 @@ And the marker most people report as the biggest one: a bad outcome arrives, and
 
 Days for the noticing, months for the rest, and it is not a straight line.
 
-Naming your own opening move is fast. Most people who pay deliberate attention for a fortnight can describe what they do in the first minutes of a situation they are dreading, and many are unsettled by how consistent it turns out to be. That is a real result and it arrives quickly.
+Naming your own opening move is fast. Most people who pay deliberate attention for two weeks can describe what they do in the first minutes of a situation they are dreading, and many are unsettled by how consistent it turns out to be. That is a real result and it arrives quickly.
 
 Changing the move is slower but still measured in weeks, because it is a discrete behavior rather than a state of mind, and discrete behaviors respond to repetition. Six or eight deliberate attempts, with a written record, is usually enough to establish whether the outcome shifts.
 

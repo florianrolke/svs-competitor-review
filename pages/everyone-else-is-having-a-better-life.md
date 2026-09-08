@@ -47,7 +47,7 @@ faqs:
   a: "Because a good week is evidence about one week, and the belief being tested is about your life. Any comparison between your life and an imagined better one is unfalsifiable, so it survives every piece of contrary evidence you feed it. You can go to everything for a year and still hold it. That is a strong clue that the belief is doing something other than reporting on your social calendar."
 - q: "What if I do not know what I actually want?"
   a: "This is the most common situation and it is almost never named. If nothing is being wanted specifically, then every alternative beats a chosen evening automatically, because the chosen one has real content and the alternatives have none. The tell is that the pull is generic. You do not want that particular party. You want to not be missing it, and those are entirely different appetites."
-- q: "Why is it worse in the evening and at the weekend?"
+- q: "Why is it worse in the evening and on the weekend?"
   a: "Milyavskaya and colleagues followed a group of students repeatedly across a semester in 2018 and found the experience climbed across the day and across the week, arriving most strongly in the evening and toward the weekend. Those are the windows with the least competing demand and the most visible activity from other people. The feeling is not stronger then so much as unopposed, which is a different thing."
 - q: "Is this about the event or about being invited?"
   a: "For a lot of people it is entirely about being invited, and the tell is simple. If you would have declined but needed to be asked, then attendance was never the point and the invitation was doing the work. A photograph of strangers costs you nothing. A photograph of six specific people costs a great deal. If you check who was there before you look at what happened, you have your answer."
@@ -179,7 +179,9 @@ That produces a specific and predictable error, which the next sections deal wit
 
 There is one honest exception, and it is rarely the one people expect. The reader worth worrying about here is the one who has stopped noticing that every yes they give is defensive, rather than the one who feels the pull most strongly. That version is the fifth root below, it is quiet, it does real damage over years, and it does not announce itself as a feeling at all.
 
-## How Good Is the Evidence Behind This Term?
+## Does Social Media Actually Cause FOMO, or Do People With FOMO Just Check It More?
+
+Nobody has established which way that arrow runs, and the reason is that the question sits inside a larger one: how good is the evidence behind this term at all?
 
 Weaker than the confidence around it, and weak in three specific ways worth being able to name.
 
@@ -193,7 +195,9 @@ Weaker than the confidence around it, and weak in three specific ways worth bein
 
 None of this means the experience is invented. It means the name is a good description with modest machinery behind it, and that anybody telling you confidently how much of this is caused by your phone is going beyond what has been shown.
 
-## If the Label Is Thin, What Is Better Evidenced?
+## Do Other People Really Go Out and Have More Fun Than I Do, or Am I Estimating Their Lives Wrong?
+
+You are probably estimating them wrong, and that is one of the few claims on this page with real work behind it. If the label itself is thin, this is what is better evidenced than the label.
 
 Three things, and the first of them is the most useful fact on this page, because it makes the belief testable.
 
@@ -209,6 +213,26 @@ This is the point where the belief becomes checkable rather than merely arguable
 
 Notice what is absent from all three. None of this requires a phone. Every mechanism above ran perfectly well in 1953 with a slower information supply and a smaller sample of other people's Saturdays.
 
+## Why Is This Feeling Strongest at Night and Near the Weekend?
+
+Because it runs on a schedule that belongs to your state rather than to what is actually happening out there, and once you can see the schedule, most of its authority goes with it.
+
+The evidence for that is the diary work described just above, and it is worth pulling out on its own. Milyavskaya and colleagues sampled first-year students repeatedly across a semester in 2018, catching the experience as it occurred instead of asking anybody to summarize it afterward. The timing came out with a shape. It climbed across the day and it climbed across the week, landing hardest in the evening and toward the weekend, and in the moment it sat alongside fatigue, stress and disturbed sleep. The limits should travel with the finding: one cohort at one institution, reporting on themselves, with patterns measured within people rather than causes demonstrated. What it buys you is a shape rather than a mechanism.
+
+Three ordinary things produce that shape, and none of them needs a hidden explanation.
+
+**The supply of evidence is timed.** Other people go out after work and on the weekend, and they post while they are out. The stream you are reading is at its thickest exactly when your own week has the least in it. At half past eleven on a Friday you are looking at the densest hours of forty other people's week from inside the emptiest hour of yours.
+
+**You are at your lowest by then.** Whatever a day has to spend on patience, attention and holding a proportionate view of anything, it has mostly spent by ten at night. A feeling that arrives when you are tired is still a real feeling, and it is being read by an instrument that has been running since morning.
+
+**Nothing else is in the slot.** An unbooked evening leaves the comparison as the only occupant of your attention. On a Wednesday afternoon with work in front of you, the same photograph gets a glance and no follow-up, because there is nowhere for it to expand into.
+
+Two things follow from that, and they are narrow enough to be usable.
+
+The timing itself is information. A pull that is at full strength at half past eleven on a Friday and gone by Sunday morning, with nothing in your life having changed in between, was reporting on your state. The same pull arriving unprompted on a Wednesday afternoon, in the middle of an ordinary week, set off by something completely unremarkable, is far more likely to be about content, and it points at the possibility that your week is genuinely thin rather than at a distortion, which is the second of the five roots set out below.
+
+And whatever else you do, avoid issuing the yes at that hour. Late on a Friday the pull is at its most persuasive and your sense of what you actually want is at its least available, which is a poor combination to be buying a ticket in. Nothing is lost by letting it stand until the morning. If you still want the thing on Sunday, it was a want. If it has evaporated by then, it was the schedule.
+
 ## What Is the Difference Between Missing an Event and Missing a Life?
 
 This distinction is the spine of the page, and getting it wrong is what converts an ordinary sting into something that does not go away.
@@ -216,6 +240,8 @@ This distinction is the spine of the page, and getting it wrong is what converts
 Missing an event is a comparison between one evening and one evening. It is bounded, it is about a specific thing, and information settles it. You find out the rooftop was cold, the music was bad and everybody left by eleven, and the feeling dissolves on the spot. It has a half-life of hours.
 
 Missing a life is a comparison between your entire shape and an imagined entire shape. Nothing settles it, because there is no piece of evidence that would count as sufficient. A good week proves nothing about a life. A good year proves nothing about a decade. The comparison is built so that no result can close it, which is exactly why people who go to everything still hold the belief undamaged at the end of the year.
+
+There is a measured version of that split in the research on regret, and I am naming it by paper rather than by author here, because the surnames on it are already used elsewhere on this site for unrelated findings. A 1994 paper in the Journal of Personality and Social Psychology, titled The Temporal Pattern to the Experience of Regret, reported that regrets about things people had done were the ones that dominated in the short run, while regrets about things they had failed to do were the ones that dominated over the long run and grew rather than faded. The limit is worth stating plainly: it rests on people recalling and rating their own regrets rather than on anything watched as it happened, so it describes the shape of remembered regret and cannot show you what one skipped evening does to anybody. What it fits is the distinction above. The evening you missed stings for hours. The decade you never chose is the one still there at sixty.
 
 | | Missing an event | Missing a life |
 |---|---|---|
@@ -232,7 +258,9 @@ Once that conclusion is available, no evening can ever be sufficient evidence ag
 
 That is worth sitting with. The belief becomes unfalsifiable not when you miss things, but when you attend one and it still feels thin.
 
-## Which Part of This Is Involuntary, and Which Part Is Chosen?
+## Why Do I Say Yes to Plans I Do Not Want and Then Resent Them Later?
+
+Because the resentment is aimed at the wrong half of what happened. Which part of this is involuntary and which part is chosen is the whole question here, and the short answer is that the pull arrived on its own while the yes came from you, which is why the bill turns up weeks later addressed to a decision you cannot remember making.
 
 The pull and the yes are different objects, they happen a few seconds apart, and almost every piece of writing on this subject treats them as one thing.
 
@@ -310,7 +338,7 @@ Which means the pull is generic rather than specific, and that is the tell. Ask 
 
 The other tells are worth sitting with.
 
-Asked what you would do with a completely free Saturday, with money and permission, nothing specific arrives and you find yourself listing things you should probably want. You are more relieved than disappointed when a plan is cancelled, and you still could not have declined it. You can describe in detail what you do not want your life to look like and go blank on what you do want it to look like. And you notice, if you are honest, that you have been outsourcing the question: letting other people's evenings tell you what a good evening is, because you have no independent view.
+Asked what you would do with a completely free Saturday, with money and permission, nothing specific arrives and you find yourself listing things you should probably want. You are more relieved than disappointed when a plan is canceled, and you still could not have declined it. You can describe in detail what you do not want your life to look like and go blank on what you do want it to look like. And you notice, if you are honest, that you have been outsourcing the question: letting other people's evenings tell you what a good evening is, because you have no independent view.
 
 What follows from this root is slow and nobody sells it, which is why it is missing from the popular writing. The work sits on developing a want rather than on the feeling, and a want gets developed by trying specific things and noticing which ones you would repeat, which takes considerably longer than a weekend. What it does not respond to is any amount of managing your relationship with your phone, since the phone was only ever supplying the options rather than the verdict.
 
@@ -332,15 +360,21 @@ This is the quiet one, it does the most damage, and it barely registers as a fee
 
 Try the test. Look back over the last twelve months and find one thing you did because you wanted it specifically, rather than because not doing it would have meant being absent from something. Not one that turned out well. One that was chosen from wanting at the moment you agreed to it.
 
-A lot of people cannot find one. The ones who can often find that it was a holiday, and that it was decided by somebody else.
+A lot of people cannot find one. The ones who can often find that it was a vacation, and that it was decided by somebody else.
 
-The tells here are structural rather than emotional. Your year is full and unmemorable, and you struggle to distinguish April from October. You are tired in a way that sleep does not correct. You resent things you personally signed up for, which is confusing until you notice that you did not sign up for them from wanting. There is no evening in the week that you protect. And when something gets cancelled, the feeling is relief, followed immediately by a small anxiety about whether you should have gone anyway.
+The tells here are structural rather than emotional. Your year is full and unmemorable, and you struggle to distinguish April from October. You are tired in a way that sleep does not correct. You resent things you personally signed up for, which is confusing until you notice that you did not sign up for them from wanting. There is no evening in the week that you protect. And when something gets canceled, the feeling is relief, followed immediately by a small anxiety about whether you should have gone anyway.
 
 The cost is specific and it is not the tiredness. A defensive yes crowds out the slow, unglamorous, unphotographable things that actually produce a life you would not want to miss. Learning something badly for two years before you are any good. A friendship that gets deep because you saw somebody forty times rather than four. A project nobody is watching. Every one of those requires repeated, boring, protected time, and protected time is precisely what a year of defensive yeses has none of.
 
 There is a bitter symmetry in it. The year built entirely around not missing out produces the emptiest year available, because everything in it was chosen by the absence it avoided rather than by anything anybody wanted. And that emptiness then feeds the original feeling, which produces more yeses. It is the one root on this page that reliably gets worse on its own.
 
-## Which of the Five Is Yours, and How Would You Know?
+## How Can I Tell Whether My Comparison Is Distorted or My Social Life Really Is Too Empty Right Now?
+
+By what sets the feeling off, and by whether information settles it. That fork is the same question as which of the five roots below is yours, narrowed to the two answers most people are actually choosing between.
+
+Only one side of the fork has research under it. Deri and colleagues' 2017 studies are the reason to suspect the distortion: people estimated that their peers went out more often, had more friends and attended more events than they did, in samples where that could not have been true of everybody. Those were largely student samples, and they measure estimates rather than lives, so they establish that the error is common and they cannot tell you that yours is one of them.
+
+Nothing published can tell you that your own week is thin either, and that asymmetry is the useful part of the answer. If a photograph of four people eating outdoors on an ordinary weekday hurts you more than a photograph of a festival does, the feeling is reporting an absence rather than running an estimate, and the second row of the table below is yours rather than the first or the third.
 
 The separating question is different for each, and none of them is about how strong the feeling is.
 
@@ -362,7 +396,11 @@ Because all three are aimed at the display or at the feeling, and the thing that
 
 **A detox removes the input and leaves the appetite.** It is worth knowing what usually happens, because people misread it. The first stretch is often worse rather than better, with a specific restlessness and a sense of being out of date. What is being felt there is the removal of information, not the removal of a cause. And for the second root it is actively unhelpful, since somebody whose real problem is an empty week has now got an empty week and no contact with anybody. The screen is where you see this. It is not where it lives.
 
+The best evidence on the detox half of this is a randomized experiment rather than a survey, and it flatters nobody in the argument. Allcott and colleagues reported in the American Economic Review in 2020 that paying a large sample of people to deactivate one platform for four weeks gave them back about an hour a day and produced a small improvement in self-reported well-being, on the order of a tenth of a standard deviation, along with less factual news knowledge and lower use once the experiment ended. Small is the operative word, and so are the boundaries: one country, one platform, four weeks, and people who were paid to stop. The improvement is real, it is a long way from what the genre promises, and none of it touches the decision you make a few seconds after the pull.
+
 **Gratitude asks the wrong reader to argue with a true statement.** For the first and third roots it is unnecessary, because nothing is wrong in the first and the problem in the third is an absence of wanting rather than an absence of appreciation. For the second root it is worse than unnecessary. Being told to list three good things when your week genuinely contains nothing you looked forward to converts an accurate report into a personal failing, and it teaches you to stop trusting an instrument that was working.
+
+The pooled picture on gratitude writing points the same way. Across the trials that have been run, the improvements are modest, and they are not reliably larger than the ones produced by an active comparison activity such as writing about ordinary daily events, which is an aggregate finding across many small studies rather than any single researcher's result. If the exercise did nothing for you, that is the ordinary outcome rather than evidence that you did it wrong.
 
 **The joy of missing out sells a reversal rather than a resolution.** Converting not-going into an identity produces a second defensive posture, and a defensive no is the same machinery pointed the other way. It also has a survivorship problem. The people who genuinely enjoy a quiet Friday did not arrive there by adopting a phrase. They arrived by having enough going on that a quiet Friday reads as a choice rather than as the default state of their life, which is the fifth root's problem and the second root's problem restated.
 

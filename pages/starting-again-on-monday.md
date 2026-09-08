@@ -14,7 +14,7 @@ faqs:
 - q: "Is it bad to start something on a Monday?"
   a: "No, and any page telling you otherwise is wrong about the evidence. Dai, Milkman and Riis measured real behavior across three archival studies and found gym visits, diet searches and goal commitments all rising after temporal landmarks such as the start of a week. Mondays work. The question worth asking is what happens on the Wednesday of that week, because the landmark supplies a start and has nothing to say about a stumble."
 - q: "What is the fresh start effect?"
-  a: "A measured rise in goal-directed behavior right after a temporal landmark: a new week, a new month, the new year, a birthday, a holiday, the start of a semester. Dai, Milkman and Riis named it in 2014. Their proposed mechanism is that a landmark breaks time into a new accounting period, which relegates past imperfections to the period that just closed and pulls attention up to the bigger picture of your life."
+  a: "A measured rise in goal-directed behavior right after a temporal landmark: a new week, a new month, the new year, a birthday, a vacation, the start of a semester. Dai, Milkman and Riis named it in 2014. Their proposed mechanism is that a landmark breaks time into a new accounting period, which relegates past imperfections to the period that just closed and pulls attention up to the bigger picture of your life."
 - q: "What is the what-the-hell effect?"
   a: "The collapse that follows a small violation of a rule you set yourself. Rather than restraining more carefully after slipping, the person abandons restraint for the rest of the period. Cochran and Tesser named it in 1996 and examined how goal framing and how close the goal sits affect it. It explains the Wednesday better than any account of willpower does, because the size of the slip has almost nothing to do with the size of the collapse."
 - q: "Why does one missed day ruin the whole week?"
@@ -55,8 +55,8 @@ faqs:
   a: "Record it and continue, in that order, and keep the record short enough that you will actually make it. One line: which day, what time it broke, what was happening. That single sentence is the only thing that makes the next attempt different from this one. Continuing matters less than most advice suggests. Not sealing off the failed week is the part that changes the pattern."
 - q: "How small should the plan actually be?"
   a: "Small enough to survive your worst ordinary week rather than your best imagined one. Look at the last four weeks, find the one with the least room in it, and build for that. It will feel insultingly modest on Sunday night, which is the correct feeling and the reason people override it. A plan that holds through a bad week accumulates. A plan that needs a good week restarts."
-- q: "Why does the plan work on holiday and collapse at home?"
-  a: "Because the holiday changed the environment and the plan never had to survive contact with the one you live in. Your surroundings put you where you are and keep reinforcing it, which is why change feels so hard at home and so easy somewhere else. None of that is the environment doing something to you. You are inside an arrangement, and moving something in it does more than any amount of resolve."
+- q: "Why does the plan work on vacation and collapse at home?"
+  a: "Because the vacation changed the environment and the plan never had to survive contact with the one you live in. Your surroundings put you where you are and keep reinforcing it, which is why change feels so hard at home and so easy somewhere else. None of that is the environment doing something to you. You are inside an arrangement, and moving something in it does more than any amount of resolve."
 - q: "Does telling people about the plan help?"
   a: "It depends entirely on what you tell them. Announcing the goal often delivers some of the satisfaction of achieving it, which is the same mechanism that makes designing the plan feel like doing it. Telling one person the specific thing that broke last time, and asking them to ask you about that thing on Thursday, works differently. The first is a broadcast. The second is a check on the day it matters."
 - q: "Why do I feel relief when the week breaks?"
@@ -148,7 +148,7 @@ Two named effects and one set of numbers, and between them they describe the mec
 
 Read that mechanism again slowly, because everything else on this page depends on it. The Monday works by separating you from the person who failed. Their follow-up work made this explicit: landmarks that made people feel disconnected from an imperfect past self were the ones that spurred goal initiation.
 
-**The what-the-hell effect** is the name for the Wednesday. Cochran and Tesser named it in 1996, describing what happens after a person violates a rule they set for themselves. Instead of restraining more carefully after the slip, they abandon restraint for the remainder of the period. Their work examined how the framing of a goal and how close the goal sits affect the size of that collapse. The finding that makes the term worth having is the disproportion. The size of the slip has close to no relationship with the size of the abandonment. One missed session and a completely abandoned fortnight sit at either end of the same small event.
+**The what-the-hell effect** is the name for the Wednesday. Cochran and Tesser named it in 1996, describing what happens after a person violates a rule they set for themselves. Instead of restraining more carefully after the slip, they abandon restraint for the remainder of the period. Their work examined how the framing of a goal and how close the goal sits affect the size of that collapse. The finding that makes the term worth having is the disproportion. The size of the slip has close to no relationship with the size of the abandonment. One missed session and a completely abandoned two weeks sit at either end of the same small event.
 
 **The resolution numbers** supply the shape of the curve, and they come from Norcross and Vangarelli's two-year study and the resolver-versus-nonresolver comparison described above. Between them they establish that marking a start genuinely helps, that most attempts survive the first week, and that the steepest fall happens between week one and month one. The failure point sits early, close to the start, in the region this page is about.
 
@@ -215,7 +215,7 @@ This is the root people find hardest to look at, because it does not feel like a
 
 Fishbach and Dhar's finding is the mechanism written out in a laboratory. Perceived progress toward a goal makes people more willing to choose against the goal, and planning future progress can produce the same license as making actual progress. The plan is registered internally as movement. Movement earns rest. Rest is taken. The account balances, and nothing has happened.
 
-The tells for this root are unusually clean. Ask yourself honestly which part of the cycle you would miss most. If the answer is the planning rather than the doing or the having, that is the answer. Ask whether you have made detailed plans for things you never seriously intended to start, holidays you were not going to take, businesses you were not going to launch, and whether the making of those was enjoyable in its own right. Ask what happens in your body at the moment the plan is finished, and whether that moment is the peak of the whole week.
+The tells for this root are unusually clean. Ask yourself honestly which part of the cycle you would miss most. If the answer is the planning rather than the doing or the having, that is the answer. Ask whether you have made detailed plans for things you never seriously intended to start, vacations you were not going to take, businesses you were not going to launch, and whether the making of those was enjoyable in its own right. Ask what happens in your body at the moment the plan is finished, and whether that moment is the peak of the whole week.
 
 There is a version of this that lives entirely in reading and comparing rather than in scheduling, where the loop runs on information instead of on Sundays. [That has its own page.](/patterns/researching-instead-of-starting/)
 
@@ -333,7 +333,7 @@ In roughly six places, and most of them are not called plans at all.
 | The new notebook, app or system bought before starting | Preparation and investment | The design phase paying out, with the purchase standing in for the Sunday night |
 | The birthday, the new year, the first of the month | A natural moment to begin something | A real landmark used as a reset rather than as a start, so the evidence is discarded again |
 | The trip or course that will reorganize everything | A serious commitment of money and time | An imagined ideal week bought at scale, with nothing in the home environment changed |
-| The rest day that becomes a rest fortnight | Reasonable recovery after a hard stretch | A period declared unwinnable, spent accordingly, with a Monday named for the return |
+| The rest day that becomes a rest two weeks | Reasonable recovery after a hard stretch | A period declared unwinnable, spent accordingly, with a Monday named for the return |
 
 The last row is worth pausing on, because it is the version that catches people who are otherwise doing well. A week off for a genuine reason ends, and the return does not happen on the Monday it was supposed to. It moves. Then the whole structure that was holding for two months is suddenly a thing that starts again, and it starts again from zero rather than from where it stopped.
 
@@ -389,7 +389,7 @@ The Sunday night state has a specific blindness. It can see the goal clearly, it
 
 Then Monday comes and the surroundings are still there. They have not read the plan. They are arranged to produce the behavior you already had, because that is what an environment does, and they will keep producing it while you spend intention to override them. Three days is about how long that works.
 
-This is why the plan built on a trip, or after a course, or in the first week back from a holiday, so often outperforms the plan built at home and then dies faster. The trip changed the environment for a week and the plan looked brilliant. The change was in the room, and the room did not come home with you.
+This is why the plan built on a trip, or after a course, or in the first week back from a vacation, so often outperforms the plan built at home and then dies faster. The trip changed the environment for a week and the plan looked brilliant. The change was in the room, and the room did not come home with you.
 
 The practical version is unglamorous and it is where most of the durable gains sit. Before the plan, one change to the arrangement. Before version five, one change to the arrangement. Not five. One, chosen because it sits at the exact point where the last attempt broke.
 
@@ -421,7 +421,7 @@ Considerably less dramatic than the current version, which is the point of it.
 | Two days go rather than one | The plan is declared unworkable and a better one gets designed on Sunday | The two days are written down with the reason, and the same plan continues on Friday |
 | The weekend arrives with the week half done | The half is discarded because it does not count | The half is counted, because a floor of three was written before Monday |
 | You notice you have restarted four times | The count becomes evidence about your character | The count becomes four data points, read in one sitting, on one page |
-| A whole fortnight goes | Version five gets written, bigger, from a blank page | Version four resumes, unchanged, with one arrangement moved |
+| A whole two weeks goes | Version five gets written, bigger, from a blank page | Version four resumes, unchanged, with one arrangement moved |
 
 Look at the right-hand column carefully. Nobody in it has become more disciplined. They have not gritted their teeth or found a deeper reason. Every single row is a decision made before the Wednesday, about how a broken day would be scored, and the deciding took about four minutes on a Sunday.
 
@@ -471,7 +471,7 @@ Expect the middle part to feel wrong. You cut out the thing that feels good for 
 
 Expect also that it costs more than you budgeted. The standard is higher than most people expect, and you have to give up more than you would expect to give up. Not more effort. More of the things sitting where the plan was supposed to go.
 
-And it comes back in patches, first in the weeks that are already hard, when a landmark is close and a blank page looks appealing. That does not prove nothing took. A pattern built as a solution returns whenever the conditions it solved for return, and a difficult fortnight reproduces those conditions faithfully.
+And it comes back in patches, first in the weeks that are already hard, when a landmark is close and a blank page looks appealing. That does not prove nothing took. A pattern built as a solution returns whenever the conditions it solved for return, and a difficult two weeks reproduces those conditions faithfully.
 
 Life becomes incredibly simple if you simplify it, though simple and easy are different things, because we get caught up with all of the strangest things that can be in a life. The basics are short enough to count on one hand: what you eat, moving your body, sleeping, and time with the people closest to you. Once those are established, practicing them is most of it. Four Sunday nights a year spent designing an elaborate system to deliver four things you could count on one hand is worth noticing for what it is.
 

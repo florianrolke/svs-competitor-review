@@ -70,7 +70,7 @@ faqs:
 - q: "Is wanting to keep doing it a problem?"
   a: "No, and pretending otherwise wrecks most attempts at this. A good deal of it is genuinely yours and worth keeping. The workable version starts by naming which parts you want, out loud, and treating everything else as inventory. A plan built on the fiction that you want to be relieved of all of it collapses in the third week."
 - q: "When does this belong with somebody qualified rather than a page?"
-  a: "If the load has reached your body, if sleep has stopped working, if the exhaustion no longer lifts on a holiday, if you cannot stop even when nothing is urgent, or if there is any thought of harming yourself, that belongs with a licensed professional now rather than later. The rest of this assumes that none of those apply."
+  a: "If the load has reached your body, if sleep has stopped working, if the exhaustion no longer lifts on a vacation, if you cannot stop even when nothing is urgent, or if there is any thought of harming yourself, that belongs with a licensed professional now rather than later. The rest of this assumes that none of those apply."
 - q: "What is one thing worth doing this week?"
   a: "Pick the single most repetitive thing you do and write it down as though somebody else would be doing it next month. Half a page. Then time how long that actually took and compare it with your estimate beforehand. Most people find the real figure much smaller than the one that has kept it undone for years."
 related:
@@ -152,7 +152,7 @@ Almost everything written about giving work away treats it as a single act with 
 | The precondition | What it looks like when this is the missing one | What ordinary advice assumes instead |
 |---|---|---|
 | A form outside your memory | You cannot write the description of the job, and you have quietly stopped trying | That the task is obvious and needs only assigning |
-| A person who could take it | The search has never started and you would not know where it starts | That a queue of capable people is waiting |
+| A person who could take it | The search has never started and you would not know where it starts | That a line of capable people is waiting |
 | A currency to pay them in | The sums have been run more than once and have never worked | That the money is there and you are being cautious |
 | Tolerance for the returned version | You have imagined it arriving wrong and felt the week collapse | That fear is the only obstacle and confidence fixes it |
 
@@ -192,7 +192,7 @@ Before anything practical, because it decides whether the rest of this applies t
 
 This assumes a specific and ordinary situation: you are carrying more than one person should carry, it has gone on for years, and what it is costing you is time, closeness and a certain flatness rather than your health. If that assumption is wrong, most of what follows is the wrong instrument and reading further is a way of postponing the right one.
 
-So read this part properly even if you are confident none of it fits. If the load has started reaching your body, and sleep has stopped working, or something physical has begun that you are managing around rather than looking at, that belongs with a doctor before it belongs with anything else. If the tiredness has flattened into something that no longer lifts on a holiday or after a week away, the difference between being tired and something needing treatment is not a distinction to make on your own. If you cannot stop working even when nothing is urgent, and an unoccupied evening produces something closer to dread than to relief, that is worth taking to somebody qualified rather than reading about.
+So read this part properly even if you are confident none of it fits. If the load has started reaching your body, and sleep has stopped working, or something physical has begun that you are managing around rather than looking at, that belongs with a doctor before it belongs with anything else. If the tiredness has flattened into something that no longer lifts on a vacation or after a week away, the difference between being tired and something needing treatment is not a distinction to make on your own. If you cannot stop working even when nothing is urgent, and an unoccupied evening produces something closer to dread than to relief, that is worth taking to somebody qualified rather than reading about.
 
 If your own judgment has started to feel unreliable to you, in the sense that you can no longer tell whether a week was bad or ordinary, that is a signal on its own. And if what you are carrying includes any thought of harming yourself, that belongs with a licensed professional now rather than later, and nothing on this page should delay it by an hour.
 
@@ -331,7 +331,7 @@ The second is the holding. Being the only place where the whole shape exists. Kn
 | The doing | The holding |
 |---|---|
 | Made of hours, and countable | Made of state, and countable by nobody |
-| Stops when you stop | Runs while you are asleep and on a holiday |
+| Stops when you stop | Runs while you are asleep and on a vacation |
 | Reduced by a good week, a fast tool, a clear morning | Unchanged by any of those |
 | Visible to anybody in the room | Visible to nobody, including the people who live with you |
 | Somebody else can take one item of it | Cannot be taken in pieces, because it has no pieces |
@@ -383,7 +383,7 @@ Because it answers the second precondition and quietly assumes the other three.
 
 Somebody arriving does not produce a describable task. It does not produce the money, which is why the advice lands as slightly insulting when the money is the missing piece. And it does nothing at all about your ability to tolerate a version you would not have made, which is the precondition people discover last and usually in public.
 
-The sequence when only the second precondition is solved is predictable enough to write down in advance. A person arrives. There is nothing written, so the first fortnight is spent with them shadowing you, which slows you down and produces no artifact. They begin taking pieces, and every piece requires a conversation, because the conditions live in your memory. Their versions come back at seventy percent, correctly, because that is what a third attempt looks like. You repair them yourself, quietly, because the deadline is real. Three months in, your hours have not fallen, there is now a salary going out, and the honest internal summary is that it did not work.
+The sequence when only the second precondition is solved is predictable enough to write down in advance. A person arrives. There is nothing written, so the first two weeks is spent with them shadowing you, which slows you down and produces no artifact. They begin taking pieces, and every piece requires a conversation, because the conditions live in your memory. Their versions come back at seventy percent, correctly, because that is what a third attempt looks like. You repair them yourself, quietly, because the deadline is real. Three months in, your hours have not fallen, there is now a salary going out, and the honest internal summary is that it did not work.
 
 That summary is wrong in an expensive way, because the experiment that failed was never the one people think. What failed was an attempt to move undescribed work into somebody else's hands. Nothing was learned about whether the person was capable, and nothing was learned about whether you can let go, although both will be blamed.
 

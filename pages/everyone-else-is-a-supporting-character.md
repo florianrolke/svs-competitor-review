@@ -137,6 +137,18 @@ A second set runs on the receiving side, and this is the half most people never 
 
 Each of those is a conclusion about you, drawn from data that is mostly about somebody else. That is the mechanism, in miniature, and it is the whole page.
 
+## Why Do I Remember My Own Lines From a Conversation but Barely Remember What the Other Person Said?
+
+Because the part of you that stores a conversation is busy with something else while the other person is talking, and what it is busy with is you, about to speak.
+
+Brenner reported the cleanest version of this in 1973, in a paper called "The next-in-line effect" in the *Journal of Verbal Learning and Verbal Behavior*. People took turns performing in front of a group and were afterward asked to recall everything that had been produced, their own contribution included. Recall came out markedly worse for whatever landed immediately around a person's own turn than it did among people who sat through the same material with nothing to deliver. The material was identical in both cases. What differed was whether you were next.
+
+Two limits belong with it. The setup was people taking turns in front of a small group, which puts more weight on a turn than most conversations do, and the work in this line is small and old. It has been taken up again by later researchers rather than left as a single result, and it remains a finding about turn-taking under pressure, produced in a controlled setup. Whether it accounts for the whole of what you notice in an ordinary conversation is unestablished, so treat it as a clean demonstration of the mechanism rather than a full account of your memory.
+
+A second thing runs alongside it, described here without a name because it is a general result across many studies rather than one team's finding. Material that gets connected to you as it arrives is easier to retrieve later than material that does not. Your own sentences come in already attached: you chose them, you meant something by them, and you were watching how they landed while you said them. Theirs arrive unattached unless you do something deliberate to attach them. The two halves of one conversation are stored on completely different terms, and the half that survives is yours.
+
+Which puts the ordinary embarrassment about this somewhere more useful. Remembering your own lines and losing theirs says very little about how much you care for the person in front of you. It is close to the predictable output of a system that records your turns and lets the gaps between them go. What it does mean is less comfortable and more practical: your memory is a bad witness in any argument about how much space you take up, which is why every count on this page asks you to write things down while they are happening rather than reconstruct them later.
+
 ## Why Does a Flat Reaction Land So Much Harder Than It Should?
 
 Because a story told out loud is not finished by the person telling it.
@@ -181,9 +193,25 @@ What the phrase does not capture is anything at all about why. It names a *what*
 
 And it is worth being blunt about its standing. No diagnostic manual contains it. No clinician would write it down. There is no questionnaire, no validated scale, no published research establishing it as a thing that exists as described, and no prevalence figure that anybody could quote honestly. It is a phrase that got popular because it was memorable and because accusing people of it is enjoyable. Both of those are facts about the phrase rather than support for it.
 
+A search of the published record does return the phrase, and what comes back is worth knowing: opinion columns, work from people who study how words travel on video platforms, and a few student papers. None of it measures the thing in a person, which puts this phrase in a different position from a term that is merely too new to have been looked at yet.
+
 <div class="disclaimer-box" markdown="1">
 **About this page.** This describes a psychological and behavioral pattern. It is not a diagnosis and it is not medical advice. I am not a therapist, and no page can tell you which of these roots is yours. Two people who recognize themselves in everything above can still need entirely different things. If you are in acute crisis, or if what you are facing involves your safety, your body, or a condition you are already being treated for, that belongs with a licensed professional now rather than later. I would rather help you find the right thing than have you keep reading here.
 </div>
+
+## Where Did the Phrase Main Character Syndrome Come From, and When Did People Start Using It?
+
+Short video platforms, around 2020, and the date is softer than anybody quoting it admits.
+
+The usual account runs like this. A piece of advice spreads in early 2020: treat your own life as though somebody might film it, put music on for the walk to the store, take your own week seriously. Those words were warm, and they were aimed mostly at people who had stopped believing their week was worth noticing at all. Within roughly a year the same words were being used to tell somebody they were insufferable.
+
+The honest trouble with that timeline is that no first use can be dated. There is no dated record anybody can point at, no first post everyone agrees on, and platform search does not work the way a library does. What exists is a reconstruction, assembled out of what people remember and out of writing about the trend produced once it was already a trend. The shape of the story holds up. The dates around it do not, and anybody giving you a precise month is guessing with confidence.
+
+The part of the history that matters most for a reader is the suffix. The warm version did not carry the word syndrome. That word got attached later, by commentary rather than by anybody who had measured a person, and it is the piece that makes a fragment of slang sound like a finding. Strip the suffix and you are left with a description of how somebody moves through their day. Leave it on and the same description sounds like something a professional wrote down about them.
+
+The flip itself is not mysterious. Praise has to be meant, and it costs the person saying it something. The inverted version of the same words costs nothing, needs no evidence, and gets a reaction every time, so it travels faster and it crowds the original out. That is a fact about how phrases move rather than about the people they get thrown at.
+
+So if somebody used the words about you recently, they almost certainly reached for the second sense without knowing the first one existed, and you may have spent a week answering something whose original meaning was closer to permission than to a complaint. None of that makes what they said worthless. It does mean finding out which of the two they meant before you treat it as a finding about your character.
 
 ## Why Is the Accusation Version of This Word Worth Refusing?
 
@@ -196,6 +224,20 @@ There is a second thing this vocabulary does, and it is more serious. Popular wr
 So the position this page takes is narrow and I would rather state it than have it inferred. The behavior is worth understanding. The word is worth using about yourself and almost never about somebody else. And the only main character worth studying here is you, for the plain reason that yours is the only account you can actually change.
 
 If you arrived at this page holding somebody else's name, that is understandable and it is the wrong use of everything below.
+
+## My Partner Says I Make Everything About Me. How Do I Tell Whether They Have a Point?
+
+By finding out in writing, over a week or so, because memory is the one place this particular question cannot be answered honestly.
+
+Your own contributions to anything shared are easier to bring back than somebody else's. Ask two people who did a job together what share each of them did and the two answers routinely add up to well over a hundred percent, with nobody lying. Honesty has nothing to do with it. What decides the answer is what surfaces when you try to remember. So when you search your own recollection for whether you make everything about yourself, you are searching a record assembled largely out of your own turns, and it hands you a result that was decided before you asked. It is set down here as a described observation rather than credited to one researcher, because other pages already carry the names.
+
+There is a cleaner test than introspection, and it comes from a distinction drawn decades ago by people who study ordinary talk: after somebody tells you something, your next sentence either keeps the attention on them or moves it onto you. Both moves are normal, and a conversation made only of one or the other would be strange to sit in. The distinction is described here without a name attached, because the page on [deflecting](/patterns/deflecting/) carries the work and the researcher. What matters for your week is how often each one happens, and that is countable.
+
+So run it for the same ten days the count at the end of this page uses, and only in conversations where somebody brought you something of their own. One mark when your next sentence stayed with them. One mark when it moved to a version of the same thing that once happened to you. Do not improve your behavior while you count, because a count taken while you are performing measures the performing.
+
+Two outcomes, and both of them are worth having. If the marks come out fairly even, what you are being told about is probably not frequency at all, and is more likely one specific subject, or one particular evening that has not been put down yet, which is a different matter from the one you have been turning over about your character. If the marks come out heavily on one side, and you can feel it as you make them, you are holding something better than an accusation and better than a denial, which is a description of your own conduct that you produced yourself.
+
+One limit, stated plainly. A count from your own ten days cannot decide who is right when two people disagree, and it was not built for that. What it answers is the private half of the question, which is the only half you have any power over: whether the description fits when you look at it directly instead of looking at how it was delivered.
 
 ## What Is the Difference Between Narrating and Casting?
 
@@ -280,7 +322,7 @@ In a set of small moments spread across an ordinary week, almost none of which a
 | You get a short reply to a long message | You read the length as a verdict | Message length is the least reliable signal a person emits |
 | The group photograph goes up and you check where you are in it | Faster than you would like to admit | You are looking for your position in somebody else's record |
 | A colleague does not respond to the thing you spent the weekend on | You start building a theory about them | They opened it between two other things and have not thought about it since |
-| Somebody cancels twice in a row | It reads as a message | Cancelling is almost always about the canceller's week |
+| Somebody cancels twice in a row | It reads as a message | Canceling is almost always about the canceller's week |
 | You tell a story and the room moves on quickly | You feel the floor drop slightly | The conversion did not happen and the account is still open |
 | You find out later that the person who was cold had a parent in the hospital | Relief, then a specific kind of embarrassment | The whole reading was built from material that was entirely about you |
 | You catch yourself narrating an argument while still in it | Sentences forming for the retelling before it is over | The framing habit is running ahead of the event |
@@ -302,6 +344,20 @@ The chosen moment sits in the gap between those two things. Not whether the drop
 There is one substitution that does most of the work here, and it is small enough to actually use. When the reading starts to form, ask a single question: *what was happening in their day before this?* Not as a generous reframe and not as an exercise in forgiveness. As a genuine question you do not know the answer to. The value is not in the answer. The value is in the fact that asking it forces the account to acknowledge, briefly and concretely, that a second account exists, is running right now, is every bit as loud from the inside, and has almost nothing to do with you.
 
 Do it eight or nine times and something quietly changes about how the readings form. The habit does not disappear. It stops being automatic, which is the only realistic outcome and is a much bigger one than it sounds.
+
+## How Do I Stop Treating My Friends Like Supporting Characters Without Making Myself Invisible?
+
+By changing what you require from the telling rather than how much of yourself you put into it. Those two get confused constantly, and only one of them costs you anything worth keeping.
+
+The fear underneath the question is worth naming, because it stops most people before they start. It runs: if I give up the expectation, I turn into the friend who listens well, asks the good questions, remembers everybody's news, and goes home every time having said nothing about themselves. That outcome is real and plenty of people are living inside it. [Feeling invisible](/patterns/feeling-invisible/) covers that side of it, and it is a genuinely different problem from this one.
+
+Two moves feel identical from the inside and do opposite things. The first is withdrawing: saying less, offering less, keeping the good part back so it cannot be received badly. The second is dropping the requirement: telling the same story, at the same length, with the same enthusiasm, and letting whatever comes back be information about their evening. Withdrawal is the move that produces the invisibility you are afraid of, and it does not even end the casting, because somebody who has stopped talking in order to make a point is still directing the room. They have written themselves a smaller part in it.
+
+The practical version is smaller than it sounds. Tell it up to the point where it is finished for you, then stop, rather than up to the point where a reaction is due. Those are usually two different sentences and you can feel the second one arriving, because it goes slightly up at the end and waits. Leave it off. The thing still got told and nothing is owed for it.
+
+What changes here is invisible to the friend. They will not notice you doing anything differently, which disappoints people who were hoping for some credit. What you notice is the absence of one specific small resentment, the one that used to arrive later, once the evening was over and you were replaying how they took it.
+
+One guardrail, because the question contains a real trap. Friends are not a practice ground and none of this works as penance. If you catch yourself listening harder in order to be seen listening harder, the account is still running and you have simply cast yourself as the reformed one in it. The test is whether you are getting more interested in the other person's week, or more interested in your own conduct during it.
 
 ## What Is Actually on Offer in Being a Minor Character?
 
@@ -363,6 +419,20 @@ Very unevenly, and the honest map is worth having before you decide how much wei
 **Not supported at all.** The label itself. There is no measure of main character syndrome, no research establishing it as a thing that exists as described, no boundary between an ordinary amount and a costly amount, and no evidence whatsoever for the popular equation between the folk phrase and any personality category. Every sentence on this page about casting, about the five roots, and about what the pattern costs is a description offered for you to check against your own last month. None of it is a finding.
 
 That last paragraph is the one I would most like you to carry off this page. The parts I can point at research for, I have. The parts I cannot, I would rather mark clearly than dress up, because the alternative is the thing this whole topic is already full of: a confident-sounding account of what is wrong with you, built out of nothing.
+
+## Is There a Real Test or Validated Scale for Main Character Syndrome?
+
+No, and the distance between that answer and what the online quizzes imply is worth walking through, because the quizzes are what most people find first.
+
+Building a measure of anything psychological is slow and dull work. You write far more questions than you need and throw most of them away. You give the survivors to large samples, in more than one country if the money exists, and check whether people answer the same way when you ask them again two weeks later. You check whether the result lines up with things it ought to line up with, and, harder, whether it stays separate from things it ought to stay separate from, because something that correlates with everything measures nothing. Then you publish the wording so other groups can try to break it, and some of them do. None of that has ever been done for this phrase.
+
+What circulates instead is a set of online quizzes built backward from the description. Somebody reads a popular article, writes ten items out of it, and hands you back a percentage. The wording was never tested against anything, the scoring was invented by whoever wrote the page, and the outcome cannot come back wrong, because there is nothing for it to be wrong about. That kind of quiz is entertainment, and it turns into something worse the moment the number gets repeated in an argument.
+
+There are measured constructs in the neighborhood, and it matters that none of them is this one. How much attention a person aims at their own conduct has been measured for decades. So has the gap between how much attention people believe is pointed at them and how much actually is, which sits on [feeling watched and judged](/patterns/feeling-watched-and-judged/) rather than here. Scoring high on either of those tells you something real about the person who answered. It tells you nothing about whether a phrase from a video platform applies to them, because the phrase has no agreed content to check anything against.
+
+Which leaves the only measurement actually available here, and it is one you can run yourself. The ten-day count at the end of this page is it: who, the reaction you were expecting, what arrived instead. It is no kind of scale, and it produces nothing comparable with anybody else's number. What it has that the quizzes lack is that it is built out of your own week rather than out of a description you have already nodded along to.
+
+One caution belongs with it, since this section is about measurement. Ten days of entries written by the person being described is exactly the position from which recall goes wrong. Write each entry when it happens rather than reconstructing the week on the last evening, and the record holds up well enough to be worth having.
 
 ## What Does the Settled Version Look Like on a Normal Week?
 
