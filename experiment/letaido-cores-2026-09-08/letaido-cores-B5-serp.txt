@@ -1,0 +1,107 @@
+# B5 - the SERP shortlist from the Letaido demand pull, 2026-09-08.
+# The top 100 non-mirage cores by volume that carry NO SERP overview on
+# disk yet. Format: ahrefs_pull.py --seeds-file (one phrase per line).
+# Mirage cores are excluded on purpose: their volume belongs to another
+# subject, so their SERP would tell us nothing about our page.
+# cores: 100
+
+avoidant attachment
+situationship
+anxious attachment style
+scapegoat
+codependency
+unrequited love
+weaponized incompetence
+catastrophizing
+hypervigilance
+cynicism
+enmeshment
+escapism
+emotionally unavailable
+deflecting
+superiority complex
+external locus of control
+avoidance
+daydreaming
+decision paralysis
+fear of abandonment
+mere exposure effect
+grey rocking
+fear of failure
+the ick
+fawn response
+self-fulfilling prophecy
+emotional maturity
+emotional manipulation
+people pleasing
+enmeshed family
+emotional numbness
+childhood emotional neglect
+emotional exhaustion
+fear of rejection
+fear of intimacy
+savoring
+self-disclosure
+find yourself
+self-deprecation
+planning fallacy
+staying up late
+emotional invalidation
+running late
+controlling parents
+feeling empty inside
+the endowment effect
+feeling invisible
+fragmented sleep
+lack of accountability
+set boundaries
+emotional suppression
+forgive yourself
+segmented sleep
+trust yourself
+productive procrastination
+the drama triangle
+comparing yourself to others
+the mere exposure effect
+self-monitoring
+feeling unloved
+propinquity effect
+fear of happiness
+rebuild trust
+self-consciousness
+stop people pleasing
+stop thinking
+emotional wounds
+phone distraction
+the planning fallacy
+fear of judgment
+self-censorship
+vicarious embarrassment
+celebrating wins
+not asking for help
+self-verification
+break a habit
+expecting the worst
+going quiet
+perfectionism paralysis
+canceling plans
+changing the subject
+conditional self worth
+giving unsolicited advice
+hot-cold empathy gap
+late night working
+chasing unpaid invoices
+working on weekends
+emotional home
+fear of missing
+loss of direction
+turn-taking
+avoiding phone calls
+compulsive overworking
+deferred life plan
+doing everything yourself
+email avoidance
+feeling responsible
+harsh self criticism
+learning addiction
+partners past
