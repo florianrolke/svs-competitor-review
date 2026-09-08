@@ -1,0 +1,24 @@
+# Top 20 placed pages by expected_traffic_index, LETAIDO-DEMAND-2026-09-08.json.
+# Columns: slug <TAB> repo path of the page file (pages/ synced 2026-09-08).
+# Rank order is the judging order.
+
+not-trusting-my-own-memory	pages/not-trusting-my-own-memory.md
+the-explanation-i-give-myself	pages/the-explanation-i-give-myself.md
+cant-stop-thinking-about-someone	pages/cant-stop-thinking-about-someone.md
+avoidant-attachment	pages/avoidant-attachment.md
+coming-on-too-strong	pages/coming-on-too-strong.md
+doomscrolling	pages/doomscrolling.md
+daydreaming	pages/daydreaming.md
+relationships-that-never-become-relationships	pages/relationships-that-never-become-relationships.md
+anxious-attachment-style	pages/anxious-attachment-style.md
+falling-for-the-idea-of-a-person	pages/falling-for-the-idea-of-a-person.md
+the-lesser-person-in-the-room	pages/the-lesser-person-in-the-room.md
+breadcrumbing	pages/breadcrumbing.md
+everyone-else-is-a-supporting-character	pages/everyone-else-is-a-supporting-character.md
+the-one-my-family-blames	pages/the-one-my-family-blames.md
+emotionally-unavailable	pages/emotionally-unavailable.md
+thinking-about-my-partners-past	pages/thinking-about-my-partners-past.md
+warmest-to-the-people-i-like-least	pages/warmest-to-the-people-i-like-least.md
+cynicism	pages/cynicism.md
+how-i-end-up-apologizing	pages/how-i-end-up-apologizing.md
+how-to-set-boundaries	pages/how-to-set-boundaries.md

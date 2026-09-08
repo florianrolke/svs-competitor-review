@@ -1,0 +1,50 @@
+# Round-5 manifest - the nine blind-round4 folders on main, 2026-09-08.
+# Each folder is one A/B pair judged blind. page-a.md and page-b.md are the two
+# page files. Which label belongs to which variant is not recorded in this repo,
+# and the A/B labels are swapped between runs on purpose.
+#
+# Shared brief: experiment/blind-round4/INSTRUCTIONS.md (present)
+# Per-run INSTRUCTIONS.md: none - the brief sits once at the round root.
+#
+# De-blinding key check, run 2026-09-08 on main:
+#   git ls-files | grep -c blind-key  = 0
+#   tracked paths containing 'key'    = 0
+#   Both page files in every pair carry the same site branding, so branding is
+#   not a de-blinding signal either.
+#
+# Slugs: 3 | run folders: 9
+
+## how-to-love-yourself
+experiment/blind-round4/how-to-love-yourself/run1/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+experiment/blind-round4/how-to-love-yourself/run2/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+experiment/blind-round4/how-to-love-yourself/run3/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+
+## the-life-i-will-start-later
+experiment/blind-round4/the-life-i-will-start-later/run1/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+experiment/blind-round4/the-life-i-will-start-later/run2/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+experiment/blind-round4/the-life-i-will-start-later/run3/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+
+## waiting-for-permission
+experiment/blind-round4/waiting-for-permission/run1/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+experiment/blind-round4/waiting-for-permission/run2/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+experiment/blind-round4/waiting-for-permission/run3/
+    pair : page-a.md, page-b.md
+    also : QUERY.txt, QUESTIONS.json, verdict-round4.json
+
+# Run folders listed: 9
