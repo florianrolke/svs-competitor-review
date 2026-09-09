@@ -1,0 +1,3423 @@
+{
+  "generated": "2026-09-08",
+  "generator": "execution/build_letaido_cores.py",
+  "note": "Cores for the Letaido demand pull. Nothing here carries a priced volume in any keyword set on disk, so already_priced is false for every row by construction.",
+  "caps": {
+    "B2": 200,
+    "B3": 40
+  },
+  "counts": {
+    "B1": 31,
+    "B2": 200,
+    "B3": 0,
+    "B4": 104
+  },
+  "subtracted_already_priced": 59,
+  "cores": [
+    {
+      "core": "doing everything yourself",
+      "tranche": "B1",
+      "sources": [
+        "angle-02"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "harsh self criticism",
+      "tranche": "B1",
+      "sources": [
+        "angle-03"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "compulsive overworking",
+      "tranche": "B1",
+      "sources": [
+        "angle-04"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "decision paralysis",
+      "tranche": "B1",
+      "sources": [
+        "angle-05"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "productive procrastination",
+      "tranche": "B1",
+      "sources": [
+        "angle-06"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fear of publishing",
+      "tranche": "B1",
+      "sources": [
+        "angle-07"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "lack of accountability",
+      "tranche": "B1",
+      "sources": [
+        "angle-08"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "perfectionism paralysis",
+      "tranche": "B1",
+      "sources": [
+        "angle-09"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "not finishing projects",
+      "tranche": "B1",
+      "sources": [
+        "angle-10"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fear of judgment",
+      "tranche": "B1",
+      "sources": [
+        "angle-11"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "impossible personal standards",
+      "tranche": "B1",
+      "sources": [
+        "angle-12"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "undercharging for work",
+      "tranche": "B1",
+      "sources": [
+        "angle-13"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "chasing unpaid invoices",
+      "tranche": "B1",
+      "sources": [
+        "angle-14"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "not asking for help",
+      "tranche": "B1",
+      "sources": [
+        "angle-15"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "people pleasing",
+      "tranche": "B1",
+      "sources": [
+        "angle-16"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "networking avoidance",
+      "tranche": "B1",
+      "sources": [
+        "angle-17"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "not following up",
+      "tranche": "B1",
+      "sources": [
+        "angle-18"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "late night working",
+      "tranche": "B1",
+      "sources": [
+        "angle-19"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fragmented sleep",
+      "tranche": "B1",
+      "sources": [
+        "angle-20"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "wasted mornings",
+      "tranche": "B1",
+      "sources": [
+        "angle-21"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "guilt about resting",
+      "tranche": "B1",
+      "sources": [
+        "angle-22"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "working on weekends",
+      "tranche": "B1",
+      "sources": [
+        "angle-23"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "comparing yourself to others",
+      "tranche": "B1",
+      "sources": [
+        "angle-24"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "loss of direction",
+      "tranche": "B1",
+      "sources": [
+        "angle-25"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "learning addiction",
+      "tranche": "B1",
+      "sources": [
+        "angle-26"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "endless preparation",
+      "tranche": "B1",
+      "sources": [
+        "angle-27"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "postponing a decision",
+      "tranche": "B1",
+      "sources": [
+        "angle-28"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "expecting the worst",
+      "tranche": "B1",
+      "sources": [
+        "angle-29"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "losing touch with people",
+      "tranche": "B1",
+      "sources": [
+        "angle-30"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "email avoidance",
+      "tranche": "B1",
+      "sources": [
+        "angle-31"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "phone distraction",
+      "tranche": "B1",
+      "sources": [
+        "angle-32"
+      ],
+      "derived_from": "angle",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "able to decide",
+      "tranche": "B2",
+      "sources": [
+        "not-being-able-to-decide"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "arranging my life",
+      "tranche": "B2",
+      "sources": [
+        "arranging-my-life-around-avoiding-someone"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "avoidant attachment",
+      "tranche": "B2",
+      "sources": [
+        "avoidant-attachment"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "avoiding phone calls",
+      "tranche": "B2",
+      "sources": [
+        "avoiding-phone-calls"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "avoiding photos",
+      "tranche": "B2",
+      "sources": [
+        "avoiding-photos"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "become relationships",
+      "tranche": "B2",
+      "sources": [
+        "relationships-that-never-become-relationships"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "better life",
+      "tranche": "B2",
+      "sources": [
+        "everyone-else-is-having-a-better-life"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "black and white",
+      "tranche": "B2",
+      "sources": [
+        "black-and-white-thinking"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "break a habit",
+      "tranche": "B2",
+      "sources": [
+        "how-to-break-a-habit"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "canceling plans",
+      "tranche": "B2",
+      "sources": [
+        "canceling-plans"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "catastrophizing",
+      "tranche": "B2",
+      "sources": [
+        "catastrophizing"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "celebrating wins",
+      "tranche": "B2",
+      "sources": [
+        "not-celebrating-wins"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "changing the subject",
+      "tranche": "B2",
+      "sources": [
+        "changing-the-subject"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "checking their social",
+      "tranche": "B2",
+      "sources": [
+        "checking-their-social-media"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "closer to strangers",
+      "tranche": "B2",
+      "sources": [
+        "closer-to-strangers-than-to-people-i-know"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "complaining without changing",
+      "tranche": "B2",
+      "sources": [
+        "complaining-without-changing"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "conditional self worth",
+      "tranche": "B2",
+      "sources": [
+        "conditional-self-worth"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "cynicism",
+      "tranche": "B2",
+      "sources": [
+        "cynicism"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "daydreaming",
+      "tranche": "B2",
+      "sources": [
+        "daydreaming"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "deflecting",
+      "tranche": "B2",
+      "sources": [
+        "deflecting"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "early feeling fades",
+      "tranche": "B2",
+      "sources": [
+        "when-the-early-feeling-fades"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "emotional exhaustion",
+      "tranche": "B2",
+      "sources": [
+        "emotional-exhaustion"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "emotional home",
+      "tranche": "B2",
+      "sources": [
+        "emotional-home"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "emotional manipulation",
+      "tranche": "B2",
+      "sources": [
+        "emotional-manipulation"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "emotional suppression",
+      "tranche": "B2",
+      "sources": [
+        "emotional-suppression"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "emotional wounds",
+      "tranche": "B2",
+      "sources": [
+        "emotional-wounds"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "end up apologizing",
+      "tranche": "B2",
+      "sources": [
+        "how-i-end-up-apologizing"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "enmeshment",
+      "tranche": "B2",
+      "sources": [
+        "enmeshment"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "escapism",
+      "tranche": "B2",
+      "sources": [
+        "escapism"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "explanation i give",
+      "tranche": "B2",
+      "sources": [
+        "the-explanation-i-give-myself"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "expressing anger sideways",
+      "tranche": "B2",
+      "sources": [
+        "expressing-anger-sideways"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "family blames",
+      "tranche": "B2",
+      "sources": [
+        "the-one-my-family-blames"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fawn response",
+      "tranche": "B2",
+      "sources": [
+        "fawn-response"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fear of happiness",
+      "tranche": "B2",
+      "sources": [
+        "fear-of-happiness"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fear of rejection",
+      "tranche": "B2",
+      "sources": [
+        "fear-of-rejection"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "feeling responsible",
+      "tranche": "B2",
+      "sources": [
+        "feeling-responsible-for-everyone"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "filling every silence",
+      "tranche": "B2",
+      "sources": [
+        "filling-every-silence"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "find yourself",
+      "tranche": "B2",
+      "sources": [
+        "how-to-find-yourself"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "forgive yourself",
+      "tranche": "B2",
+      "sources": [
+        "how-to-forgive-yourself"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "giving unsolicited advice",
+      "tranche": "B2",
+      "sources": [
+        "giving-unsolicited-advice"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "going quiet",
+      "tranche": "B2",
+      "sources": [
+        "going-quiet-when-others-succeed"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "going stiff",
+      "tranche": "B2",
+      "sources": [
+        "going-stiff-when-someone-hugs-me"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "grey rocking",
+      "tranche": "B2",
+      "sources": [
+        "grey-rocking"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hiding small",
+      "tranche": "B2",
+      "sources": [
+        "hiding-small-things"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "insight doesnt change",
+      "tranche": "B2",
+      "sources": [
+        "why-insight-doesnt-change-anything"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "keeping my life",
+      "tranche": "B2",
+      "sources": [
+        "keeping-my-life-in-separate-boxes"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "love yourself",
+      "tranche": "B2",
+      "sources": [
+        "how-to-love-yourself"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "ninety percent",
+      "tranche": "B2",
+      "sources": [
+        "abandoning-things-at-ninety-percent"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "ones who hurt",
+      "tranche": "B2",
+      "sources": [
+        "most-attached-to-the-ones-who-hurt-me"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "parent turn",
+      "tranche": "B2",
+      "sources": [
+        "did-one-parent-turn-me-against-the-other"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "partners past",
+      "tranche": "B2",
+      "sources": [
+        "thinking-about-my-partners-past"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "phone mid conversation",
+      "tranche": "B2",
+      "sources": [
+        "checking-my-phone-mid-conversation"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "putting myself",
+      "tranche": "B2",
+      "sources": [
+        "putting-myself-down"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "rebuild trust",
+      "tranche": "B2",
+      "sources": [
+        "how-to-rebuild-trust"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "running late",
+      "tranche": "B2",
+      "sources": [
+        "always-running-late"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "set boundaries",
+      "tranche": "B2",
+      "sources": [
+        "how-to-set-boundaries"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "start later",
+      "tranche": "B2",
+      "sources": [
+        "the-life-i-will-start-later"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "staying up late",
+      "tranche": "B2",
+      "sources": [
+        "staying-up-late"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "stop people pleasing",
+      "tranche": "B2",
+      "sources": [
+        "how-to-stop-people-pleasing"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "stop thinking",
+      "tranche": "B2",
+      "sources": [
+        "cant-stop-thinking-about-someone"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "sudden revulsion",
+      "tranche": "B2",
+      "sources": [
+        "sudden-revulsion-at-someone-i-liked"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "supporting character",
+      "tranche": "B2",
+      "sources": [
+        "everyone-else-is-a-supporting-character"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "trust yourself",
+      "tranche": "B2",
+      "sources": [
+        "how-to-trust-yourself"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "unpredictable parent",
+      "tranche": "B2",
+      "sources": [
+        "growing-up-with-an-unpredictable-parent"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "waiting for permission",
+      "tranche": "B2",
+      "sources": [
+        "waiting-for-permission"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "watch someone embarrass",
+      "tranche": "B2",
+      "sources": [
+        "cant-watch-someone-embarrass-themselves"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "watched and judged",
+      "tranche": "B2",
+      "sources": [
+        "feeling-watched-and-judged"
+      ],
+      "derived_from": "slug",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "anticipated",
+      "tranche": "B2",
+      "sources": [
+        "canceling-plans"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "avoidance",
+      "tranche": "B2",
+      "sources": [
+        "arranging-my-life-around-avoiding-someone"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "benign",
+      "tranche": "B2",
+      "sources": [
+        "going-quiet-when-others-succeed"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "deferred life plan",
+      "tranche": "B2",
+      "sources": [
+        "the-life-i-will-start-later"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "discomfort of undirected time",
+      "tranche": "B2",
+      "sources": [
+        "filling-every-silence"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "external locus of control",
+      "tranche": "B2",
+      "sources": [
+        "waiting-for-permission"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fear of missing",
+      "tranche": "B2",
+      "sources": [
+        "everyone-else-is-having-a-better-life"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "giver",
+      "tranche": "B2",
+      "sources": [
+        "giving-more-than-was-asked"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hot-cold empathy gap",
+      "tranche": "B2",
+      "sources": [
+        "promises-i-dont-keep"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "ick",
+      "tranche": "B2",
+      "sources": [
+        "sudden-revulsion-at-someone-i-liked"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "mere exposure effect",
+      "tranche": "B2",
+      "sources": [
+        "avoiding-photos"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "planning fallacy",
+      "tranche": "B2",
+      "sources": [
+        "always-running-late"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "propinquity effect",
+      "tranche": "B2",
+      "sources": [
+        "not-following-up-with-people-i-liked"
+      ],
+      "derived_from": "label",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "co-rumination venting actually make",
+      "tranche": "B2",
+      "sources": [
+        "complaining-without-changing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "giver measures compulsive over-giving",
+      "tranche": "B2",
+      "sources": [
+        "giving-more-than-was-asked"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "grey rock grey-rocking habit",
+      "tranche": "B2",
+      "sources": [
+        "grey-rocking"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hot-cold empathy gap boss",
+      "tranche": "B2",
+      "sources": [
+        "promises-i-dont-keep"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "planning fallacy last-minute rush",
+      "tranche": "B2",
+      "sources": [
+        "always-running-late"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "researchers measure public self-consciousness",
+      "tranche": "B2",
+      "sources": [
+        "feeling-watched-and-judged"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-censorship opinion only become",
+      "tranche": "B2",
+      "sources": [
+        "agreeing-when-you-disagree"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-censorship reason for automatic",
+      "tranche": "B2",
+      "sources": [
+        "agreeing-when-you-disagree"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-censorship say i agree",
+      "tranche": "B2",
+      "sources": [
+        "agreeing-when-you-disagree"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-censorship view out loud",
+      "tranche": "B2",
+      "sources": [
+        "agreeing-when-you-disagree"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-censorship want a fight",
+      "tranche": "B2",
+      "sources": [
+        "agreeing-when-you-disagree"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-concealment hide tiny purchases",
+      "tranche": "B2",
+      "sources": [
+        "hiding-small-things"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-concealment measured in research",
+      "tranche": "B2",
+      "sources": [
+        "hiding-small-things"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-consciousness genuinely do stare",
+      "tranche": "B2",
+      "sources": [
+        "feeling-watched-and-judged"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-consciousness voice i hear",
+      "tranche": "B2",
+      "sources": [
+        "feeling-watched-and-judged"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-consciousness week to check",
+      "tranche": "B2",
+      "sources": [
+        "feeling-watched-and-judged"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-deprecation habit of making",
+      "tranche": "B2",
+      "sources": [
+        "putting-myself-down"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-deprecation partner stopped reassuring",
+      "tranche": "B2",
+      "sources": [
+        "putting-myself-down"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-deprecation self-deprecating jokes quietly",
+      "tranche": "B2",
+      "sources": [
+        "putting-myself-down"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-deprecation tell harmless self-deprecating",
+      "tranche": "B2",
+      "sources": [
+        "putting-myself-down"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-monitoring anxious about friends",
+      "tranche": "B2",
+      "sources": [
+        "becoming-who-im-with"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-monitoring conversation to keep",
+      "tranche": "B2",
+      "sources": [
+        "becoming-who-im-with"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-monitoring difference between changing",
+      "tranche": "B2",
+      "sources": [
+        "becoming-who-im-with"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-monitoring learned to read",
+      "tranche": "B2",
+      "sources": [
+        "becoming-who-im-with"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "anticipated feel fine",
+      "tranche": "B2",
+      "sources": [
+        "canceling-plans"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "anticipated stop saying",
+      "tranche": "B2",
+      "sources": [
+        "canceling-plans"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "anticipated totally different",
+      "tranche": "B2",
+      "sources": [
+        "canceling-plans"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "assertiveness feel like",
+      "tranche": "B2",
+      "sources": [
+        "how-to-set-boundaries"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "assertiveness partner keeps",
+      "tranche": "B2",
+      "sources": [
+        "how-to-set-boundaries"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "assertiveness training come",
+      "tranche": "B2",
+      "sources": [
+        "how-to-set-boundaries"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "average situationship last",
+      "tranche": "B2",
+      "sources": [
+        "relationships-that-never-become-relationships"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "avoidance tiny route",
+      "tranche": "B2",
+      "sources": [
+        "arranging-my-life-around-avoiding-someone"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "bedtime procrastination going",
+      "tranche": "B2",
+      "sources": [
+        "staying-up-late"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "benign days late",
+      "tranche": "B2",
+      "sources": [
+        "going-quiet-when-others-succeed"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "breadcrumbing from ordinary",
+      "tranche": "B2",
+      "sources": [
+        "breadcrumbing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "breadcrumbing genuinely undecided",
+      "tranche": "B2",
+      "sources": [
+        "breadcrumbing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "changing bedtime procrastination",
+      "tranche": "B2",
+      "sources": [
+        "staying-up-late"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "chronic indecisiveness cancellation",
+      "tranche": "B2",
+      "sources": [
+        "not-being-able-to-decide"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "chronic indecisiveness difference",
+      "tranche": "B2",
+      "sources": [
+        "not-being-able-to-decide"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "chronic indecisiveness partner",
+      "tranche": "B2",
+      "sources": [
+        "not-being-able-to-decide"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "chronic indecisiveness tell",
+      "tranche": "B2",
+      "sources": [
+        "not-being-able-to-decide"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "cognitive dissonance belief",
+      "tranche": "B2",
+      "sources": [
+        "the-explanation-i-give-myself"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "cognitive dissonance catch",
+      "tranche": "B2",
+      "sources": [
+        "the-explanation-i-give-myself"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "cognitive dissonance explain",
+      "tranche": "B2",
+      "sources": [
+        "the-explanation-i-give-myself"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "cognitive dissonance make",
+      "tranche": "B2",
+      "sources": [
+        "the-explanation-i-give-myself"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "cognitive dissonance rationalization",
+      "tranche": "B2",
+      "sources": [
+        "the-explanation-i-give-myself"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "commitment issues partner",
+      "tranche": "B2",
+      "sources": [
+        "fear-of-intimacy"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "commitment issues pull",
+      "tranche": "B2",
+      "sources": [
+        "fear-of-intimacy"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "commitment issues simply",
+      "tranche": "B2",
+      "sources": [
+        "fear-of-intimacy"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "compartmentalization two friend",
+      "tranche": "B2",
+      "sources": [
+        "keeping-my-life-in-separate-boxes"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "compensatory consumption buy",
+      "tranche": "B2",
+      "sources": [
+        "buying-things-when-upset"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "compensatory consumption emotional",
+      "tranche": "B2",
+      "sources": [
+        "buying-things-when-upset"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "darvo idea come",
+      "tranche": "B2",
+      "sources": [
+        "how-i-end-up-apologizing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "darvo next day",
+      "tranche": "B2",
+      "sources": [
+        "how-i-end-up-apologizing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "darvo reversal happen",
+      "tranche": "B2",
+      "sources": [
+        "how-i-end-up-apologizing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "darvo simply went",
+      "tranche": "B2",
+      "sources": [
+        "how-i-end-up-apologizing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "deflection answer personal",
+      "tranche": "B2",
+      "sources": [
+        "deflecting"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "deflection boss deflects",
+      "tranche": "B2",
+      "sources": [
+        "deflecting"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "deflection partner says",
+      "tranche": "B2",
+      "sources": [
+        "deflecting"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "difference between benign",
+      "tranche": "B2",
+      "sources": [
+        "going-quiet-when-others-succeed"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "disorganized attachment difference",
+      "tranche": "B2",
+      "sources": [
+        "avoidant-attachment"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "disorganized attachment handling",
+      "tranche": "B2",
+      "sources": [
+        "avoidant-attachment"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "disorganized attachment huge",
+      "tranche": "B2",
+      "sources": [
+        "avoidant-attachment"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "disorganized attachment romantic",
+      "tranche": "B2",
+      "sources": [
+        "avoidant-attachment"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "doomscrolling partner says",
+      "tranche": "B2",
+      "sources": [
+        "doomscrolling"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "doomscrolling screen-time limits",
+      "tranche": "B2",
+      "sources": [
+        "doomscrolling"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "doomscrolling staying informed",
+      "tranche": "B2",
+      "sources": [
+        "doomscrolling"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "doomscrolling without deleting",
+      "tranche": "B2",
+      "sources": [
+        "doomscrolling"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "establish about limerence",
+      "tranche": "B2",
+      "sources": [
+        "cant-stop-thinking-about-someone"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "everyday deception exaggerate",
+      "tranche": "B2",
+      "sources": [
+        "lying-about-things-that-dont-matter"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "everyday deception pointless",
+      "tranche": "B2",
+      "sources": [
+        "lying-about-things-that-dont-matter"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "everyday deception punished",
+      "tranche": "B2",
+      "sources": [
+        "lying-about-things-that-dont-matter"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "everyday deception usually",
+      "tranche": "B2",
+      "sources": [
+        "lying-about-things-that-dont-matter"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "evidence for triangulation",
+      "tranche": "B2",
+      "sources": [
+        "pulling-someone-else-into-it"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "fade soft ghosting",
+      "tranche": "B2",
+      "sources": [
+        "ghosting"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "gaslighting secretly recording",
+      "tranche": "B2",
+      "sources": [
+        "not-trusting-my-own-memory"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "ghosting ghost recruiters",
+      "tranche": "B2",
+      "sources": [
+        "ghosting"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "ghosting ghosted months",
+      "tranche": "B2",
+      "sources": [
+        "ghosting"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "giver occasion calls",
+      "tranche": "B2",
+      "sources": [
+        "giving-more-than-was-asked"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "giver oversized gift",
+      "tranche": "B2",
+      "sources": [
+        "giving-more-than-was-asked"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "glass child boss",
+      "tranche": "B2",
+      "sources": [
+        "feeling-invisible"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "glass child mean",
+      "tranche": "B2",
+      "sources": [
+        "feeling-invisible"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "glass child partner",
+      "tranche": "B2",
+      "sources": [
+        "feeling-invisible"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "glass child start",
+      "tranche": "B2",
+      "sources": [
+        "feeling-invisible"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "goal disengagement finish",
+      "tranche": "B2",
+      "sources": [
+        "abandoning-things-at-ninety-percent"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "goal disengagement tell",
+      "tranche": "B2",
+      "sources": [
+        "abandoning-things-at-ninety-percent"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "grey rock method",
+      "tranche": "B2",
+      "sources": [
+        "grey-rocking"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "grey rock parent",
+      "tranche": "B2",
+      "sources": [
+        "grey-rocking"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "heartbreak feel like",
+      "tranche": "B2",
+      "sources": [
+        "after-it-ended"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "heartbreak first month",
+      "tranche": "B2",
+      "sources": [
+        "after-it-ended"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "honeymoon phase difference",
+      "tranche": "B2",
+      "sources": [
+        "when-the-early-feeling-fades"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "honeymoon phase real",
+      "tranche": "B2",
+      "sources": [
+        "when-the-early-feeling-fades"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "honeymoon phase supposed",
+      "tranche": "B2",
+      "sources": [
+        "when-the-early-feeling-fades"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hopeless romantic feel",
+      "tranche": "B2",
+      "sources": [
+        "falling-for-the-idea-of-a-person"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hopeless romantic mean",
+      "tranche": "B2",
+      "sources": [
+        "falling-for-the-idea-of-a-person"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hopeless romantic picture",
+      "tranche": "B2",
+      "sources": [
+        "falling-for-the-idea-of-a-person"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hopeless romantic separate",
+      "tranche": "B2",
+      "sources": [
+        "falling-for-the-idea-of-a-person"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "hours of doomscrolling",
+      "tranche": "B2",
+      "sources": [
+        "doomscrolling"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "inferiority complex stay",
+      "tranche": "B2",
+      "sources": [
+        "the-lesser-person-in-the-room"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "inferiority complex truly",
+      "tranche": "B2",
+      "sources": [
+        "the-lesser-person-in-the-room"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "instrument measure sublimation",
+      "tranche": "B2",
+      "sources": [
+        "pouring-it-all-into-one-thing"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "intermittent reinforcement friends",
+      "tranche": "B2",
+      "sources": [
+        "most-attached-to-the-ones-who-hurt-me"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "intermittent reinforcement kind",
+      "tranche": "B2",
+      "sources": [
+        "most-attached-to-the-ones-who-hurt-me"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "intermittent reinforcement relief",
+      "tranche": "B2",
+      "sources": [
+        "most-attached-to-the-ones-who-hurt-me"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "intermittent reinforcement unpredictable",
+      "tranche": "B2",
+      "sources": [
+        "most-attached-to-the-ones-who-hurt-me"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "kind of avoidance",
+      "tranche": "B2",
+      "sources": [
+        "arranging-my-life-around-avoiding-someone"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "limerence fixation last",
+      "tranche": "B2",
+      "sources": [
+        "cant-stop-thinking-about-someone"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "long does heartbreak",
+      "tranche": "B2",
+      "sources": [
+        "after-it-ended"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "love bombing matching",
+      "tranche": "B2",
+      "sources": [
+        "coming-on-too-strong"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "love bombing sending",
+      "tranche": "B2",
+      "sources": [
+        "coming-on-too-strong"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "maladaptive daydreaming characters",
+      "tranche": "B2",
+      "sources": [
+        "daydreaming"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "maladaptive daydreaming constantly",
+      "tranche": "B2",
+      "sources": [
+        "daydreaming"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "maladaptive daydreaming disappearing",
+      "tranche": "B2",
+      "sources": [
+        "daydreaming"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "maladaptive daydreaming stop",
+      "tranche": "B2",
+      "sources": [
+        "daydreaming"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "measures the ick",
+      "tranche": "B2",
+      "sources": [
+        "sudden-revulsion-at-someone-i-liked"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "online gaslighting checklists",
+      "tranche": "B2",
+      "sources": [
+        "not-trusting-my-own-memory"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "parasocial relationship creator",
+      "tranche": "B2",
+      "sources": [
+        "closer-to-strangers-than-to-people-i-know"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "parasocial relationship friend",
+      "tranche": "B2",
+      "sources": [
+        "closer-to-strangers-than-to-people-i-know"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "parasocial relationship tell",
+      "tranche": "B2",
+      "sources": [
+        "closer-to-strangers-than-to-people-i-know"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "parent turn triangulation",
+      "tranche": "B2",
+      "sources": [
+        "did-one-parent-turn-me-against-the-other"
+      ],
+      "derived_from": "question",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "anticipated versus experienced enjoyment",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "assertiveness",
+      "tranche": "B4",
+      "sources": [
+        "how-to-set-boundaries",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "becoming a recluse",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "bedtime procrastination",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "staying-up-late"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "breadcrumbing",
+      "tranche": "B4",
+      "sources": [
+        "breadcrumbing",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "catharsis",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "chronic indecisiveness",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "not-being-able-to-decide"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "co-rumination",
+      "tranche": "B4",
+      "sources": [
+        "complaining-without-changing",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "cognitive dissonance",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "the-explanation-i-give-myself"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "commitment issues",
+      "tranche": "B4",
+      "sources": [
+        "fear-of-intimacy",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "compartmentalization",
+      "tranche": "B4",
+      "sources": [
+        "keeping-my-life-in-separate-boxes",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "compensatory consumption",
+      "tranche": "B4",
+      "sources": [
+        "buying-things-when-upset",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "compliance",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "cue-poor communication",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "darvo",
+      "tranche": "B4",
+      "sources": [
+        "how-i-end-up-apologizing",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "deflection",
+      "tranche": "B4",
+      "sources": [
+        "deflecting",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "disorganized attachment",
+      "tranche": "B4",
+      "sources": [
+        "avoidant-attachment",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "doomscrolling",
+      "tranche": "B4",
+      "sources": [
+        "doomscrolling",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "editability",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "emotionally immature parents",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "employee silence",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "everyday deception",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "lying-about-things-that-dont-matter"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "excuse selection",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "expressive suppression",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "fatalism",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "fear of missing out",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "feeling insecure",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "gaslighting",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "not-trusting-my-own-memory"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "ghosting",
+      "tranche": "B4",
+      "sources": [
+        "ghosting",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "glass child",
+      "tranche": "B4",
+      "sources": [
+        "feeling-invisible",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "goal disengagement",
+      "tranche": "B4",
+      "sources": [
+        "abandoning-things-at-ninety-percent",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "gossip",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "grey rock",
+      "tranche": "B4",
+      "sources": [
+        "grey-rocking",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "hating your own life",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "heartbreak",
+      "tranche": "B4",
+      "sources": [
+        "after-it-ended",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "honeymoon phase",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "when-the-early-feeling-fades"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "hopeless romantic",
+      "tranche": "B4",
+      "sources": [
+        "falling-for-the-idea-of-a-person",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "hyper-independence",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "identity crisis",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "impression management",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "indirect support seeking",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "infantilizing",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "inferiority complex",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "the-lesser-person-in-the-room"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "information avoidance",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "intermittent reinforcement",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "most-attached-to-the-ones-who-hurt-me"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "interpersonal electronic surveillance",
+      "tranche": "B4",
+      "sources": [
+        "checking-their-social-media",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "keeping score",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "limerence",
+      "tranche": "B4",
+      "sources": [
+        "cant-stop-thinking-about-someone",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "love bombing",
+      "tranche": "B4",
+      "sources": [
+        "coming-on-too-strong",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "maladaptive daydreaming",
+      "tranche": "B4",
+      "sources": [
+        "daydreaming",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "mental rehearsal",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "micro-cheating",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "nervous laughter",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "organizational citizenship behavior",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "over-apologizing",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "oversharing",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "overstimulation",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "too-much-happening-in-the-room"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "parasocial relationship",
+      "tranche": "B4",
+      "sources": [
+        "closer-to-strangers-than-to-people-i-know",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "passive aggressive behavior",
+      "tranche": "B4",
+      "sources": [
+        "expressing-anger-sideways",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "perfectionistic concerns",
+      "tranche": "B4",
+      "sources": [
+        "doing-it-myself-because-its-faster",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "phatic communication",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "phone anxiety",
+      "tranche": "B4",
+      "sources": [
+        "avoiding-phone-calls",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "phubbing",
+      "tranche": "B4",
+      "sources": [
+        "checking-my-phone-mid-conversation",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "projection",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "reaction formation",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "warmest-to-the-people-i-like-least"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "relationship testing",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "retroactive jealousy",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "thinking-about-my-partners-past"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "revision against restarting",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "role theory",
+      "tranche": "B4",
+      "sources": [
+        "always-the-host-never-the-guest",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "safety behaviors",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": true
+    },
+    {
+      "core": "savoring",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "not-celebrating-wins"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "scapegoat",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "the-one-my-family-blames"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "segmented sleep",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-censorship",
+      "tranche": "B4",
+      "sources": [
+        "agreeing-when-you-disagree",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-concealment",
+      "tranche": "B4",
+      "sources": [
+        "hiding-small-things",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-consciousness",
+      "tranche": "B4",
+      "sources": [
+        "feeling-watched-and-judged",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-deprecation",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "putting-myself-down"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-disclosure",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "unloading-on-people"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-fulfilling prophecy",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-monitoring",
+      "tranche": "B4",
+      "sources": [
+        "becoming-who-im-with",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "self-verification",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "situationship",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "relationships-that-never-become-relationships"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "sublimation",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "pouring-it-all-into-one-thing"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "superiority complex",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "the-contempt-i-dont-like-having"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "support matching",
+      "tranche": "B4",
+      "sources": [
+        "giving-unsolicited-advice",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "temporal motivation",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the deferred life plan",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the drama triangle",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the endowment effect",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the giver",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the hot-cold empathy gap",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the ick",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the mere exposure effect",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the planning fallacy",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "the propinquity effect",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "topic avoidance",
+      "tranche": "B4",
+      "sources": [
+        "changing-the-subject",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "touch avoidance",
+      "tranche": "B4",
+      "sources": [
+        "going-stiff-when-someone-hugs-me",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "triangulation",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "pulling-someone-else-into-it"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "turn-taking",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "unrequited love",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price",
+        "loving-someone-who-does-not-love-me-back"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "unsupportive social interactions",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "vicarious embarrassment",
+      "tranche": "B4",
+      "sources": [
+        "cant-watch-someone-embarrass-themselves",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "weaponized incompetence",
+      "tranche": "B4",
+      "sources": [
+        "doing-it-badly-so-someone-takes-it-back",
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    },
+    {
+      "core": "work-to-family spillover",
+      "tranche": "B4",
+      "sources": [
+        "label-terms-to-price"
+      ],
+      "derived_from": "label-term",
+      "already_priced": false,
+      "serp_on_disk": false
+    }
+  ]
+}

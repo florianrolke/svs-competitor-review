@@ -1,0 +1,36 @@
+# B5b - the head cores whose difficulty is EXTRAPOLATED and whose SERP is
+# still unpulled, from the Letaido demand pull, 2026-09-08.
+# Filter: non-mirage, volume >= 1,000, kd_fit_extrapolated = true, and no
+# serp_top10 with domain ratings on disk. These are the ones whose KD comes
+# from the fitted curve beyond the priced range, so the SERP is the only way
+# to see whether the difficulty guess is real.
+# Format: ahrefs_pull.py --seeds-file (one phrase per line, '#' ignored).
+# cores: 27
+
+gaslighting
+cognitive dissonance
+limerence
+darvo
+doomscrolling
+hopeless romantic
+inferiority complex
+breadcrumbing
+reaction formation
+retroactive jealousy
+identity crisis
+fatalism
+assertiveness
+infantilizing
+compartmentalization
+commitment issues
+emotionally immature parents
+parasocial relationship
+impression management
+intermittent reinforcement
+phubbing
+glass child
+fear of missing out
+oversharing
+nervous laughter
+organizational citizenship behavior
+role theory

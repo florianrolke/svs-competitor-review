@@ -1,0 +1,8 @@
+ahrefs_keywords_explorer.ideas
+
+Run date: 2026-09-09. Source phrases: experiment/letaido-cores-2026-09-08/letaido-cores-F-ideas.txt (60 phrases, used verbatim).
+Call budget: 1 describe_connector call + exactly 1 data call per phrase (one retry allowed on error; 7 phrases retried once, all rate-limited again).
+Args per call: seed_keywords=[phrase], country=us, mode=matching_terms, limit=100, order_by=volume desc, filters.min_volume=10.
+Columns: core (seed phrase), keyword, volume (US monthly), difficulty, cpc (USD, converted from cpc_cents/100), parent_topic, intent (from attrs flags: navigational/informational/commercial/transactional, comma-joined; blank if none).
+Rows kept: volume >= 10 (enforced server-side via min_volume filter). Result: 5065 rows across 53 cores.
+7 phrases skipped (ahrefs.rate_limited after one retry each): see skipped-F.txt.

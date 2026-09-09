@@ -1,0 +1,36 @@
+# B1 - new angles. One generic topical core per angle, hand-written.
+# Built 2026-09-08 by execution/build_letaido_cores.py. Format: ahrefs_pull.py --seeds-file (one phrase per line, '#' ignored).
+# Every core here has NO priced volume in any keyword set on disk.
+# cores: 31
+
+doing everything yourself
+harsh self criticism
+compulsive overworking
+decision paralysis
+productive procrastination
+fear of publishing
+lack of accountability
+perfectionism paralysis
+not finishing projects
+fear of judgment
+impossible personal standards
+undercharging for work
+chasing unpaid invoices
+not asking for help
+people pleasing
+networking avoidance
+not following up
+late night working
+fragmented sleep
+wasted mornings
+guilt about resting
+working on weekends
+comparing yourself to others
+loss of direction
+learning addiction
+endless preparation
+postponing a decision
+expecting the worst
+losing touch with people
+email avoidance
+phone distraction

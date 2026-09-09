@@ -1,0 +1,109 @@
+# B4 - the named label terms each page claims.
+# Built 2026-09-08 by execution/build_letaido_cores.py. Format: ahrefs_pull.py --seeds-file (one phrase per line, '#' ignored).
+# Every core here has NO priced volume in any keyword set on disk.
+# cores: 104
+
+anticipated versus experienced enjoyment
+assertiveness
+becoming a recluse
+bedtime procrastination
+breadcrumbing
+catharsis
+chronic indecisiveness
+co-rumination
+cognitive dissonance
+commitment issues
+compartmentalization
+compensatory consumption
+compliance
+cue-poor communication
+darvo
+deflection
+disorganized attachment
+doomscrolling
+editability
+emotionally immature parents
+employee silence
+everyday deception
+excuse selection
+expressive suppression
+fatalism
+fear of missing out
+feeling insecure
+gaslighting
+ghosting
+glass child
+goal disengagement
+gossip
+grey rock
+hating your own life
+heartbreak
+honeymoon phase
+hopeless romantic
+hyper-independence
+identity crisis
+impression management
+indirect support seeking
+infantilizing
+inferiority complex
+information avoidance
+intermittent reinforcement
+interpersonal electronic surveillance
+keeping score
+limerence
+love bombing
+maladaptive daydreaming
+mental rehearsal
+micro-cheating
+nervous laughter
+organizational citizenship behavior
+over-apologizing
+oversharing
+overstimulation
+parasocial relationship
+passive aggressive behavior
+perfectionistic concerns
+phatic communication
+phone anxiety
+phubbing
+projection
+reaction formation
+relationship testing
+retroactive jealousy
+revision against restarting
+role theory
+safety behaviors
+savoring
+scapegoat
+segmented sleep
+self-censorship
+self-concealment
+self-consciousness
+self-deprecation
+self-disclosure
+self-fulfilling prophecy
+self-monitoring
+self-verification
+situationship
+sublimation
+superiority complex
+support matching
+temporal motivation
+the deferred life plan
+the drama triangle
+the endowment effect
+the giver
+the hot-cold empathy gap
+the ick
+the mere exposure effect
+the planning fallacy
+the propinquity effect
+topic avoidance
+touch avoidance
+triangulation
+turn-taking
+unrequited love
+unsupportive social interactions
+vicarious embarrassment
+weaponized incompetence
+work-to-family spillover

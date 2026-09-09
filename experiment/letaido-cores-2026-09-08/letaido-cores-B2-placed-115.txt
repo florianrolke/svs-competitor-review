@@ -1,0 +1,206 @@
+# B2 - the 115 placed pages. Slug core, then label core, then searcher-question cores by cross-page frequency.
+# Built 2026-09-08 by execution/build_letaido_cores.py. Format: ahrefs_pull.py --seeds-file (one phrase per line, '#' ignored).
+# Every core here has NO priced volume in any keyword set on disk.
+# Capped at 200.
+# cores: 200
+
+able to decide
+arranging my life
+avoidant attachment
+avoiding phone calls
+avoiding photos
+become relationships
+better life
+black and white
+break a habit
+canceling plans
+catastrophizing
+celebrating wins
+changing the subject
+checking their social
+closer to strangers
+complaining without changing
+conditional self worth
+cynicism
+daydreaming
+deflecting
+early feeling fades
+emotional exhaustion
+emotional home
+emotional manipulation
+emotional suppression
+emotional wounds
+end up apologizing
+enmeshment
+escapism
+explanation i give
+expressing anger sideways
+family blames
+fawn response
+fear of happiness
+fear of rejection
+feeling responsible
+filling every silence
+find yourself
+forgive yourself
+giving unsolicited advice
+going quiet
+going stiff
+grey rocking
+hiding small
+insight doesnt change
+keeping my life
+love yourself
+ninety percent
+ones who hurt
+parent turn
+partners past
+phone mid conversation
+putting myself
+rebuild trust
+running late
+set boundaries
+start later
+staying up late
+stop people pleasing
+stop thinking
+sudden revulsion
+supporting character
+trust yourself
+unpredictable parent
+waiting for permission
+watch someone embarrass
+watched and judged
+anticipated
+avoidance
+benign
+deferred life plan
+discomfort of undirected time
+external locus of control
+fear of missing
+giver
+hot-cold empathy gap
+ick
+mere exposure effect
+planning fallacy
+propinquity effect
+co-rumination venting actually make
+giver measures compulsive over-giving
+grey rock grey-rocking habit
+hot-cold empathy gap boss
+planning fallacy last-minute rush
+researchers measure public self-consciousness
+self-censorship opinion only become
+self-censorship reason for automatic
+self-censorship say i agree
+self-censorship view out loud
+self-censorship want a fight
+self-concealment hide tiny purchases
+self-concealment measured in research
+self-consciousness genuinely do stare
+self-consciousness voice i hear
+self-consciousness week to check
+self-deprecation habit of making
+self-deprecation partner stopped reassuring
+self-deprecation self-deprecating jokes quietly
+self-deprecation tell harmless self-deprecating
+self-monitoring anxious about friends
+self-monitoring conversation to keep
+self-monitoring difference between changing
+self-monitoring learned to read
+anticipated feel fine
+anticipated stop saying
+anticipated totally different
+assertiveness feel like
+assertiveness partner keeps
+assertiveness training come
+average situationship last
+avoidance tiny route
+bedtime procrastination going
+benign days late
+breadcrumbing from ordinary
+breadcrumbing genuinely undecided
+changing bedtime procrastination
+chronic indecisiveness cancellation
+chronic indecisiveness difference
+chronic indecisiveness partner
+chronic indecisiveness tell
+cognitive dissonance belief
+cognitive dissonance catch
+cognitive dissonance explain
+cognitive dissonance make
+cognitive dissonance rationalization
+commitment issues partner
+commitment issues pull
+commitment issues simply
+compartmentalization two friend
+compensatory consumption buy
+compensatory consumption emotional
+darvo idea come
+darvo next day
+darvo reversal happen
+darvo simply went
+deflection answer personal
+deflection boss deflects
+deflection partner says
+difference between benign
+disorganized attachment difference
+disorganized attachment handling
+disorganized attachment huge
+disorganized attachment romantic
+doomscrolling partner says
+doomscrolling screen-time limits
+doomscrolling staying informed
+doomscrolling without deleting
+establish about limerence
+everyday deception exaggerate
+everyday deception pointless
+everyday deception punished
+everyday deception usually
+evidence for triangulation
+fade soft ghosting
+gaslighting secretly recording
+ghosting ghost recruiters
+ghosting ghosted months
+giver occasion calls
+giver oversized gift
+glass child boss
+glass child mean
+glass child partner
+glass child start
+goal disengagement finish
+goal disengagement tell
+grey rock method
+grey rock parent
+heartbreak feel like
+heartbreak first month
+honeymoon phase difference
+honeymoon phase real
+honeymoon phase supposed
+hopeless romantic feel
+hopeless romantic mean
+hopeless romantic picture
+hopeless romantic separate
+hours of doomscrolling
+inferiority complex stay
+inferiority complex truly
+instrument measure sublimation
+intermittent reinforcement friends
+intermittent reinforcement kind
+intermittent reinforcement relief
+intermittent reinforcement unpredictable
+kind of avoidance
+limerence fixation last
+long does heartbreak
+love bombing matching
+love bombing sending
+maladaptive daydreaming characters
+maladaptive daydreaming constantly
+maladaptive daydreaming disappearing
+maladaptive daydreaming stop
+measures the ick
+online gaslighting checklists
+parasocial relationship creator
+parasocial relationship friend
+parasocial relationship tell
+parent turn triangulation

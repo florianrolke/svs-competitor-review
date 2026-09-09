@@ -1,0 +1,5 @@
+# skipped.txt — cited-owners-2026-09-08
+# No pulls errored; all 24 cited_domains calls succeeded on the first attempt.
+# The following pulls returned 0 records (empty result, not an error):
+the difference between flight and fawn response
+the seven signs of emotional neglect
