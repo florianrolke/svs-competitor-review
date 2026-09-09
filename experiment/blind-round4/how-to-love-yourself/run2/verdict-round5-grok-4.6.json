@@ -1,0 +1,59 @@
+{
+  "model": "grok-4.6",
+  "slug": "how-to-love-yourself",
+  "run": 2,
+  "verdicts": [
+    {
+      "question": "What does loving yourself actually mean in everyday life?",
+      "winner": "B",
+      "reason": "H2 'What Does Loving Yourself Actually Mean, In Plain Words?' plus Grossmann 2014 in Psychological Science on wiser reasoning about someone else's problem than one's own."
+    },
+    {
+      "question": "Why do affirmations and self-care routines make self-love feel fake?",
+      "winner": "B",
+      "reason": "H2 'Why Do Affirmations and Self-Care Lists Bounce Off?' plus the named 2009 Psychological Science paper 'Positive Self-Statements: Power for Some, Peril for Others.'"
+    },
+    {
+      "question": "Where does the habit of putting everyone else's feelings before mine come from?",
+      "winner": "B",
+      "reason": "H2 'Where Does the Habit of Not Counting Yourself Come From?' plus Assor 2004 in the Journal of Personality on parental warmth attached to performance."
+    },
+    {
+      "question": "Why can I give support easily but feel uncomfortable receiving it?",
+      "winner": "B",
+      "reason": "H2 'Why Is Receiving Harder Than Giving?' plus the Marigold 2007 Journal of Personality and Social Psychology compliment experiment."
+    },
+    {
+      "question": "How does low self-regard show up with a partner or close friends?",
+      "winner": "B",
+      "reason": "H2 is the question itself, with the six-row table that names partner compromises and the one-way-listener friendship."
+    },
+    {
+      "question": "How does not loving myself affect the way I behave with my boss at work?",
+      "winner": "B",
+      "reason": "Dedicated H2 matching the question, naming extra-work absorption, the delayed pay conversation, and agreeing in the meeting."
+    },
+    {
+      "question": "What small practices can build self-love when I do not feel it yet?",
+      "winner": "B",
+      "reason": "H2 'How Do You Build This When You Cannot Feel It On Command?' with the numbered practices plus Lieberman 2007 affect labeling and Torre and Lieberman 2018."
+    },
+    {
+      "question": "How is self-love measured in psychological research?",
+      "winner": "B",
+      "reason": "Dedicated H2 'How Is Self-Love Measured In Psychological Research?' with the four-measure table, Neff 2003, and Muris and Petrocchi 2017."
+    },
+    {
+      "question": "Which disorder causes a person to be unable to love themselves?",
+      "winner": "B",
+      "reason": "Section 'When Does This Belong With a Professional Rather Than a Practice?' names hopelessness, numbness, eating patterns, and self-harm without inventing a disorder."
+    },
+    {
+      "question": "How can I teach my child to love themselves more?",
+      "winner": "B",
+      "reason": "Childhood-origin section plus Assor 2004 on conditional parental warmth, the closest parent-facing finding on either page."
+    }
+  ],
+  "a_count": 0,
+  "b_count": 10
+}

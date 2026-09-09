@@ -1,0 +1,59 @@
+{
+  "model": "grok-4.6",
+  "slug": "waiting-for-permission",
+  "run": 1,
+  "verdicts": [
+    {
+      "question": "Why do I keep waiting for someone to tell me I can start?",
+      "winner": "A",
+      "reason": "H2 is the question itself, sitting after the five-root map rather than leaving the why buried in the opening."
+    },
+    {
+      "question": "What is an external locus of control?",
+      "winner": "A",
+      "reason": "Dedicated H2 matching the question, with Rotter 1966 forced-choice pairs and four things the term does not mean."
+    },
+    {
+      "question": "How can I tell whether my manager's permission is truly required?",
+      "winner": "A",
+      "reason": "H2 names the manager; the real-versus-imagined table asks what would actually happen if they said no."
+    },
+    {
+      "question": "Why am I still waiting for approval from a parent who cannot give it?",
+      "winner": "A",
+      "reason": "H2 is the question itself, covering a dead parent, a parent who cannot give recognition, and the unwinnable wait."
+    },
+    {
+      "question": "Why does it sting when someone less prepared starts before me?",
+      "winner": "A",
+      "reason": "H2 is the question itself: they treated it as available and you treated it as pending, then the later count of months standing still."
+    },
+    {
+      "question": "How is waiting for permission measured in research?",
+      "winner": "A",
+      "reason": "Dedicated H2 stating it is not measured directly, then naming control-belief scales, developmental interviews, and uncontrollable-event experiments as neighbors."
+    },
+    {
+      "question": "How trustworthy is the learned-helplessness research behind this idea?",
+      "winner": "A",
+      "reason": "Section 'How Much of This Research Should You Actually Trust?' with Maier and Seligman 2016 in Psychological Review that the original mechanism ran backwards."
+    },
+    {
+      "question": "What does changing this pattern look like in an ordinary workweek?",
+      "winner": "A",
+      "reason": "H2 is the question itself: questions get put with a date, the conversation loop shortens, a low-cost first move gets done."
+    },
+    {
+      "question": "What is one concrete thing I can do before making a bigger decision?",
+      "winner": "A",
+      "reason": "H2 is the question itself: write one name and the sentence 'if they said no, what would actually happen?'"
+    },
+    {
+      "question": "Could ADHD be the reason I cannot start without permission?",
+      "winner": "A",
+      "reason": "Neither page names ADHD; A's disclaimer that this is not a diagnosis, plus the qualified-professional section, is the honest citation."
+    }
+  ],
+  "a_count": 10,
+  "b_count": 0
+}
