@@ -1,0 +1,91 @@
+{
+  "query": "What is anxious attachment style?",
+  "winner_overall": "B",
+  "citation_score": {
+    "A": 1,
+    "B": 9
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B separates the commercial seminar pitch outside of the identification box, leaving the introspective recognition strictly in the reader's hands without bundling it into a program offer."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B does not embed a promotional seminar link directly inside the initial self-identification bulleted box before the reader has even read the opening narrative."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "By keeping the identify box self-contained and free of an outbound seminar link, Page B keeps the focus on the reader doing their own reflecting."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B lets the reader absorb the diagnostic forecast sentences and close the callout before offering an external seminar link underneath."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Both versions share identical text regarding the author's personal history, but Page B frames the overall page journey with less commercial intrusion up front."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B concludes the identify box with 'Every one of them is the same forecast running underneath, and it quietly costs you the evening it lands on.' rather than tagging on an author pitch line."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In Page B, placing the seminar link as a bare paragraph between the identify-box and the opening narrative creates a small visual speed bump in the flow."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The identify box in Page B remains focused purely on the reader's own inner monologue without shifting abruptly into seminar promotion."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Keeping the seminar link out of the primary identify container lets the recognition exercise maintain its integrity without turning into a sales pitch."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page B answers the question cleanly in the opening blocks without corrupting the definition/identification box with an immediate seminar promotion."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Puts a promotional seminar link directly inside the identify box, diluting the immediate sense of personal identification with marketing."
+    ],
+    "B": [
+      "The freestanding seminar link right below the identify box sits awkwardly between the callout and the prose opening."
+    ]
+  },
+  "first_screen": "Page B leaves the reader more in charge because its identify-box ends on the reader's experience rather than directing them into a seminar link.",
+  "provenance": "Both pages cite identical research (Brennan et al., De Wolff & van IJzendoorn), making provenance equal.",
+  "confidence": "high"
+}

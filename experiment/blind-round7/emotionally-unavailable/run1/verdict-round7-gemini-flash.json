@@ -1,0 +1,91 @@
+{
+  "query": "What does emotionally unavailable actually mean?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 8,
+    "B": 2
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In page A, keeping the seminar link outside of the 'identify-box' avoids turning the reader's self-recognition into an immediate external program pitch."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B embeds an external promotional link directly inside the introductory identification callout box before the reader has even read the opening paragraphs, whereas Page A lets the identification box conclude on its own terms."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "By leaving the identify box clean of promotional seminar links, Page A lets the reflection rest with the reader rather than bundling self-reflection into a signpost to a workshop."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Separating the external link from the callout container allows the diagnostic sentences to stand on their own without immediately directing action."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The author's history appears later under 'How Can I Tell If I Am the Emotionally Unavailable One?', but Page A sets up a cleaner, less commercially urgent context for personal disclosure."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Placing the seminar link at the bottom of the container leaves the plain text directly following the box slightly less cluttered with standalone links."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In Page B, the standalone markdown paragraph starting with 'There is a small move...' follows cleanly after the callout box without an intervening isolated link line."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The identify-box in Page A concludes cleanly with the resonant thought 'the cost is a life where the people closest to you never quite find out who is in there', allowing the realization to land without immediately pivoting to a seminar link."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "The identify callout box remains purely about the reader's internal rules, preventing an in-box commercial diversion."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Keeping the identify box focused strictly on definition and internal lines maintains a cleaner conceptual progression from short answer to internal experience."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "The link placed directly below the identify-box sits as an isolated one-line paragraph before the prose narrative begins."
+    ],
+    "B": [
+      "Tucking the seminar link into the identify-box interrupts the reader's inward recognition with promotional callout text."
+    ]
+  },
+  "first_screen": "Page A leaves the reader more in charge because the identify box ends on an empowering and resonant diagnostic statement rather than culminating in a seminar pitch.",
+  "provenance": "Both pages provide identical attributions and citations, including Biringen's Emotional Availability Scales and Developmental Review 2014.",
+  "confidence": "high"
+}

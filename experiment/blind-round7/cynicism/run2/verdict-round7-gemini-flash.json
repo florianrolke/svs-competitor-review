@@ -1,0 +1,91 @@
+{
+  "query": "Why have I become so cynical?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 9,
+    "B": 1
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In Page A, the seminar link sits tucked inside the callout box as an optional exploration, leaving the transition directly into the reader's self-reflection rather than creating a speedbump."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B places an external seminar pitch link directly in the body text before the opening story has even begun, asking for commercial trust prematurely."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page B pulls the reader out of the narrative right into an external seminar link before they have read a single full section."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In Page A, confining the seminar link to the bottom of the callout card preserves the open space of the prose narrative immediately following."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Both versions share identical author history paragraphs, but Page A frames the narrative without an awkward standalone promo link preceding the introduction."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page A keeps the introductory dialogue flow intact; in Page B, the standalone link between the callout box and 'A friend tells you...' creates an intrusive commercial voice."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page A flows cleanly from the identify-box directly into the opening narrative scenario, whereas Page B is jarringly interrupted by a freestanding link paragraph."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "The transition from the four internal sentences directly into the vignette about a friend getting back together with an ex is unbroken by promotional link text in Page A."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B inserts a standalone paragraph containing an external seminar link immediately before the opening illustration, stalling momentum."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "In Page B, keeping the identify-box strictly to the four self-talk lines without an embedded link keeps the box itself purely focused on definitions."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "The callout box mixes diagnostic self-talk quotes with an external promotional link at the bottom."
+    ],
+    "B": [
+      "Dangling a standalone seminar link between the identify-box and the opening story creates an abrupt interruption to the narrative flow."
+    ]
+  },
+  "first_screen": "Page A leaves the reader more in charge because the link to the external seminar is neatly contained within the identify box rather than sitting as a prominent, disruptive speedbump in the main reading column right above the opening narrative.",
+  "provenance": "Both pages have identical text and structure, but Page A maintains superior document cohesion by keeping promotional material scoped inside UI containers.",
+  "confidence": "high"
+}

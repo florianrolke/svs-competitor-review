@@ -1,0 +1,91 @@
+{
+  "query": "What does emotionally unavailable actually mean?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 8,
+    "B": 2
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In A, keeping the seminar link tucked inside the identify box leaves the main narrative clean and focused on personal agency rather than promoting an outside offering right in the main column."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In B, the seminar link sits directly in the main body text between the callout box and the opening prose paragraph, presenting a commercial CTA before establishing the narrative."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page A keeps the seminar pitch subordinated within the initial example list container, preventing an early distraction from the self-examination."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page A contains the external link inside the box where it reads as an optional footnote rather than an immediate directive in the main text."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The author's personal history is identical in both versions, but A introduces the author's commercial offerings less intrusively early on."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In Page A, the bullet points of internal dialogue flow smoothly into the closing sentence inside the identify box without a standalone hyperlink disrupting the personal tone."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B places a standalone hyperlinked sentence directly between the identify-box and 'There is a small move...', abruptly interrupting the reading flow."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Page B ends the callout box cleanly on the phrase 'find out who is in there', allowing the reader identification to land slightly more cleanly before the link appears."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In Page A, the prose argument transitions immediately from the identify box to 'There is a small move...', avoiding the jarring orphan link found in B."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Page B isolates the promotional link outside the identify box, leaving the identify box content purely focused on the conceptual examples."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Puts the seminar link inside the identify-box, slightly muddying the conceptual focus of that container."
+    ],
+    "B": [
+      "Drops a standalone external marketing link right into the main body flow between the identify box and the introductory paragraph, breaking momentum."
+    ]
+  },
+  "first_screen": "Page A leaves the reader more in charge because the link to an external seminar is tucked away inside the callout container rather than appearing as an intrusive standalone prompt right before the first paragraph.",
+  "provenance": "Both pages cite identical research and origins (Biringen's Emotional Availability Scales), but A preserves a more coherent editorial presentation.",
+  "confidence": "high"
+}

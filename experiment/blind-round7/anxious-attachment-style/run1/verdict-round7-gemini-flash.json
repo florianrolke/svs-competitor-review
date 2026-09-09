@@ -1,0 +1,91 @@
+{
+  "query": "What is anxious attachment style?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 8,
+    "B": 2
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In Page A, the link to the seminar sits outside the bulleted self-identification callout box, separating the reader's self-assessment from promotional redirection."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B places a promotional link to the paid seminar inside the 'identify-box' immediately after personal quotes, demanding commercial consideration before the emotional recognition has even settled."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Keeping the identify-box clean of commercial links in Page A lets the diagnostic exercise belong fully to the reader rather than serving as a funnel to an off-site seminar."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page A keeps the seminar link in standard body flow rather than trapping it inside the boxed reflection exercise."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Both pages share identical text in the personal history section, but Page A frames the overall narrative with less immediate commercial pressure."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The identify-box in Page A concludes purely with the resonant diagnostic observation ('Every one of them is the same forecast...') rather than terminating in a pitch link."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In Page B, having an external link embedded inside the identify-box disrupts the rhythm of reading the bulleted internal monologues."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page A allows the reader to absorb the identifying quotes and summary sentence without being diverted by an external link within the callout container."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Page B bundles all introductory metadata and ancillary callout links inside the identify-box before transitioning into the prose about the 'particular twenty minutes'."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Page B groups the callout material tightly within the box, leaving the body text below completely uninterrupted."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Leaves an isolated link sitting between the identify-box and the main narrative hook paragraph."
+    ],
+    "B": [
+      "Injects a commercial promotional link directly into the contemplative self-reflection box."
+    ]
+  },
+  "first_screen": "Page A leaves the reader more in charge because the callout box containing the inner sentences ends with an empathetic reflection rather than a sales pitch for a seminar.",
+  "provenance": "Both pages have identical academic citations and developmental psychology provenance (De Wolff and van IJzendoorn meta-analysis; Brennan et al. ECR questionnaire).",
+  "confidence": "high"
+}

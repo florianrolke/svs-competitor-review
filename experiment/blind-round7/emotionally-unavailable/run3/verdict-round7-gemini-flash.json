@@ -1,0 +1,91 @@
+{
+  "query": "What does emotionally unavailable actually mean?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 8,
+    "B": 2
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In page A, the seminar callout is kept outside the initial self-identification frame, keeping the focus of the opening box entirely on the reader's self-reflection rather than an external program."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page B places an offer link directly inside the identify-box right under the bullet points before the reader has even engaged with the article's narrative explanation."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B inserts an external seminar link right into the identify-box, treating an organic introspective moment as a sales handoff, whereas Page A keeps the box purely focused on internal realization."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Leaving the closing sentence of the identify-box undisturbed without an inline commercial plug lets the reader sit with the insight rather than being directed toward an event."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Both pages share identical author history paragraphs, but Page A frames the reader's journey cleanly before introducing services."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Page B contains the exact same reader phrases, and keeping the callout neatly tucked within the div boundary prevents an abrupt visual line between paragraphs."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In Page B, the seminar link sits awkwardly inside the identify-box directly following the concluding thought, disrupting the thematic container."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page A keeps the identify-box pure, ending on 'never quite find out who is in there' without a jarring promotional link wedged inside."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Placing the seminar link between the identify-box and the prose paragraph in Page A functions as a clear transitional element rather than interrupting the internal logic of the identification card."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Page B leaves the prose text immediately after the identify box uninterrupted by any standalone block link."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "The standalone link right after the identify box sits somewhat nakedly between the callout and the prose."
+    ],
+    "B": [
+      "Embedding the seminar link inside the identify-box pollutes the pure recognition exercise with promotion."
+    ]
+  },
+  "first_screen": "Page A leaves the reader more in charge because the identify-box concludes with an uncompromised reflection on relationship cost rather than an immediate pitch for a seminar.",
+  "provenance": "Both pages offer identical research citations and lived-experience claims.",
+  "confidence": "high"
+}

@@ -1,0 +1,91 @@
+{
+  "query": "Why have I become so cynical?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 9,
+    "B": 1
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "By placing the seminar link outside the identify-box, Page A lets the self-identification box stand purely as the reader's self-assessment without immediately monetizing their recognition."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B prematurely embeds a paid seminar pitch directly inside the introductory identification box before the reader has even left the opening callout."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page A keeps the punchline of the identify-box ('Run those as a standing policy...') as the concluding takeaway, rather than immediately handing the reader off to an off-site seminar link as in B."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page A separates the callout box content from the outbound seminar link, leaving the core diagnostic exercise self-contained."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The personal history section is identical on both pages, but Page A frames the journey cleanly without having pushed commercial seminar attendance inside the early recognition box."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "Page B dilutes the four self-diagnostic statements by terminating the identify-box with a promotional link to a seminar rather than the reader's internal monologue."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Page B places the seminar link cleanly inside the styled identify-box container rather than leaving a standalone, uncontained link dangling right above the opening narrative hook."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The identify-box in Page A finishes with the psychological consequence ('and the cost is a read on people that no person can change') rather than pivoting to an advertisement."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "Page A preserves the identify-box as a unified rhetorical unit that sets up the problem cleanly before presenting an optional external link."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "The progression from the short answer to the internal self-talk quotes flows without being interrupted from within the box by seminar marketing."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Leaves the seminar link sitting as an unadorned paragraph directly between the callout box and the opening narrative hook."
+    ],
+    "B": [
+      "Contaminates the identify-box by tucking a commercial seminar offer directly under personal self-reflection quotes."
+    ]
+  },
+  "first_screen": "Page A leaves the reader more in charge because the identify-box completes its psychological insight without immediately trying to capture the user inside a seminar container.",
+  "provenance": "Both pages are completely identical in empirical citations and literature provenance; Page A slightly edges out Page B by keeping promotional seminar links distinct from the analytical text.",
+  "confidence": "high"
+}
