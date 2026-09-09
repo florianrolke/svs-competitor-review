@@ -1,0 +1,91 @@
+{
+  "query": "Why have I become so cynical?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 6,
+    "B": 4
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "B extends the author paragraph with 'the reflex to check what somebody wants has quieted a great deal, it has not gone to zero... a finished version of something nobody finishes,' which hands change back to the reader as their own ongoing work rather than a completed state an authority can sell."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In B the link 'How the seminar works with a read on people that stopped updating' sits inside the identify-box, asking the reader to weigh a program in the middle of the self-recognition exercise; A keeps the box to the four sentences and the cost line and places the link outside it."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's identify-box closes on 'the cost is a read on people that no person can change' and only then offers the seminar as a separate line; B embeds the seminar link inside the box, routing the reader toward a destination at the exact moment of recognition."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "Because the offer in A stands outside the box as its own skippable element, the reader can finish recognizing themselves and then decide about the seminar separately; B bundles the offer into the diagnosis, pre-loading the next step."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B continues 'I spent five years...' with 'a read I was quietly proud of... had stopped being a read at all somewhere along the way and become a setting,' converting a bare credential into a first-person instance of the exact pattern under discussion, with an honest current status attached."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A's first-screen identify-box contains only the four quoted sentences in the reader's voice plus the cost line; in B a promotional seminar link sits inside the same box, breaking the 'these are my own words' spell on the first screen."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's opening runs answer-box, identify-box closing on its own punch line, then a standalone link, then 'A friend tells you...'; B interrupts the identify-box itself with the seminar link, so the recognition beat does not complete cleanly before the pitch arrives."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "The recognition engine is the four sentences under 'If one of them is yours, you will know it before you reach the period'; A lets them land unaccompanied, while B appends a program link inside the box, reminding the reader the mirror is part of a funnel."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In A the sentence 'I spent five years and more than five thousand hours... some in the jungles of Peru' dangles as an unexplained credential between the realism argument and the neighbors table; B's continuation ties it to the section's thesis, the author's own read that became a setting, so the thread keeps moving."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "B's expanded author paragraph supplies a concrete first-person case of the central claim — a read that stopped updating and became a setting — exactly where that distinction is argued, making the line from 'why have I become so cynical' to the answer easier to track; A's one-line credential is a bump in that line."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "The author-history sentence ('five years... five thousand hours... fifty thousand dollars... jungles of Vanuatu and Peru') is left as a bare credential with no connection to the argument, reading as authority signaling rather than as material the reader can use."
+    ],
+    "B": [
+      "The seminar link is placed inside the identify-box, so the first-screen recognition moment carries a promotional ask before the page has earned it and the box cannot close on its own punch line."
+    ]
+  },
+  "first_screen": "A. Its identify-box holds only the reader's own four sentences and closes on 'the cost is a read on people that no person can change,' leaving the reader alone with their recognition; B inserts the seminar link inside that box, turning the recognition moment into an early funnel step.",
+  "provenance": "Nearly identical on research — both name Stavrova & Ehlebracht 2018, Cook & Medley 1954, and Andersson & Bateman 1997 with explicit limits — but B edges ahead because it makes the author's personal claim checkable ('quieted a great deal, it has not gone to zero') instead of leaving A's bare years-and-dollars credential with nothing to evaluate.",
+  "confidence": "medium"
+}

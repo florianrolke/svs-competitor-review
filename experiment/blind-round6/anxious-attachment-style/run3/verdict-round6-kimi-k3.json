@@ -1,0 +1,93 @@
+{
+  "query": "What is anxious attachment style?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 5,
+    "B": 5
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's closing addition in 'How Long Does This Take, Honestly?' states that 'the workshop, the ceremony, the retreat itself never predicted who had actually changed a year later. What predicted it was what a person did with what came up, on the ordinary days afterward' — locating the mechanism of change in the reader's own practice rather than in anything they could be sent to. B ends the paragraph at the author's spending, which leaves the credential, not the reader, holding the power."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In B the seminar link sits outside the identify-box, after the recognition passage has completed, so the first ask arrives a beat later and visually separated from the reader's own sentences; A places the same link inside the box itself, and also adds a second outbound link ('a week away only ever does half the job') near the end."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's added sentences explicitly subordinate destinations to practice: no workshop, ceremony, or retreat predicted change, only 'what a person did with what came up, on the ordinary days afterward.' B keeps the author's travel-and-tuition history but omits the sentence that turns it into 'you are the one who does this.'"
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A's added criterion — that follow-through on ordinary days, not the container, predicts change — gives the reader a basis for judging any next step, including the author's own seminar; B's truncated paragraph offers admiration but no decision criterion. Close, because A also adds one more link that nudges."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A converts 'five years... five thousand hours... fifty thousand dollars... Vanuatu... Peru' into a usable finding: across all of it, what predicted change was what people did afterward. B stops at the expenditure, so the history functions only as credentialing with no payoff for the reader."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B's identify-box contains only the five quoted thoughts and the closing line 'it quietly costs you the evening it lands on'; A appends a seminar link inside the box, so the first screen shifts register from the reader's inner voice to the author's offer."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In B the recognition box reads uninterrupted from the bullets to its final line, with the link appearing only after the box closes; A interrupts the box's own landing with the '[How the seminar works...]' link before the box ends."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B lets the five first-person sentences and the 'same forecast running underneath' line land as a pure mirror; A's in-box seminar link at exactly that moment risks breaking the 'that is me' jolt by answering it with a pitch."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "B keeps the promotional link outside the recognition box, so the handoff from the box's closing line to the 'twenty minutes' paragraph is not folded into a sales gesture, and it omits A's second detour (the retreat link after the timeline passage). Close, because the link still sits between the box and the opening scene in both."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A's added sentences complete the 'How Long Does This Take, Honestly?' section by tying the author's anecdote back to the page's thesis — repetition on ordinary days — so the final argument lands on the answer; B's version ends that section on a dangling credential paragraph that goes nowhere."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Places the seminar link inside the first-screen recognition box, interrupting the reader's-own-words moment and asking before the page has earned it",
+      "Adds a second outbound nudge ('a week away only ever does half the job') that B does not have"
+    ],
+    "B": [
+      "Truncates the author's-history paragraph at the expenditure, leaving a dangling credential with no lesson for the reader",
+      "Lacks the sentence stating that ordinary-day follow-through — not any workshop or retreat — predicted change, so the reader's agency and a criterion for deciding are weaker"
+    ]
+  },
+  "first_screen": "B. Its identify-box runs as one uninterrupted block of the reader's own sentences ending on 'it quietly costs you the evening it lands on,' with the seminar link held outside the box; A embeds the link inside the box, which turns the moment of self-recognition into an early ask and slightly takes the first screen out of the reader's hands.",
+  "provenance": "Roughly equal on research apparatus — both carry the identical De Wolff & van IJzendoorn 1997, Brennan 1998, and JPSP 2000 citations — but A edges it, because its added closing sentences make a new claim ('the workshop... never predicted who had actually changed') whose source is explicitly the author's just-described five years of observation, so the claim-to-source mapping stays legible; B leaves the same history sitting unused.",
+  "confidence": "medium"
+}

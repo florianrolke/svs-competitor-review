@@ -1,0 +1,92 @@
+{
+  "query": "What does emotionally unavailable actually mean?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 7,
+    "B": 3
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A extends the author-history paragraph with \"People who look closed are usually people who never got fifty low-stakes repetitions at saying a true thing out loud,\" which hands the mechanism of change to the reader as practice; B ends the same paragraph on the author's spending, leaving the route to change implicit and purchase-flavored."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "In B the seminar link stands as a separate line after the identify-box, a clearly skippable element; in A the same link is the last line inside the box, riding directly on the emotional sentence \"the people closest to you never quite find out who is in there,\" which asks for attention to the offer at the reader's most exposed moment."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's added \"I would rather tell you that than sell a finished version of something nobody finishes\" explicitly refuses the send-them-somewhere posture, and the capacity-not-character framing casts change as the reader's own repetitions; B's truncated paragraph lists seminars and teachers bought, which leans toward transformation acquired elsewhere."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A's disclosure that the author's own pull \"has not dropped to zero\" lowers sales pressure and models the work as ongoing, leaving the reader freer to weigh options; B offers no such pressure-release and its bare credentials paragraph nudges toward the author's path without argument."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A converts the five-thousand-hours paragraph into three reader-facing payoffs: the capacity-not-character lesson, hope for people who \"look closed,\" and an honest unfinished status report; B stops at \"some in the jungles of Peru,\" so the history functions only as a credential."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B's identify-box contains only the reader's inner sentences and their cost, ending on \"never quite find out who is in there\"; A's box ends with a link to the author's seminar inside the same box, so the first screen's recognition material finishes on the author's voice rather than the reader's."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "In A the promo link is absorbed as the final line of the identify-box, so the reader passes directly from the box into \"There is a small move most people searching this phrase already know by heart\"; in B a standalone link line sits as a speed bump exactly at the seam between the box and that opening paragraph."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The quoted inner sentences are identical, but B lets the recognition moment complete uncontaminated before any link appears; A places the seminar link inside the recognition box itself, which can puncture the \"that is me\" spell by revealing the box as a funnel."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A keeps the thread from the identify-box into the framing paragraph unbroken, and its longer author paragraph extends the self-test section rather than digressing; B's free-standing link line between the box and the first paragraph is a small promotional detour in the middle of the opening argument."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The page's thesis is \"availability works as a capacity... it can be built,\" and A's added sentences (\"how much of this is capacity rather than character\") restate that thesis at the midpoint; B's version ends on the author's expenses, a non-sequitur relative to the through-line."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "A places the seminar link inside the identify-box itself, so the first screen's recognition moment (\"the people closest to you never quite find out who is in there\") is immediately followed by the author's offer inside the same styled box, slightly tainting the reader's-own-words effect."
+    ],
+    "B": [
+      "B's author-history paragraph stops at the money and hours spent, reading as bare credentialing with no lesson, no hope, and no honest current-status disclosure for the reader.",
+      "B's standalone seminar link line between the identify-box and the opening paragraph interrupts the straight-through read at the exact seam where the narrative begins."
+    ]
+  },
+  "first_screen": "B's first screen leaves the reader more in charge: the identify-box contains only the reader's own inner sentences and their cost, and the seminar link sits outside the box as a clearly separate, skippable element, whereas A ends the recognition box itself with the author's seminar link, making the most personal moment on the screen double as a pitch.",
+  "provenance": "A, slightly: its added sentences are explicitly framed as first-person self-report (\"Where it sits for me today is worth saying plainly\"), making the boundary between personal testimony and the cited research (Biringen 2014, the 2024 preprint) easy to see; B's truncated version asserts hours and dollars spent with no follow-through framing, which reads as unsupported authority claim rather than marked testimony.",
+  "confidence": "medium"
+}

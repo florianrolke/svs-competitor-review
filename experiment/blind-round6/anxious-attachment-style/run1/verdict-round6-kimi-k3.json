@@ -1,0 +1,91 @@
+{
+  "query": "What is anxious attachment style?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 6,
+    "B": 4
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A's 'How Long Does This Take, Honestly?' completes with 'The workshop, the ceremony, the retreat itself never predicted who had actually changed a year later. What predicted it was what a person did with what came up, on the ordinary days afterward,' explicitly handing the mechanism of change to the reader; B cuts the paragraph off at the credential, leaving only the spending."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A embeds the seminar link inside the identify box, immediately after the recognition sentences and before the page has delivered any substance; B places it outside the box, so the recognition moment carries no ask."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The retained sentence 'What predicted it was what a person did with what came up, on the ordinary days afterward' states flatly that no venue or program does the work; B's truncation drops that and leaves a bare credential that implicitly points toward programs."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "By stating that the workshop never predicted who changed, A removes the implicit pressure that the reader must replicate the author's expensive path; B's dangling 'five years... fifty thousand dollars' sentence leaves expense standing as the implied requirement. Close, because A also carries one more program link."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A converts the five-years and fifty-thousand-dollars history into a usable finding about what actually predicts change; B ends the paragraph at 'the jungles of Peru,' so the history functions only as credentialing."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B's identify box contains only the five quoted sentences and the 'same forecast' closing line; A appends a seminar link inside the same box, importing the author's agenda into the reader's own-words moment."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "In B the link is a short standalone line between the box and the narrative that the eye skips past, while in A it sits inside the box as part of the content the reader is still reading; close, because A's box-to-narrative transition is cleaner."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In B the recognition beat ('it quietly costs you the evening it lands on') closes the identify box uncontaminated; in A the very next element inside the box is a seminar pitch, which breaks the identification at its peak."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B's truncated author paragraph is a loose end — five years and fifty thousand dollars stated with no conclusion — whereas A's full version lands the section's thesis and makes even its retreat link carry the argument ('why a week away only ever does half the job')."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The page's through-line ends in 'change comes from repetitions on ordinary days,' and A's completed author paragraph hands that line directly to the final 'one thing to do today' section; B's cut paragraph weakens the handoff."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Places the seminar link inside the identify box, converting the first-screen recognition moment into a pitch before the page has earned it"
+    ],
+    "B": [
+      "Truncates the author's-history paragraph at the credential, losing the sentence that returns the work to the reader and leaving a dangling expense report that implies change requires five years and fifty thousand dollars"
+    ]
+  },
+  "first_screen": "B — its identify box is purely the reader's own five sentences plus the 'same forecast' closing line with no link inside; A inserts a seminar link into that exact moment, so B's first screen leaves the recognition with the reader instead of converting it into a click.",
+  "provenance": "Effectively tied on external citations — both name De Wolff and van IJzendoorn 1997 (with r = .24), Brennan et al. 1998, and the 2000 JPSP item-response critique in full. A edges it because its completed author paragraph also grounds the seminar claims in observed one-year outcomes rather than in the author's spending.",
+  "confidence": "medium"
+}

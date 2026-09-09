@@ -1,0 +1,93 @@
+{
+  "query": "What is anxious attachment style?",
+  "winner_overall": "B",
+  "citation_score": {
+    "A": 3,
+    "B": 7
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B's added sentence in 'How Long Does This Take, Honestly?' — 'What predicted it was what a person did with what came up, on the ordinary days afterward' — locates the mechanism of change in the reader's own daily practice, where A ends the section on the author's spending with no lesson attached."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A lets the identify-box finish its 'Read these before anything else' instruction cleanly, ending on 'it quietly costs you the evening it lands on'; B embeds the seminar link as the last line inside that first box, so the pitch arrives inside the reader's very first act of recognition."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B states outright that 'the workshop, the ceremony, the retreat itself never predicted who had actually changed a year later' — the work is the reader's, not a destination's — while A's version stops at a credential list (hours, dollars, jungles) that implicitly centers the author's path."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B undercuts its own funnel by adding 'That is also why a week away only ever does half the job,' which tells the reader the seminar is not the active ingredient and hands the decision back; A's dangling credential pushes toward the seminar without that counterweight."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B converts the identical five-years/fifty-thousand-dollars autobiography into an observed pattern the reader can use — settings never predicted change, ordinary-day follow-through did — whereas A leaves the same sentences as unconverted credentialing."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's identify-box closes on the reader's own forecast ('Every one of them is the same forecast running underneath') with the promo kept outside the box; B appends 'How the seminar works with the reaching...' inside the box, so the site's sales voice intrudes on what was framed as the reader's own head."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B runs straight from the identify-box into 'There is a particular twenty minutes that most people searching this phrase already know by heart'; A parks a standalone seminar link as its own block between the box and that paragraph, forcing a stop on the path."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The quoted sentences are identical, but A lets the recognition peak land unpitched and then opens the read-receipt scene; B caps the very box delivering the 'that is me' jolt with a seminar link, which risks the reader smelling a funnel at the exact moment of recognition."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A has two thread-breaks: the free-floating promo link between box and narrative, and an ending to 'How Long Does This Take' that stops on an unresolved Vanuatu/Peru credential; B removes the first and ties the second back to the section's thesis about repetition on ordinary days."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The spine is identical, but B's top is one interruption cleaner and its author note connects the timeline section forward to the practice arc and the closing silence log instead of dangling as autobiography."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Ends 'How Long Does This Take, Honestly?' on a bare credential — five thousand hours, fifty thousand dollars, jungles of Vanuatu and Peru — that is never converted into anything the reader can act on",
+      "Leaves the seminar link as a standalone block between the identify-box and the 'particular twenty minutes' opening, interrupting the handoff from recognition into the argument"
+    ],
+    "B": [
+      "Puts the seminar pitch inside the identify-box itself, so the first-screen recognition moment ('Read these before anything else... already running in your own head') is capped by a sales link",
+      "Adds a second outbound funnel link (the personal-development-retreat page) inside the author-history paragraph, slightly raising the page's sales density around its most personal passage"
+    ]
+  },
+  "first_screen": "A. Its identify-box closes on the reader's own forecast and nothing else, while the seminar link sits outside the box as a visibly separate element; B ends that same box with a pitch, so the space framed as the reader's own words ends in the site's voice.",
+  "provenance": "B, marginally. All research citations (De Wolff & van IJzendoorn 1997, Brennan et al. 1998, the 2000 JPSP item-response paper) are identical, but B attaches the author's-history claim to a stated observation about what predicted change and links the claim to a source page, while A leaves it as an unverifiable expense statement.",
+  "confidence": "medium"
+}

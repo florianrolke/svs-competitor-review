@@ -1,0 +1,93 @@
+{
+  "query": "Why have I become so cynical?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 5,
+    "B": 5
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's extended first-person paragraph ends with 'the reflex to check what somebody wants has quieted a great deal, it has not gone to zero, and I would rather tell you that than describe a finished version of something nobody finishes' — modeling change as ongoing self-directed work the reader also owns, rather than a finished product."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A embeds the seminar link inside the identify box itself, attaching a commercial ask to the exact moment of self-recognition; B holds the same link outside the box as a clearly separate line, so the reflective exercise completes before anything is asked."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's confession that his own read 'had stopped being a read at all somewhere along the way and become a setting' casts the author as a fellow worker mid-process; B's truncated paragraph is only a credential (hours, dollars, Vanuatu, Peru) that positions the author as the one who has arrived."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "B's standalone seminar link after the box leaves the recognition moment unsteered, while A's in-box placement makes the seminar the implied next step the instant a sentence lands as the reader's own."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A converts the credential list into a working case study: 'a read I was quietly proud of... had stopped being a read at all... and become a setting,' plus an honest current status ('it has not gone to zero'); B stops at the money-and-jungles sentence with no payoff for the reader."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In B the identify box closes on 'Run those as a standing policy and the cost is a read on people that no person can change' — the reader's inner voice uninterrupted; A appends a promotional link inside that same box, breaking the spell."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "B's box content ends cleanly and the link follows as a separate, skippable element; in A the link is part of the box's content flow, so a straight-through reader must process a pitch mid-experience."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "The 'that is me' jolt lands on the box's closing line; A immediately follows that jolt inside the same box with 'How the seminar works with a read on people that stopped updating,' reframing recognition as a lead-in to an offer."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In B the Vanuatu/Peru credential paragraph dangles as an unconnected boast at the end of the realism section; A's continuation ties it directly to the section's thesis (his own read 'stopped being a read... become a setting'), so the paragraph advances the argument instead of detouring from it."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's extended paragraph echoes the page's central read-versus-setting distinction in the author's own case, reinforcing the mechanism that answers 'become'; B's truncated version inserts an unconnected credential that adds no link between question and answer."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "The seminar link sits inside the identify box, so the first screen's moment of self-recognition is immediately attached to a commercial offer",
+      "The author-history paragraph is longer, slightly slowing the close of the realism section before the neighbors table"
+    ],
+    "B": [
+      "The author-history paragraph ends at a bare credential list ('five thousand hours... fifty thousand dollars... Vanuatu... Peru') with no payoff connecting it to the reader's problem, reading as dangling self-promotion",
+      "Nothing in B applies the author's history to the page's central read/setting thesis, so the only first-person passage adds authority without adding insight"
+    ]
+  },
+  "first_screen": "B. The identify box completes its work in the reader's own voice, ending on 'Run those as a standing policy and the cost is a read on people that no person can change,' and the seminar link arrives afterward as a clearly separate, skippable line. A folds that link into the box itself, so the instant a sentence lands as the reader's own, the page is steering them toward an offer.",
+  "provenance": "Essentially equal — both pages name Stavrova and Ehlebracht 2018, Cook and Medley 1954, and Andersson and Bateman 1997 with identical caveats about correlation, scenarios, and self-report. A edges ahead because its first-person paragraph is a complete account (what was done, what was conceded, where it stands now), whereas B leaves the same claims as truncated credentials.",
+  "confidence": "medium"
+}

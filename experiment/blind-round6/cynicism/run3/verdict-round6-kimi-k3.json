@@ -1,0 +1,93 @@
+{
+  "query": "Why have I become so cynical?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 5,
+    "B": 5
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's extended author paragraph ends with 'it has not gone to zero, and I would rather tell you that than describe a finished version of something nobody finishes,' which frames change as the reader's own continuing work rather than an endpoint someone else delivers. B's identical page elsewhere can't compensate for losing that sentence."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B closes the identify-box on 'the cost is a read on people that no person can change' and puts the Soulsearching link outside the box as a standalone line; A embeds that same seminar link inside the box, asking for a click in the middle of the self-recognition exercise, seconds into the page."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's confession that 'a read I was quietly proud of... had stopped being a read at all somewhere along the way and become a setting' shows the author performing the same inspection he asks of the reader. B truncates the paragraph to credentials ending 'before I built anything around it,' which positions the author as the one who already did the work elsewhere."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A's 'describe a finished version of something nobody finishes' removes any implied promise of a completed cure, so the reader weighs the log, the eight practices, and the seminar without a packaged outcome hanging over the choice. B's link placement is marginally gentler, but the missing sentence is the larger factor."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A converts the five-years/fifty-thousand-dollars/Vanuatu credential into pattern-specific testimony: the author had this exact setting and honestly reports its present, unfinished state. B ends the paragraph at 'jungles of Peru,' leaving the history as unused credentialing with no relevance to cynicism."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "In B the identify-box belongs entirely to the reader's four sentences and their punchline; in A the seminar link '[How the seminar works with a read on people that stopped updating]' sits inside the same box, so the reader's own words share the frame with marketing copy."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B's identify-box reads uninterrupted from 'Everyone has an angle' through the closing sentence, with the link appearing only after the box ends. A inserts a hyperlink between the punchline and the box boundary, breaking the read-through at the moment of recognition."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "The 'that is me' engine is the identify-box's 'If one of them is yours, you will know it before you reach the period.' In B the recognition lands and the box closes; in A the recognition is immediately followed inside the box by a seminar pitch, which risks flipping being-seen into being-sold-to."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "B's truncated sentence 'I spent five years and more than five thousand hours... before I built anything around it' dangles at the end of the realism section as a credential attached to nothing. A's continuation lands the anecdote on the section's exact thesis — a read becoming a setting — so the paragraph earns its place and the thread holds."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "low",
+      "why": "B keeps the opening sequence — title, short answer, identify-box, opening scene — free of the in-box hyperlink A inserts, so the first leg of the path from 'Why have I become so cynical?' into the page's answer runs clean. Chosen narrowly, since B's dangling credential sentence is a smaller bump later in the line."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Places the Soulsearching seminar link inside the identify-box, so the page's strongest recognition moment shares its frame with a promotion before any trust is earned",
+      "The embedded link interrupts the read-through of the four quoted sentences and risks converting 'that is me' into 'this is a funnel' within the first thirty seconds"
+    ],
+    "B": [
+      "Truncates the author-history paragraph to bare credentials ('five years... fifty thousand dollars... jungles of Peru'), leaving a dangling authority claim with no connection to cynicism",
+      "Loses the author's confession that his own read 'became a setting' and 'has not gone to zero,' which was the page's only first-person proof that the work is doable, unfinished, and done by the person themselves"
+    ]
+  },
+  "first_screen": "B's first screen leaves the reader more in charge: the identify-box closes on 'the cost is a read on people that no person can change' with the recognition fully owned by the reader, and the seminar link appears only afterward, outside the box. A places the link inside the box, inserting an ask into the exact moment the reader is recognizing themselves.",
+  "provenance": "Effectively tied on research claims — both pages name Stavrova and Ehlebracht 2018, Cook and Medley 1954, and Andersson and Bateman 1997 with their limits stated. A has a slight edge on experience claims, because its extended author note lets the reader source the first-person statements to the author's own history with this specific pattern, whereas B's credential line sources nothing.",
+  "confidence": "medium"
+}

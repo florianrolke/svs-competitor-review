@@ -1,0 +1,91 @@
+{
+  "query": "What does emotionally unavailable actually mean?",
+  "winner_overall": "A",
+  "citation_score": {
+    "A": 6,
+    "B": 4
+  },
+  "per_question": [
+    {
+      "q": "Which page leaves the reader more in charge of changing this?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A keeps the full author paragraph: \"how much of this is capacity rather than character\" plus \"fifty low-stakes repetitions at saying a true thing out loud\" frames change as the reader's own trainable reps, and \"I would rather tell you that than sell a finished version of something nobody finishes\" hands the process back to the reader. B cuts all three sentences."
+    },
+    {
+      "q": "Which page asks less of the reader before it has earned it?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In B the identify box closes after \"the people closest to you never quite find out who is in there\" with no ask inside it; the seminar link sits outside the box as a separate, skippable line. In A the pitch \"How the seminar works with the distance that arrives right after a close night\" is embedded inside the box, so the reader is asked for something at the exact recognition moment, on the first screen."
+    },
+    {
+      "q": "Which page treats the reader as the person who does the work, rather than as someone who has to be sent somewhere?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "A's added sentences do exactly this work: \"People who look closed are usually people who never got fifty low-stakes repetitions\" casts the reader as the one doing the reps, and the refusal to \"sell a finished version of something nobody finishes\" explicitly declines to ship the reader off to a product, which also inoculates the page's own links."
+    },
+    {
+      "q": "Which page gives the reader more room to decide for themselves what to do next?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A's admission that the pull \"has not dropped to zero\" and that the work is never finished leaves pace and endpoint to the reader instead of pointing at a packaged outcome; B's truncated credential sentence offers no such frame. Low confidence because B's outside-the-box link is also easier to walk past."
+    },
+    {
+      "q": "Which page puts the author's own history to better use for the reader?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "high",
+      "why": "A converts the five-years / fifty-thousand-dollars bio into reader-usable information: the lesson (capacity, not character), the mechanism (fifty low-stakes repetitions where nothing bad happens), and a present-tense status report. B keeps only the credential sentence ending in \"the jungles of Peru,\" which serves the author's authority more than the reader."
+    },
+    {
+      "q": "Which page makes the first screen feel more like the reader's own words?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "high",
+      "why": "B's first-screen identify box contains only the five quoted inner sentences and the cost line; A appends an author-voiced seminar link (\"How the seminar works with the distance that arrives right after a close night\") inside the same container, so the box stops being purely the reader's own words."
+    },
+    {
+      "q": "Which page's opening is easier to read straight through without being interrupted?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "In B the opening runs title, short answer, clean identify box, then the essay's first paragraph, with the link as one standalone beat in between; in A the reader hits the seminar pitch before the identify box has even closed, mid-recognition."
+    },
+    {
+      "q": "Which page makes a reader likelier to think \"that is me\" in the first thirty seconds?",
+      "cite": "B",
+      "clinical": false,
+      "confidence": "medium",
+      "why": "The recognition jolt is the line \"the cost is a life where the people closest to you never quite find out who is in there.\" In B that line ends the box and lands; in A a seminar pitch follows it inside the same container, which flips the reader from recognition to guardedness within the first screen."
+    },
+    {
+      "q": "Which page keeps its argument moving without a detour that breaks the thread?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "A's author paragraph completes its arc — credentials, then the lesson about capacity, then present-day honesty — so the first-person passage returns to the thesis; B's two-sentence stub (years, hours, dollars, jungles) introduces the author's biography and goes nowhere, an unmotivated detour. Low confidence because A's in-box seminar link is its own small break at the top."
+    },
+    {
+      "q": "Which page makes it easier to follow the line from the question at the top to the answer?",
+      "cite": "A",
+      "clinical": false,
+      "confidence": "low",
+      "why": "The page's stated thesis is that this is \"a skill question far more often than a character question\"; A restates exactly that at the pivot (\"The thing I underestimated longest was how much of this is capacity rather than character\"), tying the am-I-the-one section back to the question at the top. B severs that tie, leaving the line thinner at the midpoint."
+    }
+  ],
+  "key_gaps": {
+    "A": [
+      "Embeds the seminar pitch inside the identify box on the first screen, so the page's strongest recognition beat (\"the people closest to you never quite find out who is in there\") is immediately followed by an ask inside the same container, risking a flip from \"that is me\" to \"this page wants something from me\" before trust is built."
+    ],
+    "B": [
+      "Truncates the author's-history paragraph to bare credentials (five years, five thousand hours, fifty thousand dollars, Vanuatu and Peru) with no lesson, no present-day honesty, and no tie back to the capacity thesis, so the paragraph dangles and the self-test section loses its payoff right where the reader is asking whether they are the unavailable one."
+    ]
+  },
+  "first_screen": "B leaves the reader more in charge on the first screen: the identify box runs from \"Most people find at least one of these already sitting in their own head\" through the five quoted sentences to the cost line with nothing author-voiced inside it, and the seminar link sits outside the box as a separate, skippable element. In A the pitch is embedded in the box itself, so the reader's moment of self-recognition is immediately met with an ask.",
+  "provenance": "A. The research sourcing (Biringen's EA Scales, Developmental Review 2014, the 2024 preprint flagged as a limit on the limit) is identical in both, but A's full author paragraph explicitly grounds the central \"capacity rather than character\" claim in the author's stated five years and five thousand hours of practice and adds a present-tense self-report (\"has not dropped to zero\"), so the reader can see where that claim comes from; B cuts the connection and leaves the credentials attached to no claim.",
+  "confidence": "medium"
+}
