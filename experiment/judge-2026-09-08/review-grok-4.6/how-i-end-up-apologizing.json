@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "how-i-end-up-apologizing",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 3,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "Identify quotes losing the subject, apologizing for tone, writing it down first.",
+    "mechanism": "One subject is replaced; the steadier speaker keeps the floor.",
+    "honesty": "DARVO measures are recent, short, same-lab, scenario-based.",
+    "ownership": "Identify box links the seminar on the first screen.",
+    "clarity": "Handover-to-apology scene is clear; DARVO history then slows it.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "How Strong Is the Research Behind DARVO, and Is There a Validated Measure?",
+      "issue": "The section both introduces the term and litigates its evidence, so the driveway scene is left far above."
+    },
+    {
+      "h2": "Which of the Five Is Yours, and How Would You Know?",
+      "issue": "After five roots, this section says the page cannot sort them, which undercuts the roots table."
+    },
+    {
+      "h2": "Can the Same Reversal Happen in a Meeting With My Boss?",
+      "issue": "The work version restates the home sequence with paperwork, without a new mechanism."
+    }
+  ]
+}

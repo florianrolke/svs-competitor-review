@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "thinking-about-my-partners-past",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 3,
+    "clarity": 5,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "Identify quotes asking again, searching the name, knowing it is unreasonable.",
+    "mechanism": "The question wants a past that came out differently.",
+    "honesty": "The term has no measure, stages, duration, or trialled method.",
+    "ownership": "Identify box links the seminar on the first screen.",
+    "clarity": "Passenger-seat known number is easy to follow on a phone.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What Is the Name for This, and How Much Weight Can the Name Carry?",
+      "issue": "The no-measure table is then largely restated in What Does the Research Actually Have, If the Label Has Nothing?"
+    },
+    {
+      "h2": "Why Does an Honest Answer Buy So Little?",
+      "issue": "The gastroscopy reassurance study is a distant analogy occupying the slot where the partner loop sits."
+    },
+    {
+      "h2": "What If This Is Ordinary Curiosity in a New Relationship?",
+      "issue": "The ordinary-curiosity root repeats the earlier warning not to self-diagnose from a page."
+    }
+  ]
+}

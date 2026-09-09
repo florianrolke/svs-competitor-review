@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "warmest-to-the-people-i-like-least",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 3,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "Identify quotes the longest leaving-card message, defending then complaining.",
+    "mechanism": "Warmth is the safe register; rooms read withheld warmth as hostile.",
+    "honesty": "Reaction formation is called unfalsifiable theory, not a finding.",
+    "ownership": "Identify box links the seminar on the first screen.",
+    "clarity": "Leaving-card scene is clear; the term demolition then slows it.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What Do Researchers Call This, and How Much of the Name Is Real?",
+      "issue": "The reaction-formation takedown is longer than the four mechanisms that actually explain the week."
+    },
+    {
+      "h2": "What Does This Actually Look Like Across an Ordinary Week?",
+      "issue": "Monday-to-Friday scenes are five restatements of oversized warmth, not five distinct tells."
+    },
+    {
+      "h2": "What If You Recognize Something in Them?",
+      "issue": "The section says this is the wrong page and points elsewhere, after the reader has already read it."
+    }
+  ]
+}

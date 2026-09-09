@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "avoidant-attachment",
+  "scores": {
+    "recognition": 4,
+    "mechanism": 5,
+    "honesty": 4,
+    "ownership": 3,
+    "clarity": 4,
+    "gap_vs_serp": 2
+  },
+  "evidence": {
+    "recognition": "Identify lines are generic independence, not the post-closeness withdrawal.",
+    "mechanism": "Deactivation turns the signal down, not the need off.",
+    "honesty": "Ainsworth is limited to minutes in one procedure.",
+    "ownership": "Identify box still routes the reader to the seminar.",
+    "clarity": "Short answer is clear; the I-love-you scene is slower.",
+    "gap_vs_serp": "treatment (WebMD Causes & Treatment; PDS course)"
+  },
+  "findings": [
+    {
+      "h2": "What Does Avoidant Attachment Sound Like From the Inside?",
+      "issue": "Ten inner sentences largely duplicate the five already shown in the identify box."
+    },
+    {
+      "h2": "What Is the Difference Between Dismissive and Fearful Avoidance?",
+      "issue": "The disorganized-attachment history is a long terminology detour after the question has been answered."
+    },
+    {
+      "h2": "Why Do Avoidant and Anxious Partners Find Each Other So Reliably?",
+      "issue": "The loop is narrated, then retold as a couple anecdote with the same timing claim."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "falling-for-the-idea-of-a-person",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 3,
+    "clarity": 5,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "Identify quotes a whole life built, then they were only a person.",
+    "mechanism": "Gaps fill with your material; thin information strengthens the picture.",
+    "honesty": "Hopeless romantic has no measure, test, or literature.",
+    "ownership": "Identify box links the seminar on the first screen.",
+    "clarity": "Three conversations versus the envelope of facts is easy.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What Do People Mean by Hopeless Romantic, and How Much Is Behind the Phrase?",
+      "issue": "Idealization and assumed similarity are introduced here, then the Kenny finding is repeated in the next mechanism section."
+    },
+    {
+      "h2": "What Do You Actually Know, and What Did You Supply?",
+      "issue": "The two-column table restages the Lisbon/sailing facts already listed in the opening."
+    },
+    {
+      "h2": "What If This Is Ordinary Early Attraction Doing Exactly What It Does?",
+      "issue": "The ordinary-attraction root repeats the earlier reassurance that nothing is wrong with you."
+    }
+  ]
+}

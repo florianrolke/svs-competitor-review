@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "breadcrumbing",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 3,
+    "clarity": 5,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "Identify quotes not wanting them, messaging as they give up.",
+    "mechanism": "Their drift is the trigger; interest supplies a job about you.",
+    "honesty": "Breadcrumbing is not a diagnosis; 2020 survey is self-report.",
+    "ownership": "Identify box offers the seminar as how the job is found.",
+    "clarity": "11:40 message after eleven days is immediately readable.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What Does Breadcrumbing Actually Look Like From the Inside?",
+      "issue": "Seven inner lines largely repeat the five identify-box sentences."
+    },
+    {
+      "h2": "How Can I Tell if Someone Is Breadcrumbing Me Rather Than Genuinely Undecided?",
+      "issue": "This receiver section breaks the page's stated address to the sender."
+    },
+    {
+      "h2": "Why Does Forcing Yourself to Just Stop Move the Problem Somewhere Else?",
+      "issue": "The water-balloon displacement is reused at length from other pattern pages."
+    }
+  ]
+}

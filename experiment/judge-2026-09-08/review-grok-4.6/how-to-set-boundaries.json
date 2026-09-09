@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "how-to-set-boundaries",
+  "scores": {
+    "recognition": 4,
+    "mechanism": 5,
+    "honesty": 4,
+    "ownership": 3,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "Identify mixes can't-say-no with I must maintain strict boundaries.",
+    "mechanism": "The skill is staying through the ninety seconds after the sentence.",
+    "honesty": "Assertiveness evidence is mostly 1970s role-plays, rarely followed up.",
+    "ownership": "Identify box links the seminar on the first screen.",
+    "clarity": "Phone-checking after Sunday no is clear; script critique then lengthens.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What Does This Sound Like From the Inside?",
+      "issue": "The inner lines are about being seen as controlling, which mismatches the can't-say-no reader in the title."
+    },
+    {
+      "h2": "What Is Assertiveness, and Why Has Training It Never Quite Worked?",
+      "issue": "Term history and 1970s role-play limits are then repeated in Where Did Assertiveness Training Come From."
+    },
+    {
+      "h2": "What Do You Actually Say, Word for Word?",
+      "issue": "Five scripts sit on a page whose prior H2 said scripts are the part that was never missing."
+    }
+  ]
+}

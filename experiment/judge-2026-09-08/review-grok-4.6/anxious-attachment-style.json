@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "anxious-attachment-style",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 4,
+    "ownership": 2,
+    "clarity": 4,
+    "gap_vs_serp": 3
+  },
+  "evidence": {
+    "recognition": "Identify quotes unread texts, overthinking, caring more, preparing for collapse.",
+    "mechanism": "Unpredictable warmth trained forecasting; reaching now produces distance.",
+    "honesty": "De Wolff r=.24 is modest; ECR limits are named.",
+    "ownership": "Closing pitches the Sacred Valley seminar with screening and price.",
+    "clarity": "Twenty unread minutes is clear; later tables densify the first screen.",
+    "gap_vs_serp": "healing / do-you-have-it test"
+  },
+  "findings": [
+    {
+      "h2": "What Does Anxious Attachment Sound Like From the Inside?",
+      "issue": "Six inner lines duplicate the five identify-box forecasts already on the first screen."
+    },
+    {
+      "h2": "How Long Does This Take, Honestly?",
+      "issue": "The Vanuatu/Peru spend paragraph then hands off to a Sacred Valley sales close."
+    },
+    {
+      "h2": "What Is One Thing to Do Today, Before You Change Anything Bigger?",
+      "issue": "After a seven-day log, the section pitches a seminar whose dates, price, and cap are still unfinalized."
+    }
+  ]
+}

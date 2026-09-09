@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "the-lesser-person-in-the-room",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 3,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "Identify quotes being placed at the door, swallowing the question.",
+    "mechanism": "Local dominance: the room outweighs the record.",
+    "honesty": "Inferiority complex has never had a measure or diagnosis.",
+    "ownership": "Identify box pitches the seminar before any recording task.",
+    "clarity": "Sign-in scene is clear; Adler history then slows the phone read.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What Is the Name for This, and How Much of It Holds Up?",
+      "issue": "Adler history occupies the screen before local dominance, which is the actual mechanism."
+    },
+    {
+      "h2": "Why Does the Placing Finish Before Any Evidence Arrives?",
+      "issue": "Mussweiler 2003 is restated after already being the spine of the name section."
+    },
+    {
+      "h2": "Why Do I Stay Quiet With My Boss Even When I Have the Answer, and Then Feel Even Less Credible?",
+      "issue": "The title promises a boss scene; the section is a general pricing-of-sentences account."
+    }
+  ]
+}

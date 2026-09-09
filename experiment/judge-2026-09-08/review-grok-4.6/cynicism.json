@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "cynicism",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 2,
+    "clarity": 4,
+    "gap_vs_serp": 2
+  },
+  "evidence": {
+    "recognition": "Identify quotes everyone has an angle, and I am realistic.",
+    "mechanism": "A conclusion reached in advance then filters all later news.",
+    "honesty": "Origins are reported histories, not measured causes.",
+    "ownership": "Vanuatu/Peru seminar spend is used as the author's credential.",
+    "clarity": "Give-it-six-months opening is clear; later neighbor-table is dense.",
+    "gap_vs_serp": "ancient Cynic philosophy / how to change a cynic's mind"
+  },
+  "findings": [
+    {
+      "h2": "Is It Cynicism, or Is It Just Realism?",
+      "issue": "The Vanuatu/Peru spend paragraph interrupts the realism test with a guru credential."
+    },
+    {
+      "h2": "Is This Cynicism, or One of Its Neighbors?",
+      "issue": "Six-row neighbor table mostly defers to other pages instead of settling this one."
+    },
+    {
+      "h2": "Why Do I Distrust My Workplace's Mission and My Boss's Motives?",
+      "issue": "Organizational-cynicism scenarios do not answer the philosophy definitions ranking for this query."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "model": "grok-4.6",
+  "slug": "the-one-my-family-blames",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 3,
+    "clarity": 4,
+    "gap_vs_serp": 2
+  },
+  "evidence": {
+    "recognition": "Identify quotes knowing the story, apologizing so the night continues.",
+    "mechanism": "Groups concentrate trouble because one explanation is cheaper.",
+    "honesty": "Family-role literature is clinical description with no instrument.",
+    "ownership": "Identify box links the seminar; no-contact is deferred off-page.",
+    "clarity": "Car-outside-the-house is clear; Leviticus history then delays the visit.",
+    "gap_vs_serp": "how to stop being a scapegoat"
+  },
+  "findings": [
+    {
+      "h2": "What Is the Name for This, and Where Does the Name Stop?",
+      "issue": "Leviticus-to-Vogel history is long before the visit mechanics the reader came for."
+    },
+    {
+      "h2": "Is There a Validated Checklist or Measure for Family Scapegoating?",
+      "issue": "Unvalidated checklists were already dismissed in How Good Is the Evidence Behind Any of This?"
+    },
+    {
+      "h2": "What If the Role Came With a Function?",
+      "issue": "It names the only movable part (supplying the role early) but does not show a bounded in-visit experiment beyond counting."
+    }
+  ]
+}
