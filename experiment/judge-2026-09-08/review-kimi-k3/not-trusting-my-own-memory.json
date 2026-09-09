@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "not-trusting-my-own-memory",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box mirrors the reader's exact private behavior: \"I scroll back through a thread I already know the contents of.\"",
+    "mechanism": "The cause is separated from the symptom: \"memory is rebuilt at the moment you reach for it,\" then five distinct roots.",
+    "honesty": "It states the limits plainly: \"On the term itself, the evidence is thin,\" and bounds every study it cites.",
+    "ownership": "The prescription is self-executed (\"Write what you remember, in the present tense\"), though a seminar is promoted at the close.",
+    "clarity": "The answer box is short and plain (\"Sometimes the other person really is rewriting things\"), readable on a phone.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What Is Worth Doing This Week, Before You Say Anything to Anybody?",
+      "issue": "The closing section contains a long seminar advertisement (founder quote, screening pitch, 'Everybody is screened before arriving') that undercuts the page's self-help close and promises accountability the page otherwise avoids."
+    },
+    {
+      "h2": "When Does This Belong With Somebody Qualified Rather Than a Page Like This?",
+      "issue": "The safety disclaimer ('afraid of them... not free to leave... money, your movements') is repeated nearly verbatim at least four times across the page, which reads as padding rather than emphasis."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box, the page's recognition element, embeds a marketing link ('How the seminar works on the thing underneath a pattern like this') inside the reader's self-recognition moment."
+    }
+  ]
+}

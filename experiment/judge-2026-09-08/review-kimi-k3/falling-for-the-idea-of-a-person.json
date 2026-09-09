@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "falling-for-the-idea-of-a-person",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's own admission: \"I was not disappointed in them. I was disappointed that they were only a person.\"",
+    "mechanism": "The mechanism is named and bounded: \"a person you barely know is mostly gaps, and gaps get filled with your own material.\"",
+    "honesty": "It grades its own phrase: \"no measure, no test, no agreed definition, and no research literature,\" and flags correlational limits throughout.",
+    "ownership": "The work is a solo two-column exercise (\"write only what they said or did\"), though a seminar is pitched after it.",
+    "clarity": "The answer box is plain (\"What forms in that room is vivid, specific and largely self-portrait\"), but the opening narrative runs long.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "(narrative opening, above first H2)",
+      "issue": "The 'three conversations' narrative runs roughly twelve paragraphs before the first H2, delaying any substantive content."
+    },
+    {
+      "h2": "What Is Worth Doing This Week, Before You Change Anything?",
+      "issue": "A seminar advertisement with a founder quote ('In Florian's words...') is appended to the closing exercise, undercutting the 'costs fifteen minutes' self-help frame."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

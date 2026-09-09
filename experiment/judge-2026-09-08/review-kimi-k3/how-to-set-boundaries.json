@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "how-to-set-boundaries",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's own softening: \"It's better to stay quiet than to stir up trouble.\"",
+    "mechanism": "The failure point is located precisely: \"The sentence is the easy half. The work is the ninety seconds afterward.\"",
+    "honesty": "It bounds its own research: \"those were written scenarios and stated intentions rather than real firms and real behavior.\"",
+    "ownership": "The work is a solo ten-minute exercise (\"cross out every word after the first period\"), though a seminar is pitched after.",
+    "clarity": "The answer box is plain (\"Tolerating that is the actual skill\"), scannable on a phone.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "How Can I Tell My Boss I Cannot Take On More Work Without Hurting My Career?",
+      "issue": "The 'I am naming the paper rather than its authors, since one of them already appears on this site' attribution device is a self-referential quirk that interrupts the argument."
+    },
+    {
+      "h2": "What Is One Thing to Do Today, Before You Say Anything to Anyone?",
+      "issue": "A seminar advertisement ('our Sacred Valley seminar is built around exactly this kind of material') is appended to the closing exercise, blurring the self-help prescription."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

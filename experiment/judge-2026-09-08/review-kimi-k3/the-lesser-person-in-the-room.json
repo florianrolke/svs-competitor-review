@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "the-lesser-person-in-the-room",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's exact arithmetic: \"I can tell you my position in almost any room within about nineteen seconds.\"",
+    "mechanism": "The placing is explained as process, not character: \"a reading your mind takes on its own, and you receive only the result.\"",
+    "honesty": "It names its own weakest point: \"The term itself is the weakest part of the whole page... no measure, no validated definition.\"",
+    "ownership": "The work is a solo three-column record (\"The room. The position you arrived at. One piece of evidence\"), though a seminar is pitched after.",
+    "clarity": "The answer box is plain (\"The reading was never yours. The half minute afterward is\"), scannable on a phone.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "Where Does This Thinking Come From?",
+      "issue": "A full paragraph defending the 'named by title rather than by an author' device ('in each case the surname is shared by researchers with nothing to do with each other') is a convoluted, self-conscious justification that reads as an authorial tic rather than reader value."
+    },
+    {
+      "h2": "What Is Worth Doing This Week, Before You Decide Anything About Yourself?",
+      "issue": "A seminar advertisement with a founder quote ('As Florian puts it...') is appended to the closing exercise, undercutting the 'costs you nothing' frame."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

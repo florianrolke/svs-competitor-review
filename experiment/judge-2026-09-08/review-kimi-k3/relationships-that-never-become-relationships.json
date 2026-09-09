@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "relationships-that-never-become-relationships",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 3
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's exact ledger: \"I know their coffee order and I do not know their sister's name.\"",
+    "mechanism": "The cause is separated from the arrangement: \"an undefined thing cannot turn you down. There is nothing to be rejected from.\"",
+    "honesty": "It voids its own topic's evidence base: \"Nobody has measured either one, and the confident figures in circulation were not produced by anybody trying to.\"",
+    "ownership": "The work is private writing (\"Two pieces of writing, both private, both cheap\"), though a seminar is pitched after it.",
+    "clarity": "The answer box is plain (\"Naming it changes nothing on its own\"), but the opening narrative runs seven paragraphs.",
+    "gap_vs_serp": "The titles promise an exit or coping prescription ('When to Walk', 'How to Break Free', 'How to Cope'); the page analyzes both ultimatum and waiting as failures and then explicitly refuses to prescribe any decision."
+  },
+  "findings": [
+    {
+      "h2": "Why Does the Ultimatum Fail, and Why Does Waiting Fail Too?",
+      "issue": "The section promises a third way ('what keeps this page from ending in either piece of standard advice') but delivers only the two failures — the reader is left with no action at all, which is exactly the SERP gap."
+    },
+    {
+      "h2": "What Is Worth Doing This Week, Before You Change Anything?",
+      "issue": "A seminar advertisement ('Our Sacred Valley seminar works at that layer') is appended to the closing exercises, blurring the 'costs you nothing' self-help frame."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

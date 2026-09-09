@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "the-one-my-family-blames",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 4
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's own rehearsal: \"I know exactly which story is going to come out, and roughly when.\"",
+    "mechanism": "The arrangement is explained, not just described: \"one explanation is far cheaper to maintain than a shared one.\"",
+    "honesty": "It splits its own evidence: \"On family roles, the evidence is thin... The checklists have nothing behind them whatsoever.\"",
+    "ownership": "The work is a private three-visit count (\"catch the first moment you do something the role requires\"), though a seminar is pitched after.",
+    "clarity": "The answer box is plain (\"The assignment was not yours. What is yours is the one thing you still do\"), scannable on a phone.",
+    "gap_vs_serp": "Several titles promise the general phenomenon of scapegoating beyond families ('Why We Blame Others', sports/history entries); the page treats only the family role and leaves the broader social phenomenon aside."
+  },
+  "findings": [
+    {
+      "h2": "What Is the Difference Between a Role and a Trait?",
+      "issue": "The aside 'I am describing it rather than naming the researchers, because a described finding is worth more here than a name' is a self-referential attribution quirk that interrupts the argument."
+    },
+    {
+      "h2": "What Is Worth Doing Before the Next Occasion?",
+      "issue": "A seminar advertisement with a founder quote ('In Florian's words...') is appended to the closing exercise, undercutting the 'costs you nothing' frame."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

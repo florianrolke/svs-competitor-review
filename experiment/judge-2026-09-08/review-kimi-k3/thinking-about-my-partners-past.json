@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "thinking-about-my-partners-past",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's own loop: \"I asked something on Sunday that I had already asked in March.\"",
+    "mechanism": "The asking is explained, not described: \"you are not asking to find something out... the reply lands, holds for a day.\"",
+    "honesty": "It voids its own label: \"It has no accepted measure... Every confident number circulating under this name was produced by somebody with no access to a study.\"",
+    "ownership": "The work is a solo seven-day filing exercise (\"Do not ask any of them... File them\"), though a seminar is pitched after.",
+    "clarity": "The answer box is plain (\"no honest person has one of those available\"), scannable on a phone.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "How Long Does This Take, Honestly?",
+      "issue": "The autobiographical aside ('five years... fifty thousand dollars... jungles of Vanuatu... jungles of Peru') sits inside a section about timelines and reads as author self-promotion."
+    },
+    {
+      "h2": "What Is Worth Doing This Week, Before You Ask Anything Else?",
+      "issue": "A seminar advertisement ('our Sacred Valley seminar works at that layer') is appended to the closing exercise, blurring the 'costs you nothing' frame."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

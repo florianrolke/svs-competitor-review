@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "doomscrolling",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 5,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's own sentences: \"Just one more, then I'll put it down.\"",
+    "mechanism": "Causes are separated from the surface: \"the app was the outlet rather than the pressure,\" plus four named mechanisms.",
+    "honesty": "It quotes the half of its own study that undercuts it: \"both groups improved, including the group with no cap.\"",
+    "ownership": "The fix is a sixty-second solo exercise (\"finish this sentence in a note or out loud\"), though a seminar is pitched after.",
+    "clarity": "The first screen is short sentences and a scannable list: \"Watching feels like preparing, refreshing feels like control.\"",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What is doomscrolling?",
+      "issue": "The definition section is one dense paragraph packing dictionary history, two measurement scales, and study links into a single block — heavy going for the tired phone reader the rest of the page serves well."
+    },
+    {
+      "h2": "What is worth doing tonight, before you change anything else?",
+      "issue": "A seminar advertisement ('our own Sacred Valley seminar works directly on this kind of material') is appended to the closing exercise, blurring the self-help prescription."
+    },
+    {
+      "h2": "Do screen-time limits actually work for doomscrolling?",
+      "issue": "The aside 'The paper is identified here by its authors, year and journal rather than by its title' is a self-referential attribution quirk that adds words without adding information."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "avoidant-attachment",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 4
+  },
+  "evidence": {
+    "recognition": "Five first-person lines the reader will recognize: \"Avoiding this problem is my way of staying in control.\"",
+    "mechanism": "Deactivation is explained as signal suppression, not absence of need: \"turning down the signal that asks somebody to come closer.\"",
+    "honesty": "Limits ride alongside every citation: \"every step from there to an adult... is an inference rather than a measurement.\"",
+    "ownership": "The practice is self-run (\"Run a pullback log for two weeks\"), though therapy is endorsed in FAQs and a seminar is pitched.",
+    "clarity": "The answer box is one long but plain sentence; the identify box is instantly scannable.",
+    "gap_vs_serp": "The ranking titles promise 'Treatment' (WebMD: 'Definition, Signs, Causes & Treatment'); the page explicitly declines any clinical treatment frame and offers only self-directed practice."
+  },
+  "findings": [
+    {
+      "h2": "What Is the Difference Between Dismissive and Fearful Avoidance?",
+      "issue": "The sentence 'Disorganized attachment is the one people actually search for, along with disorganized attachment, the same word in British spelling' repeats the identical spelling twice while claiming a spelling difference — confusing and apparently erroneous."
+    },
+    {
+      "h2": "What Is One Thing to Do Today, Before You Decide Anything About Anybody?",
+      "issue": "A seminar advertisement ('our Sacred Valley seminar is built around exactly this material') is appended to the closing exercise, blurring the self-help prescription."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

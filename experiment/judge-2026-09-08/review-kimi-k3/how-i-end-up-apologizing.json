@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "how-i-end-up-apologizing",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's exact residue: \"I apologized for my tone and the thing I was upset about never came up again.\"",
+    "mechanism": "The swap is explained structurally: \"a conversation can only hold one subject at a time, and yours got replaced early.\"",
+    "honesty": "It voids its own term's diagnostic use: \"The sequence cannot tell you who was right,\" and grades the scales as one group's own line of work.",
+    "ownership": "The work is a solo sentence-and-decision exercise (\"write the thing you originally went in to raise. Only that\"), though a seminar is pitched after.",
+    "clarity": "The answer box is plain (\"Sometimes that swap is deliberate. Far more often two people arrived with something to raise\"), scannable on a phone.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "What If You Conceded Because the Conflict Itself Was Unbearable?",
+      "issue": "The 'carried here without a name attached because it belongs to a broad line of work' attribution device is a self-referential quirk that adds a caveat about citation style rather than about the evidence."
+    },
+    {
+      "h2": "What Is Worth Doing Tomorrow, About the Thing That Never Got Discussed?",
+      "issue": "A seminar advertisement with a founder quote ('In Florian's words...') is appended to the closing exercise, undercutting the 'costs you nothing' frame."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

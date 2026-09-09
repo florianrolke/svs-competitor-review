@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "emotionally-unavailable",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 4
+  },
+  "evidence": {
+    "recognition": "The identify box runs the reader's own rules: \"Talking about it will only make me feel worse.\"",
+    "mechanism": "The cause is separated from the surface: \"a learned habit of keeping distance from feeling... so that closeness stays survivable.\"",
+    "honesty": "It bounds its own scale: \"That work is a preprint rather than a peer-reviewed paper, which is a limit on the limit.\"",
+    "ownership": "The work is a solo 48-hour log (\"write down every moment a conversation turned away from something real\"), though a seminar is pitched after.",
+    "clarity": "The answer box is plain (\"Availability works as a capacity rather than a fixed trait\"), scannable on a phone.",
+    "gap_vs_serp": "The titles promise a quick scored self-test ('Am I Emotionally Unavailable? Take This 20-Question Self-...'); the page explicitly refuses quizzes and offers only a two-day observational log."
+  },
+  "findings": [
+    {
+      "h2": "How Can I Tell If I Am the Emotionally Unavailable One?",
+      "issue": "The autobiographical aside ('five years... fifty thousand dollars... jungles of Vanuatu... jungles of Peru') sits inside a self-assessment section and reads as author self-promotion rather than evidence."
+    },
+    {
+      "h2": "What Is One Thing to Do Today, Before You Decide Anything About the Relationship?",
+      "issue": "A seminar advertisement ('our Sacred Valley seminar is built around exactly this kind of material') is appended to the closing exercise, blurring the self-help prescription."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

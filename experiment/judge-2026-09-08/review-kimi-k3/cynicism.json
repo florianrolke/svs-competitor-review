@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "cynicism",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 3
+  },
+  "evidence": {
+    "recognition": "The identify box is the reader's standing policy: \"I am not cynical. I am realistic.\"",
+    "mechanism": "The protection is named precisely: \"hope is treated as the exposure, because hope is what made the original disappointment possible.\"",
+    "honesty": "It bounds its own origin story: \"a description built from what people report... not a measured causal finding.\"",
+    "ownership": "The work is a solo seven-day log (\"Run a disconfirmation log for seven days\"), though a seminar is pitched after it.",
+    "clarity": "The answer box is plain (\"good news gets explained away and bad news counts as confirmation\"), scannable on a phone.",
+    "gap_vs_serp": "Most ranking titles promise the ancient philosophical school ('Cynicism (philosophy)', 'Cynics | Internet Encyclopedia of Philosophy', 'Ancient Cynicism'); the page covers only the psychological stance and never addresses the philosophical sense."
+  },
+  "findings": [
+    {
+      "h2": "Is This Cynicism, or One of Its Neighbors?",
+      "issue": "The autobiographical aside ('five years... fifty thousand dollars... jungles of Vanuatu... jungles of Peru') sits inside a differential-diagnosis section and reads as author self-promotion."
+    },
+    {
+      "h2": "What Is One Thing to Do Today, Before You Try to Trust Anybody More?",
+      "issue": "A seminar advertisement ('our Sacred Valley seminar is built around exactly this kind of material') is appended to the closing exercise, blurring the self-help prescription."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}

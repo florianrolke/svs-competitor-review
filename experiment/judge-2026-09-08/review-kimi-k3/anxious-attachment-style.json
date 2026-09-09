@@ -1,0 +1,34 @@
+{
+  "model": "kimi-k3",
+  "slug": "anxious-attachment-style",
+  "scores": {
+    "recognition": 5,
+    "mechanism": 5,
+    "honesty": 5,
+    "ownership": 4,
+    "clarity": 4,
+    "gap_vs_serp": 5
+  },
+  "evidence": {
+    "recognition": "The identify box runs the reader's own forecast: \"They didn't text back immediately; they must be losing interest.\"",
+    "mechanism": "Cause is separated from symptom: \"a child learned to watch the emotional weather and work at keeping warmth coming.\"",
+    "honesty": "It bounds its own instrument: \"the ordinary practice of summing or averaging the items can lead to mistaken inferences.\"",
+    "ownership": "The prescription is a solo seven-day log (\"Run a silence log for seven days\"), though a seminar is pitched after it.",
+    "clarity": "The answer box is plain and short (\"The reaching was accurate then\"), scannable on a phone.",
+    "gap_vs_serp": "none"
+  },
+  "findings": [
+    {
+      "h2": "How Long Does This Take, Honestly?",
+      "issue": "A long autobiographical aside ('five years... fifty thousand dollars... jungles of Vanuatu... jungles of Peru') sits inside a section about timelines and reads as author self-promotion rather than evidence."
+    },
+    {
+      "h2": "What Is One Thing to Do Today, Before You Change Anything Bigger?",
+      "issue": "A seminar advertisement ('our Sacred Valley seminar is built around exactly this material') is appended to the closing exercise, blurring the self-help prescription."
+    },
+    {
+      "h2": "(identify box, above first H2)",
+      "issue": "The identify box embeds a seminar marketing link inside the reader's self-recognition moment."
+    }
+  ]
+}
